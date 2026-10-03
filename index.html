@@ -10,8 +10,8 @@
       href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Shippori+Mincho:wght@500;700&display=swap"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="./assets/index-B_M4Zmyy.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CY9nKXDV.css">
+    <script type="module" crossorigin src="./assets/index-Dkh_VilU.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DJ-oHDAy.css">
   </head>
   <body>
     <canvas id="map"></canvas>
@@ -93,7 +93,7 @@
     </div>
 
     <div id="history" class="dialog wide" hidden>
-      <div class="dh"><h2 data-i18n="history.title">版図の推移</h2><button class="table-toggle" data-i18n="history.table">表</button><button class="close">✕</button></div>
+      <div class="dh"><h2 data-i18n="history.title">版図の推移</h2><button class="goods-open" data-i18n="goods.title">名産品</button><button class="table-toggle" data-i18n="history.table">表</button><button class="close">✕</button></div>
       <div class="chart-wrap"><canvas></canvas><div class="ctip" hidden></div></div>
       <div class="legend"></div>
       <div class="table"></div>
@@ -138,6 +138,23 @@
               <option value="antique" data-i18n="visual.antique">古地図風</option><option value="globe" data-i18n="visual.globe">近代地球儀風</option><option value="flat" data-i18n="visual.flat">現代地図風</option><option value="ink" data-i18n="visual.ink">水墨画</option></select></label>
             <label class="check"><input type="checkbox" name="fractal" /><span data-i18n="start.fractal">フラクタル</span></label>
           </div>
+          <div class="block geo">
+            <label class="check"><input type="checkbox" name="geoOn" /><span data-i18n="geo.on">実在の土地で遊ぶ</span></label>
+            <div class="geo-body">
+              <div class="row2">
+                <label class="grow"><span data-i18n="geo.where">場所</span><input name="geo" spellcheck="false" data-i18n-placeholder="geo.placeholder" /></label>
+                <label><span data-i18n="geo.span">範囲</span><select name="geoSpan">
+                  <option value="city" data-i18n="geo.span.city">都市 (60km)</option><option value="region" data-i18n="geo.span.region">地方 (250km)</option>
+                  <option value="country" data-i18n="geo.span.country">国 (1000km)</option><option value="continent" data-i18n="geo.span.continent">大陸 (4000km)</option></select></label>
+              </div>
+              <label><span data-i18n="geo.preset">例</span><select name="geoPreset"><option value="" data-i18n="geo.preset.pick">選ぶ…</option>
+                <option value="35.6812,139.7671|city" data-i18n="geo.p.tokyo">東京</option><option value="35.0116,135.7681|region" data-i18n="geo.p.kinki">京都と近畿</option>
+                <option value="36.5,137.8|country" data-i18n="geo.p.japan">日本列島</option><option value="54.2,-3.0|country" data-i18n="geo.p.britain">ブリテン島</option>
+                <option value="38.3,23.0|region" data-i18n="geo.p.greece">ギリシア</option><option value="41.9,12.5|country" data-i18n="geo.p.italy">イタリア半島</option>
+                <option value="38.0,17.0|continent" data-i18n="geo.p.med">地中海世界</option><option value="35.0,108.0|continent" data-i18n="geo.p.china">中国大陸</option></select></label>
+              <p class="dim" data-i18n="geo.help">座標 (例 35.68, 139.76) か、地図サービスで場所を開いたときのリンクを貼ってください。地形は公開の標高データ、町は OpenStreetMap から読み込みます (通信が必要です)。</p>
+            </div>
+          </div>
           <div class="row2">
             <label><span data-i18n="start.end">終わり方</span><select name="end">
               <option value="endless" data-i18n="end.endless">終わりなし</option><option value="unify" data-i18n="end.unify">全統一で終わる</option><option value="years" data-i18n="end.years">年数で終わる</option></select></label>
@@ -156,11 +173,13 @@
     <div id="story" class="dialog wide" hidden></div>
     <div id="compare" class="dialog wide" hidden></div>
     <div id="share" class="dialog" hidden></div>
+    <div id="goods" class="dialog wide" hidden></div>
 
     <div id="rotate"><div><span class="icon">📱</span><span data-i18n="ui.rotate">横向きにすると見やすくなります</span><br /><button data-i18n="ui.rotate_ok">このまま使う</button></div></div>
 
     <div id="caption" hidden></div>
     <div id="tip" hidden></div>
+    <div id="attrib" hidden></div>
     <div id="busy" hidden><span data-i18n="ui.generating">世界を創造しています…</span></div>
 
   </body>

@@ -94,3 +94,7 @@ IM Fell English and Shippori Mincho, loaded from Google Fonts, are licensed unde
 --- Illustrations
 
 The illustrations were generated with an AI image model (Google Gemini) for this game.
+
+--- Real land (optional)
+
+When a game is played on real land, the elevation comes from the Terrain Tiles open dataset (Mapzen and its sources, e.g. SRTM, GMTED, ETOPO1, with their attribution terms), and the towns from OpenStreetMap, (c) OpenStreetMap contributors, available under the Open Database License (ODbL). The data is fetched when the game starts and is not bundled.
