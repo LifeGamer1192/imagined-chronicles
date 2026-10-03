@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>架空年代記</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Shippori+Mincho:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <script type="module" crossorigin src="./assets/index-OOCWBiX9.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BusWZuCg.css">
+  </head>
+  <body>
+    <canvas id="map"></canvas>
+
+    <header id="bar">
+      <h1 data-i18n="app.title">架空年代記</h1>
+      <button id="newBtn" data-i18n="ui.new_world">新しい世界</button>
+      <span id="seedLabel" class="dim"></span>
+      <button id="branchBadge" hidden></button>
+      <span class="grow"></span>
+      <span id="modes" class="seg">
+        <button data-mode="political" class="on" data-i18n="ui.mode.political">政治</button>
+        <button data-mode="culture" data-i18n="ui.mode.culture">文化</button>
+        <button data-mode="religion" data-i18n="ui.mode.religion">宗教</button>
+          <button data-mode="trade" data-i18n="ui.mode.trade">交易</button>
+        <button data-mode="terrain" data-i18n="ui.mode.terrain">地形</button>
+      </span>
+      <select id="visualSel" data-i18n-title="start.visual"><option value="antique" data-i18n="visual.antique">古地図風</option><option value="globe" data-i18n="visual.globe">近代地球儀風</option><option value="flat" data-i18n="visual.flat">現代地図風</option><option value="ink" data-i18n="visual.ink">水墨画</option></select>
+      <button id="historyBtn" data-i18n="ui.history">歴史</button>
+      <button id="storyBtn" data-i18n="ui.story">物語</button>
+      <button id="modsBtn" data-i18n="ui.mods">MOD</button>
+      <button id="savesBtn" data-i18n="ui.saves">セーブ</button>
+      <button id="watchBtn" data-i18n="ui.watch">観賞</button>
+      <button id="lang" data-i18n="ui.lang">English</button>
+    </header>
+
+    <div id="tools" class="seg">
+      <button data-tool="plague" data-i18n-title="tool.plague.tip">☠</button>
+      <button data-tool="famine" data-i18n-title="tool.famine.tip">🌾</button>
+      <button data-tool="flood" data-i18n-title="tool.flood.tip">🌊</button>
+      <button data-tool="earthquake" data-i18n-title="tool.earthquake.tip">⛰</button>
+      <button data-tool="meteor" data-i18n-title="tool.meteor.tip">☄</button>
+      <button data-tool="revolt" data-i18n-title="tool.revolt.tip">⚑</button>
+      <button data-tool="paint" data-i18n-title="tool.paint.tip">🖌</button>
+      <button data-tool="spawn" data-i18n-title="tool.spawn.tip">✦</button>
+    </div>
+    <div id="hint" hidden></div>
+
+    <aside id="nation" hidden></aside>
+
+    <aside id="chronicle">
+      <div class="head">
+        <button class="toggle">☰</button>
+        <h2 data-i18n="ui.chronicle">年代記</h2>
+        <button class="nation-filter" hidden></button>
+        <button class="vert" data-i18n="ui.vertical" data-i18n-title="ui.vertical_title" hidden>縦</button>
+      </div>
+      <div class="tools">
+        <span class="imp seg">
+          <button data-imp="1" class="on" data-i18n="ui.filter.all">すべて</button>
+          <button data-imp="2" data-i18n="ui.filter.notable">注目以上</button>
+          <button data-imp="3" data-i18n="ui.filter.historic">歴史的</button>
+        </span>
+        <input class="search" data-i18n-placeholder="ui.search" placeholder="検索…" />
+      </div>
+      <div class="entries"></div>
+    </aside>
+
+    <aside id="wars" hidden>
+      <div class="head"><button class="toggle">☰</button><h2 data-i18n="ui.wars_title">戦争</h2></div>
+      <div class="list"></div>
+    </aside>
+
+    <footer id="timebar">
+      <span class="date"></span>
+      <span class="speeds seg"></span>
+      <span class="info"></span>
+    </footer>
+
+    <div id="saves" class="dialog" hidden>
+      <div class="dh"><h2 data-i18n="save.title">セーブとロード</h2><button class="close">✕</button></div>
+      <div class="slots"></div>
+      <div class="df">
+        <button class="export" data-i18n="save.export">ファイルに書き出す</button>
+        <button class="import" data-i18n="save.import">ファイルから読み込む</button>
+        <input type="file" accept=".histsim,.json" hidden />
+      </div>
+    </div>
+
+    <div id="history" class="dialog wide" hidden>
+      <div class="dh"><h2 data-i18n="history.title">版図の推移</h2><button class="table-toggle" data-i18n="history.table">表</button><button class="close">✕</button></div>
+      <div class="chart-wrap"><canvas></canvas><div class="ctip" hidden></div></div>
+      <div class="legend"></div>
+      <div class="table"></div>
+    </div>
+
+    <div id="mods" class="dialog" hidden>
+      <div class="dh"><h2 data-i18n="mods.title">MOD (追加イベント)</h2><button class="close">✕</button></div>
+      <div class="body"><p class="dim" data-i18n="mods.help">docs/EVENTS.md の形式の JSON 配列を読み込むと、イベントが追加されます。</p><ul class="list"></ul></div>
+      <div class="df"><button class="add" data-i18n="mods.add">JSON を読み込む</button><input type="file" accept=".json" multiple hidden /></div>
+    </div>
+
+    <div id="start" class="dialog" hidden>
+      <div class="dh"><h2 data-i18n="start.title">新しい世界</h2><button class="close" hidden>✕</button></div>
+      <div class="sb">
+        <div class="row2">
+          <label><span data-i18n="ui.seed">シード</span><input name="seed" maxlength="24" spellcheck="false" /></label>
+          <button class="reroll" data-i18n="ui.random">ランダム</button>
+        </div>
+        <div class="row2">
+          <label><span data-i18n="ui.size">大きさ</span><select name="size">
+            <option value="small" data-i18n="size.small">小</option><option value="medium" data-i18n="size.medium">中</option><option value="large" data-i18n="size.large">大</option></select></label>
+          <label><span data-i18n="ui.template">地形</span><select name="template">
+            <option value="continents" data-i18n="template.continents">大陸</option><option value="archipelago" data-i18n="template.archipelago">群島</option>
+            <option value="pangaea" data-i18n="template.pangaea">超大陸</option><option value="inland_sea" data-i18n="template.inland_sea">内海</option></select></label>
+        </div>
+        <label class="check"><input type="checkbox" name="random" /><span data-i18n="start.random_mode">すべてをシードに任せる</span></label>
+        <details>
+          <summary data-i18n="start.advanced">詳細設定</summary>
+          <div class="row2">
+            <label><span data-i18n="start.naming">名前の様式</span><select name="naming">
+              <option value="west" data-i18n="naming.west">西洋風</option><option value="east" data-i18n="naming.east">東洋風</option><option value="mixed" data-i18n="naming.mixed">混在</option></select></label>
+            <label><span data-i18n="start.nations">国の数</span><input name="nations" type="number" min="2" max="60" data-i18n-placeholder="start.auto" /></label>
+          </div>
+          <div class="row2">
+            <label class="check"><input type="checkbox" name="landAuto" /><span data-i18n="start.auto">自動</span></label>
+            <label><span data-i18n="start.land">陸地の割合</span><input name="land" type="range" min="10" max="70" step="1" /><span class="land-val"></span></label>
+          </div>
+          <label class="block"><span data-i18n="start.nation_names">国名</span><textarea name="names" rows="3"></textarea></label>
+          <div class="block"><span data-i18n="start.heroes">英傑</span><div class="heroes"></div><button class="add-hero" data-i18n="start.hero_add">英傑を追加</button></div>
+          <div class="row2">
+            <label><span data-i18n="start.visual">見た目</span><select name="visual">
+              <option value="antique" data-i18n="visual.antique">古地図風</option><option value="globe" data-i18n="visual.globe">近代地球儀風</option><option value="flat" data-i18n="visual.flat">現代地図風</option><option value="ink" data-i18n="visual.ink">水墨画</option></select></label>
+            <label class="check"><input type="checkbox" name="fractal" /><span data-i18n="start.fractal">フラクタル</span></label>
+          </div>
+          <div class="row2">
+            <label><span data-i18n="start.end">終わり方</span><select name="end">
+              <option value="endless" data-i18n="end.endless">終わりなし</option><option value="unify" data-i18n="end.unify">全統一で終わる</option><option value="years" data-i18n="end.years">年数で終わる</option></select></label>
+            <label class="end-years"><input name="endYears" type="number" min="50" max="5000" step="50" /><span data-i18n="start.end_years">年</span></label>
+          </div>
+        </details>
+        <p class="dim" data-i18n="start.same_seed">同じ設定とシードなら、同じ歴史になります。</p>
+        <p class="credits dim"><span data-i18n="credits.text">挿絵は AI (Google Gemini) で生成 · フォント IM Fell English, Shippori Mincho (SIL OFL)</span> · <a href="LICENSES.txt" target="_blank" rel="noopener" data-i18n="credits.licenses">ライセンス</a></p>
+      </div>
+      <div class="df"><button class="start primary" data-i18n="start.start">はじまり</button></div>
+    </div>
+
+    <div id="summary" class="dialog wide" hidden></div>
+    <div id="person" class="dialog" hidden></div>
+    <div id="family" class="dialog wide" hidden></div>
+    <div id="story" class="dialog wide" hidden></div>
+    <div id="compare" class="dialog wide" hidden></div>
+
+    <div id="rotate"><div><span class="icon">📱</span><span data-i18n="ui.rotate">横向きにすると見やすくなります</span><br /><button data-i18n="ui.rotate_ok">このまま使う</button></div></div>
+
+    <div id="caption" hidden></div>
+    <div id="tip" hidden></div>
+    <div id="busy" hidden><span data-i18n="ui.generating">世界を創造しています…</span></div>
+
+  </body>
+</html>
