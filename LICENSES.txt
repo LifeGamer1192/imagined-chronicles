@@ -102,3 +102,12 @@ When a game is played on real land, the elevation comes from the Terrain Tiles o
 --- Towns and rivers (bundled: data/towns.json, data/rivers.json)
 
 Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com. Natural Earth data is in the public domain.
+
+--- Visit statistics (privacy)
+
+The public site counts visits with Google Analytics 4 (Google LLC). When the page opens, it sends Google the page address, the referring site, the browser and device type, the screen size, the language and the approximate area (from the IP address), and Google sets a cookie to tell visits apart. Advertising features and Google signals are off, and the data is used only to see how many people play and from where. Nothing from the game itself (worlds, names, saves) is sent.
+To stop it: tick "Don't send visit statistics" on the new-world screen (remembered in this browser). A browser set to "Do Not Track" is not counted. Google's own opt-out add-on also works: https://tools.google.com/dlpage/gaoptout
+Google's privacy policy: https://policies.google.com/privacy
+
+（日本語）公開サイトでは Google アナリティクス 4 で訪問数を数えています。ページを開くと、ページのアドレス・参照元・ブラウザと端末の種類・画面の大きさ・言語・おおよその地域 (IP アドレスから) が Google に送られ、訪問を見分けるための Cookie が置かれます。広告向けの機能と Google シグナルはオフで、遊んでいる人の数と地域を知るためだけに使います。ゲームの中身 (世界・名前・セーブ) は送りません。
+止めるには、「新しい世界」の画面で「アクセス解析を送らない」にチェックしてください (このブラウザに記憶されます)。ブラウザの「トラッキング拒否」がオンなら数えません。Google のオプトアウト アドオンも使えます。
