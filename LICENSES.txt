@@ -99,6 +99,6 @@ The illustrations were generated with an AI image model (Google Gemini) for this
 
 When a game is played on real land, the elevation comes from the Terrain Tiles open dataset (Mapzen and its sources, e.g. SRTM, GMTED, ETOPO1, with their attribution terms), and the towns of cities and regions from OpenStreetMap, (c) OpenStreetMap contributors, available under the Open Database License (ODbL); these are fetched when the game starts and are not bundled.
 
---- Towns (bundled: data/towns.json)
+--- Towns and rivers (bundled: data/towns.json, data/rivers.json)
 
 Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com. Natural Earth data is in the public domain.
