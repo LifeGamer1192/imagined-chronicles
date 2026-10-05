@@ -1,0 +1,3902 @@
+{
+ "id": "sengoku",
+ "name": {
+  "ja": "日本の戦国",
+  "en": "Sengoku Japan"
+ },
+ "startYear": 1560,
+ "endYear": 1615,
+ "box": {
+  "lat": 36.2,
+  "lng": 136,
+  "km": 1900
+ },
+ "style": "east",
+ "pool": "jp",
+ "visual": "ink",
+ "provinceCells": 14,
+ "newRealm": {
+  "ja": "{name}家",
+  "en": "the {name} clan",
+  "rank": null
+ },
+ "cultures": [
+  {
+   "id": "kinai",
+   "name": {
+    "ja": "畿内・東海",
+    "en": "Kinai and Tōkai"
+   },
+   "color": "#c9a46a",
+   "religion": 0
+  },
+  {
+   "id": "kanto",
+   "name": {
+    "ja": "東国",
+    "en": "the East"
+   },
+   "color": "#6f8f5f",
+   "religion": 0
+  },
+  {
+   "id": "ou",
+   "name": {
+    "ja": "奥羽",
+    "en": "Ōu"
+   },
+   "color": "#5f7f9f",
+   "religion": 0
+  },
+  {
+   "id": "saigoku",
+   "name": {
+    "ja": "西国",
+    "en": "the West"
+   },
+   "color": "#a06a5a",
+   "religion": 0
+  },
+  {
+   "id": "kyushu",
+   "name": {
+    "ja": "九州",
+    "en": "Kyūshū"
+   },
+   "color": "#8a6aa8",
+   "religion": 0
+  }
+ ],
+ "religions": [
+  {
+   "name": {
+    "ja": "仏教",
+    "en": "Buddhism"
+   },
+   "doctrine": "pantheon",
+   "place": "kyoto",
+   "full": true
+  },
+  {
+   "name": {
+    "ja": "キリスト教",
+    "en": "Christianity"
+   },
+   "doctrine": "monotheism",
+   "place": "nagasaki",
+   "full": true
+  }
+ ],
+ "places": [
+  [
+   "kagoshima",
+   "鹿児島",
+   "Kagoshima",
+   31.6,
+   130.56,
+   3
+  ],
+  [
+   "obi",
+   "飫肥",
+   "Obi",
+   31.63,
+   131.35,
+   1
+  ],
+  [
+   "tonokori",
+   "都於郡",
+   "Tonokōri",
+   32.1,
+   131.38,
+   2
+  ],
+  [
+   "hitoyoshi",
+   "人吉",
+   "Hitoyoshi",
+   32.21,
+   130.76,
+   1
+  ],
+  [
+   "kumamoto",
+   "隈本",
+   "Kumamoto",
+   32.8,
+   130.71,
+   2
+  ],
+  [
+   "yatsushiro",
+   "八代",
+   "Yatsushiro",
+   32.5,
+   130.6,
+   1
+  ],
+  [
+   "funai",
+   "府内",
+   "Funai",
+   33.24,
+   131.61,
+   3
+  ],
+  [
+   "usuki",
+   "臼杵",
+   "Usuki",
+   33.13,
+   131.8,
+   1
+  ],
+  [
+   "saga",
+   "佐賀",
+   "Saga",
+   33.25,
+   130.3,
+   2
+  ],
+  [
+   "hakata",
+   "博多",
+   "Hakata",
+   33.59,
+   130.4,
+   3
+  ],
+  [
+   "akizuki",
+   "秋月",
+   "Akizuki",
+   33.47,
+   130.69,
+   1
+  ],
+  [
+   "hinoe",
+   "日野江",
+   "Hinoe",
+   32.65,
+   130.27,
+   1
+  ],
+  [
+   "omura",
+   "大村",
+   "Ōmura",
+   32.9,
+   129.96,
+   1
+  ],
+  [
+   "nagasaki",
+   "長崎",
+   "Nagasaki",
+   32.75,
+   129.87,
+   2
+  ],
+  [
+   "hirado",
+   "平戸",
+   "Hirado",
+   33.37,
+   129.55,
+   1
+  ],
+  [
+   "yanagawa",
+   "柳河",
+   "Yanagawa",
+   33.16,
+   130.4,
+   1
+  ],
+  [
+   "kokura",
+   "小倉",
+   "Kokura",
+   33.88,
+   130.88,
+   1
+  ],
+  [
+   "nakatsu",
+   "中津",
+   "Nakatsu",
+   33.6,
+   131.19,
+   1
+  ],
+  [
+   "aso",
+   "阿蘇",
+   "Aso",
+   32.95,
+   131.05,
+   1
+  ],
+  [
+   "nobeoka",
+   "県",
+   "Agata",
+   32.58,
+   131.66,
+   1
+  ],
+  [
+   "oko",
+   "岡豊",
+   "Okō",
+   33.6,
+   133.63,
+   2
+  ],
+  [
+   "nakamura",
+   "中村",
+   "Nakamura",
+   32.99,
+   132.93,
+   1
+  ],
+  [
+   "yuzuki",
+   "湯築",
+   "Yuzuki",
+   33.85,
+   132.79,
+   2
+  ],
+  [
+   "uwajima",
+   "宇和",
+   "Uwa",
+   33.22,
+   132.56,
+   1
+  ],
+  [
+   "shozui",
+   "勝瑞",
+   "Shōzui",
+   34.12,
+   134.48,
+   2
+  ],
+  [
+   "takamatsu",
+   "十河",
+   "Sogō",
+   34.29,
+   134.1,
+   1
+  ],
+  [
+   "yamaguchi",
+   "山口",
+   "Yamaguchi",
+   34.18,
+   131.47,
+   2
+  ],
+  [
+   "yoshida",
+   "吉田郡山",
+   "Yoshida-Kōriyama",
+   34.67,
+   132.71,
+   2
+  ],
+  [
+   "hiroshima",
+   "広島",
+   "Hiroshima",
+   34.4,
+   132.46,
+   1
+  ],
+  [
+   "toda",
+   "月山富田",
+   "Gassan-Toda",
+   35.36,
+   133.18,
+   2
+  ],
+  [
+   "matsue",
+   "松江",
+   "Matsue",
+   35.47,
+   133.05,
+   1
+  ],
+  [
+   "tottori",
+   "鳥取",
+   "Tottori",
+   35.5,
+   134.23,
+   1
+  ],
+  [
+   "tenjinyama",
+   "天神山",
+   "Tenjinyama",
+   34.85,
+   134.17,
+   1
+  ],
+  [
+   "okayama",
+   "岡山",
+   "Okayama",
+   34.66,
+   133.93,
+   2
+  ],
+  [
+   "tsuyama",
+   "津山",
+   "Tsuyama",
+   35.07,
+   134,
+   1
+  ],
+  [
+   "himeji",
+   "姫路",
+   "Himeji",
+   34.84,
+   134.69,
+   2
+  ],
+  [
+   "miki",
+   "三木",
+   "Miki",
+   34.8,
+   134.99,
+   1
+  ],
+  [
+   "izushi",
+   "此隅山",
+   "Konosumiyama",
+   35.5,
+   134.8,
+   1
+  ],
+  [
+   "iwami",
+   "石見銀山",
+   "Iwami Ginzan",
+   35.11,
+   132.44,
+   1
+  ],
+  [
+   "bitchu",
+   "備中松山",
+   "Bitchū-Matsuyama",
+   34.81,
+   133.62,
+   1
+  ],
+  [
+   "shimonoseki",
+   "赤間関",
+   "Akamagaseki",
+   33.96,
+   130.94,
+   1
+  ],
+  [
+   "kyoto",
+   "京",
+   "Kyoto",
+   35.01,
+   135.76,
+   3
+  ],
+  [
+   "ishiyama",
+   "石山",
+   "Ishiyama",
+   34.68,
+   135.52,
+   3
+  ],
+  [
+   "sakai",
+   "堺",
+   "Sakai",
+   34.57,
+   135.48,
+   2
+  ],
+  [
+   "nara",
+   "奈良",
+   "Nara",
+   34.68,
+   135.83,
+   2
+  ],
+  [
+   "tsutsui",
+   "筒井",
+   "Tsutsui",
+   34.6,
+   135.76,
+   1
+  ],
+  [
+   "akutagawa",
+   "芥川山",
+   "Akutagawa",
+   34.86,
+   135.6,
+   2
+  ],
+  [
+   "takaya",
+   "高屋",
+   "Takaya",
+   34.53,
+   135.6,
+   1
+  ],
+  [
+   "saika",
+   "雑賀",
+   "Saika",
+   34.23,
+   135.17,
+   2
+  ],
+  [
+   "kannonji",
+   "観音寺",
+   "Kannonji",
+   35.14,
+   136.15,
+   2
+  ],
+  [
+   "odani",
+   "小谷",
+   "Odani",
+   35.46,
+   136.28,
+   2
+  ],
+  [
+   "sakamoto",
+   "坂本",
+   "Sakamoto",
+   35.07,
+   135.87,
+   1
+  ],
+  [
+   "ueno",
+   "伊賀",
+   "Iga",
+   34.77,
+   136.13,
+   1
+  ],
+  [
+   "tage",
+   "多気",
+   "Tage",
+   34.53,
+   136.21,
+   1
+  ],
+  [
+   "anotsu",
+   "安濃津",
+   "Anotsu",
+   34.72,
+   136.51,
+   1
+  ],
+  [
+   "nagashima",
+   "長島",
+   "Nagashima",
+   35.08,
+   136.7,
+   1
+  ],
+  [
+   "obama",
+   "後瀬山",
+   "Nochiseyama",
+   35.5,
+   135.75,
+   1
+  ],
+  [
+   "tango",
+   "建部山",
+   "Takebeyama",
+   35.47,
+   135.33,
+   1
+  ],
+  [
+   "yakami",
+   "八上",
+   "Yakami",
+   35.07,
+   135.24,
+   1
+  ],
+  [
+   "itami",
+   "伊丹",
+   "Itami",
+   34.78,
+   135.4,
+   1
+  ],
+  [
+   "shingu",
+   "新宮",
+   "Shingū",
+   33.72,
+   135.99,
+   1
+  ],
+  [
+   "kiyosu",
+   "清洲",
+   "Kiyosu",
+   35.22,
+   136.84,
+   2
+  ],
+  [
+   "inabayama",
+   "稲葉山",
+   "Inabayama",
+   35.43,
+   136.78,
+   2
+  ],
+  [
+   "ogaki",
+   "大垣",
+   "Ōgaki",
+   35.36,
+   136.62,
+   1
+  ],
+  [
+   "okazaki",
+   "岡崎",
+   "Okazaki",
+   34.95,
+   137.16,
+   2
+  ],
+  [
+   "yoshida_m",
+   "吉田",
+   "Yoshida",
+   34.77,
+   137.39,
+   1
+  ],
+  [
+   "hikuma",
+   "引間",
+   "Hikuma",
+   34.71,
+   137.73,
+   1
+  ],
+  [
+   "kakegawa",
+   "掛川",
+   "Kakegawa",
+   34.77,
+   138.01,
+   1
+  ],
+  [
+   "sunpu",
+   "駿府",
+   "Sunpu",
+   34.98,
+   138.38,
+   3
+  ],
+  [
+   "kofu",
+   "甲府",
+   "Kōfu",
+   35.68,
+   138.57,
+   2
+  ],
+  [
+   "fukashi",
+   "深志",
+   "Fukashi",
+   36.24,
+   137.97,
+   1
+  ],
+  [
+   "ueda",
+   "上田",
+   "Ueda",
+   36.4,
+   138.25,
+   1
+  ],
+  [
+   "kaizu",
+   "海津",
+   "Kaizu",
+   36.57,
+   138.19,
+   1
+  ],
+  [
+   "takato",
+   "高遠",
+   "Takatō",
+   35.83,
+   138.06,
+   1
+  ],
+  [
+   "iida",
+   "飯田",
+   "Iida",
+   35.51,
+   137.82,
+   1
+  ],
+  [
+   "takayama",
+   "桜洞",
+   "Sakurabora",
+   36.14,
+   137.25,
+   1
+  ],
+  [
+   "kasugayama",
+   "春日山",
+   "Kasugayama",
+   37.15,
+   138.21,
+   2
+  ],
+  [
+   "sakado",
+   "坂戸",
+   "Sakado",
+   37.07,
+   138.86,
+   1
+  ],
+  [
+   "shibata",
+   "新発田",
+   "Shibata",
+   37.95,
+   139.33,
+   1
+  ],
+  [
+   "toyama",
+   "富山",
+   "Toyama",
+   36.7,
+   137.21,
+   1
+  ],
+  [
+   "nanao",
+   "七尾",
+   "Nanao",
+   37.03,
+   136.96,
+   1
+  ],
+  [
+   "oyama",
+   "尾山",
+   "Oyama",
+   36.56,
+   136.66,
+   2
+  ],
+  [
+   "ichijodani",
+   "一乗谷",
+   "Ichijōdani",
+   35.98,
+   136.29,
+   2
+  ],
+  [
+   "tsuruga",
+   "敦賀",
+   "Tsuruga",
+   35.65,
+   136.06,
+   1
+  ],
+  [
+   "odawara",
+   "小田原",
+   "Odawara",
+   35.25,
+   139.15,
+   3
+  ],
+  [
+   "kamakura",
+   "鎌倉",
+   "Kamakura",
+   35.32,
+   139.55,
+   1
+  ],
+  [
+   "edo",
+   "江戸",
+   "Edo",
+   35.69,
+   139.75,
+   2
+  ],
+  [
+   "kawagoe",
+   "河越",
+   "Kawagoe",
+   35.92,
+   139.48,
+   1
+  ],
+  [
+   "hachigata",
+   "鉢形",
+   "Hachigata",
+   36.11,
+   139.19,
+   1
+  ],
+  [
+   "kururi",
+   "久留里",
+   "Kururi",
+   35.29,
+   140.07,
+   1
+  ],
+  [
+   "sakura",
+   "本佐倉",
+   "Moto-Sakura",
+   35.72,
+   140.22,
+   1
+  ],
+  [
+   "minowa",
+   "箕輪",
+   "Minowa",
+   36.4,
+   138.95,
+   1
+  ],
+  [
+   "kanayama",
+   "金山",
+   "Kanayama",
+   36.3,
+   139.38,
+   1
+  ],
+  [
+   "utsunomiya",
+   "宇都宮",
+   "Utsunomiya",
+   36.56,
+   139.88,
+   1
+  ],
+  [
+   "yuki",
+   "結城",
+   "Yūki",
+   36.31,
+   139.88,
+   1
+  ],
+  [
+   "oda_h",
+   "小田",
+   "Oda",
+   36.15,
+   140.1,
+   1
+  ],
+  [
+   "ota",
+   "太田",
+   "Ōta",
+   36.54,
+   140.53,
+   1
+  ],
+  [
+   "nirayama",
+   "韮山",
+   "Nirayama",
+   35.05,
+   138.95,
+   1
+  ],
+  [
+   "numata",
+   "沼田",
+   "Numata",
+   36.64,
+   139.04,
+   1
+  ],
+  [
+   "kurokawa",
+   "黒川",
+   "Kurokawa",
+   37.49,
+   139.93,
+   2
+  ],
+  [
+   "yonezawa",
+   "米沢",
+   "Yonezawa",
+   37.91,
+   140.12,
+   2
+  ],
+  [
+   "yamagata",
+   "山形",
+   "Yamagata",
+   38.25,
+   140.33,
+   2
+  ],
+  [
+   "sendai",
+   "千代",
+   "Sendai",
+   38.25,
+   140.85,
+   1
+  ],
+  [
+   "osaki",
+   "名生",
+   "Myō",
+   38.58,
+   140.95,
+   1
+  ],
+  [
+   "teraike",
+   "寺池",
+   "Teraike",
+   38.69,
+   141.27,
+   1
+  ],
+  [
+   "nihonmatsu",
+   "二本松",
+   "Nihonmatsu",
+   37.59,
+   140.43,
+   1
+  ],
+  [
+   "miharu",
+   "三春",
+   "Miharu",
+   37.44,
+   140.49,
+   1
+  ],
+  [
+   "odaka",
+   "小高",
+   "Odaka",
+   37.56,
+   140.99,
+   1
+  ],
+  [
+   "iwaki",
+   "岩城",
+   "Iwaki",
+   37.06,
+   140.88,
+   1
+  ],
+  [
+   "shirakawa",
+   "白河",
+   "Shirakawa",
+   37.12,
+   140.21,
+   1
+  ],
+  [
+   "sannohe",
+   "三戸",
+   "Sannohe",
+   40.38,
+   141.26,
+   2
+  ],
+  [
+   "kozukata",
+   "不来方",
+   "Kozukata",
+   39.7,
+   141.15,
+   1
+  ],
+  [
+   "hiyama",
+   "檜山",
+   "Hiyama",
+   40.1,
+   140.05,
+   1
+  ],
+  [
+   "ourajo",
+   "大浦",
+   "Ōura",
+   40.6,
+   140.4,
+   1
+  ],
+  [
+   "yokote",
+   "横手",
+   "Yokote",
+   39.31,
+   140.55,
+   1
+  ],
+  [
+   "oura_s",
+   "尾浦",
+   "Oura",
+   38.72,
+   139.83,
+   1
+  ],
+  [
+   "kunohe",
+   "九戸",
+   "Kunohe",
+   40.25,
+   141.3,
+   1
+  ]
+ ],
+ "realms": [
+  {
+   "id": "oda",
+   "label": {
+    "ja": "織田家",
+    "en": "the Oda clan"
+   },
+   "root": {
+    "ja": "織田",
+    "en": "Oda"
+   },
+   "gov": "monarchy",
+   "color": "#c9302c",
+   "culture": "kinai",
+   "capital": "kiyosu",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "織田",
+    "en": "Oda"
+   },
+   "line": [
+    [
+     "織田信長",
+     "Oda Nobunaga",
+     1551,
+     1582,
+     {
+      "ab": [
+       9,
+       9,
+       7,
+       9
+      ],
+      "tr": [
+       "ambitious",
+       "genius",
+       "reformer"
+      ],
+      "born": 1534
+     }
+    ],
+    [
+     "羽柴秀吉",
+     "Hashiba Hideyoshi",
+     1582,
+     1598,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "豊臣",
+       "en": "Toyotomi"
+      },
+      "ab": [
+       9,
+       8,
+       10,
+       10
+      ],
+      "tr": [
+       "ambitious",
+       "charismatic",
+       "unifier"
+      ],
+      "born": 1537
+     }
+    ],
+    [
+     "豊臣秀頼",
+     "Toyotomi Hideyori",
+     1598,
+     1615,
+     {
+      "ab": [
+       4,
+       3,
+       4,
+       7
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 1593
+     }
+    ]
+   ],
+   "power": 1.2
+  },
+  {
+   "id": "tokugawa",
+   "label": {
+    "ja": "松平家",
+    "en": "the Matsudaira clan"
+   },
+   "root": {
+    "ja": "松平",
+    "en": "Matsudaira"
+   },
+   "gov": "monarchy",
+   "color": "#2f5f9f",
+   "culture": "kinai",
+   "capital": "okazaki",
+   "places": [],
+   "reach": 50,
+   "house": {
+    "ja": "松平",
+    "en": "Matsudaira"
+   },
+   "line": [
+    [
+     "徳川家康",
+     "Tokugawa Ieyasu",
+     1549,
+     1616,
+     {
+      "ab": [
+       9,
+       8,
+       8,
+       8
+      ],
+      "tr": [
+       "wise",
+       "unifier"
+      ],
+      "born": 1543
+     }
+    ]
+   ]
+  },
+  {
+   "id": "imagawa",
+   "label": {
+    "ja": "今川家",
+    "en": "the Imagawa clan"
+   },
+   "root": {
+    "ja": "今川",
+    "en": "Imagawa"
+   },
+   "gov": "monarchy",
+   "color": "#8a5fa0",
+   "culture": "kinai",
+   "capital": "sunpu",
+   "places": [
+    "kakegawa",
+    "hikuma",
+    "yoshida_m"
+   ],
+   "reach": 90,
+   "house": {
+    "ja": "今川",
+    "en": "Imagawa"
+   },
+   "line": [
+    [
+     "今川義元",
+     "Imagawa Yoshimoto",
+     1536,
+     1560,
+     {
+      "ab": [
+       8,
+       6,
+       7,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 1519
+     }
+    ],
+    [
+     "今川氏真",
+     "Imagawa Ujizane",
+     1560,
+     1569,
+     {
+      "ab": [
+       4,
+       2,
+       4,
+       5
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 1538
+     }
+    ]
+   ],
+   "power": 1.4
+  },
+  {
+   "id": "takeda",
+   "label": {
+    "ja": "武田家",
+    "en": "the Takeda clan"
+   },
+   "root": {
+    "ja": "武田",
+    "en": "Takeda"
+   },
+   "gov": "monarchy",
+   "color": "#a8322d",
+   "culture": "kanto",
+   "capital": "kofu",
+   "places": [
+    "fukashi",
+    "takato",
+    "iida",
+    "ueda"
+   ],
+   "reach": 110,
+   "house": {
+    "ja": "武田",
+    "en": "Takeda"
+   },
+   "line": [
+    [
+     "武田信玄",
+     "Takeda Shingen",
+     1541,
+     1573,
+     {
+      "ab": [
+       9,
+       10,
+       8,
+       9
+      ],
+      "tr": [
+       "ambitious",
+       "genius",
+       "warrior"
+      ],
+      "born": 1521
+     }
+    ],
+    [
+     "武田勝頼",
+     "Takeda Katsuyori",
+     1573,
+     1582,
+     {
+      "ab": [
+       5,
+       8,
+       4,
+       6
+      ],
+      "tr": [
+       "brave",
+       "ambitious"
+      ],
+      "born": 1546
+     }
+    ]
+   ],
+   "power": 1.3
+  },
+  {
+   "id": "uesugi",
+   "label": {
+    "ja": "長尾家",
+    "en": "the Nagao clan"
+   },
+   "root": {
+    "ja": "長尾",
+    "en": "Nagao"
+   },
+   "gov": "monarchy",
+   "color": "#e0b84a",
+   "culture": "kanto",
+   "capital": "kasugayama",
+   "places": [
+    "sakado",
+    "shibata"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "長尾",
+    "en": "Nagao"
+   },
+   "line": [
+    [
+     "上杉謙信",
+     "Uesugi Kenshin",
+     1548,
+     1578,
+     {
+      "ab": [
+       6,
+       10,
+       6,
+       9
+      ],
+      "tr": [
+       "brave",
+       "pious",
+       "warrior"
+      ],
+      "born": 1530
+     }
+    ],
+    [
+     "上杉景勝",
+     "Uesugi Kagekatsu",
+     1578,
+     1623,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       7,
+       5,
+       6
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 1556
+     }
+    ]
+   ],
+   "power": 1.2
+  },
+  {
+   "id": "hojo",
+   "label": {
+    "ja": "北条家",
+    "en": "the Hōjō clan"
+   },
+   "root": {
+    "ja": "北条",
+    "en": "Hōjō"
+   },
+   "gov": "monarchy",
+   "color": "#3f7f4f",
+   "culture": "kanto",
+   "capital": "odawara",
+   "places": [
+    "kamakura",
+    "edo",
+    "kawagoe",
+    "hachigata",
+    "nirayama"
+   ],
+   "reach": 110,
+   "house": {
+    "ja": "北条",
+    "en": "Hōjō"
+   },
+   "line": [
+    [
+     "北条氏康",
+     "Hōjō Ujiyasu",
+     1541,
+     1571,
+     {
+      "ab": [
+       9,
+       8,
+       7,
+       8
+      ],
+      "tr": [
+       "wise",
+       "builder"
+      ],
+      "born": 1515
+     }
+    ],
+    [
+     "北条氏政",
+     "Hōjō Ujimasa",
+     1571,
+     1580,
+     {
+      "ab": [
+       6,
+       6,
+       5,
+       5
+      ],
+      "born": 1538
+     }
+    ],
+    [
+     "北条氏直",
+     "Hōjō Ujinao",
+     1580,
+     1590,
+     {
+      "ab": [
+       5,
+       5,
+       5,
+       5
+      ],
+      "born": 1562
+     }
+    ]
+   ],
+   "power": 1.4
+  },
+  {
+   "id": "saito",
+   "label": {
+    "ja": "斎藤家",
+    "en": "the Saitō clan"
+   },
+   "root": {
+    "ja": "斎藤",
+    "en": "Saitō"
+   },
+   "gov": "monarchy",
+   "color": "#6f6f3a",
+   "culture": "kinai",
+   "capital": "inabayama",
+   "places": [
+    "ogaki"
+   ],
+   "reach": 70,
+   "house": {
+    "ja": "斎藤",
+    "en": "Saitō"
+   },
+   "line": [
+    [
+     "斎藤義龍",
+     "Saitō Yoshitatsu",
+     1556,
+     1561,
+     {
+      "ab": [
+       6,
+       6,
+       5,
+       5
+      ],
+      "born": 1527
+     }
+    ],
+    [
+     "斎藤龍興",
+     "Saitō Tatsuoki",
+     1561,
+     1567,
+     {
+      "ab": [
+       3,
+       3,
+       3,
+       3
+      ],
+      "tr": [
+       "drunkard",
+       "foolish"
+      ],
+      "born": 1548
+     }
+    ]
+   ]
+  },
+  {
+   "id": "azai",
+   "label": {
+    "ja": "浅井家",
+    "en": "the Azai clan"
+   },
+   "root": {
+    "ja": "浅井",
+    "en": "Azai"
+   },
+   "gov": "monarchy",
+   "color": "#4f6fa0",
+   "culture": "kinai",
+   "capital": "odani",
+   "places": [],
+   "reach": 55,
+   "house": {
+    "ja": "浅井",
+    "en": "Azai"
+   },
+   "line": [
+    [
+     "浅井長政",
+     "Azai Nagamasa",
+     1560,
+     1573,
+     {
+      "ab": [
+       5,
+       7,
+       5,
+       7
+      ],
+      "tr": [
+       "brave",
+       "just"
+      ],
+      "born": 1545
+     }
+    ]
+   ]
+  },
+  {
+   "id": "asakura",
+   "label": {
+    "ja": "朝倉家",
+    "en": "the Asakura clan"
+   },
+   "root": {
+    "ja": "朝倉",
+    "en": "Asakura"
+   },
+   "gov": "monarchy",
+   "color": "#7f9f3f",
+   "culture": "kinai",
+   "capital": "ichijodani",
+   "places": [
+    "tsuruga"
+   ],
+   "reach": 90,
+   "house": {
+    "ja": "朝倉",
+    "en": "Asakura"
+   },
+   "line": [
+    [
+     "朝倉義景",
+     "Asakura Yoshikage",
+     1548,
+     1573,
+     {
+      "ab": [
+       5,
+       4,
+       5,
+       5
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 1533
+     }
+    ]
+   ],
+   "power": 1.2
+  },
+  {
+   "id": "rokkaku",
+   "label": {
+    "ja": "六角家",
+    "en": "the Rokkaku clan"
+   },
+   "root": {
+    "ja": "六角",
+    "en": "Rokkaku"
+   },
+   "gov": "monarchy",
+   "color": "#9f6f3f",
+   "culture": "kinai",
+   "capital": "kannonji",
+   "places": [],
+   "reach": 55,
+   "house": {
+    "ja": "六角",
+    "en": "Rokkaku"
+   },
+   "line": [
+    [
+     "六角義賢",
+     "Rokkaku Yoshikata",
+     1552,
+     1568,
+     {
+      "ab": [
+       6,
+       6,
+       5,
+       5
+      ],
+      "born": 1521
+     }
+    ]
+   ]
+  },
+  {
+   "id": "miyoshi",
+   "label": {
+    "ja": "三好家",
+    "en": "the Miyoshi clan"
+   },
+   "root": {
+    "ja": "三好",
+    "en": "Miyoshi"
+   },
+   "gov": "monarchy",
+   "color": "#4f9f9f",
+   "culture": "kinai",
+   "capital": "akutagawa",
+   "places": [
+    "sakai",
+    "nara",
+    "shozui",
+    "takamatsu",
+    "itami"
+   ],
+   "reach": 80,
+   "house": {
+    "ja": "三好",
+    "en": "Miyoshi"
+   },
+   "line": [
+    [
+     "三好長慶",
+     "Miyoshi Nagayoshi",
+     1549,
+     1564,
+     {
+      "ab": [
+       8,
+       7,
+       7,
+       7
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 1522
+     }
+    ],
+    [
+     "三好義継",
+     "Miyoshi Yoshitsugu",
+     1564,
+     1573,
+     {
+      "rel": "other",
+      "ab": [
+       4,
+       4,
+       4,
+       4
+      ],
+      "born": 1549
+     }
+    ]
+   ],
+   "power": 1.4
+  },
+  {
+   "id": "ashikaga",
+   "label": {
+    "ja": "足利将軍家",
+    "en": "the Ashikaga shogunate"
+   },
+   "root": {
+    "ja": "足利",
+    "en": "Ashikaga"
+   },
+   "gov": "monarchy",
+   "color": "#b08a3a",
+   "culture": "kinai",
+   "capital": "kyoto",
+   "places": [],
+   "reach": 25,
+   "house": {
+    "ja": "足利",
+    "en": "Ashikaga"
+   },
+   "line": [
+    [
+     "足利義輝",
+     "Ashikaga Yoshiteru",
+     1546,
+     1565,
+     {
+      "ab": [
+       4,
+       7,
+       5,
+       7
+      ],
+      "tr": [
+       "brave"
+      ],
+      "born": 1536
+     }
+    ],
+    [
+     "足利義栄",
+     "Ashikaga Yoshihide",
+     1565,
+     1568,
+     {
+      "rel": "other",
+      "born": 1538
+     }
+    ],
+    [
+     "足利義昭",
+     "Ashikaga Yoshiaki",
+     1568,
+     1573,
+     {
+      "rel": "other",
+      "ab": [
+       4,
+       3,
+       7,
+       4
+      ],
+      "tr": [
+       "ambitious",
+       "paranoid"
+      ],
+      "born": 1537
+     }
+    ]
+   ],
+   "power": 1.6
+  },
+  {
+   "id": "ishiyama",
+   "label": {
+    "ja": "石山の門徒衆",
+    "en": "the Ishiyama believers"
+   },
+   "root": {
+    "ja": "大谷",
+    "en": "Ōtani"
+   },
+   "gov": "theocracy",
+   "color": "#8a6a9a",
+   "culture": "kinai",
+   "capital": "ishiyama",
+   "places": [],
+   "reach": 25,
+   "house": {
+    "ja": "大谷",
+    "en": "Ōtani"
+   },
+   "line": [
+    [
+     "顕如",
+     "Kennyo",
+     1554,
+     1592,
+     {
+      "ab": [
+       6,
+       5,
+       8,
+       9
+      ],
+      "tr": [
+       "pious",
+       "charismatic"
+      ],
+      "born": 1543
+     }
+    ]
+   ],
+   "power": 1.6
+  },
+  {
+   "id": "kaga",
+   "label": {
+    "ja": "加賀の門徒衆",
+    "en": "the Kaga believers"
+   },
+   "root": {
+    "ja": "下間",
+    "en": "Shimotsuma"
+   },
+   "gov": "theocracy",
+   "color": "#9a7aaa",
+   "culture": "kinai",
+   "capital": "oyama",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "下間",
+    "en": "Shimotsuma"
+   }
+  },
+  {
+   "id": "nagashima",
+   "label": {
+    "ja": "長島の門徒衆",
+    "en": "the Nagashima believers"
+   },
+   "root": {
+    "ja": "願証",
+    "en": "Ganshō"
+   },
+   "gov": "theocracy",
+   "color": "#7a5a8a",
+   "culture": "kinai",
+   "capital": "nagashima",
+   "places": [],
+   "reach": 20,
+   "house": {
+    "ja": "願証",
+    "en": "Ganshō"
+   }
+  },
+  {
+   "id": "mori",
+   "label": {
+    "ja": "毛利家",
+    "en": "the Mōri clan"
+   },
+   "root": {
+    "ja": "毛利",
+    "en": "Mōri"
+   },
+   "gov": "monarchy",
+   "color": "#5f3f8f",
+   "culture": "saigoku",
+   "capital": "yoshida",
+   "places": [
+    "yamaguchi",
+    "hiroshima",
+    "shimonoseki"
+   ],
+   "reach": 110,
+   "house": {
+    "ja": "毛利",
+    "en": "Mōri"
+   },
+   "line": [
+    [
+     "毛利元就",
+     "Mōri Motonari",
+     1523,
+     1571,
+     {
+      "ab": [
+       9,
+       9,
+       10,
+       7
+      ],
+      "tr": [
+       "genius",
+       "paranoid"
+      ],
+      "born": 1497
+     }
+    ],
+    [
+     "毛利輝元",
+     "Mōri Terumoto",
+     1571,
+     1625,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       5,
+       6,
+       6
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 1553
+     }
+    ]
+   ],
+   "power": 1.4
+  },
+  {
+   "id": "amago",
+   "label": {
+    "ja": "尼子家",
+    "en": "the Amago clan"
+   },
+   "root": {
+    "ja": "尼子",
+    "en": "Amago"
+   },
+   "gov": "monarchy",
+   "color": "#3f8f5f",
+   "culture": "saigoku",
+   "capital": "toda",
+   "places": [
+    "matsue",
+    "iwami",
+    "tottori"
+   ],
+   "reach": 100,
+   "house": {
+    "ja": "尼子",
+    "en": "Amago"
+   },
+   "line": [
+    [
+     "尼子晴久",
+     "Amago Haruhisa",
+     1537,
+     1561,
+     {
+      "ab": [
+       6,
+       7,
+       5,
+       6
+      ],
+      "born": 1514
+     }
+    ],
+    [
+     "尼子義久",
+     "Amago Yoshihisa",
+     1561,
+     1566,
+     {
+      "ab": [
+       4,
+       4,
+       4,
+       4
+      ],
+      "born": 1540
+     }
+    ]
+   ],
+   "power": 1.2
+  },
+  {
+   "id": "otomo",
+   "label": {
+    "ja": "大友家",
+    "en": "the Ōtomo clan"
+   },
+   "root": {
+    "ja": "大友",
+    "en": "Ōtomo"
+   },
+   "gov": "monarchy",
+   "color": "#3f6f8f",
+   "culture": "kyushu",
+   "capital": "funai",
+   "places": [
+    "usuki",
+    "hakata",
+    "nakatsu",
+    "kokura"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "大友",
+    "en": "Ōtomo"
+   },
+   "line": [
+    [
+     "大友宗麟",
+     "Ōtomo Sōrin",
+     1550,
+     1587,
+     {
+      "ab": [
+       6,
+       5,
+       7,
+       6
+      ],
+      "tr": [
+       "pious"
+      ],
+      "born": 1530
+     }
+    ],
+    [
+     "大友義統",
+     "Ōtomo Yoshimune",
+     1587,
+     1593,
+     {
+      "ab": [
+       3,
+       3,
+       4,
+       4
+      ],
+      "tr": [
+       "foolish"
+      ],
+      "born": 1558
+     }
+    ]
+   ],
+   "power": 1.3
+  },
+  {
+   "id": "shimazu",
+   "label": {
+    "ja": "島津家",
+    "en": "the Shimazu clan"
+   },
+   "root": {
+    "ja": "島津",
+    "en": "Shimazu"
+   },
+   "gov": "monarchy",
+   "color": "#2f2f4f",
+   "culture": "kyushu",
+   "capital": "kagoshima",
+   "places": [],
+   "reach": 90,
+   "house": {
+    "ja": "島津",
+    "en": "Shimazu"
+   },
+   "line": [
+    [
+     "島津貴久",
+     "Shimazu Takahisa",
+     1526,
+     1566,
+     {
+      "ab": [
+       7,
+       7,
+       6,
+       7
+      ],
+      "born": 1514
+     }
+    ],
+    [
+     "島津義久",
+     "Shimazu Yoshihisa",
+     1566,
+     1602,
+     {
+      "ab": [
+       8,
+       8,
+       7,
+       8
+      ],
+      "tr": [
+       "wise"
+      ],
+      "born": 1533
+     }
+    ],
+    [
+     "島津忠恒",
+     "Shimazu Tadatsune",
+     1602,
+     1638,
+     {
+      "rel": "other",
+      "born": 1576
+     }
+    ]
+   ]
+  },
+  {
+   "id": "ryuzoji",
+   "label": {
+    "ja": "龍造寺家",
+    "en": "the Ryūzōji clan"
+   },
+   "root": {
+    "ja": "龍造寺",
+    "en": "Ryūzōji"
+   },
+   "gov": "monarchy",
+   "color": "#8f4f2f",
+   "culture": "kyushu",
+   "capital": "saga",
+   "places": [
+    "yanagawa"
+   ],
+   "reach": 60,
+   "house": {
+    "ja": "龍造寺",
+    "en": "Ryūzōji"
+   },
+   "line": [
+    [
+     "龍造寺隆信",
+     "Ryūzōji Takanobu",
+     1548,
+     1584,
+     {
+      "ab": [
+       5,
+       8,
+       4,
+       6
+      ],
+      "tr": [
+       "cruel",
+       "ambitious"
+      ],
+      "born": 1529
+     }
+    ],
+    [
+     "龍造寺政家",
+     "Ryūzōji Masaie",
+     1584,
+     1607,
+     {
+      "ab": [
+       3,
+       3,
+       4,
+       4
+      ],
+      "tr": [
+       "sickly"
+      ],
+      "born": 1556
+     }
+    ]
+   ]
+  },
+  {
+   "id": "ito",
+   "label": {
+    "ja": "伊東家",
+    "en": "the Itō clan"
+   },
+   "root": {
+    "ja": "伊東",
+    "en": "Itō"
+   },
+   "gov": "monarchy",
+   "color": "#6f8f3f",
+   "culture": "kyushu",
+   "capital": "tonokori",
+   "places": [
+    "obi",
+    "nobeoka"
+   ],
+   "reach": 70,
+   "house": {
+    "ja": "伊東",
+    "en": "Itō"
+   },
+   "line": [
+    [
+     "伊東義祐",
+     "Itō Yoshisuke",
+     1533,
+     1577,
+     {
+      "ab": [
+       6,
+       5,
+       5,
+       5
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 1512
+     }
+    ]
+   ]
+  },
+  {
+   "id": "sagara",
+   "label": {
+    "ja": "相良家",
+    "en": "the Sagara clan"
+   },
+   "root": {
+    "ja": "相良",
+    "en": "Sagara"
+   },
+   "gov": "monarchy",
+   "color": "#5f5f8f",
+   "culture": "kyushu",
+   "capital": "hitoyoshi",
+   "places": [
+    "yatsushiro"
+   ],
+   "reach": 50,
+   "house": {
+    "ja": "相良",
+    "en": "Sagara"
+   },
+   "line": [
+    [
+     "相良義陽",
+     "Sagara Yoshihi",
+     1555,
+     1581,
+     {
+      "born": 1544
+     }
+    ],
+    [
+     "相良頼房",
+     "Sagara Yorifusa",
+     1581,
+     1636,
+     {
+      "rel": "brother",
+      "born": 1574
+     }
+    ]
+   ]
+  },
+  {
+   "id": "arima",
+   "label": {
+    "ja": "有馬家",
+    "en": "the Arima clan"
+   },
+   "root": {
+    "ja": "有馬",
+    "en": "Arima"
+   },
+   "gov": "monarchy",
+   "color": "#4f8f6f",
+   "culture": "kyushu",
+   "capital": "hinoe",
+   "places": [],
+   "reach": 35,
+   "house": {
+    "ja": "有馬",
+    "en": "Arima"
+   },
+   "line": [
+    [
+     "有馬晴信",
+     "Arima Harunobu",
+     1571,
+     1612,
+     {
+      "ab": [
+       5,
+       5,
+       6,
+       5
+      ],
+      "tr": [
+       "pious"
+      ],
+      "born": 1567
+     }
+    ]
+   ]
+  },
+  {
+   "id": "omura",
+   "label": {
+    "ja": "大村家",
+    "en": "the Ōmura clan"
+   },
+   "root": {
+    "ja": "大村",
+    "en": "Ōmura"
+   },
+   "gov": "monarchy",
+   "color": "#8f8f4f",
+   "culture": "kyushu",
+   "capital": "omura",
+   "places": [
+    "nagasaki"
+   ],
+   "reach": 30,
+   "house": {
+    "ja": "大村",
+    "en": "Ōmura"
+   },
+   "line": [
+    [
+     "大村純忠",
+     "Ōmura Sumitada",
+     1538,
+     1587,
+     {
+      "ab": [
+       5,
+       4,
+       7,
+       5
+      ],
+      "tr": [
+       "pious"
+      ],
+      "born": 1533
+     }
+    ],
+    [
+     "大村喜前",
+     "Ōmura Yoshiaki",
+     1587,
+     1616,
+     {
+      "born": 1569
+     }
+    ]
+   ]
+  },
+  {
+   "id": "matsura",
+   "label": {
+    "ja": "松浦家",
+    "en": "the Matsura clan"
+   },
+   "root": {
+    "ja": "松浦",
+    "en": "Matsura"
+   },
+   "gov": "monarchy",
+   "color": "#3f5f5f",
+   "culture": "kyushu",
+   "capital": "hirado",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "松浦",
+    "en": "Matsura"
+   }
+  },
+  {
+   "id": "akizuki",
+   "label": {
+    "ja": "秋月家",
+    "en": "the Akizuki clan"
+   },
+   "root": {
+    "ja": "秋月",
+    "en": "Akizuki"
+   },
+   "gov": "monarchy",
+   "color": "#7f5f3f",
+   "culture": "kyushu",
+   "capital": "akizuki",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "秋月",
+    "en": "Akizuki"
+   }
+  },
+  {
+   "id": "aso",
+   "label": {
+    "ja": "阿蘇家",
+    "en": "the Aso clan"
+   },
+   "root": {
+    "ja": "阿蘇",
+    "en": "Aso"
+   },
+   "gov": "monarchy",
+   "color": "#5f7f7f",
+   "culture": "kyushu",
+   "capital": "aso",
+   "places": [
+    "kumamoto"
+   ],
+   "reach": 45,
+   "house": {
+    "ja": "阿蘇",
+    "en": "Aso"
+   }
+  },
+  {
+   "id": "chosokabe",
+   "label": {
+    "ja": "長宗我部家",
+    "en": "the Chōsokabe clan"
+   },
+   "root": {
+    "ja": "長宗我部",
+    "en": "Chōsokabe"
+   },
+   "gov": "monarchy",
+   "color": "#7f3f6f",
+   "culture": "saigoku",
+   "capital": "oko",
+   "places": [],
+   "reach": 45,
+   "house": {
+    "ja": "長宗我部",
+    "en": "Chōsokabe"
+   },
+   "line": [
+    [
+     "長宗我部元親",
+     "Chōsokabe Motochika",
+     1560,
+     1599,
+     {
+      "ab": [
+       7,
+       8,
+       6,
+       7
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 1539
+     }
+    ],
+    [
+     "長宗我部盛親",
+     "Chōsokabe Morichika",
+     1599,
+     1600,
+     {
+      "born": 1575
+     }
+    ]
+   ]
+  },
+  {
+   "id": "ichijo",
+   "label": {
+    "ja": "一条家",
+    "en": "the Ichijō clan"
+   },
+   "root": {
+    "ja": "一条",
+    "en": "Ichijō"
+   },
+   "gov": "monarchy",
+   "color": "#9f8f6f",
+   "culture": "saigoku",
+   "capital": "nakamura",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "一条",
+    "en": "Ichijō"
+   },
+   "line": [
+    [
+     "一条兼定",
+     "Ichijō Kanesada",
+     1549,
+     1574,
+     {
+      "ab": [
+       3,
+       3,
+       4,
+       4
+      ],
+      "tr": [
+       "drunkard"
+      ],
+      "born": 1543
+     }
+    ]
+   ]
+  },
+  {
+   "id": "kono",
+   "label": {
+    "ja": "河野家",
+    "en": "the Kōno clan"
+   },
+   "root": {
+    "ja": "河野",
+    "en": "Kōno"
+   },
+   "gov": "monarchy",
+   "color": "#5f9f5f",
+   "culture": "saigoku",
+   "capital": "yuzuki",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "河野",
+    "en": "Kōno"
+   },
+   "line": [
+    [
+     "河野通直",
+     "Kōno Michinao",
+     1568,
+     1585,
+     {
+      "born": 1564
+     }
+    ]
+   ]
+  },
+  {
+   "id": "saionji",
+   "label": {
+    "ja": "西園寺家",
+    "en": "the Saionji clan"
+   },
+   "root": {
+    "ja": "西園寺",
+    "en": "Saionji"
+   },
+   "gov": "monarchy",
+   "color": "#8f6f8f",
+   "culture": "saigoku",
+   "capital": "uwajima",
+   "places": [],
+   "reach": 40,
+   "house": {
+    "ja": "西園寺",
+    "en": "Saionji"
+   }
+  },
+  {
+   "id": "urakami",
+   "label": {
+    "ja": "浦上家",
+    "en": "the Urakami clan"
+   },
+   "root": {
+    "ja": "浦上",
+    "en": "Urakami"
+   },
+   "gov": "monarchy",
+   "color": "#9f5f5f",
+   "culture": "saigoku",
+   "capital": "tenjinyama",
+   "places": [
+    "okayama"
+   ],
+   "reach": 60,
+   "house": {
+    "ja": "浦上",
+    "en": "Urakami"
+   },
+   "line": [
+    [
+     "浦上宗景",
+     "Urakami Munekage",
+     1549,
+     1575,
+     {
+      "ab": [
+       6,
+       6,
+       6,
+       5
+      ],
+      "born": 1528
+     }
+    ]
+   ]
+  },
+  {
+   "id": "bessho",
+   "label": {
+    "ja": "別所家",
+    "en": "the Bessho clan"
+   },
+   "root": {
+    "ja": "別所",
+    "en": "Bessho"
+   },
+   "gov": "monarchy",
+   "color": "#5f5f3f",
+   "culture": "saigoku",
+   "capital": "miki",
+   "places": [
+    "himeji"
+   ],
+   "reach": 50,
+   "house": {
+    "ja": "別所",
+    "en": "Bessho"
+   },
+   "line": [
+    [
+     "別所安治",
+     "Bessho Yasuharu",
+     1550,
+     1570,
+     {
+      "born": 1532
+     }
+    ],
+    [
+     "別所長治",
+     "Bessho Nagaharu",
+     1570,
+     1580,
+     {
+      "ab": [
+       5,
+       6,
+       5,
+       7
+      ],
+      "tr": [
+       "brave"
+      ],
+      "born": 1558
+     }
+    ]
+   ]
+  },
+  {
+   "id": "yamana",
+   "label": {
+    "ja": "山名家",
+    "en": "the Yamana clan"
+   },
+   "root": {
+    "ja": "山名",
+    "en": "Yamana"
+   },
+   "gov": "monarchy",
+   "color": "#8f7f3f",
+   "culture": "saigoku",
+   "capital": "izushi",
+   "places": [],
+   "reach": 50,
+   "house": {
+    "ja": "山名",
+    "en": "Yamana"
+   },
+   "line": [
+    [
+     "山名祐豊",
+     "Yamana Suketoyo",
+     1528,
+     1580,
+     {
+      "born": 1511
+     }
+    ]
+   ]
+  },
+  {
+   "id": "mimura",
+   "label": {
+    "ja": "三村家",
+    "en": "the Mimura clan"
+   },
+   "root": {
+    "ja": "三村",
+    "en": "Mimura"
+   },
+   "gov": "monarchy",
+   "color": "#3f7f7f",
+   "culture": "saigoku",
+   "capital": "bitchu",
+   "places": [
+    "tsuyama"
+   ],
+   "reach": 45,
+   "house": {
+    "ja": "三村",
+    "en": "Mimura"
+   }
+  },
+  {
+   "id": "hatano",
+   "label": {
+    "ja": "波多野家",
+    "en": "the Hatano clan"
+   },
+   "root": {
+    "ja": "波多野",
+    "en": "Hatano"
+   },
+   "gov": "monarchy",
+   "color": "#6f4f3f",
+   "culture": "kinai",
+   "capital": "yakami",
+   "places": [],
+   "reach": 45,
+   "house": {
+    "ja": "波多野",
+    "en": "Hatano"
+   },
+   "line": [
+    [
+     "波多野秀治",
+     "Hatano Hideharu",
+     1560,
+     1579,
+     {
+      "born": 1541
+     }
+    ]
+   ]
+  },
+  {
+   "id": "isshiki",
+   "label": {
+    "ja": "一色家",
+    "en": "the Isshiki clan"
+   },
+   "root": {
+    "ja": "一色",
+    "en": "Isshiki"
+   },
+   "gov": "monarchy",
+   "color": "#4f6f4f",
+   "culture": "kinai",
+   "capital": "tango",
+   "places": [],
+   "reach": 35,
+   "house": {
+    "ja": "一色",
+    "en": "Isshiki"
+   }
+  },
+  {
+   "id": "wakasa",
+   "label": {
+    "ja": "若狭武田家",
+    "en": "the Wakasa Takeda clan"
+   },
+   "root": {
+    "ja": "武田",
+    "en": "Takeda"
+   },
+   "gov": "monarchy",
+   "color": "#a85f5d",
+   "culture": "kinai",
+   "capital": "obama",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "武田",
+    "en": "Takeda"
+   },
+   "line": [
+    [
+     "武田義統",
+     "Takeda Yoshizumi",
+     1556,
+     1567,
+     {
+      "born": 1526
+     }
+    ],
+    [
+     "武田元明",
+     "Takeda Motoaki",
+     1567,
+     1582,
+     {
+      "born": 1552
+     }
+    ]
+   ]
+  },
+  {
+   "id": "hatakeyama",
+   "label": {
+    "ja": "畠山家",
+    "en": "the Hatakeyama clan"
+   },
+   "root": {
+    "ja": "畠山",
+    "en": "Hatakeyama"
+   },
+   "gov": "monarchy",
+   "color": "#7f7f5f",
+   "culture": "kinai",
+   "capital": "takaya",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "畠山",
+    "en": "Hatakeyama"
+   }
+  },
+  {
+   "id": "tsutsui",
+   "label": {
+    "ja": "筒井家",
+    "en": "the Tsutsui clan"
+   },
+   "root": {
+    "ja": "筒井",
+    "en": "Tsutsui"
+   },
+   "gov": "monarchy",
+   "color": "#5f8f9f",
+   "culture": "kinai",
+   "capital": "tsutsui",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "筒井",
+    "en": "Tsutsui"
+   },
+   "line": [
+    [
+     "筒井順慶",
+     "Tsutsui Junkei",
+     1550,
+     1584,
+     {
+      "ab": [
+       6,
+       5,
+       6,
+       5
+      ],
+      "born": 1549
+     }
+    ],
+    [
+     "筒井定次",
+     "Tsutsui Sadatsugu",
+     1584,
+     1608,
+     {
+      "rel": "other",
+      "born": 1562
+     }
+    ]
+   ]
+  },
+  {
+   "id": "saika",
+   "label": {
+    "ja": "雑賀衆",
+    "en": "the Saika league"
+   },
+   "root": {
+    "ja": "鈴木",
+    "en": "Suzuki"
+   },
+   "gov": "republic",
+   "color": "#3f3f6f",
+   "culture": "kinai",
+   "capital": "saika",
+   "places": [
+    "shingu"
+   ],
+   "reach": 60,
+   "house": {
+    "ja": "鈴木",
+    "en": "Suzuki"
+   }
+  },
+  {
+   "id": "iga",
+   "label": {
+    "ja": "伊賀惣国",
+    "en": "the Iga league"
+   },
+   "root": {
+    "ja": "服部",
+    "en": "Hattori"
+   },
+   "gov": "republic",
+   "color": "#2f4f3f",
+   "culture": "kinai",
+   "capital": "ueno",
+   "places": [],
+   "reach": 25,
+   "house": {
+    "ja": "服部",
+    "en": "Hattori"
+   }
+  },
+  {
+   "id": "kitabatake",
+   "label": {
+    "ja": "北畠家",
+    "en": "the Kitabatake clan"
+   },
+   "root": {
+    "ja": "北畠",
+    "en": "Kitabatake"
+   },
+   "gov": "monarchy",
+   "color": "#9f9f5f",
+   "culture": "kinai",
+   "capital": "tage",
+   "places": [
+    "anotsu"
+   ],
+   "reach": 55,
+   "house": {
+    "ja": "北畠",
+    "en": "Kitabatake"
+   },
+   "line": [
+    [
+     "北畠具教",
+     "Kitabatake Tomonori",
+     1553,
+     1576,
+     {
+      "ab": [
+       5,
+       6,
+       6,
+       6
+      ],
+      "born": 1528
+     }
+    ]
+   ]
+  },
+  {
+   "id": "noto",
+   "label": {
+    "ja": "能登畠山家",
+    "en": "the Noto Hatakeyama clan"
+   },
+   "root": {
+    "ja": "畠山",
+    "en": "Hatakeyama"
+   },
+   "gov": "monarchy",
+   "color": "#6f9f8f",
+   "culture": "kinai",
+   "capital": "nanao",
+   "places": [],
+   "reach": 50,
+   "house": {
+    "ja": "畠山",
+    "en": "Hatakeyama"
+   },
+   "line": [
+    [
+     "畠山義綱",
+     "Hatakeyama Yoshitsuna",
+     1555,
+     1566,
+     {
+      "born": 1531
+     }
+    ],
+    [
+     "畠山義慶",
+     "Hatakeyama Yoshinori",
+     1566,
+     1574,
+     {
+      "born": 1557
+     }
+    ]
+   ]
+  },
+  {
+   "id": "jinbo",
+   "label": {
+    "ja": "神保家",
+    "en": "the Jinbo clan"
+   },
+   "root": {
+    "ja": "神保",
+    "en": "Jinbo"
+   },
+   "gov": "monarchy",
+   "color": "#8f9f6f",
+   "culture": "kinai",
+   "capital": "toyama",
+   "places": [],
+   "reach": 55,
+   "house": {
+    "ja": "神保",
+    "en": "Jinbo"
+   }
+  },
+  {
+   "id": "anegakoji",
+   "label": {
+    "ja": "三木家",
+    "en": "the Mitsuki clan"
+   },
+   "root": {
+    "ja": "三木",
+    "en": "Mitsuki"
+   },
+   "gov": "monarchy",
+   "color": "#5f6f7f",
+   "culture": "kanto",
+   "capital": "takayama",
+   "places": [],
+   "reach": 55,
+   "house": {
+    "ja": "三木",
+    "en": "Mitsuki"
+   }
+  },
+  {
+   "id": "satomi",
+   "label": {
+    "ja": "里見家",
+    "en": "the Satomi clan"
+   },
+   "root": {
+    "ja": "里見",
+    "en": "Satomi"
+   },
+   "gov": "monarchy",
+   "color": "#3f9f7f",
+   "culture": "kanto",
+   "capital": "kururi",
+   "places": [],
+   "reach": 55,
+   "house": {
+    "ja": "里見",
+    "en": "Satomi"
+   },
+   "line": [
+    [
+     "里見義堯",
+     "Satomi Yoshitaka",
+     1539,
+     1574,
+     {
+      "ab": [
+       6,
+       7,
+       5,
+       7
+      ],
+      "born": 1507
+     }
+    ],
+    [
+     "里見義弘",
+     "Satomi Yoshihiro",
+     1574,
+     1578,
+     {
+      "born": 1530
+     }
+    ],
+    [
+     "里見義頼",
+     "Satomi Yoshiyori",
+     1578,
+     1587,
+     {
+      "rel": "other",
+      "born": 1543
+     }
+    ],
+    [
+     "里見義康",
+     "Satomi Yoshiyasu",
+     1587,
+     1603,
+     {
+      "born": 1573
+     }
+    ],
+    [
+     "里見忠義",
+     "Satomi Tadayoshi",
+     1603,
+     1614,
+     {
+      "born": 1594
+     }
+    ]
+   ]
+  },
+  {
+   "id": "chiba",
+   "label": {
+    "ja": "千葉家",
+    "en": "the Chiba clan"
+   },
+   "root": {
+    "ja": "千葉",
+    "en": "Chiba"
+   },
+   "gov": "monarchy",
+   "color": "#9f7f9f",
+   "culture": "kanto",
+   "capital": "sakura",
+   "places": [],
+   "reach": 45,
+   "house": {
+    "ja": "千葉",
+    "en": "Chiba"
+   }
+  },
+  {
+   "id": "nagano",
+   "label": {
+    "ja": "長野家",
+    "en": "the Nagano clan"
+   },
+   "root": {
+    "ja": "長野",
+    "en": "Nagano"
+   },
+   "gov": "monarchy",
+   "color": "#6f8f8f",
+   "culture": "kanto",
+   "capital": "minowa",
+   "places": [
+    "numata"
+   ],
+   "reach": 45,
+   "house": {
+    "ja": "長野",
+    "en": "Nagano"
+   },
+   "line": [
+    [
+     "長野業正",
+     "Nagano Narimasa",
+     1530,
+     1561,
+     {
+      "ab": [
+       6,
+       8,
+       6,
+       7
+      ],
+      "tr": [
+       "brave"
+      ],
+      "born": 1491
+     }
+    ],
+    [
+     "長野業盛",
+     "Nagano Narimori",
+     1561,
+     1566,
+     {
+      "born": 1544
+     }
+    ]
+   ]
+  },
+  {
+   "id": "yura",
+   "label": {
+    "ja": "由良家",
+    "en": "the Yura clan"
+   },
+   "root": {
+    "ja": "由良",
+    "en": "Yura"
+   },
+   "gov": "monarchy",
+   "color": "#7f6f5f",
+   "culture": "kanto",
+   "capital": "kanayama",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "由良",
+    "en": "Yura"
+   }
+  },
+  {
+   "id": "utsunomiya",
+   "label": {
+    "ja": "宇都宮家",
+    "en": "the Utsunomiya clan"
+   },
+   "root": {
+    "ja": "宇都宮",
+    "en": "Utsunomiya"
+   },
+   "gov": "monarchy",
+   "color": "#5f4f8f",
+   "culture": "kanto",
+   "capital": "utsunomiya",
+   "places": [],
+   "reach": 40,
+   "house": {
+    "ja": "宇都宮",
+    "en": "Utsunomiya"
+   },
+   "line": [
+    [
+     "宇都宮広綱",
+     "Utsunomiya Hirotsuna",
+     1549,
+     1576,
+     {
+      "born": 1545
+     }
+    ],
+    [
+     "宇都宮国綱",
+     "Utsunomiya Kunitsuna",
+     1576,
+     1597,
+     {
+      "born": 1568
+     }
+    ]
+   ]
+  },
+  {
+   "id": "yuki",
+   "label": {
+    "ja": "結城家",
+    "en": "the Yūki clan"
+   },
+   "root": {
+    "ja": "結城",
+    "en": "Yūki"
+   },
+   "gov": "monarchy",
+   "color": "#8f5f6f",
+   "culture": "kanto",
+   "capital": "yuki",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "結城",
+    "en": "Yūki"
+   }
+  },
+  {
+   "id": "oda_h",
+   "label": {
+    "ja": "小田家",
+    "en": "the Oda clan of Hitachi"
+   },
+   "root": {
+    "ja": "小田",
+    "en": "Oda"
+   },
+   "gov": "monarchy",
+   "color": "#6f5f4f",
+   "culture": "kanto",
+   "capital": "oda_h",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "小田",
+    "en": "Oda"
+   }
+  },
+  {
+   "id": "satake",
+   "label": {
+    "ja": "佐竹家",
+    "en": "the Satake clan"
+   },
+   "root": {
+    "ja": "佐竹",
+    "en": "Satake"
+   },
+   "gov": "monarchy",
+   "color": "#2f6f9f",
+   "culture": "kanto",
+   "capital": "ota",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "佐竹",
+    "en": "Satake"
+   },
+   "line": [
+    [
+     "佐竹義昭",
+     "Satake Yoshiaki",
+     1545,
+     1562,
+     {
+      "born": 1531
+     }
+    ],
+    [
+     "佐竹義重",
+     "Satake Yoshishige",
+     1562,
+     1589,
+     {
+      "ab": [
+       7,
+       9,
+       6,
+       7
+      ],
+      "tr": [
+       "warrior"
+      ],
+      "born": 1547
+     }
+    ],
+    [
+     "佐竹義宣",
+     "Satake Yoshinobu",
+     1589,
+     1633,
+     {
+      "ab": [
+       6,
+       6,
+       6,
+       6
+      ],
+      "born": 1570
+     }
+    ]
+   ]
+  },
+  {
+   "id": "date",
+   "label": {
+    "ja": "伊達家",
+    "en": "the Date clan"
+   },
+   "root": {
+    "ja": "伊達",
+    "en": "Date"
+   },
+   "gov": "monarchy",
+   "color": "#2f2f2f",
+   "culture": "ou",
+   "capital": "yonezawa",
+   "places": [],
+   "reach": 75,
+   "house": {
+    "ja": "伊達",
+    "en": "Date"
+   },
+   "line": [
+    [
+     "伊達晴宗",
+     "Date Harumune",
+     1548,
+     1564,
+     {
+      "born": 1519
+     }
+    ],
+    [
+     "伊達輝宗",
+     "Date Terumune",
+     1564,
+     1584,
+     {
+      "ab": [
+       6,
+       5,
+       7,
+       6
+      ],
+      "born": 1544
+     }
+    ],
+    [
+     "伊達政宗",
+     "Date Masamune",
+     1584,
+     1636,
+     {
+      "ab": [
+       8,
+       8,
+       8,
+       9
+      ],
+      "tr": [
+       "ambitious",
+       "charismatic"
+      ],
+      "born": 1567
+     }
+    ]
+   ]
+  },
+  {
+   "id": "mogami",
+   "label": {
+    "ja": "最上家",
+    "en": "the Mogami clan"
+   },
+   "root": {
+    "ja": "最上",
+    "en": "Mogami"
+   },
+   "gov": "monarchy",
+   "color": "#4f4f9f",
+   "culture": "ou",
+   "capital": "yamagata",
+   "places": [],
+   "reach": 65,
+   "house": {
+    "ja": "最上",
+    "en": "Mogami"
+   },
+   "line": [
+    [
+     "最上義守",
+     "Mogami Yoshimori",
+     1549,
+     1570,
+     {
+      "born": 1521
+     }
+    ],
+    [
+     "最上義光",
+     "Mogami Yoshiaki",
+     1570,
+     1614,
+     {
+      "ab": [
+       7,
+       7,
+       9,
+       6
+      ],
+      "tr": [
+       "paranoid"
+      ],
+      "born": 1546
+     }
+    ],
+    [
+     "最上家親",
+     "Mogami Iechika",
+     1614,
+     1617,
+     {
+      "born": 1582
+     }
+    ]
+   ]
+  },
+  {
+   "id": "ashina",
+   "label": {
+    "ja": "蘆名家",
+    "en": "the Ashina clan"
+   },
+   "root": {
+    "ja": "蘆名",
+    "en": "Ashina"
+   },
+   "gov": "monarchy",
+   "color": "#7f2f4f",
+   "culture": "ou",
+   "capital": "kurokawa",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "蘆名",
+    "en": "Ashina"
+   },
+   "line": [
+    [
+     "蘆名盛氏",
+     "Ashina Moriuji",
+     1541,
+     1580,
+     {
+      "ab": [
+       7,
+       7,
+       7,
+       6
+      ],
+      "born": 1521
+     }
+    ],
+    [
+     "蘆名盛隆",
+     "Ashina Moritaka",
+     1580,
+     1584,
+     {
+      "rel": "other",
+      "born": 1561
+     }
+    ],
+    [
+     "蘆名義広",
+     "Ashina Yoshihiro",
+     1587,
+     1589,
+     {
+      "rel": "other",
+      "born": 1575
+     }
+    ]
+   ]
+  },
+  {
+   "id": "nanbu",
+   "label": {
+    "ja": "南部家",
+    "en": "the Nanbu clan"
+   },
+   "root": {
+    "ja": "南部",
+    "en": "Nanbu"
+   },
+   "gov": "monarchy",
+   "color": "#9f3f3f",
+   "culture": "ou",
+   "capital": "sannohe",
+   "places": [
+    "kozukata",
+    "kunohe",
+    "ourajo"
+   ],
+   "reach": 130,
+   "house": {
+    "ja": "南部",
+    "en": "Nanbu"
+   },
+   "line": [
+    [
+     "南部晴政",
+     "Nanbu Harumasa",
+     1539,
+     1582,
+     {
+      "born": 1517
+     }
+    ],
+    [
+     "南部信直",
+     "Nanbu Nobunao",
+     1582,
+     1599,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       6,
+       6,
+       6
+      ],
+      "born": 1546
+     }
+    ],
+    [
+     "南部利直",
+     "Nanbu Toshinao",
+     1599,
+     1632,
+     {
+      "born": 1576
+     }
+    ]
+   ]
+  },
+  {
+   "id": "osaki",
+   "label": {
+    "ja": "大崎家",
+    "en": "the Ōsaki clan"
+   },
+   "root": {
+    "ja": "大崎",
+    "en": "Ōsaki"
+   },
+   "gov": "monarchy",
+   "color": "#8f8f8f",
+   "culture": "ou",
+   "capital": "osaki",
+   "places": [
+    "sendai"
+   ],
+   "reach": 55,
+   "house": {
+    "ja": "大崎",
+    "en": "Ōsaki"
+   },
+   "line": [
+    [
+     "大崎義隆",
+     "Ōsaki Yoshitaka",
+     1577,
+     1590,
+     {
+      "born": 1548
+     }
+    ]
+   ]
+  },
+  {
+   "id": "kasai",
+   "label": {
+    "ja": "葛西家",
+    "en": "the Kasai clan"
+   },
+   "root": {
+    "ja": "葛西",
+    "en": "Kasai"
+   },
+   "gov": "monarchy",
+   "color": "#6f7f9f",
+   "culture": "ou",
+   "capital": "teraike",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "葛西",
+    "en": "Kasai"
+   }
+  },
+  {
+   "id": "soma",
+   "label": {
+    "ja": "相馬家",
+    "en": "the Sōma clan"
+   },
+   "root": {
+    "ja": "相馬",
+    "en": "Sōma"
+   },
+   "gov": "monarchy",
+   "color": "#9f6f3f",
+   "culture": "ou",
+   "capital": "odaka",
+   "places": [],
+   "reach": 40,
+   "house": {
+    "ja": "相馬",
+    "en": "Sōma"
+   }
+  },
+  {
+   "id": "nihonmatsu",
+   "label": {
+    "ja": "二本松畠山家",
+    "en": "the Nihonmatsu Hatakeyama clan"
+   },
+   "root": {
+    "ja": "畠山",
+    "en": "Hatakeyama"
+   },
+   "gov": "monarchy",
+   "color": "#7f9f9f",
+   "culture": "ou",
+   "capital": "nihonmatsu",
+   "places": [
+    "miharu"
+   ],
+   "reach": 35,
+   "house": {
+    "ja": "畠山",
+    "en": "Hatakeyama"
+   }
+  },
+  {
+   "id": "iwaki",
+   "label": {
+    "ja": "岩城家",
+    "en": "the Iwaki clan"
+   },
+   "root": {
+    "ja": "岩城",
+    "en": "Iwaki"
+   },
+   "gov": "monarchy",
+   "color": "#5f9f8f",
+   "culture": "ou",
+   "capital": "iwaki",
+   "places": [
+    "shirakawa"
+   ],
+   "reach": 40,
+   "house": {
+    "ja": "岩城",
+    "en": "Iwaki"
+   }
+  },
+  {
+   "id": "ando",
+   "label": {
+    "ja": "安東家",
+    "en": "the Andō clan"
+   },
+   "root": {
+    "ja": "安東",
+    "en": "Andō"
+   },
+   "gov": "monarchy",
+   "color": "#3f5f8f",
+   "culture": "ou",
+   "capital": "hiyama",
+   "places": [],
+   "reach": 80,
+   "house": {
+    "ja": "安東",
+    "en": "Andō"
+   },
+   "line": [
+    [
+     "安東愛季",
+     "Andō Chikasue",
+     1553,
+     1587,
+     {
+      "ab": [
+       7,
+       7,
+       7,
+       6
+      ],
+      "born": 1539
+     }
+    ],
+    [
+     "秋田実季",
+     "Akita Sanesue",
+     1587,
+     1630,
+     {
+      "born": 1576
+     }
+    ]
+   ]
+  },
+  {
+   "id": "onodera",
+   "label": {
+    "ja": "小野寺家",
+    "en": "the Onodera clan"
+   },
+   "root": {
+    "ja": "小野寺",
+    "en": "Onodera"
+   },
+   "gov": "monarchy",
+   "color": "#6f6f8f",
+   "culture": "ou",
+   "capital": "yokote",
+   "places": [],
+   "reach": 55,
+   "house": {
+    "ja": "小野寺",
+    "en": "Onodera"
+   }
+  },
+  {
+   "id": "daihoji",
+   "label": {
+    "ja": "大宝寺家",
+    "en": "the Daihōji clan"
+   },
+   "root": {
+    "ja": "大宝寺",
+    "en": "Daihōji"
+   },
+   "gov": "monarchy",
+   "color": "#8f6f5f",
+   "culture": "ou",
+   "capital": "oura_s",
+   "places": [],
+   "reach": 50,
+   "house": {
+    "ja": "大宝寺",
+    "en": "Daihōji"
+   }
+  },
+  {
+   "id": "ukita",
+   "label": {
+    "ja": "宇喜多家",
+    "en": "the Ukita clan"
+   },
+   "root": {
+    "ja": "宇喜多",
+    "en": "Ukita"
+   },
+   "gov": "monarchy",
+   "color": "#bf6f3f",
+   "culture": "saigoku",
+   "capital": "okayama",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "宇喜多",
+    "en": "Ukita"
+   },
+   "line": [
+    [
+     "宇喜多直家",
+     "Ukita Naoie",
+     1575,
+     1581,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       6,
+       8,
+       5
+      ],
+      "tr": [
+       "cruel",
+       "ambitious"
+      ],
+      "born": 1529
+     }
+    ],
+    [
+     "宇喜多秀家",
+     "Ukita Hideie",
+     1581,
+     1600,
+     {
+      "ab": [
+       5,
+       6,
+       5,
+       7
+      ],
+      "born": 1572
+     }
+    ]
+   ],
+   "start": 1575,
+   "parent": "urakami"
+  },
+  {
+   "id": "tsugaru",
+   "label": {
+    "ja": "津軽家",
+    "en": "the Tsugaru clan"
+   },
+   "root": {
+    "ja": "津軽",
+    "en": "Tsugaru"
+   },
+   "gov": "monarchy",
+   "color": "#5f3f3f",
+   "culture": "ou",
+   "capital": "ourajo",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "津軽",
+    "en": "Tsugaru"
+   },
+   "line": [
+    [
+     "津軽為信",
+     "Tsugaru Tamenobu",
+     1571,
+     1607,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       7,
+       6,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 1550
+     }
+    ]
+   ],
+   "start": 1571,
+   "parent": "nanbu"
+  }
+ ],
+ "people": [],
+ "events": []
+}
