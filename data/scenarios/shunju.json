@@ -12496,5 +12496,281 @@
    "Shou-Ying",
    "ying_names"
   ]
+ ],
+ "strict": true,
+ "flavor": [
+  {
+   "id": "covenant",
+   "ja": "{nation}の{ruler}は近隣の諸侯と会盟し、生贄の牛の耳を切ってその血をすすり、盟約を神々に誓った。",
+   "en": "{ruler} of {nation} met neighbouring lords in covenant: a sacrificial ox's ear was cut, its blood smeared on the lips, and the oath sworn before the spirits.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "court_visit",
+   "ja": "{nation}の使者が周の王のもとへ朝聘し、玉と絹を献じた。",
+   "en": "Envoys of {nation} paid court to the King of Zhou, presenting jade and silk.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "ode",
+   "ja": "宴の席で、{nation}の卿は『詩』の一篇を歌って思いを伝え、賓客もまた詩で答えた。",
+   "en": "At a banquet a minister of {nation} sang an ode from the Book of Songs to say what he meant, and the guest answered with another.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "hunt",
+   "ja": "{ruler}は春の田猟に出て、戦車を連ねて獣を追った。狩りは軍の調練でもあった。",
+   "en": "{ruler} went out for the spring hunt, chariots in line chasing game — a drill for war as much as a sport.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "dowry",
+   "ja": "{nation}の公女が他国へ嫁いだ。妹や姪が媵 (つきそい) として従った。",
+   "en": "A princess of {nation} was married abroad; her younger sister and niece went with her as secondary wives.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "exile_prince",
+   "ja": "国を追われた他国の公子が{nation}に身を寄せ、{ruler}は館を与えてもてなした。",
+   "en": "A prince driven from his own state took refuge in {nation}, and {ruler} gave him a house and treated him as a guest.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "mourning",
+   "ja": "{nation}の朝廷で、喪に服する期間をめぐって長い議論が交わされた。",
+   "en": "At the court of {nation} there was long debate over how long mourning should last.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "chariot_muster",
+   "ja": "{nation}は国中の戦車を数え直し、兵車と牛馬の割り当てを定めた。",
+   "en": "{nation} counted its chariots anew and fixed the levy of carts, oxen and horses.",
+   "from": 722,
+   "to": 454
+  },
+  {
+   "id": "persuader",
+   "ja": "諸国をめぐる遊説家が{capital}を訪れ、{ruler}に天下の形勢を説いた。",
+   "en": "A roving persuader came to {capital} and laid out the state of the world for {ruler}.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "retainers",
+   "ja": "{nation}の公子の門には、数百人の食客が集まった。",
+   "en": "Hundreds of retainers gathered at the gate of a prince of {nation}.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "iron_plough",
+   "ja": "{nation}で鉄の鋤や鍬を使う農民が増え、荒れ地が新しく田になった。",
+   "en": "More farmers in {nation} took up iron ploughshares and hoes, and waste land became new fields.",
+   "from": 500,
+   "to": 221
+  },
+  {
+   "id": "crossbow_drill",
+   "ja": "{nation}の兵が、弩を一斉に射る調練を重ねた。",
+   "en": "The soldiers of {nation} drilled at loosing their crossbows together.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "rampart",
+   "ja": "{nation}は国境に土を突き固めた長い塁を築いた。",
+   "en": "{nation} built a long rampart of rammed earth along its border.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "coins",
+   "ja": "{capital}の市で、刀の形や鋤の形をした青銅の銭が行き交った。",
+   "en": "In the market of {capital}, bronze coins shaped like knives and spades changed hands.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "merchants",
+   "ja": "{capital}の市が賑わい、塩や鉄を商う大商人が王侯にも劣らぬ富を蓄えた。",
+   "en": "The market of {capital} thrived, and great dealers in salt and iron grew as rich as lords.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "census",
+   "ja": "{nation}は民の戸籍を改め、兵として召し出せる男の数を数えた。",
+   "en": "{nation} revised its household registers and counted the men who could be called to arms.",
+   "from": 400,
+   "to": 221
+  },
+  {
+   "id": "edict",
+   "ja": "{nation}の都の門に新しい法令が掲げられ、役人が民に読み聞かせた。",
+   "en": "A new law was posted at the gate of the capital of {nation}, and officials read it out to the people.",
+   "from": 400,
+   "to": 221
+  },
+  {
+   "id": "county",
+   "ja": "{nation}は新たに得た土地に県を置き、王の任じた役人を送った。",
+   "en": "{nation} set up a county in newly won land and sent an official of the king's choosing.",
+   "from": 400,
+   "to": 221
+  },
+  {
+   "id": "bamboo",
+   "ja": "{nation}の役所では、竹簡に記した帳簿や法令が山のように積まれた。",
+   "en": "In the offices of {nation}, accounts and laws written on bamboo slips piled up like hills.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "debate",
+   "ja": "{capital}で、学派の違う学者たちが王の前で論じ合った。",
+   "en": "In {capital} scholars of different schools argued before the king.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "horses",
+   "ja": "{nation}は北の民から馬を買い入れ、騎兵の隊を増やした。",
+   "en": "{nation} bought horses from the northern peoples and enlarged its cavalry.",
+   "from": 307,
+   "to": 221
+  },
+  {
+   "id": "rank_reward",
+   "ja": "{nation}で、戦の手柄に応じて兵に爵が与えられた。",
+   "en": "In {nation} soldiers were given ranks according to their deeds in war.",
+   "from": 356,
+   "to": 221
+  },
+  {
+   "id": "canal",
+   "ja": "{nation}で新しい水路が掘られ、田に水が引かれた。",
+   "en": "A new channel was dug in {nation} to water the fields.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "mirror",
+   "ja": "{capital}の工房で、精巧な青銅の鏡と漆の器が作られた。",
+   "en": "The workshops of {capital} turned out fine bronze mirrors and lacquerware.",
+   "from": 453,
+   "to": 221
+  },
+  {
+   "id": "oracle",
+   "ja": "{capital}で亀の甲羅を火にあぶり、ひびの形で出兵の吉凶を占った。",
+   "en": "In {capital} a tortoise shell was heated over the fire, and the cracks read for the omens of war."
+  },
+  {
+   "id": "cauldron",
+   "ja": "{nation}は新しい青銅の鼎を鋳て祖先の廟に供えた。銘には功を立てた臣の名が刻まれた。",
+   "en": "{nation} cast a new bronze cauldron for its ancestral temple; its inscription named the ministers who had served well."
+  },
+  {
+   "id": "ancestors",
+   "ja": "{ruler}は宗廟で祖先を祀り、楽人が鐘と磬を打ち鳴らした。",
+   "en": "{ruler} sacrificed to the ancestors in the ancestral temple while musicians struck bells and chime-stones."
+  },
+  {
+   "id": "eclipse",
+   "ja": "{nation}の史官は日食を記した。人々は太鼓を打ち、社に犠牲を捧げた。",
+   "en": "The scribes of {nation} recorded an eclipse of the sun; drums were beaten and offerings made at the altar of the soil."
+  },
+  {
+   "id": "locusts",
+   "ja": "{nation}でいなごが出て、実った穀物が食い荒らされた。",
+   "en": "Locusts came to {nation} and ate the ripening grain."
+  },
+  {
+   "id": "drought",
+   "ja": "{nation}は日照りに苦しみ、雨乞いの祭りが行われた。",
+   "en": "{nation} suffered a drought, and the rain sacrifice was held."
+  },
+  {
+   "id": "walls",
+   "ja": "{nation}は{capital}の城壁を築き直した。民は農閑期を待って駆り出された。",
+   "en": "{nation} rebuilt the walls of {capital}; the people were called out once the fields were quiet."
+  },
+  {
+   "id": "honest_scribe",
+   "ja": "{nation}の史官は、君主にとって都合の悪いことも、ありのままに書き記した。",
+   "en": "The scribes of {nation} wrote down even what did not flatter their lord, exactly as it happened."
+  },
+  {
+   "id": "bells",
+   "ja": "{capital}で新しい編鐘が鋳られ、宮廷の楽が整えられた。",
+   "en": "A new set of bronze bells was cast in {capital}, and the court music was put in order."
+  },
+  {
+   "id": "field_dispute",
+   "ja": "{nation}で、田の境のあぜをめぐる争いが裁かれた。",
+   "en": "In {nation} a quarrel over the ridges between fields was judged."
+  },
+  {
+   "id": "hostage",
+   "ja": "{nation}は和を結んだ相手の国へ公子を人質として送った。",
+   "en": "{nation} sent a prince as hostage to the state it had made peace with."
+  },
+  {
+   "id": "comet",
+   "ja": "{nation}の空に彗星が現れた。占う者は兵乱の前ぶれだと言った。",
+   "en": "A comet appeared over {nation}; the diviners said it foretold war."
+  },
+  {
+   "id": "earthquake",
+   "ja": "{nation}で地が揺れ、社の大木が倒れた。",
+   "en": "The earth shook in {nation}, and the great tree at the altar of the soil fell."
+  },
+  {
+   "id": "granary",
+   "ja": "{nation}は飢饉に備えて、倉に穀物を蓄えた。",
+   "en": "{nation} filled its granaries against famine."
+  },
+  {
+   "id": "epidemic",
+   "ja": "{nation}で疫病がはやり、多くの民が倒れた。",
+   "en": "An epidemic swept {nation}, and many died."
+  },
+  {
+   "id": "hermit",
+   "ja": "{nation}の山中に、世を避けて暮らす隠者がいると評判になった。",
+   "en": "Word spread of a hermit living apart from the world in the hills of {nation}."
+  },
+  {
+   "id": "pitch_pot",
+   "ja": "{capital}の宴で、矢を壺に投げ入れる遊び (投壺) が催された。",
+   "en": "At a banquet in {capital} the guests played pitch-pot, tossing arrows into a jar."
+  },
+  {
+   "id": "soil_altar",
+   "ja": "{ruler}は社稷を祀り、豊作を祈った。",
+   "en": "{ruler} sacrificed at the altars of soil and grain and prayed for a good harvest."
+  },
+  {
+   "id": "silk_tribute",
+   "ja": "{nation}の各地から、税として絹と麻布が都へ運ばれた。",
+   "en": "Silk and hemp cloth came in from every district of {nation} as tax."
+  },
+  {
+   "id": "flood",
+   "ja": "{nation}で大水が出て、川べりの村が流された。",
+   "en": "A great flood in {nation} swept away villages along the river."
+  },
+  {
+   "id": "rite_dispute",
+   "ja": "{nation}の朝廷で、礼のしきたりに背いた振る舞いが咎められた。",
+   "en": "At the court of {nation} conduct against the rites was rebuked."
+  }
  ]
 }
