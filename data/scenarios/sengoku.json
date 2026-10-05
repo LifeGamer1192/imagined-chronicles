@@ -5664,8 +5664,8 @@
    ],
    "imp": 3,
    "at": "omura",
-   "ja": "{r_omura}は宣教師から洗礼を受け、最初のキリシタン大名となった。南蛮船は{n_omura}の港に入るようになった。",
-   "en": "{r_omura} was baptised by the missionaries, the first Christian daimyo. The southern barbarian ships began to call at the ports of {n_omura}."
+   "ja": "{r_omura}は宣教師から[[a:kirisuto|洗礼を受け]]、最初のキリシタン大名となった。南蛮船は{n_omura}の港に入るようになった。",
+   "en": "{r_omura} was [[a:kirisuto|baptised]] by the missionaries, the first Christian daimyo. The southern barbarian ships began to call at the ports of {n_omura}."
   },
   {
    "id": "mikawa_ikko",
@@ -8257,8 +8257,8 @@
    ],
    "imp": 3,
    "at": "nagasaki",
-   "ja": "幕府は全国にキリスト教の禁教令を出した。宣教師や信徒の主だった者は国外へ追われた。",
-   "en": "The shogunate banned Christianity throughout the land; the missionaries and leading believers were sent abroad."
+   "ja": "幕府は全国に[[a:kirisuto|キリスト教の禁教令]]を出した。宣教師や信徒の主だった者は国外へ追われた。",
+   "en": "The shogunate [[a:kirisuto|banned Christianity]] throughout the land; the missionaries and leading believers were sent abroad."
   },
   {
    "id": "satomi_end",
@@ -9595,6 +9595,94 @@
     "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +8%",
     "en": "In the game, once for a realm that takes it up: stability +8%"
    }
+  },
+  "kirisuto": {
+   "kind": "school",
+   "title": {
+    "ja": "キリスト教の伝来",
+    "en": "The coming of Christianity"
+   },
+   "body": {
+    "ja": "1549年、宣教師フランシスコ・ザビエルが鹿児島に上陸し、日本にキリスト教が伝わった。宣教師たちは南蛮船とともに九州の港々を訪れ、大名に布教の許しを求めた。南蛮貿易の船は、布教を許す大名の港に入ることが多かった。\n\n豊後の[[p:大友宗麟]]は1551年にザビエルを府内に迎えて布教を許し、のちに自ら洗礼を受けた。1563年には肥前の[[p:大村純忠]]が大名として初めて洗礼を受け、1580年には長崎の地を宣教師に寄進した。[[p:有馬晴信]]もこれに続いた。信者は九州を中心に数十万人に達したといわれる。\n\n1582年、大友・大村・有馬の三家は、四人の少年をはるかローマへ使節として送った (天正遣欧使節)。八年後に帰国したとき、日本の様子は一変していた。1587年、豊臣秀吉は宣教師の国外退去を命じた (バテレン追放令)。貿易は続けられたため命令は徹底されなかったが、1614年には江戸幕府がキリスト教を全国で禁じ、高山右近らは国外へ追われた。",
+    "en": "In 1549 the missionary Francis Xavier landed at Kagoshima and Christianity came to Japan. Missionaries travelled with the southern barbarian ships to the ports of Kyūshū, asking the lords for leave to preach; and the trading ships tended to call at the ports of lords who gave it.\n\n[[p:大友宗麟|Ōtomo Sōrin]] of Bungo welcomed Xavier to Funai in 1551 and allowed preaching, and was later baptised himself. In 1563 [[p:大村純忠|Ōmura Sumitada]] of Hizen became the first daimyo to be baptised, and in 1580 he gave Nagasaki to the missionaries; [[p:有馬晴信|Arima Harunobu]] followed. Believers numbered in the hundreds of thousands, mostly in Kyūshū.\n\nIn 1582 the Ōtomo, Ōmura and Arima sent four boys as envoys all the way to Rome. When they came home eight years later Japan had changed. In 1587 Toyotomi Hideyoshi ordered the missionaries out of the country; since the trade went on, the order was loosely kept. In 1614 the Tokugawa shogunate banned Christianity throughout the land, and men like Takayama Ukon were sent into exile."
+   },
+   "year": 1549,
+   "people": [
+    "大友宗麟|Ōtomo Sōrin",
+    "大村純忠|Ōmura Sumitada",
+    "有馬晴信|Arima Harunobu",
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "nanban"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 文化 +2%・威信 +2",
+    "en": "In the game, once for a realm that takes it up: arts +2%, prestige +2"
+   }
+  },
+  "noh": {
+   "kind": "school",
+   "title": {
+    "ja": "能と幸若舞",
+    "en": "Noh and kōwaka"
+   },
+   "body": {
+    "ja": "能は、室町時代に観阿弥と世阿弥の親子が大成した歌舞劇である。面をつけた主人公が、謡と囃子に合わせてゆっくりと舞う。世阿弥は芸の奥義を書き残し、「秘すれば花なり」——見せないところに美がある——と説いた。\n\n戦国の武将たちは能を愛した。豊臣秀吉はとりわけ熱心で、朝鮮出兵の本陣のあった肥前の名護屋で能を習い、1593年には御所で天皇の前で自ら舞った。自分の手柄を題材にした新作の能まで作らせている。\n\n[[p:織田信長]]が好んだのは、能よりも素朴な語り物の舞「幸若舞」であった。とりわけ「敦盛」——一ノ谷の戦いで、熊谷直実が我が子ほどの若武者平敦盛を泣く泣く討ち、世の無常を感じて出家する物語——の一節を、桶狭間の朝に舞ったことはよく知られている。",
+    "en": "Noh is the masked music-drama perfected in the Muromachi period by Kan'ami and his son Zeami: a masked protagonist dancing slowly to chant and drums. Zeami wrote down the secrets of his art: \"What is hidden is the flower\" — beauty lies in what is not shown.\n\nThe warlords loved it. Toyotomi Hideyoshi above all: he took lessons at Nagoya in Hizen, base of his invasion of Korea, and in 1593 danced himself before the emperor at the palace, and had new plays written about his own deeds.\n\n[[p:織田信長|Oda Nobunaga]] preferred kōwaka, a plainer sung and danced storytelling — especially Atsumori, the tale of Kumagai Naozane, who at the battle of Ichinotani tearfully killed the young Taira no Atsumori, a boy his own son's age, and left the world in sorrow. Nobunaga's dance of its lines on the morning of Okehazama is famous."
+   },
+   "year": 1593,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "atsumori",
+    "renga",
+    "chanoyu"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 文化 +4%",
+    "en": "In the game, once for a realm that takes it up: arts +4%"
+   }
+  },
+  "atsumori": {
+   "kind": "school",
+   "title": {
+    "ja": "幸若舞「敦盛」",
+    "en": "Atsumori, the kōwaka ballad"
+   },
+   "body": {
+    "ja": "「敦盛」は、源平の一ノ谷の戦い (1184年) の一場面を語る幸若舞の曲である。源氏の武将熊谷直実は、海へ逃れようとする平家の若武者を呼び止め、組み伏せて首を取ろうとした。兜を上げると、我が子と同じ十六、七の美しい若者——平敦盛であった。\n\n直実は逃がそうとしたが、味方の軍勢が迫っていた。「どうせ他の者の手にかかるなら」と泣く泣く首を取った。敦盛の腰には笛があり、夜明け前に平家の陣から聞こえていた笛の音はこの若者のものだったと知る。直実は世の無常を悟り、のちに出家した。\n\n曲の中で直実は「人間五十年、下天のうちをくらぶれば、夢幻のごとくなり」と嘆く。人の世の五十年など、天上の時の流れに比べれば夢か幻のようなものだ——[[p:織田信長]]はこの一節を好み、桶狭間に出陣する朝に舞ったと『信長公記』は伝える。信長は四十九歳で本能寺に死んだ。",
+    "en": "Atsumori is a kōwaka ballad telling a scene from the battle of Ichinotani (1184) in the war of the Minamoto and Taira. The Minamoto warrior Kumagai Naozane called back a young Taira knight fleeing to the ships, threw him down and raised his helmet to take his head — and found a beautiful youth of sixteen or so, his own son's age: Taira no Atsumori.\n\nNaozane wanted to let him go, but his own side's horsemen were coming. \"If he must die at another's hand,\" he wept, and took the head. At the boy's waist was a flute; the music heard from the Taira camp before dawn had been his. Naozane, seeing how fleeting the world is, later became a monk.\n\nIn the ballad he laments: \"Fifty years of a man's life, beside the realm below heaven, are a dream, an illusion.\" [[p:織田信長|Oda Nobunaga]] loved these lines and danced them on the morning he rode out to Okehazama, says his chronicle. He died at Honnōji at forty-nine."
+   },
+   "people": [
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "noh",
+    "renga"
+   ]
+  },
+  "renga": {
+   "kind": "school",
+   "title": {
+    "ja": "連歌と愛宕百韻",
+    "en": "Linked verse, and the hundred verses of Atago"
+   },
+   "body": {
+    "ja": "連歌は、何人もが集まって五七五の句と七七の句を交互に詠みつないでいく歌である。武将や商人、公家が身分をこえて同じ座に連なり、教養と機知を競った。茶の湯と並ぶ、戦国の社交の場であった。\n\n1582年五月、[[p:明智光秀]]は京の愛宕山で連歌の会を開いた。その発句は「時は今 あめが下しる 五月かな」。「時 (とき)」は光秀の家である土岐氏に、「あめが下しる」は「天が下 (天下) を治める」に通じる——後の人々は、本能寺の変を前にした光秀の決意が込められていたと読んだ。\n\nその十日ほど後、光秀は本能寺の信長を襲った。もっとも、この読み方は後から付けられたもので、本当に光秀がそう考えていたかは分からない。",
+    "en": "Renga, linked verse, was composed by a gathering, each poet capping the last with a verse of 5-7-5 or 7-7 syllables. Warriors, merchants and court nobles sat together beyond their ranks to match learning and wit — with tea, the great social art of the age of war.\n\nIn the fifth month of 1582 [[p:明智光秀|Akechi Mitsuhide]] held a renga gathering on Mount Atago near Kyoto. His opening verse ran: \"Now is the time / to rule all under the rain / in the fifth month.\" \"Time\" (toki) sounds like Toki, the house of Mitsuhide's forebears; \"all under the rain\" (ame ga shita) sounds like \"all under heaven\". Later readers took it as his resolve before Honnōji.\n\nTen days or so later he attacked Nobunaga at Honnōji. The reading, though, was put on the verse afterwards; whether Mitsuhide meant it so, no one knows."
+   },
+   "year": 1582,
+   "people": [
+    "明智光秀|Akechi Mitsuhide",
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "noh",
+    "chanoyu"
+   ]
   }
  },
  "goods": [
@@ -9788,6 +9876,42 @@
    "fx": {
     "stability": 0.08
    }
+  },
+  {
+   "art": "kirisuto",
+   "adopt": [
+    [
+     1551,
+     "otomo"
+    ],
+    [
+     1563,
+     "omura",
+     "q"
+    ],
+    [
+     1576,
+     "arima"
+    ]
+   ],
+   "fx": {
+    "arts": 0.02,
+    "prestige": 2
+   },
+   "kind": "school"
+  },
+  {
+   "art": "noh",
+   "adopt": [
+    [
+     1593,
+     "oda"
+    ]
+   ],
+   "fx": {
+    "arts": 0.04
+   },
+   "kind": "school"
   }
  ]
 }

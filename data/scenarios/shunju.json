@@ -8165,8 +8165,8 @@
      10
     ]
    ],
-   "ja": "夾谷の会。[[p:孔子]]は{n_lu}の定公の相として{n_qi}との会盟に臨み、斉の企てを退けて奪われていた土地を返させた。",
-   "en": "At the meeting of Jiagu [[p:孔子|Confucius]] attended Duke Ding of {n_lu} and thwarted a plot of {n_qi}, winning back land Qi had taken."
+   "ja": "夾谷の会。[[p:孔子]]は{n_lu}の[[a:ru|定公の相として]]{n_qi}との会盟に臨み、斉の企てを退けて奪われていた土地を返させた。",
+   "en": "At the meeting of Jiagu [[p:孔子|Confucius]] [[a:ru|attended Duke Ding]] of {n_lu} and thwarted a plot of {n_qi}, winning back land Qi had taken."
   },
   {
    "id": "zuili",
@@ -9225,8 +9225,8 @@
     ]
    ],
    "imp": 3,
-   "ja": "[[p:蘇秦]]は六国を説いて回り、秦に対する「合従」の盟を結ばせ、六国の相の印を帯びたという。",
-   "en": "[[p:蘇秦|Su Qin]] went from court to court and won the six realms to an alliance against Qin — the Vertical Alliance — and carried, it is said, the seals of chief minister of all six."
+   "ja": "[[p:蘇秦]]は六国を説いて回り、秦に対する[[a:zongheng|「合従」]]の盟を結ばせ、六国の相の印を帯びたという。",
+   "en": "[[p:蘇秦|Su Qin]] went from court to court and won the six realms to an alliance against Qin — [[a:zongheng|the Vertical Alliance]] — and carried, it is said, the seals of chief minister of all six."
   },
   {
    "id": "qin_king",
@@ -10544,8 +10544,8 @@
     "en": "The picked soldiers of Wei"
    },
    "body": {
-    "ja": "戦国の初め、魏の文侯は[[p:呉起]]に命じて精兵「武卒」を選ばせた。[[p:荀子]]によれば、その試験は、三重の鎧を着て、十二石の弩を引き、矢五十本を背負い、戈をかつぎ、兜をかぶり剣を帯び、三日分の食糧を担いで、半日で百里を走ること。合格すれば家の税と労役を免じられ、田と家を与えられた。\n\n[[p:呉起]]は兵と同じものを食べ、同じ所に寝て、馬にも乗らず、自分の食糧は自分で担いだ。兵の腫れ物の膿を口で吸い出してやったとき、その兵の母は声を上げて泣いた。「あの子の父も将軍に膿を吸っていただき、ご恩に報いようと退かずに戦って死にました。あの子もきっと同じことになるでしょう」。\n\n武卒を率いた[[p:呉起]]は秦から河西の地を奪い、諸侯と七十六度戦って六十四度勝ち、残りも引き分けたという。魏は戦国の初めの最強国となった。\n\nしかし[[p:荀子]]は武卒の弱点も指摘している。一度選ばれると、年を取って衰えても特権は取り上げられない。新しく選ぶにも費用がかかる。国が豊かでも兵の数を増やせない。呉起が魏を去り、馬陵で魏が敗れたのち、選ばれた精兵の時代は、秦の軍功爵による大動員の時代に取って代わられていった。",
-    "en": "At the start of the Warring States Marquis Wen of Wei had [[p:呉起|Wu Qi]] select an elite infantry, the \"martial soldiers\". [[p:荀子|Xunzi]] describes the test: in three layers of armour, spanning a twelve-stone crossbow, with fifty arrows on the back, a dagger-axe on the shoulder, helmet and sword, and three days' food, a man had to cover a hundred li by noon. Those who passed were freed from tax and labour and given fields and a house.\n\n[[p:呉起|Wu Qi]] ate what his men ate, slept where they slept, would not ride, and carried his own food. When he sucked the pus from a soldier's abscess, the soldier's mother wailed: \"The general did the same for his father, who would not turn back in battle to repay him, and died. Now my son will too.\"\n\nLeading these soldiers [[p:呉起|Wu Qi]] took the land west of the Yellow River from Qin and fought the lords seventy-six times, winning sixty-four and drawing the rest, it is said. Wei became the first great power of the Warring States.\n\n[[p:荀子|Xunzi]] also saw the weakness. A man once chosen kept his privileges even when he grew old and weak; choosing new men was costly; a rich state still could not field more of them. After Wu Qi left Wei and Wei was beaten at Maling, the age of picked soldiers gave way to the mass levies of Qin and its ranks for heads."
+    "ja": "戦国の初め、魏の文侯は[[p:呉起]]に命じて精兵「武卒」を選ばせた。[[p:荀子]]によれば、その試験は、三重の鎧を着て、十二石の弩を引き、矢五十本を背負い、戈をかつぎ、兜をかぶり剣を帯び、三日分の食糧を担いで、半日で百里を走ること。合格すれば家の税と労役を免じられ、田と家を与えられた。\n\n[[p:呉起]]は兵と同じものを食べ、同じ所に寝て、馬にも乗らず、自分の食糧は自分で担いだ。兵の腫れ物の膿を口で吸い出してやったとき、その兵の母は声を上げて泣いた。「あの子の父も将軍に膿を吸っていただき、ご恩に報いようと退かずに戦って死にました。あの子もきっと同じことになるでしょう」。\n\n武卒を率いた[[p:呉起]]は秦から河西の地を奪い、諸侯と七十六度戦って六十四度勝ち、残りも引き分けたという。魏は戦国の初めの最強国となった。\n\nしかし[[p:荀子]]は武卒の弱点も指摘している。一度選ばれると、年を取って衰えても特権は取り上げられない。新しく選ぶにも費用がかかる。国が豊かでも兵の数を増やせない。[[p:呉起]]が魏を去り、馬陵で魏が敗れたのち、選ばれた精兵の時代は、秦の軍功爵による大動員の時代に取って代わられていった。",
+    "en": "At the start of the Warring States Marquis Wen of Wei had [[p:呉起|Wu Qi]] select an elite infantry, the \"martial soldiers\". [[p:荀子|Xunzi]] describes the test: in three layers of armour, spanning a twelve-stone crossbow, with fifty arrows on the back, a dagger-axe on the shoulder, helmet and sword, and three days' food, a man had to cover a hundred li by noon. Those who passed were freed from tax and labour and given fields and a house.\n\n[[p:呉起|Wu Qi]] ate what his men ate, slept where they slept, would not ride, and carried his own food. When he sucked the pus from a soldier's abscess, the soldier's mother wailed: \"The general did the same for his father, who would not turn back in battle to repay him, and died. Now my son will too.\"\n\nLeading these soldiers [[p:呉起|Wu Qi]] took the land west of the Yellow River from Qin and fought the lords seventy-six times, winning sixty-four and drawing the rest, it is said. Wei became the first great power of the Warring States.\n\n[[p:荀子|Xunzi]] also saw the weakness. A man once chosen kept his privileges even when he grew old and weak; choosing new men was costly; a rich state still could not field more of them. After [[p:呉起|Wu Qi]] left Wei and Wei was beaten at Maling, the age of picked soldiers gave way to the mass levies of Qin and its ranks for heads."
    },
    "year": 400,
    "people": [
@@ -10582,7 +10582,7 @@
     "en": "The swords of Wu and Yue"
    },
    "body": {
-    "ja": "春秋の終わり、長江の下流の呉と越は、名剣の国として知られた。青銅に錫を合わせる割合を変えて、刃は硬く、芯は粘り強く鋳分ける技があったという。\n\n伝説の刀工も多い。越の欧冶子は越王のために「湛盧」「純鈞」など五振りの剣を鍛えた。呉王[[p:闔閭]]に命じられた干将は、炉の鉄がどうしても溶けず、妻の莫耶が髪と爪を炉に投じてようやく溶けたという。こうして鍛えた雌雄二振りの剣が「干将」と「莫耶」である。\n\n1965年、湖北省の楚の墓から一振りの剣が掘り出された。刃には鳥の形をした文字で「越王鳩浅 (勾践) 自ら作りて用いる剣」とある。二千四百年以上土の中にあったのに錆はほとんどなく、刃は紙を何枚も重ねて切れたという。越の剣がなぜ楚の墓に入ったのか——嫁入り道具だったのか、戦利品だったのか——は分かっていない。\n\n剣にまつわる美しい話もある。呉の公子[[p:季札]]が北へ使いに行く途中、徐の君主が[[p:季札]]の剣を欲しそうに見ていた。使いの途中なので贈れなかった季札が帰りに立ち寄ると、徐君はもう亡くなっていた。季札は剣を外して墓の木に掛けて去った。「心の中で贈ると決めていたのだから、相手が死んだからといって約束を破れようか」。",
+    "ja": "春秋の終わり、長江の下流の呉と越は、名剣の国として知られた。青銅に錫を合わせる割合を変えて、刃は硬く、芯は粘り強く鋳分ける技があったという。\n\n伝説の刀工も多い。越の欧冶子は越王のために「湛盧」「純鈞」など五振りの剣を鍛えた。呉王[[p:闔閭]]に命じられた干将は、炉の鉄がどうしても溶けず、妻の莫耶が髪と爪を炉に投じてようやく溶けたという。こうして鍛えた雌雄二振りの剣が「干将」と「莫耶」である。\n\n1965年、湖北省の楚の墓から一振りの剣が掘り出された。刃には鳥の形をした文字で「越王鳩浅 (勾践) 自ら作りて用いる剣」とある。二千四百年以上土の中にあったのに錆はほとんどなく、刃は紙を何枚も重ねて切れたという。越の剣がなぜ楚の墓に入ったのか——嫁入り道具だったのか、戦利品だったのか——は分かっていない。\n\n剣にまつわる美しい話もある。呉の公子[[p:季札]]が北へ使いに行く途中、徐の君主が[[p:季札]]の剣を欲しそうに見ていた。使いの途中なので贈れなかった[[p:季札]]が帰りに立ち寄ると、徐君はもう亡くなっていた。季札は剣を外して墓の木に掛けて去った。「心の中で贈ると決めていたのだから、相手が死んだからといって約束を破れようか」。",
     "en": "At the end of the Spring and Autumn the lower Yangzi states of Wu and Yue were famous for their swords. Their smiths cast blades in which the proportion of tin to copper differed — a hard edge, a tougher core.\n\nLegendary smiths abound. Ou Yezi forged five swords for the king of Yue, among them Zhanlu and Chunjun. Gan Jiang, set to work by King [[p:闔閭|Helü]] of Wu, could not get his iron to melt until his wife Mo Ye threw her hair and nail clippings into the furnace; the pair of swords that came of it bear their names.\n\nIn 1965 a sword was dug from a Chu tomb in Hubei. Its blade carries, in bird-shaped script, \"[[p:句践|Goujian]], King of Yue, made this sword for his own use\". After more than 2,400 years underground it was barely tarnished, and could still cut through a stack of paper. How a Yue sword came to lie in a Chu grave — dowry or booty — no one knows.\n\nThere is a gentle story too. [[p:季札|Ji Zha]], a prince of Wu travelling north as envoy, saw that the lord of Xu admired his sword. An envoy cannot give away his sword mid-journey; when [[p:季札|Ji Zha]] came back, the lord of Xu was dead. He hung the sword on a tree by the grave and went on. \"I had promised it in my heart. Should his death make me break my word?\""
    },
    "year": 496,
@@ -10668,8 +10668,8 @@
     "en": "The reforms of Guan Zhong"
    },
    "body": {
-    "ja": "斉の桓公は、かつて自分に矢を射かけた[[p:管仲]]を、親友の[[p:鮑叔牙]]に勧められて宰相に迎えた。管仲は斉を、春秋で最初の覇者の国に作り変えた。\n\n管仲はまず民を四つに分けて住まわせた。士 (武士)・農・工・商。同じ仕事の者が集まって住めば、子は親の技を見て自然に覚え、余計な望みを持たない、と考えたのである。さらに村の組織をそのまま軍の組織とし (内政に軍令を寄せる)、五家が一組の伍は戦では五人の伍となった。幼い頃から共に暮らした者同士は、夜の戦でも声で互いを知り、死を共にできる。\n\n国の財は海から得た。海水を煮て塩を作り、鉄を管理し、物の値の上下を見て国が買い入れ売り払う。管仲の言葉として「倉が満ちて礼節を知り、衣食が足りて栄誉と恥を知る」が伝わる。\n\n桓公はこの力で諸侯を集め、周の王を尊び、北の山戎や南の楚を討った。[[p:孔子]]はのちに「管仲がいなければ、私たちは今ごろ髪を振り乱し、着物を左前に着ていただろう (夷狄の風になっていただろう)」と言った。",
-    "en": "Duke Huan of Qi made [[p:管仲|Guan Zhong]] his chief minister — the man who had once shot an arrow at him — on the word of Guan Zhong's friend [[p:鮑叔牙|Bao Shuya]]. Guan Zhong made Qi the first hegemon of the Spring and Autumn.\n\nHe began by settling the people in four orders, each in its own quarter: officers, farmers, craftsmen and merchants. Living among their own trade, children learned it from their parents and wanted nothing else. He made the village the army, too: five households were five men in a file, and men who had grown up together knew each other's voices in a night battle and would die for one another.\n\nWealth came from the sea: brine boiled into salt, iron under the state's hand, and the state buying cheap and selling dear as prices rose and fell. A saying is put in his mouth: \"When the granaries are full, people know propriety; when food and clothing suffice, they know honour and shame.\"\n\nWith this strength Duke Huan gathered the lords, honoured the king of Zhou and struck the Mountain Rong in the north and Chu in the south. \"But for Guan Zhong,\" [[p:孔子|Confucius]] said, \"we should all be wearing our hair loose and folding our robes to the left like barbarians.\""
+    "ja": "斉の桓公は、かつて自分に矢を射かけた[[p:管仲]]を、親友の[[p:鮑叔牙]]に勧められて宰相に迎えた。[[p:管仲]]は斉を、春秋で最初の覇者の国に作り変えた。\n\n管仲はまず民を四つに分けて住まわせた。士 (武士)・農・工・商。同じ仕事の者が集まって住めば、子は親の技を見て自然に覚え、余計な望みを持たない、と考えたのである。さらに村の組織をそのまま軍の組織とし (内政に軍令を寄せる)、五家が一組の伍は戦では五人の伍となった。幼い頃から共に暮らした者同士は、夜の戦でも声で互いを知り、死を共にできる。\n\n国の財は海から得た。海水を煮て塩を作り、鉄を管理し、物の値の上下を見て国が買い入れ売り払う。管仲の言葉として「倉が満ちて礼節を知り、衣食が足りて栄誉と恥を知る」が伝わる。\n\n桓公はこの力で諸侯を集め、周の王を尊び、北の山戎や南の楚を討った。[[p:孔子]]はのちに「管仲がいなければ、私たちは今ごろ髪を振り乱し、着物を左前に着ていただろう (夷狄の風になっていただろう)」と言った。",
+    "en": "Duke Huan of Qi made [[p:管仲|Guan Zhong]] his chief minister — the man who had once shot an arrow at him — on the word of [[p:管仲|Guan Zhong]]'s friend [[p:鮑叔牙|Bao Shuya]]. Guan Zhong made Qi the first hegemon of the Spring and Autumn.\n\nHe began by settling the people in four orders, each in its own quarter: officers, farmers, craftsmen and merchants. Living among their own trade, children learned it from their parents and wanted nothing else. He made the village the army, too: five households were five men in a file, and men who had grown up together knew each other's voices in a night battle and would die for one another.\n\nWealth came from the sea: brine boiled into salt, iron under the state's hand, and the state buying cheap and selling dear as prices rose and fell. A saying is put in his mouth: \"When the granaries are full, people know propriety; when food and clothing suffice, they know honour and shame.\"\n\nWith this strength Duke Huan gathered the lords, honoured the king of Zhou and struck the Mountain Rong in the north and Chu in the south. \"But for Guan Zhong,\" [[p:孔子|Confucius]] said, \"we should all be wearing our hair loose and folding our robes to the left like barbarians.\""
    },
    "year": 685,
    "people": [
@@ -10717,8 +10717,8 @@
     "en": "Laws for all to see"
    },
    "body": {
-    "ja": "それまで刑罰の決まりは、貴族たちが胸に秘めて、その時々に裁くものであった。前536年、鄭の宰相[[p:子産]]は、刑法を青銅の鼎に鋳込んで人々に示した (刑書)。\n\n晋の賢人[[p:叔向]]は子産に手紙を送って責めた。「民が法を知れば、上を恐れず、条文を盾に争うようになる。国は滅びるだろう」。子産は短く答えた。「私には子孫のことまで考える才はない。ただ世を救うためにするのだ」。\n\n前513年には晋も、趙鞅らが鉄の鼎に刑法を鋳込んだ。[[p:孔子]]は「民が鼎を見て法を知れば、貴人を尊ぶだろうか」と嘆いたという。\n\n鄭ではさらに、鄧析という人が竹簡に法を書き写した「竹刑」を作り、人々の訴えを手伝った。鄧析は前501年に処刑されたが、その竹刑は使われ続けた。法を誰もが読めるものにする流れは、戦国の法家へとつながっていく。",
-    "en": "Until then the rules of punishment were kept in the nobles' heads and applied as they saw fit. In 536 BC [[p:子産|Zichan]], chief minister of Zheng, cast the laws on bronze cauldrons for all to see.\n\n[[p:叔向|Shuxiang]], the wise man of Jin, wrote to rebuke him: \"When the people know the law they will not fear their betters; they will quarrel over its words, and the state will perish.\" Zichan replied briefly: \"I lack the talent to think of my descendants. I do it to save the present age.\"\n\nIn 513 BC Jin too, under Zhao Yang, cast its laws on an iron cauldron. [[p:孔子|Confucius]] lamented: once the people read the law on the cauldron, would they still honour the noble?\n\nIn Zheng a man named Deng Xi copied the laws onto bamboo — the \"bamboo code\" — and helped people with their suits. He was put to death in 501 BC, but his code stayed in use. Making the law something anyone could read led on to the Legalists of the Warring States."
+    "ja": "それまで刑罰の決まりは、貴族たちが胸に秘めて、その時々に裁くものであった。前536年、鄭の宰相[[p:子産]]は、刑法を青銅の鼎に鋳込んで人々に示した (刑書)。\n\n晋の賢人[[p:叔向]]は[[p:子産]]に手紙を送って責めた。「民が法を知れば、上を恐れず、条文を盾に争うようになる。国は滅びるだろう」。子産は短く答えた。「私には子孫のことまで考える才はない。ただ世を救うためにするのだ」。\n\n前513年には晋も、趙鞅らが鉄の鼎に刑法を鋳込んだ。[[p:孔子]]は「民が鼎を見て法を知れば、貴人を尊ぶだろうか」と嘆いたという。\n\n鄭ではさらに、鄧析という人が竹簡に法を書き写した「竹刑」を作り、人々の訴えを手伝った。鄧析は前501年に処刑されたが、その竹刑は使われ続けた。法を誰もが読めるものにする流れは、戦国の法家へとつながっていく。",
+    "en": "Until then the rules of punishment were kept in the nobles' heads and applied as they saw fit. In 536 BC [[p:子産|Zichan]], chief minister of Zheng, cast the laws on bronze cauldrons for all to see.\n\n[[p:叔向|Shuxiang]], the wise man of Jin, wrote to rebuke him: \"When the people know the law they will not fear their betters; they will quarrel over its words, and the state will perish.\" [[p:子産|Zichan]] replied briefly: \"I lack the talent to think of my descendants. I do it to save the present age.\"\n\nIn 513 BC Jin too, under Zhao Yang, cast its laws on an iron cauldron. [[p:孔子|Confucius]] lamented: once the people read the law on the cauldron, would they still honour the noble?\n\nIn Zheng a man named Deng Xi copied the laws onto bamboo — the \"bamboo code\" — and helped people with their suits. He was put to death in 501 BC, but his code stayed in use. Making the law something anyone could read led on to the Legalists of the Warring States."
    },
    "year": 536,
    "people": [
@@ -10742,8 +10742,8 @@
     "en": "The reforms of Li Kui"
    },
    "body": {
-    "ja": "戦国の初め、魏の文侯は[[p:李悝]]を用いて国を立て直した。李悝は「土地の力を尽くす教え」を説いた。同じ広さの田でも、よく耕せば収穫は大きく増える。勤めれば増え、怠ければ減る——それが国全体では大きな差になる。\n\n李悝はまた「平糴法」を定めた。豊作の年には国が穀物を買い上げて値崩れを防ぎ、不作の年には蓄えを売り出して値上がりを抑える。農民も町の民も守られ、魏は豊かになった。\n\n李悝がまとめた『法経』六篇 (盗・賊・囚・捕・雑・具) は、中国の法典の始まりとされる。[[p:商鞅]]はこれを秦に持って行き、秦の法の土台とした。「食は労ある者に、禄は功ある者に」——家柄ではなく働きで報いるという考えも、李悝のものとして伝わる。",
-    "en": "At the start of the Warring States Marquis Wen of Wei rebuilt his state with [[p:李悝|Li Kui]]. Li Kui taught \"making the most of the land\": the same field gives far more if worked well, and the difference, across a whole country, is enormous.\n\nHe also set up the \"even purchase\" law: in good years the state bought grain so the price would not collapse, in bad years it sold from its stores to keep the price down. Farmers and townsfolk were both protected, and Wei grew rich.\n\nHis Canon of Laws in six books — theft, violence, prisons, arrest, miscellany and general rules — is counted the first Chinese code. [[p:商鞅|Shang Yang]] took it to Qin, where it became the base of Qin law. \"Food to those who labour, stipends to those of merit\" — reward by deeds rather than birth — is also attributed to him."
+    "ja": "戦国の初め、魏の文侯は[[p:李悝]]を用いて国を立て直した。[[p:李悝]]は「土地の力を尽くす教え」を説いた。同じ広さの田でも、よく耕せば収穫は大きく増える。勤めれば増え、怠ければ減る——それが国全体では大きな差になる。\n\n李悝はまた「平糴法」を定めた。豊作の年には国が穀物を買い上げて値崩れを防ぎ、不作の年には蓄えを売り出して値上がりを抑える。農民も町の民も守られ、魏は豊かになった。\n\n李悝がまとめた『法経』六篇 (盗・賊・囚・捕・雑・具) は、中国の法典の始まりとされる。[[p:商鞅]]はこれを秦に持って行き、秦の法の土台とした。「食は労ある者に、禄は功ある者に」——家柄ではなく働きで報いるという考えも、李悝のものとして伝わる。",
+    "en": "At the start of the Warring States Marquis Wen of Wei rebuilt his state with [[p:李悝|Li Kui]]. [[p:李悝|Li Kui]] taught \"making the most of the land\": the same field gives far more if worked well, and the difference, across a whole country, is enormous.\n\nHe also set up the \"even purchase\" law: in good years the state bought grain so the price would not collapse, in bad years it sold from its stores to keep the price down. Farmers and townsfolk were both protected, and Wei grew rich.\n\nHis Canon of Laws in six books — theft, violence, prisons, arrest, miscellany and general rules — is counted the first Chinese code. [[p:商鞅|Shang Yang]] took it to Qin, where it became the base of Qin law. \"Food to those who labour, stipends to those of merit\" — reward by deeds rather than birth — is also attributed to him."
    },
    "year": 403,
    "people": [
@@ -10768,8 +10768,8 @@
     "en": "Wu Qi's reforms in Chu"
    },
    "body": {
-    "ja": "魏を追われた名将[[p:呉起]]は、南の楚の悼王に迎えられて令尹 (宰相) となった。呉起は、楚が大きいのに弱いのは、貴族が多すぎるからだと見た。\n\n呉起は、三代を過ぎた貴族の封地と俸禄を取り上げ、貴族たちを人の少ない辺境の地に移し、役に立たない役人を減らした。浮いた財で兵を養い、楚は南の百越を従え、北では陳・蔡を併せ、三晋を退けた。\n\nだが恨みは深かった。前381年、悼王が死ぬと、貴族たちは葬儀の場で呉起に矢を射かけた。呉起は王の亡骸に覆いかぶさって死んだ。王の遺体に矢を当てるのは大罪である。新しい王は、王の亡骸を射た者を罪に問い、七十余りの家が滅ぼされた。呉起は死んでなお、仇に報いたのである。",
-    "en": "Driven from Wei, the great general [[p:呉起|Wu Qi]] was welcomed by King Dao of Chu and made chief minister. Chu, he saw, was big but weak because it carried too many nobles.\n\nHe took back the fiefs and stipends of noble lines three generations old, moved the nobles to empty frontier lands and cut useless offices. The savings fed soldiers; Chu subdued the Hundred Yue in the south, swallowed Chen and Cai in the north and drove back the three Jin states.\n\nThe hatred ran deep. When King Dao died in 381 BC the nobles shot at Wu Qi during the funeral. He threw himself over the king's body and died there. To strike a king's corpse was a great crime: the new king punished all who had shot at it, and more than seventy families were wiped out. Even in death Wu Qi repaid his enemies."
+    "ja": "魏を追われた名将[[p:呉起]]は、南の楚の悼王に迎えられて令尹 (宰相) となった。[[p:呉起]]は、楚が大きいのに弱いのは、貴族が多すぎるからだと見た。\n\n呉起は、三代を過ぎた貴族の封地と俸禄を取り上げ、貴族たちを人の少ない辺境の地に移し、役に立たない役人を減らした。浮いた財で兵を養い、楚は南の百越を従え、北では陳・蔡を併せ、三晋を退けた。\n\nだが恨みは深かった。前381年、悼王が死ぬと、貴族たちは葬儀の場で呉起に矢を射かけた。呉起は王の亡骸に覆いかぶさって死んだ。王の遺体に矢を当てるのは大罪である。新しい王は、王の亡骸を射た者を罪に問い、七十余りの家が滅ぼされた。呉起は死んでなお、仇に報いたのである。",
+    "en": "Driven from Wei, the great general [[p:呉起|Wu Qi]] was welcomed by King Dao of Chu and made chief minister. Chu, he saw, was big but weak because it carried too many nobles.\n\nHe took back the fiefs and stipends of noble lines three generations old, moved the nobles to empty frontier lands and cut useless offices. The savings fed soldiers; Chu subdued the Hundred Yue in the south, swallowed Chen and Cai in the north and drove back the three Jin states.\n\nThe hatred ran deep. When King Dao died in 381 BC the nobles shot at [[p:呉起|Wu Qi]] during the funeral. He threw himself over the king's body and died there. To strike a king's corpse was a great crime: the new king punished all who had shot at it, and more than seventy families were wiped out. Even in death Wu Qi repaid his enemies."
    },
    "year": 382,
    "people": [
@@ -10791,8 +10791,8 @@
     "en": "The reforms of Shang Yang"
    },
    "body": {
-    "ja": "衛の公子に生まれた[[p:商鞅]] (衛鞅) は、魏で用いられず、西の秦の孝公に仕えた。前356年と前350年の二度の変法で、商鞅は秦を戦国最強の国に作り変えた。\n\nまず民を五家・十家の組に分け、一人の罪を組の皆の罪とした。戦で首を取った者には爵を与え ([[a:qin_rank|軍功爵]])、王族でも功がなければ一族の籍から外した。成人の男子が二人以上いる家には税を倍にして、家を分けさせた。都を咸陽に移し、小さな村々をまとめて四十一の県とし、県令を置いて王が直接治めた。田のあぜを改め、升や秤の大きさを国中でそろえた。そのとき作られた青銅の升 (商鞅方升) が今も残っている。\n\n法を信じさせるため、商鞅は都の南門に三丈の木を立て、「北門に移した者に十金を与える」と告げた。誰も信じないので五十金に上げると、ある男が移し、本当に五十金をもらった。\n\n前338年、孝公が死ぬと、恨みを買っていた商鞅は追われる身となった。逃げて宿を求めると、宿の主人は「商君の法で、旅の証のない客を泊めると罰せられます」と断った。商鞅は「法を作った者が、その法に苦しむとは」と嘆いたという。商鞅は捕らえられ、車裂きの刑に処された。だが彼の法は残り、秦の統一の土台となった。",
-    "en": "Born a prince of Wey, [[p:商鞅|Shang Yang]] found no place in Wei and went west to serve Duke Xiao of Qin. In two rounds of reform, in 356 and 350 BC, he turned Qin into the strongest of the Warring States.\n\nHe grouped households in fives and tens and made the crime of one the crime of all; gave rank for heads taken in battle ([[a:qin_rank|ranks for heads]]) and struck royal kinsmen without merit from the clan register; doubled the tax on households with two grown sons, so that families split up. He moved the capital to Xianyang, merged the villages into forty-one counties governed by the king's own magistrates, redrew the field boundaries and made measures and weights the same everywhere — a bronze measure of his still survives.\n\nTo make people trust the law he set up a thirty-foot pole at the south gate of the capital and offered ten gold to whoever moved it to the north gate. No one believed him; he raised it to fifty. A man moved it — and was paid.\n\nWhen Duke Xiao died in 338 BC Shang Yang, hated by many, had to flee. At an inn the keeper turned him away: \"By Lord Shang's law, whoever lodges a guest without papers is punished.\" \"So the maker of the law is caught by it,\" Shang Yang sighed. He was taken and torn apart by chariots — but his laws remained, the foundation of Qin's unification."
+    "ja": "衛の公子に生まれた[[p:商鞅]] (衛鞅) は、魏で用いられず、西の秦の孝公に仕えた。前356年と前350年の二度の変法で、[[p:商鞅]]は秦を戦国最強の国に作り変えた。\n\nまず民を五家・十家の組に分け、一人の罪を組の皆の罪とした。戦で首を取った者には爵を与え ([[a:qin_rank|軍功爵]])、王族でも功がなければ一族の籍から外した。成人の男子が二人以上いる家には税を倍にして、家を分けさせた。都を咸陽に移し、小さな村々をまとめて四十一の県とし、県令を置いて王が直接治めた。田のあぜを改め、升や秤の大きさを国中でそろえた。そのとき作られた青銅の升 (商鞅方升) が今も残っている。\n\n法を信じさせるため、商鞅は都の南門に三丈の木を立て、「北門に移した者に十金を与える」と告げた。誰も信じないので五十金に上げると、ある男が移し、本当に五十金をもらった。\n\n前338年、孝公が死ぬと、恨みを買っていた商鞅は追われる身となった。逃げて宿を求めると、宿の主人は「商君の法で、旅の証のない客を泊めると罰せられます」と断った。商鞅は「法を作った者が、その法に苦しむとは」と嘆いたという。商鞅は捕らえられ、車裂きの刑に処された。だが彼の法は残り、秦の統一の土台となった。",
+    "en": "Born a prince of Wey, [[p:商鞅|Shang Yang]] found no place in Wei and went west to serve Duke Xiao of Qin. In two rounds of reform, in 356 and 350 BC, he turned Qin into the strongest of the Warring States.\n\nHe grouped households in fives and tens and made the crime of one the crime of all; gave rank for heads taken in battle ([[a:qin_rank|ranks for heads]]) and struck royal kinsmen without merit from the clan register; doubled the tax on households with two grown sons, so that families split up. He moved the capital to Xianyang, merged the villages into forty-one counties governed by the king's own magistrates, redrew the field boundaries and made measures and weights the same everywhere — a bronze measure of his still survives.\n\nTo make people trust the law he set up a thirty-foot pole at the south gate of the capital and offered ten gold to whoever moved it to the north gate. No one believed him; he raised it to fifty. A man moved it — and was paid.\n\nWhen Duke Xiao died in 338 BC [[p:商鞅|Shang Yang]], hated by many, had to flee. At an inn the keeper turned him away: \"By Lord Shang's law, whoever lodges a guest without papers is punished.\" \"So the maker of the law is caught by it,\" Shang Yang sighed. He was taken and torn apart by chariots — but his laws remained, the foundation of Qin's unification."
    },
    "year": 356,
    "people": [
@@ -10816,8 +10816,8 @@
     "en": "The methods of Shen Buhai"
    },
    "body": {
-    "ja": "前355年頃、小国の韓の昭侯は、もとは身分の低い役人であった[[p:申不害]]を宰相とした。申不害が説いたのは「術」——君主が臣下を操る技である。\n\n君主は自分の好みや考えを見せてはならない。見せれば臣下はそれに合わせて取り入る。役目 (名) を与え、その働き (実) が役目に合っているかを見比べて賞罰を決める (名を循いて実を責む)。そうすれば臣下は君主を欺けない。\n\n申不害が生きている間の十五年、韓はよく治まり、兵は強く、攻めてくる国はなかったと『史記』は書く。のちに韓の公子[[p:韓非]]は、[[p:商鞅]]の「法」、申不害の「術」、慎到の「勢」を合わせて法家の考えをまとめ、その書は秦の始皇帝を感嘆させた。",
-    "en": "Around 355 BC Marquis Zhao of the small state of Han made [[p:申不害|Shen Buhai]], once a minor official, his chief minister. Shen taught shu — \"method\", the art by which a ruler handles his ministers.\n\nA ruler must never show his likes or his thoughts, or his ministers will flatter him to suit them. He gives each a title and checks whether the performance matches the title, rewarding and punishing accordingly. Then no minister can deceive him.\n\nFor the fifteen years of Shen's life, says the Records of the Grand Historian, Han was well governed, its army strong, and no one attacked it. Later [[p:韓非|Han Fei]], a prince of Han, joined [[p:商鞅|Shang Yang]]'s law, Shen Buhai's method and Shen Dao's power into one Legalist teaching — a book that moved the First Emperor of Qin to admiration."
+    "ja": "前355年頃、小国の韓の昭侯は、もとは身分の低い役人であった[[p:申不害]]を宰相とした。[[p:申不害]]が説いたのは「術」——君主が臣下を操る技である。\n\n君主は自分の好みや考えを見せてはならない。見せれば臣下はそれに合わせて取り入る。役目 (名) を与え、その働き (実) が役目に合っているかを見比べて賞罰を決める (名を循いて実を責む)。そうすれば臣下は君主を欺けない。\n\n申不害が生きている間の十五年、韓はよく治まり、兵は強く、攻めてくる国はなかったと『史記』は書く。のちに韓の公子[[p:韓非]]は、[[p:商鞅]]の「法」、申不害の「術」、慎到の「勢」を合わせて法家の考えをまとめ、その書は秦の始皇帝を感嘆させた。",
+    "en": "Around 355 BC Marquis Zhao of the small state of Han made [[p:申不害|Shen Buhai]], once a minor official, his chief minister. Shen taught shu — \"method\", the art by which a ruler handles his ministers.\n\nA ruler must never show his likes or his thoughts, or his ministers will flatter him to suit them. He gives each a title and checks whether the performance matches the title, rewarding and punishing accordingly. Then no minister can deceive him.\n\nFor the fifteen years of Shen's life, says the Records of the Grand Historian, Han was well governed, its army strong, and no one attacked it. Later [[p:韓非|Han Fei]], a prince of Han, joined [[p:商鞅|Shang Yang]]'s law, [[p:申不害|Shen Buhai]]'s method and Shen Dao's power into one Legalist teaching — a book that moved the First Emperor of Qin to admiration."
    },
    "year": 355,
    "related": [
@@ -10837,8 +10837,8 @@
     "en": "One measure, one script, one realm"
    },
    "body": {
-    "ja": "前221年に天下を一つにした秦は、国ごとにばらばらだったものを一つにそろえた。長さ・容積・重さの単位 (度量衡)、文字、銭、そして車の車軸の幅 (車同軌)。轍の幅がそろえば、どの国の道でも同じ車が走れる。\n\n文字は[[p:李斯]]らが整えた「小篆」に統一された。銭は円い形に四角い穴の「半両銭」となり、のちの東アジアの銭の形のもとになった。秦の分銅や升には、統一を告げる始皇帝の詔が刻まれ、それが今も各地から見つかっている。\n\n封建の諸侯は置かず、天下を三十六の郡に分け、郡には守 (長官)・尉 (軍)・監 (監察) を中央から送った。博士の淳于越が昔のように王の子弟を封じるよう説くと、李斯は「古を引いて今を誹る」と退け、やがて焚書へとつながっていく。\n\n秦は十五年で滅んだが、郡県の仕組みと統一された文字は、その後二千年の中国の形となった。",
-    "en": "Having united the realm in 221 BC, Qin made one of everything that had differed from state to state: units of length, volume and weight, the script, the coinage — and even the width of cart axles, so that the same cart could run in the ruts of any road.\n\nThe script was standardised as the \"small seal\" worked out by [[p:李斯|Li Si]] and others. Coins became round with a square hole — the banliang, ancestor of East Asian coinage. Qin weights and measures carry the First Emperor's edict of unification, and they turn up all over China to this day.\n\nThere were no fief-holding lords: the realm was divided into thirty-six commanderies, each with a governor, a military commandant and an inspector sent from the centre. When the scholar Chunyu Yue urged that the emperor's sons be given fiefs as of old, Li Si rejected \"using the past to slander the present\" — the road to the burning of the books.\n\nQin fell in fifteen years, but the commanderies and the common script shaped China for the next two thousand."
+    "ja": "前221年に天下を一つにした秦は、国ごとにばらばらだったものを一つにそろえた。長さ・容積・重さの単位 (度量衡)、文字、銭、そして車の車軸の幅 (車同軌)。轍の幅がそろえば、どの国の道でも同じ車が走れる。\n\n文字は[[p:李斯]]らが整えた「小篆」に統一された。銭は円い形に四角い穴の「半両銭」となり、のちの東アジアの銭の形のもとになった。秦の分銅や升には、統一を告げる始皇帝の詔が刻まれ、それが今も各地から見つかっている。\n\n封建の諸侯は置かず、天下を三十六の郡に分け、郡には守 (長官)・尉 (軍)・監 (監察) を中央から送った。博士の淳于越が昔のように王の子弟を封じるよう説くと、[[p:李斯]]は「古を引いて今を誹る」と退け、やがて焚書へとつながっていく。\n\n秦は十五年で滅んだが、郡県の仕組みと統一された文字は、その後二千年の中国の形となった。",
+    "en": "Having united the realm in 221 BC, Qin made one of everything that had differed from state to state: units of length, volume and weight, the script, the coinage — and even the width of cart axles, so that the same cart could run in the ruts of any road.\n\nThe script was standardised as the \"small seal\" worked out by [[p:李斯|Li Si]] and others. Coins became round with a square hole — the banliang, ancestor of East Asian coinage. Qin weights and measures carry the First Emperor's edict of unification, and they turn up all over China to this day.\n\nThere were no fief-holding lords: the realm was divided into thirty-six commanderies, each with a governor, a military commandant and an inspector sent from the centre. When the scholar Chunyu Yue urged that the emperor's sons be given fiefs as of old, [[p:李斯|Li Si]] rejected \"using the past to slander the present\" — the road to the burning of the books.\n\nQin fell in fifteen years, but the commanderies and the common script shaped China for the next two thousand."
    },
    "year": 221,
    "people": [
@@ -10851,6 +10851,154 @@
     "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +5%・技術 +0.02",
     "en": "In the game, once for a realm that takes it up: stability +5%, technology +0.02"
    }
+  },
+  "ru": {
+   "kind": "school",
+   "title": {
+    "ja": "儒家 (孔子と弟子たち)",
+    "en": "The Confucians"
+   },
+   "body": {
+    "ja": "魯の[[p:孔子]] (前551〜前479年) は、周の初めの礼と、人を思いやる心「仁」によって世を治めることを説いた。五十歳を過ぎて魯の大司寇 (司法の長) となり、夾谷の会盟では斉の企てを退けたが、まもなく魯を去り、十四年にわたって諸国を巡った。\n\n旅は苦難の連続だった。陳と蔡の間では囲まれて七日も食べられず、弟子の子路が「君子も困ることがあるのですか」と怒ると、孔子は「君子はもとより困る。小人は困れば乱れるのだ」と答えた。晩年、魯に戻った孔子は弟子を教え、伝えられる弟子は三千人、うち六経に通じた者は七十二人という。その言葉は弟子たちによって『論語』にまとめられた。\n\n孔子の死後、[[p:孟子]]は人の性は善であると説き、力ではなく徳で治める「王道」を諸侯に勧めた。斉の宣王が「私に王道ができようか」と問うと、孟子は、生贄に引かれる牛の怯える目を見て羊に替えさせた王の話を持ち出し、「その心があれば王になれます」と答えた。一方、[[p:荀子]]は人の性は悪であり、学びと礼で正すべきだと説き、その門から法家の[[p:韓非]]と[[p:李斯]]が出た。\n\n儒家は戦国の世では用いられることが少なく、秦では書を焼かれた。だが漢の武帝の時代に国の学問となり、その後二千年、東アジアの政治と暮らしの土台となった。",
+    "en": "[[p:孔子|Confucius]] of Lu (551–479 BC) taught that the world should be governed by the rites of the early Zhou and by ren — humaneness. Past fifty he became Lu's minister of justice and foiled a plot of Qi at the meeting of Jiagu, but soon left Lu and wandered from state to state for fourteen years.\n\nThe road was hard. Surrounded between Chen and Cai, he and his disciples went seven days without food; when Zilu asked angrily whether a gentleman, too, could be in such straits, Confucius answered: \"A gentleman can be in straits; it is the petty man who, in straits, loses all restraint.\" Back in Lu in old age he taught — three thousand disciples, tradition says, seventy-two of whom mastered the six classics — and his sayings were gathered by them into the Analects.\n\nAfter him [[p:孟子|Mencius]] taught that human nature is good and urged the lords to rule by virtue, the \"kingly way\", not by force. When King Xuan of Qi asked whether he could be such a king, Mencius reminded him how he had spared an ox led to sacrifice because he could not bear its frightened eyes: \"That heart is enough to make a true king.\" [[p:荀子|Xunzi]] held instead that human nature is bad and must be straightened by learning and ritual — and from his school came the Legalists [[p:韓非|Han Fei]] and [[p:李斯|Li Si]].\n\nThe Confucians were little used in the Warring States and had their books burned under Qin. Under Emperor Wu of Han their teaching became the learning of the state, and for two thousand years the foundation of East Asian government and life."
+   },
+   "year": 500,
+   "people": [
+    "孔子|Confucius",
+    "孟子|Mencius",
+    "荀子|Xunzi",
+    "韓非|Han Fei",
+    "李斯|Li Si",
+    "宣王|King Xuan"
+   ],
+   "related": [
+    "mo",
+    "jixia",
+    "written_law"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 文化 +4%・正統性 +3%",
+    "en": "In the game, once for a realm that takes it up: arts +4%, legitimacy +3%"
+   }
+  },
+  "mo": {
+   "kind": "school",
+   "title": {
+    "ja": "墨家",
+    "en": "The Mohists"
+   },
+   "body": {
+    "ja": "[[p:墨子]] (墨翟) は、儒家の礼が貴族の飾りにすぎないと批判し、すべての人を分け隔てなく愛すること (兼愛)、攻めの戦をしないこと (非攻) を説いた。墨家は質素を重んじ、自ら働き、「鉅子」と呼ばれる長に従う固い団体であった。\n\n非攻を説くだけではなかった。楚が名工[[p:公輸盤]]の作った雲梯 (攻城用のはしご車) で宋を攻めようとしたとき、墨子は十日十夜歩いて楚の都に着き、王の前で公輸盤と机上の攻め合いをした。帯を城に見立て、木片を武器にして、公輸盤は九度攻め方を変え、墨子は九度それを防いだ。しかも墨子の弟子三百人が、すでに宋の城で守りについていた。楚は宋攻めをやめた。\n\n墨家の掟は厳しかった。秦にいた鉅子の腹䵍の一人息子が人を殺したとき、秦の恵王は「老いた身に子は一人だから」と罪を許した。腹䵍は「墨者の法では人を殺した者は死ぬ」と言って、自ら息子を処刑したという。\n\n戦国の終わりまで儒家と並ぶ大きな学派であった墨家は、秦の統一の後、急に姿を消した。その書には、光や梃子の理など、古代の科学の記述も残されている。",
+    "en": "[[p:墨子|Mozi]] (Mo Di) attacked the Confucian rites as mere ornaments of the noble, and taught universal love — caring for all alike — and the condemnation of offensive war. The Mohists lived plainly, worked with their hands and obeyed a leader called the juzi: a close-knit order.\n\nThey did more than preach. When Chu prepared to attack Song with the siege ladders of the master craftsman [[p:公輸盤|Gongshu Ban]], Mozi walked ten days and nights to the Chu capital and, before the king, fought out the siege with Gongshu Ban on a table — a belt for the walls, slips of wood for the engines. Nine times Gongshu Ban changed his attack, nine times Mozi held. And three hundred of Mozi's disciples were already on the walls of Song. Chu gave up the attack.\n\nTheir law was hard. When the only son of Fu Tun, the Mohist leader in Qin, killed a man, King Hui of Qin pardoned him out of pity for the old man. Fu Tun answered that by Mohist law a killer dies, and put his son to death himself, it is said.\n\nAs great a school as the Confucians until the end of the Warring States, the Mohists vanished soon after Qin's unification. Their book preserves early science too: notes on light, on levers and on balance."
+   },
+   "year": 440,
+   "people": [
+    "墨子|Mozi"
+   ],
+   "related": [
+    "ru",
+    "crossbow"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 技術 +0.02・安定 +2%",
+    "en": "In the game, once for a realm that takes it up: technology +0.02, stability +2%"
+   }
+  },
+  "sunzi": {
+   "kind": "school",
+   "title": {
+    "ja": "孫子の兵法",
+    "en": "The Art of War"
+   },
+   "body": {
+    "ja": "斉の人[[p:孫武]]は、呉王[[p:闔閭]]に十三篇の兵法を献じて将となった (前512年頃)。宮中の女官を調練して見せた話は、柏挙の戦いの窓にある。呉はその後、楚の都郢を落とし、北の斉・晋を脅かした。\n\n『孫子』の言葉は今も生きている。「彼を知り己を知れば、百戦殆うからず」。「兵は詭道なり」——戦いは欺き合いである。「百戦百勝は善の善なる者に非ず。戦わずして人の兵を屈するは善の善なる者なり」。戦わずに勝つことこそ最上だ、というのである。\n\n孫武の子孫とされる[[p:孫臏]]も兵法を書いたと伝わったが、その書は長く失われ、「孫子」は孫武ではなく孫臏の書だという説まであった。1972年、山東の銀雀山の漢の墓から、『孫子兵法』と『孫臏兵法』の竹簡がそろって見つかり、二つの書がともに存在したことが確かめられた。",
+    "en": "[[p:孫武|Sun Wu]] of Qi presented thirteen chapters on war to King [[p:闔閭|Helü]] of Wu and became his general (around 512 BC) — the story of the palace women he drilled is in the window of the battle of Boju. Wu went on to take Ying, the capital of Chu, and to menace Qi and Jin in the north.\n\nIts sayings are alive today. \"Know the enemy and know yourself, and in a hundred battles you will never be in peril.\" \"All warfare is deception.\" \"To win a hundred victories in a hundred battles is not the acme of skill; to subdue the enemy without fighting is the acme of skill.\"\n\nHis descendant [[p:孫臏|Sun Bin]] was also said to have written on war, but that book was long lost, and some even argued that the \"Sunzi\" was Sun Bin's work. In 1972 a Han tomb at Yinqueshan in Shandong yielded bamboo slips of both the Sunzi and the Sun Bin — proof that the two books had both existed."
+   },
+   "year": 512,
+   "people": [
+    "孫武|Sun Wu",
+    "孫臏|Sun Bin",
+    "闔閭|Helü"
+   ],
+   "related": [
+    "crossbow",
+    "wuzu"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 技術 +0.03",
+    "en": "In the game, once for a realm that takes it up: technology +0.03"
+   }
+  },
+  "jixia": {
+   "kind": "school",
+   "title": {
+    "ja": "稷下の学宮",
+    "en": "The Jixia Academy"
+   },
+   "body": {
+    "ja": "斉の都臨淄の稷門のそばに、威王・宣王の頃 (前4世紀) 、諸国の学者を集める学宮が開かれた。学者たちには大きな屋敷と上大夫の待遇が与えられ、官職に就かずに「治めずして議論する」ことが許された。\n\n集まった学者は千人とも言われる。儒家の[[p:孟子]]、のちに三度にわたって学宮の長 (祭酒) を務めた[[p:荀子]]、陰陽五行と「天下の外に大きな九つの州がある」と説いた[[p:鄒衍]]、法と勢を説いた慎到、ことば巧みな淳于髠。互いに論じ合い、ここで百家の考えが磨かれた。\n\n「百家争鳴」——さまざまな学派が自由に論じ合う——の言葉にふさわしい場所であった。斉が燕に都を落とされた後も学宮は再建され、秦が斉を滅ぼすまで続いた。",
+    "en": "Near the Ji gate of Linzi, the capital of Qi, Kings Wei and Xuan in the fourth century BC opened an academy for scholars from every state. They were given fine houses and the rank of senior grandees, and allowed \"to debate without governing\".\n\nA thousand gathered there, it is said: [[p:孟子|Mencius]] the Confucian; [[p:荀子|Xunzi]], three times head of the academy; [[p:鄒衍|Zou Yan]], who taught yin, yang and the five phases and that beyond the known world lay nine great continents; Shen Dao on law and power; the witty Chunyu Kun. Here the Hundred Schools sharpened their thought against each other.\n\nIt was the very place for \"a hundred schools contending\". Rebuilt after Yan sacked Linzi, it lasted until Qin destroyed Qi."
+   },
+   "year": 360,
+   "people": [
+    "孟子|Mencius",
+    "荀子|Xunzi",
+    "鄒衍|Zou Yan",
+    "威王|King Wei",
+    "宣王|King Xuan"
+   ],
+   "related": [
+    "ru",
+    "qi_salt"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 文化 +5%・威信 +3",
+    "en": "In the game, once for a realm that takes it up: arts +5%, prestige +3"
+   }
+  },
+  "zongheng": {
+   "kind": "school",
+   "title": {
+    "ja": "縦横家 (蘇秦と張儀)",
+    "en": "The strategists of alliances"
+   },
+   "body": {
+    "ja": "戦国の世には、弁舌ひとつで諸侯を説いて回り、国と国を結ばせたり裂いたりする遊説家がいた。南北に六国を結んで秦に当たる「合従」の[[p:蘇秦]]と、六国を一つずつ秦と結ばせて切り崩す「連衡」の[[p:張儀]]が、その代表である。二人は同じ鬼谷子に学んだと伝わる。\n\n蘇秦は初め秦に用いられず、ぼろをまとって家に帰ると、妻は機から降りず、兄嫁は飯を炊かず、父母は口もきかなかった。蘇秦は夜も書を読み、眠くなると錐で股を刺した。やがて六国の相を兼ねる身となって故郷を通ると、兄嫁は這って迎えた。「なぜ前は傲慢で、今は恭しいのか」と問うと、兄嫁は「あなたが偉くなり、お金持ちになったからです」と答えたという。\n\n張儀は若い頃、楚の宰相の宝玉を盗んだと疑われ、むち打たれて帰った。妻が嘆くと、張儀は「わたしの舌はまだあるか」と聞き、「あります」と聞くと「それで十分だ」と言った。のちに秦の宰相となった張儀は、斉と手を切れば秦の地六百里を与えると楚の懐王をだまし、楚が斉と絶交すると「約束したのは六里だ」と言い放った。",
+    "en": "The Warring States had their roving persuaders, who went from court to court and with their tongues alone bound states together or broke them apart. The greatest were [[p:蘇秦|Su Qin]], who joined the six states north to south against Qin — the Vertical Alliance — and [[p:張儀|Zhang Yi]], who picked them off one by one into alliances with Qin — the Horizontal. Both, tradition says, studied under the Master of Ghost Valley.\n\nSu Qin at first found no favour in Qin and came home in rags: his wife would not leave her loom, his sister-in-law would not cook for him, his parents would not speak to him. He read through the nights, jabbing his thigh with an awl to stay awake. When he later passed through his home town as chief minister of six states, his sister-in-law crawled to greet him. Asked why she had been haughty then and humble now, she said: \"Because you are great and rich.\"\n\nAs a young man Zhang Yi was suspected of stealing a jade from the chief minister of Chu and flogged. When his wife wept he asked, \"Is my tongue still there?\" — \"It is.\" — \"That is enough.\" Later, as Qin's chief minister, he promised King Huai of Chu six hundred li of land if Chu broke with Qi; when Chu had broken with Qi, he said: \"I promised six li.\""
+   },
+   "year": 333,
+   "people": [
+    "蘇秦|Su Qin",
+    "張儀|Zhang Yi"
+   ],
+   "related": [
+    "ru",
+    "jixia"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 威信 +3",
+    "en": "In the game, once for a realm that takes it up: prestige +3"
+   }
+  },
+  "dao": {
+   "kind": "school",
+   "title": {
+    "ja": "道家 (老子と荘子)",
+    "en": "The Daoist thinkers"
+   },
+   "body": {
+    "ja": "[[p:老子]]は周の書庫の役人であったと伝わる。周の衰えを見て西へ去るとき、函谷関の関守に頼まれて書き残したのが、五千余字の『老子』(道徳経) だという。「道の道とすべきは常の道に非ず」——言葉で言い表せる道は本当の道ではない、と始まるこの書は、作為をやめ、水のように柔らかく低くあることを説く。\n\n[[p:孔子]]は老子に礼を問いに行き、帰って弟子に「鳥は飛び、魚は泳ぎ、獣は走ることを知っている。だが竜が風雲に乗って天に昇るのは、私には分からない。老子は竜のようだった」と語った、と『史記』にある。\n\n戦国の[[p:荘子]]は、楚の漆器の産地でもあった宋の蒙の人で、漆畑の役人を務めた。夢で蝶になり、目覚めて「私が蝶の夢を見たのか、蝶が私の夢を見ているのか」と考えた「胡蝶の夢」、役に立たないから切られずに大きく育った木の話など、ものの見方をひっくり返す寓話を多く残した。楚の王が宰相に迎えようとしたとき、泥の中で尾を引きずる亀でいたいと断った話は、楚の漆器の記事にある。",
+    "en": "[[p:老子|Laozi]], tradition says, was keeper of the archives of Zhou. Leaving westward as Zhou declined, he was asked by the keeper of the Hangu pass to write down his teaching, and left the five thousand words of the Laozi. \"The way that can be spoken of is not the constant way,\" it begins, and it teaches doing without striving, and being soft and low, like water.\n\n[[p:孔子|Confucius]] went to ask Laozi about the rites and told his disciples afterwards: \"Birds fly, fish swim, beasts run — all that I understand. But a dragon riding wind and cloud up to heaven I cannot fathom. Laozi is like a dragon.\" So says the Records of the Grand Historian.\n\n[[p:荘子|Zhuangzi]], of the Warring States, came from Meng in Song and served as an officer of its lacquer gardens. He dreamed he was a butterfly, woke, and wondered whether he had dreamed the butterfly or the butterfly was dreaming him; he told of the useless tree that grew huge because no one bothered to cut it. His refusal of the chief ministership of Chu is in the article on Chu lacquer."
+   },
+   "people": [
+    "老子|Laozi",
+    "荘子|Zhuangzi",
+    "孔子|Confucius"
+   ],
+   "related": [
+    "ru",
+    "chu_lacquer"
+   ]
   }
  },
  "goods": [
@@ -11040,6 +11188,88 @@
     "stability": 0.05,
     "tech": 0.02
    }
+  },
+  {
+   "art": "ru",
+   "adopt": [
+    [
+     500,
+     "lu",
+     "q"
+    ],
+    [
+     319,
+     "qi"
+    ]
+   ],
+   "fx": {
+    "arts": 0.04,
+    "legitimacy": 0.03
+   },
+   "kind": "school"
+  },
+  {
+   "art": "mo",
+   "adopt": [
+    [
+     440,
+     "song"
+    ],
+    [
+     330,
+     "qin"
+    ]
+   ],
+   "fx": {
+    "tech": 0.02,
+    "stability": 0.02
+   },
+   "kind": "school"
+  },
+  {
+   "art": "sunzi",
+   "adopt": [
+    [
+     512,
+     "wu"
+    ]
+   ],
+   "fx": {
+    "tech": 0.03
+   },
+   "kind": "school"
+  },
+  {
+   "art": "jixia",
+   "adopt": [
+    [
+     360,
+     "qi"
+    ]
+   ],
+   "fx": {
+    "arts": 0.05,
+    "prestige": 3
+   },
+   "kind": "school"
+  },
+  {
+   "art": "zongheng",
+   "adopt": [
+    [
+     333,
+     "yan",
+     "q"
+    ],
+    [
+     328,
+     "qin"
+    ]
+   ],
+   "fx": {
+    "prestige": 3
+   },
+   "kind": "school"
   }
  ]
 }
