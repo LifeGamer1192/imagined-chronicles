@@ -7612,6 +7612,46 @@
    "en": "The settlement of the north. {r_oda} redrew the domains of Ōu and took Aizu from {r_date}, who had come late to Odawara. The realm was one."
   },
   {
+   "id": "yura_end",
+   "y": 1590,
+   "m": 9,
+   "need": [
+    "oda",
+    "yura"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "yura"
+    ]
+   ],
+   "imp": 1,
+   "at": "kanayama",
+   "ja": "北条に従った{n_yura}は所領を移された。",
+   "en": "{n_yura}, having followed the Hōjō, was moved from its land."
+  },
+  {
+   "id": "yuki_end",
+   "y": 1590,
+   "m": 9,
+   "need": [
+    "tokugawa",
+    "yuki"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "yuki"
+    ]
+   ],
+   "imp": 1,
+   "at": "yuki",
+   "ja": "{n_yuki}は家康の次男秀康を養子に迎え、徳川の一門となった。",
+   "en": "{n_yuki} adopted Ieyasu's second son Hideyasu and joined the Tokugawa family."
+  },
+  {
    "id": "rikyu",
    "y": 1591,
    "m": 4,
@@ -7655,6 +7695,26 @@
    "en": "The Bunroku campaign. {r_oda} sent a great army across to the Korean peninsula; fierce fighting went on for years and great numbers of people suffered."
   },
   {
+   "id": "otomo_end",
+   "y": 1593,
+   "m": 6,
+   "need": [
+    "oda",
+    "otomo"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "otomo"
+    ]
+   ],
+   "imp": 2,
+   "at": "funai",
+   "ja": "朝鮮の陣で敵を前に退いた大友義統は、秀吉に所領を取り上げられた。名門大友家は大名の座を失った。",
+   "en": "Ōtomo Yoshimune, who had fallen back before the enemy in the Korean campaign, was stripped of his domain by Hideyoshi; the great house of Ōtomo was no longer a daimyo house."
+  },
+  {
    "id": "keicho",
    "y": 1597,
    "m": 3,
@@ -7683,6 +7743,26 @@
    "at": "hakata",
    "ja": "慶長の役。{r_oda}は再び朝鮮半島へ兵を送った。秀吉の死によって兵は引き揚げられた。",
    "en": "The Keichō campaign. {r_oda} sent troops to the peninsula again; they were withdrawn when Hideyoshi died."
+  },
+  {
+   "id": "utsunomiya_end",
+   "y": 1597,
+   "m": 11,
+   "need": [
+    "oda",
+    "utsunomiya"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "utsunomiya"
+    ]
+   ],
+   "imp": 1,
+   "at": "utsunomiya",
+   "ja": "{n_utsunomiya}は秀吉に所領を取り上げられた。",
+   "en": "{n_utsunomiya} lost its domain to Hideyoshi."
   },
   {
    "id": "uesugi_aizu",
@@ -7902,6 +7982,26 @@
    "en": "{r_uesugi}, who had defied Ieyasu, lost Aizu and was moved to Yonezawa with three hundred thousand koku."
   },
   {
+   "id": "iwaki_end",
+   "y": 1602,
+   "m": 6,
+   "need": [
+    "tokugawa",
+    "iwaki"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "iwaki"
+    ]
+   ],
+   "imp": 1,
+   "at": "iwaki",
+   "ja": "関ヶ原で動かなかった{n_iwaki}は所領を取り上げられた。",
+   "en": "{n_iwaki}, which had not moved at Sekigahara, lost its domain."
+  },
+  {
    "id": "shimazu_kept",
    "y": 1602,
    "m": 12,
@@ -7976,6 +8076,52 @@
    "at": "edo",
    "ja": "{r_tokugawa}は征夷大将軍に任じられ、江戸に幕府を開いた。",
    "en": "{r_tokugawa} was appointed shogun and opened his government in Edo."
+  },
+  {
+   "id": "nabeshima",
+   "y": 1607,
+   "m": 4,
+   "need": [
+    "ryuzoji"
+   ],
+   "do": [
+    [
+     "relabel",
+     "ryuzoji",
+     {
+      "ja": "鍋島家",
+      "en": "the Nabeshima clan"
+     },
+     {
+      "ja": "鍋島",
+      "en": "Nabeshima"
+     }
+    ]
+   ],
+   "imp": 1,
+   "at": "saga",
+   "ja": "龍造寺家の実権は鍋島家に移り、佐賀は鍋島家の国となった。",
+   "en": "Power in the Ryūzōji house passed to the Nabeshima, and Saga became the domain of the Nabeshima."
+  },
+  {
+   "id": "tsutsui_end",
+   "y": 1608,
+   "m": 8,
+   "need": [
+    "tokugawa",
+    "tsutsui"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "tsutsui"
+    ]
+   ],
+   "imp": 1,
+   "at": "tsutsui",
+   "ja": "{n_tsutsui}は家中の乱れを咎められて所領を失った。",
+   "en": "{n_tsutsui} lost its domain for disorder in the house."
   },
   {
    "id": "kinkyo",

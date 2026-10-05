@@ -8407,6 +8407,274 @@
    "en": "{r_wei}, pressed by Qin, moved the capital to Daliang; Wei was called \"Liang\" from then on."
   },
   {
+   "id": "chu_shu",
+   "y": 601,
+   "need": [
+    "chu",
+    "shu_h"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "shu_h"
+    ]
+   ],
+   "imp": 1,
+   "at": "shu_huai",
+   "ja": "{r_chu}は群舒を討ち、その地を併せた。",
+   "en": "{r_chu} subdued the Shu peoples and took their land."
+  },
+  {
+   "id": "chu_huang",
+   "y": 648,
+   "need": [
+    "chu",
+    "huang"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "huang"
+    ]
+   ],
+   "imp": 1,
+   "at": "huang",
+   "ja": "{r_chu}は{n_huang}を滅ぼした。",
+   "en": "{r_chu} destroyed {n_huang}."
+  },
+  {
+   "id": "chu_qunman",
+   "y": 611,
+   "m": 8,
+   "need": [
+    "chu",
+    "qunman"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "qunman"
+    ]
+   ],
+   "imp": 1,
+   "at": "qunman",
+   "ja": "{n_yong}を滅ぼした{r_chu}に、群蛮の諸族も従った。",
+   "en": "With {n_yong} destroyed, the Man peoples too submitted to {r_chu}."
+  },
+  {
+   "id": "cai_shen",
+   "y": 506,
+   "need": [
+    "cai",
+    "shen_c"
+   ],
+   "do": [
+    [
+     "annex",
+     "cai",
+     "shen_c"
+    ]
+   ],
+   "imp": 1,
+   "at": "shen_cai",
+   "ja": "{r_cai}は{n_shen_c}を滅ぼした。",
+   "en": "{r_cai} destroyed {n_shen_c}."
+  },
+  {
+   "id": "zheng_xu",
+   "y": 504,
+   "need": [
+    "zheng",
+    "xu"
+   ],
+   "do": [
+    [
+     "annex",
+     "zheng",
+     "xu"
+    ]
+   ],
+   "imp": 1,
+   "at": "xu_city",
+   "ja": "{r_zheng}は{n_xu}を滅ぼした。",
+   "en": "{r_zheng} destroyed {n_xu}."
+  },
+  {
+   "id": "wu_huaiyi",
+   "y": 512,
+   "m": 6,
+   "need": [
+    "wu",
+    "huaiyi"
+   ],
+   "do": [
+    [
+     "annex",
+     "wu",
+     "huaiyi"
+    ]
+   ],
+   "imp": 1,
+   "at": "huaiyi",
+   "ja": "淮水の下流の夷の諸族は{n_wu}に従った。",
+   "en": "The Yi peoples of the lower Huai came under {n_wu}."
+  },
+  {
+   "id": "song_cao",
+   "y": 487,
+   "need": [
+    "song",
+    "cao"
+   ],
+   "do": [
+    [
+     "annex",
+     "song",
+     "cao"
+    ]
+   ],
+   "imp": 2,
+   "at": "taoqiu",
+   "ja": "{r_song}は{n_cao}を滅ぼし、曹伯陽を捕らえた。",
+   "en": "{r_song} destroyed {n_cao} and captured its lord, Earl Yang."
+  },
+  {
+   "id": "chu_sui",
+   "y": 450,
+   "need": [
+    "chu",
+    "sui"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "sui"
+    ]
+   ],
+   "imp": 1,
+   "at": "sui",
+   "ja": "長く楚に従ってきた{n_sui}は、楚の県となった。",
+   "en": "{n_sui}, long a follower of Chu, became a county of Chu."
+  },
+  {
+   "id": "jin_baidi",
+   "y": 520,
+   "need": [
+    "jin",
+    "baidi"
+   ],
+   "do": [
+    [
+     "annex",
+     "jin",
+     "baidi"
+    ]
+   ],
+   "imp": 1,
+   "at": "baidi",
+   "ja": "{r_jin}は白狄の諸邑 (肥・鼓など) を次々に滅ぼした。",
+   "en": "{r_jin} destroyed one White Di town after another."
+  },
+  {
+   "id": "song_teng",
+   "y": 296,
+   "need": [
+    "song",
+    "teng"
+   ],
+   "do": [
+    [
+     "annex",
+     "song",
+     "teng"
+    ]
+   ],
+   "imp": 1,
+   "at": "teng",
+   "ja": "{r_song}は{n_teng}を滅ぼした。",
+   "en": "{r_song} destroyed {n_teng}."
+  },
+  {
+   "id": "chu_zhu",
+   "y": 261,
+   "need": [
+    "chu",
+    "zhu"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "zhu"
+    ]
+   ],
+   "imp": 1,
+   "at": "zhu",
+   "ja": "{r_chu}は孟子の故郷{n_zhu}を併せた。",
+   "en": "{r_chu} absorbed {n_zhu}, the home of Mencius."
+  },
+  {
+   "id": "zhao_linhu",
+   "y": 306,
+   "need": [
+    "zhao",
+    "linhu"
+   ],
+   "do": [
+    [
+     "annex",
+     "zhao",
+     "linhu"
+    ]
+   ],
+   "imp": 2,
+   "at": "linhu",
+   "ja": "胡服騎射の騎兵を得た{r_zhao}は、北の林胡・楼煩を討って雲中・雁門の地を開いた。",
+   "en": "With his new horse archers {r_zhao} struck the Linhu and Loufan in the north and opened the lands of Yunzhong and Yanmen."
+  },
+  {
+   "id": "yan_shanrong",
+   "y": 300,
+   "need": [
+    "yan",
+    "shanrong"
+   ],
+   "do": [
+    [
+     "annex",
+     "yan",
+     "shanrong"
+    ]
+   ],
+   "imp": 1,
+   "at": "shanrong",
+   "ja": "{n_yan}の将秦開は東胡を千里のかなたへ退け、長城を築いた。",
+   "en": "Qin Kai, a general of {n_yan}, drove the Donghu back a thousand li and built a long wall."
+  },
+  {
+   "id": "qin_yiqu",
+   "y": 272,
+   "need": [
+    "qin",
+    "yiqu"
+   ],
+   "do": [
+    [
+     "annex",
+     "qin",
+     "yiqu"
+    ]
+   ],
+   "imp": 2,
+   "at": "yiqu",
+   "ja": "{r_qin}の母宣太后は義渠王を甘泉宮に誘って殺し、秦は義渠を滅ぼした。",
+   "en": "The Queen Dowager Xuan of {n_qin} lured the King of Yiqu to the Ganquan palace and had him killed; Qin destroyed Yiqu."
+  },
+  {
    "id": "three_jin",
    "y": 403,
    "need": [
