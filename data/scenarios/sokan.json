@@ -2565,8 +2565,8 @@
    ],
    "imp": 3,
    "at": "xianyang",
-   "ja": "武関から関中に入った{r_liu}に、秦王[[p:子嬰]]は首に紐をかけ、白馬の車で迎えて降った。[[p:劉邦]]は宝物に手をつけず、秦の苛法を廃して「法三章」だけを約し、民の心をつかんだ。",
-   "en": "{r_liu} came into the land within the passes by the Wu pass; [[p:子嬰|Ziying]], King of Qin, met him in a white-horse carriage with a cord round his neck and surrendered. [[p:劉邦|Liu Bang]] left the treasures alone, abolished the harsh Qin laws, and promised just three — and won the people."
+   "ja": "武関から関中に入った{r_liu}に、秦王[[p:子嬰]]は首に紐をかけ、白馬の車で迎えて降った。[[p:劉邦]]は宝物に手をつけず、秦の苛法を廃して[[a:yuefa|「法三章」]]だけを約し、民の心をつかんだ。",
+   "en": "{r_liu} came into the land within the passes by the Wu pass; [[p:子嬰|Ziying]], King of Qin, met him in a white-horse carriage with a cord round his neck and surrendered. [[p:劉邦|Liu Bang]] left the treasures alone, abolished the harsh Qin laws, and [[a:yuefa|promised just three]] — and won the people."
   },
   {
    "id": "hongmen",
@@ -3672,8 +3672,8 @@
     "en": "The eight thousand young men east of the river"
    },
    "body": {
-    "ja": "前209年、[[p:項梁]]と甥の[[p:項羽]]は会稽で郡守を斬って兵を挙げ、江東 (長江下流の南岸) の若者八千人を率いて長江を渡った。\n\n彼らが[[p:項羽]]の軍の芯となった。鉅鹿で「一人で十人に当たった」楚兵、彭城で三万で五十六万を破った騎兵の中心には、江東の子弟がいた。項羽は兵を慈しみ、病む者があれば涙を流して自分の食べ物を分けたという。その一方で、手柄を立てた者に与える印綬を手の中でもてあそび、角がすり減るまで渡せなかった、とかつての部下[[p:韓信]]は語っている。\n\n垓下ののち、烏江の亭長に江東へ渡るよう勧められた項羽は、「江東の子弟八千と河を渡ったのに、今一人も還らない。江東の父兄が憐れんで王にしてくれても、どんな顔で会えようか」と断った。唐の詩人杜牧は、烏江の宿駅に立ってこう詠んで、項羽が渡らなかったことを惜しんだ。「江東の子弟には才ある者が多い。土煙を巻いて、もう一度攻め上ったかもしれないのに」(捲土重来)。",
-    "en": "In 209 BC [[p:項梁|Xiang Liang]] and his nephew [[p:項羽|Xiang Yu]] killed the governor of Kuaiji, raised their banner and crossed the Yangzi with eight thousand young men from east of the river.\n\nThey were the heart of [[p:項羽|Xiang Yu]]'s army: the men of Chu who \"each fought ten\" at Julu, the core of the horsemen who broke five hundred and sixty thousand with thirty thousand at Pengcheng. Xiang Yu loved his soldiers, and would weep and share his own food with the sick — yet, said his former officer [[p:韓信|Han Xin]], when a man earned a fief he would turn the seal over and over in his hand until its corners wore away, unable to give it up.\n\nAfter Gaixia, offered a boat home by the ferry master of the Wu river, Xiang Yu refused: \"I crossed with eight thousand young men east of the river, and not one returns. Even if their fathers took pity and made me king, how could I face them?\" Centuries later the Tang poet Du Mu, standing at the ferry station, regretted it: there were many able men east of the river, and he might have come back \"rolling up the dust\" to try again."
+    "ja": "前209年、[[p:項梁]]と甥の[[p:項羽]]は会稽で郡守を斬って兵を挙げ、江東 (長江下流の南岸) の若者八千人を率いて長江を渡った。\n\n彼らが[[p:項羽]]の軍の芯となった。鉅鹿で「一人で十人に当たった」楚兵、彭城で三万で五十六万を破った騎兵の中心には、江東の子弟がいた。[[p:項羽]]は兵を慈しみ、病む者があれば涙を流して自分の食べ物を分けたという。その一方で、手柄を立てた者に与える印綬を手の中でもてあそび、角がすり減るまで渡せなかった、とかつての部下[[p:韓信]]は語っている。\n\n垓下ののち、烏江の亭長に江東へ渡るよう勧められた項羽は、「江東の子弟八千と河を渡ったのに、今一人も還らない。江東の父兄が憐れんで王にしてくれても、どんな顔で会えようか」と断った。唐の詩人杜牧は、烏江の宿駅に立ってこう詠んで、項羽が渡らなかったことを惜しんだ。「江東の子弟には才ある者が多い。土煙を巻いて、もう一度攻め上ったかもしれないのに」(捲土重来)。",
+    "en": "In 209 BC [[p:項梁|Xiang Liang]] and his nephew [[p:項羽|Xiang Yu]] killed the governor of Kuaiji, raised their banner and crossed the Yangzi with eight thousand young men from east of the river.\n\nThey were the heart of [[p:項羽|Xiang Yu]]'s army: the men of Chu who \"each fought ten\" at Julu, the core of the horsemen who broke five hundred and sixty thousand with thirty thousand at Pengcheng. [[p:項羽|Xiang Yu]] loved his soldiers, and would weep and share his own food with the sick — yet, said his former officer [[p:韓信|Han Xin]], when a man earned a fief he would turn the seal over and over in his hand until its corners wore away, unable to give it up.\n\nAfter Gaixia, offered a boat home by the ferry master of the Wu river, Xiang Yu refused: \"I crossed with eight thousand young men east of the river, and not one returns. Even if their fathers took pity and made me king, how could I face them?\" Centuries later the Tang poet Du Mu, standing at the ferry station, regretted it: there were many able men east of the river, and he might have come back \"rolling up the dust\" to try again."
    },
    "year": 209,
    "people": [
@@ -3692,7 +3692,7 @@
     "en": "The Loufan horse archers"
    },
    "body": {
-    "ja": "楼煩は、今の山西北部にいた遊牧の民。馬上から弓を射る技に優れ、趙の武霊王が胡服騎射を始めたときの手本の一つとなった。武霊王に討たれたのち、その騎兵は趙の軍に組み込まれた。\n\n楚漢戦争の頃には、「楼煩」は騎射の巧みな兵の呼び名となっていた。広武で両軍が向き合ったとき、楚の勇士が三度挑戦に出ると、漢軍の楼煩の兵がそのたびに射殺した。怒った[[p:項羽]]が自ら鎧を着て戟を取って出ると、[[p:項羽]]が目を怒らせて叱りつけただけで、楼煩の兵は目を合わせることもできず、手が震えて射られないまま、陣に逃げ帰ったという。\n\n漢は[[p:灌嬰]]に騎兵を率いさせ、秦の騎兵出身の李必と駱甲を補佐に付けて、騎兵の部隊を作った。垓下の戦いのあと項羽を追い、烏江で追いついたのも[[p:灌嬰]]の騎兵であった。",
+    "ja": "楼煩は、今の山西北部にいた遊牧の民。馬上から弓を射る技に優れ、趙の武霊王が胡服騎射を始めたときの手本の一つとなった。武霊王に討たれたのち、その騎兵は趙の軍に組み込まれた。\n\n楚漢戦争の頃には、「楼煩」は騎射の巧みな兵の呼び名となっていた。広武で両軍が向き合ったとき、楚の勇士が三度挑戦に出ると、漢軍の楼煩の兵がそのたびに射殺した。怒った[[p:項羽]]が自ら鎧を着て戟を取って出ると、[[p:項羽]]が目を怒らせて叱りつけただけで、楼煩の兵は目を合わせることもできず、手が震えて射られないまま、陣に逃げ帰ったという。\n\n漢は[[p:灌嬰]]に騎兵を率いさせ、秦の騎兵出身の李必と駱甲を補佐に付けて、騎兵の部隊を作った。垓下の戦いのあと[[p:項羽]]を追い、烏江で追いついたのも[[p:灌嬰]]の騎兵であった。",
     "en": "The Loufan were herders of what is now northern Shanxi, masters of shooting from horseback — one of the models for King Wuling of Zhao's mounted archers. Conquered by him, their horsemen were taken into the army of Zhao.\n\nBy the Chu–Han war \"Loufan\" had become the name for any skilled horse archer. When the armies faced each other at Guangwu and a Chu champion rode out three times to challenge, a Loufan bowman on the Han side shot him down each time. Furious, [[p:項羽|Xiang Yu]] put on his armour and rode out himself; he only glared and roared at the archer, who could not meet his eyes, could not loose for the shaking of his hands, and fled back to his lines.\n\nHan formed its own cavalry under [[p:灌嬰|Guan Ying]], with two former Qin cavalry officers, Li Bi and Luo Jia, as his lieutenants. It was [[p:灌嬰|Guan Ying]]'s horsemen who hunted [[p:項羽|Xiang Yu]] after Gaixia and caught him at the Wu river."
    },
    "year": 203,
@@ -3733,8 +3733,8 @@
     "en": "The Ao granary"
    },
    "body": {
-    "ja": "秦は、黄河と済水が分かれる滎陽の西北、敖山の上に巨大な穀倉を築いた。東方の穀物を集めて関中へ送るための倉で、楚漢戦争の頃にも大量の穀物が眠っていた。\n\n彭城で大敗した[[p:劉邦]]は、滎陽に踏みとどまった。[[p:酈食其]]は「王者は民を天とし、民は食を天とします。敖倉を押さえれば天下の形勢は決まります」と説いた。劉邦は敖倉を守り、壁で囲った道 (甬道) を黄河まで築いて兵糧を運ばせた。\n\n[[p:項羽]]はこの甬道を何度も襲って断ち、漢軍は飢えに苦しんだ。それでも敖倉を手放さなかったことが、長い持久戦を漢の勝ちに導いた。食を握る者が戦を制したのである。",
-    "en": "Qin built a vast granary on Mount Ao, northwest of Xingyang where the Ji branches from the Yellow River, to gather the grain of the east for the capital. In the Chu–Han war it still held great stores.\n\nRouted at Pengcheng, [[p:劉邦|Liu Bang]] dug in at Xingyang. \"A king makes the people his heaven, and the people make food their heaven,\" [[p:酈食其|Li Yiji]] told him. \"Hold the Ao granary and the realm is yours.\" Liu Bang held it, and built a walled road down to the river to bring the grain in.\n\n[[p:項羽|Xiang Yu]] cut the walled road again and again, and the Han army went hungry; yet keeping the granary won Han the long war. Whoever held the food won."
+    "ja": "秦は、黄河と済水が分かれる滎陽の西北、敖山の上に巨大な穀倉を築いた。東方の穀物を集めて関中へ送るための倉で、楚漢戦争の頃にも大量の穀物が眠っていた。\n\n彭城で大敗した[[p:劉邦]]は、滎陽に踏みとどまった。[[p:酈食其]]は「王者は民を天とし、民は食を天とします。敖倉を押さえれば天下の形勢は決まります」と説いた。[[p:劉邦]]は敖倉を守り、壁で囲った道 (甬道) を黄河まで築いて兵糧を運ばせた。\n\n[[p:項羽]]はこの甬道を何度も襲って断ち、漢軍は飢えに苦しんだ。それでも敖倉を手放さなかったことが、長い持久戦を漢の勝ちに導いた。食を握る者が戦を制したのである。",
+    "en": "Qin built a vast granary on Mount Ao, northwest of Xingyang where the Ji branches from the Yellow River, to gather the grain of the east for the capital. In the Chu–Han war it still held great stores.\n\nRouted at Pengcheng, [[p:劉邦|Liu Bang]] dug in at Xingyang. \"A king makes the people his heaven, and the people make food their heaven,\" [[p:酈食其|Li Yiji]] told him. \"Hold the Ao granary and the realm is yours.\" [[p:劉邦|Liu Bang]] held it, and built a walled road down to the river to bring the grain in.\n\n[[p:項羽|Xiang Yu]] cut the walled road again and again, and the Han army went hungry; yet keeping the granary won Han the long war. Whoever held the food won."
    },
    "people": [
     "劉邦|Liu Bang",
@@ -3752,8 +3752,8 @@
     "en": "The rice of Ba and Shu, and Xiao He's supply lines"
    },
    "body": {
-    "ja": "蜀の成都平原は、秦の李冰が築いた都江堰の水路のおかげで、日照りにも洪水にも強い豊かな田となった。「天府の国」(天の蔵) と呼ばれたのはこの頃からである。\n\n[[p:項羽]]に辺境の巴・蜀・漢中の王にされた[[p:劉邦]]は、はじめ不満だったが、[[p:蕭何]]に「漢中で王となり、民を養い、賢者を招き、巴蜀を使って三秦を取りましょう」と説かれた。\n\n劉邦が東で項羽と戦う間、蕭何は関中と巴蜀を治め、兵と兵糧を絶え間なく前線へ送り続けた。劉邦が何度負けても立ち直れたのは、そのためである。天下を取った後、劉邦は功の第一を蕭何とした。「獣を追い殺すのは犬だが、犬に獣の居場所を指し示すのは人である」と言って。",
-    "en": "The Chengdu plain of Shu, watered by the Dujiangyan canals that Li Bing of Qin had built, became rich land safe from drought and flood — the \"Storehouse of Heaven\".\n\nMade king of the remote lands of Ba, Shu and Hanzhong by [[p:項羽|Xiang Yu]], [[p:劉邦|Liu Bang]] was bitter at first; but [[p:蕭何|Xiao He]] urged him to be king in Hanzhong, feed the people, draw in able men, and use Ba and Shu to take the three Qin kingdoms.\n\nWhile Liu Bang fought Xiang Yu in the east, Xiao He governed Guanzhong and Ba-Shu and sent men and grain to the front without fail; that is why Liu Bang could recover from defeat after defeat. Victorious, he ranked Xiao He first in merit: \"It is the hound that runs down the hare, but the man who shows the hound where the hare is.\""
+    "ja": "蜀の成都平原は、秦の李冰が築いた都江堰の水路のおかげで、日照りにも洪水にも強い豊かな田となった。「天府の国」(天の蔵) と呼ばれたのはこの頃からである。\n\n[[p:項羽]]に辺境の巴・蜀・漢中の王にされた[[p:劉邦]]は、はじめ不満だったが、[[p:蕭何]]に「漢中で王となり、民を養い、賢者を招き、巴蜀を使って三秦を取りましょう」と説かれた。\n\n[[p:劉邦]]が東で[[p:項羽]]と戦う間、[[p:蕭何]]は関中と巴蜀を治め、兵と兵糧を絶え間なく前線へ送り続けた。劉邦が何度負けても立ち直れたのは、そのためである。天下を取った後、劉邦は功の第一を蕭何とした。「獣を追い殺すのは犬だが、犬に獣の居場所を指し示すのは人である」と言って。",
+    "en": "The Chengdu plain of Shu, watered by the Dujiangyan canals that Li Bing of Qin had built, became rich land safe from drought and flood — the \"Storehouse of Heaven\".\n\nMade king of the remote lands of Ba, Shu and Hanzhong by [[p:項羽|Xiang Yu]], [[p:劉邦|Liu Bang]] was bitter at first; but [[p:蕭何|Xiao He]] urged him to be king in Hanzhong, feed the people, draw in able men, and use Ba and Shu to take the three Qin kingdoms.\n\nWhile [[p:劉邦|Liu Bang]] fought [[p:項羽|Xiang Yu]] in the east, [[p:蕭何|Xiao He]] governed Guanzhong and Ba-Shu and sent men and grain to the front without fail; that is why Liu Bang could recover from defeat after defeat. Victorious, he ranked Xiao He first in merit: \"It is the hound that runs down the hare, but the man who shows the hound where the hare is.\""
    },
    "people": [
     "蕭何|Xiao He",
@@ -3771,8 +3771,8 @@
     "en": "The wealth of Qi"
    },
    "body": {
-    "ja": "海に面した斉は、魚と塩、そして絹の国であった。都の臨淄は戦国以来の大都市で、[[p:韓信]]が斉を攻め取ったとき、その富と七十余りの城は天下の大きな部分を占めていた。\n\n韓信が[[p:劉邦]]に「斉の仮の王にしてほしい」と求めたのは、この豊かな国を治めるのに力が要ったからでもある。[[p:蒯通]]が韓信に、楚・漢と並んで天下を三分せよと説いたのも、斉の富を背景にしてのことだった。\n\n斉の王族[[p:田横]]は、漢に降るのを潔しとせず、五百人の部下と海の島に逃れた。劉邦に呼ばれて都へ向かう途中、自ら首を刎ね、それを聞いた島の五百人もみな後を追ったという。",
-    "en": "Qi, on the sea, was a land of fish, salt and silk; its capital Linzi had been a great city since the Warring States. When [[p:韓信|Han Xin]] took Qi, its wealth and its seventy-odd cities made up a large part of the realm.\n\nThat is partly why Han Xin asked [[p:劉邦|Liu Bang]] to make him acting king of Qi: such a rich land took power to hold. And [[p:蒯通|Kuai Tong]]'s plan for Han Xin to stand as a third power beside Chu and Han rested on the wealth of Qi.\n\n[[p:田横|Tian Heng]], of the royal house of Qi, would not submit to Han and fled with five hundred followers to an island. Summoned by Liu Bang, he cut his own throat on the way to the capital, and when the five hundred on the island heard, they all followed him in death."
+    "ja": "海に面した斉は、魚と塩、そして絹の国であった。都の臨淄は戦国以来の大都市で、[[p:韓信]]が斉を攻め取ったとき、その富と七十余りの城は天下の大きな部分を占めていた。\n\n[[p:韓信]]が[[p:劉邦]]に「斉の仮の王にしてほしい」と求めたのは、この豊かな国を治めるのに力が要ったからでもある。[[p:蒯通]]が韓信に、楚・漢と並んで天下を三分せよと説いたのも、斉の富を背景にしてのことだった。\n\n斉の王族[[p:田横]]は、漢に降るのを潔しとせず、五百人の部下と海の島に逃れた。[[p:劉邦]]に呼ばれて都へ向かう途中、自ら首を刎ね、それを聞いた島の五百人もみな後を追ったという。",
+    "en": "Qi, on the sea, was a land of fish, salt and silk; its capital Linzi had been a great city since the Warring States. When [[p:韓信|Han Xin]] took Qi, its wealth and its seventy-odd cities made up a large part of the realm.\n\nThat is partly why [[p:韓信|Han Xin]] asked [[p:劉邦|Liu Bang]] to make him acting king of Qi: such a rich land took power to hold. And [[p:蒯通|Kuai Tong]]'s plan for Han Xin to stand as a third power beside Chu and Han rested on the wealth of Qi.\n\n[[p:田横|Tian Heng]], of the royal house of Qi, would not submit to Han and fled with five hundred followers to an island. Summoned by [[p:劉邦|Liu Bang]], he cut his own throat on the way to the capital, and when the five hundred on the island heard, they all followed him in death."
    },
    "people": [
     "韓信|Han Xin",
@@ -3802,6 +3802,82 @@
     "mingdi",
     "loufan"
    ]
+  },
+  "qin_law": {
+   "kind": "reform",
+   "title": {
+    "ja": "秦の法",
+    "en": "The laws of Qin"
+   },
+   "body": {
+    "ja": "秦は法で治める国であった。1975年、湖北の睡虎地で、秦の地方役人「喜」の墓から千枚を超える竹簡が見つかった。そこには秦の法律と、役人の仕事の手引きが細かく書かれていた。\n\n桑の葉を盗んだ者は、値が一銭に満たなくても三十日の労役。役所の牛が痩せれば係の者が罰を受ける。罪を告げた者には褒美。何もかもが文字に書かれ、役人はそれに従って裁いた。\n\n[[p:陳勝]]・[[p:呉広]]の乱は、雨で期日に遅れた兵が「遅れれば死刑」と恐れて起こしたと『史記』は書く。ところが睡虎地の竹簡では、労役への遅れは罰金や叱責にとどまっていた。死刑とされたのは軍の期日の遅れだったのか、それとも乱を起こすための口実だったのか——史料が新しい問いを投げかけている。",
+    "en": "Qin was a state ruled by law. In 1975, in the tomb of a Qin local official named Xi at Shuihudi in Hubei, more than a thousand bamboo slips were found: Qin statutes and a handbook for officials, written out in detail.\n\nA man who stole mulberry leaves worth less than one coin served thirty days' labour; if the office oxen grew thin, their keeper was punished; informers were rewarded. Everything was in writing, and officials judged by it.\n\nThe rising of [[p:陳勝|Chen Sheng]] and [[p:呉広|Wu Guang]] began, says the Records of the Grand Historian, when conscripts delayed by rain feared that lateness meant death. Yet in the Shuihudi slips, lateness for labour service brought only a fine or a reprimand. Was the death penalty for being late with an army, or an excuse to rebel? The new sources raise new questions."
+   },
+   "year": 221,
+   "people": [
+    "陳勝|Chen Sheng",
+    "呉広|Wu Guang"
+   ],
+   "related": [
+    "yuefa",
+    "jiuzhanglu"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +3%",
+    "en": "In the game, once for a realm that takes it up: stability +3%"
+   }
+  },
+  "yuefa": {
+   "kind": "reform",
+   "title": {
+    "ja": "法三章",
+    "en": "The three laws"
+   },
+   "body": {
+    "ja": "前207年の冬、[[p:劉邦]]は武関から関中に入り、秦王[[p:子嬰]]の降伏を受けた。宮殿の財宝と美女に心を奪われかけた劉邦を、[[p:樊噲]]と[[p:張良]]がいさめ、劉邦は覇上の陣に戻った。\n\n劉邦は関中の長老たちを集めて言った。「皆は長く秦の苛酷な法に苦しんできた。私は皆と約束しよう。法はただ三章。人を殺した者は死罪、人を傷つけた者と盗んだ者は、それぞれの罪に応じて罰する。それ以外の秦の法はすべて除く」。\n\n秦の民は大いに喜び、牛や羊、酒を持って兵をもてなそうとした。劉邦は「倉には穀物が多い。民に負担をかけたくない」と受け取らなかった。民はますます喜び、劉邦が関中の王にならないことを恐れたという。同じ時、[[p:蕭何]]はただ一人、秦の役所の法令・地図・戸籍を集めて持ち出した。これがのちに、漢が天下の地形と人口を知る元となった。",
+    "en": "In the winter of 207 BC [[p:劉邦|Liu Bang]] entered Guanzhong through the Wu pass and received the surrender of [[p:子嬰|Ziying]], King of Qin. Tempted by the treasures and women of the palace, he was talked out of it by [[p:樊噲|Fan Kuai]] and [[p:張良|Zhang Liang]] and went back to his camp at Bashang.\n\nHe called together the elders of Guanzhong: \"You have long suffered under the cruel laws of Qin. I make you this promise: three laws only. Whoever kills shall die; whoever wounds or steals shall be punished according to the crime. All the other laws of Qin are abolished.\"\n\nThe people of Qin rejoiced and brought oxen, sheep and wine for his soldiers. Liu Bang refused them: the granaries were full and he would not burden the people. They loved him all the more and feared only that he might not become their king. Meanwhile [[p:蕭何|Xiao He]] alone gathered up the laws, maps and registers of the Qin offices — the knowledge by which Han would later know the land and people of the whole realm."
+   },
+   "year": 207,
+   "people": [
+    "劉邦|Liu Bang",
+    "子嬰|Ziying",
+    "樊噲|Fan Kuai",
+    "張良|Zhang Liang",
+    "蕭何|Xiao He"
+   ],
+   "related": [
+    "qin_law",
+    "jiuzhanglu"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +6%・正統性 +5%",
+    "en": "In the game, once for a realm that takes it up: stability +6%, legitimacy +5%"
+   }
+  },
+  "jiuzhanglu": {
+   "kind": "reform",
+   "title": {
+    "ja": "九章律 (蕭何の律)",
+    "en": "Xiao He's Nine Chapters"
+   },
+   "body": {
+    "ja": "天下を取った漢は、法三章だけでは国を治められなかった。[[p:蕭何]]は秦の法を取捨し、李悝の『法経』六篇に、戸 (戸籍)・興 (労役)・厩 (馬と倉) の三篇を加えて「九章律」とした。\n\n蕭何が死ぬと、後を継いだ[[p:曹参]]は蕭何の決めたことを何一つ変えず、毎日酒を飲んでいた。いぶかる恵帝に曹参は尋ねた。「陛下と高祖では、どちらが優れておられますか」「高祖には及ばない」「私と蕭何では」「及ばないようだ」「では、高祖と蕭何が定めたものを、私たちが守っていればよいのです」。「蕭規曹随」(蕭何が規を作り、曹参が随う) という言葉はここから生まれた。",
+    "en": "Victorious Han could not rule the realm on three laws. [[p:蕭何|Xiao He]] sifted the laws of Qin and added three chapters — households, labour service, stables and granaries — to Li Kui's six-part Canon, making the Nine Chapters.\n\nWhen Xiao He died his successor Cao Can changed nothing he had set down, and drank wine every day. When the puzzled Emperor Hui asked why, Cao Can asked him: \"Who is the greater, Your Majesty or the founder?\" \"I cannot match the founder.\" \"And I or Xiao He?\" \"You seem not his equal.\" \"Then if we keep what the founder and Xiao He laid down, that is enough.\" Hence the saying \"Xiao made the rules and Cao followed them\"."
+   },
+   "year": 202,
+   "people": [
+    "蕭何|Xiao He",
+    "曹参|Cao Shen",
+    "劉邦|Liu Bang"
+   ],
+   "related": [
+    "yuefa",
+    "qin_law"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +4%",
+    "en": "In the game, once for a realm that takes it up: stability +4%"
+   }
   }
  },
  "goods": [
@@ -3835,6 +3911,46 @@
     "xiongnu",
     "yunzhong"
    ]
+  }
+ ],
+ "reforms": [
+  {
+   "art": "qin_law",
+   "adopt": [
+    [
+     221,
+     "qin"
+    ]
+   ],
+   "fx": {
+    "stability": 0.03
+   }
+  },
+  {
+   "art": "yuefa",
+   "adopt": [
+    [
+     207,
+     "liu",
+     "q"
+    ]
+   ],
+   "fx": {
+    "stability": 0.06,
+    "legitimacy": 0.05
+   }
+  },
+  {
+   "art": "jiuzhanglu",
+   "adopt": [
+    [
+     202,
+     "liu"
+    ]
+   ],
+   "fx": {
+    "stability": 0.04
+   }
   }
  ]
 }

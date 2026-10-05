@@ -2490,8 +2490,8 @@
     ]
    ],
    "at": "placentia",
-   "ja": "ローマの植民市に土地を奪われていたボイイ族とインスブレス族は、[[p:ハンニバル]]の到来を待ってローマに背いた。",
-   "en": "The Boii and the Insubres, who had lost land to the Roman colonies, rose against Rome as soon as [[p:ハンニバル|Hannibal]] arrived."
+   "ja": "ローマの[[a:coloniae|植民市]]に土地を奪われていたボイイ族とインスブレス族は、[[p:ハンニバル]]の到来を待ってローマに背いた。",
+   "en": "The Boii and the Insubres, who had lost land to the [[a:coloniae|Roman colonies]], rose against Rome as soon as [[p:ハンニバル|Hannibal]] arrived."
   },
   {
    "id": "ticinus",
@@ -2596,8 +2596,8 @@
    ],
    "imp": 3,
    "at": "roma",
-   "ja": "ローマは独裁官に[[p:クィントゥス・ファビウス・マクシムス]]を選んだ。ファビウスは決戦を避けて[[p:ハンニバル]]の後を追い、補給を断つ持久の策をとった。人々は彼を「ぐずぐず男 (クンクタトル)」と嘲ったが、のちにはその名は誉れとなった。",
-   "en": "Rome named [[p:クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus]] dictator. He refused battle, shadowed [[p:ハンニバル|Hannibal]] and cut his supplies; people mocked him as \"the Delayer\" — a name that later became an honour."
+   "ja": "ローマは[[a:dictator|独裁官]]に[[p:クィントゥス・ファビウス・マクシムス]]を選んだ。ファビウスは決戦を避けて[[p:ハンニバル]]の後を追い、補給を断つ持久の策をとった。人々は彼を「ぐずぐず男 (クンクタトル)」と嘲ったが、のちにはその名は誉れとなった。",
+   "en": "Rome named [[p:クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus]] [[a:dictator|dictator]]. He refused battle, shadowed [[p:ハンニバル|Hannibal]] and cut his supplies; people mocked him as \"the Delayer\" — a name that later became an honour."
   },
   {
    "id": "cannae",
@@ -2771,8 +2771,8 @@
    ],
    "imp": 3,
    "at": "syracusae",
-   "ja": "[[p:アルキメデス]]の工夫した投石機と、船を吊り上げてひっくり返す鉤爪の起重機が、海と陸からのローマ軍の攻撃を退けた。マルケッルスは包囲に切り替えた。",
-   "en": "[[p:アルキメデス|Archimedes]]' catapults and the iron claw that lifted ships and overturned them beat off Rome's attacks by sea and land; Marcellus settled into a siege."
+   "ja": "[[p:アルキメデス]]の工夫した[[a:archimedes_machines|投石機]]と、船を吊り上げてひっくり返す鉤爪の起重機が、海と陸からのローマ軍の攻撃を退けた。マルケッルスは包囲に切り替えた。",
+   "en": "[[p:アルキメデス|Archimedes]]' [[a:archimedes_machines|catapults]] and the iron claw that lifted ships and overturned them beat off Rome's attacks by sea and land; Marcellus settled into a siege."
   },
   {
    "id": "tarentum_falls",
@@ -3725,8 +3725,8 @@
     "en": "The war elephants of Carthage"
    },
    "body": {
-    "ja": "カルタゴの象は、北アフリカのアトラス山地などにいた小型のアフリカゾウ (今のマルミミゾウに近い仲間) だったと考えられている。肩の高さは2.5mほどでインドゾウより小さく、背に塔は載せられなかったとも言われる。[[p:ハンニバル]]の象のうち「スルス (シリア人)」と呼ばれた一頭は、大型のインドゾウだったかもしれない。\n\n[[p:ハンニバル]]は前218年、三十七頭の象を連れてイベリアを発った。ローヌ川では、岸に見えるよう土をかぶせた大きな筏に象を乗せて渡した。アルプスを越えた象の多くは、トレビアの戦いの後の寒さで死に、生き残ったのは一頭だけだったという。翌年の春、目を病んだハンニバルはその最後の象に乗って、エトルリアの沼地を渡ったと伝わる。\n\n象は敵の馬を怯えさせ、隊列を踏み崩す。だが傷ついて暴れると、味方の中へも突っ込む。メタウルスの戦いでは、象使いが暴れる象を止めるため、のみと槌で首の付け根を打ち抜いて殺したという。\n\nザマの戦いで、ハンニバルは八十頭の象を先頭に立てた。スキピオは歩兵の中隊の間にまっすぐ通り道を空け、ラッパと角笛を一斉に吹き鳴らさせた。驚いた象の多くは通り道を駆け抜けるか、味方の騎兵へ逃げ戻り、ローマの勝利のきっかけとなった。講和の条件には、カルタゴが今後象を飼い慣らさないことまで含まれていた。",
-    "en": "Carthage's elephants were probably small African elephants of the Atlas and North Africa, kin to today's forest elephant — about 2.5 metres at the shoulder, smaller than Indian elephants, and perhaps too small to carry towers. One of [[p:ハンニバル|Hannibal]]'s, called Surus (\"the Syrian\"), may have been a big Indian elephant.\n\n[[p:ハンニバル|Hannibal]] left Iberia in 218 BC with thirty-seven elephants. At the Rhône they were floated across on great rafts covered with earth so that they would think they were still on land. Most of those that crossed the Alps died of cold after the Trebia; only one survived, it is said, and the next spring Hannibal, sick in one eye, rode it through the marshes of Etruria.\n\nElephants terrify horses and trample ranks — but wounded and maddened they turn on their own side. At the Metaurus, the story goes, their drivers carried a chisel and mallet to kill a runaway with a blow at the base of the skull.\n\nAt Zama Hannibal put eighty elephants in front. Scipio opened straight lanes between his maniples and had every trumpet and horn blow at once; terrified, many elephants ran down the lanes or back into their own cavalry, and the Roman victory began there. The peace even forbade Carthage to train elephants again."
+    "ja": "カルタゴの象は、北アフリカのアトラス山地などにいた小型のアフリカゾウ (今のマルミミゾウに近い仲間) だったと考えられている。肩の高さは2.5mほどでインドゾウより小さく、背に塔は載せられなかったとも言われる。[[p:ハンニバル]]の象のうち「スルス (シリア人)」と呼ばれた一頭は、大型のインドゾウだったかもしれない。\n\n[[p:ハンニバル]]は前218年、三十七頭の象を連れてイベリアを発った。ローヌ川では、岸に見えるよう土をかぶせた大きな筏に象を乗せて渡した。アルプスを越えた象の多くは、トレビアの戦いの後の寒さで死に、生き残ったのは一頭だけだったという。翌年の春、目を病んだ[[p:ハンニバル]]はその最後の象に乗って、エトルリアの沼地を渡ったと伝わる。\n\n象は敵の馬を怯えさせ、隊列を踏み崩す。だが傷ついて暴れると、味方の中へも突っ込む。メタウルスの戦いでは、象使いが暴れる象を止めるため、のみと槌で首の付け根を打ち抜いて殺したという。\n\nザマの戦いで、ハンニバルは八十頭の象を先頭に立てた。スキピオは歩兵の中隊の間にまっすぐ通り道を空け、ラッパと角笛を一斉に吹き鳴らさせた。驚いた象の多くは通り道を駆け抜けるか、味方の騎兵へ逃げ戻り、ローマの勝利のきっかけとなった。講和の条件には、カルタゴが今後象を飼い慣らさないことまで含まれていた。",
+    "en": "Carthage's elephants were probably small African elephants of the Atlas and North Africa, kin to today's forest elephant — about 2.5 metres at the shoulder, smaller than Indian elephants, and perhaps too small to carry towers. One of [[p:ハンニバル|Hannibal]]'s, called Surus (\"the Syrian\"), may have been a big Indian elephant.\n\n[[p:ハンニバル|Hannibal]] left Iberia in 218 BC with thirty-seven elephants. At the Rhône they were floated across on great rafts covered with earth so that they would think they were still on land. Most of those that crossed the Alps died of cold after the Trebia; only one survived, it is said, and the next spring [[p:ハンニバル|Hannibal]], sick in one eye, rode it through the marshes of Etruria.\n\nElephants terrify horses and trample ranks — but wounded and maddened they turn on their own side. At the Metaurus, the story goes, their drivers carried a chisel and mallet to kill a runaway with a blow at the base of the skull.\n\nAt Zama Hannibal put eighty elephants in front. Scipio opened straight lanes between his maniples and had every trumpet and horn blow at once; terrified, many elephants ran down the lanes or back into their own cavalry, and the Roman victory began there. The peace even forbade Carthage to train elephants again."
    },
    "year": 218,
    "people": [
@@ -3746,8 +3746,8 @@
     "en": "The Numidian horse"
    },
    "body": {
-    "ja": "北アフリカのヌミディア (今のアルジェリア東部あたり) の騎兵。鞍も手綱も使わず、馬の首にかけた紐と膝、それに声だけで小柄な馬を操ったと伝わる。小さな盾と数本の投げ槍を持ち、近づいては投げ、さっと離れてはまた戻る戦い方をした。\n\n[[p:ハンニバル]]のイタリア遠征では、ヌミディア騎兵が軍の目となり手足となった。ティキヌスでは執政官スキピオを囲んで傷を負わせ、トレビアでは川を渡ってローマの陣を挑発し、朝食も取らないローマ兵を凍える川へ誘い出した。カンナエでは、逃げるローマの同盟市の騎兵を追い散らした。\n\n戦争の後半、ヌミディアの王子[[p:マシニッサ]]はローマの側についた。ザマの戦いでは、[[p:マシニッサ]]の騎兵が今度はカルタゴの騎兵を追い払い、戻ってきて[[p:ハンニバル]]の歩兵の背後を突いた。ハンニバルに勝利をもたらしてきた騎兵が、最後にはハンニバルを破ったのである。\n\nマシニッサは九十歳近くまで生き、その歳になっても人の手を借りずに馬に乗ったという。ヌミディア王国はその後、ローマと結んで続いた。",
-    "en": "The horsemen of Numidia (roughly eastern Algeria) rode small horses without saddle or bridle, steering with a cord round the neck, their knees and their voices. With a small shield and a handful of javelins they rode in, threw, wheeled away and came back again.\n\nOn [[p:ハンニバル|Hannibal]]'s Italian campaign they were the army's eyes and hands. At the Ticinus they surrounded the consul Scipio and wounded him; at the Trebia they crossed the river to taunt the Roman camp and drew the Romans, unfed, through the freezing water; at Cannae they hunted down the fleeing allied horse.\n\nLate in the war the Numidian prince [[p:マシニッサ|Masinissa]] went over to Rome. At Zama his riders chased off the Carthaginian horse and came back to fall on [[p:ハンニバル|Hannibal]]'s infantry from behind: the horsemen who had won Hannibal his victories beat him in the end.\n\n[[p:マシニッサ|Masinissa]] lived to nearly ninety and could still mount a horse unaided at that age, it is said. His kingdom of Numidia endured as Rome's ally."
+    "ja": "北アフリカのヌミディア (今のアルジェリア東部あたり) の騎兵。鞍も手綱も使わず、馬の首にかけた紐と膝、それに声だけで小柄な馬を操ったと伝わる。小さな盾と数本の投げ槍を持ち、近づいては投げ、さっと離れてはまた戻る戦い方をした。\n\n[[p:ハンニバル]]のイタリア遠征では、ヌミディア騎兵が軍の目となり手足となった。ティキヌスでは執政官スキピオを囲んで傷を負わせ、トレビアでは川を渡ってローマの陣を挑発し、朝食も取らないローマ兵を凍える川へ誘い出した。カンナエでは、逃げるローマの同盟市の騎兵を追い散らした。\n\n戦争の後半、ヌミディアの王子[[p:マシニッサ]]はローマの側についた。ザマの戦いでは、[[p:マシニッサ]]の騎兵が今度はカルタゴの騎兵を追い払い、戻ってきて[[p:ハンニバル]]の歩兵の背後を突いた。[[p:ハンニバル]]に勝利をもたらしてきた騎兵が、最後にはハンニバルを破ったのである。\n\n[[p:マシニッサ]]は九十歳近くまで生き、その歳になっても人の手を借りずに馬に乗ったという。ヌミディア王国はその後、ローマと結んで続いた。",
+    "en": "The horsemen of Numidia (roughly eastern Algeria) rode small horses without saddle or bridle, steering with a cord round the neck, their knees and their voices. With a small shield and a handful of javelins they rode in, threw, wheeled away and came back again.\n\nOn [[p:ハンニバル|Hannibal]]'s Italian campaign they were the army's eyes and hands. At the Ticinus they surrounded the consul Scipio and wounded him; at the Trebia they crossed the river to taunt the Roman camp and drew the Romans, unfed, through the freezing water; at Cannae they hunted down the fleeing allied horse.\n\nLate in the war the Numidian prince [[p:マシニッサ|Masinissa]] went over to Rome. At Zama his riders chased off the Carthaginian horse and came back to fall on [[p:ハンニバル|Hannibal]]'s infantry from behind: the horsemen who had won [[p:ハンニバル|Hannibal]] his victories beat him in the end.\n\n[[p:マシニッサ|Masinissa]] lived to nearly ninety and could still mount a horse unaided at that age, it is said. His kingdom of Numidia endured as Rome's ally."
    },
    "year": 218,
    "people": [
@@ -3836,8 +3836,8 @@
     "en": "The silver of Spain"
    },
    "body": {
-    "ja": "第一次ポエニ戦争でシチリアを失ったカルタゴは、ハミルカル・バルカのもとでイベリア半島へ進んだ。目当ての一つが、南東部の山々に眠る銀であった。\n\nハミルカルの婿ハスドルバルは港町カルタゴ・ノウァ (新カルタゴ) を築き、その周りの銀山を開いた。[[p:ハンニバル]]の時代、バエベロという鉱山からは一日に三百ポンドの銀が採れたと、のちにプリニウスが書いている。ハンニバルの妻イミルケも、銀の町カストゥロの出であった。\n\n銀は傭兵の給料となり、象と兵を養い、イタリア遠征を支えた。前209年、スキピオがカルタゴ・ノウァを奇襲で落とすと、銀山と造幣所はローマの手に移り、戦いの流れは大きく変わった。ローマの支配の下で、のちにこの地の銀山では四万人が働いたという。",
-    "en": "Having lost Sicily in the First Punic War, Carthage turned to Iberia under Hamilcar Barca, drawn above all by the silver in the mountains of the southeast.\n\nHamilcar's son-in-law Hasdrubal founded the port of Carthago Nova, \"New Carthage\", and opened the mines around it. In [[p:ハンニバル|Hannibal]]'s day one mine, Baebelo, yielded three hundred pounds of silver a day, Pliny later wrote. Hannibal's wife Imilce came from the silver town of Castulo.\n\nThe silver paid the mercenaries, fed the elephants and men, and carried the war into Italy. When Scipio took Carthago Nova by surprise in 209 BC, the mines and the mint passed to Rome and the tide of the war turned. Under Rome, forty thousand men later worked the mines there, it is said."
+    "ja": "第一次ポエニ戦争でシチリアを失ったカルタゴは、ハミルカル・バルカのもとでイベリア半島へ進んだ。目当ての一つが、南東部の山々に眠る銀であった。\n\nハミルカルの婿ハスドルバルは港町カルタゴ・ノウァ (新カルタゴ) を築き、その周りの銀山を開いた。[[p:ハンニバル]]の時代、バエベロという鉱山からは一日に三百ポンドの銀が採れたと、のちにプリニウスが書いている。[[p:ハンニバル]]の妻イミルケも、銀の町カストゥロの出であった。\n\n銀は傭兵の給料となり、象と兵を養い、イタリア遠征を支えた。前209年、スキピオがカルタゴ・ノウァを奇襲で落とすと、銀山と造幣所はローマの手に移り、戦いの流れは大きく変わった。ローマの支配の下で、のちにこの地の銀山では四万人が働いたという。",
+    "en": "Having lost Sicily in the First Punic War, Carthage turned to Iberia under Hamilcar Barca, drawn above all by the silver in the mountains of the southeast.\n\nHamilcar's son-in-law Hasdrubal founded the port of Carthago Nova, \"New Carthage\", and opened the mines around it. In [[p:ハンニバル|Hannibal]]'s day one mine, Baebelo, yielded three hundred pounds of silver a day, Pliny later wrote. [[p:ハンニバル|Hannibal]]'s wife Imilce came from the silver town of Castulo.\n\nThe silver paid the mercenaries, fed the elephants and men, and carried the war into Italy. When Scipio took Carthago Nova by surprise in 209 BC, the mines and the mint passed to Rome and the tide of the war turned. Under Rome, forty thousand men later worked the mines there, it is said."
    },
    "people": [
     "ハンニバル|Hannibal",
@@ -3856,8 +3856,8 @@
     "en": "Falernian wine"
    },
    "body": {
-    "ja": "カンパニアの北、マッシクス山の麓のファレルヌスの野は、ローマで最も名高いワインの産地であった。何年も寝かせるほど味が深まり、琥珀色になったという。\n\n前217年、[[p:ハンニバル]]はこの野に入ってカンパニアを荒らした。ファビウスは野から出る山の道をふさいで閉じ込めたが、ハンニバルは夜、二千頭の牛の角に松明を結びつけて山の斜面へ追い立てた。ローマ兵が火の群れに気を取られている間に、カルタゴ軍は悠々と道を抜けた。\n\n翌年、カンナエの後にカプアがカルタゴについた。ハンニバルの軍はカプアで冬を越し、リウィウスは「カプアの贅沢と酒が、アルプスもローマ軍も打ち負かせなかった兵を骨抜きにした」と書いた (後世の見方でもある)。",
-    "en": "The Falernian fields below Mount Massicus in northern Campania produced the most famous wine of Rome. It deepened with years in the jar, they said, until it turned the colour of amber.\n\nIn 217 BC [[p:ハンニバル|Hannibal]] entered these fields and ravaged Campania. Fabius blocked the mountain passes out and thought he had him trapped — but at night Hannibal tied torches to the horns of two thousand oxen and drove them up the slopes. While the Romans chased the fires, the Carthaginian army walked out through the pass.\n\nThe next year, after Cannae, Capua went over to Carthage, and Hannibal's army wintered there. The luxury and wine of Capua, Livy wrote, unmanned the soldiers whom neither the Alps nor the legions had beaten — a later judgement as much as a fact."
+    "ja": "カンパニアの北、マッシクス山の麓のファレルヌスの野は、ローマで最も名高いワインの産地であった。何年も寝かせるほど味が深まり、琥珀色になったという。\n\n前217年、[[p:ハンニバル]]はこの野に入ってカンパニアを荒らした。ファビウスは野から出る山の道をふさいで閉じ込めたが、[[p:ハンニバル]]は夜、二千頭の牛の角に松明を結びつけて山の斜面へ追い立てた。ローマ兵が火の群れに気を取られている間に、カルタゴ軍は悠々と道を抜けた。\n\n翌年、カンナエの後にカプアがカルタゴについた。ハンニバルの軍はカプアで冬を越し、リウィウスは「カプアの贅沢と酒が、アルプスもローマ軍も打ち負かせなかった兵を骨抜きにした」と書いた (後世の見方でもある)。",
+    "en": "The Falernian fields below Mount Massicus in northern Campania produced the most famous wine of Rome. It deepened with years in the jar, they said, until it turned the colour of amber.\n\nIn 217 BC [[p:ハンニバル|Hannibal]] entered these fields and ravaged Campania. Fabius blocked the mountain passes out and thought he had him trapped — but at night [[p:ハンニバル|Hannibal]] tied torches to the horns of two thousand oxen and drove them up the slopes. While the Romans chased the fires, the Carthaginian army walked out through the pass.\n\nThe next year, after Cannae, Capua went over to Carthage, and Hannibal's army wintered there. The luxury and wine of Capua, Livy wrote, unmanned the soldiers whom neither the Alps nor the legions had beaten — a later judgement as much as a fact."
    },
    "people": [
     "ハンニバル|Hannibal",
@@ -3900,6 +3900,119 @@
    "related": [
     "punic_purple"
    ],
+   "people": []
+  },
+  "coloniae": {
+   "kind": "reform",
+   "title": {
+    "ja": "ラテン植民市",
+    "en": "The Latin colonies"
+   },
+   "body": {
+    "ja": "ローマは、征服した土地に市民を送り込んで新しい町 (植民市) を作った。植民市は畑を耕す町であると同時に、敵地に打ち込んだ楔、守りの砦でもあった。\n\n前218年、ローマはポー川のほとりにプラケンティアとクレモナを築き、それぞれ六千人を送った。土地を奪われたボイイ族とインスブレス族は怒り、測量に来たローマの役人を襲い、やがて[[p:ハンニバル]]の到来とともに立ち上がった。\n\n植民市の忠誠は戦争の行方を左右した。前209年、長い戦いに疲れた三十のラテン植民市のうち十二が、もう兵も金も出せないと言い出した。だが残る十八の植民市は「求められるだけ出す」と答え、ローマは持ちこたえた。リウィウスはこの十八の町の名を、ローマの恩人として一つ一つ書き記している。",
+    "en": "Rome planted its citizens on conquered land in new towns — colonies — which were farming communities and at the same time wedges driven into enemy country and forts to hold it.\n\nIn 218 BC Rome founded Placentia and Cremona on the Po, six thousand settlers each. The Boii and Insubres, who lost the land, attacked the Roman surveyors and soon rose when [[p:ハンニバル|Hannibal]] came.\n\nThe loyalty of the colonies decided the war. In 209 BC twelve of the thirty Latin colonies, worn out, said they could give no more men or money. The other eighteen answered that they would give whatever was asked, and Rome held. Livy names those eighteen towns one by one, as the saviours of Rome."
+   },
+   "year": 218,
+   "related": [
+    "legion",
+    "dictator"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 威信 +2・安定 +2%",
+    "en": "In the game, once for a realm that takes it up: prestige +2, stability +2%"
+   },
+   "people": []
+  },
+  "dictator": {
+   "kind": "reform",
+   "title": {
+    "ja": "独裁官",
+    "en": "The dictatorship"
+   },
+   "body": {
+    "ja": "ローマ共和政では、毎年選ばれる二人の執政官が国を率いた。だが国が危急のとき、元老院は執政官に一人の「独裁官」を指名させることができた。独裁官は誰にも拒まれない大きな権限を持つが、任期は六か月を超えない。\n\nトラシメヌスの大敗の後の前217年、ローマはファビウス・マクシムスを独裁官とした。執政官が戦死して指名する者がいなかったため、異例にも民会で選ばれた。ファビウスは決戦を避けて[[p:ハンニバル]]の後をつけ回し、「ぐずぐず男 (クンクタトル)」と嘲られた。民会は副官ミヌキウスにまで独裁官と同じ権限を与えたが、ミヌキウスは無謀な戦いで危うく全滅しかけ、ファビウスに救われて、自ら頭を下げた。\n\n第二次ポエニ戦争の後、独裁官はほとんど置かれなくなり、百年以上後のスッラまで現れない。",
+    "en": "In the Roman Republic two consuls, elected each year, led the state. In an emergency, though, the senate could have a consul name a single dictator, whose power no one could veto — for six months at most.\n\nAfter the disaster at Lake Trasimene in 217 BC Rome made Fabius Maximus dictator — elected, unusually, by the people, since the consul who should have named him was dead. Fabius would not give battle and dogged [[p:ハンニバル|Hannibal]]'s steps, and was mocked as \"the Delayer\". The assembly even gave his master of horse, Minucius, equal power; Minucius nearly lost his whole army in a reckless fight, was rescued by Fabius, and humbly submitted to him.\n\nAfter the Second Punic War dictators were hardly named again until Sulla, more than a century later."
+   },
+   "year": 217,
+   "people": [
+    "クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus",
+    "マルクス・ミヌキウス・ルフス|Marcus Minucius Rufus",
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "coloniae",
+    "legion"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +5%",
+    "en": "In the game, once for a realm that takes it up: stability +5%"
+   }
+  },
+  "lex_oppia": {
+   "kind": "reform",
+   "title": {
+    "ja": "オッピウス法",
+    "en": "The Oppian law"
+   },
+   "body": {
+    "ja": "カンナエの翌年、前215年、護民官オッピウスは戦時の法を通した。女性は半オンスを超える金を持ってはならない。色染めの衣を着てはならない。町の中で馬車に乗ってはならない (祭りの時を除く)。戦争のために、ぜいたくを慎めというのである。\n\n戦争が終わって数年後の前195年、この法を廃止するかどうかで町が二つに割れた。ローマの女性たちは家から出て広場への道を埋め、通る男たちに廃止を訴えた。執政官カトは「女たちを男と対等にすれば、すぐに上に立つだろう」と演説して反対したが、法は廃止された。\n\nリウィウスはこの騒ぎを長々と書いている。戦争のために我慢を強いられた人々が、平和とともに何を取り戻そうとしたかを伝える話である。",
+    "en": "In 215 BC, the year after Cannae, the tribune Oppius carried a wartime law: no woman might own more than half an ounce of gold, wear dyed clothes, or ride in a carriage in the city except at festivals. The war demanded restraint.\n\nIn 195 BC, some years after the war, the city split over repealing it. Roman women came out and filled the streets to the Forum, appealing to every man who passed. The consul Cato opposed repeal — \"the moment they are your equals they will be your superiors\" — but the law was repealed.\n\nLivy tells the whole affair at length: a story of what people made to sacrifice for a war wanted back when peace came."
+   },
+   "year": 215,
+   "people": [
+    "マルクス・ポルキウス・カト|Marcus Porcius Cato"
+   ],
+   "related": [
+    "denarius"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +15・安定 +2%",
+    "en": "In the game, once for a realm that takes it up: treasury +15, stability +2%"
+   }
+  },
+  "archimedes_machines": {
+   "kind": "reform",
+   "title": {
+    "ja": "アルキメデスの機械",
+    "en": "The machines of Archimedes"
+   },
+   "body": {
+    "ja": "前213年、マルケッルスの率いるローマ軍がシュラクサイを海と陸から攻めた。迎え撃ったのは七十歳を越えた数学者[[p:アルキメデス]]の機械であった。\n\n遠くの船には大きな投石機が、近づいた船には小さな投石機が、さらに城壁の小さな穴からは「さそり」と呼ばれる弩が、次々と石と矢を浴びせた。城壁の上からは巨大な鉤爪の起重機が伸び、船首をつかんで吊り上げ、落として沈めた。船を並べて梯子を載せた攻城船 (サンブカ) は、大きな石で打ち砕かれた。\n\nマルケッルスは「アルキメデスは我らの船を酒杯のように使って海の水をすくっている」と冗談を言い、力攻めをあきらめて包囲に切り替えた。鏡で日の光を集めて船を焼いたという話は、ずっと後の時代の言い伝えである。\n\n湯船で浮力の原理に気づき、「分かった (エウレカ)」と叫んで裸で町へ飛び出した、という話もアルキメデスのものとして伝わる。彼は球と、それを囲む円柱を墓に刻むよう望んだ。百年以上後、シチリアの役人となったキケロは、茂みに埋もれたその墓を見つけ出している。",
+    "en": "In 213 BC a Roman army and fleet under Marcellus attacked Syracuse by land and sea. They met the machines of [[p:アルキメデス|Archimedes]], the mathematician, then past seventy.\n\nGreat catapults struck ships far off, smaller ones ships closer in, and through small loopholes in the walls \"scorpion\" crossbows shot again and again. From the walls huge claw cranes swung out, gripped ships by the bow, hoisted them and let them fall. The siege ships with ladders lashed across them were smashed with great stones.\n\nMarcellus joked that Archimedes was using his ships as cups to ladle the sea, and gave up assault for siege. The story of mirrors that burned the ships is a legend of much later times.\n\nHe is also the man who, realising the principle of buoyancy in his bath, ran naked through the town shouting \"Eureka!\" He asked that a sphere within a cylinder be carved on his tomb; more than a century later Cicero, as an official in Sicily, found it overgrown with brambles."
+   },
+   "year": 213,
+   "people": [
+    "アルキメデス|Archimedes",
+    "マルクス・クラウディウス・マルケッルス|Marcus Claudius Marcellus",
+    "ヒエロン2世|Hiero II"
+   ],
+   "related": [
+    "sicily_grain"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 技術 +0.04",
+    "en": "In the game, once for a realm that takes it up: technology +0.04"
+   }
+  },
+  "denarius": {
+   "kind": "reform",
+   "title": {
+    "ja": "デナリウス銀貨",
+    "en": "The denarius"
+   },
+   "body": {
+    "ja": "長い戦争で、ローマの青銅貨アスはどんどん軽くなり、値打ちが下がっていた。前211年頃、ローマは新しい銀貨を作った。一枚が十アスにあたるので「デナリウス (十のもの)」と呼ばれた。表には兜をかぶったローマの女神、裏には馬に乗った双子の神ディオスクロイ。\n\nデナリウスは、その後四百五十年以上もローマの基本の通貨であり続けた。兵の給料も、帝国の税も、デナリウスで数えられた。\n\nその名は今も生きている。イタリア語の「デナーロ (お金)」、スペイン語の「ディネロ」、そしてアラブ世界の通貨「ディナール」は、みなデナリウスから来ている。",
+    "en": "The long war made Rome's bronze as lighter and lighter and worth less and less. Around 211 BC Rome struck a new silver coin worth ten asses — the denarius, \"the tenner\" — with helmeted Roma on one side and the twin horsemen, the Dioscuri, on the other.\n\nIt remained the basic coin of Rome for more than four hundred and fifty years: soldiers' pay and imperial taxes were counted in denarii.\n\nIts name lives on: Italian denaro (money), Spanish dinero, and the dinar of the Arab world all come from it."
+   },
+   "year": 211,
+   "related": [
+    "spanish_silver",
+    "lex_oppia"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +40",
+    "en": "In the game, once for a realm that takes it up: treasury +40"
+   },
    "people": []
   }
  },
@@ -3944,6 +4057,72 @@
     "carthago_nova",
     "malaca"
    ]
+  }
+ ],
+ "reforms": [
+  {
+   "art": "coloniae",
+   "adopt": [
+    [
+     218,
+     "rome"
+    ]
+   ],
+   "fx": {
+    "prestige": 2,
+    "stability": 0.02
+   }
+  },
+  {
+   "art": "dictator",
+   "adopt": [
+    [
+     217,
+     "rome",
+     "q"
+    ]
+   ],
+   "fx": {
+    "stability": 0.05
+   }
+  },
+  {
+   "art": "lex_oppia",
+   "adopt": [
+    [
+     215,
+     "rome"
+    ]
+   ],
+   "fx": {
+    "treasury": 15,
+    "stability": 0.02
+   }
+  },
+  {
+   "art": "archimedes_machines",
+   "adopt": [
+    [
+     213,
+     "syracuse",
+     "q"
+    ]
+   ],
+   "fx": {
+    "tech": 0.04
+   }
+  },
+  {
+   "art": "denarius",
+   "adopt": [
+    [
+     211,
+     "rome"
+    ]
+   ],
+   "fx": {
+    "treasury": 40
+   }
   }
  ]
 }

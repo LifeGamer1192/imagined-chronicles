@@ -7559,8 +7559,8 @@
      0.2
     ]
    ],
-   "ja": "刀狩令。{r_oda}は百姓から刀・弓・鉄砲を取り上げ、武士と百姓の別を定めた。",
-   "en": "The sword hunt. {r_oda} took swords, bows and guns from the farmers, and fixed the line between warrior and farmer."
+   "ja": "[[a:katanagari|刀狩令]]。{r_oda}は百姓から刀・弓・鉄砲を取り上げ、武士と百姓の別を定めた。",
+   "en": "[[a:katanagari|The sword hunt]]. {r_oda} took swords, bows and guns from the farmers, and fixed the line between warrior and farmer."
   },
   {
    "id": "suriagehara",
@@ -8350,8 +8350,8 @@
    ],
    "imp": 3,
    "at": "edo",
-   "ja": "元和偃武。大坂の陣ののち、幕府は一国一城令と武家諸法度を出した。応仁の乱から百五十年続いた戦乱の世は終わった。",
-   "en": "The Genna peace. After Osaka the shogunate ordered one castle to a province and issued its laws for the warrior houses. The age of war that began with the Ōnin war a hundred and fifty years before was over."
+   "ja": "元和偃武。大坂の陣ののち、幕府は[[a:buke_shohatto|一国一城令と武家諸法度]]を出した。応仁の乱から百五十年続いた戦乱の世は終わった。",
+   "en": "The Genna peace. After Osaka the shogunate ordered [[a:buke_shohatto|one castle to a province]] and issued its laws for the warrior houses. The age of war that began with the Ōnin war a hundred and fifty years before was over."
   }
  ],
  "battles": {
@@ -9421,7 +9421,7 @@
     "en": "The way of tea"
    },
    "body": {
-    "ja": "茶は鎌倉時代に宋から種と飲み方が伝わり、京の南の宇治がやがて名産地となった。戦国の頃には、茶を点てて客をもてなす「茶の湯」が、武将と豪商の間で大流行した。村田珠光に始まり、堺の武野紹鴎を経て、[[p:千利休]]が「わび茶」として大成したとされる。\n\n[[p:織田信長]]は茶の湯を政治に使った (御茶湯御政道)。名物の茶道具を集め、手柄を立てた家臣に土地の代わりに茶器を与え、茶会を開く許しを特権とした。甲斐攻めの手柄で上野一国を与えられた[[p:滝川一益]]は、「珠光小茄子の茶入れの方が欲しかった」と嘆いたという。\n\n豊臣秀吉はさらに派手だった。組み立て式の黄金の茶室を造り、1587年には京の北野で身分を問わず誰でも参加できる大茶会を開いた。一方で、茶頭の千利休とは次第に溝ができ、1591年、利休は秀吉に切腹を命じられた。\n\n茶道具は時に城一つに値した。[[p:松永久秀]]は名物の茶釜「平蜘蛛」を信長に渡すことを拒み、釜とともに爆死したという (後世の話ともいう)。",
+    "ja": "茶は鎌倉時代に宋から種と飲み方が伝わり、京の南の宇治がやがて名産地となった。戦国の頃には、茶を点てて客をもてなす「茶の湯」が、武将と豪商の間で大流行した。村田珠光に始まり、堺の武野紹鴎を経て、[[p:千利休]]が「わび茶」として大成したとされる。\n\n[[p:織田信長]]は茶の湯を政治に使った (御茶湯御政道)。名物の茶道具を集め、手柄を立てた家臣に土地の代わりに茶器を与え、茶会を開く許しを特権とした。甲斐攻めの手柄で上野一国を与えられた[[p:滝川一益]]は、「珠光小茄子の茶入れの方が欲しかった」と嘆いたという。\n\n豊臣秀吉はさらに派手だった。組み立て式の黄金の茶室を造り、1587年には京の北野で身分を問わず誰でも参加できる大茶会を開いた。一方で、茶頭の[[p:千利休]]とは次第に溝ができ、1591年、利休は秀吉に切腹を命じられた。\n\n茶道具は時に城一つに値した。[[p:松永久秀]]は名物の茶釜「平蜘蛛」を信長に渡すことを拒み、釜とともに爆死したという (後世の話ともいう)。",
     "en": "Tea seeds and the habit of drinking tea came from Song China in the Kamakura period, and Uji, south of Kyoto, became famous for it. In the age of war, serving guests a bowl of whisked tea — chanoyu, the way of tea — was all the rage among warlords and great merchants. It began, they say, with Murata Jukō, passed through Takeno Jōō of Sakai, and was perfected by [[p:千利休|Sen no Rikyū]] as wabi tea.\n\n[[p:織田信長|Oda Nobunaga]] made tea a tool of rule. He collected famous tea wares, rewarded vassals with tea bowls instead of land, and made the right to hold a tea gathering a privilege. [[p:滝川一益|Takigawa Kazumasu]], given the whole province of Kōzuke for his part in the conquest of Kai, is said to have sighed that he would rather have had a certain little tea caddy.\n\nToyotomi Hideyoshi went further: a portable golden tea room, and in 1587 a vast tea gathering at Kitano in Kyoto open to anyone of any rank. But he fell out with his tea master Rikyū, and in 1591 ordered him to take his own life.\n\nA tea utensil could be worth a castle. [[p:松永久秀|Matsunaga Hisahide]], so the story goes, refused to give his famous kettle \"Hiragumo\" to Nobunaga and blew himself up with it — though that may be a later tale."
    },
    "people": [
@@ -9456,6 +9456,145 @@
     "sakai_guns",
     "teppo"
    ]
+  },
+  "bunkokuho": {
+   "kind": "reform",
+   "title": {
+    "ja": "分国法",
+    "en": "The house codes of the daimyo"
+   },
+   "body": {
+    "ja": "室町幕府の力が衰えると、戦国大名は自分の領国 (分国) を治めるための法を、自分で定めるようになった。これを分国法という。\n\n今川氏親の「今川仮名目録」(1526年) に、子の義元は追加の条を加え、「今はすべて自分の力で国の法を申し付けている」と言い切った。将軍の権威ではなく、大名自身の力が国を治めるという宣言である。\n\n[[p:武田信玄]]の「甲州法度之次第」(1547年) は、けんかをした者は理由を問わず双方を罰する「喧嘩両成敗」を定めた。最後の条には、信玄自身がこの法に背いたなら、身分の上下を問わず訴え出てよい、とある。伊達稙宗の「塵芥集」(1536年) は百七十条を超える大部の法である。\n\n近江の六角家の「六角氏式目」(1567年) は、少し変わっている。観音寺騒動で家臣の信頼を失った六角義治は、家臣たちが作った法を受け入れ、主君の方がそれを守ると誓わされた。法は大名の力を示すだけでなく、大名を縛るものにもなったのである。",
+    "en": "As the Muromachi shogunate weakened, the warlords began writing their own laws for their own domains — the house codes.\n\nImagawa Ujichika issued his Kana Code in 1526; his son Yoshimoto added articles declaring that \"now, everywhere, I lay down the laws of this land by my own power\" — rule by the lord's strength, not the shogun's authority.\n\n[[p:武田信玄|Takeda Shingen]]'s code of 1547 punished both parties to any brawl, whatever the cause; its last article says that if Shingen himself breaks the code, anyone, high or low, may protest. Date Tanemune's Jinkaishū of 1536 runs to more than 170 articles.\n\nThe Rokkaku code of 1567 is different. Having lost his retainers' trust in the Kannonji troubles, Rokkaku Yoshiharu had to accept a code drawn up by his retainers and swear that he, the lord, would keep it. Law could bind a lord as well as show his power."
+   },
+   "year": 1547,
+   "people": [
+    "今川義元|Imagawa Yoshimoto",
+    "武田信玄|Takeda Shingen"
+   ],
+   "related": [
+    "rakuichi",
+    "kenchi"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +4%・正統性 +3%",
+    "en": "In the game, once for a realm that takes it up: stability +4%, legitimacy +3%"
+   }
+  },
+  "rakuichi": {
+   "kind": "reform",
+   "title": {
+    "ja": "楽市楽座",
+    "en": "Free markets and free guilds"
+   },
+   "body": {
+    "ja": "中世の市では、「座」と呼ばれる商人の組合が、寺社や公家に金を払って品物ごとの商いを独り占めしていた。座に入らない者は、その品を売ることができない。\n\n戦国大名は、城下に商人を呼び集めるため、座の特権をなくし、誰でも自由に商いができる「楽市」を開いた。記録で最も早いのは、1549年の近江の六角家の観音寺城下の石寺新市である。[[p:今川氏真]]も1566年に富士大宮の市を楽市とした。\n\n最もよく知られるのは[[p:織田信長]]である。1567年、美濃を取った信長は岐阜の城下の加納に楽市の制札を立て、1577年には安土の城下に十三か条の掟を出した。商人の通行の自由、税の免除、借金の帳消しの保護、そして領内の関所の撤廃。人と物が城下に集まり、大名の財は増えた。",
+    "en": "In medieval markets, merchant guilds called za paid temples and nobles for the sole right to trade in their goods; no outsider could sell them.\n\nTo draw merchants to their castle towns, the warlords abolished the guilds' privileges and opened \"free markets\" where anyone could trade. The earliest on record is the new market at Ishidera below the Rokkaku castle of Kannonji in Ōmi, in 1549; [[p:今川氏真|Imagawa Ujizane]] freed the market of Fuji-Ōmiya in 1566.\n\nBest known is [[p:織田信長|Oda Nobunaga]]. Having taken Mino in 1567 he posted a free-market decree at Kanō below Gifu, and in 1577 issued thirteen articles for the town below Azuchi: free passage for merchants, freedom from taxes, protection from debt claims — and he tore down the toll barriers within his lands. People and goods poured into the castle towns, and the lord's wealth with them."
+   },
+   "year": 1567,
+   "people": [
+    "織田信長|Oda Nobunaga",
+    "今川氏真|Imagawa Ujizane"
+   ],
+   "related": [
+    "bunkokuho",
+    "sakai_guns"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +40",
+    "en": "In the game, once for a realm that takes it up: treasury +40"
+   }
+  },
+  "tenma": {
+   "kind": "reform",
+   "title": {
+    "ja": "伝馬制",
+    "en": "The post-horse system"
+   },
+   "body": {
+    "ja": "伝馬とは、宿場ごとに馬と人を用意させ、大名の使いや荷物を次の宿場へとつないで運ばせる仕組みである。早く確実な連絡と輸送は、広い領国を治める大名の力となった。\n\n相模の北条家は1520年代からこの仕組みを整え、伝馬を使う許しの証 (伝馬手形) には、北条家の印である「虎の印判」が押された。武田家も甲斐・信濃に伝馬の道を整えた。\n\n天下を取った[[p:徳川家康]]は1601年、東海道の宿場ごとに三十六疋の馬を常に用意させる伝馬制を定めた。こうして整えられた宿場が、のちに「東海道五十三次」として知られる道となる。",
+    "en": "Under the post-horse system each station along a road kept horses and men to carry the lord's messengers and loads on to the next. Fast, reliable communication and transport were real power over a wide domain.\n\nThe Hōjō of Sagami built up the system from the 1520s; the passes that allowed use of the post horses bore the Hōjō's \"tiger seal\". The Takeda laid out post roads across Kai and Shinano too.\n\nMaster of the realm, [[p:徳川家康|Tokugawa Ieyasu]] ordered in 1601 that every station on the Tōkaidō keep thirty-six horses ready — the beginning of the road later famous as the \"Fifty-three Stations of the Tōkaidō\"."
+   },
+   "year": 1525,
+   "people": [
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "rakuichi"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +20・威信 +2",
+    "en": "In the game, once for a realm that takes it up: treasury +20, prestige +2"
+   }
+  },
+  "kenchi": {
+   "kind": "reform",
+   "title": {
+    "ja": "検地 (太閤検地)",
+    "en": "The land surveys"
+   },
+   "body": {
+    "ja": "検地とは、田畑の広さと良し悪しを調べて、取れる米の量を決めることである。それまでは領主が村から申告させる「指出」が多く、実際の広さは分からないことも多かった。北条早雲は1506年に相模で早くも検地を行っている。\n\n豊臣秀吉は、1582年の山崎の戦いの後から、全国で役人を送って田畑を実際に測らせた。長さの基準をそろえ (六尺三寸を一間)、三百歩を一反とし、田を上・中・下に分けて、取れる米の量を「石」で表した (石高)。一つの田には一人の耕す者を帳面に記して年貢を負わせ、何重にも重なっていた土地の権利を整理した。\n\n検地に逆らう者に、秀吉は厳しかった。奥州の検地では「一郷でも二郷でも、逆らう者はことごとく撫で斬りにせよ」と書き送っている。\n\n石高は、大名の領地の大きさと、出すべき兵の数の基準になった。「加賀百万石」のような言い方は、ここから生まれた。",
+    "en": "A land survey measured the size and quality of fields and fixed how much rice they should yield. Before, lords mostly had villages report their own figures, and no one knew the true acreage; Hōjō Sōun already surveyed Sagami in 1506.\n\nFrom the battle of Yamazaki in 1582 Toyotomi Hideyoshi sent officials across the country to measure the fields themselves. He fixed the units of length, set three hundred bu to the tan, graded fields as upper, middle and lower, and expressed their yield in koku of rice. Each field was registered to one cultivator, who owed its tax — cutting through layers of overlapping rights.\n\nHe was ruthless with resistance: during the survey of the northeast he wrote that any village that resisted, one or two whole districts if need be, should be put to the sword to the last man.\n\nKokudaka became the measure of a lord's domain and of the soldiers he owed — hence phrases like \"Kaga of a million koku\"."
+   },
+   "year": 1582,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "katanagari",
+    "bunkokuho"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +50",
+    "en": "In the game, once for a realm that takes it up: treasury +50"
+   }
+  },
+  "katanagari": {
+   "kind": "reform",
+   "title": {
+    "ja": "刀狩",
+    "en": "The sword hunt"
+   },
+   "body": {
+    "ja": "1588年、豊臣秀吉は刀狩令を出し、百姓から刀・脇差・弓・槍・鉄砲を取り上げた。表向きの理由は、集めた刀を京の大仏殿 (方広寺) の釘や鎹にし、百姓をこの世でもあの世でも救うため、というものであった。\n\n本当のねらいは一揆を防ぐことにあった。戦国の百姓は武器を持ち、時に武士として戦い、時に一揆を起こした。刀狩は、武士と百姓の間に線を引いた。\n\n1591年、秀吉は身分統制令を出し、武士が百姓や町人になること、百姓が商いや職人に移ることを禁じた。検地と刀狩によって「兵農分離」が進み、江戸時代の身分の仕組みの土台となった。もっとも、村から武器がすべて消えたわけではなく、鉄砲は獣を追い払うために多く残ったことが分かっている。",
+    "en": "In 1588 Toyotomi Hideyoshi ordered the sword hunt, taking swords, short swords, bows, spears and guns from the farmers. The stated reason was that the blades would become nails and clamps for the Great Buddha hall in Kyoto, and so save the farmers in this world and the next.\n\nThe real aim was to prevent risings. In the age of war farmers carried arms, fought now as soldiers and now in leagues against their lords. The sword hunt drew a line between warrior and farmer.\n\nIn 1591 Hideyoshi forbade warriors to become farmers or townsmen, and farmers to leave the land for trade or craft. With the land surveys, the sword hunt separated soldier from farmer and laid the ground for the status order of the Edo period — though villages kept plenty of guns, it turns out, to drive off wild animals."
+   },
+   "year": 1588,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "kenchi",
+    "buke_shohatto"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +5%",
+    "en": "In the game, once for a realm that takes it up: stability +5%"
+   }
+  },
+  "buke_shohatto": {
+   "kind": "reform",
+   "title": {
+    "ja": "一国一城令と武家諸法度",
+    "en": "One castle to a province, and the laws for the military houses"
+   },
+   "body": {
+    "ja": "1615年、大坂の陣で豊臣家を滅ぼした徳川家は、すぐに二つの命令を出した。一つは一国一城令。大名は自分の住む城を一つだけ残し、ほかの城はすべて壊すこと。全国に三千ほどあった城は、およそ百七十にまで減ったという。\n\nもう一つは武家諸法度。十三か条の法で、新しく城を築くことを禁じ、城の修理にも幕府の許しを求め、大名同士が勝手に縁組みをすることを禁じた。\n\nこの法は空文ではなかった。1619年、関ヶ原の功臣[[p:福島正則]]は、許しを得ずに広島城の石垣を直したとして、四十九万石の領地を取り上げられた。こうして、百五十年続いた戦乱の世は「元和偃武」——武器を伏せて用いない時代——へと移っていった。",
+    "en": "In 1615, having destroyed the Toyotomi at Osaka, the Tokugawa issued two orders at once. One was \"one castle to a province\": each lord kept the castle he lived in and pulled down all the rest. Some three thousand castles across the country fell to around a hundred and seventy, it is said.\n\nThe other was the Laws for the Military Houses, thirteen articles forbidding new castles, requiring the shogunate's leave even to repair one, and forbidding lords to arrange marriages among themselves.\n\nThe laws had teeth. In 1619 [[p:福島正則|Fukushima Masanori]], a hero of Sekigahara, lost his domain of 490,000 koku for repairing the stone walls of Hiroshima castle without leave. So the age of war of a hundred and fifty years gave way to the Genna peace — \"the weapons laid down\"."
+   },
+   "year": 1615,
+   "people": [
+    "徳川家康|Tokugawa Ieyasu",
+    "福島正則|Fukushima Masanori"
+   ],
+   "related": [
+    "katanagari"
+   ],
+   "effect": {
+    "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +8%",
+    "en": "In the game, once for a realm that takes it up: stability +8%"
+   }
   }
  },
  "goods": [
@@ -9531,6 +9670,124 @@
      "hirado"
     ]
    ]
+  }
+ ],
+ "reforms": [
+  {
+   "art": "bunkokuho",
+   "adopt": [
+    [
+     1526,
+     "imagawa"
+    ],
+    [
+     1536,
+     "date"
+    ],
+    [
+     1547,
+     "takeda"
+    ],
+    [
+     1567,
+     "rokkaku"
+    ],
+    [
+     1597,
+     "chosokabe"
+    ]
+   ],
+   "fx": {
+    "stability": 0.04,
+    "legitimacy": 0.03
+   }
+  },
+  {
+   "art": "rakuichi",
+   "adopt": [
+    [
+     1549,
+     "rokkaku"
+    ],
+    [
+     1566,
+     "imagawa"
+    ],
+    [
+     1567,
+     "oda"
+    ],
+    [
+     1578,
+     "hojo"
+    ]
+   ],
+   "fx": {
+    "treasury": 40
+   }
+  },
+  {
+   "art": "tenma",
+   "adopt": [
+    [
+     1525,
+     "hojo"
+    ],
+    [
+     1555,
+     "takeda"
+    ],
+    [
+     1601,
+     "tokugawa"
+    ]
+   ],
+   "fx": {
+    "treasury": 20,
+    "prestige": 2
+   }
+  },
+  {
+   "art": "kenchi",
+   "adopt": [
+    [
+     1506,
+     "hojo"
+    ],
+    [
+     1582,
+     "oda"
+    ]
+   ],
+   "fx": {
+    "treasury": 50
+   }
+  },
+  {
+   "art": "katanagari",
+   "adopt": [
+    [
+     1588,
+     "oda",
+     "q"
+    ]
+   ],
+   "fx": {
+    "stability": 0.05
+   }
+  },
+  {
+   "art": "buke_shohatto",
+   "adopt": [
+    [
+     1615,
+     "tokugawa",
+     "q"
+    ]
+   ],
+   "fx": {
+    "stability": 0.08
+   }
   }
  ]
 }
