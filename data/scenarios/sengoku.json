@@ -9339,6 +9339,198 @@
    "related": [
     "teppo"
    ]
+  },
+  "iwami_silver": {
+   "kind": "good",
+   "title": {
+    "ja": "石見銀山",
+    "en": "The Iwami silver mine"
+   },
+   "body": {
+    "ja": "1526年、博多の商人神屋寿禎は、出雲沖を船で行くとき山が光るのを見て、石見の仙ノ山で銀を見つけたと伝わる。1533年には、朝鮮から来た技術者が「灰吹法」(鉛に銀を溶かし込んでから灰の上で鉛を吸わせ、銀だけを残す) を伝え、産出は一気に増えた。\n\n銀山は大名たちの奪い合いの的となった。大内・尼子・毛利が十数年にわたって争い、1562年に[[p:毛利元就]]がようやく手中に収めた。銀は毛利の軍資金となり、正親町天皇の即位の費用にも献上された。\n\n十六世紀の終わりから十七世紀の初め、日本の銀は世界の銀の三分の一ほどを占めたと言われ、その多くが石見の銀だった。ポルトガル人の地図には「銀鉱山の王国」として石見の名が記された。日本の銀は明の生糸や絹と交換され、ヨーロッパと南米の銀とともに世界を巡った。\n\n関ヶ原の後、[[p:徳川家康]]は銀山を自分の直轄とし、奉行の大久保長安が経営した。",
+    "en": "In 1526, the story goes, the Hakata merchant Kamiya Jutei saw a mountain shining as he sailed off Izumo, and found silver on Mount Sennoyama in Iwami. In 1533 technicians from Korea brought cupellation — melting the silver into lead and then letting a bed of ash soak up the lead — and output soared.\n\nLords fought over the mine for decades — Ōuchi, Amago and Mōri — until [[p:毛利元就|Mōri Motonari]] took it for good in 1562. Its silver paid for the Mōri armies and helped pay for the coronation of Emperor Ōgimachi.\n\nAround 1600 Japan produced perhaps a third of the world's silver, much of it from Iwami; Portuguese maps marked it as a kingdom of silver mines. Japanese silver was traded for Ming raw silk and travelled the world with the silver of Europe and South America.\n\nAfter Sekigahara [[p:徳川家康|Tokugawa Ieyasu]] took the mine for himself and his magistrate Ōkubo Nagayasu ran it."
+   },
+   "people": [
+    "毛利元就|Mōri Motonari",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "nanban"
+   ]
+  },
+  "kai_gold": {
+   "kind": "good",
+   "title": {
+    "ja": "甲州金",
+    "en": "The gold of Kai"
+   },
+   "body": {
+    "ja": "甲斐の山々には黒川金山・湯之奥金山などの金山があり、武田家の大きな財源となった。信玄の強い軍の裏には、この金があった。\n\n武田家は金を量って使うだけでなく、形と重さをそろえた金貨「甲州金」を作った。単位は両・分・朱で、一両は四分、一分は四朱という四進法である。のちに[[p:徳川家康]]がこの仕組みを江戸幕府の金貨に取り入れ、明治のはじめまで使われた。\n\n金山の掘り手たち (金山衆) は戦にも使われた。城を囲めば地下を掘って井戸の水を抜き、石垣を崩したと伝わる。\n\n武田家が滅んだあと、家康は甲斐を手に入れ、武田の家臣とともに金山と金貨の仕組みも引き継いだ。",
+    "en": "The mountains of Kai held gold — the Kurokawa and Yunooku mines among them — and it underwrote the Takeda. Behind Shingen's strong armies stood this gold.\n\nThe Takeda did not only weigh out gold: they struck coins of set shape and weight, \"Kōshū gold\", counted in ryō, bu and shu, four bu to the ryō and four shu to the bu. [[p:徳川家康|Tokugawa Ieyasu]] later took the system into the coinage of the shogunate, and it lasted into the Meiji era.\n\nThe miners went to war too: at sieges, it is said, they tunnelled under castles to drain the wells and bring down the stone walls.\n\nWhen the Takeda fell Ieyasu took Kai, and with the Takeda retainers he took over its mines and its coinage."
+   },
+   "people": [
+    "武田信玄|Takeda Shingen",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "takeda_horse"
+   ]
+  },
+  "aoso": {
+   "kind": "good",
+   "title": {
+    "ja": "越後の青苧",
+    "en": "The ramie of Echigo"
+   },
+   "body": {
+    "ja": "青苧 (あおそ) は、からむしという草の茎から取る繊維である。夏の着物になる上等の麻布 (越後上布) の糸になり、都で高く売れた。越後はその一大産地であった。\n\n青苧の商いは、都の公家が元締めとなる「座」が仕切っていた。越後の長尾家 (上杉家) は、直江津や柏崎の港から船で敦賀へ運ばれる青苧に税をかけ、大きな利を得た。[[p:上杉謙信]]が毎年のように関東や信濃へ出兵できたのは、この富があったからだとも言われる。\n\n謙信の死後、[[p:上杉景勝]]と[[p:直江兼続]]も青苧の生産と商いに力を注いだ。",
+    "en": "Aoso is the fibre of the ramie plant. Spun into the fine summer linen of Echigo it sold dear in Kyoto, and Echigo was the great source of it.\n\nThe trade was run by a guild under the patronage of a court family in the capital. The Nagao (later Uesugi) lords of Echigo taxed the ramie shipped from Naoetsu and Kashiwazaki to Tsuruga and grew rich on it; that wealth, it is said, is how [[p:上杉謙信|Uesugi Kenshin]] could campaign in the Kantō and Shinano almost every year.\n\nAfter Kenshin's death [[p:上杉景勝|Uesugi Kagekatsu]] and [[p:直江兼続|Naoe Kanetsugu]] kept up the ramie trade."
+   },
+   "people": [
+    "上杉謙信|Uesugi Kenshin",
+    "上杉景勝|Uesugi Kagekatsu",
+    "直江兼続|Naoe Kanetsugu"
+   ]
+  },
+  "sakai_guns": {
+   "kind": "good",
+   "title": {
+    "ja": "堺・国友・根来の鉄砲鍛冶",
+    "en": "The gunsmiths of Sakai, Kunitomo and Negoro"
+   },
+   "body": {
+    "ja": "種子島に伝わった鉄砲は、わずか数年で本州に渡った。紀伊の根来寺の津田監物は種子島から鉄砲を持ち帰り、根来で作らせたという。堺の商人橘屋又三郎は種子島で作り方を学んで「鉄砲又」と呼ばれた。近江の国友村は、1544年に将軍足利義晴の命で二挺を作ったのが始まりと伝わる。\n\n鉄砲作りは分業であった。銃身を作る鍛冶、木の台を作る台師、引き金などを作る金具師。堺と国友は、何百人もの職人を抱える鉄砲の町となった。\n\n鉄砲の火薬に要る硝石や、弾の鉛は多くを海外から買い入れた。それを扱ったのが[[p:今井宗久]]ら堺の商人である。[[p:織田信長]]は1568年に京へ上ると、堺に二万貫の矢銭を課し、やがて堺を直轄にした。国友の鍛冶も信長、のちに秀吉と家康のもとで鉄砲を作り続けた。",
+    "en": "Within a few years of reaching Tanegashima the gun crossed to Honshū. Tsuda Kenmotsu of the Negoro temple in Kii, they say, brought one back and had it copied there; the Sakai merchant Tachibanaya Matasaburō learned the craft on Tanegashima and was nicknamed \"Gun Matasaburō\"; the village of Kunitomo in Ōmi traces its trade to two guns made in 1544 on the shogun Ashikaga Yoshiharu's order.\n\nGun-making was divided labour: smiths forged the barrels, stock-makers carved the wood, metalworkers made the locks and fittings. Sakai and Kunitomo became gun towns with hundreds of craftsmen.\n\nMuch of the saltpetre for the powder and the lead for the shot was bought abroad, through Sakai merchants like [[p:今井宗久|Imai Sōkyū]]. When [[p:織田信長|Oda Nobunaga]] entered Kyoto in 1568 he levied twenty thousand kan on Sakai, and later took the town under his own rule; the smiths of Kunitomo went on making guns for Nobunaga, Hideyoshi and Ieyasu."
+   },
+   "year": 1544,
+   "people": [
+    "織田信長|Oda Nobunaga",
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "teppo",
+    "saika",
+    "nanban"
+   ]
+  },
+  "chanoyu": {
+   "kind": "good",
+   "title": {
+    "ja": "茶の湯",
+    "en": "The way of tea"
+   },
+   "body": {
+    "ja": "茶は鎌倉時代に宋から種と飲み方が伝わり、京の南の宇治がやがて名産地となった。戦国の頃には、茶を点てて客をもてなす「茶の湯」が、武将と豪商の間で大流行した。村田珠光に始まり、堺の武野紹鴎を経て、[[p:千利休]]が「わび茶」として大成したとされる。\n\n[[p:織田信長]]は茶の湯を政治に使った (御茶湯御政道)。名物の茶道具を集め、手柄を立てた家臣に土地の代わりに茶器を与え、茶会を開く許しを特権とした。甲斐攻めの手柄で上野一国を与えられた[[p:滝川一益]]は、「珠光小茄子の茶入れの方が欲しかった」と嘆いたという。\n\n豊臣秀吉はさらに派手だった。組み立て式の黄金の茶室を造り、1587年には京の北野で身分を問わず誰でも参加できる大茶会を開いた。一方で、茶頭の千利休とは次第に溝ができ、1591年、利休は秀吉に切腹を命じられた。\n\n茶道具は時に城一つに値した。[[p:松永久秀]]は名物の茶釜「平蜘蛛」を信長に渡すことを拒み、釜とともに爆死したという (後世の話ともいう)。",
+    "en": "Tea seeds and the habit of drinking tea came from Song China in the Kamakura period, and Uji, south of Kyoto, became famous for it. In the age of war, serving guests a bowl of whisked tea — chanoyu, the way of tea — was all the rage among warlords and great merchants. It began, they say, with Murata Jukō, passed through Takeno Jōō of Sakai, and was perfected by [[p:千利休|Sen no Rikyū]] as wabi tea.\n\n[[p:織田信長|Oda Nobunaga]] made tea a tool of rule. He collected famous tea wares, rewarded vassals with tea bowls instead of land, and made the right to hold a tea gathering a privilege. [[p:滝川一益|Takigawa Kazumasu]], given the whole province of Kōzuke for his part in the conquest of Kai, is said to have sighed that he would rather have had a certain little tea caddy.\n\nToyotomi Hideyoshi went further: a portable golden tea room, and in 1587 a vast tea gathering at Kitano in Kyoto open to anyone of any rank. But he fell out with his tea master Rikyū, and in 1591 ordered him to take his own life.\n\nA tea utensil could be worth a castle. [[p:松永久秀|Matsunaga Hisahide]], so the story goes, refused to give his famous kettle \"Hiragumo\" to Nobunaga and blew himself up with it — though that may be a later tale."
+   },
+   "people": [
+    "織田信長|Oda Nobunaga",
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "千利休|Sen no Rikyū",
+    "滝川一益|Takigawa Kazumasu",
+    "松永久秀|Matsunaga Hisahide"
+   ],
+   "related": [
+    "nanban",
+    "sakai_guns"
+   ]
+  },
+  "nanban": {
+   "kind": "good",
+   "title": {
+    "ja": "南蛮貿易",
+    "en": "The southern barbarian trade"
+   },
+   "body": {
+    "ja": "1543年に種子島に来たポルトガル人に続いて、ポルトガルの商船が毎年のように九州の港に来るようになった。日本人は南から来る彼らを「南蛮人」と呼んだ。1550年に平戸、1562年に大村領の横瀬浦、1571年には長崎が開かれ、長崎はやがて南蛮貿易の中心となった。\n\nポルトガル人は、明と日本の間をつなぐ仲立ちで大きな利を得た。明の生糸と絹を日本へ運び、日本の銀を受け取る。そのほか鉄砲の火薬に使う硝石や鉛、ガラス器、時計、眼鏡、地図、ビロードの布、そして金平糖やカステラなどの菓子が伝わった。宣教師のフロイスは信長に金平糖と眼鏡を贈ったと伝わる。\n\n大名たちは港を競って招いた。豊後の[[p:大友宗麟]]は府内と臼杵に南蛮船を迎えて「大砲」(国崩し) まで手に入れた。南蛮人とその船、珍しい品々は「南蛮屏風」に描かれ、帽子やマントを真似る「南蛮ファッション」も流行した。",
+    "en": "After the Portuguese reached Tanegashima in 1543, Portuguese ships came to the ports of Kyūshū almost every year. The Japanese called them the \"southern barbarians\". Hirado opened to them in 1550, Yokoseura in Ōmura's domain in 1562, and Nagasaki in 1571 — soon the hub of the trade.\n\nThe Portuguese grew rich as go-betweens for China and Japan, carrying Ming raw silk and silk cloth to Japan and taking Japanese silver back. They also brought saltpetre and lead for guns, glassware, clocks, spectacles, maps, velvet, and sweets — konpeitō and castella. The missionary Frois, it is said, gave Nobunaga konpeitō and a pair of spectacles.\n\nLords competed for the ships. [[p:大友宗麟|Ōtomo Sōrin]] of Bungo welcomed them at Funai and Usuki and even got a cannon, \"the land-breaker\". The southern visitors, their ships and their wonders were painted on \"southern barbarian screens\", and their hats and capes became the fashion."
+   },
+   "year": 1550,
+   "people": [
+    "大友宗麟|Ōtomo Sōrin",
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "iwami_silver",
+    "sakai_guns",
+    "teppo"
+   ]
   }
- }
+ },
+ "goods": [
+  {
+   "art": "iwami_silver",
+   "good": "silver",
+   "at": [
+    "iwami"
+   ]
+  },
+  {
+   "art": "kai_gold",
+   "good": "gold",
+   "at": [
+    "kofu"
+   ]
+  },
+  {
+   "art": "aoso",
+   "good": "hemp",
+   "at": [
+    "kasugayama",
+    "sakado"
+   ]
+  },
+  {
+   "art": "sakai_guns",
+   "good": "steel",
+   "at": [
+    "sakai"
+   ],
+   "spread": [
+    [
+     1544,
+     "odani",
+     "sakai"
+    ],
+    [
+     1550,
+     "saika",
+     "sakai"
+    ]
+   ]
+  },
+  {
+   "art": "chanoyu",
+   "good": "tea",
+   "at": [
+    "kyoto",
+    "sakai"
+   ]
+  },
+  {
+   "art": "nanban",
+   "good": "glass",
+   "at": [
+    "hirado"
+   ],
+   "spread": [
+    [
+     1562,
+     "omura",
+     "hirado"
+    ],
+    [
+     1571,
+     "nagasaki",
+     "hirado"
+    ],
+    [
+     1578,
+     "usuki",
+     "hirado"
+    ]
+   ]
+  }
+ ]
 }
