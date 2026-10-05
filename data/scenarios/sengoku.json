@@ -5457,7 +5457,8 @@
     [
      "rulerDies",
      "imagawa",
-     "battle_wound"
+     "battle_wound",
+     "今川義元"
     ],
     [
      "army",
@@ -5479,8 +5480,8 @@
    ],
    "imp": 3,
    "at": "kiyosu",
-   "ja": "桶狭間の戦い。二万を超える軍で尾張へ攻め入った今川義元を、{r_oda}はわずかな兵で急襲し、豪雨の中で討ち取った。",
-   "en": "The battle of Okehazama. Imagawa Yoshimoto invaded Owari with over twenty thousand men; {r_oda} fell on him with a few thousand in a downpour and took his head."
+   "ja": "桶狭間の戦い。二万を超える軍で尾張へ攻め入った[[p:今川義元]]を、{r_oda}はわずかな兵で急襲し、豪雨の中で討ち取った。",
+   "en": "The battle of Okehazama. [[p:今川義元|Imagawa Yoshimoto]] invaded Owari with over twenty thousand men; {r_oda} fell on him with a few thousand in a downpour and took his head."
   },
   {
    "id": "tokugawa_free",
@@ -5572,8 +5573,8 @@
    ],
    "imp": 3,
    "at": "kaizu",
-   "ja": "第四次川中島の戦い。霧の八幡原で{n_takeda}と{n_uesugi}が激突した。謙信が単騎で信玄の本陣に斬り込み、信玄が軍配で受けたとも伝わる。武田信繁・山本勘助が討死し、両軍とも多くを失った。",
-   "en": "The fourth battle of Kawanakajima. {n_takeda} and {n_uesugi} clashed in the fog of Hachimanbara; legend has Kenshin riding alone into Shingen's camp and Shingen parrying with his war fan. Takeda Nobushige and Yamamoto Kansuke fell, and both armies bled."
+   "ja": "第四次川中島の戦い。霧の八幡原で{n_takeda}と{n_uesugi}が激突した。謙信が単騎で信玄の本陣に斬り込み、信玄が軍配で受けたとも伝わる。[[p:武田信繁]]・[[p:山本勘助]]が討死し、両軍とも多くを失った。",
+   "en": "The fourth battle of Kawanakajima. {n_takeda} and {n_uesugi} clashed in the fog of Hachimanbara; legend has Kenshin riding alone into Shingen's camp and Shingen parrying with his war fan. [[p:武田信繁|Takeda Nobushige]] and [[p:山本勘助|Yamamoto Kansuke]] fell, and both armies bled."
   },
   {
    "id": "kiyosu_alliance",
@@ -5650,7 +5651,8 @@
     [
      "rulerDies",
      "ashikaga",
-     "assassination"
+     "assassination",
+     "足利義輝"
     ],
     [
      "add",
@@ -5661,8 +5663,8 @@
    ],
    "imp": 3,
    "at": "kyoto",
-   "ja": "永禄の変。三好の一党が京の御所を襲い、将軍足利義輝は自ら刀を取って戦ったのち討たれた。",
-   "en": "The Eiroku incident. A Miyoshi faction stormed the shogun's palace in Kyoto; Ashikaga Yoshiteru fought with his own sword before he was cut down."
+   "ja": "永禄の変。三好の一党が京の御所を襲い、将軍[[p:足利義輝]]は自ら刀を取って戦ったのち討たれた。",
+   "en": "The Eiroku incident. A Miyoshi faction stormed the shogun's palace in Kyoto; [[p:足利義輝|Ashikaga Yoshiteru]] fought with his own sword before he was cut down."
   },
   {
    "id": "nagano_end",
@@ -5730,8 +5732,8 @@
    ],
    "imp": 3,
    "at": "toda",
-   "ja": "月山富田城が開城し、{n_amago}は{n_mori}に降った。毛利元就は中国地方の覇者となった。",
-   "en": "Gassan-Toda castle opened its gates and {n_amago} submitted to {n_mori}. Mōri Motonari was master of the Chūgoku region."
+   "ja": "月山富田城が開城し、{n_amago}は{n_mori}に降った。[[p:毛利元就]]は中国地方の覇者となった。",
+   "en": "Gassan-Toda castle opened its gates and {n_amago} submitted to {n_mori}. [[p:毛利元就|Mōri Motonari]] was master of the Chūgoku region."
   },
   {
    "id": "inabayama",
@@ -5796,8 +5798,8 @@
    ],
    "imp": 3,
    "at": "kyoto",
-   "ja": "{r_oda}は足利義昭を奉じて上洛し、行く手を阻んだ{n_rokkaku}を観音寺城に破り、三好の軍を摂津から退けた。義昭は第十五代将軍となった。",
-   "en": "{r_oda} marched on Kyoto as escort of Ashikaga Yoshiaki, broke {n_rokkaku} at Kannonji and drove the Miyoshi out of Settsu. Yoshiaki became the fifteenth shogun."
+   "ja": "{r_oda}は[[p:足利義昭]]を奉じて上洛し、行く手を阻んだ{n_rokkaku}を観音寺城に破り、三好の軍を摂津から退けた。義昭は第十五代将軍となった。",
+   "en": "{r_oda} marched on Kyoto as escort of [[p:足利義昭|Ashikaga Yoshiaki]], broke {n_rokkaku} at Kannonji and drove the Miyoshi out of Settsu. Yoshiaki became the fifteenth shogun."
   },
   {
    "id": "takeda_suruga",
@@ -5819,8 +5821,8 @@
    ],
    "imp": 3,
    "at": "sunpu",
-   "ja": "{r_takeda}は今川との同盟を破って駿河に攻め入り、駿府を落とした。今川氏真は掛川へ逃れた。",
-   "en": "{r_takeda} broke the alliance with the Imagawa, invaded Suruga and took Sunpu; Imagawa Ujizane fled to Kakegawa."
+   "ja": "{r_takeda}は今川との同盟を破って駿河に攻め入り、駿府を落とした。[[p:今川氏真]]は掛川へ逃れた。",
+   "en": "{r_takeda} broke the alliance with the Imagawa, invaded Suruga and took Sunpu; [[p:今川氏真|Imagawa Ujizane]] fled to Kakegawa."
   },
   {
    "id": "imagawa_end",
@@ -5917,8 +5919,8 @@
    ],
    "imp": 3,
    "at": "tsuruga",
-   "ja": "{r_oda}は越前の{n_asakura}を攻めたが、妹お市の嫁ぎ先{n_azai}が背いて退路を断った。木下藤吉郎が殿を務め、信長はわずかな供と京へ逃れた (金ヶ崎の退き口)。",
-   "en": "{r_oda} invaded {n_asakura} in Echizen, but {n_azai}, whose lord had married his sister Oichi, turned and cut the road home. Kinoshita Tōkichirō held the rear while Nobunaga fled to Kyoto with a handful of men."
+   "ja": "{r_oda}は越前の{n_asakura}を攻めたが、妹[[p:お市]]の嫁ぎ先{n_azai}が背いて退路を断った。木下藤吉郎が殿を務め、信長はわずかな供と京へ逃れた (金ヶ崎の退き口)。",
+   "en": "{r_oda} invaded {n_asakura} in Echizen, but {n_azai}, whose lord had married his sister [[p:お市|Oichi]], turned and cut the road home. Kinoshita Tōkichirō held the rear while Nobunaga fled to Kyoto with a handful of men."
   },
   {
    "id": "anegawa",
@@ -6041,8 +6043,8 @@
      0.1
     ]
    ],
-   "ja": "毛利元就は世を去った。三人の子に「一本の矢は折れても三本束ねれば折れぬ」と諭したという話は、後世の作り話ともいわれる。",
-   "en": "Mōri Motonari died. The tale of his teaching his three sons that one arrow breaks but three together do not may be a later invention."
+   "ja": "[[p:毛利元就]]は世を去った。三人の子に「一本の矢は折れても三本束ねれば折れぬ」と諭したという話は、後世の作り話ともいわれる。",
+   "en": "[[p:毛利元就|Mōri Motonari]] died. The tale of his teaching his three sons that one arrow breaks but three together do not may be a later invention."
   },
   {
    "id": "hiei",
@@ -6120,8 +6122,8 @@
      -0.1
     ]
    ],
-   "ja": "武田信玄は西上の途上で病に倒れ、甲斐へ戻る途中で世を去った。「三年はわが死を秘せよ」と遺言したという。",
-   "en": "Takeda Shingen fell ill on the march west and died on the way home. He is said to have ordered his death kept secret for three years."
+   "ja": "[[p:武田信玄]]は西上の途上で病に倒れ、甲斐へ戻る途中で世を去った。「三年はわが死を秘せよ」と遺言したという。",
+   "en": "[[p:武田信玄|Takeda Shingen]] fell ill on the march west and died on the way home. He is said to have ordered his death kept secret for three years."
   },
   {
    "id": "bakufu_end",
@@ -6159,6 +6161,11 @@
    ],
    "do": [
     [
+     "dies",
+     "朝倉義景",
+     "suicide"
+    ],
+    [
      "annex",
      "oda",
      "asakura"
@@ -6166,8 +6173,8 @@
    ],
    "imp": 3,
    "at": "ichijodani",
-   "ja": "{r_oda}は刀根坂で{n_asakura}を破って一乗谷を焼き、朝倉義景は自害した。",
-   "en": "{r_oda} broke {n_asakura} at Tonezaka and burned Ichijōdani; Asakura Yoshikage took his own life."
+   "ja": "{r_oda}は刀根坂で{n_asakura}を破って一乗谷を焼き、[[p:朝倉義景]]は自害した。",
+   "en": "{r_oda} broke {n_asakura} at Tonezaka and burned Ichijōdani; [[p:朝倉義景|Asakura Yoshikage]] took his own life."
   },
   {
    "id": "azai_end",
@@ -6179,6 +6186,11 @@
    ],
    "do": [
     [
+     "dies",
+     "浅井長政",
+     "suicide"
+    ],
+    [
      "annex",
      "oda",
      "azai"
@@ -6186,8 +6198,8 @@
    ],
    "imp": 3,
    "at": "odani",
-   "ja": "小谷城が落ち、浅井長政は自害した。お市と三人の娘は城から救い出された。",
-   "en": "Odani fell and Azai Nagamasa took his own life. Oichi and her three daughters were brought out of the castle."
+   "ja": "小谷城が落ち、[[p:浅井長政]]は自害した。[[p:お市]]と三人の娘は城から救い出された。",
+   "en": "Odani fell and [[p:浅井長政|Azai Nagamasa]] took his own life. [[p:お市|Oichi]] and her three daughters were brought out of the castle."
   },
   {
    "id": "miyoshi_setsu",
@@ -6211,8 +6223,8 @@
     ]
    ],
    "at": "sakai",
-   "ja": "三好義継が若江城で討たれ、畿内の三好の地は{n_oda}の手に落ちた。三好の一族は阿波に拠って残った。",
-   "en": "Miyoshi Yoshitsugu fell at Wakae, and the Miyoshi lands of the capital region passed to {n_oda}; the family held on in Awa."
+   "ja": "[[p:三好義継]]が若江城で討たれ、畿内の三好の地は{n_oda}の手に落ちた。三好の一族は阿波に拠って残った。",
+   "en": "[[p:三好義継|Miyoshi Yoshitsugu]] fell at Wakae, and the Miyoshi lands of the capital region passed to {n_oda}; the family held on in Awa."
   },
   {
    "id": "nagashima_end",
@@ -6288,8 +6300,8 @@
    ],
    "imp": 3,
    "at": "okazaki",
-   "ja": "長篠の戦い。{n_oda}と{n_tokugawa}は馬防柵の内から多くの鉄砲を撃ちかけ、{n_takeda}の騎馬隊を破った。山県昌景・馬場信春ら武田の名将の多くが討死した。",
-   "en": "The battle of Nagashino. From behind palisades {n_oda} and {n_tokugawa} met the horsemen of {n_takeda} with massed musket fire. Yamagata Masakage, Baba Nobuharu and many of Takeda's best fell."
+   "ja": "長篠の戦い。{n_oda}と{n_tokugawa}は馬防柵の内から多くの鉄砲を撃ちかけ、{n_takeda}の騎馬隊を破った。[[p:山県昌景]]・[[p:馬場信春]]ら武田の名将の多くが討死した。",
+   "en": "The battle of Nagashino. From behind palisades {n_oda} and {n_tokugawa} met the horsemen of {n_takeda} with massed musket fire. [[p:山県昌景|Yamagata Masakage]], [[p:馬場信春|Baba Nobuharu]] and many of Takeda's best fell."
   },
   {
    "id": "mimura_end",
@@ -6347,8 +6359,8 @@
    ],
    "imp": 2,
    "at": "okayama",
-   "ja": "浦上家の重臣宇喜多直家は主家に背き、備前の大半を手に入れた。",
-   "en": "Ukita Naoie, chief retainer of the Urakami, turned on his lords and took most of Bizen."
+   "ja": "浦上家の重臣[[p:宇喜多直家]]は主家に背き、備前の大半を手に入れた。",
+   "en": "[[p:宇喜多直家|Ukita Naoie]], chief retainer of the Urakami, turned on his lords and took most of Bizen."
   },
   {
    "id": "urakami_end",
@@ -6366,8 +6378,8 @@
     ]
    ],
    "at": "tenjinyama",
-   "ja": "天神山城が落ち、浦上宗景は播磨へ逃れた。",
-   "en": "Tenjinyama fell, and Urakami Munekage fled to Harima."
+   "ja": "天神山城が落ち、[[p:浦上宗景]]は播磨へ逃れた。",
+   "en": "Tenjinyama fell, and [[p:浦上宗景|Urakami Munekage]] fled to Harima."
   },
   {
    "id": "azuchi",
@@ -6467,8 +6479,8 @@
     ]
    ],
    "at": "tage",
-   "ja": "三瀬の変。北畠具教は{n_oda}の手の者に討たれ、伊勢は織田のものとなった。",
-   "en": "The Mise incident: Kitabatake Tomonori was killed by men of {n_oda}, and Ise became Oda land."
+   "ja": "三瀬の変。[[p:北畠具教]]は{n_oda}の手の者に討たれ、伊勢は織田のものとなった。",
+   "en": "The Mise incident: [[p:北畠具教|Kitabatake Tomonori]] was killed by men of {n_oda}, and Ise became Oda land."
   },
   {
    "id": "tedorigawa",
@@ -6499,8 +6511,8 @@
    ],
    "imp": 3,
    "at": "nanao",
-   "ja": "{r_uesugi}は七尾城を落として能登を取り、援軍に来た柴田勝家の軍を手取川で破った。「聞くと見るとは大違い、案外弱い信長」と謙信は言ったと伝わる。",
-   "en": "{r_uesugi} took Nanao and Noto, and beat Shibata Katsuie's relief army at the Tedori river. \"Nobunaga is weaker than his name,\" Kenshin is said to have remarked."
+   "ja": "{r_uesugi}は七尾城を落として能登を取り、援軍に来た[[p:柴田勝家]]の軍を手取川で破った。「聞くと見るとは大違い、案外弱い信長」と謙信は言ったと伝わる。",
+   "en": "{r_uesugi} took Nanao and Noto, and beat [[p:柴田勝家|Shibata Katsuie]]'s relief army at the Tedori river. \"Nobunaga is weaker than his name,\" Kenshin is said to have remarked."
   },
   {
    "id": "ito_end",
@@ -6518,8 +6530,8 @@
     ]
    ],
    "at": "tonokori",
-   "ja": "{n_ito}の伊東義祐は{n_shimazu}に追われ、豊後の大友を頼って落ちのびた。",
-   "en": "Itō Yoshisuke of {n_ito}, driven out by {n_shimazu}, fled to the Ōtomo in Bungo."
+   "ja": "{n_ito}の[[p:伊東義祐]]は{n_shimazu}に追われ、豊後の大友を頼って落ちのびた。",
+   "en": "[[p:伊東義祐|Itō Yoshisuke]] of {n_ito}, driven out by {n_shimazu}, fled to the Ōtomo in Bungo."
   },
   {
    "id": "kenshin_dies",
@@ -6537,8 +6549,8 @@
      -0.3
     ]
    ],
-   "ja": "上杉謙信は春日山城で急死した。跡継ぎを定めていなかったため、養子の景勝と景虎が家督を争った (御館の乱)。",
-   "en": "Uesugi Kenshin died suddenly at Kasugayama without naming an heir; his adopted sons Kagekatsu and Kagetora fought over the house."
+   "ja": "[[p:上杉謙信]]は春日山城で急死した。跡継ぎを定めていなかったため、養子の景勝と景虎が家督を争った (御館の乱)。",
+   "en": "[[p:上杉謙信|Uesugi Kenshin]] died suddenly at Kasugayama without naming an heir; his adopted sons Kagekatsu and Kagetora fought over the house."
   },
   {
    "id": "sorin_baptized",
@@ -6614,8 +6626,8 @@
     ]
    ],
    "at": "ishiyama",
-   "ja": "第二次木津川口の戦い。九鬼嘉隆の鉄張りの大船が毛利の水軍を退けた。",
-   "en": "The second battle of the Kizu river mouth. Kuki Yoshitaka's iron-plated ships drove off the Mōri fleet."
+   "ja": "第二次木津川口の戦い。[[p:九鬼嘉隆]]の鉄張りの大船が毛利の水軍を退けた。",
+   "en": "The second battle of the Kizu river mouth. [[p:九鬼嘉隆|Kuki Yoshitaka]]'s iron-plated ships drove off the Mōri fleet."
   },
   {
    "id": "hatano_end",
@@ -6633,8 +6645,8 @@
     ]
    ],
    "at": "yakami",
-   "ja": "明智光秀は丹波の八上城を囲んで{n_hatano}を降し、丹波を平らげた。",
-   "en": "Akechi Mitsuhide besieged Yakami and brought down {n_hatano}; Tanba was pacified."
+   "ja": "[[p:明智光秀]]は丹波の八上城を囲んで{n_hatano}を降し、丹波を平らげた。",
+   "en": "[[p:明智光秀|Akechi Mitsuhide]] besieged Yakami and brought down {n_hatano}; Tanba was pacified."
   },
   {
    "id": "isshiki_end",
@@ -6652,8 +6664,8 @@
     ]
    ],
    "at": "tango",
-   "ja": "丹後の{n_isshiki}は{n_oda}の細川藤孝に攻められて滅んだ。",
-   "en": "{n_isshiki} of Tango fell to Hosokawa Fujitaka of {n_oda}."
+   "ja": "丹後の{n_isshiki}は{n_oda}の[[p:細川藤孝]]に攻められて滅んだ。",
+   "en": "{n_isshiki} of Tango fell to [[p:細川藤孝|Hosokawa Fujitaka]] of {n_oda}."
   },
   {
    "id": "miki_end",
@@ -6665,6 +6677,11 @@
    ],
    "do": [
     [
+     "dies",
+     "別所長治",
+     "suicide"
+    ],
+    [
      "annex",
      "oda",
      "bessho"
@@ -6672,8 +6689,8 @@
    ],
    "imp": 3,
    "at": "miki",
-   "ja": "三木の干殺し。羽柴秀吉に二年近く囲まれた三木城は飢えに尽き、別所長治は城兵の命と引き換えに自害した。",
-   "en": "The starving of Miki. Besieged by Hashiba Hideyoshi for nearly two years, Miki ran out of food; Bessho Nagaharu killed himself to spare his garrison."
+   "ja": "三木の干殺し。[[p:羽柴秀吉]]に二年近く囲まれた三木城は飢えに尽き、[[p:別所長治]]は城兵の命と引き換えに自害した。",
+   "en": "The starving of Miki. Besieged by [[p:羽柴秀吉|Hashiba Hideyoshi]] for nearly two years, Miki ran out of food; [[p:別所長治|Bessho Nagaharu]] killed himself to spare his garrison."
   },
   {
    "id": "arima_baptized",
@@ -6710,8 +6727,8 @@
     ]
    ],
    "at": "izushi",
-   "ja": "羽柴秀長が但馬を攻め、{n_yamana}は降った。",
-   "en": "Hashiba Hidenaga invaded Tajima, and {n_yamana} submitted."
+   "ja": "[[p:羽柴秀長]]が但馬を攻め、{n_yamana}は降った。",
+   "en": "[[p:羽柴秀長|Hashiba Hidenaga]] invaded Tajima, and {n_yamana} submitted."
   },
   {
    "id": "ishiyama_end",
@@ -6756,8 +6773,8 @@
    ],
    "imp": 3,
    "at": "oyama",
-   "ja": "柴田勝家は加賀の尾山御坊を落とし、百年近く門徒衆が治めた「百姓の持ちたる国」は終わった。",
-   "en": "Shibata Katsuie took the Oyama temple-fortress, and Kaga, for nearly a century \"a province held by farmers\" under its believers, came to an end."
+   "ja": "[[p:柴田勝家]]は加賀の尾山御坊を落とし、百年近く門徒衆が治めた「百姓の持ちたる国」は終わった。",
+   "en": "[[p:柴田勝家|Shibata Katsuie]] took the Oyama temple-fortress, and Kaga, for nearly a century \"a province held by farmers\" under its believers, came to an end."
   },
   {
    "id": "umazoroe",
@@ -6798,8 +6815,8 @@
     ]
    ],
    "at": "toyama",
-   "ja": "{n_oda}の柴田勝家・佐々成政らは能登と越中を上杉から奪った。",
-   "en": "Shibata Katsuie and Sassa Narimasa of {n_oda} took Noto and Etchū from the Uesugi."
+   "ja": "{n_oda}の[[p:柴田勝家]]・佐々成政らは能登と越中を上杉から奪った。",
+   "en": "[[p:柴田勝家|Shibata Katsuie]] and Sassa Narimasa of {n_oda} took Noto and Etchū from the Uesugi."
   },
   {
    "id": "iga_end",
@@ -6838,7 +6855,7 @@
     ]
    ],
    "at": "tottori",
-   "ja": "鳥取の渇え殺し。羽柴秀吉は米を買い占めたうえで鳥取城を囲み、城は飢えて開城した。",
+   "ja": "鳥取の渇え殺し。[[p:羽柴秀吉]]は米を買い占めたうえで鳥取城を囲み、城は飢えて開城した。",
    "en": "The starving of Tottori. Hideyoshi bought up the rice of the region, then besieged Tottori until hunger opened its gates."
   },
   {
@@ -6882,6 +6899,11 @@
    ],
    "do": [
     [
+     "dies",
+     "武田勝頼",
+     "suicide"
+    ],
+    [
      "annex",
      "oda",
      "takeda"
@@ -6895,8 +6917,8 @@
    ],
    "imp": 3,
    "at": "kofu",
-   "ja": "甲州征伐。{n_oda}と{n_tokugawa}の軍が甲斐に攻め入ると、家臣たちは次々と寝返り、武田勝頼は天目山で自害した。名門武田家は滅んだ。",
-   "en": "The conquest of Kai. As {n_oda} and {n_tokugawa} invaded, retainer after retainer went over; Takeda Katsuyori killed himself at Tenmokuzan, and the great house of Takeda was no more."
+   "ja": "甲州征伐。{n_oda}と{n_tokugawa}の軍が甲斐に攻め入ると、家臣たちは次々と寝返り、[[p:武田勝頼]]は天目山で自害した。名門武田家は滅んだ。",
+   "en": "The conquest of Kai. As {n_oda} and {n_tokugawa} invaded, retainer after retainer went over; [[p:武田勝頼|Takeda Katsuyori]] killed himself at Tenmokuzan, and the great house of Takeda was no more."
   },
   {
    "id": "takamatsu",
@@ -6918,7 +6940,7 @@
    ],
    "imp": 3,
    "at": "bitchu",
-   "ja": "羽柴秀吉は備中高松城のまわりに堤を築いて水を引き入れ、城を湖に浮かべた。",
+   "ja": "[[p:羽柴秀吉]]は備中高松城のまわりに堤を築いて水を引き入れ、城を湖に浮かべた。",
    "en": "Hideyoshi built a dyke round Takamatsu castle in Bitchū and let the rivers in, leaving the castle afloat in a lake."
   },
   {
@@ -6932,7 +6954,8 @@
     [
      "rulerDies",
      "oda",
-     "assassination"
+     "assassination",
+     "織田信長"
     ],
     [
      "add",
@@ -6943,8 +6966,8 @@
    ],
    "imp": 3,
    "at": "kyoto",
-   "ja": "本能寺の変。京の本能寺に泊まっていた織田信長を、中国へ向かうはずの明智光秀の軍が襲った。「是非に及ばず」と言って信長は自ら弓をとり、火の中で果てた。嫡男信忠も二条御所で討たれた。",
-   "en": "The Honnōji incident. Akechi Mitsuhide's army, bound for the west, turned on Oda Nobunaga at the Honnōji temple in Kyoto. \"It cannot be helped,\" Nobunaga said, took up a bow, and died in the flames; his heir Nobutada fell at Nijō."
+   "ja": "本能寺の変。京の本能寺に泊まっていた[[p:織田信長]]を、中国へ向かうはずの[[p:明智光秀]]の軍が襲った。「是非に及ばず」と言って信長は自ら弓をとり、火の中で果てた。嫡男信忠も二条御所で討たれた。",
+   "en": "The Honnōji incident. [[p:明智光秀|Akechi Mitsuhide]]'s army, bound for the west, turned on [[p:織田信長|Oda Nobunaga]] at the Honnōji temple in Kyoto. \"It cannot be helped,\" Nobunaga said, took up a bow, and died in the flames; his heir Nobutada fell at Nijō."
   },
   {
    "id": "yamazaki",
@@ -6969,8 +6992,8 @@
    ],
    "imp": 3,
    "at": "akutagawa",
-   "ja": "中国大返し。羽柴秀吉は毛利と和を結んで十日で京へ駆け戻り、山崎の戦いで明智光秀を破った。光秀は落ちのびる途中で討たれた。",
-   "en": "The great return: Hideyoshi made peace with the Mōri, ran back to Kyoto in ten days, and beat Akechi Mitsuhide at Yamazaki; Mitsuhide was killed as he fled."
+   "ja": "中国大返し。[[p:羽柴秀吉]]は毛利と和を結んで十日で京へ駆け戻り、山崎の戦いで[[p:明智光秀]]を破った。光秀は落ちのびる途中で討たれた。",
+   "en": "The great return: Hideyoshi made peace with the Mōri, ran back to Kyoto in ten days, and beat [[p:明智光秀|Akechi Mitsuhide]] at Yamazaki; Mitsuhide was killed as he fled."
   },
   {
    "id": "wakasa_end",
@@ -6988,8 +7011,8 @@
     ]
    ],
    "at": "obama",
-   "ja": "明智に味方した武田元明は自害させられ、若狭は{n_oda}の丹羽長秀の地となった。",
-   "en": "Takeda Motoaki, who had sided with Akechi, was made to kill himself; Wakasa went to Niwa Nagahide of {n_oda}."
+   "ja": "明智に味方した[[p:武田元明]]は自害させられ、若狭は{n_oda}の[[p:丹羽長秀]]の地となった。",
+   "en": "[[p:武田元明|Takeda Motoaki]], who had sided with Akechi, was made to kill himself; Wakasa went to [[p:丹羽長秀|Niwa Nagahide]] of {n_oda}."
   },
   {
    "id": "awa_chosokabe",
@@ -7039,8 +7062,8 @@
    ],
    "imp": 3,
    "at": "odani",
-   "ja": "賤ヶ岳の戦い。羽柴秀吉は柴田勝家を破り、勝家はお市とともに北ノ庄城で自害した。信長の後継者の座は秀吉のものとなった。",
-   "en": "The battle of Shizugatake. Hideyoshi defeated Shibata Katsuie, who died with Oichi in Kitanoshō castle. Nobunaga's place was Hideyoshi's."
+   "ja": "賤ヶ岳の戦い。[[p:羽柴秀吉]]は[[p:柴田勝家]]を破り、勝家は[[p:お市]]とともに北ノ庄城で自害した。信長の後継者の座は秀吉のものとなった。",
+   "en": "The battle of Shizugatake. Hideyoshi defeated [[p:柴田勝家|Shibata Katsuie]], who died with [[p:お市|Oichi]] in Kitanoshō castle. Nobunaga's place was Hideyoshi's."
   },
   {
    "id": "osaka_castle",
@@ -7118,7 +7141,8 @@
     [
      "rulerDies",
      "ryuzoji",
-     "battle_wound"
+     "battle_wound",
+     "龍造寺隆信"
     ],
     [
      "vassal",
@@ -7267,8 +7291,8 @@
     ]
    ],
    "at": "yuzuki",
-   "ja": "伊予の{n_kono}は四国平定で滅び、伊予は小早川隆景に与えられた。",
-   "en": "{n_kono} of Iyo fell in the conquest of Shikoku; Iyo was given to Kobayakawa Takakage."
+   "ja": "伊予の{n_kono}は四国平定で滅び、伊予は[[p:小早川隆景]]に与えられた。",
+   "en": "{n_kono} of Iyo fell in the conquest of Shikoku; Iyo was given to [[p:小早川隆景|Kobayakawa Takakage]]."
   },
   {
    "id": "hida_end",
@@ -7373,8 +7397,8 @@
      0.1
     ]
    ],
-   "ja": "羽柴秀吉は朝廷から豊臣の姓を賜り、太政大臣となった。",
-   "en": "Hashiba Hideyoshi received the family name Toyotomi from the court and became chancellor of the realm."
+   "ja": "[[p:羽柴秀吉]]は朝廷から豊臣の姓を賜り、太政大臣となった。",
+   "en": "[[p:羽柴秀吉|Hashiba Hideyoshi]] received the family name Toyotomi from the court and became chancellor of the realm."
   },
   {
    "id": "kyushu",
@@ -7511,8 +7535,8 @@
    ],
    "imp": 3,
    "at": "odawara",
-   "ja": "小田原征伐。二十万を超える軍に囲まれ、三か月の籠城ののち小田原城は開いた。北条氏政は切腹し、五代百年の北条家は滅んだ。",
-   "en": "The siege of Odawara. Surrounded by more than two hundred thousand men, Odawara opened its gates after three months; Hōjō Ujimasa was made to kill himself, and the Hōjō, five generations and a century old, were gone."
+   "ja": "小田原征伐。二十万を超える軍に囲まれ、三か月の籠城ののち小田原城は開いた。[[p:北条氏政]]は切腹し、五代百年の北条家は滅んだ。",
+   "en": "The siege of Odawara. Surrounded by more than two hundred thousand men, Odawara opened its gates after three months; [[p:北条氏政|Hōjō Ujimasa]] was made to kill himself, and the Hōjō, five generations and a century old, were gone."
   },
   {
    "id": "chiba_yuki",
@@ -7676,8 +7700,8 @@
     "oda"
    ],
    "do": [],
-   "ja": "千利休は秀吉の怒りを買い、切腹を命じられた。その理由は今もはっきりしない。",
-   "en": "Sen no Rikyū angered Hideyoshi and was ordered to take his own life; the reason is unclear to this day."
+   "ja": "[[p:千利休]]は秀吉の怒りを買い、切腹を命じられた。その理由は今もはっきりしない。",
+   "en": "[[p:千利休|Sen no Rikyū]] angered Hideyoshi and was ordered to take his own life; the reason is unclear to this day."
   },
   {
    "id": "bunroku",
@@ -7727,8 +7751,8 @@
    ],
    "imp": 2,
    "at": "funai",
-   "ja": "朝鮮の陣で敵を前に退いた大友義統は、秀吉に所領を取り上げられた。名門大友家は大名の座を失った。",
-   "en": "Ōtomo Yoshimune, who had fallen back before the enemy in the Korean campaign, was stripped of his domain by Hideyoshi; the great house of Ōtomo was no longer a daimyo house."
+   "ja": "朝鮮の陣で敵を前に退いた[[p:大友義統]]は、秀吉に所領を取り上げられた。名門大友家は大名の座を失った。",
+   "en": "[[p:大友義統|Ōtomo Yoshimune]], who had fallen back before the enemy in the Korean campaign, was stripped of his domain by Hideyoshi; the great house of Ōtomo was no longer a daimyo house."
   },
   {
    "id": "keicho",
@@ -7825,8 +7849,8 @@
    ],
    "imp": 3,
    "at": "kyoto",
-   "ja": "豊臣秀吉は伏見城で世を去った。「露と落ち露と消えにし我が身かな」。幼い秀頼の後見は徳川家康ら五大老と、石田三成ら五奉行に託された。",
-   "en": "Toyotomi Hideyoshi died at Fushimi: \"I came like dew, I vanish like dew.\" His small son Hideyori was left in the care of five elders, Tokugawa Ieyasu among them, and five commissioners led by Ishida Mitsunari."
+   "ja": "豊臣秀吉は伏見城で世を去った。「露と落ち露と消えにし我が身かな」。幼い秀頼の後見は[[p:徳川家康]]ら五大老と、[[p:石田三成]]ら五奉行に託された。",
+   "en": "Toyotomi Hideyoshi died at Fushimi: \"I came like dew, I vanish like dew.\" His small son Hideyori was left in the care of five elders, [[p:徳川家康|Tokugawa Ieyasu]] among them, and five commissioners led by [[p:石田三成|Ishida Mitsunari]]."
   },
   {
    "id": "sekigahara",
@@ -7866,8 +7890,8 @@
    ],
    "imp": 3,
    "at": "ogaki",
-   "ja": "関ヶ原の戦い。徳川家康の東軍と石田三成の西軍が美濃の関ヶ原でぶつかった。昼過ぎ、小早川秀秋が東軍に寝返り、戦いは一日で決した。三成は捕らえられて斬られ、豊臣家は摂津・河内・和泉の一大名となった。",
-   "en": "The battle of Sekigahara. Tokugawa Ieyasu's eastern army met Ishida Mitsunari's western army at Sekigahara in Mino. Past noon Kobayakawa Hideaki went over to the east, and the day was decided. Mitsunari was caught and beheaded, and the Toyotomi were left a single domain of Settsu, Kawachi and Izumi."
+   "ja": "関ヶ原の戦い。[[p:徳川家康]]の東軍と[[p:石田三成]]の西軍が美濃の関ヶ原でぶつかった。昼過ぎ、[[p:小早川秀秋]]が東軍に寝返り、戦いは一日で決した。三成は捕らえられて斬られ、豊臣家は摂津・河内・和泉の一大名となった。",
+   "en": "The battle of Sekigahara. [[p:徳川家康|Tokugawa Ieyasu]]'s eastern army met [[p:石田三成|Ishida Mitsunari]]'s western army at Sekigahara in Mino. Past noon [[p:小早川秀秋|Kobayakawa Hideaki]] went over to the east, and the day was decided. Mitsunari was caught and beheaded, and the Toyotomi were left a single domain of Settsu, Kawachi and Izumi."
   },
   {
    "id": "sekigahara_ukita",
@@ -7885,8 +7909,8 @@
     ]
    ],
    "at": "okayama",
-   "ja": "西軍の主力だった宇喜多秀家は所領を失い、のちに八丈島へ流された。",
-   "en": "Ukita Hideie, a pillar of the western army, lost his domain and was later exiled to Hachijō island."
+   "ja": "西軍の主力だった[[p:宇喜多秀家]]は所領を失い、のちに八丈島へ流された。",
+   "en": "[[p:宇喜多秀家|Ukita Hideie]], a pillar of the western army, lost his domain and was later exiled to Hachijō island."
   },
   {
    "id": "sekigahara_mori",
@@ -7943,8 +7967,8 @@
     ]
    ],
    "at": "oko",
-   "ja": "西軍についた長宗我部盛親は土佐を取り上げられた。土佐は山内一豊に与えられた。",
-   "en": "Chōsokabe Morichika, of the western army, lost Tosa; it was given to Yamauchi Kazutoyo."
+   "ja": "西軍についた[[p:長宗我部盛親]]は土佐を取り上げられた。土佐は山内一豊に与えられた。",
+   "en": "[[p:長宗我部盛親|Chōsokabe Morichika]], of the western army, lost Tosa; it was given to Yamauchi Kazutoyo."
   },
   {
    "id": "onodera_end",
@@ -8199,8 +8223,8 @@
    ],
    "imp": 3,
    "at": "ishiyama",
-   "ja": "大坂冬の陣。方広寺の鐘の銘を口実に、{r_tokugawa}は大坂城を囲んだ。真田信繁が城の南に築いた出丸 (真田丸) は徳川の兵を寄せつけなかった。和が結ばれたが、大坂城の堀は埋められた。",
-   "en": "The winter siege of Osaka. Taking offence at the inscription on a temple bell, {r_tokugawa} besieged Osaka castle. The outwork Sanada Nobushige built to the south held off every assault; a peace was made, but the castle's moats were filled in."
+   "ja": "大坂冬の陣。方広寺の鐘の銘を口実に、{r_tokugawa}は大坂城を囲んだ。[[p:真田信繁]]が城の南に築いた出丸 (真田丸) は徳川の兵を寄せつけなかった。和が結ばれたが、大坂城の堀は埋められた。",
+   "en": "The winter siege of Osaka. Taking offence at the inscription on a temple bell, {r_tokugawa} besieged Osaka castle. The outwork [[p:真田信繁|Sanada Nobushige]] built to the south held off every assault; a peace was made, but the castle's moats were filled in."
   },
   {
    "id": "osaka_summer",
@@ -8225,8 +8249,8 @@
    ],
    "imp": 3,
    "at": "ishiyama",
-   "ja": "大坂夏の陣。堀を失った大坂城に籠もった豊臣方は城外に打って出た。真田信繁は家康の本陣に三度斬り込んだのち討たれ、城は燃え落ちた。豊臣秀頼と母の淀殿は自害し、豊臣家は滅んだ。",
-   "en": "The summer siege of Osaka. With its moats gone, the Toyotomi side came out to fight in the open. Sanada Nobushige charged Ieyasu's headquarters three times before he was killed, and the castle burned. Toyotomi Hideyori and his mother Lady Yodo took their own lives, and the house of Toyotomi was no more."
+   "ja": "大坂夏の陣。堀を失った大坂城に籠もった豊臣方は城外に打って出た。[[p:真田信繁]]は家康の本陣に三度斬り込んだのち討たれ、城は燃え落ちた。[[p:豊臣秀頼]]と母の[[p:淀殿]]は自害し、豊臣家は滅んだ。",
+   "en": "The summer siege of Osaka. With its moats gone, the Toyotomi side came out to fight in the open. [[p:真田信繁|Sanada Nobushige]] charged Ieyasu's headquarters three times before he was killed, and the castle burned. [[p:豊臣秀頼|Toyotomi Hideyori]] and his mother [[p:淀殿|Lady Yodo]] took their own lives, and the house of Toyotomi was no more."
   },
   {
    "id": "genna",
