@@ -1,0 +1,1909 @@
+{
+ "id": "sangoku",
+ "name": {
+  "ja": "三国志",
+  "en": "the Three Kingdoms"
+ },
+ "startYear": 184,
+ "endYear": 280,
+ "box": {
+  "lat": 32.5,
+  "lng": 111.5,
+  "km": 2800
+ },
+ "style": "east",
+ "pool": "cn",
+ "visual": "ink",
+ "newRealm": {
+  "ja": "{name}",
+  "en": "the {name} warlords",
+  "rank": null
+ },
+ "cultures": [
+  {
+   "id": "hua",
+   "name": {
+    "ja": "漢",
+    "en": "Han"
+   },
+   "color": "#c9a46a",
+   "religion": 0
+  },
+  {
+   "id": "yue",
+   "name": {
+    "ja": "越",
+    "en": "Yue"
+   },
+   "color": "#5f8f6a",
+   "religion": 1
+  },
+  {
+   "id": "hu",
+   "name": {
+    "ja": "胡",
+    "en": "Hu"
+   },
+   "color": "#8a8a5a",
+   "religion": 1
+  }
+ ],
+ "religions": [
+  {
+   "name": {
+    "ja": "天と祖霊の祀り",
+    "en": "Heaven and the ancestors"
+   },
+   "doctrine": "ancestors",
+   "place": "luoyang",
+   "full": true
+  },
+  {
+   "name": {
+    "ja": "諸族の祀り",
+    "en": "the old ways of the peoples"
+   },
+   "doctrine": "nature",
+   "place": "xianbei",
+   "full": true
+  }
+ ],
+ "places": [
+  [
+   "luoyang",
+   "洛陽",
+   "Luoyang",
+   34.68,
+   112.45,
+   3
+  ],
+  [
+   "changan",
+   "長安",
+   "Chang'an",
+   34.27,
+   108.94,
+   3
+  ],
+  [
+   "hongnong",
+   "弘農",
+   "Hongnong",
+   34.6,
+   110.9,
+   1
+  ],
+  [
+   "hedong",
+   "安邑",
+   "Anyi",
+   35.11,
+   111.22,
+   1
+  ],
+  [
+   "henei",
+   "懐",
+   "Huai",
+   35.1,
+   113.3,
+   1
+  ],
+  [
+   "wuzhang",
+   "五丈原",
+   "Wuzhangyuan",
+   34.27,
+   107.66,
+   1
+  ],
+  [
+   "xu",
+   "許",
+   "Xu",
+   34.03,
+   113.85,
+   2
+  ],
+  [
+   "chenliu",
+   "陳留",
+   "Chenliu",
+   34.78,
+   114.53,
+   2
+  ],
+  [
+   "puyang",
+   "濮陽",
+   "Puyang",
+   35.76,
+   115.03,
+   1
+  ],
+  [
+   "qiao",
+   "譙",
+   "Qiao",
+   33.86,
+   115.78,
+   1
+  ],
+  [
+   "runan",
+   "汝南",
+   "Runan",
+   32.95,
+   114.63,
+   1
+  ],
+  [
+   "guandu",
+   "官渡",
+   "Guandu",
+   34.73,
+   114,
+   1
+  ],
+  [
+   "xiapi",
+   "下邳",
+   "Xiapi",
+   34.33,
+   117.95,
+   2
+  ],
+  [
+   "pengcheng",
+   "彭城",
+   "Pengcheng",
+   34.27,
+   117.18,
+   1
+  ],
+  [
+   "xiaopei",
+   "小沛",
+   "Xiaopei",
+   34.73,
+   116.93,
+   1
+  ],
+  [
+   "langya",
+   "開陽",
+   "Kaiyang",
+   35.05,
+   118.35,
+   1
+  ],
+  [
+   "guangling",
+   "広陵",
+   "Guangling",
+   32.4,
+   119.4,
+   1
+  ],
+  [
+   "dongping",
+   "東平",
+   "Dongping",
+   35.93,
+   116.47,
+   1
+  ],
+  [
+   "ye",
+   "鄴",
+   "Ye",
+   36.33,
+   114.4,
+   3
+  ],
+  [
+   "nanpi",
+   "南皮",
+   "Nanpi",
+   38.04,
+   116.7,
+   1
+  ],
+  [
+   "julu",
+   "鉅鹿",
+   "Julu",
+   37.22,
+   115.03,
+   1
+  ],
+  [
+   "zhongshan",
+   "中山",
+   "Zhongshan",
+   38.5,
+   115,
+   1
+  ],
+  [
+   "ji_you",
+   "薊",
+   "Ji",
+   39.9,
+   116.4,
+   2
+  ],
+  [
+   "yijing",
+   "易京",
+   "Yijing",
+   39,
+   116,
+   1
+  ],
+  [
+   "pingyuan",
+   "平原",
+   "Pingyuan",
+   37.17,
+   116.43,
+   1
+  ],
+  [
+   "linzi",
+   "臨淄",
+   "Linzi",
+   36.85,
+   118.3,
+   2
+  ],
+  [
+   "beihai",
+   "北海",
+   "Beihai",
+   36.7,
+   119.1,
+   1
+  ],
+  [
+   "jinyang",
+   "晋陽",
+   "Jinyang",
+   37.8,
+   112.55,
+   2
+  ],
+  [
+   "shangdang",
+   "上党",
+   "Shangdang",
+   36.2,
+   113.1,
+   1
+  ],
+  [
+   "pingyang",
+   "平陽",
+   "Pingyang",
+   36.08,
+   111.52,
+   1
+  ],
+  [
+   "yanmen",
+   "雁門",
+   "Yanmen",
+   39,
+   112.9,
+   1
+  ],
+  [
+   "dai",
+   "代",
+   "Dai",
+   39.8,
+   114.5,
+   1
+  ],
+  [
+   "wan",
+   "宛",
+   "Wan",
+   33,
+   112.53,
+   2
+  ],
+  [
+   "xinye",
+   "新野",
+   "Xinye",
+   32.52,
+   112.36,
+   1
+  ],
+  [
+   "xiangyang",
+   "襄陽",
+   "Xiangyang",
+   32.02,
+   112.13,
+   2
+  ],
+  [
+   "jiangling",
+   "江陵",
+   "Jiangling",
+   30.35,
+   112.19,
+   2
+  ],
+  [
+   "xiakou",
+   "夏口",
+   "Xiakou",
+   30.55,
+   114.3,
+   1
+  ],
+  [
+   "changsha",
+   "長沙",
+   "Changsha",
+   28.2,
+   112.97,
+   2
+  ],
+  [
+   "lingling",
+   "零陵",
+   "Lingling",
+   26.2,
+   111.6,
+   1
+  ],
+  [
+   "guiyang",
+   "桂陽",
+   "Guiyang",
+   25.8,
+   113,
+   1
+  ],
+  [
+   "wuling",
+   "武陵",
+   "Wuling",
+   29,
+   111.7,
+   1
+  ],
+  [
+   "chibi",
+   "赤壁",
+   "Chibi",
+   29.87,
+   113.62,
+   1
+  ],
+  [
+   "yiling",
+   "夷陵",
+   "Yiling",
+   30.7,
+   111.3,
+   1
+  ],
+  [
+   "shangyong",
+   "上庸",
+   "Shangyong",
+   32.23,
+   110.23,
+   1
+  ],
+  [
+   "shouchun",
+   "寿春",
+   "Shouchun",
+   32.58,
+   116.78,
+   2
+  ],
+  [
+   "hefei",
+   "合肥",
+   "Hefei",
+   31.82,
+   117.23,
+   1
+  ],
+  [
+   "lujiang",
+   "舒",
+   "Shu",
+   31.25,
+   117.29,
+   1
+  ],
+  [
+   "jianye",
+   "建業",
+   "Jianye",
+   32.06,
+   118.78,
+   3
+  ],
+  [
+   "wujun",
+   "呉",
+   "Wu",
+   31.3,
+   120.6,
+   2
+  ],
+  [
+   "kuaiji",
+   "会稽",
+   "Kuaiji",
+   30,
+   120.58,
+   1
+  ],
+  [
+   "chaisang",
+   "柴桑",
+   "Chaisang",
+   29.7,
+   115.98,
+   1
+  ],
+  [
+   "yuzhang",
+   "豫章",
+   "Yuzhang",
+   28.68,
+   115.89,
+   1
+  ],
+  [
+   "wuchang",
+   "武昌",
+   "Wuchang",
+   30.39,
+   114.89,
+   1
+  ],
+  [
+   "danyang",
+   "丹陽",
+   "Danyang",
+   31.3,
+   118.6,
+   1
+  ],
+  [
+   "ruxu",
+   "濡須",
+   "Ruxu",
+   31.6,
+   117.9,
+   1
+  ],
+  [
+   "jianan",
+   "建安",
+   "Jian'an",
+   27,
+   118.3,
+   1
+  ],
+  [
+   "chengdu",
+   "成都",
+   "Chengdu",
+   30.66,
+   104.06,
+   3
+  ],
+  [
+   "hanzhong",
+   "南鄭",
+   "Nanzheng",
+   33.07,
+   107.03,
+   2
+  ],
+  [
+   "zitong",
+   "梓潼",
+   "Zitong",
+   31.64,
+   105.17,
+   1
+  ],
+  [
+   "jiangzhou",
+   "江州",
+   "Jiangzhou",
+   29.56,
+   106.55,
+   1
+  ],
+  [
+   "baidi",
+   "白帝",
+   "Baidi",
+   31.04,
+   109.58,
+   1
+  ],
+  [
+   "jianning",
+   "建寧",
+   "Jianning",
+   25.5,
+   103.8,
+   1
+  ],
+  [
+   "yuexi",
+   "越嶲",
+   "Yuexi",
+   27.9,
+   102.27,
+   1
+  ],
+  [
+   "dingjun",
+   "定軍山",
+   "Dingjun",
+   33.15,
+   106.7,
+   1
+  ],
+  [
+   "jiange",
+   "剣閣",
+   "Jiange",
+   32.28,
+   105.52,
+   1
+  ],
+  [
+   "yongchang",
+   "永昌",
+   "Yongchang",
+   25.1,
+   99.2,
+   1
+  ],
+  [
+   "tianshui",
+   "天水",
+   "Tianshui",
+   34.73,
+   105.33,
+   1
+  ],
+  [
+   "jieting",
+   "街亭",
+   "Jieting",
+   34.85,
+   105.95,
+   1
+  ],
+  [
+   "longxi",
+   "隴西",
+   "Longxi",
+   35,
+   104.6,
+   1
+  ],
+  [
+   "jincheng",
+   "金城",
+   "Jincheng",
+   36.06,
+   103.83,
+   1
+  ],
+  [
+   "wuwei",
+   "武威",
+   "Wuwei",
+   37.93,
+   102.64,
+   2
+  ],
+  [
+   "anding",
+   "安定",
+   "Anding",
+   35.5,
+   106.7,
+   1
+  ],
+  [
+   "zhangye",
+   "張掖",
+   "Zhangye",
+   38.93,
+   100.45,
+   1
+  ],
+  [
+   "beidi",
+   "北地",
+   "Beidi",
+   36.5,
+   107.9,
+   1
+  ],
+  [
+   "xianbei",
+   "鮮卑",
+   "Xianbei",
+   40.1,
+   112.5,
+   1
+  ],
+  [
+   "wuhuan",
+   "烏桓",
+   "Wuhuan",
+   40.1,
+   118.3,
+   1
+  ],
+  [
+   "xiongnu",
+   "南匈奴",
+   "Southern Xiongnu",
+   38.9,
+   110.4,
+   1
+  ],
+  [
+   "qiang",
+   "羌",
+   "Qiang",
+   35.2,
+   101.5,
+   1
+  ],
+  [
+   "shanyue",
+   "山越",
+   "Shanyue",
+   29,
+   118.5,
+   1
+  ],
+  [
+   "nanzhong",
+   "南中",
+   "Nanzhong",
+   24.95,
+   102.75,
+   1
+  ],
+  [
+   "wulin",
+   "武陵蛮",
+   "Wuling Man",
+   28.4,
+   109.7,
+   1
+  ]
+ ],
+ "realms": [
+  {
+   "id": "han",
+   "label": {
+    "ja": "漢",
+    "en": "the Han empire"
+   },
+   "root": {
+    "ja": "漢",
+    "en": "Han"
+   },
+   "gov": "empire",
+   "color": "#c8a24a",
+   "culture": "hua",
+   "capital": "luoyang",
+   "places": [
+    "changan",
+    "hongnong",
+    "hedong",
+    "henei",
+    "xu",
+    "chenliu",
+    "puyang",
+    "qiao",
+    "runan",
+    "xiapi",
+    "pengcheng",
+    "ye",
+    "nanpi",
+    "ji_you",
+    "pingyuan",
+    "linzi",
+    "jinyang",
+    "shangdang",
+    "wan",
+    "xiangyang",
+    "jiangling",
+    "changsha",
+    "lingling",
+    "wuling",
+    "shouchun",
+    "lujiang",
+    "jianye",
+    "wujun",
+    "kuaiji",
+    "yuzhang",
+    "chengdu",
+    "hanzhong",
+    "jiangzhou",
+    "tianshui",
+    "longxi",
+    "jincheng",
+    "wuwei",
+    "anding",
+    "beidi",
+    "yanmen",
+    "dai",
+    "zhongshan",
+    "beihai",
+    "langya",
+    "guangling",
+    "xiakou",
+    "zitong"
+   ],
+   "reach": 420,
+   "house": {
+    "ja": "劉",
+    "en": "Liu"
+   },
+   "line": [
+    [
+     "霊帝",
+     "Emperor Ling",
+     168,
+     189,
+     {
+      "ab": [
+       3,
+       3,
+       4,
+       4
+      ],
+      "tr": [
+       "greedy",
+       "content"
+      ],
+      "born": 156
+     }
+    ],
+    [
+     "少帝弁",
+     "Emperor Shao",
+     189,
+     189,
+     {
+      "born": 176
+     }
+    ],
+    [
+     "献帝",
+     "Emperor Xian",
+     189,
+     220,
+     {
+      "rel": "brother",
+      "ab": [
+       5,
+       2,
+       5,
+       5
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 181
+     }
+    ]
+   ],
+   "power": 3
+  },
+  {
+   "id": "xianbei",
+   "label": {
+    "ja": "鮮卑",
+    "en": "the Xianbei"
+   },
+   "root": {
+    "ja": "鮮卑",
+    "en": "Xianbei"
+   },
+   "gov": "tribe",
+   "color": "#8a8a5a",
+   "culture": "hu",
+   "capital": "xianbei",
+   "places": [],
+   "reach": 200,
+   "house": {
+    "ja": "檀",
+    "en": "Tan"
+   }
+  },
+  {
+   "id": "wuhuan",
+   "label": {
+    "ja": "烏桓",
+    "en": "the Wuhuan"
+   },
+   "root": {
+    "ja": "烏桓",
+    "en": "Wuhuan"
+   },
+   "gov": "tribe",
+   "color": "#7a6a4a",
+   "culture": "hu",
+   "capital": "wuhuan",
+   "places": [],
+   "reach": 120,
+   "house": {
+    "ja": "丘力居",
+    "en": "Qiuliju"
+   }
+  },
+  {
+   "id": "xiongnu",
+   "label": {
+    "ja": "南匈奴",
+    "en": "the Southern Xiongnu"
+   },
+   "root": {
+    "ja": "匈奴",
+    "en": "Xiongnu"
+   },
+   "gov": "tribe",
+   "color": "#6a6a4a",
+   "culture": "hu",
+   "capital": "xiongnu",
+   "places": [],
+   "reach": 140,
+   "house": {
+    "ja": "攣鞮",
+    "en": "Luandi"
+   }
+  },
+  {
+   "id": "qiang",
+   "label": {
+    "ja": "羌",
+    "en": "the Qiang"
+   },
+   "root": {
+    "ja": "羌",
+    "en": "Qiang"
+   },
+   "gov": "tribe",
+   "color": "#9a8a5a",
+   "culture": "hu",
+   "capital": "qiang",
+   "places": [],
+   "reach": 220,
+   "house": {
+    "ja": "羌",
+    "en": "Qiang"
+   }
+  },
+  {
+   "id": "shanyue",
+   "label": {
+    "ja": "山越",
+    "en": "the Shanyue"
+   },
+   "root": {
+    "ja": "山越",
+    "en": "Shanyue"
+   },
+   "gov": "tribe",
+   "color": "#5f8a6a",
+   "culture": "yue",
+   "capital": "shanyue",
+   "places": [],
+   "reach": 110,
+   "house": {
+    "ja": "越",
+    "en": "Yue"
+   }
+  },
+  {
+   "id": "nanman",
+   "label": {
+    "ja": "南蛮",
+    "en": "the southern peoples"
+   },
+   "root": {
+    "ja": "南蛮",
+    "en": "Nanman"
+   },
+   "gov": "tribe",
+   "color": "#6f8f4a",
+   "culture": "yue",
+   "capital": "nanzhong",
+   "places": [
+    "yongchang"
+   ],
+   "reach": 240,
+   "house": {
+    "ja": "孟",
+    "en": "Meng"
+   },
+   "line": [
+    [
+     "孟獲",
+     "Meng Huo",
+     222,
+     235,
+     {
+      "ab": [
+       4,
+       7,
+       4,
+       7
+      ],
+      "tr": [
+       "brave"
+      ],
+      "born": 185
+     }
+    ]
+   ]
+  },
+  {
+   "id": "wulin",
+   "label": {
+    "ja": "武陵蛮",
+    "en": "the Wuling peoples"
+   },
+   "root": {
+    "ja": "武陵",
+    "en": "Wuling"
+   },
+   "gov": "tribe",
+   "color": "#5a7a3a",
+   "culture": "yue",
+   "capital": "wulin",
+   "places": [],
+   "reach": 110,
+   "house": {
+    "ja": "沙摩",
+    "en": "Shamo"
+   }
+  },
+  {
+   "id": "huangjin",
+   "label": {
+    "ja": "黄巾",
+    "en": "the Yellow Turbans"
+   },
+   "root": {
+    "ja": "黄巾",
+    "en": "Yellow Turbans"
+   },
+   "gov": "theocracy",
+   "color": "#e0c020",
+   "culture": "hua",
+   "capital": "julu",
+   "places": [
+    "runan"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "張",
+    "en": "Zhang"
+   },
+   "line": [
+    [
+     "張角",
+     "Zhang Jue",
+     184,
+     184,
+     {
+      "ab": [
+       6,
+       5,
+       5,
+       10
+      ],
+      "tr": [
+       "charismatic",
+       "ambitious"
+      ],
+      "born": 140
+     }
+    ]
+   ],
+   "start": 184,
+   "parent": "han"
+  },
+  {
+   "id": "liang",
+   "label": {
+    "ja": "涼州の軍閥",
+    "en": "the Liang warlords"
+   },
+   "root": {
+    "ja": "涼",
+    "en": "Liang"
+   },
+   "gov": "monarchy",
+   "color": "#9f6f3f",
+   "culture": "hua",
+   "capital": "jincheng",
+   "places": [
+    "wuwei",
+    "zhangye"
+   ],
+   "reach": 160,
+   "house": {
+    "ja": "韓",
+    "en": "Han"
+   },
+   "line": [
+    [
+     "韓遂",
+     "Han Sui",
+     185,
+     211,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       7,
+       7,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 140
+     }
+    ],
+    [
+     "馬超",
+     "Ma Chao",
+     211,
+     214,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "馬",
+       "en": "Ma"
+      },
+      "ab": [
+       4,
+       9,
+       4,
+       7
+      ],
+      "tr": [
+       "brave",
+       "warrior"
+      ],
+      "born": 176
+     }
+    ]
+   ],
+   "start": 184,
+   "parent": "han"
+  },
+  {
+   "id": "liuyan",
+   "label": {
+    "ja": "益州の劉氏",
+    "en": "the Liu of Yi"
+   },
+   "root": {
+    "ja": "益",
+    "en": "Yi"
+   },
+   "gov": "monarchy",
+   "color": "#7f4f9f",
+   "culture": "hua",
+   "capital": "chengdu",
+   "places": [
+    "jiangzhou",
+    "zitong",
+    "baidi"
+   ],
+   "reach": 220,
+   "house": {
+    "ja": "劉",
+    "en": "Liu"
+   },
+   "line": [
+    [
+     "劉焉",
+     "Liu Yan",
+     188,
+     194,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       5,
+       6,
+       5
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 130
+     }
+    ],
+    [
+     "劉璋",
+     "Liu Zhang",
+     194,
+     214,
+     {
+      "ab": [
+       4,
+       3,
+       5,
+       5
+      ],
+      "tr": [
+       "kind",
+       "craven"
+      ],
+      "born": 162
+     }
+    ]
+   ],
+   "start": 188,
+   "parent": "han"
+  },
+  {
+   "id": "yuanshao",
+   "label": {
+    "ja": "袁紹軍",
+    "en": "the forces of Yuan Shao"
+   },
+   "root": {
+    "ja": "袁",
+    "en": "Yuan"
+   },
+   "gov": "monarchy",
+   "color": "#3f6f9f",
+   "culture": "hua",
+   "capital": "nanpi",
+   "places": [
+    "ye",
+    "julu",
+    "zhongshan",
+    "pingyuan"
+   ],
+   "reach": 160,
+   "house": {
+    "ja": "袁",
+    "en": "Yuan"
+   },
+   "line": [
+    [
+     "袁紹",
+     "Yuan Shao",
+     190,
+     202,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       6,
+       7,
+       8
+      ],
+      "tr": [
+       "ambitious",
+       "charismatic"
+      ],
+      "born": 154
+     }
+    ],
+    [
+     "袁尚",
+     "Yuan Shang",
+     202,
+     205,
+     {
+      "ab": [
+       4,
+       5,
+       4,
+       6
+      ],
+      "born": 180
+     }
+    ]
+   ],
+   "start": 190,
+   "parent": "han"
+  },
+  {
+   "id": "yuanshu",
+   "label": {
+    "ja": "袁術軍",
+    "en": "the forces of Yuan Shu"
+   },
+   "root": {
+    "ja": "袁",
+    "en": "Yuan"
+   },
+   "gov": "monarchy",
+   "color": "#5f8f9f",
+   "culture": "hua",
+   "capital": "wan",
+   "places": [
+    "shouchun",
+    "runan"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "袁",
+    "en": "Yuan"
+   },
+   "line": [
+    [
+     "袁術",
+     "Yuan Shu",
+     190,
+     199,
+     {
+      "rel": "other",
+      "ab": [
+       4,
+       5,
+       4,
+       5
+      ],
+      "tr": [
+       "ambitious",
+       "greedy"
+      ],
+      "born": 155
+     }
+    ]
+   ],
+   "start": 190,
+   "parent": "han"
+  },
+  {
+   "id": "cao",
+   "label": {
+    "ja": "曹操軍",
+    "en": "the forces of Cao Cao"
+   },
+   "root": {
+    "ja": "曹",
+    "en": "Cao"
+   },
+   "gov": "monarchy",
+   "color": "#2f4f8f",
+   "culture": "hua",
+   "capital": "chenliu",
+   "places": [
+    "dongping",
+    "qiao"
+   ],
+   "reach": 110,
+   "house": {
+    "ja": "曹",
+    "en": "Cao"
+   },
+   "line": [
+    [
+     "曹操",
+     "Cao Cao",
+     190,
+     220,
+     {
+      "rel": "other",
+      "ab": [
+       10,
+       9,
+       8,
+       9
+      ],
+      "tr": [
+       "ambitious",
+       "genius",
+       "paranoid"
+      ],
+      "born": 155
+     }
+    ],
+    [
+     "曹丕",
+     "Cao Pi",
+     220,
+     226,
+     {
+      "ab": [
+       7,
+       6,
+       6,
+       6
+      ],
+      "tr": [
+       "scholar",
+       "ambitious"
+      ],
+      "born": 187
+     }
+    ],
+    [
+     "曹叡",
+     "Cao Rui",
+     226,
+     239,
+     {
+      "ab": [
+       7,
+       6,
+       6,
+       6
+      ],
+      "tr": [
+       "builder"
+      ],
+      "born": 204
+     }
+    ],
+    [
+     "曹芳",
+     "Cao Fang",
+     239,
+     254,
+     {
+      "rel": "other",
+      "ab": [
+       3,
+       3,
+       3,
+       4
+      ],
+      "born": 232
+     }
+    ],
+    [
+     "曹髦",
+     "Cao Mao",
+     254,
+     260,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       4,
+       5,
+       7
+      ],
+      "tr": [
+       "brave",
+       "scholar"
+      ],
+      "born": 241
+     }
+    ],
+    [
+     "曹奐",
+     "Cao Huan",
+     260,
+     266,
+     {
+      "rel": "other",
+      "ab": [
+       3,
+       2,
+       3,
+       3
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 246
+     }
+    ],
+    [
+     "司馬炎",
+     "Sima Yan",
+     266,
+     290,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "司馬",
+       "en": "Sima"
+      },
+      "ab": [
+       7,
+       6,
+       7,
+       7
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 236
+     }
+    ]
+   ],
+   "start": 190,
+   "parent": "han",
+   "power": 1.2
+  },
+  {
+   "id": "wu",
+   "label": {
+    "ja": "孫氏",
+    "en": "the Sun clan"
+   },
+   "root": {
+    "ja": "孫",
+    "en": "Sun"
+   },
+   "gov": "monarchy",
+   "color": "#3f8f4f",
+   "culture": "yue",
+   "capital": "changsha",
+   "places": [
+    "guiyang",
+    "lingling"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "孫",
+    "en": "Sun"
+   },
+   "line": [
+    [
+     "孫堅",
+     "Sun Jian",
+     190,
+     191,
+     {
+      "rel": "other",
+      "ab": [
+       5,
+       9,
+       5,
+       8
+      ],
+      "tr": [
+       "brave",
+       "warrior"
+      ],
+      "born": 155
+     }
+    ],
+    [
+     "孫策",
+     "Sun Ce",
+     194,
+     200,
+     {
+      "ab": [
+       6,
+       9,
+       6,
+       9
+      ],
+      "tr": [
+       "brave",
+       "charismatic",
+       "ambitious"
+      ],
+      "born": 175
+     }
+    ],
+    [
+     "孫権",
+     "Sun Quan",
+     200,
+     252,
+     {
+      "rel": "brother",
+      "ab": [
+       8,
+       6,
+       8,
+       8
+      ],
+      "tr": [
+       "wise",
+       "ambitious"
+      ],
+      "born": 182
+     }
+    ],
+    [
+     "孫亮",
+     "Sun Liang",
+     252,
+     258,
+     {
+      "born": 243
+     }
+    ],
+    [
+     "孫休",
+     "Sun Xiu",
+     258,
+     264,
+     {
+      "rel": "brother",
+      "ab": [
+       6,
+       3,
+       5,
+       5
+      ],
+      "tr": [
+       "scholar"
+      ],
+      "born": 235
+     }
+    ],
+    [
+     "孫晧",
+     "Sun Hao",
+     264,
+     280,
+     {
+      "rel": "other",
+      "ab": [
+       3,
+       4,
+       3,
+       4
+      ],
+      "tr": [
+       "cruel",
+       "drunkard"
+      ],
+      "born": 242
+     }
+    ]
+   ],
+   "start": 190,
+   "parent": "han"
+  },
+  {
+   "id": "liubiao",
+   "label": {
+    "ja": "劉表軍",
+    "en": "the forces of Liu Biao"
+   },
+   "root": {
+    "ja": "荊",
+    "en": "Jing"
+   },
+   "gov": "monarchy",
+   "color": "#8f6f3f",
+   "culture": "hua",
+   "capital": "xiangyang",
+   "places": [
+    "jiangling",
+    "xiakou",
+    "wuling"
+   ],
+   "reach": 150,
+   "house": {
+    "ja": "劉",
+    "en": "Liu"
+   },
+   "line": [
+    [
+     "劉表",
+     "Liu Biao",
+     190,
+     208,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       4,
+       6,
+       7
+      ],
+      "tr": [
+       "scholar",
+       "content"
+      ],
+      "born": 142
+     }
+    ],
+    [
+     "劉琮",
+     "Liu Cong",
+     208,
+     208,
+     {
+      "ab": [
+       3,
+       2,
+       3,
+       3
+      ],
+      "tr": [
+       "craven"
+      ],
+      "born": 190
+     }
+    ]
+   ],
+   "start": 190,
+   "parent": "han"
+  },
+  {
+   "id": "taoqian",
+   "label": {
+    "ja": "徐州の陶謙",
+    "en": "Tao Qian of Xu"
+   },
+   "root": {
+    "ja": "徐",
+    "en": "Xu"
+   },
+   "gov": "monarchy",
+   "color": "#6f5f8f",
+   "culture": "hua",
+   "capital": "xiapi",
+   "places": [
+    "pengcheng",
+    "langya",
+    "guangling"
+   ],
+   "reach": 110,
+   "house": {
+    "ja": "陶",
+    "en": "Tao"
+   },
+   "line": [
+    [
+     "陶謙",
+     "Tao Qian",
+     188,
+     194,
+     {
+      "rel": "other",
+      "ab": [
+       5,
+       4,
+       5,
+       4
+      ],
+      "born": 132
+     }
+    ],
+    [
+     "呂布",
+     "Lü Bu",
+     196,
+     198,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "呂",
+       "en": "Lü"
+      },
+      "ab": [
+       2,
+       10,
+       2,
+       6
+      ],
+      "tr": [
+       "brave",
+       "warrior",
+       "greedy"
+      ],
+      "born": 161
+     }
+    ]
+   ],
+   "start": 190,
+   "parent": "han"
+  },
+  {
+   "id": "gongsun",
+   "label": {
+    "ja": "公孫瓚軍",
+    "en": "the forces of Gongsun Zan"
+   },
+   "root": {
+    "ja": "公孫",
+    "en": "Gongsun"
+   },
+   "gov": "monarchy",
+   "color": "#9f4f4f",
+   "culture": "hua",
+   "capital": "yijing",
+   "places": [
+    "ji_you",
+    "dai"
+   ],
+   "reach": 150,
+   "house": {
+    "ja": "公孫",
+    "en": "Gongsun"
+   },
+   "line": [
+    [
+     "公孫瓚",
+     "Gongsun Zan",
+     191,
+     199,
+     {
+      "rel": "other",
+      "ab": [
+       5,
+       8,
+       4,
+       6
+      ],
+      "tr": [
+       "brave",
+       "cruel"
+      ],
+      "born": 152
+     }
+    ]
+   ],
+   "start": 190,
+   "parent": "han"
+  },
+  {
+   "id": "zhanglu",
+   "label": {
+    "ja": "漢中の張魯",
+    "en": "Zhang Lu of Hanzhong"
+   },
+   "root": {
+    "ja": "漢中",
+    "en": "Hanzhong"
+   },
+   "gov": "theocracy",
+   "color": "#9f9f5f",
+   "culture": "hua",
+   "capital": "hanzhong",
+   "places": [],
+   "reach": 90,
+   "house": {
+    "ja": "張",
+    "en": "Zhang"
+   },
+   "line": [
+    [
+     "張魯",
+     "Zhang Lu",
+     191,
+     215,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       4,
+       6,
+       8
+      ],
+      "tr": [
+       "pious",
+       "kind"
+      ],
+      "born": 160
+     }
+    ]
+   ],
+   "start": 191,
+   "parent": "liuyan"
+  },
+  {
+   "id": "shu",
+   "label": {
+    "ja": "劉備軍",
+    "en": "the forces of Liu Bei"
+   },
+   "root": {
+    "ja": "劉",
+    "en": "Liu"
+   },
+   "gov": "monarchy",
+   "color": "#3f8f3f",
+   "culture": "hua",
+   "capital": "changsha",
+   "places": [
+    "lingling",
+    "guiyang",
+    "wuling"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "劉",
+    "en": "Liu"
+   },
+   "line": [
+    [
+     "劉備",
+     "Liu Bei",
+     209,
+     223,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       7,
+       7,
+       10
+      ],
+      "tr": [
+       "charismatic",
+       "kind",
+       "ambitious"
+      ],
+      "born": 161
+     }
+    ],
+    [
+     "劉禅",
+     "Liu Shan",
+     223,
+     263,
+     {
+      "ab": [
+       3,
+       2,
+       3,
+       5
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 207
+     }
+    ]
+   ],
+   "start": 209,
+   "parent": "cao"
+  }
+ ],
+ "people": [],
+ "events": []
+}
