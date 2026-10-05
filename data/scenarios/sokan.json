@@ -2621,8 +2621,8 @@
    ],
    "imp": 3,
    "at": "xianyang",
-   "ja": "咸陽に入った{r_chu}は[[p:子嬰]]を殺し、宮殿を焼いた。火は三か月消えなかったという。秦は滅んだ。",
-   "en": "{r_chu} entered Xianyang, killed [[p:子嬰|Ziying]] and burned the palaces; the fire burned for three months, it is said. Qin was no more."
+   "ja": "咸陽に入った{r_chu}は[[p:子嬰]]を殺し、[[a:afang|宮殿を焼いた]]。火は三か月消えなかったという。秦は滅んだ。",
+   "en": "{r_chu} entered Xianyang, killed [[p:子嬰|Ziying]] and [[a:afang|burned the palaces]]; the fire burned for three months, it is said. Qin was no more."
   },
   {
    "id": "eighteen",
@@ -3672,7 +3672,7 @@
     "en": "The eight thousand young men east of the river"
    },
    "body": {
-    "ja": "前209年、[[p:項梁]]と甥の[[p:項羽]]は会稽で郡守を斬って兵を挙げ、江東 (長江下流の南岸) の若者八千人を率いて長江を渡った。\n\n彼らが[[p:項羽]]の軍の芯となった。鉅鹿で「一人で十人に当たった」楚兵、彭城で三万で五十六万を破った騎兵の中心には、江東の子弟がいた。[[p:項羽]]は兵を慈しみ、病む者があれば涙を流して自分の食べ物を分けたという。その一方で、手柄を立てた者に与える印綬を手の中でもてあそび、角がすり減るまで渡せなかった、とかつての部下[[p:韓信]]は語っている。\n\n垓下ののち、烏江の亭長に江東へ渡るよう勧められた[[p:項羽]]は、「江東の子弟八千と河を渡ったのに、今一人も還らない。江東の父兄が憐れんで王にしてくれても、どんな顔で会えようか」と断った。唐の詩人杜牧は、烏江の宿駅に立ってこう詠んで、項羽が渡らなかったことを惜しんだ。「江東の子弟には才ある者が多い。土煙を巻いて、もう一度攻め上ったかもしれないのに」(捲土重来)。",
+    "ja": "前209年、[[p:項梁]]と甥の[[p:項羽]]は会稽で郡守を斬って兵を挙げ、江東 (長江下流の南岸) の若者八千人を率いて長江を渡った。\n\n彼らが[[p:項羽]]の軍の芯となった。鉅鹿で「一人で十人に当たった」楚兵、彭城で三万で五十六万を破った騎兵の中心には、江東の子弟がいた。[[p:項羽]]は兵を慈しみ、病む者があれば涙を流して自分の食べ物を分けたという。その一方で、手柄を立てた者に与える印綬を手の中でもてあそび、角がすり減るまで渡せなかった、とかつての部下[[p:韓信]]は語っている。\n\n垓下ののち、烏江の亭長に江東へ渡るよう勧められた[[p:項羽]]は、「江東の子弟八千と河を渡ったのに、今一人も還らない。江東の父兄が憐れんで王にしてくれても、どんな顔で会えようか」と断った。唐の詩人杜牧は、烏江の宿駅に立ってこう詠んで、[[p:項羽]]が渡らなかったことを惜しんだ。「江東の子弟には才ある者が多い。土煙を巻いて、もう一度攻め上ったかもしれないのに」(捲土重来)。",
     "en": "In 209 BC [[p:項梁|Xiang Liang]] and his nephew [[p:項羽|Xiang Yu]] killed the governor of Kuaiji, raised their banner and crossed the Yangzi with eight thousand young men from east of the river.\n\nThey were the heart of [[p:項羽|Xiang Yu]]'s army: the men of Chu who \"each fought ten\" at Julu, the core of the horsemen who broke five hundred and sixty thousand with thirty thousand at Pengcheng. [[p:項羽|Xiang Yu]] loved his soldiers, and would weep and share his own food with the sick — yet, said his former officer [[p:韓信|Han Xin]], when a man earned a fief he would turn the seal over and over in his hand until its corners wore away, unable to give it up.\n\nAfter Gaixia, offered a boat home by the ferry master of the Wu river, [[p:項羽|Xiang Yu]] refused: \"I crossed with eight thousand young men east of the river, and not one returns. Even if their fathers took pity and made me king, how could I face them?\" Centuries later the Tang poet Du Mu, standing at the ferry station, regretted it: there were many able men east of the river, and he might have come back \"rolling up the dust\" to try again."
    },
    "year": 209,
@@ -3752,7 +3752,7 @@
     "en": "The rice of Ba and Shu, and Xiao He's supply lines"
    },
    "body": {
-    "ja": "蜀の成都平原は、秦の李冰が築いた都江堰の水路のおかげで、日照りにも洪水にも強い豊かな田となった。「天府の国」(天の蔵) と呼ばれたのはこの頃からである。\n\n[[p:項羽]]に辺境の巴・蜀・漢中の王にされた[[p:劉邦]]は、はじめ不満だったが、[[p:蕭何]]に「漢中で王となり、民を養い、賢者を招き、巴蜀を使って三秦を取りましょう」と説かれた。\n\n[[p:劉邦]]が東で[[p:項羽]]と戦う間、[[p:蕭何]]は関中と巴蜀を治め、兵と兵糧を絶え間なく前線へ送り続けた。[[p:劉邦]]が何度負けても立ち直れたのは、そのためである。天下を取った後、劉邦は功の第一を[[p:蕭何]]とした。「獣を追い殺すのは犬だが、犬に獣の居場所を指し示すのは人である」と言って。",
+    "ja": "蜀の成都平原は、秦の李冰が築いた都江堰の水路のおかげで、日照りにも洪水にも強い豊かな田となった。「天府の国」(天の蔵) と呼ばれたのはこの頃からである。\n\n[[p:項羽]]に辺境の巴・蜀・漢中の王にされた[[p:劉邦]]は、はじめ不満だったが、[[p:蕭何]]に「漢中で王となり、民を養い、賢者を招き、巴蜀を使って三秦を取りましょう」と説かれた。\n\n[[p:劉邦]]が東で[[p:項羽]]と戦う間、[[p:蕭何]]は関中と巴蜀を治め、兵と兵糧を絶え間なく前線へ送り続けた。[[p:劉邦]]が何度負けても立ち直れたのは、そのためである。天下を取った後、[[p:劉邦]]は功の第一を[[p:蕭何]]とした。「獣を追い殺すのは犬だが、犬に獣の居場所を指し示すのは人である」と言って。",
     "en": "The Chengdu plain of Shu, watered by the Dujiangyan canals that Li Bing of Qin had built, became rich land safe from drought and flood — the \"Storehouse of Heaven\".\n\nMade king of the remote lands of Ba, Shu and Hanzhong by [[p:項羽|Xiang Yu]], [[p:劉邦|Liu Bang]] was bitter at first; but [[p:蕭何|Xiao He]] urged him to be king in Hanzhong, feed the people, draw in able men, and use Ba and Shu to take the three Qin kingdoms.\n\nWhile [[p:劉邦|Liu Bang]] fought [[p:項羽|Xiang Yu]] in the east, [[p:蕭何|Xiao He]] governed Guanzhong and Ba-Shu and sent men and grain to the front without fail; that is why [[p:劉邦|Liu Bang]] could recover from defeat after defeat. Victorious, he ranked [[p:蕭何|Xiao He]] first in merit: \"It is the hound that runs down the hare, but the man who shows the hound where the hare is.\""
    },
    "people": [
@@ -3834,7 +3834,7 @@
     "en": "The three laws"
    },
    "body": {
-    "ja": "前207年の冬、[[p:劉邦]]は武関から関中に入り、秦王[[p:子嬰]]の降伏を受けた。宮殿の財宝と美女に心を奪われかけた[[p:劉邦]]を、[[p:樊噲]]と[[p:張良]]がいさめ、劉邦は覇上の陣に戻った。\n\n劉邦は関中の長老たちを集めて言った。「皆は長く秦の苛酷な法に苦しんできた。私は皆と約束しよう。法はただ三章。人を殺した者は死罪、人を傷つけた者と盗んだ者は、それぞれの罪に応じて罰する。それ以外の秦の法はすべて除く」。\n\n秦の民は大いに喜び、牛や羊、酒を持って兵をもてなそうとした。劉邦は「倉には穀物が多い。民に負担をかけたくない」と受け取らなかった。民はますます喜び、劉邦が関中の王にならないことを恐れたという。同じ時、[[p:蕭何]]はただ一人、秦の役所の法令・地図・戸籍を集めて持ち出した。これがのちに、漢が天下の地形と人口を知る元となった。",
+    "ja": "前207年の冬、[[p:劉邦]]は武関から関中に入り、秦王[[p:子嬰]]の降伏を受けた。宮殿の財宝と美女に心を奪われかけた[[p:劉邦]]を、[[p:樊噲]]と[[p:張良]]がいさめ、[[p:劉邦]]は覇上の陣に戻った。\n\n[[p:劉邦]]は関中の長老たちを集めて言った。「皆は長く秦の苛酷な法に苦しんできた。私は皆と約束しよう。法はただ三章。人を殺した者は死罪、人を傷つけた者と盗んだ者は、それぞれの罪に応じて罰する。それ以外の秦の法はすべて除く」。\n\n秦の民は大いに喜び、牛や羊、酒を持って兵をもてなそうとした。劉邦は「倉には穀物が多い。民に負担をかけたくない」と受け取らなかった。民はますます喜び、劉邦が関中の王にならないことを恐れたという。同じ時、[[p:蕭何]]はただ一人、秦の役所の法令・地図・戸籍を集めて持ち出した。これがのちに、漢が天下の地形と人口を知る元となった。",
     "en": "In the winter of 207 BC [[p:劉邦|Liu Bang]] entered Guanzhong through the Wu pass and received the surrender of [[p:子嬰|Ziying]], King of Qin. Tempted by the treasures and women of the palace, he was talked out of it by [[p:樊噲|Fan Kuai]] and [[p:張良|Zhang Liang]] and went back to his camp at Bashang.\n\nHe called together the elders of Guanzhong: \"You have long suffered under the cruel laws of Qin. I make you this promise: three laws only. Whoever kills shall die; whoever wounds or steals shall be punished according to the crime. All the other laws of Qin are abolished.\"\n\nThe people of Qin rejoiced and brought oxen, sheep and wine for his soldiers. [[p:劉邦|Liu Bang]] refused them: the granaries were full and he would not burden the people. They loved him all the more and feared only that he might not become their king. Meanwhile [[p:蕭何|Xiao He]] alone gathered up the laws, maps and registers of the Qin offices — the knowledge by which Han would later know the land and people of the whole realm."
    },
    "year": 207,
@@ -3861,8 +3861,8 @@
     "en": "Xiao He's Nine Chapters"
    },
    "body": {
-    "ja": "天下を取った漢は、法三章だけでは国を治められなかった。[[p:蕭何]]は秦の法を取捨し、李悝の『法経』六篇に、戸 (戸籍)・興 (労役)・厩 (馬と倉) の三篇を加えて「九章律」とした。\n\n[[p:蕭何]]が死ぬと、後を継いだ[[p:曹参]]は蕭何の決めたことを何一つ変えず、毎日酒を飲んでいた。いぶかる恵帝に[[p:曹参]]は尋ねた。「陛下と高祖では、どちらが優れておられますか」「高祖には及ばない」「私と蕭何では」「及ばないようだ」「では、高祖と蕭何が定めたものを、私たちが守っていればよいのです」。「蕭規曹随」(蕭何が規を作り、曹参が随う) という言葉はここから生まれた。",
-    "en": "Victorious Han could not rule the realm on three laws. [[p:蕭何|Xiao He]] sifted the laws of Qin and added three chapters — households, labour service, stables and granaries — to Li Kui's six-part Canon, making the Nine Chapters.\n\nWhen [[p:蕭何|Xiao He]] died his successor Cao Can changed nothing he had set down, and drank wine every day. When the puzzled Emperor Hui asked why, Cao Can asked him: \"Who is the greater, Your Majesty or the founder?\" \"I cannot match the founder.\" \"And I or Xiao He?\" \"You seem not his equal.\" \"Then if we keep what the founder and Xiao He laid down, that is enough.\" Hence the saying \"Xiao made the rules and Cao followed them\"."
+    "ja": "天下を取った漢は、法三章だけでは国を治められなかった。[[p:蕭何]]は秦の法を取捨し、李悝の『法経』六篇に、戸 (戸籍)・興 (労役)・厩 (馬と倉) の三篇を加えて「九章律」とした。\n\n[[p:蕭何]]が死ぬと、後を継いだ[[p:曹参]]は[[p:蕭何]]の決めたことを何一つ変えず、毎日酒を飲んでいた。いぶかる恵帝に[[p:曹参]]は尋ねた。「陛下と高祖では、どちらが優れておられますか」「高祖には及ばない」「私と[[p:蕭何]]では」「及ばないようだ」「では、高祖と蕭何が定めたものを、私たちが守っていればよいのです」。「蕭規曹随」(蕭何が規を作り、[[p:曹参]]が随う) という言葉はここから生まれた。",
+    "en": "Victorious Han could not rule the realm on three laws. [[p:蕭何|Xiao He]] sifted the laws of Qin and added three chapters — households, labour service, stables and granaries — to Li Kui's six-part Canon, making the Nine Chapters.\n\nWhen [[p:蕭何|Xiao He]] died his successor Cao Can changed nothing he had set down, and drank wine every day. When the puzzled Emperor Hui asked why, Cao Can asked him: \"Who is the greater, Your Majesty or the founder?\" \"I cannot match the founder.\" \"And I or [[p:蕭何|Xiao He]]?\" \"You seem not his equal.\" \"Then if we keep what the founder and [[p:蕭何|Xiao He]] laid down, that is enough.\" Hence the saying \"Xiao made the rules and Cao followed them\"."
    },
    "year": 202,
    "people": [
@@ -3886,7 +3886,7 @@
     "en": "The teaching of the Yellow Emperor and Laozi"
    },
    "body": {
-    "ja": "秦の厳しい法と、続く戦乱に疲れ果てた人々にとって、何よりも必要だったのは休息であった。漢の初めに重んじられたのが、伝説の帝王黄帝と老子の名を冠した「黄老」の考えである。上に立つ者は余計なことをせず、民を休ませれば、世は自ずから治まる。\n\n[[p:曹参]]は斉の宰相となったとき、斉の学者たちを集めて治め方を問うたが、百人百様で決められなかった。膠西に蓋公という黄老の学者がいると聞いて招くと、蓋公は「治める道は清らかで静かであることを貴ぶ。そうすれば民は自ずから落ち着く」と答えた。曹参はそれに従い、九年で斉はよく治まった。\n\n漢は税を軽くし、労役を減らし、「民と共に休息する」政治を数十年続けた。文帝・景帝の時代、蔵の銭は数えきれず、銭を通す紐が腐るほどだったと『史記』は書く。",
+    "ja": "秦の厳しい法と、続く戦乱に疲れ果てた人々にとって、何よりも必要だったのは休息であった。漢の初めに重んじられたのが、伝説の帝王黄帝と老子の名を冠した「黄老」の考えである。上に立つ者は余計なことをせず、民を休ませれば、世は自ずから治まる。\n\n[[p:曹参]]は斉の宰相となったとき、斉の学者たちを集めて治め方を問うたが、百人百様で決められなかった。膠西に蓋公という黄老の学者がいると聞いて招くと、蓋公は「治める道は清らかで静かであることを貴ぶ。そうすれば民は自ずから落ち着く」と答えた。[[p:曹参]]はそれに従い、九年で斉はよく治まった。\n\n漢は税を軽くし、労役を減らし、「民と共に休息する」政治を数十年続けた。文帝・景帝の時代、蔵の銭は数えきれず、銭を通す紐が腐るほどだったと『史記』は書く。",
     "en": "Worn out by Qin's harsh laws and the wars that followed, what people needed above all was rest. Early Han honoured the \"Huang-Lao\" teaching, named for the legendary Yellow Emperor and Laozi: let those above do nothing needless, let the people rest, and the world governs itself.\n\nWhen Cao Can became chief minister of Qi he asked the scholars of Qi how to govern, and got a hundred answers. Hearing of a Huang-Lao master, Lord Gai of Jiaoxi, he sent for him; the old man said: \"The way of governing prizes clarity and stillness; then the people settle of themselves.\" Cao Can followed it, and in nine years Qi was well ruled.\n\nHan kept taxes light and labour service small, \"resting together with the people\", for decades. Under Emperors Wen and Jing, says the Records of the Grand Historian, there was so much money in the treasury that the cords stringing the coins rotted."
    },
    "year": 202,
@@ -3910,8 +3910,8 @@
     "en": "The burning of the books"
    },
    "body": {
-    "ja": "前213年、始皇帝の宴の席で、博士の淳于越は「古の殷周は子弟を王に封じて千年余り続いた。古を師としないで長く続いた例はない」と、郡県をやめて封建に戻すよう説いた。丞相の[[p:李斯]]は猛然と反論した。「学者たちは今を学ばず古を学び、それで今を誹り、民を惑わしている」。\n\n始皇帝は李斯の進言を入れ、秦の記録以外の歴史書と、民間の『詩』『書』や諸子の書を焼かせた。残されたのは医薬・占い・農業の書だけ。『詩』『書』を語り合う者は死罪、古を引いて今を誹る者は一族皆殺しとした。翌年には、始皇帝を誹ったとして四百六十余人の学者や方士を咸陽で穴に埋めたと『史記』は伝える。\n\n書を守った者もいた。秦の博士伏生は『書経』を壁の中に塗り込めて隠し、漢の世になって掘り出した。孔子の旧宅の壁からも、漢の時代に古い文字で書かれた経書が見つかっている。秦の博士だった[[p:叔孫通]]は、秦の終わりに逃れて、のちに漢の朝廷の儀礼を作った。",
-    "en": "At a banquet of the First Emperor in 213 BC the scholar Chunyu Yue argued that Shang and Zhou had lasted a thousand years by giving fiefs to their kin, and that nothing lasted that did not take antiquity as its teacher: the commanderies should give way to fiefs. The chancellor [[p:李斯|Li Si]] answered fiercely: the scholars learned not the present but the past, and used it to slander the present and confuse the people.\n\nThe emperor took Li Si's advice. Every history but Qin's, and the Odes, the Documents and the books of the philosophers in private hands, were burned; only books of medicine, divination and farming were spared. To discuss the Odes and Documents was death; to use the past to criticise the present, death for the whole clan. The next year, says the Records of the Grand Historian, more than four hundred and sixty scholars and magicians accused of slandering the emperor were buried at Xianyang.\n\nSome saved the books. Fu Sheng, a Qin scholar, walled up the Documents and dug them out again under Han; old texts in ancient script were found in the walls of Confucius's house in Han times too. [[p:叔孫通|Shusun Tong]], a scholar at the Qin court, slipped away at its end and later drew up the ceremonies of the Han court."
+    "ja": "前213年、始皇帝の宴の席で、博士の淳于越は「古の殷周は子弟を王に封じて千年余り続いた。古を師としないで長く続いた例はない」と、郡県をやめて封建に戻すよう説いた。丞相の[[p:李斯]]は猛然と反論した。「学者たちは今を学ばず古を学び、それで今を誹り、民を惑わしている」。\n\n始皇帝は[[p:李斯]]の進言を入れ、秦の記録以外の歴史書と、民間の『詩』『書』や諸子の書を焼かせた。残されたのは医薬・占い・農業の書だけ。『詩』『書』を語り合う者は死罪、古を引いて今を誹る者は一族皆殺しとした。翌年には、始皇帝を誹ったとして四百六十余人の学者や方士を咸陽で穴に埋めたと『史記』は伝える。\n\n書を守った者もいた。秦の博士伏生は『書経』を壁の中に塗り込めて隠し、漢の世になって掘り出した。孔子の旧宅の壁からも、漢の時代に古い文字で書かれた経書が見つかっている。秦の博士だった[[p:叔孫通]]は、秦の終わりに逃れて、のちに漢の朝廷の儀礼を作った。",
+    "en": "At a banquet of the First Emperor in 213 BC the scholar Chunyu Yue argued that Shang and Zhou had lasted a thousand years by giving fiefs to their kin, and that nothing lasted that did not take antiquity as its teacher: the commanderies should give way to fiefs. The chancellor [[p:李斯|Li Si]] answered fiercely: the scholars learned not the present but the past, and used it to slander the present and confuse the people.\n\nThe emperor took [[p:李斯|Li Si]]'s advice. Every history but Qin's, and the Odes, the Documents and the books of the philosophers in private hands, were burned; only books of medicine, divination and farming were spared. To discuss the Odes and Documents was death; to use the past to criticise the present, death for the whole clan. The next year, says the Records of the Grand Historian, more than four hundred and sixty scholars and magicians accused of slandering the emperor were buried at Xianyang.\n\nSome saved the books. Fu Sheng, a Qin scholar, walled up the Documents and dug them out again under Han; old texts in ancient script were found in the walls of Confucius's house in Han times too. [[p:叔孫通|Shusun Tong]], a scholar at the Qin court, slipped away at its end and later drew up the ceremonies of the Han court."
    },
    "year": 213,
    "people": [
@@ -3926,6 +3926,99 @@
     "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +2%",
     "en": "In the game, once for a realm that takes it up: stability +2%"
    }
+  },
+  "great_wall": {
+   "kind": "wonder",
+   "title": {
+    "ja": "万里の長城",
+    "en": "The Great Wall"
+   },
+   "body": {
+    "ja": "前214年、始皇帝は将軍蒙恬に三十万の兵を与えて北の匈奴を討たせ、黄河の湾曲部の南 (河南地) を奪った。蒙恬は、戦国の秦・趙・燕が築いていた北辺の城壁をつなぎ、西の臨洮から東の遼東まで「万余里」の長城とした。\n\n工事には兵と罪人、民が駆り出され、多くが命を落とした。夫を長城の工事に取られた孟姜女が、冬着を届けに行くと夫はすでに死んでいて、泣き続けると城壁が崩れて夫の骨が現れた——という民話が、後の世に語り継がれた。\n\n始皇帝の死後、蒙恬は[[p:趙高]]と[[p:李斯]]の偽の詔によって死を命じられた。蒙恬は「長城を築くとき、大地の脈を断ったのかもしれない。それが私の罪だ」と言って毒を仰いだという。今見られる石とれんがの長城の多くは、ずっと後の明の時代のものである。",
+    "en": "In 214 BC the First Emperor sent his general Meng Tian north with three hundred thousand men against the Xiongnu, and took the land within the great bend of the Yellow River. Meng Tian joined the northern walls of Qin, Zhao and Yan into one \"wall of ten thousand li\" from Lintao in the west to Liaodong in the east.\n\nSoldiers, convicts and conscripted peasants built it, and many died. Later ages told of Lady Meng Jiang, who carried winter clothes to her husband on the wall and found him dead; she wept until the wall collapsed and his bones appeared.\n\nAfter the emperor's death Meng Tian was ordered to die by an edict forged by [[p:趙高|Zhao Gao]] and [[p:李斯|Li Si]]. \"When I built the wall I may have cut the veins of the earth,\" he said, \"that is my crime,\" and took poison. Most of the stone and brick wall seen today was built far later, under the Ming."
+   },
+   "year": 214,
+   "people": [
+    "趙高|Zhao Gao",
+    "李斯|Li Si"
+   ],
+   "related": [
+    "chidao",
+    "xiongnu_horses"
+   ]
+  },
+  "lingqu": {
+   "kind": "wonder",
+   "title": {
+    "ja": "霊渠",
+    "en": "The Lingqu canal"
+   },
+   "body": {
+    "ja": "始皇帝は南の百越を攻めるため、五十万の大軍を送った。だが山を越えて兵糧を運ぶのは難しかった。前214年頃、監御史の禄 (史禄) は、北へ流れる湘江と南へ流れる漓江を、山の低い鞍部でつなぐ運河を掘った。これが霊渠である。\n\n湘江の水を「鏵嘴」(すきの先の形の堰) で分け、一部を南の漓江へ流す。急な勾配を舟が上り下りできるよう、水をせき止めて水位を上げる「斗門」も置かれた。こうして長江の水系と珠江の水系が舟でつながり、兵と兵糧が南へ運ばれた。\n\n秦は百越の地に南海・桂林・象郡を置いた。霊渠は二千年以上使われ続け、今も水をたたえている。",
+    "en": "To conquer the Hundred Yue of the south the First Emperor sent an army half a million strong — but hauling food over the mountains was hard. Around 214 BC the inspector Lu dug a canal through a low saddle joining the north-flowing Xiang and the south-flowing Li: the Lingqu.\n\nA ploughshare-shaped weir split the Xiang, sending part of it south into the Li; \"bucket gates\" penned the water to lift boats up and down the steep stretches. The Yangzi and Pearl river systems were joined by boat, and men and grain moved south.\n\nQin set up the commanderies of Nanhai, Guilin and Xiang in the lands of the Yue. The Lingqu stayed in use for more than two thousand years, and still holds water today."
+   },
+   "year": 214,
+   "related": [
+    "great_wall",
+    "chidao"
+   ],
+   "people": []
+  },
+  "chidao": {
+   "kind": "wonder",
+   "title": {
+    "ja": "直道",
+    "en": "The Straight Road"
+   },
+   "body": {
+    "ja": "前212年、始皇帝は蒙恬に、都咸陽の北の雲陽から、北辺の九原まで、千八百里にわたる「直道」を造らせた。山をけずり谷を埋めて、ほぼまっすぐに北へ延びる軍用道路である。匈奴が攻めてきたとき、都から北辺へ一気に兵を送るためであった。\n\n始皇帝はほかにも、都から各地へ「馳道」を張り巡らせた。道幅は五十歩、三丈ごとに松を植え、中央は皇帝だけが通る道であった。秦の車軸の幅は統一されていたので、どの道でも同じ車が走れた。\n\n前210年、巡行の途中で死んだ始皇帝の亡骸は、死を隠したまま直道を通って咸陽へ運ばれた。夏の暑さで遺骸が匂うのをごまかすため、車に塩漬けの魚を積んだと『史記』は書く。",
+    "en": "In 212 BC the First Emperor had Meng Tian build the Straight Road, 1,800 li from Yunyang north of the capital Xianyang to Jiuyuan on the northern frontier — a military road running almost due north, cutting through hills and filling valleys, to rush troops from the capital to the frontier if the Xiongnu came.\n\nHe also spread \"speedways\" from the capital across the empire: fifty paces wide, lined with pines every three zhang, the middle lane for the emperor alone. Since axle widths were standard, the same cart could use them all.\n\nIn 210 BC the First Emperor died on a tour; his death was kept secret and his body brought back to Xianyang along the Straight Road. To hide the smell of the corpse in the summer heat, says the Records of the Grand Historian, a cart of salted fish went with it."
+   },
+   "year": 212,
+   "people": [
+    "趙高|Zhao Gao",
+    "李斯|Li Si"
+   ],
+   "related": [
+    "great_wall",
+    "lishan"
+   ]
+  },
+  "lishan": {
+   "kind": "wonder",
+   "title": {
+    "ja": "始皇帝陵と兵馬俑",
+    "en": "The First Emperor's tomb and the terracotta army"
+   },
+   "body": {
+    "ja": "秦王政 (のちの始皇帝) は、即位した前246年から驪山の麓に自分の陵を造り始めた。天下統一の後には七十万人を超える人々を動員したという。『史記』は、地下に宮殿を造り、水銀で川と海を作り、天井には天文を描き、盗掘者を射る仕掛けの弩を置いたと書く。\n\n1974年、陵の東一・五キロの畑で井戸を掘っていた農民が、陶製の兵士の破片を見つけた。兵馬俑である。等身大の兵士と馬、八千体近くが、戦車や弩とともに東を向いて並んでいた。顔は一体ごとに違い、もとは鮮やかに彩色されていた。\n\n陵の本体はまだ発掘されていない。土を調べると、周りよりはるかに多い水銀が見つかっており、『史記』の記述が裏付けられつつある。",
+    "en": "From his accession in 246 BC King Zheng of Qin — the future First Emperor — began his tomb at the foot of Mount Li; after unification more than seven hundred thousand people were set to work on it, it is said. The Records of the Grand Historian tells of an underground palace, rivers and seas of mercury, the heavens painted on the ceiling, and crossbows rigged to shoot robbers.\n\nIn 1974 farmers digging a well a mile and a half east of the mound found fragments of a clay soldier: the terracotta army. Nearly eight thousand life-size soldiers and horses stood facing east with chariots and crossbows, every face different, once brightly painted.\n\nThe tomb itself has not been opened. But the soil over it holds far more mercury than the land around — the old account may be true."
+   },
+   "year": 246,
+   "related": [
+    "afang",
+    "great_wall"
+   ],
+   "people": []
+  },
+  "afang": {
+   "kind": "wonder",
+   "title": {
+    "ja": "阿房宮",
+    "en": "The Epang palace"
+   },
+   "body": {
+    "ja": "前212年、始皇帝は咸陽の宮殿が狭いとして、渭水の南に新しい宮殿を造り始めた。前殿だけで東西五百歩、南北五十丈、上には一万人が座れ、下には五丈の旗を立てられたと『史記』は書く。正式な名がつく前に、仮に「阿房」と呼ばれた。\n\n始皇帝の死後も[[p:二世皇帝]]が工事を続けたが、完成しないうちに秦は滅んだ。前206年、咸陽に入った[[p:項羽]]は宮殿を焼き、火は三か月消えなかったという。\n\nもっとも近年の発掘では、阿房宮の前殿の土台からは焼けた跡がほとんど見つかっていない。焼かれたのは渭水の北の咸陽の宮殿で、阿房宮は土台ができたところで終わったのかもしれない。唐の詩人杜牧の「阿房宮の賦」が、その壮麗な姿を後世に伝えた。",
+    "en": "In 212 BC the First Emperor, finding the palaces of Xianyang too cramped, began a new one south of the Wei river. Its front hall alone was five hundred paces east to west and fifty zhang north to south; ten thousand could sit on its upper floor and banners five zhang tall stand below, says the Records of the Grand Historian. It was called \"Epang\" for the time being, until it should have a proper name.\n\nThe Second Emperor carried on the work, but Qin fell before it was finished. In 206 BC [[p:項羽|Xiang Yu]] entered Xianyang and burned the palaces; the fire burned for three months.\n\nRecent excavation, though, has found almost no trace of burning on the platform of the Epang front hall. What burned may have been the palaces north of the Wei, and Epang may never have got beyond its foundations. It was the Tang poet Du Mu's \"Rhapsody on the Epang Palace\" that gave later ages its splendour."
+   },
+   "year": 212,
+   "people": [
+    "項羽|Xiang Yu",
+    "二世皇帝|the Second Emperor"
+   ],
+   "related": [
+    "lishan"
+   ]
   }
  },
  "goods": [
@@ -4024,6 +4117,49 @@
    "fx": {
     "stability": 0.02
    }
+  }
+ ],
+ "wonders": [
+  {
+   "art": "great_wall",
+   "kind": "long_wall",
+   "at": "yunzhong",
+   "realm": "qin",
+   "begun": 214,
+   "done": 210
+  },
+  {
+   "art": "lingqu",
+   "kind": "grand_canal",
+   "at": "changsha",
+   "realm": "qin",
+   "begun": 219,
+   "done": 214
+  },
+  {
+   "art": "chidao",
+   "kind": "grand_canal",
+   "at": "gaonu",
+   "realm": "qin",
+   "begun": 212,
+   "done": 210
+  },
+  {
+   "art": "lishan",
+   "kind": "palace",
+   "at": "xianyang",
+   "realm": "qin",
+   "begun": 246,
+   "done": 208
+  },
+  {
+   "art": "afang",
+   "kind": "palace",
+   "at": "xianyang",
+   "realm": "qin",
+   "begun": 212,
+   "done": 150,
+   "lost": 206
   }
  ]
 }

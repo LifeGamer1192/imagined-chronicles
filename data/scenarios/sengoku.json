@@ -6472,8 +6472,8 @@
    ],
    "imp": 3,
    "at": "kannonji",
-   "ja": "{r_oda}は琵琶湖のほとりに安土城を築きはじめた。五層七重の天主は、宣教師たちを驚かせた。",
-   "en": "{r_oda} began Azuchi castle by Lake Biwa. Its seven-storeyed keep astonished the missionaries."
+   "ja": "{r_oda}は琵琶湖のほとりに[[a:azuchi_castle|安土城]]を築きはじめた。五層七重の天主は、宣教師たちを驚かせた。",
+   "en": "{r_oda} began [[a:azuchi_castle|Azuchi castle]] by Lake Biwa. Its seven-storeyed keep astonished the missionaries."
   },
   {
    "id": "kizugawa1",
@@ -7160,8 +7160,8 @@
    ],
    "imp": 3,
    "at": "ishiyama",
-   "ja": "{r_oda}は石山の跡に大坂城を築きはじめた。金箔の瓦をいただく天守が城下を見下ろした。",
-   "en": "{r_oda} began Osaka castle on the site of Ishiyama; a keep roofed with gold-leafed tiles looked down on the town."
+   "ja": "{r_oda}は石山の跡に[[a:osaka_castle|大坂城]]を築きはじめた。金箔の瓦をいただく天守が城下を見下ろした。",
+   "en": "{r_oda} began [[a:osaka_castle|Osaka castle]] on the site of Ishiyama; a keep roofed with gold-leafed tiles looked down on the town."
   },
   {
    "id": "komaki",
@@ -7608,8 +7608,8 @@
    ],
    "imp": 3,
    "at": "odawara",
-   "ja": "小田原征伐。二十万を超える軍に囲まれ、三か月の籠城ののち小田原城は開いた。[[p:北条氏政]]は切腹し、五代百年の北条家は滅んだ。",
-   "en": "The siege of Odawara. Surrounded by more than two hundred thousand men, Odawara opened its gates after three months; [[p:北条氏政|Hōjō Ujimasa]] was made to kill himself, and the Hōjō, five generations and a century old, were gone."
+   "ja": "小田原征伐。二十万を超える軍に囲まれ、三か月の籠城ののち[[a:odawara_sogamae|小田原城]]は開いた。[[p:北条氏政]]は切腹し、五代百年の北条家は滅んだ。",
+   "en": "The siege of [[a:odawara_sogamae|Odawara]]. Surrounded by more than two hundred thousand men, [[a:odawara_sogamae|Odawara]] opened its gates after three months; [[p:北条氏政|Hōjō Ujimasa]] was made to kill himself, and the Hōjō, five generations and a century old, were gone."
   },
   {
    "id": "chiba_yuki",
@@ -7674,8 +7674,8 @@
    ],
    "imp": 3,
    "at": "edo",
-   "ja": "{r_tokugawa}は旧領の三河・遠江・駿河・甲斐・信濃を離れ、北条の旧領関東へ移された。家康は小田原ではなく、入江の寒村だった江戸を本拠に選んだ。",
-   "en": "{r_tokugawa} was moved from his old lands to the Kantō of the fallen Hōjō. He chose for his seat not Odawara but Edo, a poor village on an inlet."
+   "ja": "{r_tokugawa}は旧領の三河・遠江・駿河・甲斐・信濃を離れ、北条の旧領関東へ移された。家康は小田原ではなく、入江の寒村だった[[a:edo_castle|江戸]]を本拠に選んだ。",
+   "en": "{r_tokugawa} was moved from his old lands to the Kantō of the fallen Hōjō. He chose for his seat not Odawara but [[a:edo_castle|Edo]], a poor village on an inlet."
   },
   {
    "id": "oshu_shioki",
@@ -8300,8 +8300,8 @@
    ],
    "imp": 3,
    "at": "ishiyama",
-   "ja": "大坂冬の陣。方広寺の鐘の銘を口実に、{r_tokugawa}は大坂城を囲んだ。[[p:真田信繁]]が城の南に築いた出丸 (真田丸) は徳川の兵を寄せつけなかった。和が結ばれたが、大坂城の堀は埋められた。",
-   "en": "The winter siege of Osaka. Taking offence at the inscription on a temple bell, {r_tokugawa} besieged Osaka castle. The outwork [[p:真田信繁|Sanada Nobushige]] built to the south held off every assault; a peace was made, but the castle's moats were filled in."
+   "ja": "大坂冬の陣。[[a:daibutsu|方広寺の鐘の銘]]を口実に、{r_tokugawa}は大坂城を囲んだ。[[p:真田信繁]]が城の南に築いた出丸 (真田丸) は徳川の兵を寄せつけなかった。和が結ばれたが、大坂城の堀は埋められた。",
+   "en": "The winter siege of Osaka. Taking offence at [[a:daibutsu|the inscription on a temple bell]], {r_tokugawa} besieged Osaka castle. The outwork [[p:真田信繁|Sanada Nobushige]] built to the south held off every assault; a peace was made, but the castle's moats were filled in."
   },
   {
    "id": "osaka_summer",
@@ -9683,6 +9683,144 @@
     "noh",
     "chanoyu"
    ]
+  },
+  "azuchi_castle": {
+   "kind": "wonder",
+   "title": {
+    "ja": "安土城",
+    "en": "Azuchi castle"
+   },
+   "body": {
+    "ja": "1576年、[[p:織田信長]]は琵琶湖の東岸、安土山に城を築き始め、三年後に移り住んだ。京にも美濃にも近く、湖の舟で物を運べる要の地である。\n\n城の中心には、五層七重の「天主」がそびえた。外から見れば五重、中は地下を含めて七階。最上階は金色の四角い部屋、その下は朱塗りの八角形の部屋で、壁と襖には[[p:狩野永徳]]の一門が描いた絵が並んだ。宣教師フロイスは「ヨーロッパにもこれほどの建物はない」と書き残している。高い石垣の上に天守を載せる城の形は、ここから全国に広がった。\n\n城下には楽市楽座の掟が出され、商人が集まった。だが1582年、本能寺の変の直後、天主は原因の分からない火事で焼け落ちた。安土城は完成からわずか三年で姿を消した。",
+    "en": "In 1576 [[p:織田信長|Oda Nobunaga]] began a castle on Mount Azuchi on the east shore of Lake Biwa and moved in three years later — a key site near both Kyoto and Mino, with the lake for shipping.\n\nAt its heart rose a seven-storey \"tenshu\": five roofs outside, seven floors within, counting the basement. The top floor was a golden square room, the one below a vermilion octagon, and the walls and screens were covered with paintings by [[p:狩野永徳|Kanō Eitoku]]'s school. The missionary Frois wrote that Europe had no building to match it. The castle with a tall keep on high stone walls spread from here across the country.\n\nBelow it the town had its free-market laws and filled with merchants. But in 1582, just after Honnōji, the keep burned down from causes no one knows. Azuchi had stood only three years."
+   },
+   "year": 1579,
+   "people": [
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "rakuichi",
+    "osaka_castle"
+   ]
+  },
+  "osaka_castle": {
+   "kind": "wonder",
+   "title": {
+    "ja": "大坂城",
+    "en": "Osaka castle"
+   },
+   "body": {
+    "ja": "1583年、豊臣秀吉は石山本願寺の跡地に大坂城を築き始めた。数万の人夫を使い、各地の大名に石を運ばせた。黒漆に金箔の瓦と金の飾りで飾った天守は、天下人の力を示すものであった。\n\n城は外側を堀と曲輪で幾重にも囲まれ、難攻不落と言われた。1614年の冬の陣でも徳川の大軍は攻めあぐね、[[p:真田信繁]]が城の南に築いた出丸 (真田丸) は敵を寄せつけなかった。\n\nしかし和議の条件として外堀を、さらに内堀まで埋められると、大坂城は裸の城となった。1615年の夏の陣で城は燃え落ち、豊臣家は滅んだ。徳川家はのちに、豊臣の城の上に土を盛って埋め、その上に新しい大坂城を築いた。",
+    "en": "In 1583 Toyotomi Hideyoshi began Osaka castle on the site of the Ishiyama Honganji, with tens of thousands of labourers and stone hauled by lords from every province. Its keep, black lacquer with gold-leafed tiles and golden ornaments, proclaimed the power of the ruler of the realm.\n\nRinged with moats and baileys, it was called impregnable. In the winter campaign of 1614 the great Tokugawa army could make no headway, and the outwork [[p:真田信繁|Sanada Nobushige]] built south of the castle — the Sanada-maru — kept the enemy at bay.\n\nBut as the price of peace the outer moat, and then the inner, were filled in, and Osaka stood naked. In the summer campaign of 1615 it burned and the Toyotomi were gone. The Tokugawa later buried the Toyotomi castle under earth and built a new Osaka castle on top of it."
+   },
+   "year": 1583,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "豊臣秀頼|Toyotomi Hideyori",
+    "真田信繁|Sanada Nobushige"
+   ],
+   "related": [
+    "azuchi_castle",
+    "sanada_maru"
+   ]
+  },
+  "jurakudai": {
+   "kind": "wonder",
+   "title": {
+    "ja": "聚楽第",
+    "en": "The Jurakudai"
+   },
+   "body": {
+    "ja": "1586年、関白となった豊臣秀吉は京の内野に、城と御殿を兼ねた壮麗な邸宅「聚楽第」を築き始め、翌年完成させた。「長生不老の楽しみを聚める」という意味の名である。\n\n1588年には後陽成天皇を聚楽第に迎え、諸大名に天皇の前で秀吉への忠誠を誓わせた。天皇の行幸を受けることは、秀吉が天下人であることを世に示す大きな儀式であった。\n\nその後、秀吉は聚楽第を甥で後継ぎの関白豊臣秀次に譲った。ところが1595年、秀吉に実子秀頼が生まれていたこともあって秀次は謀反の疑いをかけられて切腹させられ、聚楽第は跡形もなく取り壊された。わずか八年の栄華であった。",
+    "en": "In 1586, newly regent, Toyotomi Hideyoshi began a splendid palace-fortress in Kyoto, the Jurakudai — \"gathering the joys of long life\" — finished the next year.\n\nIn 1588 he received Emperor Go-Yōzei there and had the lords swear loyalty to him before the emperor; an imperial visit proclaimed him master of the realm.\n\nHideyoshi later handed the Jurakudai to his nephew and heir, the regent Toyotomi Hidetsugu. But in 1595 — Hideyoshi now had a son of his own, Hideyori — Hidetsugu was accused of treason and made to kill himself, and the Jurakudai was razed without a trace. Its glory lasted eight years."
+   },
+   "year": 1586,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "osaka_castle",
+    "daibutsu"
+   ]
+  },
+  "daibutsu": {
+   "kind": "wonder",
+   "title": {
+    "ja": "京の大仏と鐘の銘",
+    "en": "The Great Buddha of Kyoto and the bell inscription"
+   },
+   "body": {
+    "ja": "豊臣秀吉は1586年、京の東山に、奈良の大仏をしのぐ大仏殿を建て始めた。刀狩で集めた刀を釘や鎹にする、と言って百姓から武器を取り上げたのは、この大仏のためであった。\n\n大仏は1595年に完成したが、翌年の大地震で壊れた。秀吉の死後、子の秀頼が再建に取りかかり、1614年に大きな鐘を鋳た。その銘に「国家安康」「君臣豊楽」の句があった。\n\n[[p:徳川家康]]の側は、これを「家康」の名を二つに切って呪い、「豊臣」を君として楽しむ意図だと咎めた。豊臣方の弁明は聞き入れられず、これが大坂冬の陣の口実となった。鐘は今も京都に残り、問題の句は白く囲まれて見ることができる。",
+    "en": "In 1586 Toyotomi Hideyoshi began a Great Buddha hall in eastern Kyoto to outdo the Great Buddha of Nara; it was for this Buddha, he said, that the sword hunt took the farmers' blades to make nails and clamps.\n\nThe image was finished in 1595 and wrecked by a great earthquake the next year. After Hideyoshi's death his son Hideyori rebuilt it, and in 1614 cast a great bell. Its inscription included the phrases \"May the state be peaceful and secure\" and \"lord and vassal rejoice in plenty\".\n\n[[p:徳川家康|Tokugawa Ieyasu]]'s side took offence: the first, they said, cut the characters of \"Ieyasu\" in two as a curse, and the second hailed the Toyotomi as lords. The Toyotomi explanations were not heard, and the bell became the pretext for the winter campaign at Osaka. The bell still hangs in Kyoto, the offending phrases outlined in white."
+   },
+   "year": 1595,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "豊臣秀頼|Toyotomi Hideyori",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "katanagari",
+    "osaka_castle"
+   ]
+  },
+  "odawara_sogamae": {
+   "kind": "wonder",
+   "title": {
+    "ja": "小田原城の総構",
+    "en": "The outer ring of Odawara"
+   },
+   "body": {
+    "ja": "北条家の本拠小田原城は、[[p:上杉謙信]]や[[p:武田信玄]]の大軍に囲まれても落ちなかった堅城である。豊臣秀吉との戦いが近づくと、北条家は1587年から、城だけでなく城下町と田畑まで丸ごと囲む堀と土塁「総構」を築いた。周囲はおよそ九キロに及んだ。\n\n1590年、秀吉は二十万を超える大軍で小田原を囲んだ。北条家は総構に籠もって長期戦を構えたが、秀吉は城を見下ろす石垣山に、わずか八十日ほどで石垣の城を築き、完成すると周りの木を一斉に切り払って、一夜で城が現れたように見せた (石垣山一夜城)。\n\n城内では降伏か籠城かの評定が延々と続き、なかなか決まらなかった。「小田原評定」という言葉はここから生まれたという。三か月の籠城ののち、北条家は城を開き、五代百年の歴史を閉じた。",
+    "en": "Odawara, the Hōjō seat, had held even against the great armies of [[p:上杉謙信|Uesugi Kenshin]] and [[p:武田信玄|Takeda Shingen]]. As war with Toyotomi Hideyoshi loomed, from 1587 the Hōjō ringed not only the castle but the whole town and its fields with a moat and earth rampart — the sōgamae — some nine kilometres around.\n\nIn 1590 Hideyoshi surrounded Odawara with more than two hundred thousand men. The Hōjō settled in for a long siege. On Mount Ishigaki overlooking the castle, Hideyoshi built a stone-walled castle in some eighty days, then cut down the trees in front of it all at once so that it seemed to appear overnight — the \"one-night castle\".\n\nInside, council after council debated surrender or resistance and could decide nothing — \"an Odawara council\" became a byword for endless talk. After three months the Hōjō opened the gates, and five generations and a century of their house came to an end."
+   },
+   "year": 1590,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "北条氏政|Hōjō Ujimasa"
+   ],
+   "related": [
+    "edo_castle"
+   ]
+  },
+  "edo_castle": {
+   "kind": "wonder",
+   "title": {
+    "ja": "江戸城と天下普請",
+    "en": "Edo castle and the national works"
+   },
+   "body": {
+    "ja": "1590年、関東へ移された[[p:徳川家康]]は、本拠を小田原ではなく、入江に面した小さな城と寒村の江戸に置いた。家臣たちを驚かせたこの選択は、水運と広い平野を見込んだものであった。\n\n1603年に将軍となった家康は、全国の大名に命じて江戸城と城下町の工事を分担させた (天下普請)。伊豆の石を船で運び、神田の山を崩して入江を埋め立て、町を造った。1607年には五層の天守が完成した。\n\n天下普請は、大名の財を削いで力を弱める意味もあった。江戸は、のちに人口百万を超える世界有数の都市となっていく。",
+    "en": "Moved to the Kantō in 1590, [[p:徳川家康|Tokugawa Ieyasu]] made his seat not at Odawara but at Edo, a small castle and a poor village on an inlet — a choice that startled his men, made with an eye on water transport and the wide plain.\n\nShogun from 1603, Ieyasu had the lords of the whole country share the work on Edo castle and its town — the \"national works\". Stone came by ship from Izu; the Kanda hills were cut down to fill in the inlet for the town. In 1607 a five-storey keep was finished.\n\nThe national works also drained the lords' purses and so their power. Edo grew into one of the great cities of the world, with more than a million people."
+   },
+   "year": 1603,
+   "people": [
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "odawara_sogamae",
+    "himeji_castle"
+   ]
+  },
+  "himeji_castle": {
+   "kind": "wonder",
+   "title": {
+    "ja": "姫路城",
+    "en": "Himeji castle"
+   },
+   "body": {
+    "ja": "播磨の姫路城は、[[p:羽柴秀吉]]が中国攻めの拠点として三層の天守を築いた城である。関ヶ原の後、[[p:徳川家康]]の娘婿池田輝政が播磨を与えられ、1601年から九年をかけて大きな城に造り替えた。\n\n白漆喰で塗り込めた大天守と三つの小天守が渡り廊下でつながる姿は、羽を広げた白鷺にたとえられ、「白鷺城」と呼ばれる。迷路のように曲がりくねった道、多くの門と狭間は、攻め手を惑わせ、横から撃てるように工夫されている。\n\n姫路城は、西国の大名ににらみを利かせる徳川方の要であった。戦にも火事にも遭わず、江戸時代の天守を今に残す城として、世界の遺産となっている。",
+    "en": "Himeji in Harima was the castle where [[p:羽柴秀吉|Hashiba Hideyoshi]] built a three-storey keep as his base for the western campaigns. After Sekigahara [[p:徳川家康|Tokugawa Ieyasu]] gave Harima to his son-in-law Ikeda Terumasa, who spent nine years from 1601 rebuilding it on a grand scale.\n\nIts great keep and three smaller keeps, plastered white and joined by covered passages, are likened to a white heron spreading its wings — \"the White Heron Castle\". Its winding maze of paths and many gates and loopholes were laid out to confuse attackers and shoot them from the side.\n\nHimeji was a Tokugawa stronghold watching the lords of the west. Spared by war and fire, it keeps its keep of the age to this day, a heritage of the world."
+   },
+   "year": 1609,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "edo_castle",
+    "teppo"
+   ]
   }
  },
  "goods": [
@@ -9912,6 +10050,69 @@
     "arts": 0.04
    },
    "kind": "school"
+  }
+ ],
+ "wonders": [
+  {
+   "art": "azuchi_castle",
+   "kind": "palace",
+   "at": "kannonji",
+   "realm": "oda",
+   "begun": 1576,
+   "done": 1579,
+   "quiet": true,
+   "lost": 1582
+  },
+  {
+   "art": "osaka_castle",
+   "kind": "palace",
+   "at": "ishiyama",
+   "realm": "oda",
+   "begun": 1583,
+   "done": 1585,
+   "quiet": true,
+   "lost": 1615
+  },
+  {
+   "art": "jurakudai",
+   "kind": "palace",
+   "at": "kyoto",
+   "realm": "oda",
+   "begun": 1586,
+   "done": 1587,
+   "lost": 1595
+  },
+  {
+   "art": "daibutsu",
+   "kind": "great_buddha",
+   "at": "kyoto",
+   "realm": "oda",
+   "begun": 1586,
+   "done": 1595
+  },
+  {
+   "art": "odawara_sogamae",
+   "kind": "long_wall",
+   "at": "odawara",
+   "realm": "hojo",
+   "begun": 1587,
+   "done": 1590
+  },
+  {
+   "art": "edo_castle",
+   "kind": "palace",
+   "at": "edo",
+   "realm": "tokugawa",
+   "begun": 1603,
+   "done": 1607
+  },
+  {
+   "art": "himeji_castle",
+   "kind": "palace",
+   "at": "himeji",
+   "realm": "tokugawa",
+   "begun": 1601,
+   "done": 1609
   }
  ]
 }
