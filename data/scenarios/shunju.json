@@ -7190,6 +7190,27 @@
      "builder"
     ]
    }
+  ],
+  [
+   "趙姫",
+   "Lady Zhao",
+   "qin",
+   "hero",
+   280,
+   228,
+   {
+    "from": 259,
+    "sex": "f",
+    "ab": [
+     3,
+     2,
+     5,
+     8
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
   ]
  ],
  "events": [
@@ -12072,6 +12093,17 @@
     "ja": "「士は己を知る者のために死す」。主の智伯を滅ぼした[[p:趙襄子]]を、[[p:豫譲]]は漆を塗って顔を変え、炭を飲んで声を変えてまで狙い続けた。捕らえられると[[p:趙襄子]]の衣を斬って恩を返し、自ら死んだ。",
     "en": "\"A man dies for one who knows him.\" [[p:豫譲|Yu Rang]] stalked [[p:趙襄子|Zhao Xiangzi]], who had destroyed his lord Zhi Bo, disfiguring his face with lacquer and his voice with charcoal. Caught, he slashed Xiangzi's robe in token of revenge and killed himself."
    }
+  ]
+ ],
+ "marriages": [
+  [
+   "荘襄王",
+   "趙姫",
+   {
+    "ja": "邯鄲で人質となっていた秦の公子子楚 ([[p:荘襄王]]) は、商人[[p:呂不韋]]の宴で舞姫の[[p:趙姫]]を見そめ、呂不韋から譲られて妻とした。生まれた子が政、のちの始皇帝である。政の本当の父は呂不韋だという噂は、『史記』にも書かれている。",
+    "en": "Zichu ([[p:荘襄王|King Zhuangxiang]]), a Qin prince held hostage in Handan, fell for the dancer [[p:趙姫|Lady Zhao]] at the merchant [[p:呂不韋|Lü Buwei]]'s feast, and Lü Buwei gave her to him. Their son was Zheng — the First Emperor. The rumour that his true father was Lü Buwei found its way even into the Records of the Grand Historian."
+   },
+   260
   ]
  ]
 }

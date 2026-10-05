@@ -5559,6 +5559,139 @@
      "brave"
     ]
    }
+  ],
+  [
+   "濃姫",
+   "Lady Nō",
+   "saito",
+   "hero",
+   1535,
+   1612,
+   {
+    "from": 1549,
+    "sex": "f",
+    "ab": [
+     4,
+     2,
+     6,
+     7
+    ]
+   }
+  ],
+  [
+   "ねね",
+   "Nene",
+   "oda",
+   "hero",
+   1548,
+   1624,
+   {
+    "from": 1561,
+    "sex": "f",
+    "ab": [
+     7,
+     2,
+     8,
+     8
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "築山殿",
+   "Lady Tsukiyama",
+   "tokugawa",
+   "hero",
+   1542,
+   1579,
+   {
+    "from": 1557,
+    "sex": "f",
+    "ab": [
+     4,
+     2,
+     4,
+     5
+    ]
+   }
+  ],
+  [
+   "まつ",
+   "Matsu",
+   "oda",
+   "hero",
+   1547,
+   1617,
+   {
+    "from": 1558,
+    "sex": "f",
+    "ab": [
+     6,
+     2,
+     7,
+     7
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "江",
+   "Gō",
+   "oda",
+   "hero",
+   1573,
+   1626,
+   {
+    "from": 1592,
+    "sex": "f",
+    "ab": [
+     5,
+     2,
+     6,
+     6
+    ]
+   }
+  ],
+  [
+   "千姫",
+   "Lady Sen",
+   "tokugawa",
+   "hero",
+   1597,
+   1666,
+   {
+    "from": 1603,
+    "sex": "f",
+    "ab": [
+     4,
+     2,
+     5,
+     7
+    ]
+   }
+  ],
+  [
+   "愛姫",
+   "Lady Megohime",
+   "date",
+   "hero",
+   1568,
+   1653,
+   {
+    "from": 1579,
+    "sex": "f",
+    "ab": [
+     5,
+     2,
+     6,
+     6
+    ]
+   }
   ]
  ],
  "events": [
@@ -5838,7 +5971,7 @@
     ]
    ],
    "ja": "松平家康は朝廷の許しを得て、姓を徳川と改めた。",
-   "en": "With the court's leave, Matsudaira Ieyasu changed his family name to Tokugawa."
+   "en": "With the court's leave, [[p:まつ|Matsu]]daira Ieyasu changed his family name to Tokugawa."
   },
   {
    "id": "amago_end",
@@ -8467,7 +8600,7 @@
    "months": 1,
    "deploy": {
     "ja": "[[p:今川義元]]は二万五千と号する大軍で尾張へ入り、松平元康 (家康) らに大高城・鷲津・丸根の砦を攻めさせた。義元の本隊五千ほどは桶狭間の山あいで休息していた。[[p:織田信長]]は清洲から二千ほどで出た。",
-    "en": "[[p:今川義元|Imagawa Yoshimoto]] entered Owari with a host said to number twenty-five thousand, and set Matsudaira Motoyasu (Ieyasu) and others against the Ōdaka castle and the forts of Washizu and Marune. Yoshimoto's own column, five thousand or so, rested in the hollows of Okehazama. [[p:織田信長|Oda Nobunaga]] rode out of Kiyosu with about two thousand."
+    "en": "[[p:今川義元|Imagawa Yoshimoto]] entered Owari with a host said to number twenty-five thousand, and set [[p:まつ|Matsu]]daira Motoyasu (Ieyasu) and others against the Ōdaka castle and the forts of Washizu and Marune. Yoshimoto's own column, five thousand or so, rested in the hollows of Okehazama. [[p:織田信長|Oda Nobunaga]] rode out of Kiyosu with about two thousand."
    },
    "plan": {
     "ja": "信長は夜明けに「敦盛」を舞って出陣し、熱田神宮で兵を集めた。砦が落ちたとの知らせを受けながら、善照寺砦から中島砦へ進み、昼過ぎの激しい雷雨の中を今川本隊に向かって突き進んだ。雨が上がった瞬間に襲いかかられた本隊は崩れ、義元は毛利新介に討たれた。",
@@ -8485,7 +8618,7 @@
    ],
    "after": {
     "ja": "今川家は大きく揺らぎ、松平元康は岡崎で自立した。信長の名は一夜で天下に知られた。",
-    "en": "The Imagawa house was shaken to its roots and Matsudaira Motoyasu made himself independent at Okazaki. Overnight Nobunaga's name was known throughout the land."
+    "en": "The Imagawa house was shaken to its roots and [[p:まつ|Matsu]]daira Motoyasu made himself independent at Okazaki. Overnight Nobunaga's name was known throughout the land."
    },
    "read": [
     "atsumori"
@@ -8979,11 +9112,11 @@
    "months": 1,
    "deploy": {
     "ja": "西軍は[[p:石田三成]]・[[p:宇喜多秀家]]・[[p:小西行長]]・[[p:大谷吉継]]らが関ヶ原の西に陣を敷き、南の松尾山に[[p:小早川秀秋]]、東の南宮山に毛利秀元・吉川広家らが陣取って、東軍を包み込む形をとった。東軍は[[p:福島正則]]を先鋒に、家康は桃配山に本陣を置いた。",
-    "en": "The western army — [[p:石田三成|Ishida Mitsunari]], [[p:宇喜多秀家|Ukita Hideie]], [[p:小西行長|Konishi Yukinaga]], [[p:大谷吉継|Ōtani Yoshitsugu]] and others — drew up on the west side of Sekigahara, with [[p:小早川秀秋|Kobayakawa Hideaki]] on Mount Matsuo to the south and Mōri Hidemoto and Kikkawa Hiroie on Mount Nangū to the east, as if to enfold the eastern army. The east sent [[p:福島正則|Fukushima Masanori]] forward; Ieyasu set his headquarters on Mount Momokubari."
+    "en": "The western army — [[p:石田三成|Ishida Mitsunari]], [[p:宇喜多秀家|Ukita Hideie]], [[p:小西行長|Konishi Yukinaga]], [[p:大谷吉継|Ōtani Yoshitsugu]] and others — drew up on the west side of Sekigahara, with [[p:小早川秀秋|Kobayakawa Hideaki]] on Mount [[p:まつ|Matsu]]o to the south and Mōri Hidemoto and Kikkawa Hiroie on Mount Nangū to the east, as if to enfold the eastern army. The east sent [[p:福島正則|Fukushima Masanori]] forward; Ieyasu set his headquarters on Mount Momokubari."
    },
    "plan": {
     "ja": "朝の霧の中、[[p:井伊直政]]の抜け駆けで戦いが始まった。西軍は善戦し、昼まで一進一退が続いた。毛利勢は吉川広家が東軍と通じていて動かず、松尾山の[[p:小早川秀秋]]も動かなかった。昼過ぎ、家康が松尾山に鉄砲を撃ちかけると (問鉄砲。後世の話ともいう)、秀秋は東軍に寝返って[[p:大谷吉継]]の陣に攻め下った。脇坂ら四将も寝返り、西軍は総崩れとなった。",
-    "en": "In the morning fog [[p:井伊直政|Ii Naomasa]] jumped the start and the battle began. The west fought well, and until noon neither side gave way. The Mōri did not move — Kikkawa Hiroie had a secret understanding with the east — and neither did Kobayakawa on Mount Matsuo. After noon Ieyasu had guns fired at the mountain (a later story, some say); Hideaki went over to the east and charged down on [[p:大谷吉継|Ōtani Yoshitsugu]]. Four more commanders turned, and the western army collapsed."
+    "en": "In the morning fog [[p:井伊直政|Ii Naomasa]] jumped the start and the battle began. The west fought well, and until noon neither side gave way. The Mōri did not move — Kikkawa Hiroie had a secret understanding with the east — and neither did Kobayakawa on Mount [[p:まつ|Matsu]]o. After noon Ieyasu had guns fired at the mountain (a later story, some say); Hideaki went over to the east and charged down on [[p:大谷吉継|Ōtani Yoshitsugu]]. Four more commanders turned, and the western army collapsed."
    },
    "tales": [
     {
@@ -10399,7 +10532,7 @@
    "betrayed",
    {
     "ja": "関ヶ原の昼過ぎ、松尾山の秀秋は東軍に寝返った。",
-    "en": "Past noon at Sekigahara, Hideaki on Mount Matsuo went over to the east."
+    "en": "Past noon at Sekigahara, Hideaki on Mount [[p:まつ|Matsu]]o went over to the east."
    }
   ],
   [
@@ -10596,6 +10729,98 @@
     "ja": "光秀の娘玉 (ガラシャ) は藤孝の子忠興の妻。だが本能寺の後、藤孝は髪を下ろして光秀に味方しなかった。",
     "en": "Mitsuhide's daughter Tama (Gracia) was married to Fujitaka's son; yet after Honnōji Fujitaka shaved his head and would not join Mitsuhide."
    }
+  ]
+ ],
+ "marriages": [
+  [
+   "織田信長",
+   "濃姫",
+   {
+    "ja": "美濃の斎藤道三の娘帰蝶 ([[p:濃姫]])。尾張と美濃の和を結ぶ政略の結婚であった。道三は娘に短刀を持たせ、「信長がうつけなら刺せ」と言うと、娘は「この刀は父上を刺すことになるかもしれません」と答えた、という話が伝わる。",
+    "en": "Kichō ([[p:濃姫|Lady Nō]]), daughter of Saitō Dōsan of Mino: a political match sealing peace between Owari and Mino. Dōsan, the story goes, gave her a dagger to kill Nobunaga if he proved a fool; she answered that it might be her father she used it on."
+   },
+   1549
+  ],
+  [
+   "羽柴秀吉",
+   "ねね",
+   {
+    "ja": "身分の違いを越えた、当時には珍しい恋愛による結婚とも言われる。[[p:ねね]]はのちに北政所と呼ばれ、秀吉の天下を内から支えた。信長はねねに、秀吉の浮気を戒める手紙を送り「あの禿げ鼠にはそなた以上の妻は見つからぬ」と書いている。",
+    "en": "A love match across ranks, rare in that age, it is said. [[p:ねね|Nene]], later called Kita-no-Mandokoro, upheld Hideyoshi's rule from within. Nobunaga wrote her a letter about Hideyoshi's philandering: \"that bald rat will never find a better wife than you.\""
+   },
+   1561
+  ],
+  [
+   "浅井長政",
+   "お市",
+   {
+    "ja": "信長の妹[[p:お市]]は、北近江の[[p:浅井長政]]に嫁いだ。織田と浅井の同盟の証であった。長政が信長に背き、小谷城が落ちたとき、お市は三人の娘 (茶々・初・江) とともに織田の陣へ送り返された。",
+    "en": "Nobunaga's sister [[p:お市|Oichi]] married [[p:浅井長政|Azai Nagamasa]] of northern Ōmi, the pledge of the Oda–Azai alliance. When Nagamasa turned on Nobunaga and Odani fell, Oichi and her three daughters — Chacha, Hatsu and Gō — were sent back to the Oda camp."
+   },
+   1567
+  ],
+  [
+   "柴田勝家",
+   "お市",
+   {
+    "ja": "本能寺の後、清洲会議を経て[[p:お市]]は[[p:柴田勝家]]に再嫁した。翌年、賤ヶ岳で勝家が秀吉に敗れると、二人は北ノ庄城で共に自害した。娘たちは城から逃された。",
+    "en": "After Honnōji and the Kiyosu council, [[p:お市|Oichi]] remarried [[p:柴田勝家|Shibata Katsuie]]. The next year Katsuie was beaten by Hideyoshi at Shizugatake, and the two killed themselves together at Kitanoshō; the daughters were sent out of the castle."
+   },
+   1582
+  ],
+  [
+   "羽柴秀吉",
+   "淀殿",
+   {
+    "ja": "[[p:お市]]の長女茶々は、かつて母を死に追いやった秀吉の側室となった。淀城を与えられて[[p:淀殿]]と呼ばれ、秀頼を生んだ。",
+    "en": "[[p:お市|Oichi]]'s eldest daughter Chacha became the concubine of Hideyoshi, the man who had driven her mother to her death. Given Yodo castle, she was called [[p:淀殿|Lady Yodo]], and bore Hideyori."
+   },
+   1588
+  ],
+  [
+   "徳川家康",
+   "築山殿",
+   {
+    "ja": "[[p:今川義元]]の姪を母に持つ[[p:築山殿]]は、今川家の人質だった若い家康の妻となった。1579年、武田に通じたと疑われ、子の信康とともに死を命じられた。",
+    "en": "[[p:築山殿|Lady Tsukiyama]], whose mother was a niece of [[p:今川義元|Imagawa Yoshimoto]], married the young Ieyasu while he was an Imagawa hostage. In 1579, suspected of dealings with the Takeda, she was put to death, and her son Nobuyasu ordered to kill himself."
+   },
+   1557
+  ],
+  [
+   "前田利家",
+   "まつ",
+   {
+    "ja": "[[p:まつ]]は十二歳で利家に嫁いだ。のちに利家が秀吉と[[p:柴田勝家]]の間で迷ったとき、秀吉との間を取り持ったのはまつであった。関ヶ原の前には自ら江戸へ人質に下り、前田家を守った。",
+    "en": "[[p:まつ|Matsu]] married Toshiie at twelve. When Toshiie wavered between Hideyoshi and [[p:柴田勝家|Shibata Katsuie]], it was she who made his peace with Hideyoshi; before Sekigahara she went to Edo herself as a hostage to keep the Maeda safe."
+   },
+   1558
+  ],
+  [
+   "徳川秀忠",
+   "江",
+   {
+    "ja": "[[p:お市]]の三女江は、三度目の結婚で家康の子秀忠に嫁ぎ、三代将軍家光を生んだ。姉の[[p:淀殿]]は大坂城で徳川と戦い、妹の江は徳川の妻として生きた。",
+    "en": "[[p:お市|Oichi]]'s third daughter Gō, on her third marriage, wed Ieyasu's son Hidetada and bore the third shogun, Iemitsu. Her elder sister [[p:淀殿|Lady Yodo]] fought the Tokugawa at Osaka; Gō lived as a Tokugawa wife."
+   },
+   1595
+  ],
+  [
+   "豊臣秀頼",
+   "千姫",
+   {
+    "ja": "家康の孫[[p:千姫]]は、七歳で秀頼に嫁いだ。秀吉との約束を果たす政略の結婚であった。大坂夏の陣で、千姫は燃える城から救い出された。",
+    "en": "Ieyasu's granddaughter Sen married Hideyori at seven, keeping a promise made to Hideyoshi. In the summer siege of Osaka she was rescued from the burning castle."
+   },
+   1603
+  ],
+  [
+   "伊達政宗",
+   "愛姫",
+   {
+    "ja": "田村家の娘[[p:愛姫]]は、十二歳で政宗に嫁いだ。田村家との同盟が伊達の南奥州での足場となった。",
+    "en": "Megohime of the Tamura married Masamune at twelve; the Tamura alliance was the Date foothold in southern Ōu."
+   },
+   1579
   ]
  ]
 }

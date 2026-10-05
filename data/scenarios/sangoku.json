@@ -3797,6 +3797,114 @@
      "brave"
     ]
    }
+  ],
+  [
+   "大喬",
+   "Elder Qiao",
+   "wu",
+   "hero",
+   180,
+   230,
+   {
+    "from": 199,
+    "sex": "f",
+    "ab": [
+     3,
+     1,
+     4,
+     9
+    ]
+   }
+  ],
+  [
+   "小喬",
+   "Younger Qiao",
+   "wu",
+   "hero",
+   182,
+   235,
+   {
+    "from": 199,
+    "sex": "f",
+    "ab": [
+     3,
+     1,
+     4,
+     9
+    ]
+   }
+  ],
+  [
+   "卞夫人",
+   "Lady Bian",
+   "cao",
+   "hero",
+   160,
+   230,
+   {
+    "from": 179,
+    "sex": "f",
+    "ab": [
+     6,
+     2,
+     6,
+     7
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "甄氏",
+   "Lady Zhen",
+   "yuanshao",
+   "hero",
+   183,
+   221,
+   {
+    "from": 200,
+    "sex": "f",
+    "moves": [
+     [
+      204,
+      "cao"
+     ]
+    ],
+    "ab": [
+     4,
+     1,
+     5,
+     9
+    ]
+   }
+  ],
+  [
+   "黄夫人",
+   "Lady Huang",
+   "liubiao",
+   "hero",
+   185,
+   240,
+   {
+    "from": 205,
+    "sex": "f",
+    "moves": [
+     [
+      208,
+      "shu"
+     ]
+    ],
+    "ab": [
+     7,
+     2,
+     5,
+     4
+    ],
+    "tr": [
+     "genius"
+    ]
+   }
   ]
  ],
  "events": [
@@ -6427,7 +6535,7 @@
     "en": "The Bronze Sparrow Terrace"
    },
    "body": {
-    "ja": "210年、[[p:曹操]]は本拠の鄴の城の北西に、高さ十丈の高殿「銅雀台」を築いた。屋根の上には銅の大きな雀 (鳳凰とも) が羽を広げていた。のちに金虎台・氷井台も並び、「三台」と呼ばれた。\n\n完成すると[[p:曹操]]は子たちを台に登らせ、詩を作らせた。[[p:曹植]]はたちまち見事な賦を作り、[[p:曹操]]を驚かせたという。曹操は遺言で、自分の死後、側女たちを銅雀台に住まわせ、毎月の一日と十五日には台の上で音楽を奏で、自分の陵の方を望ませよと命じた。\n\n後の物語では、[[p:諸葛亮]]が[[p:周瑜]]に「曹操は江東の二喬 (大喬・小喬) を銅雀台に置きたがっている」と言って怒らせ、赤壁の戦いに踏み切らせたことになっている。銅雀台の完成は赤壁の二年後なので、これは物語の創作である。",
+    "ja": "210年、[[p:曹操]]は本拠の鄴の城の北西に、高さ十丈の高殿「銅雀台」を築いた。屋根の上には銅の大きな雀 (鳳凰とも) が羽を広げていた。のちに金虎台・氷井台も並び、「三台」と呼ばれた。\n\n完成すると[[p:曹操]]は子たちを台に登らせ、詩を作らせた。[[p:曹植]]はたちまち見事な賦を作り、[[p:曹操]]を驚かせたという。曹操は遺言で、自分の死後、側女たちを銅雀台に住まわせ、毎月の一日と十五日には台の上で音楽を奏で、自分の陵の方を望ませよと命じた。\n\n後の物語では、[[p:諸葛亮]]が[[p:周瑜]]に「曹操は江東の二喬 ([[p:大喬]]・[[p:小喬]]) を銅雀台に置きたがっている」と言って怒らせ、赤壁の戦いに踏み切らせたことになっている。銅雀台の完成は赤壁の二年後なので、これは物語の創作である。",
     "en": "In 210 [[p:曹操|Cao Cao]] raised a terrace ten zhang high northwest of his seat at Ye — the Bronze Sparrow Terrace, with a great bronze bird (some say a phoenix) spreading its wings on the roof. Gold Tiger and Ice Well terraces later stood beside it: \"the three terraces\".\n\nWhen it was done [[p:曹操|Cao Cao]] had his sons climb it and compose poems; [[p:曹植|Cao Zhi]] dashed off a splendid rhapsody that astonished his father. In his will [[p:曹操|Cao Cao]] ordered that after his death his women live on the terrace, and on the first and fifteenth of every month play music there, looking towards his tomb.\n\nIn the later novel, [[p:諸葛亮|Zhuge Liang]] goads [[p:周瑜|Zhou Yu]] into war at Red Cliffs by telling him Cao Cao wanted to keep the two Qiao sisters of the south on the Bronze Sparrow Terrace. The terrace was finished two years after Red Cliffs; the scene is fiction."
    },
    "year": 210,
@@ -6916,7 +7024,7 @@
    "周瑜",
    "sworn",
    {
-    "ja": "「断金の交わり」。同い年の二人は義兄弟となり、それぞれ大喬・小喬を妻とした。",
+    "ja": "「断金の交わり」。同い年の二人は義兄弟となり、それぞれ[[p:大喬]]・[[p:小喬]]を妻とした。",
     "en": "\"Friendship that could cut metal.\" Born the same year, they became sworn brothers and married the Qiao sisters."
    }
   ],
@@ -7057,6 +7165,62 @@
    "袁紹",
    "沮授",
    "lord"
+  ]
+ ],
+ "marriages": [
+  [
+   "孫策",
+   "大喬",
+   {
+    "ja": "皖城を落とした[[p:孫策]]と[[p:周瑜]]は、喬公の二人の娘を妻とした。孫策は周瑜に「喬公の二人の娘は国中に名高い美人だが、我ら二人を婿にできたのだから喜ぶだろう」と笑ったという。",
+    "en": "Taking Wan, [[p:孫策|Sun Ce]] and [[p:周瑜|Zhou Yu]] married the two daughters of Lord Qiao. \"The Qiao girls are famous beauties,\" Sun Ce laughed to Zhou Yu, \"but with us two for husbands, their father should be pleased.\""
+   },
+   199
+  ],
+  [
+   "周瑜",
+   "小喬",
+   {
+    "ja": "「二喬」の妹。のちの唐の詩人杜牧は、赤壁で東風が吹かなければ二喬は銅雀台に閉じこめられていただろう、と詠んだ。",
+    "en": "The younger of the two Qiaos. The Tang poet Du Mu wrote that had the east wind not blown at Red Cliffs, the two Qiaos would have been locked up in the Bronze Sparrow Terrace."
+   },
+   199
+  ],
+  [
+   "劉備",
+   "孫尚香",
+   {
+    "ja": "赤壁の後、[[p:孫権]]は妹を[[p:劉備]]に嫁がせて同盟を固めた。気の強い孫夫人は侍女百人余りに刀を持たせて控えさせ、劉備は奥に入るたびに心がおびえたという。",
+    "en": "After Red Cliffs [[p:孫権|Sun Quan]] sealed the alliance by marrying his sister to [[p:劉備|Liu Bei]]. Strong-willed [[p:孫尚香|Lady Sun]] kept a hundred maids armed with swords, and Liu Bei went into her rooms with a quaking heart, it is said."
+   },
+   209
+  ],
+  [
+   "曹操",
+   "卞夫人",
+   {
+    "ja": "歌い女の出であった[[p:卞夫人]]は、[[p:董卓]]の乱で[[p:曹操]]が死んだと噂が立ち家臣が逃げようとしたとき、「生死もまだ分からないのに」と押しとどめた。[[p:曹丕]]・[[p:曹植]]の母である。",
+    "en": "Of humble birth, once a singing girl, [[p:卞夫人|Lady Bian]] stopped [[p:曹操|Cao Cao]]'s men from scattering when a rumour said he had died in [[p:董卓|Dong Zhuo]]'s troubles: \"We do not even know if he is dead.\" She was the mother of [[p:曹丕|Cao Pi]] and [[p:曹植|Cao Zhi]]."
+   },
+   179
+  ],
+  [
+   "曹丕",
+   "甄氏",
+   {
+    "ja": "鄴が落ちたとき、[[p:曹丕]]は[[p:袁紹]]の子袁煕の妻[[p:甄氏]]を見て妻とした。のちに寵愛を失い、221年に死を賜った。",
+    "en": "When Ye fell, [[p:曹丕|Cao Pi]] saw [[p:甄氏|Lady Zhen]], wife of [[p:袁紹|Yuan Shao]]'s son Yuan Xi, and took her as his wife. Later she lost his favour and was ordered to die in 221."
+   },
+   204
+  ],
+  [
+   "諸葛亮",
+   "黄夫人",
+   {
+    "ja": "荊州の名士黄承彦は「私の娘は醜いが才は君に釣り合う」と言って娘を[[p:諸葛亮]]に嫁がせた。人々は「孔明の嫁選びを真似るな、阿承の醜い娘をもらうことになる」と笑ったという。",
+    "en": "Huang Chengyan of Jing said: \"My daughter is ugly, but her talent matches yours,\" and gave her to [[p:諸葛亮|Zhuge Liang]]. People joked: \"Don't copy Kongming in choosing a wife — you'll get Old Cheng's plain daughter.\""
+   },
+   207
   ]
  ]
 }

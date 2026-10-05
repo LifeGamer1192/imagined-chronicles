@@ -2399,6 +2399,42 @@
      5
     ]
    }
+  ],
+  [
+   "イミルケ",
+   "Imilce",
+   "carthage",
+   "hero",
+   240,
+   210,
+   {
+    "from": 221,
+    "sex": "f",
+    "ab": [
+     4,
+     1,
+     6,
+     7
+    ]
+   }
+  ],
+  [
+   "アエミリア",
+   "Aemilia",
+   "rome",
+   "hero",
+   230,
+   162,
+   {
+    "from": 215,
+    "sex": "f",
+    "ab": [
+     5,
+     1,
+     6,
+     7
+    ]
+   }
   ]
  ],
  "events": [
@@ -3853,8 +3889,8 @@
     "en": "The silver of Spain"
    },
    "body": {
-    "ja": "第一次ポエニ戦争でシチリアを失ったカルタゴは、ハミルカル・バルカのもとでイベリア半島へ進んだ。目当ての一つが、南東部の山々に眠る銀であった。\n\nハミルカルの婿ハスドルバルは港町カルタゴ・ノウァ (新カルタゴ) を築き、その周りの銀山を開いた。[[p:ハンニバル]]の時代、バエベロという鉱山からは一日に三百ポンドの銀が採れたと、のちにプリニウスが書いている。[[p:ハンニバル]]の妻イミルケも、銀の町カストゥロの出であった。\n\n銀は傭兵の給料となり、象と兵を養い、イタリア遠征を支えた。前209年、スキピオがカルタゴ・ノウァを奇襲で落とすと、銀山と造幣所はローマの手に移り、戦いの流れは大きく変わった。ローマの支配の下で、のちにこの地の銀山では四万人が働いたという。",
-    "en": "Having lost Sicily in the First Punic War, Carthage turned to Iberia under Hamilcar Barca, drawn above all by the silver in the mountains of the southeast.\n\nHamilcar's son-in-law Hasdrubal founded the port of Carthago Nova, \"New Carthage\", and opened the mines around it. In [[p:ハンニバル|Hannibal]]'s day one mine, Baebelo, yielded three hundred pounds of silver a day, Pliny later wrote. [[p:ハンニバル|Hannibal]]'s wife Imilce came from the silver town of Castulo.\n\nThe silver paid the mercenaries, fed the elephants and men, and carried the war into Italy. When Scipio took Carthago Nova by surprise in 209 BC, the mines and the mint passed to Rome and the tide of the war turned. Under Rome, forty thousand men later worked the mines there, it is said."
+    "ja": "第一次ポエニ戦争でシチリアを失ったカルタゴは、ハミルカル・バルカのもとでイベリア半島へ進んだ。目当ての一つが、南東部の山々に眠る銀であった。\n\nハミルカルの婿ハスドルバルは港町カルタゴ・ノウァ (新カルタゴ) を築き、その周りの銀山を開いた。[[p:ハンニバル]]の時代、バエベロという鉱山からは一日に三百ポンドの銀が採れたと、のちにプリニウスが書いている。[[p:ハンニバル]]の妻[[p:イミルケ]]も、銀の町カストゥロの出であった。\n\n銀は傭兵の給料となり、象と兵を養い、イタリア遠征を支えた。前209年、スキピオがカルタゴ・ノウァを奇襲で落とすと、銀山と造幣所はローマの手に移り、戦いの流れは大きく変わった。ローマの支配の下で、のちにこの地の銀山では四万人が働いたという。",
+    "en": "Having lost Sicily in the First Punic War, Carthage turned to Iberia under Hamilcar Barca, drawn above all by the silver in the mountains of the southeast.\n\nHamilcar's son-in-law Hasdrubal founded the port of Carthago Nova, \"New Carthage\", and opened the mines around it. In [[p:ハンニバル|Hannibal]]'s day one mine, Baebelo, yielded three hundred pounds of silver a day, Pliny later wrote. [[p:ハンニバル|Hannibal]]'s wife [[p:イミルケ|Imilce]] came from the silver town of Castulo.\n\nThe silver paid the mercenaries, fed the elephants and men, and carried the war into Italy. When Scipio took Carthago Nova by surprise in 209 BC, the mines and the mint passed to Rome and the tide of the war turned. Under Rome, forty thousand men later worked the mines there, it is said."
    },
    "people": [
     "ハンニバル|Hannibal",
@@ -4536,6 +4572,44 @@
     "ja": "ローマに追われたデメトリオスは、フィリッポスにイタリアへの野心を吹き込んだ。",
     "en": "Driven out by Rome, Demetrius stirred Philip's ambitions towards Italy."
    }
+  ]
+ ],
+ "marriages": [
+  [
+   "ハンニバル",
+   "イミルケ",
+   {
+    "ja": "[[p:ハンニバル]]は、銀の町カストゥロの有力者の娘[[p:イミルケ]]を妻とした。イベリアの人々と結ぶための結婚であった。",
+    "en": "[[p:ハンニバル|Hannibal]] married [[p:イミルケ|Imilce]], daughter of a chief of Castulo, the silver town — a match to bind the Iberians to him."
+   },
+   221
+  ],
+  [
+   "プブリウス・スキピオ",
+   "アエミリア",
+   {
+    "ja": "[[p:アエミリア]]はカンナエで死んだ執政官パウッルスの娘。豪華な装いで知られ、その娘コルネリアはのちにグラックス兄弟の母となる。",
+    "en": "[[p:アエミリア|Aemilia]] was the daughter of Paullus, the consul who died at Cannae. Famous for her splendid dress, she was the mother of Cornelia, mother of the Gracchi."
+   },
+   215
+  ],
+  [
+   "シュファクス",
+   "ソフォニスバ",
+   {
+    "ja": "カルタゴの将[[p:ハスドルバル・ギスコ]]は、娘[[p:ソフォニスバ]]を嫁がせて[[p:シュファクス]]をローマから引き離した。",
+    "en": "The Carthaginian general [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]] married his daughter [[p:ソフォニスバ|Sophonisba]] to [[p:シュファクス|Syphax]] to pry him away from Rome."
+   },
+   205
+  ],
+  [
+   "マシニッサ",
+   "ソフォニスバ",
+   {
+    "ja": "[[p:シュファクス]]を破った[[p:マシニッサ]]は、その日のうちに[[p:ソフォニスバ]]と結婚した。だがローマは彼女の引き渡しを求めた。",
+    "en": "Having beaten [[p:シュファクス|Syphax]], [[p:マシニッサ|Masinissa]] married [[p:ソフォニスバ|Sophonisba]] the same day. Rome demanded her."
+   },
+   203
   ]
  ]
 }

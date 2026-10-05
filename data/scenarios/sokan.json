@@ -2169,6 +2169,24 @@
      "wise"
     ]
    }
+  ],
+  [
+   "戚夫人",
+   "Lady Qi",
+   "liu",
+   "hero",
+   224,
+   194,
+   {
+    "from": 205,
+    "sex": "f",
+    "ab": [
+     3,
+     1,
+     4,
+     9
+    ]
+   }
   ]
  ],
  "events": [
@@ -4412,6 +4430,26 @@
    "冒頓単于",
    "頭曼単于",
    "betrayed"
+  ]
+ ],
+ "marriages": [
+  [
+   "劉邦",
+   "呂雉",
+   {
+    "ja": "沛の宴で、人相見を好む呂公は、見栄を張って「祝儀一万銭」と書いただけで銭を持たずに来た[[p:劉邦]]の顔を見て驚き、娘の[[p:呂雉]]を嫁がせた。呂雉は彭城の後、楚の人質となった。",
+    "en": "At a feast in Pei, Lord Lü, who fancied himself a reader of faces, was struck by [[p:劉邦|Liu Bang]]'s — though Liu Bang had come with nothing and written \"ten thousand cash\" as his gift for show — and gave him his daughter [[p:呂雉|Lü Zhi]]. After Pengcheng she was a prisoner of Chu."
+   },
+   220
+  ],
+  [
+   "劉邦",
+   "戚夫人",
+   {
+    "ja": "[[p:劉邦]]は[[p:戚夫人]]を愛し、その子如意を太子にしようとした。[[p:張良]]の策で太子は守られたが、劉邦の死後、呂后は戚夫人に恐ろしい復讐をした。",
+    "en": "[[p:劉邦|Liu Bang]] loved [[p:戚夫人|Lady Qi]] and wanted her son Ruyi as heir; [[p:張良|Zhang Liang]]'s plan saved the crown prince. After Liu Bang's death, the Empress Lü took a terrible revenge on Lady Qi."
+   },
+   205
   ]
  ]
 }
