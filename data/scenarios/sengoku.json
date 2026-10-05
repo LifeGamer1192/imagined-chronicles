@@ -3897,6 +3897,1551 @@
    "parent": "nanbu"
   }
  ],
- "people": [],
+ "people": [
+  [
+   "柴田勝家",
+   "Shibata Katsuie",
+   "oda",
+   "general",
+   1522,
+   1583,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     9,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "丹羽長秀",
+   "Niwa Nagahide",
+   "oda",
+   "minister",
+   1535,
+   1585,
+   {
+    "from": 1560,
+    "ab": [
+     8,
+     6,
+     6,
+     6
+    ],
+    "tr": [
+     "builder"
+    ]
+   }
+  ],
+  [
+   "滝川一益",
+   "Takigawa Kazumasu",
+   "oda",
+   "general",
+   1525,
+   1586,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     8,
+     6,
+     5
+    ]
+   }
+  ],
+  [
+   "佐久間信盛",
+   "Sakuma Nobumori",
+   "oda",
+   "general",
+   1528,
+   1582,
+   {
+    "from": 1560,
+    "ab": [
+     4,
+     6,
+     5,
+     4
+    ],
+    "tr": [
+     "content"
+    ]
+   }
+  ],
+  [
+   "森可成",
+   "Mori Yoshinari",
+   "oda",
+   "general",
+   1523,
+   1570,
+   {
+    "from": 1560,
+    "ab": [
+     4,
+     8,
+     3,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "前田利家",
+   "Maeda Toshiie",
+   "oda",
+   "general",
+   1538,
+   1599,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     8,
+     6,
+     8
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "池田恒興",
+   "Ikeda Tsuneoki",
+   "oda",
+   "general",
+   1536,
+   1584,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     7,
+     5,
+     6
+    ]
+   }
+  ],
+  [
+   "竹中半兵衛",
+   "Takenaka Hanbei",
+   "saito",
+   "minister",
+   1544,
+   1579,
+   {
+    "from": 1560,
+    "moves": [
+     [
+      1567,
+      "oda"
+     ]
+    ],
+    "ab": [
+     7,
+     8,
+     8,
+     6
+    ],
+    "tr": [
+     "genius",
+     "content"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "明智光秀",
+   "Akechi Mitsuhide",
+   "ashikaga",
+   "general",
+   1528,
+   1582,
+   {
+    "from": 1566,
+    "moves": [
+     [
+      1569,
+      "oda"
+     ]
+    ],
+    "ab": [
+     8,
+     8,
+     7,
+     7
+    ],
+    "tr": [
+     "scholar",
+     "ambitious"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "羽柴秀長",
+   "Hashiba Hidenaga",
+   "oda",
+   "minister",
+   1540,
+   1591,
+   {
+    "from": 1566,
+    "ab": [
+     8,
+     7,
+     8,
+     8
+    ],
+    "tr": [
+     "wise",
+     "kind"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "蜂須賀正勝",
+   "Hachisuka Masakatsu",
+   "oda",
+   "general",
+   1526,
+   1586,
+   {
+    "from": 1566,
+    "ab": [
+     6,
+     7,
+     7,
+     6
+    ]
+   }
+  ],
+  [
+   "黒田官兵衛",
+   "Kuroda Kanbei",
+   "bessho",
+   "minister",
+   1546,
+   1604,
+   {
+    "from": 1567,
+    "moves": [
+     [
+      1577,
+      "oda"
+     ]
+    ],
+    "ab": [
+     8,
+     8,
+     9,
+     6
+    ],
+    "tr": [
+     "genius",
+     "ambitious",
+     "pious"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "松永久秀",
+   "Matsunaga Hisahide",
+   "miyoshi",
+   "minister",
+   1508,
+   1577,
+   {
+    "from": 1560,
+    "moves": [
+     [
+      1568,
+      "oda"
+     ]
+    ],
+    "ab": [
+     8,
+     6,
+     8,
+     5
+    ],
+    "tr": [
+     "cruel",
+     "ambitious"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "細川藤孝",
+   "Hosokawa Fujitaka",
+   "ashikaga",
+   "minister",
+   1534,
+   1610,
+   {
+    "from": 1560,
+    "moves": [
+     [
+      1573,
+      "oda"
+     ]
+    ],
+    "ab": [
+     7,
+     6,
+     8,
+     7
+    ],
+    "tr": [
+     "scholar",
+     "wise"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "お市",
+   "Oichi",
+   "oda",
+   "hero",
+   1547,
+   1583,
+   {
+    "from": 1565,
+    "moves": [
+     [
+      1568,
+      "azai"
+     ],
+     [
+      1573,
+      "oda"
+     ]
+    ],
+    "sex": "f",
+    "ab": [
+     3,
+     2,
+     6,
+     9
+    ],
+    "tr": [
+     "charismatic"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "千利休",
+   "Sen no Rikyū",
+   "miyoshi",
+   "artist",
+   1522,
+   1591,
+   {
+    "from": 1560,
+    "moves": [
+     [
+      1569,
+      "oda"
+     ]
+    ],
+    "ab": [
+     5,
+     1,
+     7,
+     8
+    ],
+    "tr": [
+     "genius"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "今井宗久",
+   "Imai Sōkyū",
+   "miyoshi",
+   "minister",
+   1520,
+   1593,
+   {
+    "from": 1560,
+    "moves": [
+     [
+      1568,
+      "oda"
+     ]
+    ],
+    "ab": [
+     8,
+     2,
+     7,
+     6
+    ],
+    "tr": [
+     "greedy"
+    ]
+   }
+  ],
+  [
+   "九鬼嘉隆",
+   "Kuki Yoshitaka",
+   "oda",
+   "general",
+   1542,
+   1600,
+   {
+    "from": 1569,
+    "ab": [
+     5,
+     8,
+     4,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "荒木村重",
+   "Araki Murashige",
+   "oda",
+   "general",
+   1535,
+   1586,
+   {
+    "from": 1573,
+    "ab": [
+     5,
+     7,
+     5,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "織田信忠",
+   "Oda Nobutada",
+   "oda",
+   "general",
+   1557,
+   1582,
+   {
+    "from": 1572,
+    "ab": [
+     6,
+     7,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "太田牛一",
+   "Ōta Gyūichi",
+   "oda",
+   "scholar",
+   1527,
+   1613,
+   {
+    "from": 1568,
+    "tr": [
+     "scholar"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "狩野永徳",
+   "Kanō Eitoku",
+   "oda",
+   "artist",
+   1543,
+   1590,
+   {
+    "from": 1566,
+    "tr": [
+     "genius"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "長谷川等伯",
+   "Hasegawa Tōhaku",
+   "oda",
+   "artist",
+   1539,
+   1610,
+   {
+    "from": 1571,
+    "fame": 5
+   }
+  ],
+  [
+   "細川ガラシャ",
+   "Hosokawa Gracia",
+   "oda",
+   "hero",
+   1563,
+   1600,
+   {
+    "from": 1578,
+    "sex": "f",
+    "tr": [
+     "pious",
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "石田三成",
+   "Ishida Mitsunari",
+   "oda",
+   "minister",
+   1560,
+   1600,
+   {
+    "from": 1580,
+    "ab": [
+     9,
+     5,
+     6,
+     4
+    ],
+    "tr": [
+     "just",
+     "scholar"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "大谷吉継",
+   "Ōtani Yoshitsugu",
+   "oda",
+   "general",
+   1559,
+   1600,
+   {
+    "from": 1580,
+    "ab": [
+     7,
+     7,
+     6,
+     7
+    ],
+    "tr": [
+     "just",
+     "sickly"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "小西行長",
+   "Konishi Yukinaga",
+   "oda",
+   "general",
+   1558,
+   1600,
+   {
+    "from": 1580,
+    "ab": [
+     6,
+     6,
+     7,
+     6
+    ],
+    "tr": [
+     "pious"
+    ]
+   }
+  ],
+  [
+   "加藤清正",
+   "Katō Kiyomasa",
+   "oda",
+   "general",
+   1562,
+   1611,
+   {
+    "from": 1583,
+    "ab": [
+     7,
+     9,
+     4,
+     6
+    ],
+    "tr": [
+     "brave",
+     "builder"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "福島正則",
+   "Fukushima Masanori",
+   "oda",
+   "general",
+   1561,
+   1624,
+   {
+    "from": 1583,
+    "ab": [
+     4,
+     8,
+     3,
+     6
+    ],
+    "tr": [
+     "brave",
+     "drunkard"
+    ]
+   }
+  ],
+  [
+   "小早川秀秋",
+   "Kobayakawa Hideaki",
+   "oda",
+   "general",
+   1582,
+   1602,
+   {
+    "from": 1597,
+    "ab": [
+     3,
+     4,
+     3,
+     3
+    ],
+    "tr": [
+     "craven"
+    ]
+   }
+  ],
+  [
+   "真田信繁",
+   "Sanada Nobushige",
+   "oda",
+   "general",
+   1567,
+   1615,
+   {
+    "from": 1586,
+    "ab": [
+     5,
+     9,
+     5,
+     8
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "淀殿",
+   "Lady Yodo",
+   "oda",
+   "hero",
+   1569,
+   1615,
+   {
+    "from": 1588,
+    "sex": "f",
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "酒井忠次",
+   "Sakai Tadatsugu",
+   "tokugawa",
+   "general",
+   1527,
+   1596,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     8,
+     6,
+     6
+    ]
+   }
+  ],
+  [
+   "本多忠勝",
+   "Honda Tadakatsu",
+   "tokugawa",
+   "general",
+   1548,
+   1610,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     10,
+     4,
+     6
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "榊原康政",
+   "Sakakibara Yasumasa",
+   "tokugawa",
+   "general",
+   1548,
+   1606,
+   {
+    "from": 1564,
+    "ab": [
+     6,
+     8,
+     5,
+     6
+    ]
+   }
+  ],
+  [
+   "石川数正",
+   "Ishikawa Kazumasa",
+   "tokugawa",
+   "minister",
+   1533,
+   1593,
+   {
+    "from": 1560,
+    "moves": [
+     [
+      1585,
+      "oda"
+     ]
+    ],
+    "ab": [
+     7,
+     6,
+     8,
+     5
+    ]
+   }
+  ],
+  [
+   "本多正信",
+   "Honda Masanobu",
+   "tokugawa",
+   "minister",
+   1538,
+   1616,
+   {
+    "from": 1582,
+    "ab": [
+     8,
+     4,
+     8,
+     5
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "服部半蔵",
+   "Hattori Hanzō",
+   "tokugawa",
+   "general",
+   1542,
+   1596,
+   {
+    "from": 1562,
+    "ab": [
+     5,
+     7,
+     5,
+     4
+    ]
+   }
+  ],
+  [
+   "井伊直政",
+   "Ii Naomasa",
+   "tokugawa",
+   "general",
+   1561,
+   1602,
+   {
+    "from": 1575,
+    "ab": [
+     6,
+     9,
+     5,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "徳川秀忠",
+   "Tokugawa Hidetada",
+   "tokugawa",
+   "general",
+   1579,
+   1632,
+   {
+    "from": 1595,
+    "ab": [
+     7,
+     4,
+     5,
+     5
+    ],
+    "tr": [
+     "content"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "天海",
+   "Tenkai",
+   "tokugawa",
+   "saint",
+   1536,
+   1643,
+   {
+    "from": 1590,
+    "ab": [
+     7,
+     2,
+     7,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "山本勘助",
+   "Yamamoto Kansuke",
+   "takeda",
+   "general",
+   1493,
+   1561,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     8,
+     7,
+     4
+    ],
+    "tr": [
+     "genius"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "武田信繁",
+   "Takeda Nobushige",
+   "takeda",
+   "general",
+   1525,
+   1561,
+   {
+    "from": 1560,
+    "ab": [
+     7,
+     8,
+     6,
+     7
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "馬場信春",
+   "Baba Nobuharu",
+   "takeda",
+   "general",
+   1515,
+   1575,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     9,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "山県昌景",
+   "Yamagata Masakage",
+   "takeda",
+   "general",
+   1529,
+   1575,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     9,
+     4,
+     6
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "高坂昌信",
+   "Kōsaka Masanobu",
+   "takeda",
+   "general",
+   1527,
+   1578,
+   {
+    "from": 1560,
+    "ab": [
+     7,
+     8,
+     6,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "真田幸隆",
+   "Sanada Yukitaka",
+   "takeda",
+   "general",
+   1513,
+   1574,
+   {
+    "from": 1560,
+    "ab": [
+     7,
+     7,
+     8,
+     6
+    ],
+    "tr": [
+     "genius"
+    ]
+   }
+  ],
+  [
+   "真田昌幸",
+   "Sanada Masayuki",
+   "takeda",
+   "general",
+   1547,
+   1611,
+   {
+    "from": 1567,
+    "moves": [
+     [
+      1582,
+      "tokugawa"
+     ],
+     [
+      1585,
+      "oda"
+     ]
+    ],
+    "ab": [
+     8,
+     9,
+     8,
+     7
+    ],
+    "tr": [
+     "genius",
+     "ambitious"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "柿崎景家",
+   "Kakizaki Kageie",
+   "uesugi",
+   "general",
+   1513,
+   1575,
+   {
+    "from": 1560,
+    "ab": [
+     4,
+     8,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "直江兼続",
+   "Naoe Kanetsugu",
+   "uesugi",
+   "minister",
+   1560,
+   1620,
+   {
+    "from": 1580,
+    "ab": [
+     8,
+     7,
+     7,
+     7
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "北条綱成",
+   "Hōjō Tsunashige",
+   "hojo",
+   "general",
+   1515,
+   1587,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     8,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "小早川隆景",
+   "Kobayakawa Takakage",
+   "mori",
+   "minister",
+   1533,
+   1597,
+   {
+    "from": 1560,
+    "ab": [
+     8,
+     8,
+     8,
+     7
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "吉川元春",
+   "Kikkawa Motoharu",
+   "mori",
+   "general",
+   1530,
+   1586,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     10,
+     4,
+     6
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "安国寺恵瓊",
+   "Ankokuji Ekei",
+   "mori",
+   "minister",
+   1539,
+   1600,
+   {
+    "from": 1569,
+    "ab": [
+     6,
+     3,
+     9,
+     6
+    ]
+   }
+  ],
+  [
+   "村上武吉",
+   "Murakami Takeyoshi",
+   "mori",
+   "general",
+   1533,
+   1604,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     8,
+     6,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "山中鹿之介",
+   "Yamanaka Shikanosuke",
+   "amago",
+   "general",
+   1545,
+   1578,
+   {
+    "from": 1563,
+    "moves": [
+     [
+      1569,
+      "oda"
+     ]
+    ],
+    "ab": [
+     5,
+     8,
+     5,
+     7
+    ],
+    "tr": [
+     "brave",
+     "just"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "宇喜多秀家",
+   "Ukita Hideie",
+   "ukita",
+   "general",
+   1572,
+   1655,
+   {
+    "from": 1586,
+    "ab": [
+     5,
+     6,
+     5,
+     7
+    ]
+   }
+  ],
+  [
+   "長宗我部信親",
+   "Chōsokabe Nobuchika",
+   "chosokabe",
+   "general",
+   1565,
+   1586,
+   {
+    "from": 1580,
+    "ab": [
+     6,
+     7,
+     5,
+     7
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "立花道雪",
+   "Tachibana Dōsetsu",
+   "otomo",
+   "general",
+   1513,
+   1585,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     9,
+     5,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "高橋紹運",
+   "Takahashi Jōun",
+   "otomo",
+   "general",
+   1548,
+   1586,
+   {
+    "from": 1567,
+    "ab": [
+     5,
+     8,
+     5,
+     7
+    ],
+    "tr": [
+     "brave",
+     "just"
+    ]
+   }
+  ],
+  [
+   "立花宗茂",
+   "Tachibana Muneshige",
+   "otomo",
+   "general",
+   1567,
+   1643,
+   {
+    "from": 1581,
+    "moves": [
+     [
+      1587,
+      "oda"
+     ]
+    ],
+    "ab": [
+     6,
+     9,
+     6,
+     8
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "島津義弘",
+   "Shimazu Yoshihiro",
+   "shimazu",
+   "general",
+   1535,
+   1619,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     10,
+     5,
+     7
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "島津歳久",
+   "Shimazu Toshihisa",
+   "shimazu",
+   "general",
+   1537,
+   1592,
+   {
+    "from": 1560,
+    "ab": [
+     6,
+     8,
+     6,
+     5
+    ]
+   }
+  ],
+  [
+   "島津家久",
+   "Shimazu Iehisa",
+   "shimazu",
+   "general",
+   1547,
+   1587,
+   {
+    "from": 1566,
+    "ab": [
+     5,
+     9,
+     5,
+     6
+    ],
+    "tr": [
+     "genius"
+    ]
+   }
+  ],
+  [
+   "鍋島直茂",
+   "Nabeshima Naoshige",
+   "ryuzoji",
+   "minister",
+   1538,
+   1618,
+   {
+    "from": 1560,
+    "ab": [
+     8,
+     7,
+     7,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "片倉景綱",
+   "Katakura Kagetsuna",
+   "date",
+   "minister",
+   1557,
+   1615,
+   {
+    "from": 1575,
+    "ab": [
+     7,
+     6,
+     8,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "伊達成実",
+   "Date Shigezane",
+   "date",
+   "general",
+   1568,
+   1646,
+   {
+    "from": 1584,
+    "ab": [
+     5,
+     8,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "支倉常長",
+   "Hasekura Tsunenaga",
+   "date",
+   "explorer",
+   1571,
+   1622,
+   {
+    "from": 1613,
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "下間頼廉",
+   "Shimotsuma Rairen",
+   "ishiyama",
+   "general",
+   1537,
+   1626,
+   {
+    "from": 1570,
+    "ab": [
+     5,
+     7,
+     6,
+     6
+    ],
+    "tr": [
+     "pious"
+    ]
+   }
+  ],
+  [
+   "鈴木孫一",
+   "Suzuki Magoichi",
+   "saika",
+   "general",
+   1534,
+   1589,
+   {
+    "from": 1560,
+    "ab": [
+     4,
+     8,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "ルイス・フロイス",
+   "Luís Fróis",
+   "ashikaga",
+   "saint",
+   1532,
+   1597,
+   {
+    "from": 1565,
+    "moves": [
+     [
+      1569,
+      "oda"
+     ]
+    ],
+    "tr": [
+     "pious",
+     "scholar"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "ヴァリニャーノ",
+   "Alessandro Valignano",
+   "arima",
+   "saint",
+   1539,
+   1606,
+   {
+    "from": 1579,
+    "tr": [
+     "pious"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "出雲阿国",
+   "Izumo no Okuni",
+   "tokugawa",
+   "artist",
+   1572,
+   1613,
+   {
+    "from": 1603,
+    "sex": "f",
+    "tr": [
+     "charismatic"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "宮本武蔵",
+   "Miyamoto Musashi",
+   "tokugawa",
+   "hero",
+   1584,
+   1645,
+   {
+    "from": 1604,
+    "ab": [
+     3,
+     9,
+     2,
+     6
+    ],
+    "tr": [
+     "warrior"
+    ],
+    "fame": 6
+   }
+  ]
+ ],
  "events": []
 }
