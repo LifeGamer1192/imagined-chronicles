@@ -1,224 +1,6831 @@
 {
-  "id": "shunju",
-  "name": { "ja": "春秋戦国", "en": "Spring and Autumn and Warring States" },
-  "startYear": -721,
-  "endYear": -220,
-  "box": { "lat": 34.0, "lng": 113.6, "km": 2400 },
-  "style": "east",
-  "pool": "cn",
-  "visual": "ink",
-  "cultures": [
-    { "id": "hua", "name": { "ja": "華夏", "en": "Huaxia" }, "color": "#c9a46a", "religion": 0 },
-    { "id": "chu", "name": { "ja": "荊楚", "en": "Jingchu" }, "color": "#b0563d", "religion": 0 },
-    { "id": "wuyue", "name": { "ja": "呉越", "en": "Wu-Yue" }, "color": "#4f8a7a", "religion": 0 },
-    { "id": "bashu", "name": { "ja": "巴蜀", "en": "Ba-Shu" }, "color": "#8a6aa8", "religion": 1 },
-    { "id": "rongdi", "name": { "ja": "戎狄", "en": "Rong-Di" }, "color": "#7d7d55", "religion": 1 },
-    { "id": "dongyi", "name": { "ja": "東夷", "en": "Dongyi" }, "color": "#5f7fa6", "religion": 1 },
-    { "id": "pu", "name": { "ja": "百濮", "en": "Baipu" }, "color": "#6f8f4a", "religion": 1 }
+ "id": "shunju",
+ "name": {
+  "ja": "春秋戦国",
+  "en": "Spring and Autumn and Warring States"
+ },
+ "startYear": -721,
+ "endYear": -220,
+ "box": {
+  "lat": 34,
+  "lng": 113.6,
+  "km": 2400
+ },
+ "style": "east",
+ "pool": "cn",
+ "visual": "ink",
+ "cultures": [
+  {
+   "id": "hua",
+   "name": {
+    "ja": "華夏",
+    "en": "Huaxia"
+   },
+   "color": "#c9a46a",
+   "religion": 0
+  },
+  {
+   "id": "chu",
+   "name": {
+    "ja": "荊楚",
+    "en": "Jingchu"
+   },
+   "color": "#b0563d",
+   "religion": 0
+  },
+  {
+   "id": "wuyue",
+   "name": {
+    "ja": "呉越",
+    "en": "Wu-Yue"
+   },
+   "color": "#4f8a7a",
+   "religion": 0
+  },
+  {
+   "id": "bashu",
+   "name": {
+    "ja": "巴蜀",
+    "en": "Ba-Shu"
+   },
+   "color": "#8a6aa8",
+   "religion": 1
+  },
+  {
+   "id": "rongdi",
+   "name": {
+    "ja": "戎狄",
+    "en": "Rong-Di"
+   },
+   "color": "#7d7d55",
+   "religion": 1
+  },
+  {
+   "id": "dongyi",
+   "name": {
+    "ja": "東夷",
+    "en": "Dongyi"
+   },
+   "color": "#5f7fa6",
+   "religion": 1
+  },
+  {
+   "id": "pu",
+   "name": {
+    "ja": "百濮",
+    "en": "Baipu"
+   },
+   "color": "#6f8f4a",
+   "religion": 1
+  }
+ ],
+ "religions": [
+  {
+   "name": {
+    "ja": "華夏",
+    "en": "Huaxia"
+   },
+   "doctrine": "ancestors",
+   "place": "luoyi"
+  },
+  {
+   "name": {
+    "ja": "諸族",
+    "en": "Tribal"
+   },
+   "doctrine": "nature",
+   "place": "quanrong"
+  }
+ ],
+ "places": [
+  [
+   "luoyi",
+   "洛邑",
+   "Luoyi",
+   34.68,
+   112.45,
+   3
   ],
-  "religions": [
-    { "name": { "ja": "華夏", "en": "Huaxia" }, "doctrine": "ancestors", "place": "luoyi" },
-    { "name": { "ja": "諸族", "en": "Tribal" }, "doctrine": "nature", "place": "quanrong" }
+  [
+   "gong",
+   "鞏",
+   "Gong",
+   34.75,
+   113,
+   1
   ],
-  "places": [
-    ["luoyi", "洛邑", "Luoyi", 34.68, 112.45, 3],
-    ["gong", "鞏", "Gong", 34.75, 113.0, 1],
-    ["qufu", "曲阜", "Qufu", 35.6, 116.99, 3],
-    ["fei", "費", "Bi", 35.27, 117.97, 1],
-    ["linzi", "臨淄", "Linzi", 36.85, 118.3, 3],
-    ["jimo", "即墨", "Jimo", 36.75, 119.95, 2],
-    ["gaotang", "高唐", "Gaotang", 36.86, 116.23, 1],
-    ["ea", "阿", "E", 36.33, 116.25, 1],
-    ["yi", "翼", "Yi", 35.71, 111.72, 2],
-    ["quwo", "曲沃", "Quwo", 35.35, 111.22, 2],
-    ["xintian", "新田", "Xintian", 35.62, 111.35, 2],
-    ["pingyang", "平陽", "Pingyang", 36.08, 111.52, 1],
-    ["anyi", "安邑", "Anyi", 35.11, 111.22, 2],
-    ["jinyang", "晋陽", "Jinyang", 37.8, 112.55, 2],
-    ["handan", "邯鄲", "Handan", 36.6, 114.48, 2],
-    ["zhongmou", "中牟", "Zhongmou", 35.9, 114.3, 1],
-    ["yiyang", "宜陽", "Yiyang", 34.52, 112.18, 1],
-    ["daliang", "大梁", "Daliang", 34.8, 114.33, 2],
-    ["pingji", "汧渭之会", "Qianwei", 34.36, 107.24, 2],
-    ["xichui", "西垂", "Xichui", 34.19, 105.17, 1],
-    ["yong", "雍", "Yong", 34.52, 107.38, 2],
-    ["yueyang", "櫟陽", "Yueyang", 34.68, 109.25, 1],
-    ["xianyang", "咸陽", "Xianyang", 34.33, 108.7, 2],
-    ["danyang", "丹陽", "Danyang", 30.45, 111.75, 2],
-    ["ying", "郢", "Ying", 30.43, 112.18, 3],
-    ["wan", "宛", "Wan", 33.0, 112.53, 2],
-    ["shouchun", "寿春", "Shouchun", 32.58, 116.78, 2],
-    ["e_chu", "鄂", "E", 30.39, 114.89, 1],
-    ["changsha", "長沙", "Changsha", 28.2, 112.97, 1],
-    ["shangqiu", "商丘", "Shangqiu", 34.41, 115.65, 3],
-    ["pengcheng", "彭城", "Pengcheng", 34.27, 117.18, 2],
-    ["zhaoge", "朝歌", "Zhaoge", 35.62, 114.2, 2],
-    ["diqiu", "帝丘", "Diqiu", 35.76, 115.03, 1],
-    ["xinzheng", "新鄭", "Xinzheng", 34.4, 113.74, 3],
-    ["jing_zheng", "京", "Jing", 34.79, 113.36, 1],
-    ["wanqiu", "宛丘", "Wanqiu", 33.73, 114.88, 2],
-    ["shangcai", "上蔡", "Shangcai", 33.26, 114.26, 2],
-    ["taoqiu", "陶丘", "Taoqiu", 35.07, 115.57, 2],
-    ["ji_yan", "薊", "Ji", 39.88, 116.35, 2],
-    ["xiadu", "易", "Yi", 39.33, 115.48, 1],
-    ["xu_city", "許", "Xu", 34.04, 113.86, 1],
-    ["yongqiu", "雍丘", "Yongqiu", 34.55, 114.78, 1],
-    ["ju", "莒", "Ju", 35.58, 118.83, 1],
-    ["zhu", "邾", "Zhu", 35.4, 117.0, 1],
-    ["teng", "滕", "Teng", 35.08, 117.17, 1],
-    ["ji_state", "紀", "Ji", 36.88, 118.74, 1],
-    ["shangyang", "上陽", "Shangyang", 34.77, 111.19, 1],
-    ["yu_state", "虞", "Yu", 34.95, 111.0, 1],
-    ["xi_state", "息", "Xi", 32.35, 114.73, 1],
-    ["shen_state", "申", "Shen", 32.95, 112.55, 1],
-    ["deng", "鄧", "Deng", 32.0, 112.1, 1],
-    ["sui", "随", "Sui", 31.69, 113.38, 1],
-    ["huang", "黄", "Huang", 32.13, 115.05, 1],
-    ["xu_huai", "徐", "Xu", 33.47, 118.22, 1],
-    ["meili", "梅里", "Meili", 31.55, 120.4, 2],
-    ["gusu", "姑蘇", "Gusu", 31.3, 120.6, 2],
-    ["kuaiji", "会稽", "Kuaiji", 30.0, 120.58, 2],
-    ["jiangzhou", "江州", "Jiangzhou", 29.56, 106.55, 1],
-    ["pi", "郫", "Pi", 30.81, 103.89, 2],
-    ["chengdu", "成都", "Chengdu", 30.66, 104.06, 2],
-    ["shangyong", "上庸", "Shangyong", 32.23, 110.23, 1],
-    ["shu_huai", "舒", "Shu", 31.25, 117.29, 1],
-    ["liu", "六", "Liu", 31.75, 116.5, 1],
-    ["lai", "萊", "Lai", 36.95, 119.6, 1],
-    ["rui", "芮", "Rui", 35.48, 110.45, 1],
-    ["xing", "邢", "Xing", 37.06, 114.5, 1],
-    ["shen_cai", "沈", "Shen", 32.96, 114.62, 1],
-    ["xianyu", "鮮虞", "Xianyu", 38.3, 114.9, 1],
-    ["lu_di", "潞", "Lu", 36.2, 113.1, 1],
-    ["baidi", "白狄", "Baidi", 36.6, 109.5, 1],
-    ["quanrong", "犬戎", "Quanrong", 35.5, 106.7, 1],
-    ["shanrong", "山戎", "Shanrong", 40.5, 117.5, 1],
-    ["huaiyi", "淮夷", "Huaiyi", 33.3, 119.3, 1],
-    ["qunman", "群蛮", "Qunman", 28.9, 111.0, 1],
-    ["lirong", "驪戎", "Lirong", 34.37, 109.21, 1],
-    ["linhu", "林胡", "Linhu", 39.6, 111.8, 1],
-    ["yiqu", "義渠", "Yiqu", 36.0, 107.9, 1],
-    ["jimo_e", "琅邪", "Langya", 35.6, 119.5, 1]
+  [
+   "qufu",
+   "曲阜",
+   "Qufu",
+   35.6,
+   116.99,
+   3
   ],
-  "realms": [
-    { "id": "zhou", "label": { "ja": "周", "en": "the Zhou royal domain" }, "root": { "ja": "周", "en": "Zhou" }, "gov": "monarchy", "rank": { "ja": "王", "en": "King" },
-      "color": "#c8a24a", "culture": "hua", "capital": "luoyi", "places": ["gong"], "reach": 80, "house": { "ja": "姫", "en": "Ji" }, "power": 1.6,
-      "ruler": { "name": { "ja": "平王", "en": "King Ping" }, "born": -789, "since": -769, "abilities": [4, 3, 5, 5], "traits": ["content"] },
-      "heir": { "name": { "ja": "姫林", "en": "Ji Lin" }, "born": -740 } },
-    { "id": "lu", "label": { "ja": "魯", "en": "the State of Lu" }, "root": { "ja": "魯", "en": "Lu" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#9c6b3a", "culture": "hua", "capital": "qufu", "places": ["fei"], "reach": 75, "house": { "ja": "姫", "en": "Ji" }, "power": 1.3,
-      "ruler": { "name": { "ja": "隠公", "en": "Duke Yin" }, "born": -748, "since": -721, "abilities": [5, 4, 6, 6], "traits": ["kind", "content"] },
-      "heir": { "name": { "ja": "桓公", "en": "Duke Huan" }, "born": -729 } },
-    { "id": "qi", "label": { "ja": "斉", "en": "the State of Qi" }, "root": { "ja": "斉", "en": "Qi" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#3f6e9e", "culture": "hua", "capital": "linzi", "places": ["jimo", "gaotang", "ea"], "reach": 140, "house": { "ja": "姜", "en": "Jiang" }, "power": 1.4,
-      "ruler": { "name": { "ja": "僖公", "en": "Duke Xi" }, "born": -760, "since": -729, "abilities": [6, 5, 7, 6], "traits": ["ambitious"] },
-      "heir": { "name": { "ja": "襄公", "en": "Duke Xiang" }, "born": -735 } },
-    { "id": "jin", "label": { "ja": "晋", "en": "the State of Jin" }, "root": { "ja": "晋", "en": "Jin" }, "gov": "monarchy", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#5b4a8b", "culture": "hua", "capital": "yi", "places": ["pingyang"], "reach": 70, "house": { "ja": "姫", "en": "Ji" },
-      "ruler": { "name": { "ja": "鄂侯", "en": "Marquis E" }, "born": -745, "since": -722, "abilities": [4, 4, 4, 4] } },
-    { "id": "quwo", "label": { "ja": "曲沃", "en": "Quwo" }, "root": { "ja": "曲沃", "en": "Quwo" }, "gov": "monarchy", "rank": { "ja": "伯", "en": "Earl" },
-      "color": "#7a3f7a", "culture": "hua", "capital": "quwo", "places": ["anyi", "xintian"], "reach": 60, "house": { "ja": "姫", "en": "Ji" }, "power": 1.2,
-      "ruler": { "name": { "ja": "荘伯", "en": "Earl Zhuang" }, "born": -755, "since": -729, "abilities": [5, 7, 4, 5], "traits": ["ambitious", "warrior"] },
-      "heir": { "name": { "ja": "武公", "en": "Duke Wu" }, "born": -738, "abilities": [6, 8, 5, 6], "traits": ["ambitious"] } },
-    { "id": "qin", "label": { "ja": "秦", "en": "the State of Qin" }, "root": { "ja": "秦", "en": "Qin" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#2f2f2f", "culture": "hua", "capital": "pingji", "places": ["xichui"], "reach": 140, "house": { "ja": "嬴", "en": "Ying" },
-      "ruler": { "name": { "ja": "文公", "en": "Duke Wen" }, "born": -785, "since": -764, "abilities": [6, 6, 4, 5], "traits": ["builder"] } },
-    { "id": "chu", "label": { "ja": "楚", "en": "the State of Chu" }, "root": { "ja": "楚", "en": "Chu" }, "gov": "monarchy", "rank": { "ja": "王", "en": "King" },
-      "color": "#b5452f", "culture": "chu", "capital": "danyang", "places": [], "reach": 140, "house": { "ja": "羋", "en": "Mi" }, "power": 1.3,
-      "ruler": { "name": { "ja": "武王", "en": "King Wu" }, "born": -760, "since": -739, "abilities": [6, 8, 5, 7], "traits": ["ambitious", "warrior"] },
-      "heir": { "name": { "ja": "文王", "en": "King Wen" }, "born": -725 } },
-    { "id": "song", "label": { "ja": "宋", "en": "the State of Song" }, "root": { "ja": "宋", "en": "Song" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#c0752e", "culture": "hua", "capital": "shangqiu", "places": ["pengcheng"], "reach": 95, "house": { "ja": "子", "en": "Zi" }, "power": 1.2,
-      "ruler": { "name": { "ja": "穆公", "en": "Duke Mu" }, "born": -760, "since": -727, "abilities": [5, 4, 5, 6], "traits": ["just"] } },
-    { "id": "wey", "label": { "ja": "衛", "en": "the State of Wey" }, "root": { "ja": "衛", "en": "Wey" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#4a8a5c", "culture": "hua", "capital": "zhaoge", "places": ["diqiu", "zhongmou"], "reach": 90, "house": { "ja": "姫", "en": "Ji" },
-      "ruler": { "name": { "ja": "桓公", "en": "Duke Huan" }, "born": -755, "since": -733, "abilities": [4, 4, 4, 4] } },
-    { "id": "zheng", "label": { "ja": "鄭", "en": "the State of Zheng" }, "root": { "ja": "鄭", "en": "Zheng" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#2f7f8f", "culture": "hua", "capital": "xinzheng", "places": ["jing_zheng"], "reach": 80, "house": { "ja": "姫", "en": "Ji" }, "power": 1.5,
-      "ruler": { "name": { "ja": "荘公", "en": "Duke Zhuang" }, "born": -756, "since": -742, "abilities": [8, 8, 8, 6], "traits": ["ambitious", "genius"] },
-      "heir": { "name": { "ja": "昭公", "en": "Duke Zhao" }, "born": -735 } },
-    { "id": "chen", "label": { "ja": "陳", "en": "the State of Chen" }, "root": { "ja": "陳", "en": "Chen" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#a08a3a", "culture": "hua", "capital": "wanqiu", "places": [], "reach": 65, "house": { "ja": "嬀", "en": "Gui" },
-      "ruler": { "name": { "ja": "桓公", "en": "Duke Huan" }, "born": -765, "since": -743, "abilities": [5, 4, 5, 5] } },
-    { "id": "cai", "label": { "ja": "蔡", "en": "the State of Cai" }, "root": { "ja": "蔡", "en": "Cai" }, "gov": "monarchy", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#6a8f3a", "culture": "hua", "capital": "shangcai", "places": [], "reach": 65, "house": { "ja": "姫", "en": "Ji" },
-      "ruler": { "name": { "ja": "宣侯", "en": "Marquis Xuan" }, "born": -770, "since": -748, "abilities": [4, 4, 5, 4] } },
-    { "id": "cao", "label": { "ja": "曹", "en": "the State of Cao" }, "root": { "ja": "曹", "en": "Cao" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#8f5f7f", "culture": "hua", "capital": "taoqiu", "places": [], "reach": 45, "house": { "ja": "姫", "en": "Ji" },
-      "ruler": { "name": { "ja": "桓公", "en": "Duke Huan" }, "born": -775, "since": -754, "abilities": [4, 3, 4, 4] } },
-    { "id": "yan", "label": { "ja": "燕", "en": "the State of Yan" }, "root": { "ja": "燕", "en": "Yan" }, "gov": "monarchy", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#3a5f8a", "culture": "hua", "capital": "ji_yan", "places": ["xiadu"], "reach": 130, "house": { "ja": "姫", "en": "Ji" },
-      "ruler": { "name": { "ja": "穆侯", "en": "Marquis Mu" }, "born": -750, "since": -727, "abilities": [4, 5, 4, 4] } },
-    { "id": "qi_state", "label": { "ja": "杞", "en": "the State of Qǐ" }, "root": { "ja": "杞", "en": "Qǐ" }, "gov": "monarchy", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#9a7a5a", "culture": "hua", "capital": "yongqiu", "places": [], "reach": 40, "house": { "ja": "姒", "en": "Si" },
-      "ruler": { "name": { "ja": "武公", "en": "Duke Wu" }, "born": -770, "since": -749, "abilities": [3, 3, 4, 3] } },
-    { "id": "xu", "label": { "ja": "許", "en": "the State of Xu" }, "root": { "ja": "許", "en": "Xu" }, "gov": "chiefdom", "rank": { "ja": "男", "en": "Baron" },
-      "color": "#7a9a8a", "culture": "hua", "capital": "xu_city", "places": [], "reach": 35, "house": { "ja": "姜", "en": "Jiang" },
-      "ruler": { "name": { "ja": "荘公", "en": "Baron Zhuang" }, "born": -755, "since": -735, "abilities": [3, 3, 4, 4] } },
-    { "id": "ju", "label": { "ja": "莒", "en": "the State of Ju" }, "root": { "ja": "莒", "en": "Ju" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#5a6f8f", "culture": "dongyi", "capital": "ju", "places": ["jimo_e"], "reach": 55, "house": { "ja": "己", "en": "Ji" } },
-    { "id": "zhu", "label": { "ja": "邾", "en": "the State of Zhu" }, "root": { "ja": "邾", "en": "Zhu" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#8a7a4a", "culture": "dongyi", "capital": "zhu", "places": [], "reach": 30, "house": { "ja": "曹", "en": "Cao" },
-      "ruler": { "name": { "ja": "儀父", "en": "Yifu" }, "born": -755, "since": -730, "abilities": [4, 3, 5, 4] } },
-    { "id": "teng", "label": { "ja": "滕", "en": "the State of Teng" }, "root": { "ja": "滕", "en": "Teng" }, "gov": "chiefdom", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#7f8f5a", "culture": "hua", "capital": "teng", "places": [], "reach": 25, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "ji_state", "label": { "ja": "紀", "en": "the State of Ji" }, "root": { "ja": "紀", "en": "Ji" }, "gov": "chiefdom", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#5f8fa0", "culture": "hua", "capital": "ji_state", "places": [], "reach": 40, "house": { "ja": "姜", "en": "Jiang" } },
-    { "id": "guo", "label": { "ja": "虢", "en": "the State of Guo" }, "root": { "ja": "虢", "en": "Guo" }, "gov": "chiefdom", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#a06a5a", "culture": "hua", "capital": "shangyang", "places": [], "reach": 45, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "yu", "label": { "ja": "虞", "en": "the State of Yu" }, "root": { "ja": "虞", "en": "Yu" }, "gov": "chiefdom", "rank": { "ja": "公", "en": "Duke" },
-      "color": "#8a5a4a", "culture": "hua", "capital": "yu_state", "places": [], "reach": 30, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "rui", "label": { "ja": "芮", "en": "the State of Rui" }, "root": { "ja": "芮", "en": "Rui" }, "gov": "chiefdom", "rank": { "ja": "伯", "en": "Earl" },
-      "color": "#6a5a8a", "culture": "hua", "capital": "rui", "places": [], "reach": 35, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "xing", "label": { "ja": "邢", "en": "the State of Xing" }, "root": { "ja": "邢", "en": "Xing" }, "gov": "chiefdom", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#4f7f6f", "culture": "hua", "capital": "xing", "places": ["handan"], "reach": 50, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "xi", "label": { "ja": "息", "en": "the State of Xi" }, "root": { "ja": "息", "en": "Xi" }, "gov": "chiefdom", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#8f6f9f", "culture": "hua", "capital": "xi_state", "places": [], "reach": 35, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "shen", "label": { "ja": "申", "en": "the State of Shen" }, "root": { "ja": "申", "en": "Shen" }, "gov": "chiefdom", "rank": { "ja": "伯", "en": "Earl" },
-      "color": "#9f8f5f", "culture": "hua", "capital": "shen_state", "places": ["wan"], "reach": 50, "house": { "ja": "姜", "en": "Jiang" } },
-    { "id": "deng", "label": { "ja": "鄧", "en": "the State of Deng" }, "root": { "ja": "鄧", "en": "Deng" }, "gov": "chiefdom", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#7f6f4f", "culture": "hua", "capital": "deng", "places": [], "reach": 40, "house": { "ja": "曼", "en": "Man" } },
-    { "id": "sui", "label": { "ja": "随", "en": "the State of Sui" }, "root": { "ja": "随", "en": "Sui" }, "gov": "chiefdom", "rank": { "ja": "侯", "en": "Marquis" },
-      "color": "#5f6f9f", "culture": "hua", "capital": "sui", "places": [], "reach": 50, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "huang", "label": { "ja": "黄", "en": "the State of Huang" }, "root": { "ja": "黄", "en": "Huang" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#b09a4a", "culture": "hua", "capital": "huang", "places": [], "reach": 40, "house": { "ja": "嬴", "en": "Ying" } },
-    { "id": "shen_c", "label": { "ja": "沈", "en": "the State of Shen" }, "root": { "ja": "沈", "en": "Shen" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#6f8f7f", "culture": "hua", "capital": "shen_cai", "places": [], "reach": 25, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "xu_h", "label": { "ja": "徐", "en": "the State of Xu (Huai)" }, "root": { "ja": "徐", "en": "Xú" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#8a6a3a", "culture": "dongyi", "capital": "xu_huai", "places": [], "reach": 70, "house": { "ja": "嬴", "en": "Ying" } },
-    { "id": "wu", "label": { "ja": "呉", "en": "the State of Wu" }, "root": { "ja": "呉", "en": "Wu" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#2f8f6f", "culture": "wuyue", "capital": "meili", "places": ["gusu"], "reach": 110, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "yue", "label": { "ja": "越", "en": "the State of Yue" }, "root": { "ja": "越", "en": "Yue" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#3f9f9f", "culture": "wuyue", "capital": "kuaiji", "places": [], "reach": 120, "house": { "ja": "姒", "en": "Si" } },
-    { "id": "ba", "label": { "ja": "巴", "en": "the State of Ba" }, "root": { "ja": "巴", "en": "Ba" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#9f5f8f", "culture": "bashu", "capital": "jiangzhou", "places": [], "reach": 160, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "shu", "label": { "ja": "蜀", "en": "the State of Shu" }, "root": { "ja": "蜀", "en": "Shu" }, "gov": "chiefdom", "rank": { "ja": "王", "en": "King" },
-      "color": "#7f4f9f", "culture": "bashu", "capital": "pi", "places": ["chengdu"], "reach": 220, "house": { "ja": "杜", "en": "Du" } },
-    { "id": "yong", "label": { "ja": "庸", "en": "the State of Yong" }, "root": { "ja": "庸", "en": "Yong" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#6f5f3f", "culture": "pu", "capital": "shangyong", "places": [], "reach": 80, "house": { "ja": "庸", "en": "Yong" } },
-    { "id": "shu_h", "label": { "ja": "舒", "en": "the Shu peoples" }, "root": { "ja": "舒", "en": "Shu" }, "gov": "tribe",
-      "color": "#5f8f5f", "culture": "dongyi", "capital": "shu_huai", "places": ["liu"], "reach": 70, "house": { "ja": "偃", "en": "Yan" } },
-    { "id": "lai", "label": { "ja": "萊", "en": "the State of Lai" }, "root": { "ja": "萊", "en": "Lai" }, "gov": "chiefdom", "rank": { "ja": "子", "en": "Viscount" },
-      "color": "#4f6f9f", "culture": "dongyi", "capital": "lai", "places": [], "reach": 70, "house": { "ja": "姜", "en": "Jiang" } },
-    { "id": "xianyu", "label": { "ja": "鮮虞", "en": "the Xianyu" }, "root": { "ja": "鮮虞", "en": "Xianyu" }, "gov": "tribe",
-      "color": "#8f8f5f", "culture": "rongdi", "capital": "xianyu", "places": [], "reach": 110, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "chidi", "label": { "ja": "赤狄", "en": "the Red Di" }, "root": { "ja": "赤狄", "en": "Red Di" }, "gov": "tribe",
-      "color": "#a05a3a", "culture": "rongdi", "capital": "lu_di", "places": [], "reach": 140, "house": { "ja": "隗", "en": "Wei" } },
-    { "id": "baidi", "label": { "ja": "白狄", "en": "the White Di" }, "root": { "ja": "白狄", "en": "White Di" }, "gov": "tribe",
-      "color": "#b0b08a", "culture": "rongdi", "capital": "baidi", "places": [], "reach": 190, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "quanrong", "label": { "ja": "犬戎", "en": "the Quanrong" }, "root": { "ja": "犬戎", "en": "Quanrong" }, "gov": "tribe",
-      "color": "#6a6a4a", "culture": "rongdi", "capital": "quanrong", "places": [], "reach": 170, "house": { "ja": "戎", "en": "Rong" } },
-    { "id": "yiqu", "label": { "ja": "義渠", "en": "the Yiqu" }, "root": { "ja": "義渠", "en": "Yiqu" }, "gov": "tribe",
-      "color": "#7a7a3a", "culture": "rongdi", "capital": "yiqu", "places": [], "reach": 160, "house": { "ja": "義渠", "en": "Yiqu" } },
-    { "id": "lirong", "label": { "ja": "驪戎", "en": "the Li Rong" }, "root": { "ja": "驪戎", "en": "Li Rong" }, "gov": "tribe",
-      "color": "#5a5a3a", "culture": "rongdi", "capital": "lirong", "places": [], "reach": 45, "house": { "ja": "姫", "en": "Ji" } },
-    { "id": "shanrong", "label": { "ja": "山戎", "en": "the Shanrong" }, "root": { "ja": "山戎", "en": "Shanrong" }, "gov": "tribe",
-      "color": "#7f6a4a", "culture": "rongdi", "capital": "shanrong", "places": [], "reach": 150, "house": { "ja": "戎", "en": "Rong" } },
-    { "id": "linhu", "label": { "ja": "林胡", "en": "the Linhu" }, "root": { "ja": "林胡", "en": "Linhu" }, "gov": "tribe",
-      "color": "#8a7a6a", "culture": "rongdi", "capital": "linhu", "places": [], "reach": 170, "house": { "ja": "胡", "en": "Hu" } },
-    { "id": "huaiyi", "label": { "ja": "淮夷", "en": "the Huaiyi" }, "root": { "ja": "淮夷", "en": "Huaiyi" }, "gov": "tribe",
-      "color": "#4a7a8a", "culture": "dongyi", "capital": "huaiyi", "places": [], "reach": 130, "house": { "ja": "夷", "en": "Yi" } },
-    { "id": "qunman", "label": { "ja": "群蛮", "en": "the Qunman" }, "root": { "ja": "群蛮", "en": "Qunman" }, "gov": "tribe",
-      "color": "#5a7a3a", "culture": "pu", "capital": "qunman", "places": [], "reach": 200, "house": { "ja": "濮", "en": "Pu" } }
+  [
+   "fei",
+   "費",
+   "Bi",
+   35.27,
+   117.97,
+   1
+  ],
+  [
+   "linzi",
+   "臨淄",
+   "Linzi",
+   36.85,
+   118.3,
+   3
+  ],
+  [
+   "jimo",
+   "即墨",
+   "Jimo",
+   36.75,
+   119.95,
+   2
+  ],
+  [
+   "gaotang",
+   "高唐",
+   "Gaotang",
+   36.86,
+   116.23,
+   1
+  ],
+  [
+   "ea",
+   "阿",
+   "E",
+   36.33,
+   116.25,
+   1
+  ],
+  [
+   "yi",
+   "翼",
+   "Yi",
+   35.71,
+   111.72,
+   2
+  ],
+  [
+   "quwo",
+   "曲沃",
+   "Quwo",
+   35.35,
+   111.22,
+   2
+  ],
+  [
+   "xintian",
+   "新田",
+   "Xintian",
+   35.62,
+   111.35,
+   2
+  ],
+  [
+   "pingyang",
+   "平陽",
+   "Pingyang",
+   36.08,
+   111.52,
+   1
+  ],
+  [
+   "anyi",
+   "安邑",
+   "Anyi",
+   35.11,
+   111.22,
+   2
+  ],
+  [
+   "jinyang",
+   "晋陽",
+   "Jinyang",
+   37.8,
+   112.55,
+   2
+  ],
+  [
+   "handan",
+   "邯鄲",
+   "Handan",
+   36.6,
+   114.48,
+   2
+  ],
+  [
+   "zhongmou",
+   "中牟",
+   "Zhongmou",
+   35.9,
+   114.3,
+   1
+  ],
+  [
+   "yiyang",
+   "宜陽",
+   "Yiyang",
+   34.52,
+   112.18,
+   1
+  ],
+  [
+   "daliang",
+   "大梁",
+   "Daliang",
+   34.8,
+   114.33,
+   2
+  ],
+  [
+   "pingji",
+   "汧渭之会",
+   "Qianwei",
+   34.36,
+   107.24,
+   2
+  ],
+  [
+   "xichui",
+   "西垂",
+   "Xichui",
+   34.19,
+   105.17,
+   1
+  ],
+  [
+   "yong",
+   "雍",
+   "Yong",
+   34.52,
+   107.38,
+   2
+  ],
+  [
+   "yueyang",
+   "櫟陽",
+   "Yueyang",
+   34.68,
+   109.25,
+   1
+  ],
+  [
+   "xianyang",
+   "咸陽",
+   "Xianyang",
+   34.33,
+   108.7,
+   2
+  ],
+  [
+   "danyang",
+   "丹陽",
+   "Danyang",
+   30.45,
+   111.75,
+   2
+  ],
+  [
+   "ying",
+   "郢",
+   "Ying",
+   30.43,
+   112.18,
+   3
+  ],
+  [
+   "wan",
+   "宛",
+   "Wan",
+   33,
+   112.53,
+   2
+  ],
+  [
+   "shouchun",
+   "寿春",
+   "Shouchun",
+   32.58,
+   116.78,
+   2
+  ],
+  [
+   "e_chu",
+   "鄂",
+   "E",
+   30.39,
+   114.89,
+   1
+  ],
+  [
+   "changsha",
+   "長沙",
+   "Changsha",
+   28.2,
+   112.97,
+   1
+  ],
+  [
+   "shangqiu",
+   "商丘",
+   "Shangqiu",
+   34.41,
+   115.65,
+   3
+  ],
+  [
+   "pengcheng",
+   "彭城",
+   "Pengcheng",
+   34.27,
+   117.18,
+   2
+  ],
+  [
+   "zhaoge",
+   "朝歌",
+   "Zhaoge",
+   35.62,
+   114.2,
+   2
+  ],
+  [
+   "diqiu",
+   "帝丘",
+   "Diqiu",
+   35.76,
+   115.03,
+   1
+  ],
+  [
+   "xinzheng",
+   "新鄭",
+   "Xinzheng",
+   34.4,
+   113.74,
+   3
+  ],
+  [
+   "jing_zheng",
+   "京",
+   "Jing",
+   34.79,
+   113.36,
+   1
+  ],
+  [
+   "wanqiu",
+   "宛丘",
+   "Wanqiu",
+   33.73,
+   114.88,
+   2
+  ],
+  [
+   "shangcai",
+   "上蔡",
+   "Shangcai",
+   33.26,
+   114.26,
+   2
+  ],
+  [
+   "taoqiu",
+   "陶丘",
+   "Taoqiu",
+   35.07,
+   115.57,
+   2
+  ],
+  [
+   "ji_yan",
+   "薊",
+   "Ji",
+   39.88,
+   116.35,
+   2
+  ],
+  [
+   "xiadu",
+   "易",
+   "Yi",
+   39.33,
+   115.48,
+   1
+  ],
+  [
+   "xu_city",
+   "許",
+   "Xu",
+   34.04,
+   113.86,
+   1
+  ],
+  [
+   "yongqiu",
+   "雍丘",
+   "Yongqiu",
+   34.55,
+   114.78,
+   1
+  ],
+  [
+   "ju",
+   "莒",
+   "Ju",
+   35.58,
+   118.83,
+   1
+  ],
+  [
+   "zhu",
+   "邾",
+   "Zhu",
+   35.4,
+   117,
+   1
+  ],
+  [
+   "teng",
+   "滕",
+   "Teng",
+   35.08,
+   117.17,
+   1
+  ],
+  [
+   "ji_state",
+   "紀",
+   "Ji",
+   36.88,
+   118.74,
+   1
+  ],
+  [
+   "shangyang",
+   "上陽",
+   "Shangyang",
+   34.77,
+   111.19,
+   1
+  ],
+  [
+   "yu_state",
+   "虞",
+   "Yu",
+   34.95,
+   111,
+   1
+  ],
+  [
+   "xi_state",
+   "息",
+   "Xi",
+   32.35,
+   114.73,
+   1
+  ],
+  [
+   "shen_state",
+   "申",
+   "Shen",
+   32.95,
+   112.55,
+   1
+  ],
+  [
+   "deng",
+   "鄧",
+   "Deng",
+   32,
+   112.1,
+   1
+  ],
+  [
+   "sui",
+   "随",
+   "Sui",
+   31.69,
+   113.38,
+   1
+  ],
+  [
+   "huang",
+   "黄",
+   "Huang",
+   32.13,
+   115.05,
+   1
+  ],
+  [
+   "xu_huai",
+   "徐",
+   "Xu",
+   33.47,
+   118.22,
+   1
+  ],
+  [
+   "meili",
+   "梅里",
+   "Meili",
+   31.55,
+   120.4,
+   2
+  ],
+  [
+   "gusu",
+   "姑蘇",
+   "Gusu",
+   31.3,
+   120.6,
+   2
+  ],
+  [
+   "kuaiji",
+   "会稽",
+   "Kuaiji",
+   30,
+   120.58,
+   2
+  ],
+  [
+   "jiangzhou",
+   "江州",
+   "Jiangzhou",
+   29.56,
+   106.55,
+   1
+  ],
+  [
+   "pi",
+   "郫",
+   "Pi",
+   30.81,
+   103.89,
+   2
+  ],
+  [
+   "chengdu",
+   "成都",
+   "Chengdu",
+   30.66,
+   104.06,
+   2
+  ],
+  [
+   "shangyong",
+   "上庸",
+   "Shangyong",
+   32.23,
+   110.23,
+   1
+  ],
+  [
+   "shu_huai",
+   "舒",
+   "Shu",
+   31.25,
+   117.29,
+   1
+  ],
+  [
+   "liu",
+   "六",
+   "Liu",
+   31.75,
+   116.5,
+   1
+  ],
+  [
+   "lai",
+   "萊",
+   "Lai",
+   36.95,
+   119.6,
+   1
+  ],
+  [
+   "rui",
+   "芮",
+   "Rui",
+   35.48,
+   110.45,
+   1
+  ],
+  [
+   "xing",
+   "邢",
+   "Xing",
+   37.06,
+   114.5,
+   1
+  ],
+  [
+   "shen_cai",
+   "沈",
+   "Shen",
+   32.96,
+   114.62,
+   1
+  ],
+  [
+   "xianyu",
+   "鮮虞",
+   "Xianyu",
+   38.3,
+   114.9,
+   1
+  ],
+  [
+   "lu_di",
+   "潞",
+   "Lu",
+   36.2,
+   113.1,
+   1
+  ],
+  [
+   "baidi",
+   "白狄",
+   "Baidi",
+   36.6,
+   109.5,
+   1
+  ],
+  [
+   "quanrong",
+   "犬戎",
+   "Quanrong",
+   35.5,
+   106.7,
+   1
+  ],
+  [
+   "shanrong",
+   "山戎",
+   "Shanrong",
+   40.5,
+   117.5,
+   1
+  ],
+  [
+   "huaiyi",
+   "淮夷",
+   "Huaiyi",
+   33.3,
+   119.3,
+   1
+  ],
+  [
+   "qunman",
+   "群蛮",
+   "Qunman",
+   28.9,
+   111,
+   1
+  ],
+  [
+   "lirong",
+   "驪戎",
+   "Lirong",
+   34.37,
+   109.21,
+   1
+  ],
+  [
+   "linhu",
+   "林胡",
+   "Linhu",
+   39.6,
+   111.8,
+   1
+  ],
+  [
+   "yiqu",
+   "義渠",
+   "Yiqu",
+   36,
+   107.9,
+   1
+  ],
+  [
+   "jimo_e",
+   "琅邪",
+   "Langya",
+   35.6,
+   119.5,
+   1
   ]
+ ],
+ "realms": [
+  {
+   "id": "zhou",
+   "label": {
+    "ja": "周",
+    "en": "the Zhou royal domain"
+   },
+   "root": {
+    "ja": "周",
+    "en": "Zhou"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "王",
+    "en": "King"
+   },
+   "color": "#c8a24a",
+   "culture": "hua",
+   "capital": "luoyi",
+   "places": [
+    "gong"
+   ],
+   "reach": 80,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "power": 1.6,
+   "ruler": {
+    "name": {
+     "ja": "平王",
+     "en": "King Ping"
+    },
+    "born": -789,
+    "since": -769,
+    "abilities": [
+     4,
+     3,
+     5,
+     5
+    ],
+    "traits": [
+     "content"
+    ]
+   },
+   "heir": {
+    "name": {
+     "ja": "姫林",
+     "en": "Ji Lin"
+    },
+    "born": -740
+   },
+   "line": [
+    [
+     "平王",
+     "King Ping",
+     770,
+     720,
+     {
+      "ab": [
+       4,
+       3,
+       5,
+       5
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 790
+     }
+    ],
+    [
+     "桓王",
+     "King Huan",
+     719,
+     697,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "荘王",
+     "King Zhuang",
+     696,
+     682
+    ],
+    [
+     "釐王",
+     "King Li",
+     681,
+     677
+    ],
+    [
+     "恵王",
+     "King Hui",
+     676,
+     652
+    ],
+    [
+     "襄王",
+     "King Xiang",
+     651,
+     619
+    ],
+    [
+     "頃王",
+     "King Qing",
+     618,
+     613
+    ],
+    [
+     "匡王",
+     "King Kuang",
+     612,
+     607,
+     {
+      "rel": "son"
+     }
+    ],
+    [
+     "定王",
+     "King Ding",
+     606,
+     586,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "簡王",
+     "King Jian",
+     585,
+     572
+    ],
+    [
+     "霊王",
+     "King Ling",
+     571,
+     545
+    ],
+    [
+     "景王",
+     "King Jing",
+     544,
+     520
+    ],
+    [
+     "悼王",
+     "King Dao",
+     520,
+     520
+    ],
+    [
+     "敬王",
+     "King Jing (Gai)",
+     519,
+     477,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "元王",
+     "King Yuan",
+     476,
+     469
+    ],
+    [
+     "貞定王",
+     "King Zhending",
+     468,
+     441
+    ],
+    [
+     "考王",
+     "King Kao",
+     440,
+     426,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "威烈王",
+     "King Weilie",
+     425,
+     402
+    ],
+    [
+     "安王",
+     "King An",
+     401,
+     376
+    ],
+    [
+     "烈王",
+     "King Lie",
+     375,
+     369
+    ],
+    [
+     "顕王",
+     "King Xian",
+     368,
+     321,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "慎靚王",
+     "King Shenjing",
+     320,
+     315
+    ],
+    [
+     "赧王",
+     "King Nan",
+     314,
+     256,
+     {
+      "ab": [
+       3,
+       2,
+       4,
+       3
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "id": "lu",
+   "label": {
+    "ja": "魯",
+    "en": "the State of Lu"
+   },
+   "root": {
+    "ja": "魯",
+    "en": "Lu"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#9c6b3a",
+   "culture": "hua",
+   "capital": "qufu",
+   "places": [
+    "fei"
+   ],
+   "reach": 75,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "power": 1.3,
+   "ruler": {
+    "name": {
+     "ja": "隠公",
+     "en": "Duke Yin"
+    },
+    "born": -748,
+    "since": -721,
+    "abilities": [
+     5,
+     4,
+     6,
+     6
+    ],
+    "traits": [
+     "kind",
+     "content"
+    ]
+   },
+   "heir": {
+    "name": {
+     "ja": "桓公",
+     "en": "Duke Huan"
+    },
+    "born": -729
+   },
+   "line": [
+    [
+     "隠公",
+     "Duke Yin",
+     722,
+     712,
+     {
+      "ab": [
+       5,
+       4,
+       6,
+       6
+      ],
+      "tr": [
+       "kind",
+       "content"
+      ],
+      "born": 748
+     }
+    ],
+    [
+     "桓公",
+     "Duke Huan",
+     711,
+     694,
+     {
+      "rel": "brother",
+      "born": 731
+     }
+    ],
+    [
+     "荘公",
+     "Duke Zhuang",
+     693,
+     662,
+     {
+      "born": 706
+     }
+    ],
+    [
+     "子般",
+     "Ziban",
+     662,
+     662
+    ],
+    [
+     "閔公",
+     "Duke Min",
+     661,
+     660,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "僖公",
+     "Duke Xi",
+     659,
+     627,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     626,
+     609
+    ],
+    [
+     "宣公",
+     "Duke Xuan",
+     608,
+     591
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     590,
+     573
+    ],
+    [
+     "襄公",
+     "Duke Xiang",
+     572,
+     542,
+     {
+      "born": 575
+     }
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     541,
+     510
+    ],
+    [
+     "定公",
+     "Duke Ding",
+     509,
+     495,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "哀公",
+     "Duke Ai",
+     494,
+     468
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     467,
+     429
+    ],
+    [
+     "元公",
+     "Duke Yuan",
+     428,
+     408
+    ],
+    [
+     "穆公",
+     "Duke Mu",
+     407,
+     377
+    ],
+    [
+     "共公",
+     "Duke Gong",
+     376,
+     353
+    ],
+    [
+     "康公",
+     "Duke Kang",
+     352,
+     344
+    ],
+    [
+     "景公",
+     "Duke Jing",
+     343,
+     323
+    ],
+    [
+     "平公",
+     "Duke Ping",
+     322,
+     303
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     302,
+     280
+    ],
+    [
+     "頃公",
+     "Duke Qing",
+     279,
+     249
+    ]
+   ]
+  },
+  {
+   "id": "qi",
+   "label": {
+    "ja": "斉",
+    "en": "the State of Qi"
+   },
+   "root": {
+    "ja": "斉",
+    "en": "Qi"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#3f6e9e",
+   "culture": "hua",
+   "capital": "linzi",
+   "places": [
+    "jimo",
+    "gaotang",
+    "ea"
+   ],
+   "reach": 140,
+   "house": {
+    "ja": "姜",
+    "en": "Jiang"
+   },
+   "power": 1.4,
+   "ruler": {
+    "name": {
+     "ja": "僖公",
+     "en": "Duke Xi"
+    },
+    "born": -760,
+    "since": -729,
+    "abilities": [
+     6,
+     5,
+     7,
+     6
+    ],
+    "traits": [
+     "ambitious"
+    ]
+   },
+   "heir": {
+    "name": {
+     "ja": "襄公",
+     "en": "Duke Xiang"
+    },
+    "born": -735
+   },
+   "line": [
+    [
+     "僖公",
+     "Duke Xi",
+     730,
+     698,
+     {
+      "ab": [
+       6,
+       5,
+       7,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 760
+     }
+    ],
+    [
+     "襄公",
+     "Duke Xiang",
+     697,
+     686,
+     {
+      "tr": [
+       "cruel"
+      ]
+     }
+    ],
+    [
+     "無知",
+     "Wuzhi",
+     686,
+     686,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "桓公",
+     "Duke Huan",
+     685,
+     643,
+     {
+      "rel": "brother",
+      "ab": [
+       7,
+       6,
+       8,
+       8
+      ],
+      "tr": [
+       "ambitious",
+       "charismatic"
+      ],
+      "born": 716
+     }
+    ],
+    [
+     "孝公",
+     "Duke Xiao",
+     642,
+     633
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     632,
+     613,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "懿公",
+     "Duke Yi",
+     612,
+     609,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "恵公",
+     "Duke Hui",
+     608,
+     599,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "頃公",
+     "Duke Qing",
+     598,
+     582
+    ],
+    [
+     "霊公",
+     "Duke Ling",
+     581,
+     554
+    ],
+    [
+     "荘公",
+     "Duke Zhuang",
+     553,
+     548
+    ],
+    [
+     "景公",
+     "Duke Jing",
+     547,
+     490,
+     {
+      "rel": "brother",
+      "ab": [
+       5,
+       4,
+       6,
+       6
+      ],
+      "tr": [
+       "greedy"
+      ]
+     }
+    ],
+    [
+     "晏孺子",
+     "An Ruzi",
+     489,
+     489
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     488,
+     485,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "簡公",
+     "Duke Jian",
+     484,
+     481
+    ],
+    [
+     "平公",
+     "Duke Ping",
+     480,
+     456,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "宣公",
+     "Duke Xuan",
+     455,
+     405
+    ],
+    [
+     "康公",
+     "Duke Kang",
+     404,
+     386
+    ],
+    [
+     "太公",
+     "Duke Tai",
+     386,
+     384,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "田",
+       "en": "Tian"
+      },
+      "ab": [
+       6,
+       5,
+       6,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "桓公",
+     "Duke Huan",
+     374,
+     357
+    ],
+    [
+     "威王",
+     "King Wei",
+     356,
+     320,
+     {
+      "ab": [
+       8,
+       6,
+       7,
+       7
+      ],
+      "tr": [
+       "wise"
+      ]
+     }
+    ],
+    [
+     "宣王",
+     "King Xuan",
+     319,
+     301,
+     {
+      "tr": [
+       "scholar"
+      ]
+     }
+    ],
+    [
+     "湣王",
+     "King Min",
+     300,
+     284,
+     {
+      "tr": [
+       "ambitious",
+       "cruel"
+      ]
+     }
+    ],
+    [
+     "襄王",
+     "King Xiang",
+     283,
+     265
+    ],
+    [
+     "王建",
+     "King Jian",
+     264,
+     221,
+     {
+      "ab": [
+       3,
+       2,
+       3,
+       4
+      ],
+      "tr": [
+       "content"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "id": "jin_yi",
+   "label": {
+    "ja": "晋",
+    "en": "the State of Jin (Yi)"
+   },
+   "root": {
+    "ja": "晋",
+    "en": "Jin"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#5b4a8b",
+   "culture": "hua",
+   "capital": "yi",
+   "places": [
+    "pingyang"
+   ],
+   "reach": 70,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "line": [
+    [
+     "鄂侯",
+     "Marquis E",
+     723,
+     718,
+     {
+      "born": 745
+     }
+    ],
+    [
+     "哀侯",
+     "Marquis Ai",
+     717,
+     709
+    ],
+    [
+     "小子侯",
+     "Marquis Xiaozi",
+     708,
+     705
+    ],
+    [
+     "晋侯緡",
+     "Marquis Min",
+     704,
+     678,
+     {
+      "rel": "other"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "jin",
+   "label": {
+    "ja": "曲沃",
+    "en": "Quwo"
+   },
+   "root": {
+    "ja": "曲沃",
+    "en": "Quwo"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "伯",
+    "en": "Earl"
+   },
+   "color": "#7a3f7a",
+   "culture": "hua",
+   "capital": "quwo",
+   "places": [
+    "anyi",
+    "xintian"
+   ],
+   "reach": 60,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "power": 1.2,
+   "line": [
+    [
+     "荘伯",
+     "Earl Zhuang",
+     731,
+     716,
+     {
+      "ab": [
+       5,
+       7,
+       4,
+       5
+      ],
+      "tr": [
+       "ambitious",
+       "warrior"
+      ],
+      "born": 755
+     }
+    ],
+    [
+     "武公",
+     "Duke Wu",
+     715,
+     677,
+     {
+      "ab": [
+       6,
+       8,
+       5,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 738
+     }
+    ],
+    [
+     "献公",
+     "Duke Xian",
+     676,
+     651,
+     {
+      "ab": [
+       6,
+       8,
+       6,
+       6
+      ],
+      "tr": [
+       "ambitious",
+       "paranoid"
+      ]
+     }
+    ],
+    [
+     "奚斉",
+     "Xiqi",
+     651,
+     651
+    ],
+    [
+     "卓子",
+     "Zhuozi",
+     651,
+     651,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "恵公",
+     "Duke Hui",
+     650,
+     637,
+     {
+      "rel": "brother",
+      "tr": [
+       "greedy"
+      ]
+     }
+    ],
+    [
+     "懐公",
+     "Duke Huai",
+     637,
+     637
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     636,
+     628,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       7,
+       8,
+       9
+      ],
+      "tr": [
+       "just",
+       "charismatic"
+      ],
+      "born": 697
+     }
+    ],
+    [
+     "襄公",
+     "Duke Xiang",
+     627,
+     621
+    ],
+    [
+     "霊公",
+     "Duke Ling",
+     620,
+     607,
+     {
+      "tr": [
+       "cruel"
+      ]
+     }
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     606,
+     600,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "景公",
+     "Duke Jing",
+     599,
+     581
+    ],
+    [
+     "厲公",
+     "Duke Li",
+     580,
+     573,
+     {
+      "tr": [
+       "cruel"
+      ]
+     }
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     572,
+     558,
+     {
+      "rel": "other",
+      "ab": [
+       8,
+       6,
+       8,
+       7
+      ],
+      "tr": [
+       "wise"
+      ]
+     }
+    ],
+    [
+     "平公",
+     "Duke Ping",
+     557,
+     532
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     531,
+     526
+    ],
+    [
+     "頃公",
+     "Duke Qing",
+     525,
+     512
+    ],
+    [
+     "定公",
+     "Duke Ding",
+     511,
+     475
+    ],
+    [
+     "出公",
+     "Duke Chu",
+     474,
+     452
+    ],
+    [
+     "哀公",
+     "Duke Ai",
+     451,
+     434,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "幽公",
+     "Duke You",
+     433,
+     416
+    ],
+    [
+     "烈公",
+     "Duke Lie",
+     415,
+     389
+    ],
+    [
+     "孝公",
+     "Duke Xiao",
+     388,
+     369
+    ],
+    [
+     "静公",
+     "Duke Jing",
+     368,
+     349
+    ]
+   ]
+  },
+  {
+   "id": "qin",
+   "label": {
+    "ja": "秦",
+    "en": "the State of Qin"
+   },
+   "root": {
+    "ja": "秦",
+    "en": "Qin"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#2f2f2f",
+   "culture": "hua",
+   "capital": "pingji",
+   "places": [
+    "xichui"
+   ],
+   "reach": 140,
+   "house": {
+    "ja": "嬴",
+    "en": "Ying"
+   },
+   "ruler": {
+    "name": {
+     "ja": "文公",
+     "en": "Duke Wen"
+    },
+    "born": -785,
+    "since": -764,
+    "abilities": [
+     6,
+     6,
+     4,
+     5
+    ],
+    "traits": [
+     "builder"
+    ]
+   },
+   "line": [
+    [
+     "文公",
+     "Duke Wen",
+     765,
+     716,
+     {
+      "ab": [
+       6,
+       6,
+       4,
+       5
+      ],
+      "tr": [
+       "builder"
+      ],
+      "born": 785
+     }
+    ],
+    [
+     "寧公",
+     "Duke Ning",
+     715,
+     704,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "出子",
+     "Chuzi",
+     703,
+     698
+    ],
+    [
+     "武公",
+     "Duke Wu",
+     697,
+     678,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "徳公",
+     "Duke De",
+     677,
+     676,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "宣公",
+     "Duke Xuan",
+     675,
+     664
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     663,
+     660,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "穆公",
+     "Duke Mu",
+     659,
+     621,
+     {
+      "rel": "brother",
+      "ab": [
+       7,
+       6,
+       7,
+       7
+      ],
+      "tr": [
+       "generous",
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "康公",
+     "Duke Kang",
+     620,
+     609
+    ],
+    [
+     "共公",
+     "Duke Gong",
+     608,
+     604
+    ],
+    [
+     "桓公",
+     "Duke Huan",
+     603,
+     577
+    ],
+    [
+     "景公",
+     "Duke Jing",
+     576,
+     537
+    ],
+    [
+     "哀公",
+     "Duke Ai",
+     536,
+     501
+    ],
+    [
+     "恵公",
+     "Duke Hui",
+     500,
+     491,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     490,
+     477
+    ],
+    [
+     "厲共公",
+     "Duke Ligong",
+     476,
+     443
+    ],
+    [
+     "躁公",
+     "Duke Zao",
+     442,
+     429
+    ],
+    [
+     "懐公",
+     "Duke Huai",
+     428,
+     425,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "霊公",
+     "Duke Ling",
+     424,
+     415,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "簡公",
+     "Duke Jian",
+     414,
+     400,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "恵公",
+     "Duke Hui",
+     399,
+     387
+    ],
+    [
+     "出公",
+     "Duke Chu",
+     386,
+     385
+    ],
+    [
+     "献公",
+     "Duke Xian",
+     384,
+     362,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       7,
+       5,
+       6
+      ],
+      "tr": [
+       "reformer"
+      ]
+     }
+    ],
+    [
+     "孝公",
+     "Duke Xiao",
+     361,
+     338,
+     {
+      "ab": [
+       8,
+       6,
+       6,
+       6
+      ],
+      "tr": [
+       "reformer",
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "恵文王",
+     "King Huiwen",
+     337,
+     311,
+     {
+      "ab": [
+       7,
+       7,
+       7,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "武王",
+     "King Wu",
+     310,
+     307,
+     {
+      "tr": [
+       "brave",
+       "warrior"
+      ]
+     }
+    ],
+    [
+     "昭襄王",
+     "King Zhaoxiang",
+     306,
+     251,
+     {
+      "rel": "brother",
+      "ab": [
+       7,
+       7,
+       7,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "孝文王",
+     "King Xiaowen",
+     250,
+     250
+    ],
+    [
+     "荘襄王",
+     "King Zhuangxiang",
+     249,
+     247
+    ],
+    [
+     "秦王政",
+     "King Zheng",
+     246,
+     221,
+     {
+      "ab": [
+       9,
+       8,
+       7,
+       8
+      ],
+      "tr": [
+       "ambitious",
+       "unifier",
+       "paranoid"
+      ],
+      "born": 259
+     }
+    ]
+   ]
+  },
+  {
+   "id": "chu",
+   "label": {
+    "ja": "楚",
+    "en": "the State of Chu"
+   },
+   "root": {
+    "ja": "楚",
+    "en": "Chu"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "王",
+    "en": "King"
+   },
+   "color": "#b5452f",
+   "culture": "chu",
+   "capital": "danyang",
+   "places": [],
+   "reach": 140,
+   "house": {
+    "ja": "羋",
+    "en": "Mi"
+   },
+   "power": 1.3,
+   "ruler": {
+    "name": {
+     "ja": "武王",
+     "en": "King Wu"
+    },
+    "born": -760,
+    "since": -739,
+    "abilities": [
+     6,
+     8,
+     5,
+     7
+    ],
+    "traits": [
+     "ambitious",
+     "warrior"
+    ]
+   },
+   "heir": {
+    "name": {
+     "ja": "文王",
+     "en": "King Wen"
+    },
+    "born": -725
+   },
+   "line": [
+    [
+     "武王",
+     "King Wu",
+     740,
+     690,
+     {
+      "ab": [
+       6,
+       8,
+       5,
+       7
+      ],
+      "tr": [
+       "ambitious",
+       "warrior"
+      ],
+      "born": 760
+     }
+    ],
+    [
+     "文王",
+     "King Wen",
+     689,
+     677
+    ],
+    [
+     "堵敖",
+     "Du'ao",
+     676,
+     672
+    ],
+    [
+     "成王",
+     "King Cheng",
+     671,
+     626,
+     {
+      "rel": "brother",
+      "ab": [
+       7,
+       6,
+       6,
+       6
+      ]
+     }
+    ],
+    [
+     "穆王",
+     "King Mu",
+     625,
+     614
+    ],
+    [
+     "荘王",
+     "King Zhuang",
+     613,
+     591,
+     {
+      "ab": [
+       7,
+       8,
+       7,
+       8
+      ],
+      "tr": [
+       "ambitious",
+       "genius"
+      ]
+     }
+    ],
+    [
+     "共王",
+     "King Gong",
+     590,
+     560
+    ],
+    [
+     "康王",
+     "King Kang",
+     559,
+     545
+    ],
+    [
+     "郟敖",
+     "Jia'ao",
+     544,
+     541
+    ],
+    [
+     "霊王",
+     "King Ling",
+     540,
+     529,
+     {
+      "rel": "other",
+      "ab": [
+       3,
+       6,
+       3,
+       5
+      ],
+      "tr": [
+       "cruel",
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "訾敖",
+     "Zi'ao",
+     529,
+     529,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "平王",
+     "King Ping",
+     528,
+     516,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "昭王",
+     "King Zhao",
+     515,
+     489
+    ],
+    [
+     "恵王",
+     "King Hui",
+     488,
+     432
+    ],
+    [
+     "簡王",
+     "King Jian",
+     431,
+     408
+    ],
+    [
+     "声王",
+     "King Sheng",
+     407,
+     402
+    ],
+    [
+     "悼王",
+     "King Dao",
+     401,
+     381,
+     {
+      "tr": [
+       "reformer"
+      ]
+     }
+    ],
+    [
+     "粛王",
+     "King Su",
+     380,
+     370
+    ],
+    [
+     "宣王",
+     "King Xuan",
+     369,
+     340,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "威王",
+     "King Wei",
+     339,
+     329
+    ],
+    [
+     "懐王",
+     "King Huai",
+     328,
+     299,
+     {
+      "ab": [
+       4,
+       4,
+       3,
+       5
+      ],
+      "tr": [
+       "foolish"
+      ]
+     }
+    ],
+    [
+     "頃襄王",
+     "King Qingxiang",
+     298,
+     263
+    ],
+    [
+     "考烈王",
+     "King Kaolie",
+     262,
+     238
+    ],
+    [
+     "幽王",
+     "King You",
+     237,
+     228
+    ],
+    [
+     "哀王",
+     "King Ai",
+     228,
+     228,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "負芻",
+     "Fuchu",
+     227,
+     223,
+     {
+      "rel": "brother"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "song",
+   "label": {
+    "ja": "宋",
+    "en": "the State of Song"
+   },
+   "root": {
+    "ja": "宋",
+    "en": "Song"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#c0752e",
+   "culture": "hua",
+   "capital": "shangqiu",
+   "places": [
+    "pengcheng"
+   ],
+   "reach": 95,
+   "house": {
+    "ja": "子",
+    "en": "Zi"
+   },
+   "power": 1.2,
+   "ruler": {
+    "name": {
+     "ja": "穆公",
+     "en": "Duke Mu"
+    },
+    "born": -760,
+    "since": -727,
+    "abilities": [
+     5,
+     4,
+     5,
+     6
+    ],
+    "traits": [
+     "just"
+    ]
+   },
+   "line": [
+    [
+     "穆公",
+     "Duke Mu",
+     728,
+     720,
+     {
+      "ab": [
+       5,
+       4,
+       5,
+       6
+      ],
+      "tr": [
+       "just"
+      ],
+      "born": 760
+     }
+    ],
+    [
+     "殤公",
+     "Duke Shang",
+     719,
+     711,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "荘公",
+     "Duke Zhuang",
+     710,
+     692,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "閔公",
+     "Duke Min",
+     691,
+     682
+    ],
+    [
+     "桓公",
+     "Duke Huan",
+     681,
+     651,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "襄公",
+     "Duke Xiang",
+     650,
+     637,
+     {
+      "ab": [
+       4,
+       3,
+       5,
+       6
+      ],
+      "tr": [
+       "just",
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     636,
+     620
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     619,
+     611
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     610,
+     589,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "共公",
+     "Duke Gong",
+     588,
+     576
+    ],
+    [
+     "平公",
+     "Duke Ping",
+     575,
+     532
+    ],
+    [
+     "元公",
+     "Duke Yuan",
+     531,
+     517
+    ],
+    [
+     "景公",
+     "Duke Jing",
+     516,
+     451
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     450,
+     404,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     403,
+     396
+    ],
+    [
+     "休公",
+     "Duke Xiu",
+     395,
+     373
+    ],
+    [
+     "辟公",
+     "Duke Bi",
+     372,
+     370
+    ],
+    [
+     "剔成君",
+     "Lord Ticheng",
+     369,
+     329,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "宋王偃",
+     "King Yan",
+     328,
+     286,
+     {
+      "rel": "brother",
+      "tr": [
+       "cruel",
+       "ambitious"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "id": "wey",
+   "label": {
+    "ja": "衛",
+    "en": "the State of Wey"
+   },
+   "root": {
+    "ja": "衛",
+    "en": "Wey"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#4a8a5c",
+   "culture": "hua",
+   "capital": "zhaoge",
+   "places": [
+    "diqiu",
+    "zhongmou"
+   ],
+   "reach": 90,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "ruler": {
+    "name": {
+     "ja": "桓公",
+     "en": "Duke Huan"
+    },
+    "born": -755,
+    "since": -733,
+    "abilities": [
+     4,
+     4,
+     4,
+     4
+    ]
+   },
+   "line": [
+    [
+     "桓公",
+     "Duke Huan",
+     734,
+     719,
+     {
+      "born": 755
+     }
+    ],
+    [
+     "州吁",
+     "Zhouyu",
+     719,
+     719,
+     {
+      "rel": "brother",
+      "tr": [
+       "ambitious",
+       "cruel"
+      ]
+     }
+    ],
+    [
+     "宣公",
+     "Duke Xuan",
+     718,
+     700,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "恵公",
+     "Duke Hui",
+     699,
+     669
+    ],
+    [
+     "懿公",
+     "Duke Yi",
+     668,
+     660,
+     {
+      "ab": [
+       2,
+       2,
+       3,
+       3
+      ],
+      "tr": [
+       "foolish"
+      ]
+     }
+    ],
+    [
+     "戴公",
+     "Duke Dai",
+     660,
+     660,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     659,
+     635,
+     {
+      "rel": "brother",
+      "tr": [
+       "builder"
+      ]
+     }
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     634,
+     600
+    ],
+    [
+     "穆公",
+     "Duke Mu",
+     599,
+     589
+    ],
+    [
+     "定公",
+     "Duke Ding",
+     588,
+     577
+    ],
+    [
+     "献公",
+     "Duke Xian",
+     576,
+     544
+    ],
+    [
+     "襄公",
+     "Duke Xiang",
+     543,
+     535
+    ],
+    [
+     "霊公",
+     "Duke Ling",
+     534,
+     493
+    ],
+    [
+     "出公",
+     "Duke Chu",
+     492,
+     456,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     455,
+     451,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "敬公",
+     "Duke Jing",
+     450,
+     432
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     431,
+     426
+    ],
+    [
+     "懐公",
+     "Duke Huai",
+     425,
+     415
+    ],
+    [
+     "慎公",
+     "Duke Shen",
+     414,
+     383,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "声公",
+     "Duke Sheng",
+     382,
+     372
+    ],
+    [
+     "成侯",
+     "Marquis Cheng",
+     371,
+     343
+    ],
+    [
+     "平侯",
+     "Marquis Ping",
+     342,
+     335
+    ],
+    [
+     "嗣君",
+     "Lord Si",
+     334,
+     293
+    ],
+    [
+     "懐君",
+     "Lord Huai",
+     292,
+     252
+    ],
+    [
+     "元君",
+     "Lord Yuan",
+     251,
+     242,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "君角",
+     "Lord Jue",
+     241,
+     209
+    ]
+   ]
+  },
+  {
+   "id": "zheng",
+   "label": {
+    "ja": "鄭",
+    "en": "the State of Zheng"
+   },
+   "root": {
+    "ja": "鄭",
+    "en": "Zheng"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#2f7f8f",
+   "culture": "hua",
+   "capital": "xinzheng",
+   "places": [
+    "jing_zheng"
+   ],
+   "reach": 80,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "power": 1.5,
+   "ruler": {
+    "name": {
+     "ja": "荘公",
+     "en": "Duke Zhuang"
+    },
+    "born": -756,
+    "since": -742,
+    "abilities": [
+     8,
+     8,
+     8,
+     6
+    ],
+    "traits": [
+     "ambitious",
+     "genius"
+    ]
+   },
+   "heir": {
+    "name": {
+     "ja": "昭公",
+     "en": "Duke Zhao"
+    },
+    "born": -735
+   },
+   "line": [
+    [
+     "荘公",
+     "Duke Zhuang",
+     743,
+     701,
+     {
+      "ab": [
+       8,
+       8,
+       8,
+       6
+      ],
+      "tr": [
+       "ambitious",
+       "genius"
+      ],
+      "born": 757
+     }
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     700,
+     695
+    ],
+    [
+     "子亹",
+     "Ziwei",
+     694,
+     694,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "子嬰",
+     "Ziying",
+     693,
+     680,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "厲公",
+     "Duke Li",
+     679,
+     673,
+     {
+      "rel": "brother",
+      "tr": [
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     672,
+     628
+    ],
+    [
+     "穆公",
+     "Duke Mu",
+     627,
+     606
+    ],
+    [
+     "霊公",
+     "Duke Ling",
+     605,
+     605
+    ],
+    [
+     "襄公",
+     "Duke Xiang",
+     604,
+     587,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     586,
+     585
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     584,
+     571,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "僖公",
+     "Duke Xi",
+     570,
+     566
+    ],
+    [
+     "簡公",
+     "Duke Jian",
+     565,
+     530
+    ],
+    [
+     "定公",
+     "Duke Ding",
+     529,
+     514
+    ],
+    [
+     "献公",
+     "Duke Xian",
+     513,
+     501
+    ],
+    [
+     "声公",
+     "Duke Sheng",
+     500,
+     463
+    ],
+    [
+     "哀公",
+     "Duke Ai",
+     462,
+     455
+    ],
+    [
+     "共公",
+     "Duke Gong",
+     455,
+     424,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "幽公",
+     "Duke You",
+     423,
+     423
+    ],
+    [
+     "繻公",
+     "Duke Xu",
+     422,
+     396,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "康公",
+     "Duke Kang",
+     395,
+     375,
+     {
+      "rel": "other"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "chen",
+   "label": {
+    "ja": "陳",
+    "en": "the State of Chen"
+   },
+   "root": {
+    "ja": "陳",
+    "en": "Chen"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#a08a3a",
+   "culture": "hua",
+   "capital": "wanqiu",
+   "places": [],
+   "reach": 65,
+   "house": {
+    "ja": "嬀",
+    "en": "Gui"
+   },
+   "ruler": {
+    "name": {
+     "ja": "桓公",
+     "en": "Duke Huan"
+    },
+    "born": -765,
+    "since": -743,
+    "abilities": [
+     5,
+     4,
+     5,
+     5
+    ]
+   },
+   "line": [
+    [
+     "桓公",
+     "Duke Huan",
+     744,
+     707,
+     {
+      "born": 765
+     }
+    ],
+    [
+     "陳佗",
+     "Chen Tuo",
+     707,
+     706,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "厲公",
+     "Duke Li",
+     706,
+     700,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "荘公",
+     "Duke Zhuang",
+     699,
+     693,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "宣公",
+     "Duke Xuan",
+     692,
+     648,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "穆公",
+     "Duke Mu",
+     647,
+     632
+    ],
+    [
+     "共公",
+     "Duke Gong",
+     631,
+     614
+    ],
+    [
+     "霊公",
+     "Duke Ling",
+     613,
+     599,
+     {
+      "tr": [
+       "drunkard"
+      ]
+     }
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     598,
+     569
+    ],
+    [
+     "哀公",
+     "Duke Ai",
+     568,
+     534
+    ],
+    [
+     "恵公",
+     "Duke Hui",
+     529,
+     506,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "懐公",
+     "Duke Huai",
+     505,
+     502
+    ],
+    [
+     "湣公",
+     "Duke Min",
+     501,
+     478
+    ]
+   ]
+  },
+  {
+   "id": "cai",
+   "label": {
+    "ja": "蔡",
+    "en": "the State of Cai"
+   },
+   "root": {
+    "ja": "蔡",
+    "en": "Cai"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#6a8f3a",
+   "culture": "hua",
+   "capital": "shangcai",
+   "places": [],
+   "reach": 65,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "ruler": {
+    "name": {
+     "ja": "宣侯",
+     "en": "Marquis Xuan"
+    },
+    "born": -770,
+    "since": -748,
+    "abilities": [
+     4,
+     4,
+     5,
+     4
+    ]
+   },
+   "line": [
+    [
+     "宣侯",
+     "Marquis Xuan",
+     749,
+     715,
+     {
+      "born": 770
+     }
+    ],
+    [
+     "桓侯",
+     "Marquis Huan",
+     714,
+     695
+    ],
+    [
+     "哀侯",
+     "Marquis Ai",
+     694,
+     675,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "穆侯",
+     "Marquis Mu",
+     674,
+     646
+    ],
+    [
+     "荘侯",
+     "Marquis Zhuang",
+     645,
+     612
+    ],
+    [
+     "文侯",
+     "Marquis Wen",
+     611,
+     592
+    ],
+    [
+     "景侯",
+     "Marquis Jing",
+     591,
+     543
+    ],
+    [
+     "霊侯",
+     "Marquis Ling",
+     542,
+     531
+    ],
+    [
+     "平侯",
+     "Marquis Ping",
+     530,
+     522,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "悼侯",
+     "Marquis Dao",
+     521,
+     519
+    ],
+    [
+     "昭侯",
+     "Marquis Zhao",
+     518,
+     491,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "成侯",
+     "Marquis Cheng",
+     490,
+     472
+    ],
+    [
+     "声侯",
+     "Marquis Sheng",
+     471,
+     457
+    ],
+    [
+     "元侯",
+     "Marquis Yuan",
+     456,
+     451
+    ],
+    [
+     "斉侯",
+     "Marquis Qi",
+     450,
+     447
+    ]
+   ]
+  },
+  {
+   "id": "cao",
+   "label": {
+    "ja": "曹",
+    "en": "the State of Cao"
+   },
+   "root": {
+    "ja": "曹",
+    "en": "Cao"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#8f5f7f",
+   "culture": "hua",
+   "capital": "taoqiu",
+   "places": [],
+   "reach": 45,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "ruler": {
+    "name": {
+     "ja": "桓公",
+     "en": "Duke Huan"
+    },
+    "born": -775,
+    "since": -754,
+    "abilities": [
+     4,
+     3,
+     4,
+     4
+    ]
+   },
+   "line": [
+    [
+     "桓公",
+     "Duke Huan",
+     756,
+     702,
+     {
+      "born": 775
+     }
+    ],
+    [
+     "荘公",
+     "Duke Zhuang",
+     701,
+     671
+    ],
+    [
+     "釐公",
+     "Duke Li",
+     670,
+     662
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     661,
+     653
+    ],
+    [
+     "共公",
+     "Duke Gong",
+     652,
+     618
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     617,
+     595
+    ],
+    [
+     "宣公",
+     "Duke Xuan",
+     594,
+     578
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     577,
+     555,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "武公",
+     "Duke Wu",
+     554,
+     528
+    ],
+    [
+     "平公",
+     "Duke Ping",
+     527,
+     524
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     523,
+     515
+    ],
+    [
+     "声公",
+     "Duke Sheng",
+     514,
+     510,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "隠公",
+     "Duke Yin",
+     509,
+     506,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "靖公",
+     "Duke Jing",
+     505,
+     502,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "曹伯陽",
+     "Earl Yang",
+     501,
+     487
+    ]
+   ]
+  },
+  {
+   "id": "yan",
+   "label": {
+    "ja": "燕",
+    "en": "the State of Yan"
+   },
+   "root": {
+    "ja": "燕",
+    "en": "Yan"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#3a5f8a",
+   "culture": "hua",
+   "capital": "ji_yan",
+   "places": [
+    "xiadu"
+   ],
+   "reach": 130,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "ruler": {
+    "name": {
+     "ja": "穆侯",
+     "en": "Marquis Mu"
+    },
+    "born": -750,
+    "since": -727,
+    "abilities": [
+     4,
+     5,
+     4,
+     4
+    ]
+   },
+   "line": [
+    [
+     "穆侯",
+     "Marquis Mu",
+     728,
+     711,
+     {
+      "born": 750
+     }
+    ],
+    [
+     "宣侯",
+     "Marquis Xuan",
+     710,
+     698
+    ],
+    [
+     "桓侯",
+     "Marquis Huan",
+     697,
+     691
+    ],
+    [
+     "荘公",
+     "Duke Zhuang",
+     690,
+     658
+    ],
+    [
+     "襄公",
+     "Duke Xiang",
+     657,
+     618
+    ],
+    [
+     "桓公",
+     "Duke Huan",
+     617,
+     602
+    ],
+    [
+     "宣公",
+     "Duke Xuan",
+     601,
+     587
+    ],
+    [
+     "昭公",
+     "Duke Zhao",
+     586,
+     574
+    ],
+    [
+     "武公",
+     "Duke Wu",
+     573,
+     555
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     554,
+     549
+    ],
+    [
+     "懿公",
+     "Duke Yi",
+     548,
+     545
+    ],
+    [
+     "恵公",
+     "Duke Hui",
+     544,
+     536
+    ],
+    [
+     "悼公",
+     "Duke Dao",
+     535,
+     529
+    ],
+    [
+     "共公",
+     "Duke Gong",
+     528,
+     524
+    ],
+    [
+     "平公",
+     "Duke Ping",
+     523,
+     505
+    ],
+    [
+     "簡公",
+     "Duke Jian",
+     504,
+     493
+    ],
+    [
+     "献公",
+     "Duke Xian",
+     492,
+     465
+    ],
+    [
+     "孝公",
+     "Duke Xiao",
+     464,
+     450
+    ],
+    [
+     "成公",
+     "Duke Cheng",
+     449,
+     434
+    ],
+    [
+     "湣公",
+     "Duke Min",
+     433,
+     403
+    ],
+    [
+     "釐公",
+     "Duke Li",
+     402,
+     373
+    ],
+    [
+     "桓公",
+     "Duke Huan",
+     372,
+     362
+    ],
+    [
+     "文公",
+     "Duke Wen",
+     361,
+     333
+    ],
+    [
+     "易王",
+     "King Yi",
+     332,
+     321
+    ],
+    [
+     "燕王噲",
+     "King Kuai",
+     320,
+     314,
+     {
+      "tr": [
+       "foolish"
+      ]
+     }
+    ],
+    [
+     "昭王",
+     "King Zhao",
+     311,
+     279,
+     {
+      "ab": [
+       7,
+       6,
+       7,
+       7
+      ],
+      "tr": [
+       "ambitious",
+       "generous"
+      ]
+     }
+    ],
+    [
+     "恵王",
+     "King Hui",
+     278,
+     272
+    ],
+    [
+     "武成王",
+     "King Wucheng",
+     271,
+     258
+    ],
+    [
+     "孝王",
+     "King Xiao",
+     257,
+     255
+    ],
+    [
+     "燕王喜",
+     "King Xi",
+     254,
+     222
+    ]
+   ]
+  },
+  {
+   "id": "qi_state",
+   "label": {
+    "ja": "杞",
+    "en": "the State of Qǐ"
+   },
+   "root": {
+    "ja": "杞",
+    "en": "Qǐ"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#9a7a5a",
+   "culture": "hua",
+   "capital": "yongqiu",
+   "places": [],
+   "reach": 40,
+   "house": {
+    "ja": "姒",
+    "en": "Si"
+   },
+   "ruler": {
+    "name": {
+     "ja": "武公",
+     "en": "Duke Wu"
+    },
+    "born": -770,
+    "since": -749,
+    "abilities": [
+     3,
+     3,
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "id": "xu",
+   "label": {
+    "ja": "許",
+    "en": "the State of Xu"
+   },
+   "root": {
+    "ja": "許",
+    "en": "Xu"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "男",
+    "en": "Baron"
+   },
+   "color": "#7a9a8a",
+   "culture": "hua",
+   "capital": "xu_city",
+   "places": [],
+   "reach": 35,
+   "house": {
+    "ja": "姜",
+    "en": "Jiang"
+   },
+   "ruler": {
+    "name": {
+     "ja": "荘公",
+     "en": "Baron Zhuang"
+    },
+    "born": -755,
+    "since": -735,
+    "abilities": [
+     3,
+     3,
+     4,
+     4
+    ]
+   }
+  },
+  {
+   "id": "ju",
+   "label": {
+    "ja": "莒",
+    "en": "the State of Ju"
+   },
+   "root": {
+    "ja": "莒",
+    "en": "Ju"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#5a6f8f",
+   "culture": "dongyi",
+   "capital": "ju",
+   "places": [
+    "jimo_e"
+   ],
+   "reach": 55,
+   "house": {
+    "ja": "己",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "zhu",
+   "label": {
+    "ja": "邾",
+    "en": "the State of Zhu"
+   },
+   "root": {
+    "ja": "邾",
+    "en": "Zhu"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#8a7a4a",
+   "culture": "dongyi",
+   "capital": "zhu",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "曹",
+    "en": "Cao"
+   },
+   "ruler": {
+    "name": {
+     "ja": "儀父",
+     "en": "Yifu"
+    },
+    "born": -755,
+    "since": -730,
+    "abilities": [
+     4,
+     3,
+     5,
+     4
+    ]
+   }
+  },
+  {
+   "id": "teng",
+   "label": {
+    "ja": "滕",
+    "en": "the State of Teng"
+   },
+   "root": {
+    "ja": "滕",
+    "en": "Teng"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#7f8f5a",
+   "culture": "hua",
+   "capital": "teng",
+   "places": [],
+   "reach": 25,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "ji_state",
+   "label": {
+    "ja": "紀",
+    "en": "the State of Ji"
+   },
+   "root": {
+    "ja": "紀",
+    "en": "Ji"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#5f8fa0",
+   "culture": "hua",
+   "capital": "ji_state",
+   "places": [],
+   "reach": 40,
+   "house": {
+    "ja": "姜",
+    "en": "Jiang"
+   }
+  },
+  {
+   "id": "guo",
+   "label": {
+    "ja": "虢",
+    "en": "the State of Guo"
+   },
+   "root": {
+    "ja": "虢",
+    "en": "Guo"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#a06a5a",
+   "culture": "hua",
+   "capital": "shangyang",
+   "places": [],
+   "reach": 45,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "yu",
+   "label": {
+    "ja": "虞",
+    "en": "the State of Yu"
+   },
+   "root": {
+    "ja": "虞",
+    "en": "Yu"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "公",
+    "en": "Duke"
+   },
+   "color": "#8a5a4a",
+   "culture": "hua",
+   "capital": "yu_state",
+   "places": [],
+   "reach": 30,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "rui",
+   "label": {
+    "ja": "芮",
+    "en": "the State of Rui"
+   },
+   "root": {
+    "ja": "芮",
+    "en": "Rui"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "伯",
+    "en": "Earl"
+   },
+   "color": "#6a5a8a",
+   "culture": "hua",
+   "capital": "rui",
+   "places": [],
+   "reach": 35,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "xing",
+   "label": {
+    "ja": "邢",
+    "en": "the State of Xing"
+   },
+   "root": {
+    "ja": "邢",
+    "en": "Xing"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#4f7f6f",
+   "culture": "hua",
+   "capital": "xing",
+   "places": [
+    "handan"
+   ],
+   "reach": 50,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "xi",
+   "label": {
+    "ja": "息",
+    "en": "the State of Xi"
+   },
+   "root": {
+    "ja": "息",
+    "en": "Xi"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#8f6f9f",
+   "culture": "hua",
+   "capital": "xi_state",
+   "places": [],
+   "reach": 35,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "shen",
+   "label": {
+    "ja": "申",
+    "en": "the State of Shen"
+   },
+   "root": {
+    "ja": "申",
+    "en": "Shen"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "伯",
+    "en": "Earl"
+   },
+   "color": "#9f8f5f",
+   "culture": "hua",
+   "capital": "shen_state",
+   "places": [
+    "wan"
+   ],
+   "reach": 50,
+   "house": {
+    "ja": "姜",
+    "en": "Jiang"
+   }
+  },
+  {
+   "id": "deng",
+   "label": {
+    "ja": "鄧",
+    "en": "the State of Deng"
+   },
+   "root": {
+    "ja": "鄧",
+    "en": "Deng"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#7f6f4f",
+   "culture": "hua",
+   "capital": "deng",
+   "places": [],
+   "reach": 40,
+   "house": {
+    "ja": "曼",
+    "en": "Man"
+   }
+  },
+  {
+   "id": "sui",
+   "label": {
+    "ja": "随",
+    "en": "the State of Sui"
+   },
+   "root": {
+    "ja": "随",
+    "en": "Sui"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#5f6f9f",
+   "culture": "hua",
+   "capital": "sui",
+   "places": [],
+   "reach": 50,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "huang",
+   "label": {
+    "ja": "黄",
+    "en": "the State of Huang"
+   },
+   "root": {
+    "ja": "黄",
+    "en": "Huang"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#b09a4a",
+   "culture": "hua",
+   "capital": "huang",
+   "places": [],
+   "reach": 40,
+   "house": {
+    "ja": "嬴",
+    "en": "Ying"
+   }
+  },
+  {
+   "id": "shen_c",
+   "label": {
+    "ja": "沈",
+    "en": "the State of Shen"
+   },
+   "root": {
+    "ja": "沈",
+    "en": "Shen"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#6f8f7f",
+   "culture": "hua",
+   "capital": "shen_cai",
+   "places": [],
+   "reach": 25,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "xu_h",
+   "label": {
+    "ja": "徐",
+    "en": "the State of Xu (Huai)"
+   },
+   "root": {
+    "ja": "徐",
+    "en": "Xú"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#8a6a3a",
+   "culture": "dongyi",
+   "capital": "xu_huai",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "嬴",
+    "en": "Ying"
+   }
+  },
+  {
+   "id": "wu",
+   "label": {
+    "ja": "呉",
+    "en": "the State of Wu"
+   },
+   "root": {
+    "ja": "呉",
+    "en": "Wu"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#2f8f6f",
+   "culture": "wuyue",
+   "capital": "meili",
+   "places": [
+    "gusu"
+   ],
+   "reach": 110,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   },
+   "line": [
+    [
+     "寿夢",
+     "Shoumeng",
+     585,
+     561,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       6,
+       6,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "諸樊",
+     "Zhufan",
+     560,
+     548
+    ],
+    [
+     "余祭",
+     "Yuji",
+     547,
+     531,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "余昧",
+     "Yumei",
+     530,
+     527,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "呉王僚",
+     "King Liao",
+     526,
+     515
+    ],
+    [
+     "闔閭",
+     "Helü",
+     514,
+     496,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       8,
+       6,
+       7
+      ],
+      "tr": [
+       "ambitious",
+       "warrior"
+      ]
+     }
+    ],
+    [
+     "夫差",
+     "Fuchai",
+     495,
+     473,
+     {
+      "ab": [
+       4,
+       7,
+       4,
+       6
+      ],
+      "tr": [
+       "ambitious",
+       "greedy"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "id": "yue",
+   "label": {
+    "ja": "越",
+    "en": "the State of Yue"
+   },
+   "root": {
+    "ja": "越",
+    "en": "Yue"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#3f9f9f",
+   "culture": "wuyue",
+   "capital": "kuaiji",
+   "places": [],
+   "reach": 120,
+   "house": {
+    "ja": "姒",
+    "en": "Si"
+   },
+   "line": [
+    [
+     "允常",
+     "Yunchang",
+     510,
+     497,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "句践",
+     "Goujian",
+     496,
+     465,
+     {
+      "ab": [
+       7,
+       7,
+       6,
+       7
+      ],
+      "tr": [
+       "ambitious",
+       "paranoid"
+      ],
+      "born": 520
+     }
+    ],
+    [
+     "鹿郢",
+     "Luying",
+     464,
+     459
+    ],
+    [
+     "不寿",
+     "Bushou",
+     458,
+     449
+    ],
+    [
+     "朱句",
+     "Zhugou",
+     448,
+     412
+    ],
+    [
+     "越王翳",
+     "King Yi",
+     411,
+     376
+    ],
+    [
+     "無余",
+     "Wuyu",
+     375,
+     363,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "無顓",
+     "Wuzhuan",
+     362,
+     343
+    ],
+    [
+     "無彊",
+     "Wuqiang",
+     342,
+     333,
+     {
+      "rel": "brother"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "ba",
+   "label": {
+    "ja": "巴",
+    "en": "the State of Ba"
+   },
+   "root": {
+    "ja": "巴",
+    "en": "Ba"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#9f5f8f",
+   "culture": "bashu",
+   "capital": "jiangzhou",
+   "places": [],
+   "reach": 160,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "shu",
+   "label": {
+    "ja": "蜀",
+    "en": "the State of Shu"
+   },
+   "root": {
+    "ja": "蜀",
+    "en": "Shu"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "王",
+    "en": "King"
+   },
+   "color": "#7f4f9f",
+   "culture": "bashu",
+   "capital": "pi",
+   "places": [
+    "chengdu"
+   ],
+   "reach": 220,
+   "house": {
+    "ja": "杜",
+    "en": "Du"
+   }
+  },
+  {
+   "id": "yong",
+   "label": {
+    "ja": "庸",
+    "en": "the State of Yong"
+   },
+   "root": {
+    "ja": "庸",
+    "en": "Yong"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#6f5f3f",
+   "culture": "pu",
+   "capital": "shangyong",
+   "places": [],
+   "reach": 80,
+   "house": {
+    "ja": "庸",
+    "en": "Yong"
+   }
+  },
+  {
+   "id": "shu_h",
+   "label": {
+    "ja": "舒",
+    "en": "the Shu peoples"
+   },
+   "root": {
+    "ja": "舒",
+    "en": "Shu"
+   },
+   "gov": "tribe",
+   "color": "#5f8f5f",
+   "culture": "dongyi",
+   "capital": "shu_huai",
+   "places": [
+    "liu"
+   ],
+   "reach": 70,
+   "house": {
+    "ja": "偃",
+    "en": "Yan"
+   }
+  },
+  {
+   "id": "lai",
+   "label": {
+    "ja": "萊",
+    "en": "the State of Lai"
+   },
+   "root": {
+    "ja": "萊",
+    "en": "Lai"
+   },
+   "gov": "chiefdom",
+   "rank": {
+    "ja": "子",
+    "en": "Viscount"
+   },
+   "color": "#4f6f9f",
+   "culture": "dongyi",
+   "capital": "lai",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "姜",
+    "en": "Jiang"
+   }
+  },
+  {
+   "id": "xianyu",
+   "label": {
+    "ja": "鮮虞",
+    "en": "the Xianyu"
+   },
+   "root": {
+    "ja": "鮮虞",
+    "en": "Xianyu"
+   },
+   "gov": "tribe",
+   "color": "#8f8f5f",
+   "culture": "rongdi",
+   "capital": "xianyu",
+   "places": [],
+   "reach": 110,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "chidi",
+   "label": {
+    "ja": "赤狄",
+    "en": "the Red Di"
+   },
+   "root": {
+    "ja": "赤狄",
+    "en": "Red Di"
+   },
+   "gov": "tribe",
+   "color": "#a05a3a",
+   "culture": "rongdi",
+   "capital": "lu_di",
+   "places": [],
+   "reach": 140,
+   "house": {
+    "ja": "隗",
+    "en": "Wei"
+   }
+  },
+  {
+   "id": "baidi",
+   "label": {
+    "ja": "白狄",
+    "en": "the White Di"
+   },
+   "root": {
+    "ja": "白狄",
+    "en": "White Di"
+   },
+   "gov": "tribe",
+   "color": "#b0b08a",
+   "culture": "rongdi",
+   "capital": "baidi",
+   "places": [],
+   "reach": 190,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "quanrong",
+   "label": {
+    "ja": "犬戎",
+    "en": "the Quanrong"
+   },
+   "root": {
+    "ja": "犬戎",
+    "en": "Quanrong"
+   },
+   "gov": "tribe",
+   "color": "#6a6a4a",
+   "culture": "rongdi",
+   "capital": "quanrong",
+   "places": [],
+   "reach": 170,
+   "house": {
+    "ja": "戎",
+    "en": "Rong"
+   }
+  },
+  {
+   "id": "yiqu",
+   "label": {
+    "ja": "義渠",
+    "en": "the Yiqu"
+   },
+   "root": {
+    "ja": "義渠",
+    "en": "Yiqu"
+   },
+   "gov": "tribe",
+   "color": "#7a7a3a",
+   "culture": "rongdi",
+   "capital": "yiqu",
+   "places": [],
+   "reach": 160,
+   "house": {
+    "ja": "義渠",
+    "en": "Yiqu"
+   }
+  },
+  {
+   "id": "lirong",
+   "label": {
+    "ja": "驪戎",
+    "en": "the Li Rong"
+   },
+   "root": {
+    "ja": "驪戎",
+    "en": "Li Rong"
+   },
+   "gov": "tribe",
+   "color": "#5a5a3a",
+   "culture": "rongdi",
+   "capital": "lirong",
+   "places": [],
+   "reach": 45,
+   "house": {
+    "ja": "姫",
+    "en": "Ji"
+   }
+  },
+  {
+   "id": "shanrong",
+   "label": {
+    "ja": "山戎",
+    "en": "the Shanrong"
+   },
+   "root": {
+    "ja": "山戎",
+    "en": "Shanrong"
+   },
+   "gov": "tribe",
+   "color": "#7f6a4a",
+   "culture": "rongdi",
+   "capital": "shanrong",
+   "places": [],
+   "reach": 150,
+   "house": {
+    "ja": "戎",
+    "en": "Rong"
+   }
+  },
+  {
+   "id": "linhu",
+   "label": {
+    "ja": "林胡",
+    "en": "the Linhu"
+   },
+   "root": {
+    "ja": "林胡",
+    "en": "Linhu"
+   },
+   "gov": "tribe",
+   "color": "#8a7a6a",
+   "culture": "rongdi",
+   "capital": "linhu",
+   "places": [],
+   "reach": 170,
+   "house": {
+    "ja": "胡",
+    "en": "Hu"
+   }
+  },
+  {
+   "id": "huaiyi",
+   "label": {
+    "ja": "淮夷",
+    "en": "the Huaiyi"
+   },
+   "root": {
+    "ja": "淮夷",
+    "en": "Huaiyi"
+   },
+   "gov": "tribe",
+   "color": "#4a7a8a",
+   "culture": "dongyi",
+   "capital": "huaiyi",
+   "places": [],
+   "reach": 130,
+   "house": {
+    "ja": "夷",
+    "en": "Yi"
+   }
+  },
+  {
+   "id": "qunman",
+   "label": {
+    "ja": "群蛮",
+    "en": "the Qunman"
+   },
+   "root": {
+    "ja": "群蛮",
+    "en": "Qunman"
+   },
+   "gov": "tribe",
+   "color": "#5a7a3a",
+   "culture": "pu",
+   "capital": "qunman",
+   "places": [],
+   "reach": 200,
+   "house": {
+    "ja": "濮",
+    "en": "Pu"
+   }
+  },
+  {
+   "id": "wei",
+   "label": {
+    "ja": "魏",
+    "en": "the State of Wei"
+   },
+   "root": {
+    "ja": "魏",
+    "en": "Wei"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#9c3f3f",
+   "culture": "hua",
+   "capital": "anyi",
+   "places": [
+    "daliang"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "魏",
+    "en": "Wei"
+   },
+   "start": 403,
+   "parent": "jin",
+   "line": [
+    [
+     "魏桓子",
+     "Wei Huanzi",
+     455,
+     446,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "文侯",
+     "Marquis Wen",
+     445,
+     396,
+     {
+      "ab": [
+       8,
+       6,
+       8,
+       7
+      ],
+      "tr": [
+       "wise",
+       "reformer"
+      ]
+     }
+    ],
+    [
+     "武侯",
+     "Marquis Wu",
+     395,
+     370
+    ],
+    [
+     "恵王",
+     "King Hui",
+     369,
+     319,
+     {
+      "tr": [
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "襄王",
+     "King Xiang",
+     318,
+     296
+    ],
+    [
+     "昭王",
+     "King Zhao",
+     295,
+     277
+    ],
+    [
+     "安釐王",
+     "King Anxi",
+     276,
+     243
+    ],
+    [
+     "景湣王",
+     "King Jingmin",
+     242,
+     228
+    ],
+    [
+     "王假",
+     "King Jia",
+     227,
+     225
+    ]
+   ]
+  },
+  {
+   "id": "zhao",
+   "label": {
+    "ja": "趙",
+    "en": "the State of Zhao"
+   },
+   "root": {
+    "ja": "趙",
+    "en": "Zhao"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#3f7f3f",
+   "culture": "hua",
+   "capital": "jinyang",
+   "places": [
+    "handan",
+    "zhongmou"
+   ],
+   "reach": 140,
+   "house": {
+    "ja": "趙",
+    "en": "Zhao"
+   },
+   "start": 403,
+   "parent": "jin",
+   "line": [
+    [
+     "趙襄子",
+     "Zhao Xiangzi",
+     475,
+     425,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       7,
+       6,
+       7
+      ],
+      "tr": [
+       "ambitious"
+      ]
+     }
+    ],
+    [
+     "趙桓子",
+     "Zhao Huanzi",
+     424,
+     424,
+     {
+      "rel": "brother"
+     }
+    ],
+    [
+     "献侯",
+     "Marquis Xian",
+     423,
+     409,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "烈侯",
+     "Marquis Lie",
+     408,
+     387
+    ],
+    [
+     "敬侯",
+     "Marquis Jing",
+     386,
+     375
+    ],
+    [
+     "成侯",
+     "Marquis Cheng",
+     374,
+     350
+    ],
+    [
+     "粛侯",
+     "Marquis Su",
+     349,
+     326
+    ],
+    [
+     "武霊王",
+     "King Wuling",
+     325,
+     299,
+     {
+      "ab": [
+       6,
+       9,
+       6,
+       8
+      ],
+      "tr": [
+       "reformer",
+       "warrior"
+      ]
+     }
+    ],
+    [
+     "恵文王",
+     "King Huiwen",
+     298,
+     266
+    ],
+    [
+     "孝成王",
+     "King Xiaocheng",
+     265,
+     245
+    ],
+    [
+     "悼襄王",
+     "King Daoxiang",
+     244,
+     236
+    ],
+    [
+     "幽繆王",
+     "King Youmiu",
+     235,
+     228
+    ],
+    [
+     "代王嘉",
+     "King Jia of Dai",
+     227,
+     222,
+     {
+      "rel": "brother"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "han",
+   "label": {
+    "ja": "韓",
+    "en": "the State of Han"
+   },
+   "root": {
+    "ja": "韓",
+    "en": "Han"
+   },
+   "gov": "monarchy",
+   "rank": {
+    "ja": "侯",
+    "en": "Marquis"
+   },
+   "color": "#c08a3a",
+   "culture": "hua",
+   "capital": "pingyang",
+   "places": [
+    "yiyang"
+   ],
+   "reach": 100,
+   "house": {
+    "ja": "韓",
+    "en": "Han"
+   },
+   "start": 403,
+   "parent": "jin",
+   "line": [
+    [
+     "韓康子",
+     "Han Kangzi",
+     455,
+     425,
+     {
+      "rel": "other"
+     }
+    ],
+    [
+     "韓武子",
+     "Han Wuzi",
+     424,
+     409
+    ],
+    [
+     "景侯",
+     "Marquis Jing",
+     408,
+     400
+    ],
+    [
+     "烈侯",
+     "Marquis Lie",
+     399,
+     387
+    ],
+    [
+     "文侯",
+     "Marquis Wen",
+     386,
+     377
+    ],
+    [
+     "哀侯",
+     "Marquis Ai",
+     376,
+     374
+    ],
+    [
+     "懿侯",
+     "Marquis Yi",
+     374,
+     363
+    ],
+    [
+     "昭侯",
+     "Marquis Zhao",
+     362,
+     333,
+     {
+      "ab": [
+       7,
+       5,
+       6,
+       6
+      ],
+      "tr": [
+       "reformer"
+      ]
+     }
+    ],
+    [
+     "宣恵王",
+     "King Xuanhui",
+     332,
+     312
+    ],
+    [
+     "襄王",
+     "King Xiang",
+     311,
+     296
+    ],
+    [
+     "釐王",
+     "King Li",
+     295,
+     273
+    ],
+    [
+     "桓恵王",
+     "King Huanhui",
+     272,
+     239
+    ],
+    [
+     "韓王安",
+     "King An",
+     238,
+     230
+    ]
+   ]
+  }
+ ],
+ "bc": true,
+ "people": [
+  [
+   "管仲",
+   "Guan Zhong",
+   "qi",
+   "minister",
+   723,
+   645,
+   {
+    "from": 685,
+    "ab": [
+     10,
+     6,
+     9,
+     7
+    ],
+    "tr": [
+     "wise",
+     "genius"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "鮑叔牙",
+   "Bao Shuya",
+   "qi",
+   "minister",
+   723,
+   644,
+   {
+    "from": 686,
+    "ab": [
+     7,
+     4,
+     7,
+     8
+    ],
+    "tr": [
+     "just",
+     "kind"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "曹劌",
+   "Cao Gui",
+   "lu",
+   "general",
+   710,
+   650,
+   {
+    "from": 684,
+    "ab": [
+     5,
+     8,
+     5,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "百里奚",
+   "Baili Xi",
+   "yu",
+   "minister",
+   726,
+   621,
+   {
+    "from": 680,
+    "moves": [
+     [
+      655,
+      "qin"
+     ]
+    ],
+    "ab": [
+     9,
+     5,
+     8,
+     7
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "蹇叔",
+   "Jian Shu",
+   "qin",
+   "minister",
+   700,
+   610,
+   {
+    "from": 655,
+    "ab": [
+     8,
+     5,
+     7,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "由余",
+   "You Yu",
+   "qin",
+   "minister",
+   680,
+   615,
+   {
+    "from": 626,
+    "ab": [
+     7,
+     6,
+     8,
+     6
+    ]
+   }
+  ],
+  [
+   "驪姫",
+   "Li Ji",
+   "jin",
+   "hero",
+   690,
+   651,
+   {
+    "from": 672,
+    "sex": "f",
+    "tr": [
+     "ambitious",
+     "cruel"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "狐偃",
+   "Hu Yan",
+   "jin",
+   "minister",
+   715,
+   629,
+   {
+    "from": 655,
+    "ab": [
+     8,
+     6,
+     8,
+     6
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "趙衰",
+   "Zhao Cui",
+   "jin",
+   "minister",
+   700,
+   622,
+   {
+    "from": 655,
+    "ab": [
+     8,
+     5,
+     7,
+     7
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "介子推",
+   "Jie Zitui",
+   "jin",
+   "hero",
+   690,
+   636,
+   {
+    "from": 655,
+    "tr": [
+     "content",
+     "just"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "先軫",
+   "Xian Zhen",
+   "jin",
+   "general",
+   680,
+   627,
+   {
+    "from": 633,
+    "ab": [
+     5,
+     9,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "趙盾",
+   "Zhao Dun",
+   "jin",
+   "minister",
+   655,
+   601,
+   {
+    "from": 621,
+    "ab": [
+     8,
+     6,
+     7,
+     6
+    ]
+   }
+  ],
+  [
+   "成得臣",
+   "Cheng Dechen",
+   "chu",
+   "general",
+   670,
+   632,
+   {
+    "from": 637,
+    "ab": [
+     4,
+     7,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "孫叔敖",
+   "Sunshu Ao",
+   "chu",
+   "minister",
+   630,
+   593,
+   {
+    "from": 601,
+    "ab": [
+     9,
+     5,
+     7,
+     7
+    ],
+    "tr": [
+     "just",
+     "kind"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "弦高",
+   "Xian Gao",
+   "zheng",
+   "hero",
+   660,
+   600,
+   {
+    "from": 627,
+    "ab": [
+     5,
+     3,
+     7,
+     6
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "子産",
+   "Zichan",
+   "zheng",
+   "minister",
+   581,
+   522,
+   {
+    "from": 554,
+    "ab": [
+     10,
+     5,
+     9,
+     7
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "晏嬰",
+   "Yan Ying",
+   "qi",
+   "minister",
+   578,
+   500,
+   {
+    "from": 556,
+    "ab": [
+     9,
+     4,
+     9,
+     7
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "司馬穰苴",
+   "Sima Rangju",
+   "qi",
+   "general",
+   570,
+   520,
+   {
+    "from": 540,
+    "ab": [
+     6,
+     9,
+     5,
+     6
+    ]
+   }
+  ],
+  [
+   "叔向",
+   "Shuxiang",
+   "jin",
+   "minister",
+   570,
+   528,
+   {
+    "from": 556,
+    "ab": [
+     8,
+     4,
+     8,
+     6
+    ],
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "季札",
+   "Ji Zha",
+   "wu",
+   "scholar",
+   576,
+   485,
+   {
+    "from": 548,
+    "ab": [
+     7,
+     4,
+     8,
+     8
+    ],
+    "tr": [
+     "wise",
+     "content"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "孔子",
+   "Confucius",
+   "lu",
+   "scholar",
+   551,
+   479,
+   {
+    "from": 525,
+    "moves": [
+     [
+      497,
+      "wey"
+     ],
+     [
+      484,
+      "lu"
+     ]
+    ],
+    "ab": [
+     7,
+     3,
+     6,
+     9
+    ],
+    "tr": [
+     "wise",
+     "scholar"
+    ],
+    "fame": 9
+   }
+  ],
+  [
+   "老子",
+   "Laozi",
+   "zhou",
+   "scholar",
+   571,
+   471,
+   {
+    "from": 535,
+    "ab": [
+     6,
+     2,
+     5,
+     7
+    ],
+    "tr": [
+     "wise",
+     "content"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "伍子胥",
+   "Wu Zixu",
+   "chu",
+   "general",
+   559,
+   484,
+   {
+    "from": 530,
+    "moves": [
+     [
+      522,
+      "wu"
+     ]
+    ],
+    "ab": [
+     7,
+     8,
+     6,
+     6
+    ],
+    "tr": [
+     "brave",
+     "ambitious"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "孫武",
+   "Sun Wu",
+   "wu",
+   "general",
+   544,
+   496,
+   {
+    "from": 512,
+    "ab": [
+     6,
+     10,
+     6,
+     6
+    ],
+    "tr": [
+     "genius"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "伯嚭",
+   "Bo Pi",
+   "wu",
+   "minister",
+   550,
+   473,
+   {
+    "from": 514,
+    "ab": [
+     5,
+     4,
+     6,
+     5
+    ],
+    "tr": [
+     "greedy"
+    ]
+   }
+  ],
+  [
+   "申包胥",
+   "Shen Baoxu",
+   "chu",
+   "hero",
+   550,
+   480,
+   {
+    "from": 506,
+    "ab": [
+     5,
+     4,
+     8,
+     7
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "范蠡",
+   "Fan Li",
+   "yue",
+   "minister",
+   536,
+   448,
+   {
+    "from": 496,
+    "ab": [
+     9,
+     7,
+     8,
+     7
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "文種",
+   "Wen Zhong",
+   "yue",
+   "minister",
+   540,
+   472,
+   {
+    "from": 496,
+    "ab": [
+     8,
+     5,
+     7,
+     6
+    ]
+   }
+  ],
+  [
+   "西施",
+   "Xi Shi",
+   "yue",
+   "hero",
+   503,
+   473,
+   {
+    "from": 490,
+    "sex": "f",
+    "ab": [
+     3,
+     2,
+     7,
+     10
+    ],
+    "tr": [
+     "charismatic"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "公輸盤",
+   "Gongshu Ban",
+   "lu",
+   "artist",
+   507,
+   444,
+   {
+    "from": 480,
+    "ab": [
+     8,
+     4,
+     4,
+     5
+    ],
+    "tr": [
+     "builder",
+     "genius"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "豫譲",
+   "Yu Rang",
+   "jin",
+   "hero",
+   490,
+   453,
+   {
+    "from": 460,
+    "tr": [
+     "brave"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "墨子",
+   "Mozi",
+   "song",
+   "scholar",
+   470,
+   391,
+   {
+    "from": 440,
+    "ab": [
+     7,
+     6,
+     6,
+     7
+    ],
+    "tr": [
+     "kind",
+     "scholar"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "李悝",
+   "Li Kui",
+   "wei",
+   "minister",
+   455,
+   395,
+   {
+    "from": 422,
+    "ab": [
+     9,
+     4,
+     6,
+     5
+    ],
+    "tr": [
+     "reformer"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "西門豹",
+   "Ximen Bao",
+   "wei",
+   "minister",
+   445,
+   396,
+   {
+    "from": 422,
+    "ab": [
+     8,
+     5,
+     5,
+     6
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "楽羊",
+   "Yue Yang",
+   "wei",
+   "general",
+   450,
+   390,
+   {
+    "from": 410,
+    "ab": [
+     5,
+     8,
+     4,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "呉起",
+   "Wu Qi",
+   "lu",
+   "general",
+   440,
+   381,
+   {
+    "from": 412,
+    "moves": [
+     [
+      409,
+      "wei"
+     ],
+     [
+      386,
+      "chu"
+     ]
+    ],
+    "ab": [
+     8,
+     10,
+     6,
+     5
+    ],
+    "tr": [
+     "genius",
+     "ambitious"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "楊朱",
+   "Yang Zhu",
+   "wei",
+   "scholar",
+   440,
+   360,
+   {
+    "from": 400,
+    "tr": [
+     "cynical"
+    ]
+   }
+  ],
+  [
+   "商鞅",
+   "Shang Yang",
+   "wei",
+   "minister",
+   390,
+   338,
+   {
+    "from": 365,
+    "moves": [
+     [
+      361,
+      "qin"
+     ]
+    ],
+    "ab": [
+     10,
+     6,
+     5,
+     4
+    ],
+    "tr": [
+     "reformer",
+     "cruel"
+    ],
+    "fame": 9
+   }
+  ],
+  [
+   "申不害",
+   "Shen Buhai",
+   "han",
+   "minister",
+   385,
+   337,
+   {
+    "from": 355,
+    "ab": [
+     9,
+     4,
+     6,
+     5
+    ],
+    "tr": [
+     "reformer"
+    ]
+   }
+  ],
+  [
+   "龐涓",
+   "Pang Juan",
+   "wei",
+   "general",
+   385,
+   342,
+   {
+    "from": 360,
+    "ab": [
+     5,
+     8,
+     4,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "孫臏",
+   "Sun Bin",
+   "qi",
+   "general",
+   380,
+   316,
+   {
+    "from": 354,
+    "ab": [
+     6,
+     10,
+     6,
+     5
+    ],
+    "tr": [
+     "genius"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "田忌",
+   "Tian Ji",
+   "qi",
+   "general",
+   390,
+   320,
+   {
+    "from": 356,
+    "ab": [
+     5,
+     7,
+     5,
+     6
+    ]
+   }
+  ],
+  [
+   "扁鵲",
+   "Bian Que",
+   "zhao",
+   "scholar",
+   407,
+   310,
+   {
+    "from": 370,
+    "ab": [
+     6,
+     2,
+     5,
+     6
+    ],
+    "tr": [
+     "genius",
+     "kind"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "孟子",
+   "Mencius",
+   "zhu",
+   "scholar",
+   372,
+   289,
+   {
+    "from": 330,
+    "moves": [
+     [
+      319,
+      "qi"
+     ]
+    ],
+    "ab": [
+     6,
+     3,
+     7,
+     8
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "荘子",
+   "Zhuangzi",
+   "song",
+   "scholar",
+   369,
+   286,
+   {
+    "from": 340,
+    "tr": [
+     "wise",
+     "content"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "恵施",
+   "Hui Shi",
+   "wei",
+   "minister",
+   370,
+   310,
+   {
+    "from": 334,
+    "ab": [
+     7,
+     3,
+     7,
+     6
+    ],
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "公孫衍",
+   "Gongsun Yan",
+   "wei",
+   "minister",
+   360,
+   305,
+   {
+    "from": 330,
+    "ab": [
+     6,
+     6,
+     8,
+     6
+    ]
+   }
+  ],
+  [
+   "張儀",
+   "Zhang Yi",
+   "qin",
+   "minister",
+   373,
+   309,
+   {
+    "from": 329,
+    "moves": [
+     [
+      310,
+      "wei"
+     ]
+    ],
+    "ab": [
+     6,
+     4,
+     10,
+     7
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "蘇秦",
+   "Su Qin",
+   "yan",
+   "minister",
+   340,
+   284,
+   {
+    "from": 312,
+    "moves": [
+     [
+      300,
+      "qi"
+     ]
+    ],
+    "ab": [
+     6,
+     4,
+     10,
+     8
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "司馬錯",
+   "Sima Cuo",
+   "qin",
+   "general",
+   360,
+   290,
+   {
+    "from": 320,
+    "ab": [
+     6,
+     8,
+     5,
+     5
+    ]
+   }
+  ],
+  [
+   "郭隗",
+   "Guo Wei",
+   "yan",
+   "minister",
+   350,
+   290,
+   {
+    "from": 311,
+    "ab": [
+     7,
+     3,
+     6,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "孟嘗君",
+   "Lord Mengchang",
+   "qi",
+   "minister",
+   345,
+   279,
+   {
+    "from": 300,
+    "ab": [
+     6,
+     5,
+     8,
+     9
+    ],
+    "tr": [
+     "generous",
+     "charismatic"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "屈原",
+   "Qu Yuan",
+   "chu",
+   "artist",
+   340,
+   278,
+   {
+    "from": 315,
+    "ab": [
+     6,
+     3,
+     6,
+     7
+    ],
+    "tr": [
+     "just",
+     "scholar"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "白起",
+   "Bai Qi",
+   "qin",
+   "general",
+   332,
+   257,
+   {
+    "from": 294,
+    "ab": [
+     5,
+     10,
+     3,
+     5
+    ],
+    "tr": [
+     "cruel",
+     "warrior"
+    ],
+    "fame": 9
+   }
+  ],
+  [
+   "魏冄",
+   "Wei Ran",
+   "qin",
+   "minister",
+   340,
+   265,
+   {
+    "from": 306,
+    "ab": [
+     7,
+     6,
+     6,
+     5
+    ],
+    "tr": [
+     "greedy",
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "楽毅",
+   "Yue Yi",
+   "yan",
+   "general",
+   320,
+   255,
+   {
+    "from": 290,
+    "moves": [
+     [
+      279,
+      "zhao"
+     ]
+    ],
+    "ab": [
+     7,
+     10,
+     7,
+     7
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "田単",
+   "Tian Dan",
+   "qi",
+   "general",
+   320,
+   250,
+   {
+    "from": 284,
+    "ab": [
+     6,
+     9,
+     6,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "藺相如",
+   "Lin Xiangru",
+   "zhao",
+   "minister",
+   315,
+   260,
+   {
+    "from": 283,
+    "ab": [
+     7,
+     4,
+     9,
+     8
+    ],
+    "tr": [
+     "brave",
+     "wise"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "廉頗",
+   "Lian Po",
+   "zhao",
+   "general",
+   327,
+   243,
+   {
+    "from": 283,
+    "moves": [
+     [
+      244,
+      "wei"
+     ],
+     [
+      241,
+      "chu"
+     ]
+    ],
+    "ab": [
+     5,
+     9,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "趙奢",
+   "Zhao She",
+   "zhao",
+   "general",
+   320,
+   262,
+   {
+    "from": 280,
+    "ab": [
+     7,
+     8,
+     5,
+     6
+    ]
+   }
+  ],
+  [
+   "范雎",
+   "Fan Ju",
+   "qin",
+   "minister",
+   315,
+   255,
+   {
+    "from": 271,
+    "ab": [
+     8,
+     4,
+     9,
+     6
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "平原君",
+   "Lord Pingyuan",
+   "zhao",
+   "minister",
+   308,
+   251,
+   {
+    "from": 298,
+    "ab": [
+     5,
+     4,
+     7,
+     8
+    ],
+    "tr": [
+     "generous"
+    ]
+   }
+  ],
+  [
+   "毛遂",
+   "Mao Sui",
+   "zhao",
+   "hero",
+   290,
+   228,
+   {
+    "from": 257,
+    "ab": [
+     4,
+     3,
+     8,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "信陵君",
+   "Lord Xinling",
+   "wei",
+   "general",
+   300,
+   243,
+   {
+    "from": 276,
+    "ab": [
+     7,
+     8,
+     7,
+     9
+    ],
+    "tr": [
+     "generous",
+     "charismatic"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "春申君",
+   "Lord Chunshen",
+   "chu",
+   "minister",
+   314,
+   238,
+   {
+    "from": 263,
+    "ab": [
+     6,
+     5,
+     7,
+     7
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "趙括",
+   "Zhao Kuo",
+   "zhao",
+   "general",
+   290,
+   260,
+   {
+    "from": 262,
+    "ab": [
+     3,
+     4,
+     3,
+     6
+    ],
+    "tr": [
+     "foolish"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "公孫龍",
+   "Gongsun Long",
+   "zhao",
+   "scholar",
+   320,
+   250,
+   {
+    "from": 290,
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "鄒衍",
+   "Zou Yan",
+   "qi",
+   "scholar",
+   305,
+   240,
+   {
+    "from": 280,
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "荀子",
+   "Xunzi",
+   "qi",
+   "scholar",
+   313,
+   238,
+   {
+    "from": 280,
+    "moves": [
+     [
+      255,
+      "chu"
+     ]
+    ],
+    "ab": [
+     7,
+     3,
+     6,
+     7
+    ],
+    "tr": [
+     "wise",
+     "scholar"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "蒙驁",
+   "Meng Ao",
+   "qin",
+   "general",
+   300,
+   240,
+   {
+    "from": 270,
+    "ab": [
+     5,
+     8,
+     4,
+     5
+    ]
+   }
+  ],
+  [
+   "呂不韋",
+   "Lü Buwei",
+   "qin",
+   "minister",
+   292,
+   235,
+   {
+    "from": 250,
+    "ab": [
+     8,
+     4,
+     8,
+     7
+    ],
+    "tr": [
+     "greedy",
+     "ambitious"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "李牧",
+   "Li Mu",
+   "zhao",
+   "general",
+   290,
+   229,
+   {
+    "from": 250,
+    "ab": [
+     6,
+     10,
+     5,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "韓非",
+   "Han Fei",
+   "han",
+   "scholar",
+   280,
+   233,
+   {
+    "from": 255,
+    "ab": [
+     9,
+     3,
+     4,
+     3
+    ],
+    "tr": [
+     "genius",
+     "scholar"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "李斯",
+   "Li Si",
+   "qin",
+   "minister",
+   284,
+   208,
+   {
+    "from": 247,
+    "ab": [
+     9,
+     4,
+     7,
+     6
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "王翦",
+   "Wang Jian",
+   "qin",
+   "general",
+   300,
+   220,
+   {
+    "from": 236,
+    "ab": [
+     6,
+     10,
+     5,
+     6
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "王賁",
+   "Wang Ben",
+   "qin",
+   "general",
+   265,
+   210,
+   {
+    "from": 228,
+    "ab": [
+     5,
+     8,
+     4,
+     5
+    ]
+   }
+  ],
+  [
+   "尉繚",
+   "Wei Liao",
+   "qin",
+   "general",
+   290,
+   220,
+   {
+    "from": 237,
+    "ab": [
+     7,
+     8,
+     6,
+     5
+    ],
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "荊軻",
+   "Jing Ke",
+   "yan",
+   "hero",
+   260,
+   227,
+   {
+    "from": 230,
+    "ab": [
+     3,
+     6,
+     4,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ]
+ ]
 }
