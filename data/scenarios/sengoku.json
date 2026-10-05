@@ -15,6 +15,7 @@
  "pool": "jp",
  "visual": "ink",
  "provinceCells": 14,
+ "wildKm": 110,
  "newRealm": {
   "ja": "{name}家",
   "en": "the {name} clan",
@@ -5443,5 +5444,2643 @@
    }
   ]
  ],
- "events": []
+ "events": [
+  {
+   "id": "okehazama",
+   "y": 1560,
+   "m": 6,
+   "need": [
+    "oda",
+    "imagawa"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "imagawa",
+     "battle_wound"
+    ],
+    [
+     "army",
+     "imagawa",
+     0.6
+    ],
+    [
+     "add",
+     "imagawa",
+     "stability",
+     -0.3
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     25
+    ]
+   ],
+   "imp": 3,
+   "at": "kiyosu",
+   "ja": "桶狭間の戦い。二万を超える軍で尾張へ攻め入った今川義元を、{r_oda}はわずかな兵で急襲し、豪雨の中で討ち取った。",
+   "en": "The battle of Okehazama. Imagawa Yoshimoto invaded Owari with over twenty thousand men; {r_oda} fell on him with a few thousand in a downpour and took his head."
+  },
+  {
+   "id": "tokugawa_free",
+   "y": 1560,
+   "m": 7,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "tokugawa",
+     "stability",
+     0.1
+    ]
+   ],
+   "at": "okazaki",
+   "ja": "今川家の人質として育った{r_tokugawa}は、桶狭間の後に岡崎城へ戻り、今川から自立した。",
+   "en": "Raised a hostage of the Imagawa, {r_tokugawa} returned to Okazaki after Okehazama and broke free of them."
+  },
+  {
+   "id": "uesugi_name",
+   "y": 1561,
+   "m": 4,
+   "need": [
+    "uesugi"
+   ],
+   "do": [
+    [
+     "relabel",
+     "uesugi",
+     {
+      "ja": "上杉家",
+      "en": "the Uesugi clan"
+     },
+     {
+      "ja": "上杉",
+      "en": "Uesugi"
+     }
+    ],
+    [
+     "add",
+     "uesugi",
+     "prestige",
+     15
+    ]
+   ],
+   "at": "kamakura",
+   "ja": "長尾景虎は関東管領上杉憲政から上杉の名跡と管領職を譲られ、鶴岡八幡宮で拝賀した。以後、{n_uesugi}は上杉家を名乗る。",
+   "en": "Nagao Kagetora received the Uesugi name and the office of Kantō deputy from Uesugi Norimasa, and gave thanks at the Tsurugaoka shrine. The house now called itself Uesugi."
+  },
+  {
+   "id": "kawanakajima",
+   "y": 1561,
+   "m": 10,
+   "need": [
+    "takeda",
+    "uesugi"
+   ],
+   "do": [
+    [
+     "army",
+     "takeda",
+     0.7
+    ],
+    [
+     "army",
+     "uesugi",
+     0.7
+    ],
+    [
+     "add",
+     "takeda",
+     "prestige",
+     5
+    ],
+    [
+     "add",
+     "uesugi",
+     "prestige",
+     5
+    ]
+   ],
+   "imp": 3,
+   "at": "kaizu",
+   "ja": "第四次川中島の戦い。霧の八幡原で{n_takeda}と{n_uesugi}が激突した。謙信が単騎で信玄の本陣に斬り込み、信玄が軍配で受けたとも伝わる。武田信繁・山本勘助が討死し、両軍とも多くを失った。",
+   "en": "The fourth battle of Kawanakajima. {n_takeda} and {n_uesugi} clashed in the fog of Hachimanbara; legend has Kenshin riding alone into Shingen's camp and Shingen parrying with his war fan. Takeda Nobushige and Yamamoto Kansuke fell, and both armies bled."
+  },
+  {
+   "id": "kiyosu_alliance",
+   "y": 1562,
+   "m": 2,
+   "need": [
+    "oda",
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "ally",
+     "oda",
+     "tokugawa"
+    ]
+   ],
+   "imp": 3,
+   "at": "kiyosu",
+   "ja": "清洲同盟。{r_oda}と{r_tokugawa}は盟を結び、互いの背を預けた。この同盟は二十年続く。",
+   "en": "The Kiyosu alliance. {r_oda} and {r_tokugawa} swore to guard each other's backs; the bond would hold for twenty years."
+  },
+  {
+   "id": "omura_baptized",
+   "y": 1563,
+   "m": 6,
+   "need": [
+    "omura"
+   ],
+   "do": [
+    [
+     "faith",
+     "omura",
+     1,
+     0.5
+    ],
+    [
+     "add",
+     "omura",
+     "treasury",
+     60
+    ]
+   ],
+   "imp": 3,
+   "at": "omura",
+   "ja": "{r_omura}は宣教師から洗礼を受け、最初のキリシタン大名となった。南蛮船は{n_omura}の港に入るようになった。",
+   "en": "{r_omura} was baptised by the missionaries, the first Christian daimyo. The southern barbarian ships began to call at the ports of {n_omura}."
+  },
+  {
+   "id": "mikawa_ikko",
+   "y": 1563,
+   "m": 10,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "add",
+     "tokugawa",
+     "stability",
+     -0.15
+    ]
+   ],
+   "ja": "三河で門徒衆が蜂起し、{n_tokugawa}の家臣にも主君に背く者が出た。{r_tokugawa}は半年かけてこれを鎮めた。",
+   "en": "The believers of Mikawa rose, and some of {n_tokugawa}'s own retainers turned against their lord. {r_tokugawa} needed half a year to put it down."
+  },
+  {
+   "id": "eiroku",
+   "y": 1565,
+   "m": 6,
+   "need": [
+    "ashikaga"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "ashikaga",
+     "assassination"
+    ],
+    [
+     "add",
+     "ashikaga",
+     "legitimacy",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "kyoto",
+   "ja": "永禄の変。三好の一党が京の御所を襲い、将軍足利義輝は自ら刀を取って戦ったのち討たれた。",
+   "en": "The Eiroku incident. A Miyoshi faction stormed the shogun's palace in Kyoto; Ashikaga Yoshiteru fought with his own sword before he was cut down."
+  },
+  {
+   "id": "nagano_end",
+   "y": 1566,
+   "m": 10,
+   "need": [
+    "takeda",
+    "nagano"
+   ],
+   "do": [
+    [
+     "annex",
+     "takeda",
+     "nagano"
+    ]
+   ],
+   "at": "minowa",
+   "ja": "{r_takeda}は上野の箕輪城を落とし、{n_nagano}を滅ぼした。",
+   "en": "{r_takeda} took Minowa castle in Kōzuke and destroyed {n_nagano}."
+  },
+  {
+   "id": "tokugawa_name",
+   "y": 1566,
+   "m": 12,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "relabel",
+     "tokugawa",
+     {
+      "ja": "徳川家",
+      "en": "the Tokugawa clan"
+     },
+     {
+      "ja": "徳川",
+      "en": "Tokugawa"
+     }
+    ],
+    [
+     "add",
+     "tokugawa",
+     "legitimacy",
+     0.1
+    ]
+   ],
+   "ja": "松平家康は朝廷の許しを得て、姓を徳川と改めた。",
+   "en": "With the court's leave, Matsudaira Ieyasu changed his family name to Tokugawa."
+  },
+  {
+   "id": "amago_end",
+   "y": 1566,
+   "m": 12,
+   "need": [
+    "mori",
+    "amago"
+   ],
+   "do": [
+    [
+     "annex",
+     "mori",
+     "amago"
+    ]
+   ],
+   "imp": 3,
+   "at": "toda",
+   "ja": "月山富田城が開城し、{n_amago}は{n_mori}に降った。毛利元就は中国地方の覇者となった。",
+   "en": "Gassan-Toda castle opened its gates and {n_amago} submitted to {n_mori}. Mōri Motonari was master of the Chūgoku region."
+  },
+  {
+   "id": "inabayama",
+   "y": 1567,
+   "m": 9,
+   "need": [
+    "oda",
+    "saito"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "saito"
+    ],
+    [
+     "capital",
+     "oda",
+     "inabayama"
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "inabayama",
+   "ja": "{r_oda}は稲葉山城を落として美濃を手に入れ、城下を岐阜と改めた。この頃から「天下布武」の印を用いはじめる。",
+   "en": "{r_oda} took Inabayama and with it Mino, renamed the castle town Gifu, and began to use a seal reading \"the realm under arms\"."
+  },
+  {
+   "id": "joraku",
+   "y": 1568,
+   "m": 10,
+   "need": [
+    "oda",
+    "rokkaku"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "rokkaku"
+    ],
+    [
+     "cede",
+     "miyoshi",
+     "oda",
+     [
+      "akutagawa",
+      "itami"
+     ]
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     20
+    ]
+   ],
+   "imp": 3,
+   "at": "kyoto",
+   "ja": "{r_oda}は足利義昭を奉じて上洛し、行く手を阻んだ{n_rokkaku}を観音寺城に破り、三好の軍を摂津から退けた。義昭は第十五代将軍となった。",
+   "en": "{r_oda} marched on Kyoto as escort of Ashikaga Yoshiaki, broke {n_rokkaku} at Kannonji and drove the Miyoshi out of Settsu. Yoshiaki became the fifteenth shogun."
+  },
+  {
+   "id": "takeda_suruga",
+   "y": 1568,
+   "m": 12,
+   "need": [
+    "takeda",
+    "imagawa"
+   ],
+   "do": [
+    [
+     "cede",
+     "imagawa",
+     "takeda",
+     [
+      "sunpu"
+     ]
+    ]
+   ],
+   "imp": 3,
+   "at": "sunpu",
+   "ja": "{r_takeda}は今川との同盟を破って駿河に攻め入り、駿府を落とした。今川氏真は掛川へ逃れた。",
+   "en": "{r_takeda} broke the alliance with the Imagawa, invaded Suruga and took Sunpu; Imagawa Ujizane fled to Kakegawa."
+  },
+  {
+   "id": "imagawa_end",
+   "y": 1569,
+   "m": 6,
+   "need": [
+    "tokugawa",
+    "imagawa"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "imagawa"
+    ]
+   ],
+   "imp": 3,
+   "at": "kakegawa",
+   "ja": "掛川城が開城し、戦国大名としての{n_imagawa}は滅んだ。氏真は妻の実家の北条家に身を寄せ、のちに歌と蹴鞠に生きた。",
+   "en": "Kakegawa opened its gates and {n_imagawa} was finished as a warlord house. Ujizane went to his wife's family, the Hōjō, and later lived for poetry and football."
+  },
+  {
+   "id": "kitabatake",
+   "y": 1569,
+   "m": 11,
+   "need": [
+    "oda",
+    "kitabatake"
+   ],
+   "do": [
+    [
+     "vassal",
+     "oda",
+     "kitabatake"
+    ]
+   ],
+   "at": "tage",
+   "ja": "{r_oda}は伊勢の{n_kitabatake}を攻めて和を結ばせ、次男信雄を北畠の養子とした。",
+   "en": "{r_oda} invaded Ise and forced {n_kitabatake} to terms, making his second son Nobukatsu the Kitabatake heir."
+  },
+  {
+   "id": "oda_h_end",
+   "y": 1569,
+   "m": 12,
+   "need": [
+    "satake",
+    "oda_h"
+   ],
+   "do": [
+    [
+     "annex",
+     "satake",
+     "oda_h"
+    ]
+   ],
+   "at": "oda_h",
+   "ja": "{r_satake}は常陸の{n_oda_h}を攻め、小田城を奪った。",
+   "en": "{r_satake} attacked {n_oda_h} in Hitachi and took Oda castle."
+  },
+  {
+   "id": "kanegasaki",
+   "y": 1570,
+   "m": 5,
+   "need": [
+    "oda",
+    "azai",
+    "asakura"
+   ],
+   "do": [
+    [
+     "war",
+     "oda",
+     "asakura"
+    ],
+    [
+     "war",
+     "azai",
+     "oda"
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     -5
+    ]
+   ],
+   "imp": 3,
+   "at": "tsuruga",
+   "ja": "{r_oda}は越前の{n_asakura}を攻めたが、妹お市の嫁ぎ先{n_azai}が背いて退路を断った。木下藤吉郎が殿を務め、信長はわずかな供と京へ逃れた (金ヶ崎の退き口)。",
+   "en": "{r_oda} invaded {n_asakura} in Echizen, but {n_azai}, whose lord had married his sister Oichi, turned and cut the road home. Kinoshita Tōkichirō held the rear while Nobunaga fled to Kyoto with a handful of men."
+  },
+  {
+   "id": "anegawa",
+   "y": 1570,
+   "m": 8,
+   "need": [
+    "oda",
+    "azai",
+    "asakura"
+   ],
+   "do": [
+    [
+     "army",
+     "azai",
+     0.75
+    ],
+    [
+     "army",
+     "asakura",
+     0.8
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     5
+    ]
+   ],
+   "imp": 3,
+   "at": "odani",
+   "ja": "姉川の戦い。{n_oda}と{n_tokugawa}の軍が{n_azai}・{n_asakura}の軍を姉川の河原で破った。",
+   "en": "The battle of the Ane river. The armies of {n_oda} and {n_tokugawa} defeated {n_azai} and {n_asakura} on its gravel banks."
+  },
+  {
+   "id": "ishiyama_war",
+   "y": 1570,
+   "m": 10,
+   "need": [
+    "oda",
+    "ishiyama"
+   ],
+   "do": [
+    [
+     "war",
+     "ishiyama",
+     "oda"
+    ]
+   ],
+   "imp": 3,
+   "at": "ishiyama",
+   "ja": "{r_ishiyama}は諸国の門徒に檄を飛ばし、{n_oda}との戦いに立った。石山合戦の始まりで、戦いは十年に及ぶ。",
+   "en": "{r_ishiyama} called the believers of every province to arms against {n_oda}. So began the Ishiyama war, which would last ten years."
+  },
+  {
+   "id": "nagashima_rise",
+   "y": 1570,
+   "m": 12,
+   "need": [
+    "oda",
+    "nagashima"
+   ],
+   "do": [
+    [
+     "war",
+     "nagashima",
+     "oda"
+    ]
+   ],
+   "at": "nagashima",
+   "ja": "伊勢長島の門徒衆が蜂起し、{n_oda}の小木江城を攻め落とした。",
+   "en": "The believers of Nagashima in Ise rose and took a castle of {n_oda}."
+  },
+  {
+   "id": "tsugaru_rise",
+   "y": 1571,
+   "m": 6,
+   "need": [
+    "nanbu"
+   ],
+   "do": [
+    [
+     "partition",
+     "nanbu",
+     [
+      "tsugaru"
+     ]
+    ]
+   ],
+   "at": "ourajo",
+   "ja": "南部家の一族大浦為信が主家に背いて石川城を落とし、津軽の地を切り取りはじめた。",
+   "en": "Ōura Tamenobu, a kinsman of the Nanbu, rose against his lords, took Ishikawa castle and began to carve out Tsugaru for himself."
+  },
+  {
+   "id": "mori_three_arrows",
+   "y": 1571,
+   "m": 7,
+   "min": 4,
+   "need": [
+    "mori"
+   ],
+   "do": [
+    [
+     "add",
+     "mori",
+     "stability",
+     0.1
+    ]
+   ],
+   "ja": "毛利元就は世を去った。三人の子に「一本の矢は折れても三本束ねれば折れぬ」と諭したという話は、後世の作り話ともいわれる。",
+   "en": "Mōri Motonari died. The tale of his teaching his three sons that one arrow breaks but three together do not may be a later invention."
+  },
+  {
+   "id": "hiei",
+   "y": 1571,
+   "m": 10,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "oda",
+     [
+      "sakamoto"
+     ]
+    ],
+    [
+     "add",
+     "oda",
+     "stability",
+     -0.05
+    ]
+   ],
+   "imp": 3,
+   "at": "sakamoto",
+   "ja": "比叡山焼き討ち。浅井・朝倉に味方した比叡山の僧兵を{r_oda}は許さず、山上の堂塔を焼き払った。多くの人々が命を落とした。",
+   "en": "The burning of Mount Hiei. {r_oda} would not forgive the warrior monks of Hiei for siding with Azai and Asakura, and burned the halls on the mountain. Many people lost their lives."
+  },
+  {
+   "id": "mikatagahara",
+   "y": 1573,
+   "m": 1,
+   "need": [
+    "takeda",
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "army",
+     "tokugawa",
+     0.55
+    ],
+    [
+     "add",
+     "takeda",
+     "prestige",
+     15
+    ],
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     -10
+    ]
+   ],
+   "imp": 3,
+   "at": "hikuma",
+   "ja": "三方ヶ原の戦い。西上する{r_takeda}の大軍に{r_tokugawa}は挑んだが大敗し、浜松城へ逃げ帰った。家康はこの時の苦い顔を絵に描かせて戒めとしたと伝わる。",
+   "en": "The battle of Mikatagahara. {r_tokugawa} challenged the great army of {r_takeda} marching west and was routed back to Hamamatsu. He is said to have had his grimace painted to remind himself."
+  },
+  {
+   "id": "shingen_dies",
+   "y": 1573,
+   "m": 5,
+   "min": 4,
+   "need": [
+    "takeda"
+   ],
+   "do": [
+    [
+     "add",
+     "takeda",
+     "stability",
+     -0.1
+    ]
+   ],
+   "ja": "武田信玄は西上の途上で病に倒れ、甲斐へ戻る途中で世を去った。「三年はわが死を秘せよ」と遺言したという。",
+   "en": "Takeda Shingen fell ill on the march west and died on the way home. He is said to have ordered his death kept secret for three years."
+  },
+  {
+   "id": "bakufu_end",
+   "y": 1573,
+   "m": 8,
+   "need": [
+    "oda",
+    "ashikaga"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "ashikaga"
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "at": "kyoto",
+   "ja": "{r_ashikaga}は{n_oda}に兵を挙げたが敗れ、京から追放された。二百四十年続いた室町幕府はここに事実上終わった。",
+   "en": "{r_ashikaga} rose against {n_oda}, lost, and was driven from Kyoto. The Muromachi shogunate, two hundred and forty years old, was in effect at an end."
+  },
+  {
+   "id": "asakura_end",
+   "y": 1573,
+   "m": 9,
+   "need": [
+    "oda",
+    "asakura"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "asakura"
+    ]
+   ],
+   "imp": 3,
+   "at": "ichijodani",
+   "ja": "{r_oda}は刀根坂で{n_asakura}を破って一乗谷を焼き、朝倉義景は自害した。",
+   "en": "{r_oda} broke {n_asakura} at Tonezaka and burned Ichijōdani; Asakura Yoshikage took his own life."
+  },
+  {
+   "id": "azai_end",
+   "y": 1573,
+   "m": 9,
+   "need": [
+    "oda",
+    "azai"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "azai"
+    ]
+   ],
+   "imp": 3,
+   "at": "odani",
+   "ja": "小谷城が落ち、浅井長政は自害した。お市と三人の娘は城から救い出された。",
+   "en": "Odani fell and Azai Nagamasa took his own life. Oichi and her three daughters were brought out of the castle."
+  },
+  {
+   "id": "miyoshi_setsu",
+   "y": 1573,
+   "m": 12,
+   "need": [
+    "oda",
+    "miyoshi"
+   ],
+   "do": [
+    [
+     "cede",
+     "miyoshi",
+     "oda",
+     [
+      "sakai",
+      "nara",
+      "itami",
+      "akutagawa"
+     ]
+    ]
+   ],
+   "at": "sakai",
+   "ja": "三好義継が若江城で討たれ、畿内の三好の地は{n_oda}の手に落ちた。三好の一族は阿波に拠って残った。",
+   "en": "Miyoshi Yoshitsugu fell at Wakae, and the Miyoshi lands of the capital region passed to {n_oda}; the family held on in Awa."
+  },
+  {
+   "id": "nagashima_end",
+   "y": 1574,
+   "m": 9,
+   "need": [
+    "oda",
+    "nagashima"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "nagashima"
+    ]
+   ],
+   "imp": 3,
+   "at": "nagashima",
+   "ja": "三度目の攻めで{r_oda}は長島を兵糧攻めにし、降った門徒衆までも討った。",
+   "en": "In his third attempt {r_oda} starved Nagashima into surrender, and put even those who surrendered to the sword."
+  },
+  {
+   "id": "hatakeyama_end",
+   "y": 1575,
+   "m": 5,
+   "need": [
+    "oda",
+    "hatakeyama"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "hatakeyama"
+    ]
+   ],
+   "at": "takaya",
+   "ja": "河内の高屋城が{n_oda}に降った。",
+   "en": "Takaya castle in Kawachi surrendered to {n_oda}."
+  },
+  {
+   "id": "nagashino",
+   "y": 1575,
+   "m": 6,
+   "need": [
+    "oda",
+    "takeda"
+   ],
+   "do": [
+    [
+     "army",
+     "takeda",
+     0.4
+    ],
+    [
+     "add",
+     "takeda",
+     "prestige",
+     -20
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     20
+    ],
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "at": "okazaki",
+   "ja": "長篠の戦い。{n_oda}と{n_tokugawa}は馬防柵の内から多くの鉄砲を撃ちかけ、{n_takeda}の騎馬隊を破った。山県昌景・馬場信春ら武田の名将の多くが討死した。",
+   "en": "The battle of Nagashino. From behind palisades {n_oda} and {n_tokugawa} met the horsemen of {n_takeda} with massed musket fire. Yamagata Masakage, Baba Nobuharu and many of Takeda's best fell."
+  },
+  {
+   "id": "mimura_end",
+   "y": 1575,
+   "m": 7,
+   "need": [
+    "mori",
+    "mimura"
+   ],
+   "do": [
+    [
+     "annex",
+     "mori",
+     "mimura"
+    ]
+   ],
+   "at": "bitchu",
+   "ja": "備中兵乱。{r_mori}は{n_mimura}を滅ぼし、備中を手に入れた。",
+   "en": "The Bitchū war: {r_mori} destroyed {n_mimura} and took Bitchū."
+  },
+  {
+   "id": "ichijo_end",
+   "y": 1575,
+   "m": 9,
+   "need": [
+    "chosokabe",
+    "ichijo"
+   ],
+   "do": [
+    [
+     "annex",
+     "chosokabe",
+     "ichijo"
+    ]
+   ],
+   "at": "nakamura",
+   "ja": "四万十川の戦い。{r_chosokabe}は{n_ichijo}を破り、土佐を一つにした。",
+   "en": "At the Shimanto river {r_chosokabe} defeated {n_ichijo} and united Tosa."
+  },
+  {
+   "id": "ukita_rise",
+   "y": 1575,
+   "m": 9,
+   "need": [
+    "urakami"
+   ],
+   "do": [
+    [
+     "partition",
+     "urakami",
+     [
+      "ukita"
+     ]
+    ]
+   ],
+   "imp": 2,
+   "at": "okayama",
+   "ja": "浦上家の重臣宇喜多直家は主家に背き、備前の大半を手に入れた。",
+   "en": "Ukita Naoie, chief retainer of the Urakami, turned on his lords and took most of Bizen."
+  },
+  {
+   "id": "urakami_end",
+   "y": 1575,
+   "m": 10,
+   "need": [
+    "ukita",
+    "urakami"
+   ],
+   "do": [
+    [
+     "annex",
+     "ukita",
+     "urakami"
+    ]
+   ],
+   "at": "tenjinyama",
+   "ja": "天神山城が落ち、浦上宗景は播磨へ逃れた。",
+   "en": "Tenjinyama fell, and Urakami Munekage fled to Harima."
+  },
+  {
+   "id": "azuchi",
+   "y": 1576,
+   "m": 2,
+   "need": [
+    "oda"
+   ],
+   "owns": [
+    [
+     "oda",
+     "kannonji"
+    ]
+   ],
+   "do": [
+    [
+     "capital",
+     "oda",
+     "kannonji"
+    ],
+    [
+     "add",
+     "oda",
+     "treasury",
+     -200
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "kannonji",
+   "ja": "{r_oda}は琵琶湖のほとりに安土城を築きはじめた。五層七重の天主は、宣教師たちを驚かせた。",
+   "en": "{r_oda} began Azuchi castle by Lake Biwa. Its seven-storeyed keep astonished the missionaries."
+  },
+  {
+   "id": "kizugawa1",
+   "y": 1576,
+   "m": 8,
+   "need": [
+    "oda",
+    "mori",
+    "ishiyama"
+   ],
+   "do": [
+    [
+     "ally",
+     "mori",
+     "ishiyama"
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     -5
+    ]
+   ],
+   "at": "ishiyama",
+   "ja": "第一次木津川口の戦い。{n_mori}の水軍が焙烙火矢で織田の船を焼き、石山に兵糧を運び込んだ。",
+   "en": "The first battle of the Kizu river mouth. The Mōri fleet burned Oda's ships with fire pots and brought food into Ishiyama."
+  },
+  {
+   "id": "jinbo_end",
+   "y": 1576,
+   "m": 9,
+   "need": [
+    "uesugi",
+    "jinbo"
+   ],
+   "do": [
+    [
+     "annex",
+     "uesugi",
+     "jinbo"
+    ]
+   ],
+   "at": "toyama",
+   "ja": "{r_uesugi}は越中に攻め入り、{n_jinbo}の地を平らげた。",
+   "en": "{r_uesugi} invaded Etchū and took the lands of {n_jinbo}."
+  },
+  {
+   "id": "kitabatake_end",
+   "y": 1576,
+   "m": 12,
+   "need": [
+    "oda",
+    "kitabatake"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "kitabatake"
+    ]
+   ],
+   "at": "tage",
+   "ja": "三瀬の変。北畠具教は{n_oda}の手の者に討たれ、伊勢は織田のものとなった。",
+   "en": "The Mise incident: Kitabatake Tomonori was killed by men of {n_oda}, and Ise became Oda land."
+  },
+  {
+   "id": "tedorigawa",
+   "y": 1577,
+   "m": 11,
+   "need": [
+    "uesugi",
+    "noto"
+   ],
+   "do": [
+    [
+     "annex",
+     "uesugi",
+     "noto"
+    ],
+    [
+     "add",
+     "uesugi",
+     "prestige",
+     15
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     -5
+    ]
+   ],
+   "imp": 3,
+   "at": "nanao",
+   "ja": "{r_uesugi}は七尾城を落として能登を取り、援軍に来た柴田勝家の軍を手取川で破った。「聞くと見るとは大違い、案外弱い信長」と謙信は言ったと伝わる。",
+   "en": "{r_uesugi} took Nanao and Noto, and beat Shibata Katsuie's relief army at the Tedori river. \"Nobunaga is weaker than his name,\" Kenshin is said to have remarked."
+  },
+  {
+   "id": "ito_end",
+   "y": 1577,
+   "m": 12,
+   "need": [
+    "shimazu",
+    "ito"
+   ],
+   "do": [
+    [
+     "annex",
+     "shimazu",
+     "ito"
+    ]
+   ],
+   "at": "tonokori",
+   "ja": "{n_ito}の伊東義祐は{n_shimazu}に追われ、豊後の大友を頼って落ちのびた。",
+   "en": "Itō Yoshisuke of {n_ito}, driven out by {n_shimazu}, fled to the Ōtomo in Bungo."
+  },
+  {
+   "id": "kenshin_dies",
+   "y": 1578,
+   "m": 4,
+   "min": 4,
+   "need": [
+    "uesugi"
+   ],
+   "do": [
+    [
+     "add",
+     "uesugi",
+     "stability",
+     -0.3
+    ]
+   ],
+   "ja": "上杉謙信は春日山城で急死した。跡継ぎを定めていなかったため、養子の景勝と景虎が家督を争った (御館の乱)。",
+   "en": "Uesugi Kenshin died suddenly at Kasugayama without naming an heir; his adopted sons Kagekatsu and Kagetora fought over the house."
+  },
+  {
+   "id": "sorin_baptized",
+   "y": 1578,
+   "m": 8,
+   "need": [
+    "otomo"
+   ],
+   "do": [
+    [
+     "faith",
+     "otomo",
+     1,
+     0.3
+    ]
+   ],
+   "at": "funai",
+   "ja": "{r_otomo}は洗礼を受け、日向に理想のキリシタンの国を築こうと南へ兵を進めた。",
+   "en": "{r_otomo} was baptised and marched south to found an ideal Christian land in Hyūga."
+  },
+  {
+   "id": "mimikawa",
+   "y": 1578,
+   "m": 12,
+   "need": [
+    "shimazu",
+    "otomo"
+   ],
+   "do": [
+    [
+     "army",
+     "otomo",
+     0.45
+    ],
+    [
+     "add",
+     "otomo",
+     "stability",
+     -0.2
+    ],
+    [
+     "add",
+     "shimazu",
+     "prestige",
+     20
+    ]
+   ],
+   "imp": 3,
+   "at": "tonokori",
+   "ja": "耳川の戦い。{n_shimazu}は「釣り野伏せ」で{n_otomo}の大軍を誘い込んで破った。大友の勢いはこれより衰える。",
+   "en": "The battle of the Mimi river. {n_shimazu} lured the great army of {n_otomo} into its \"fishing ambush\" and broke it; the Ōtomo never recovered."
+  },
+  {
+   "id": "kizugawa2",
+   "y": 1578,
+   "m": 12,
+   "need": [
+    "oda",
+    "mori"
+   ],
+   "do": [
+    [
+     "add",
+     "oda",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "mori",
+     "prestige",
+     -5
+    ]
+   ],
+   "at": "ishiyama",
+   "ja": "第二次木津川口の戦い。九鬼嘉隆の鉄張りの大船が毛利の水軍を退けた。",
+   "en": "The second battle of the Kizu river mouth. Kuki Yoshitaka's iron-plated ships drove off the Mōri fleet."
+  },
+  {
+   "id": "hatano_end",
+   "y": 1579,
+   "m": 7,
+   "need": [
+    "oda",
+    "hatano"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "hatano"
+    ]
+   ],
+   "at": "yakami",
+   "ja": "明智光秀は丹波の八上城を囲んで{n_hatano}を降し、丹波を平らげた。",
+   "en": "Akechi Mitsuhide besieged Yakami and brought down {n_hatano}; Tanba was pacified."
+  },
+  {
+   "id": "isshiki_end",
+   "y": 1579,
+   "m": 9,
+   "need": [
+    "oda",
+    "isshiki"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "isshiki"
+    ]
+   ],
+   "at": "tango",
+   "ja": "丹後の{n_isshiki}は{n_oda}の細川藤孝に攻められて滅んだ。",
+   "en": "{n_isshiki} of Tango fell to Hosokawa Fujitaka of {n_oda}."
+  },
+  {
+   "id": "miki_end",
+   "y": 1580,
+   "m": 2,
+   "need": [
+    "oda",
+    "bessho"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "bessho"
+    ]
+   ],
+   "imp": 3,
+   "at": "miki",
+   "ja": "三木の干殺し。羽柴秀吉に二年近く囲まれた三木城は飢えに尽き、別所長治は城兵の命と引き換えに自害した。",
+   "en": "The starving of Miki. Besieged by Hashiba Hideyoshi for nearly two years, Miki ran out of food; Bessho Nagaharu killed himself to spare his garrison."
+  },
+  {
+   "id": "arima_baptized",
+   "y": 1580,
+   "m": 4,
+   "need": [
+    "arima"
+   ],
+   "do": [
+    [
+     "faith",
+     "arima",
+     1,
+     0.6
+    ]
+   ],
+   "at": "hinoe",
+   "ja": "{r_arima}は洗礼を受けた。有馬の地にはセミナリオが開かれ、少年たちがラテン語と西洋の音楽を学んだ。",
+   "en": "{r_arima} was baptised. A seminary opened in Arima, where boys learned Latin and Western music."
+  },
+  {
+   "id": "yamana_end",
+   "y": 1580,
+   "m": 6,
+   "need": [
+    "oda",
+    "yamana"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "yamana"
+    ]
+   ],
+   "at": "izushi",
+   "ja": "羽柴秀長が但馬を攻め、{n_yamana}は降った。",
+   "en": "Hashiba Hidenaga invaded Tajima, and {n_yamana} submitted."
+  },
+  {
+   "id": "ishiyama_end",
+   "y": 1580,
+   "m": 9,
+   "need": [
+    "oda",
+    "ishiyama"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "ishiyama"
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "ishiyama",
+   "ja": "朝廷の仲立ちで和が結ばれ、{r_ishiyama}は石山を退いて紀伊の鷺森へ移った。十年に及んだ石山合戦は終わった。",
+   "en": "Through the court's mediation a peace was made; {r_ishiyama} left Ishiyama for Saginomori in Kii, and the ten-year war ended."
+  },
+  {
+   "id": "kaga_end",
+   "y": 1580,
+   "m": 12,
+   "need": [
+    "oda",
+    "kaga"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "kaga"
+    ]
+   ],
+   "imp": 3,
+   "at": "oyama",
+   "ja": "柴田勝家は加賀の尾山御坊を落とし、百年近く門徒衆が治めた「百姓の持ちたる国」は終わった。",
+   "en": "Shibata Katsuie took the Oyama temple-fortress, and Kaga, for nearly a century \"a province held by farmers\" under its believers, came to an end."
+  },
+  {
+   "id": "umazoroe",
+   "y": 1581,
+   "m": 4,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "add",
+     "oda",
+     "prestige",
+     10
+    ]
+   ],
+   "at": "kyoto",
+   "ja": "京都御馬揃え。{r_oda}は正親町天皇の前で、着飾った武将たちの騎馬の行列を披露した。",
+   "en": "The great horse parade in Kyoto: {r_oda} showed his finely dressed commanders on horseback before the emperor."
+  },
+  {
+   "id": "oda_hokuriku",
+   "y": 1581,
+   "m": 6,
+   "need": [
+    "oda",
+    "uesugi"
+   ],
+   "do": [
+    [
+     "cede",
+     "uesugi",
+     "oda",
+     [
+      "nanao",
+      "toyama"
+     ]
+    ]
+   ],
+   "at": "toyama",
+   "ja": "{n_oda}の柴田勝家・佐々成政らは能登と越中を上杉から奪った。",
+   "en": "Shibata Katsuie and Sassa Narimasa of {n_oda} took Noto and Etchū from the Uesugi."
+  },
+  {
+   "id": "iga_end",
+   "y": 1581,
+   "m": 10,
+   "need": [
+    "oda",
+    "iga"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "iga"
+    ]
+   ],
+   "at": "ueno",
+   "ja": "天正伊賀の乱。{n_oda}の大軍が伊賀に攻め入り、{n_iga}は滅んだ。",
+   "en": "The Tenshō Iga war. The great army of {n_oda} poured into Iga, and {n_iga} was destroyed."
+  },
+  {
+   "id": "tottori",
+   "y": 1581,
+   "m": 10,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "oda",
+     [
+      "tottori"
+     ]
+    ]
+   ],
+   "at": "tottori",
+   "ja": "鳥取の渇え殺し。羽柴秀吉は米を買い占めたうえで鳥取城を囲み、城は飢えて開城した。",
+   "en": "The starving of Tottori. Hideyoshi bought up the rice of the region, then besieged Tottori until hunger opened its gates."
+  },
+  {
+   "id": "tensho_embassy",
+   "y": 1582,
+   "m": 2,
+   "need": [
+    "omura"
+   ],
+   "do": [
+    [
+     "add",
+     "omura",
+     "prestige",
+     5
+    ],
+    [
+     "add",
+     "arima",
+     "prestige",
+     5
+    ],
+    [
+     "add",
+     "otomo",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "nagasaki",
+   "ja": "天正遣欧使節。大友・有馬・大村の名代として四人の少年が長崎を発ち、ローマへ向かった。",
+   "en": "The Tenshō embassy: four boys sailed from Nagasaki for Rome as envoys of the Ōtomo, Arima and Ōmura."
+  },
+  {
+   "id": "koshu",
+   "y": 1582,
+   "m": 4,
+   "need": [
+    "oda",
+    "takeda"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "takeda"
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     20
+    ]
+   ],
+   "imp": 3,
+   "at": "kofu",
+   "ja": "甲州征伐。{n_oda}と{n_tokugawa}の軍が甲斐に攻め入ると、家臣たちは次々と寝返り、武田勝頼は天目山で自害した。名門武田家は滅んだ。",
+   "en": "The conquest of Kai. As {n_oda} and {n_tokugawa} invaded, retainer after retainer went over; Takeda Katsuyori killed himself at Tenmokuzan, and the great house of Takeda was no more."
+  },
+  {
+   "id": "takamatsu",
+   "y": 1582,
+   "m": 6,
+   "need": [
+    "oda",
+    "mori"
+   ],
+   "do": [
+    [
+     "cede",
+     "mori",
+     "oda",
+     [
+      "bitchu"
+     ]
+    ]
+   ],
+   "imp": 3,
+   "at": "bitchu",
+   "ja": "羽柴秀吉は備中高松城のまわりに堤を築いて水を引き入れ、城を湖に浮かべた。",
+   "en": "Hideyoshi built a dyke round Takamatsu castle in Bitchū and let the rivers in, leaving the castle afloat in a lake."
+  },
+  {
+   "id": "honnoji",
+   "y": 1582,
+   "m": 7,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "oda",
+     "assassination"
+    ],
+    [
+     "add",
+     "oda",
+     "stability",
+     -0.4
+    ]
+   ],
+   "imp": 3,
+   "at": "kyoto",
+   "ja": "本能寺の変。京の本能寺に泊まっていた織田信長を、中国へ向かうはずの明智光秀の軍が襲った。「是非に及ばず」と言って信長は自ら弓をとり、火の中で果てた。嫡男信忠も二条御所で討たれた。",
+   "en": "The Honnōji incident. Akechi Mitsuhide's army, bound for the west, turned on Oda Nobunaga at the Honnōji temple in Kyoto. \"It cannot be helped,\" Nobunaga said, took up a bow, and died in the flames; his heir Nobutada fell at Nijō."
+  },
+  {
+   "id": "yamazaki",
+   "y": 1582,
+   "m": 7,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "add",
+     "oda",
+     "legitimacy",
+     0.3
+    ],
+    [
+     "add",
+     "oda",
+     "stability",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "akutagawa",
+   "ja": "中国大返し。羽柴秀吉は毛利と和を結んで十日で京へ駆け戻り、山崎の戦いで明智光秀を破った。光秀は落ちのびる途中で討たれた。",
+   "en": "The great return: Hideyoshi made peace with the Mōri, ran back to Kyoto in ten days, and beat Akechi Mitsuhide at Yamazaki; Mitsuhide was killed as he fled."
+  },
+  {
+   "id": "wakasa_end",
+   "y": 1582,
+   "m": 8,
+   "need": [
+    "oda",
+    "wakasa"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "wakasa"
+    ]
+   ],
+   "at": "obama",
+   "ja": "明智に味方した武田元明は自害させられ、若狭は{n_oda}の丹羽長秀の地となった。",
+   "en": "Takeda Motoaki, who had sided with Akechi, was made to kill himself; Wakasa went to Niwa Nagahide of {n_oda}."
+  },
+  {
+   "id": "awa_chosokabe",
+   "y": 1582,
+   "m": 10,
+   "need": [
+    "chosokabe",
+    "miyoshi"
+   ],
+   "do": [
+    [
+     "annex",
+     "chosokabe",
+     "miyoshi"
+    ]
+   ],
+   "at": "shozui",
+   "ja": "中富川の戦い。{r_chosokabe}は阿波の三好の残党を破り、勝瑞城を落とした。",
+   "en": "At the Nakatomi river {r_chosokabe} beat the last of the Miyoshi in Awa and took Shōzui."
+  },
+  {
+   "id": "shizugatake",
+   "y": 1583,
+   "m": 6,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "relabel",
+     "oda",
+     {
+      "ja": "羽柴家",
+      "en": "the Hashiba clan"
+     },
+     {
+      "ja": "羽柴",
+      "en": "Hashiba"
+     }
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "odani",
+   "ja": "賤ヶ岳の戦い。羽柴秀吉は柴田勝家を破り、勝家はお市とともに北ノ庄城で自害した。信長の後継者の座は秀吉のものとなった。",
+   "en": "The battle of Shizugatake. Hideyoshi defeated Shibata Katsuie, who died with Oichi in Kitanoshō castle. Nobunaga's place was Hideyoshi's."
+  },
+  {
+   "id": "osaka_castle",
+   "y": 1583,
+   "m": 10,
+   "need": [
+    "oda"
+   ],
+   "owns": [
+    [
+     "oda",
+     "ishiyama"
+    ]
+   ],
+   "do": [
+    [
+     "capital",
+     "oda",
+     "ishiyama"
+    ],
+    [
+     "add",
+     "oda",
+     "treasury",
+     -200
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "ishiyama",
+   "ja": "{r_oda}は石山の跡に大坂城を築きはじめた。金箔の瓦をいただく天守が城下を見下ろした。",
+   "en": "{r_oda} began Osaka castle on the site of Ishiyama; a keep roofed with gold-leafed tiles looked down on the town."
+  },
+  {
+   "id": "komaki",
+   "y": 1584,
+   "m": 5,
+   "need": [
+    "oda",
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     15
+    ],
+    [
+     "truce",
+     "oda",
+     "tokugawa",
+     6
+    ]
+   ],
+   "imp": 3,
+   "at": "kiyosu",
+   "ja": "小牧・長久手の戦い。{r_tokugawa}は織田信雄と組んで{n_oda}と戦い、長久手で別働隊を破ったが、秀吉は信雄と和を結んで家康の戦う理由を消した。",
+   "en": "The Komaki-Nagakute campaign. {r_tokugawa}, allied with Oda Nobukatsu, fought {n_oda} and destroyed a flying column at Nagakute; but Hideyoshi made peace with Nobukatsu and left Ieyasu nothing to fight for."
+  },
+  {
+   "id": "okitanawate",
+   "y": 1584,
+   "m": 5,
+   "need": [
+    "shimazu",
+    "ryuzoji"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "ryuzoji",
+     "battle_wound"
+    ],
+    [
+     "vassal",
+     "shimazu",
+     "ryuzoji"
+    ],
+    [
+     "add",
+     "shimazu",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "hinoe",
+   "ja": "沖田畷の戦い。有馬を攻めた{r_ryuzoji}の大軍は湿地の細道で{n_shimazu}と有馬の兵に囲まれ、隆信は討たれた。",
+   "en": "The battle of Okitanawate. The great army of {r_ryuzoji}, marching on Arima, was caught on the causeways through the marsh by {n_shimazu} and the Arima; Takanobu was killed."
+  },
+  {
+   "id": "saionji_end",
+   "y": 1584,
+   "m": 10,
+   "need": [
+    "chosokabe",
+    "saionji"
+   ],
+   "do": [
+    [
+     "annex",
+     "chosokabe",
+     "saionji"
+    ]
+   ],
+   "at": "uwajima",
+   "ja": "{r_chosokabe}は伊予の{n_saionji}を降した。",
+   "en": "{r_chosokabe} brought down {n_saionji} in Iyo."
+  },
+  {
+   "id": "kishu",
+   "y": 1585,
+   "m": 4,
+   "need": [
+    "oda",
+    "saika"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "saika"
+    ]
+   ],
+   "imp": 3,
+   "at": "saika",
+   "ja": "紀州征伐。{r_oda}は根来寺を焼き、太田城を水攻めにして{n_saika}を降した。",
+   "en": "The conquest of Kii. {r_oda} burned the Negoro temple, flooded Ōta castle and brought down {n_saika}."
+  },
+  {
+   "id": "kanpaku",
+   "y": 1585,
+   "m": 8,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "add",
+     "oda",
+     "prestige",
+     20
+    ],
+    [
+     "add",
+     "oda",
+     "legitimacy",
+     0.3
+    ]
+   ],
+   "imp": 3,
+   "at": "kyoto",
+   "ja": "{r_oda}は関白に任じられた。農民の子から武家の頂点へ、前例のない出世であった。",
+   "en": "{r_oda} was named regent (kanpaku): from a farmer's son to the summit of the warrior order, a rise without precedent."
+  },
+  {
+   "id": "shikoku",
+   "y": 1585,
+   "m": 8,
+   "need": [
+    "oda",
+    "chosokabe"
+   ],
+   "do": [
+    [
+     "vassal",
+     "oda",
+     "chosokabe"
+    ],
+    [
+     "cede",
+     "chosokabe",
+     "oda",
+     [
+      "shozui",
+      "takamatsu",
+      "uwajima"
+     ]
+    ]
+   ],
+   "imp": 3,
+   "at": "oko",
+   "ja": "四国平定。{n_oda}の大軍が四方から四国に渡り、{r_chosokabe}は土佐一国を安堵されて降った。",
+   "en": "The conquest of Shikoku. The armies of {n_oda} crossed from every side, and {r_chosokabe} submitted, keeping Tosa alone."
+  },
+  {
+   "id": "aso_end",
+   "y": 1585,
+   "m": 9,
+   "need": [
+    "shimazu",
+    "aso"
+   ],
+   "do": [
+    [
+     "annex",
+     "shimazu",
+     "aso"
+    ]
+   ],
+   "at": "aso",
+   "ja": "{r_shimazu}は肥後に兵を進め、{n_aso}を降した。",
+   "en": "{r_shimazu} advanced into Higo and brought down {n_aso}."
+  },
+  {
+   "id": "kono_end",
+   "y": 1585,
+   "m": 9,
+   "need": [
+    "oda",
+    "kono"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "kono"
+    ]
+   ],
+   "at": "yuzuki",
+   "ja": "伊予の{n_kono}は四国平定で滅び、伊予は小早川隆景に与えられた。",
+   "en": "{n_kono} of Iyo fell in the conquest of Shikoku; Iyo was given to Kobayakawa Takakage."
+  },
+  {
+   "id": "hida_end",
+   "y": 1585,
+   "m": 9,
+   "need": [
+    "oda",
+    "anegakoji"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "anegakoji"
+    ]
+   ],
+   "at": "takayama",
+   "ja": "金森長近が飛騨に攻め入り、{n_anegakoji}は滅んだ。",
+   "en": "Kanamori Nagachika invaded Hida, and {n_anegakoji} fell."
+  },
+  {
+   "id": "uesugi_submits",
+   "y": 1586,
+   "m": 6,
+   "need": [
+    "oda",
+    "uesugi"
+   ],
+   "do": [
+    [
+     "vassal",
+     "oda",
+     "uesugi"
+    ]
+   ],
+   "ja": "{r_uesugi}は上洛して{r_oda}に臣従した。",
+   "en": "{r_uesugi} came to the capital and submitted to {r_oda}."
+  },
+  {
+   "id": "date_nihonmatsu",
+   "y": 1586,
+   "m": 8,
+   "need": [
+    "date",
+    "nihonmatsu"
+   ],
+   "do": [
+    [
+     "annex",
+     "date",
+     "nihonmatsu"
+    ]
+   ],
+   "at": "nihonmatsu",
+   "ja": "父輝宗を死に追いやった二本松を{r_date}は攻め、二本松城を落とした。",
+   "en": "{r_date} attacked Nihonmatsu, whose lord had caused his father Terumune's death, and took the castle."
+  },
+  {
+   "id": "tokugawa_submits",
+   "y": 1586,
+   "m": 11,
+   "need": [
+    "oda",
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "vassal",
+     "oda",
+     "tokugawa"
+    ]
+   ],
+   "imp": 3,
+   "at": "ishiyama",
+   "ja": "{r_tokugawa}は大坂城に上って{r_oda}に臣下の礼をとった。",
+   "en": "{r_tokugawa} went up to Osaka castle and knelt to {r_oda}."
+  },
+  {
+   "id": "toyotomi_name",
+   "y": 1586,
+   "m": 12,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "relabel",
+     "oda",
+     {
+      "ja": "豊臣家",
+      "en": "the Toyotomi clan"
+     },
+     {
+      "ja": "豊臣",
+      "en": "Toyotomi"
+     }
+    ],
+    [
+     "add",
+     "oda",
+     "legitimacy",
+     0.1
+    ]
+   ],
+   "ja": "羽柴秀吉は朝廷から豊臣の姓を賜り、太政大臣となった。",
+   "en": "Hashiba Hideyoshi received the family name Toyotomi from the court and became chancellor of the realm."
+  },
+  {
+   "id": "kyushu",
+   "y": 1587,
+   "m": 6,
+   "need": [
+    "oda",
+    "shimazu"
+   ],
+   "do": [
+    [
+     "vassal",
+     "oda",
+     "shimazu"
+    ],
+    [
+     "cede",
+     "*",
+     "oda",
+     [
+      "hakata",
+      "kumamoto",
+      "yatsushiro",
+      "kokura"
+     ]
+    ],
+    [
+     "vassal",
+     "oda",
+     "otomo"
+    ]
+   ],
+   "imp": 3,
+   "at": "kagoshima",
+   "ja": "九州平定。二十万を超える{n_oda}の軍に、{r_shimazu}は剃髪して降った。九州の国々は秀吉の手で分け直された。",
+   "en": "The conquest of Kyūshū. Before more than two hundred thousand men of {n_oda}, {r_shimazu} shaved his head and submitted. Kyūshū was parcelled out anew by Hideyoshi."
+  },
+  {
+   "id": "bateren",
+   "y": 1587,
+   "m": 7,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "unfaith",
+     "*",
+     1,
+     0.3
+    ]
+   ],
+   "imp": 3,
+   "at": "hakata",
+   "ja": "博多で秀吉はバテレン追放令を出し、宣教師に国外退去を命じた。ただし南蛮貿易は続けられ、命令は徹底されなかった。",
+   "en": "At Hakata Hideyoshi issued the edict expelling the missionaries; but the trade with the southern barbarians went on and the edict was loosely kept."
+  },
+  {
+   "id": "daihoji_end",
+   "y": 1588,
+   "m": 8,
+   "need": [
+    "uesugi",
+    "daihoji"
+   ],
+   "do": [
+    [
+     "annex",
+     "uesugi",
+     "daihoji"
+    ]
+   ],
+   "at": "oura_s",
+   "ja": "十五里ヶ原の戦い。上杉の本庄繁長は庄内の{n_daihoji}を破り、庄内を取った。",
+   "en": "At Jūgorigahara Honjō Shigenaga of the Uesugi beat {n_daihoji} and took Shōnai."
+  },
+  {
+   "id": "katanagari",
+   "y": 1588,
+   "m": 8,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "add",
+     "oda",
+     "stability",
+     0.2
+    ]
+   ],
+   "ja": "刀狩令。{r_oda}は百姓から刀・弓・鉄砲を取り上げ、武士と百姓の別を定めた。",
+   "en": "The sword hunt. {r_oda} took swords, bows and guns from the farmers, and fixed the line between warrior and farmer."
+  },
+  {
+   "id": "suriagehara",
+   "y": 1589,
+   "m": 7,
+   "need": [
+    "date",
+    "ashina"
+   ],
+   "do": [
+    [
+     "annex",
+     "date",
+     "ashina"
+    ],
+    [
+     "capital",
+     "date",
+     "kurokawa"
+    ]
+   ],
+   "imp": 3,
+   "at": "kurokawa",
+   "ja": "摺上原の戦い。{r_date}は{n_ashina}を破り、会津の黒川城に入った。南奥州の大半が伊達のものとなった。",
+   "en": "The battle of Suriagehara. {r_date} defeated {n_ashina} and entered Kurokawa castle in Aizu; most of southern Ōu was Date land."
+  },
+  {
+   "id": "odawara",
+   "y": 1590,
+   "m": 8,
+   "need": [
+    "oda",
+    "hojo"
+   ],
+   "do": [
+    [
+     "annex",
+     "oda",
+     "hojo"
+    ]
+   ],
+   "imp": 3,
+   "at": "odawara",
+   "ja": "小田原征伐。二十万を超える軍に囲まれ、三か月の籠城ののち小田原城は開いた。北条氏政は切腹し、五代百年の北条家は滅んだ。",
+   "en": "The siege of Odawara. Surrounded by more than two hundred thousand men, Odawara opened its gates after three months; Hōjō Ujimasa was made to kill himself, and the Hōjō, five generations and a century old, were gone."
+  },
+  {
+   "id": "chiba_yuki",
+   "y": 1590,
+   "m": 8,
+   "need": [
+    "tokugawa",
+    "chiba"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "chiba"
+    ]
+   ],
+   "ja": "北条に従った{n_chiba}は北条とともに滅び、その地は徳川の領となった。",
+   "en": "{n_chiba}, having followed the Hōjō, fell with them; its land went to the Tokugawa."
+  },
+  {
+   "id": "kanto_move",
+   "y": 1590,
+   "m": 9,
+   "need": [
+    "oda",
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "cede",
+     "oda",
+     "tokugawa",
+     [
+      "odawara",
+      "edo",
+      "kawagoe",
+      "hachigata",
+      "kamakura",
+      "nirayama",
+      "sakura",
+      "kanayama"
+     ]
+    ],
+    [
+     "cede",
+     "tokugawa",
+     "oda",
+     [
+      "okazaki",
+      "hikuma",
+      "kakegawa",
+      "yoshida_m",
+      "sunpu",
+      "kofu"
+     ]
+    ],
+    [
+     "capital",
+     "tokugawa",
+     "edo"
+    ]
+   ],
+   "imp": 3,
+   "at": "edo",
+   "ja": "{r_tokugawa}は旧領の三河・遠江・駿河・甲斐・信濃を離れ、北条の旧領関東へ移された。家康は小田原ではなく、入江の寒村だった江戸を本拠に選んだ。",
+   "en": "{r_tokugawa} was moved from his old lands to the Kantō of the fallen Hōjō. He chose for his seat not Odawara but Edo, a poor village on an inlet."
+  },
+  {
+   "id": "oshu_shioki",
+   "y": 1590,
+   "m": 9,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "cede",
+     "date",
+     "oda",
+     [
+      "kurokawa"
+     ]
+    ],
+    [
+     "annex",
+     "date",
+     "osaki"
+    ],
+    [
+     "annex",
+     "date",
+     "kasai"
+    ],
+    [
+     "vassal",
+     "oda",
+     "date"
+    ],
+    [
+     "vassal",
+     "oda",
+     "mogami"
+    ],
+    [
+     "vassal",
+     "oda",
+     "nanbu"
+    ]
+   ],
+   "imp": 3,
+   "at": "kurokawa",
+   "ja": "奥州仕置。{r_oda}は奥羽の大名の領地を改め、遅れて小田原に参じた{r_date}から会津を取り上げた。天下は一つになった。",
+   "en": "The settlement of the north. {r_oda} redrew the domains of Ōu and took Aizu from {r_date}, who had come late to Odawara. The realm was one."
+  },
+  {
+   "id": "rikyu",
+   "y": 1591,
+   "m": 4,
+   "min": 4,
+   "need": [
+    "oda"
+   ],
+   "do": [],
+   "ja": "千利休は秀吉の怒りを買い、切腹を命じられた。その理由は今もはっきりしない。",
+   "en": "Sen no Rikyū angered Hideyoshi and was ordered to take his own life; the reason is unclear to this day."
+  },
+  {
+   "id": "bunroku",
+   "y": 1592,
+   "m": 5,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "army",
+     "oda",
+     0.8
+    ],
+    [
+     "add",
+     "oda",
+     "treasury",
+     -300
+    ],
+    [
+     "add",
+     "oda",
+     "warExhaustion",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "hakata",
+   "ja": "文禄の役。{r_oda}は朝鮮半島へ大軍を送った。各地で激しい戦いが続き、多くの人々が苦しんだ。",
+   "en": "The Bunroku campaign. {r_oda} sent a great army across to the Korean peninsula; fierce fighting went on for years and great numbers of people suffered."
+  },
+  {
+   "id": "keicho",
+   "y": 1597,
+   "m": 3,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "army",
+     "oda",
+     0.85
+    ],
+    [
+     "add",
+     "oda",
+     "treasury",
+     -200
+    ],
+    [
+     "add",
+     "oda",
+     "warExhaustion",
+     0.2
+    ]
+   ],
+   "at": "hakata",
+   "ja": "慶長の役。{r_oda}は再び朝鮮半島へ兵を送った。秀吉の死によって兵は引き揚げられた。",
+   "en": "The Keichō campaign. {r_oda} sent troops to the peninsula again; they were withdrawn when Hideyoshi died."
+  },
+  {
+   "id": "uesugi_aizu",
+   "y": 1598,
+   "m": 2,
+   "need": [
+    "oda",
+    "uesugi"
+   ],
+   "do": [
+    [
+     "cede",
+     "oda",
+     "uesugi",
+     [
+      "kurokawa"
+     ]
+    ],
+    [
+     "capital",
+     "uesugi",
+     "kurokawa"
+    ]
+   ],
+   "at": "kurokawa",
+   "ja": "{r_uesugi}は越後から会津百二十万石へ移された。",
+   "en": "{r_uesugi} was moved from Echigo to Aizu, a domain of 1.2 million koku."
+  },
+  {
+   "id": "hideyoshi_dies",
+   "y": 1598,
+   "m": 9,
+   "min": 4,
+   "need": [
+    "oda"
+   ],
+   "do": [
+    [
+     "add",
+     "oda",
+     "stability",
+     -0.3
+    ]
+   ],
+   "imp": 3,
+   "at": "kyoto",
+   "ja": "豊臣秀吉は伏見城で世を去った。「露と落ち露と消えにし我が身かな」。幼い秀頼の後見は徳川家康ら五大老と、石田三成ら五奉行に託された。",
+   "en": "Toyotomi Hideyoshi died at Fushimi: \"I came like dew, I vanish like dew.\" His small son Hideyori was left in the care of five elders, Tokugawa Ieyasu among them, and five commissioners led by Ishida Mitsunari."
+  },
+  {
+   "id": "sekigahara",
+   "y": 1600,
+   "m": 10,
+   "need": [
+    "tokugawa",
+    "oda"
+   ],
+   "do": [
+    [
+     "free",
+     "tokugawa"
+    ],
+    [
+     "strip",
+     "oda",
+     "tokugawa",
+     [
+      "ishiyama",
+      "sakai",
+      "takaya"
+     ]
+    ],
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     30
+    ],
+    [
+     "add",
+     "oda",
+     "prestige",
+     -25
+    ]
+   ],
+   "imp": 3,
+   "at": "ogaki",
+   "ja": "関ヶ原の戦い。徳川家康の東軍と石田三成の西軍が美濃の関ヶ原でぶつかった。昼過ぎ、小早川秀秋が東軍に寝返り、戦いは一日で決した。三成は捕らえられて斬られ、豊臣家は摂津・河内・和泉の一大名となった。",
+   "en": "The battle of Sekigahara. Tokugawa Ieyasu's eastern army met Ishida Mitsunari's western army at Sekigahara in Mino. Past noon Kobayakawa Hideaki went over to the east, and the day was decided. Mitsunari was caught and beheaded, and the Toyotomi were left a single domain of Settsu, Kawachi and Izumi."
+  },
+  {
+   "id": "sekigahara_ukita",
+   "y": 1600,
+   "m": 11,
+   "need": [
+    "tokugawa",
+    "ukita"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "ukita"
+    ]
+   ],
+   "at": "okayama",
+   "ja": "西軍の主力だった宇喜多秀家は所領を失い、のちに八丈島へ流された。",
+   "en": "Ukita Hideie, a pillar of the western army, lost his domain and was later exiled to Hachijō island."
+  },
+  {
+   "id": "sekigahara_mori",
+   "y": 1600,
+   "m": 11,
+   "need": [
+    "tokugawa",
+    "mori"
+   ],
+   "do": [
+    [
+     "cede",
+     "mori",
+     "tokugawa",
+     [
+      "yoshida",
+      "hiroshima",
+      "iwami",
+      "toda",
+      "matsue",
+      "bitchu",
+      "tottori"
+     ]
+    ],
+    [
+     "capital",
+     "mori",
+     "yamaguchi"
+    ],
+    [
+     "vassal",
+     "tokugawa",
+     "mori"
+    ]
+   ],
+   "imp": 3,
+   "at": "yoshida",
+   "ja": "西軍の総大将に担がれた{r_mori}は、周防・長門の二国に減らされた。",
+   "en": "{r_mori}, set up as commander of the western army, was cut down to Suō and Nagato."
+  },
+  {
+   "id": "sekigahara_chosokabe",
+   "y": 1600,
+   "m": 12,
+   "need": [
+    "tokugawa",
+    "chosokabe"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "chosokabe"
+    ]
+   ],
+   "at": "oko",
+   "ja": "西軍についた長宗我部盛親は土佐を取り上げられた。土佐は山内一豊に与えられた。",
+   "en": "Chōsokabe Morichika, of the western army, lost Tosa; it was given to Yamauchi Kazutoyo."
+  },
+  {
+   "id": "onodera_end",
+   "y": 1601,
+   "m": 3,
+   "need": [
+    "mogami",
+    "onodera"
+   ],
+   "do": [
+    [
+     "annex",
+     "mogami",
+     "onodera"
+    ]
+   ],
+   "at": "yokote",
+   "ja": "西軍についた{n_onodera}は領地を失い、その地は最上家のものとなった。",
+   "en": "{n_onodera}, which had sided with the west, lost its land to the Mogami."
+  },
+  {
+   "id": "sekigahara_uesugi",
+   "y": 1601,
+   "m": 8,
+   "need": [
+    "tokugawa",
+    "uesugi"
+   ],
+   "do": [
+    [
+     "cede",
+     "uesugi",
+     "tokugawa",
+     [
+      "kurokawa"
+     ]
+    ],
+    [
+     "capital",
+     "uesugi",
+     "yonezawa"
+    ],
+    [
+     "vassal",
+     "tokugawa",
+     "uesugi"
+    ]
+   ],
+   "at": "yonezawa",
+   "ja": "家康と争った{r_uesugi}は会津を取り上げられ、米沢三十万石に移された。",
+   "en": "{r_uesugi}, who had defied Ieyasu, lost Aizu and was moved to Yonezawa with three hundred thousand koku."
+  },
+  {
+   "id": "shimazu_kept",
+   "y": 1602,
+   "m": 12,
+   "need": [
+    "tokugawa",
+    "shimazu"
+   ],
+   "do": [
+    [
+     "vassal",
+     "tokugawa",
+     "shimazu"
+    ]
+   ],
+   "ja": "関ヶ原で敵中を突破して帰った島津家は、粘り強い交渉の末に本領を安堵された。",
+   "en": "The Shimazu, who had cut their way out through the enemy at Sekigahara, kept their lands after long and stubborn talks."
+  },
+  {
+   "id": "shogunate",
+   "y": 1603,
+   "m": 3,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "relabel",
+     "tokugawa",
+     {
+      "ja": "徳川将軍家",
+      "en": "the Tokugawa shogunate"
+     },
+     {
+      "ja": "徳川",
+      "en": "Tokugawa"
+     }
+    ],
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     20
+    ],
+    [
+     "add",
+     "tokugawa",
+     "legitimacy",
+     0.3
+    ],
+    [
+     "vassal",
+     "tokugawa",
+     "date"
+    ],
+    [
+     "vassal",
+     "tokugawa",
+     "mogami"
+    ],
+    [
+     "vassal",
+     "tokugawa",
+     "satake"
+    ],
+    [
+     "vassal",
+     "tokugawa",
+     "nanbu"
+    ]
+   ],
+   "imp": 3,
+   "at": "edo",
+   "ja": "{r_tokugawa}は征夷大将軍に任じられ、江戸に幕府を開いた。",
+   "en": "{r_tokugawa} was appointed shogun and opened his government in Edo."
+  },
+  {
+   "id": "kinkyo",
+   "y": 1614,
+   "m": 2,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "unfaith",
+     "*",
+     1,
+     0.85
+    ]
+   ],
+   "imp": 3,
+   "at": "nagasaki",
+   "ja": "幕府は全国にキリスト教の禁教令を出した。宣教師や信徒の主だった者は国外へ追われた。",
+   "en": "The shogunate banned Christianity throughout the land; the missionaries and leading believers were sent abroad."
+  },
+  {
+   "id": "satomi_end",
+   "y": 1614,
+   "m": 10,
+   "need": [
+    "tokugawa",
+    "satomi"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "satomi"
+    ]
+   ],
+   "at": "kururi",
+   "ja": "{n_satomi}は幕府に領地を取り上げられ、伯耆へ移された。",
+   "en": "The shogunate took the domain of {n_satomi} and sent its lord to Hōki."
+  },
+  {
+   "id": "osaka_winter",
+   "y": 1614,
+   "m": 12,
+   "need": [
+    "tokugawa",
+    "oda"
+   ],
+   "do": [
+    [
+     "war",
+     "tokugawa",
+     "oda"
+    ]
+   ],
+   "imp": 3,
+   "at": "ishiyama",
+   "ja": "大坂冬の陣。方広寺の鐘の銘を口実に、{r_tokugawa}は大坂城を囲んだ。真田信繁が城の南に築いた出丸 (真田丸) は徳川の兵を寄せつけなかった。和が結ばれたが、大坂城の堀は埋められた。",
+   "en": "The winter siege of Osaka. Taking offence at the inscription on a temple bell, {r_tokugawa} besieged Osaka castle. The outwork Sanada Nobushige built to the south held off every assault; a peace was made, but the castle's moats were filled in."
+  },
+  {
+   "id": "osaka_summer",
+   "y": 1615,
+   "m": 6,
+   "need": [
+    "tokugawa",
+    "oda"
+   ],
+   "do": [
+    [
+     "annex",
+     "tokugawa",
+     "oda"
+    ],
+    [
+     "add",
+     "tokugawa",
+     "prestige",
+     20
+    ]
+   ],
+   "imp": 3,
+   "at": "ishiyama",
+   "ja": "大坂夏の陣。堀を失った大坂城に籠もった豊臣方は城外に打って出た。真田信繁は家康の本陣に三度斬り込んだのち討たれ、城は燃え落ちた。豊臣秀頼と母の淀殿は自害し、豊臣家は滅んだ。",
+   "en": "The summer siege of Osaka. With its moats gone, the Toyotomi side came out to fight in the open. Sanada Nobushige charged Ieyasu's headquarters three times before he was killed, and the castle burned. Toyotomi Hideyori and his mother Lady Yodo took their own lives, and the house of Toyotomi was no more."
+  },
+  {
+   "id": "genna",
+   "y": 1615,
+   "m": 8,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "add",
+     "tokugawa",
+     "stability",
+     0.3
+    ]
+   ],
+   "imp": 3,
+   "at": "edo",
+   "ja": "元和偃武。大坂の陣ののち、幕府は一国一城令と武家諸法度を出した。応仁の乱から百五十年続いた戦乱の世は終わった。",
+   "en": "The Genna peace. After Osaka the shogunate ordered one castle to a province and issued its laws for the warrior houses. The age of war that began with the Ōnin war a hundred and fifty years before was over."
+  }
+ ]
 }
