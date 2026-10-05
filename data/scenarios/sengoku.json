@@ -5893,12 +5893,20 @@
     [
      "war",
      "oda",
-     "asakura"
+     "asakura",
+     {
+      "ja": "越前攻め",
+      "en": "the Echizen campaign"
+     }
     ],
     [
      "war",
      "azai",
-     "oda"
+     "oda",
+     {
+      "ja": "元亀の争乱",
+      "en": "the Genki wars"
+     }
     ],
     [
      "add",
@@ -5962,7 +5970,11 @@
     [
      "war",
      "ishiyama",
-     "oda"
+     "oda",
+     {
+      "ja": "石山合戦",
+      "en": "the Ishiyama war"
+     }
     ]
    ],
    "imp": 3,
@@ -5982,7 +5994,11 @@
     [
      "war",
      "nagashima",
-     "oda"
+     "oda",
+     {
+      "ja": "長島一向一揆",
+      "en": "the Nagashima rising"
+     }
     ]
    ],
    "at": "nagashima",
@@ -8174,7 +8190,11 @@
     [
      "war",
      "tokugawa",
-     "oda"
+     "oda",
+     {
+      "ja": "大坂の陣",
+      "en": "the sieges of Osaka"
+     }
     ]
    ],
    "imp": 3,

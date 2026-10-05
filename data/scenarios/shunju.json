@@ -7227,7 +7227,11 @@
     [
      "war",
      "yan",
-     "shanrong"
+     "shanrong",
+     {
+      "ja": "斉桓公の山戎征伐",
+      "en": "the campaign against the Shanrong"
+     }
     ],
     [
      "add",
@@ -8108,7 +8112,11 @@
     [
      "war",
      "yue",
-     "wu"
+     "wu",
+     {
+      "ja": "越の呉侵攻",
+      "en": "Yue's invasion of Wu"
+     }
     ]
    ],
    "imp": 3,
@@ -9178,7 +9186,11 @@
     [
      "war",
      "qi",
-     "yan"
+     "yan",
+     {
+      "ja": "子之の乱と斉の燕侵攻",
+      "en": "the Zizhi troubles and Qi's invasion of Yan"
+     }
     ],
     [
      "add",
@@ -9522,6 +9534,15 @@
      [
       "lu_di"
      ]
+    ],
+    [
+     "war",
+     "qin",
+     "zhao",
+     {
+      "ja": "長平の戦い",
+      "en": "the Changping campaign"
+     }
     ]
    ],
    "ja": "秦に攻められた{n_han}の上党は、秦に降るより趙につくことを選んだ。趙は上党を受け入れ、秦との大戦が避けられなくなった。",

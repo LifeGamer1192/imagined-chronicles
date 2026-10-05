@@ -2189,7 +2189,11 @@
     [
      "war",
      "carthage",
-     "rome"
+     "rome",
+     {
+      "ja": "第二次ポエニ戦争",
+      "en": "the Second Punic War"
+     }
     ],
     [
      "add",
@@ -2270,7 +2274,11 @@
     [
      "war",
      "boii",
-     "rome"
+     "rome",
+     {
+      "ja": "ボイイ族の反乱",
+      "en": "the rising of the Boii"
+     }
     ]
    ],
    "at": "placentia",
@@ -2485,7 +2493,11 @@
     [
      "war",
      "macedon",
-     "rome"
+     "rome",
+     {
+      "ja": "第一次マケドニア戦争",
+      "en": "the First Macedonian War"
+     }
     ]
    ],
    "imp": 3,
@@ -2510,7 +2522,11 @@
     [
      "war",
      "rome",
-     "syracuse"
+     "syracuse",
+     {
+      "ja": "シュラクサイ包囲戦",
+      "en": "the siege of Syracuse"
+     }
     ]
    ],
    "imp": 3,

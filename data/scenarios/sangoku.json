@@ -4043,7 +4043,11 @@
     [
      "war",
      "gongsun",
-     "yuanshao"
+     "yuanshao",
+     {
+      "ja": "袁紹・公孫瓚の戦い",
+      "en": "the war of Yuan Shao and Gongsun Zan"
+     }
     ]
    ],
    "at": "yijing",
@@ -4115,7 +4119,11 @@
     [
      "war",
      "cao",
-     "taoqian"
+     "taoqian",
+     {
+      "ja": "曹操の徐州攻め",
+      "en": "Cao Cao's invasion of Xu"
+     }
     ]
    ],
    "at": "pengcheng",
@@ -4575,6 +4583,15 @@
      "annex",
      "cao",
      "liubiao"
+    ],
+    [
+     "war",
+     "cao",
+     "wu",
+     {
+      "ja": "赤壁の戦い",
+      "en": "the Red Cliffs campaign"
+     }
     ]
    ],
    "imp": 3,

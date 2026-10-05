@@ -2795,7 +2795,11 @@
     [
      "war",
      "qi",
-     "chu"
+     "chu",
+     {
+      "ja": "田栄の乱",
+      "en": "the rising of Tian Rong"
+     }
     ]
    ],
    "at": "linzi",
@@ -2826,6 +2830,15 @@
      "capital",
      "liu",
      "yueyang"
+    ],
+    [
+     "war",
+     "liu",
+     "chu",
+     {
+      "ja": "楚漢戦争",
+      "en": "the Chu-Han war"
+     }
     ]
    ],
    "imp": 3,
