@@ -1,0 +1,3253 @@
+{
+ "id": "sokan",
+ "name": {
+  "ja": "項羽と劉邦",
+  "en": "Xiang Yu and Liu Bang"
+ },
+ "startYear": -208,
+ "endYear": -201,
+ "bc": true,
+ "box": {
+  "lat": 34,
+  "lng": 113.5,
+  "km": 2300
+ },
+ "style": "east",
+ "pool": "cn",
+ "visual": "ink",
+ "trackYears": [
+  1,
+  2
+ ],
+ "newRealm": {
+  "ja": "{name}",
+  "en": "the State of {name}",
+  "rank": null
+ },
+ "cultures": [
+  {
+   "id": "hua",
+   "name": {
+    "ja": "華夏",
+    "en": "Huaxia"
+   },
+   "color": "#c9a46a",
+   "religion": 0
+  },
+  {
+   "id": "hu",
+   "name": {
+    "ja": "胡",
+    "en": "Hu"
+   },
+   "color": "#8a8a5a",
+   "religion": 1
+  },
+  {
+   "id": "yue",
+   "name": {
+    "ja": "越",
+    "en": "Yue"
+   },
+   "color": "#5f8f6a",
+   "religion": 1
+  }
+ ],
+ "religions": [
+  {
+   "name": {
+    "ja": "天と祖霊の祀り",
+    "en": "Heaven and the ancestors"
+   },
+   "doctrine": "ancestors",
+   "place": "xianyang",
+   "full": true
+  },
+  {
+   "name": {
+    "ja": "諸族の祀り",
+    "en": "the old ways of the peoples"
+   },
+   "doctrine": "nature",
+   "place": "xiongnu",
+   "full": true
+  }
+ ],
+ "places": [
+  [
+   "xianyang",
+   "咸陽",
+   "Xianyang",
+   34.33,
+   108.7,
+   3
+  ],
+  [
+   "yueyang",
+   "櫟陽",
+   "Yueyang",
+   34.68,
+   109.25,
+   1
+  ],
+  [
+   "feiqiu",
+   "廃丘",
+   "Feiqiu",
+   34.22,
+   108.4,
+   1
+  ],
+  [
+   "hongmen",
+   "鴻門",
+   "Hongmen",
+   34.4,
+   109.25,
+   1
+  ],
+  [
+   "gaonu",
+   "高奴",
+   "Gaonu",
+   36.6,
+   109.5,
+   1
+  ],
+  [
+   "nanzheng",
+   "南鄭",
+   "Nanzheng",
+   33.07,
+   107.03,
+   2
+  ],
+  [
+   "chengdu",
+   "成都",
+   "Chengdu",
+   30.66,
+   104.06,
+   2
+  ],
+  [
+   "jiangzhou",
+   "江州",
+   "Jiangzhou",
+   29.56,
+   106.55,
+   1
+  ],
+  [
+   "longxi",
+   "隴西",
+   "Longxi",
+   35,
+   104.6,
+   1
+  ],
+  [
+   "luoyang",
+   "洛陽",
+   "Luoyang",
+   34.68,
+   112.45,
+   2
+  ],
+  [
+   "xingyang",
+   "滎陽",
+   "Xingyang",
+   34.79,
+   113.36,
+   2
+  ],
+  [
+   "yangzhai",
+   "陽翟",
+   "Yangzhai",
+   34.15,
+   113.47,
+   1
+  ],
+  [
+   "zhaoge",
+   "朝歌",
+   "Zhaoge",
+   35.6,
+   114.2,
+   1
+  ],
+  [
+   "handan",
+   "邯鄲",
+   "Handan",
+   36.6,
+   114.48,
+   2
+  ],
+  [
+   "xiangguo",
+   "襄国",
+   "Xiangguo",
+   37.06,
+   114.5,
+   1
+  ],
+  [
+   "julu",
+   "鉅鹿",
+   "Julu",
+   37.22,
+   115.03,
+   1
+  ],
+  [
+   "jingxing",
+   "井陘",
+   "Jingxing",
+   38.03,
+   114.15,
+   1
+  ],
+  [
+   "dai",
+   "代",
+   "Dai",
+   39.8,
+   114.5,
+   1
+  ],
+  [
+   "ji",
+   "薊",
+   "Ji",
+   39.9,
+   116.4,
+   2
+  ],
+  [
+   "linzi",
+   "臨淄",
+   "Linzi",
+   36.85,
+   118.3,
+   2
+  ],
+  [
+   "jimo",
+   "即墨",
+   "Jimo",
+   36.39,
+   120.45,
+   1
+  ],
+  [
+   "boyang",
+   "博陽",
+   "Boyang",
+   36.2,
+   117.1,
+   1
+  ],
+  [
+   "weishui",
+   "濰水",
+   "Wei River",
+   36.38,
+   119.75,
+   1
+  ],
+  [
+   "pingyang",
+   "平陽",
+   "Pingyang",
+   36.08,
+   111.52,
+   1
+  ],
+  [
+   "anyi",
+   "安邑",
+   "Anyi",
+   35.11,
+   111.22,
+   1
+  ],
+  [
+   "daliang",
+   "大梁",
+   "Daliang",
+   34.8,
+   114.33,
+   1
+  ],
+  [
+   "dingtao",
+   "定陶",
+   "Dingtao",
+   35.07,
+   115.57,
+   1
+  ],
+  [
+   "pengcheng",
+   "彭城",
+   "Pengcheng",
+   34.27,
+   117.18,
+   3
+  ],
+  [
+   "pei",
+   "沛",
+   "Pei",
+   34.72,
+   116.93,
+   1
+  ],
+  [
+   "chen",
+   "陳",
+   "Chen",
+   33.73,
+   114.88,
+   2
+  ],
+  [
+   "dazexiang",
+   "大沢郷",
+   "Dazexiang",
+   33.6,
+   117,
+   1
+  ],
+  [
+   "xiapi",
+   "下邳",
+   "Xiapi",
+   34.33,
+   117.95,
+   1
+  ],
+  [
+   "xuyi",
+   "盱眙",
+   "Xuyi",
+   33,
+   118.5,
+   1
+  ],
+  [
+   "kuaiji",
+   "呉",
+   "Wu",
+   31.3,
+   120.6,
+   2
+  ],
+  [
+   "shouchun",
+   "寿春",
+   "Shouchun",
+   32.58,
+   116.78,
+   1
+  ],
+  [
+   "liu",
+   "六",
+   "Liu",
+   31.75,
+   116.5,
+   1
+  ],
+  [
+   "zhu",
+   "邾",
+   "Zhu",
+   30.4,
+   114.9,
+   1
+  ],
+  [
+   "jiangling",
+   "江陵",
+   "Jiangling",
+   30.35,
+   112.19,
+   2
+  ],
+  [
+   "wan",
+   "宛",
+   "Wan",
+   33,
+   112.53,
+   1
+  ],
+  [
+   "gaixia",
+   "垓下",
+   "Gaixia",
+   33.54,
+   117.55,
+   1
+  ],
+  [
+   "wujiang",
+   "烏江",
+   "Wujiang",
+   31.9,
+   118.3,
+   1
+  ],
+  [
+   "changsha",
+   "長沙",
+   "Changsha",
+   28.2,
+   112.97,
+   1
+  ],
+  [
+   "xiongnu",
+   "河南地",
+   "Henan (Ordos)",
+   39.5,
+   108.5,
+   1
+  ],
+  [
+   "yunzhong",
+   "雲中",
+   "Yunzhong",
+   40.4,
+   111.5,
+   1
+  ],
+  [
+   "donghu",
+   "東胡",
+   "Donghu",
+   40.3,
+   118.5,
+   1
+  ],
+  [
+   "baiyue",
+   "百越",
+   "Baiyue",
+   27.6,
+   116.5,
+   1
+  ]
+ ],
+ "realms": [
+  {
+   "id": "qin",
+   "label": {
+    "ja": "秦",
+    "en": "the Qin empire"
+   },
+   "root": {
+    "ja": "秦",
+    "en": "Qin"
+   },
+   "gov": "empire",
+   "color": "#2f2f2f",
+   "culture": "hua",
+   "capital": "xianyang",
+   "places": [
+    "yueyang",
+    "feiqiu",
+    "gaonu",
+    "nanzheng",
+    "chengdu",
+    "jiangzhou",
+    "longxi",
+    "luoyang",
+    "xingyang",
+    "yangzhai",
+    "zhaoge",
+    "handan",
+    "julu",
+    "ji",
+    "linzi",
+    "pengcheng",
+    "chen",
+    "kuaiji",
+    "jiangling",
+    "wan",
+    "changsha",
+    "shouchun",
+    "daliang",
+    "pingyang",
+    "anyi"
+   ],
+   "reach": 1400,
+   "house": {
+    "ja": "嬴",
+    "en": "Ying"
+   },
+   "line": [
+    [
+     "二世皇帝",
+     "the Second Emperor",
+     210,
+     207,
+     {
+      "ab": [
+       2,
+       2,
+       2,
+       3
+      ],
+      "tr": [
+       "foolish",
+       "cruel"
+      ],
+      "born": 230
+     }
+    ],
+    [
+     "子嬰",
+     "Ziying",
+     207,
+     206,
+     {
+      "rel": "other",
+      "ab": [
+       5,
+       3,
+       4,
+       5
+      ],
+      "tr": [
+       "just"
+      ],
+      "born": 230
+     }
+    ]
+   ],
+   "power": 3
+  },
+  {
+   "id": "xiongnu",
+   "label": {
+    "ja": "匈奴",
+    "en": "the Xiongnu"
+   },
+   "root": {
+    "ja": "匈奴",
+    "en": "Xiongnu"
+   },
+   "gov": "tribe",
+   "color": "#6a6a4a",
+   "culture": "hu",
+   "capital": "xiongnu",
+   "places": [
+    "yunzhong"
+   ],
+   "reach": 260,
+   "house": {
+    "ja": "攣鞮",
+    "en": "Luandi"
+   },
+   "line": [
+    [
+     "頭曼単于",
+     "Touman Chanyu",
+     220,
+     209,
+     {
+      "born": 260
+     }
+    ],
+    [
+     "冒頓単于",
+     "Modu Chanyu",
+     209,
+     174,
+     {
+      "ab": [
+       7,
+       9,
+       6,
+       8
+      ],
+      "tr": [
+       "ambitious",
+       "cruel",
+       "warrior"
+      ],
+      "born": 234
+     }
+    ]
+   ]
+  },
+  {
+   "id": "donghu",
+   "label": {
+    "ja": "東胡",
+    "en": "the Donghu"
+   },
+   "root": {
+    "ja": "東胡",
+    "en": "Donghu"
+   },
+   "gov": "tribe",
+   "color": "#7a6a4a",
+   "culture": "hu",
+   "capital": "donghu",
+   "places": [],
+   "reach": 160,
+   "house": {
+    "ja": "東胡",
+    "en": "Donghu"
+   }
+  },
+  {
+   "id": "baiyue",
+   "label": {
+    "ja": "百越",
+    "en": "the Baiyue"
+   },
+   "root": {
+    "ja": "百越",
+    "en": "Baiyue"
+   },
+   "gov": "tribe",
+   "color": "#5f8f5a",
+   "culture": "yue",
+   "capital": "baiyue",
+   "places": [],
+   "reach": 200,
+   "house": {
+    "ja": "騶",
+    "en": "Zou"
+   }
+  },
+  {
+   "id": "zhangchu",
+   "label": {
+    "ja": "張楚",
+    "en": "Zhang Chu"
+   },
+   "root": {
+    "ja": "張楚",
+    "en": "Zhang Chu"
+   },
+   "gov": "monarchy",
+   "color": "#c9a020",
+   "culture": "hua",
+   "capital": "chen",
+   "places": [
+    "dazexiang"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "陳",
+    "en": "Chen"
+   },
+   "line": [
+    [
+     "陳勝",
+     "Chen Sheng",
+     209,
+     208,
+     {
+      "rel": "other",
+      "ab": [
+       5,
+       6,
+       5,
+       9
+      ],
+      "tr": [
+       "ambitious",
+       "charismatic"
+      ],
+      "born": 240
+     }
+    ]
+   ],
+   "start": 209,
+   "parent": "qin"
+  },
+  {
+   "id": "chu",
+   "label": {
+    "ja": "楚",
+    "en": "Chu"
+   },
+   "root": {
+    "ja": "楚",
+    "en": "Chu"
+   },
+   "gov": "monarchy",
+   "color": "#b5452f",
+   "culture": "hua",
+   "capital": "kuaiji",
+   "places": [
+    "xuyi",
+    "pengcheng"
+   ],
+   "reach": 150,
+   "house": {
+    "ja": "項",
+    "en": "Xiang"
+   },
+   "line": [
+    [
+     "項梁",
+     "Xiang Liang",
+     209,
+     208,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       7,
+       6,
+       7
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 250
+     }
+    ],
+    [
+     "項羽",
+     "Xiang Yu",
+     208,
+     202,
+     {
+      "rel": "other",
+      "ab": [
+       3,
+       10,
+       3,
+       8
+      ],
+      "tr": [
+       "brave",
+       "warrior",
+       "cruel"
+      ],
+      "born": 232
+     }
+    ]
+   ],
+   "start": 209,
+   "parent": "qin",
+   "power": 1.5
+  },
+  {
+   "id": "liu",
+   "label": {
+    "ja": "沛公",
+    "en": "the Lord of Pei"
+   },
+   "root": {
+    "ja": "漢",
+    "en": "Han"
+   },
+   "gov": "monarchy",
+   "color": "#c0392b",
+   "culture": "hua",
+   "capital": "pei",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "劉",
+    "en": "Liu"
+   },
+   "line": [
+    [
+     "劉邦",
+     "Liu Bang",
+     209,
+     195,
+     {
+      "rel": "other",
+      "ab": [
+       7,
+       6,
+       8,
+       10
+      ],
+      "tr": [
+       "charismatic",
+       "ambitious",
+       "unifier"
+      ],
+      "born": 256
+     }
+    ]
+   ],
+   "start": 209,
+   "parent": "qin"
+  },
+  {
+   "id": "zhao",
+   "label": {
+    "ja": "趙",
+    "en": "Zhao"
+   },
+   "root": {
+    "ja": "趙",
+    "en": "Zhao"
+   },
+   "gov": "monarchy",
+   "color": "#3f7f3f",
+   "culture": "hua",
+   "capital": "handan",
+   "places": [
+    "julu",
+    "xiangguo"
+   ],
+   "reach": 130,
+   "house": {
+    "ja": "武",
+    "en": "Wu"
+   },
+   "line": [
+    [
+     "武臣",
+     "Wu Chen",
+     209,
+     208,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ],
+    [
+     "趙歇",
+     "Zhao Xie",
+     208,
+     204,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "趙",
+       "en": "Zhao"
+      },
+      "born": 240
+     }
+    ]
+   ],
+   "start": 209,
+   "parent": "qin"
+  },
+  {
+   "id": "yan",
+   "label": {
+    "ja": "燕",
+    "en": "Yan"
+   },
+   "root": {
+    "ja": "燕",
+    "en": "Yan"
+   },
+   "gov": "monarchy",
+   "color": "#3a5f8a",
+   "culture": "hua",
+   "capital": "ji",
+   "places": [
+    "dai"
+   ],
+   "reach": 160,
+   "house": {
+    "ja": "韓",
+    "en": "Han"
+   },
+   "line": [
+    [
+     "韓広",
+     "Han Guang",
+     209,
+     206,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ],
+    [
+     "臧荼",
+     "Zang Tu",
+     206,
+     202,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "臧",
+       "en": "Zang"
+      },
+      "ab": [
+       5,
+       6,
+       5,
+       5
+      ],
+      "born": 245
+     }
+    ]
+   ],
+   "start": 209,
+   "parent": "qin"
+  },
+  {
+   "id": "qi",
+   "label": {
+    "ja": "斉",
+    "en": "Qi"
+   },
+   "root": {
+    "ja": "斉",
+    "en": "Qi"
+   },
+   "gov": "monarchy",
+   "color": "#3f6e9e",
+   "culture": "hua",
+   "capital": "linzi",
+   "places": [
+    "jimo",
+    "boyang"
+   ],
+   "reach": 160,
+   "house": {
+    "ja": "田",
+    "en": "Tian"
+   },
+   "line": [
+    [
+     "田儋",
+     "Tian Dan",
+     209,
+     208,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       6,
+       5,
+       7
+      ],
+      "born": 250
+     }
+    ],
+    [
+     "田市",
+     "Tian Shi",
+     208,
+     206,
+     {
+      "born": 225
+     }
+    ],
+    [
+     "田栄",
+     "Tian Rong",
+     206,
+     205,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       7,
+       5,
+       6
+      ],
+      "tr": [
+       "ambitious"
+      ],
+      "born": 248
+     }
+    ],
+    [
+     "田広",
+     "Tian Guang",
+     205,
+     203,
+     {
+      "born": 225
+     }
+    ]
+   ],
+   "start": 209,
+   "parent": "qin"
+  },
+  {
+   "id": "wei",
+   "label": {
+    "ja": "魏",
+    "en": "Wei"
+   },
+   "root": {
+    "ja": "魏",
+    "en": "Wei"
+   },
+   "gov": "monarchy",
+   "color": "#9c3f3f",
+   "culture": "hua",
+   "capital": "daliang",
+   "places": [
+    "dingtao"
+   ],
+   "reach": 100,
+   "house": {
+    "ja": "魏",
+    "en": "Wei"
+   },
+   "line": [
+    [
+     "魏咎",
+     "Wei Jiu",
+     208,
+     208,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ],
+    [
+     "魏豹",
+     "Wei Bao",
+     208,
+     204,
+     {
+      "rel": "brother",
+      "ab": [
+       4,
+       5,
+       4,
+       5
+      ],
+      "born": 245
+     }
+    ]
+   ],
+   "start": 208,
+   "parent": "qin"
+  },
+  {
+   "id": "hank",
+   "label": {
+    "ja": "韓",
+    "en": "Han (Hann)"
+   },
+   "root": {
+    "ja": "韓",
+    "en": "Hann"
+   },
+   "gov": "monarchy",
+   "color": "#c08a3a",
+   "culture": "hua",
+   "capital": "yangzhai",
+   "places": [],
+   "reach": 70,
+   "house": {
+    "ja": "韓",
+    "en": "Han"
+   },
+   "line": [
+    [
+     "韓成",
+     "Han Cheng",
+     208,
+     206,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ],
+    [
+     "鄭昌",
+     "Zheng Chang",
+     206,
+     205,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "鄭",
+       "en": "Zheng"
+      },
+      "born": 245
+     }
+    ],
+    [
+     "韓王信",
+     "King Xin of Hann",
+     205,
+     201,
+     {
+      "rel": "other",
+      "house": {
+       "ja": "韓",
+       "en": "Han"
+      },
+      "ab": [
+       5,
+       6,
+       5,
+       5
+      ],
+      "born": 240
+     }
+    ]
+   ],
+   "start": 208,
+   "parent": "qin"
+  },
+  {
+   "id": "yong",
+   "label": {
+    "ja": "雍",
+    "en": "Yong"
+   },
+   "root": {
+    "ja": "雍",
+    "en": "Yong"
+   },
+   "gov": "monarchy",
+   "color": "#5f4f3f",
+   "culture": "hua",
+   "capital": "feiqiu",
+   "places": [
+    "longxi"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "章",
+    "en": "Zhang"
+   },
+   "line": [
+    [
+     "章邯",
+     "Zhang Han",
+     206,
+     205,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       9,
+       5,
+       6
+      ],
+      "tr": [
+       "brave"
+      ],
+      "born": 250
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  },
+  {
+   "id": "sai",
+   "label": {
+    "ja": "塞",
+    "en": "Sai"
+   },
+   "root": {
+    "ja": "塞",
+    "en": "Sai"
+   },
+   "gov": "monarchy",
+   "color": "#6f5f4f",
+   "culture": "hua",
+   "capital": "yueyang",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "司馬",
+    "en": "Sima"
+   },
+   "line": [
+    [
+     "司馬欣",
+     "Sima Xin",
+     206,
+     204,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  },
+  {
+   "id": "di",
+   "label": {
+    "ja": "翟",
+    "en": "Di"
+   },
+   "root": {
+    "ja": "翟",
+    "en": "Di"
+   },
+   "gov": "monarchy",
+   "color": "#7f6f4f",
+   "culture": "hua",
+   "capital": "gaonu",
+   "places": [],
+   "reach": 120,
+   "house": {
+    "ja": "董",
+    "en": "Dong"
+   },
+   "line": [
+    [
+     "董翳",
+     "Dong Yi",
+     206,
+     204,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  },
+  {
+   "id": "henan",
+   "label": {
+    "ja": "河南",
+    "en": "Henan"
+   },
+   "root": {
+    "ja": "河南",
+    "en": "Henan"
+   },
+   "gov": "monarchy",
+   "color": "#8f7f5f",
+   "culture": "hua",
+   "capital": "luoyang",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "申",
+    "en": "Shen"
+   },
+   "line": [
+    [
+     "申陽",
+     "Shen Yang",
+     206,
+     205,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  },
+  {
+   "id": "yin",
+   "label": {
+    "ja": "殷",
+    "en": "Yin"
+   },
+   "root": {
+    "ja": "殷",
+    "en": "Yin"
+   },
+   "gov": "monarchy",
+   "color": "#5f6f8f",
+   "culture": "hua",
+   "capital": "zhaoge",
+   "places": [],
+   "reach": 60,
+   "house": {
+    "ja": "司馬",
+    "en": "Sima"
+   },
+   "line": [
+    [
+     "司馬卬",
+     "Sima Ang",
+     206,
+     205,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  },
+  {
+   "id": "changshan",
+   "label": {
+    "ja": "常山",
+    "en": "Changshan"
+   },
+   "root": {
+    "ja": "常山",
+    "en": "Changshan"
+   },
+   "gov": "monarchy",
+   "color": "#4f7f6f",
+   "culture": "hua",
+   "capital": "xiangguo",
+   "places": [
+    "jingxing"
+   ],
+   "reach": 80,
+   "house": {
+    "ja": "張",
+    "en": "Zhang"
+   },
+   "line": [
+    [
+     "張耳",
+     "Zhang Er",
+     206,
+     202,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       5,
+       7,
+       7
+      ],
+      "born": 264
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "zhao"
+  },
+  {
+   "id": "jiujiang",
+   "label": {
+    "ja": "九江",
+    "en": "Jiujiang"
+   },
+   "root": {
+    "ja": "九江",
+    "en": "Jiujiang"
+   },
+   "gov": "monarchy",
+   "color": "#6f3f6f",
+   "culture": "hua",
+   "capital": "liu",
+   "places": [
+    "shouchun"
+   ],
+   "reach": 100,
+   "house": {
+    "ja": "英",
+    "en": "Ying"
+   },
+   "line": [
+    [
+     "英布",
+     "Ying Bu",
+     206,
+     195,
+     {
+      "rel": "other",
+      "ab": [
+       4,
+       9,
+       4,
+       6
+      ],
+      "tr": [
+       "brave",
+       "warrior"
+      ],
+      "born": 245
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  },
+  {
+   "id": "hengshan",
+   "label": {
+    "ja": "衡山",
+    "en": "Hengshan"
+   },
+   "root": {
+    "ja": "衡山",
+    "en": "Hengshan"
+   },
+   "gov": "monarchy",
+   "color": "#4f8f4f",
+   "culture": "hua",
+   "capital": "zhu",
+   "places": [
+    "changsha"
+   ],
+   "reach": 120,
+   "house": {
+    "ja": "呉",
+    "en": "Wu"
+   },
+   "line": [
+    [
+     "呉芮",
+     "Wu Rui",
+     206,
+     202,
+     {
+      "rel": "other",
+      "ab": [
+       6,
+       5,
+       6,
+       6
+      ],
+      "tr": [
+       "content"
+      ],
+      "born": 250
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  },
+  {
+   "id": "linjiang",
+   "label": {
+    "ja": "臨江",
+    "en": "Linjiang"
+   },
+   "root": {
+    "ja": "臨江",
+    "en": "Linjiang"
+   },
+   "gov": "monarchy",
+   "color": "#8f6f3f",
+   "culture": "hua",
+   "capital": "jiangling",
+   "places": [],
+   "reach": 110,
+   "house": {
+    "ja": "共",
+    "en": "Gong"
+   },
+   "line": [
+    [
+     "共敖",
+     "Gong Ao",
+     206,
+     204,
+     {
+      "rel": "other",
+      "born": 250
+     }
+    ],
+    [
+     "共尉",
+     "Gong Wei",
+     204,
+     202,
+     {
+      "born": 230
+     }
+    ]
+   ],
+   "start": 206,
+   "parent": "chu"
+  }
+ ],
+ "people": [
+  [
+   "趙高",
+   "Zhao Gao",
+   "qin",
+   "minister",
+   258,
+   207,
+   {
+    "from": 209,
+    "ab": [
+     6,
+     2,
+     5,
+     4
+    ],
+    "tr": [
+     "cruel",
+     "ambitious",
+     "paranoid"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "李斯",
+   "Li Si",
+   "qin",
+   "minister",
+   284,
+   208,
+   {
+    "from": 209,
+    "ab": [
+     9,
+     4,
+     7,
+     6
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "王離",
+   "Wang Li",
+   "qin",
+   "general",
+   250,
+   207,
+   {
+    "from": 209,
+    "ab": [
+     4,
+     7,
+     3,
+     5
+    ]
+   }
+  ],
+  [
+   "呉広",
+   "Wu Guang",
+   "zhangchu",
+   "general",
+   240,
+   208,
+   {
+    "from": 209,
+    "ab": [
+     4,
+     6,
+     4,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "陳余",
+   "Chen Yu",
+   "zhao",
+   "general",
+   250,
+   204,
+   {
+    "from": 209,
+    "ab": [
+     6,
+     6,
+     6,
+     6
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "田横",
+   "Tian Heng",
+   "qi",
+   "general",
+   250,
+   202,
+   {
+    "from": 209,
+    "ab": [
+     6,
+     7,
+     6,
+     8
+    ],
+    "tr": [
+     "just",
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "蒯通",
+   "Kuai Tong",
+   "zhao",
+   "minister",
+   250,
+   190,
+   {
+    "from": 209,
+    "moves": [
+     [
+      203,
+      "qi"
+     ]
+    ],
+    "ab": [
+     6,
+     3,
+     9,
+     5
+    ],
+    "tr": [
+     "genius"
+    ]
+   }
+  ],
+  [
+   "范増",
+   "Fan Zeng",
+   "chu",
+   "minister",
+   277,
+   204,
+   {
+    "from": 208,
+    "ab": [
+     8,
+     7,
+     7,
+     4
+    ],
+    "tr": [
+     "wise",
+     "paranoid"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "項伯",
+   "Xiang Bo",
+   "chu",
+   "minister",
+   260,
+   192,
+   {
+    "from": 209,
+    "ab": [
+     4,
+     4,
+     6,
+     5
+    ],
+    "tr": [
+     "kind"
+    ]
+   }
+  ],
+  [
+   "宋義",
+   "Song Yi",
+   "chu",
+   "general",
+   250,
+   207,
+   {
+    "from": 208,
+    "ab": [
+     5,
+     5,
+     6,
+     5
+    ],
+    "tr": [
+     "craven"
+    ]
+   }
+  ],
+  [
+   "鍾離眜",
+   "Zhongli Mo",
+   "chu",
+   "general",
+   250,
+   201,
+   {
+    "from": 208,
+    "ab": [
+     4,
+     8,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "龍且",
+   "Long Ju",
+   "chu",
+   "general",
+   250,
+   203,
+   {
+    "from": 208,
+    "ab": [
+     3,
+     8,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "季布",
+   "Ji Bu",
+   "chu",
+   "general",
+   250,
+   180,
+   {
+    "from": 208,
+    "moves": [
+     [
+      202,
+      "liu"
+     ]
+    ],
+    "ab": [
+     5,
+     7,
+     5,
+     7
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "虞美人",
+   "Lady Yu",
+   "chu",
+   "hero",
+   230,
+   202,
+   {
+    "from": 207,
+    "sex": "f",
+    "ab": [
+     3,
+     2,
+     5,
+     9
+    ],
+    "tr": [
+     "kind"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "蕭何",
+   "Xiao He",
+   "liu",
+   "minister",
+   257,
+   193,
+   {
+    "from": 209,
+    "ab": [
+     10,
+     4,
+     7,
+     7
+    ],
+    "tr": [
+     "wise",
+     "builder"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "曹参",
+   "Cao Shen",
+   "liu",
+   "general",
+   255,
+   190,
+   {
+    "from": 209,
+    "ab": [
+     7,
+     8,
+     5,
+     6
+    ],
+    "tr": [
+     "content"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "樊噲",
+   "Fan Kuai",
+   "liu",
+   "general",
+   242,
+   189,
+   {
+    "from": 209,
+    "ab": [
+     2,
+     8,
+     3,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "夏侯嬰",
+   "Xiahou Ying",
+   "liu",
+   "general",
+   250,
+   172,
+   {
+    "from": 209,
+    "ab": [
+     5,
+     7,
+     5,
+     6
+    ]
+   }
+  ],
+  [
+   "周勃",
+   "Zhou Bo",
+   "liu",
+   "general",
+   250,
+   169,
+   {
+    "from": 209,
+    "ab": [
+     5,
+     8,
+     4,
+     5
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "盧綰",
+   "Lu Wan",
+   "liu",
+   "general",
+   256,
+   194,
+   {
+    "from": 209,
+    "ab": [
+     4,
+     5,
+     4,
+     6
+    ]
+   }
+  ],
+  [
+   "呂雉",
+   "Lü Zhi",
+   "liu",
+   "hero",
+   241,
+   180,
+   {
+    "from": 209,
+    "sex": "f",
+    "ab": [
+     8,
+     3,
+     6,
+     6
+    ],
+    "tr": [
+     "ambitious",
+     "cruel"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "張良",
+   "Zhang Liang",
+   "hank",
+   "minister",
+   250,
+   186,
+   {
+    "from": 208,
+    "moves": [
+     [
+      206,
+      "liu"
+     ]
+    ],
+    "ab": [
+     9,
+     9,
+     9,
+     7
+    ],
+    "tr": [
+     "genius",
+     "wise",
+     "sickly"
+    ],
+    "fame": 9
+   }
+  ],
+  [
+   "韓信",
+   "Han Xin",
+   "chu",
+   "general",
+   231,
+   196,
+   {
+    "from": 208,
+    "moves": [
+     [
+      206,
+      "liu"
+     ]
+    ],
+    "ab": [
+     6,
+     10,
+     5,
+     6
+    ],
+    "tr": [
+     "genius",
+     "ambitious"
+    ],
+    "fame": 10
+   }
+  ],
+  [
+   "酈食其",
+   "Li Yiji",
+   "liu",
+   "minister",
+   268,
+   203,
+   {
+    "from": 208,
+    "ab": [
+     5,
+     3,
+     9,
+     7
+    ],
+    "tr": [
+     "drunkard"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "陳平",
+   "Chen Ping",
+   "wei",
+   "minister",
+   250,
+   178,
+   {
+    "from": 208,
+    "moves": [
+     [
+      207,
+      "chu"
+     ],
+     [
+      205,
+      "liu"
+     ]
+    ],
+    "ab": [
+     8,
+     6,
+     9,
+     6
+    ],
+    "tr": [
+     "genius",
+     "greedy"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "紀信",
+   "Ji Xin",
+   "liu",
+   "hero",
+   240,
+   204,
+   {
+    "from": 207,
+    "tr": [
+     "brave",
+     "just"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "彭越",
+   "Peng Yue",
+   "wei",
+   "general",
+   250,
+   196,
+   {
+    "from": 208,
+    "moves": [
+     [
+      205,
+      "liu"
+     ]
+    ],
+    "ab": [
+     5,
+     8,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "陸賈",
+   "Lu Jia",
+   "liu",
+   "scholar",
+   240,
+   170,
+   {
+    "from": 206,
+    "ab": [
+     6,
+     2,
+     9,
+     6
+    ],
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "叔孫通",
+   "Shusun Tong",
+   "qin",
+   "scholar",
+   250,
+   190,
+   {
+    "from": 209,
+    "moves": [
+     [
+      205,
+      "liu"
+     ]
+    ],
+    "ab": [
+     7,
+     2,
+     7,
+     6
+    ],
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "王陵",
+   "Wang Ling",
+   "liu",
+   "general",
+   250,
+   181,
+   {
+    "from": 206,
+    "ab": [
+     6,
+     6,
+     5,
+     6
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "灌嬰",
+   "Guan Ying",
+   "liu",
+   "general",
+   250,
+   176,
+   {
+    "from": 208,
+    "ab": [
+     5,
+     8,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ]
+ ],
+ "events": [
+  {
+   "id": "modu",
+   "y": 209,
+   "m": 3,
+   "need": [
+    "xiongnu"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "xiongnu",
+     "assassination"
+    ],
+    [
+     "add",
+     "xiongnu",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 2,
+   "at": "xiongnu",
+   "ja": "匈奴の太子冒頓は、自分の鳴鏑の射る先へ必ず射よと部下を鍛え、ついに父の頭曼単于を射させて単于となった。",
+   "en": "Modu, heir of the Xiongnu, trained his men to shoot wherever his whistling arrow flew — and at last had them shoot his father, Touman Chanyu. He became chanyu himself."
+  },
+  {
+   "id": "dazexiang",
+   "y": 209,
+   "m": 8,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rise",
+     "zhangchu",
+     [
+      "chen",
+      "dazexiang"
+     ]
+    ],
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "dazexiang",
+   "ja": "大沢郷の乱。北の守りへ送られる途中、大雨で期日に遅れて死罪が決まった陳勝・呉広は「王侯将相いずくんぞ種あらんや」と叫んで兵を挙げ、陳で王を称して国を張楚と号した。",
+   "en": "The rising at Dazexiang. On their way to the northern frontier, held up by rain and so condemned to death for being late, Chen Sheng and Wu Guang cried \"Are kings and generals born to it?\" and rose. Chen Sheng made himself king at Chen and called his realm Zhang Chu."
+  },
+  {
+   "id": "zhao_rise",
+   "y": 209,
+   "m": 9,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rise",
+     "zhao",
+     [
+      "handan",
+      "julu",
+      "xiangguo"
+     ]
+    ]
+   ],
+   "at": "handan",
+   "ja": "陳勝の部将武臣は北の趙の地を平らげ、邯鄲で自ら趙王を称した。",
+   "en": "Wu Chen, a captain of Chen Sheng, took the old land of Zhao in the north and made himself King of Zhao at Handan."
+  },
+  {
+   "id": "liu_rise",
+   "y": 209,
+   "m": 10,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rise",
+     "liu",
+     [
+      "pei"
+     ]
+    ]
+   ],
+   "imp": 3,
+   "at": "pei",
+   "ja": "沛の亭長だった劉邦は、県令を殺した沛の人々に推されて立ち、「沛公」と呼ばれた。",
+   "en": "Liu Bang, once a village constable of Pei, was put forward by the townsmen after they killed their magistrate, and was called the Lord of Pei."
+  },
+  {
+   "id": "chu_rise",
+   "y": 209,
+   "m": 10,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rise",
+     "chu",
+     [
+      "kuaiji"
+     ]
+    ]
+   ],
+   "imp": 3,
+   "at": "kuaiji",
+   "ja": "楚の名将項燕の子項梁は、甥の項羽とともに会稽の郡守を斬って兵を挙げた。二十四歳の項羽は、その日だけで数十人を斬ったという。",
+   "en": "Xiang Liang, son of the great Chu general Xiang Yan, rose with his nephew Xiang Yu by cutting down the governor of Kuaiji; Xiang Yu, twenty-four, is said to have killed scores that day alone."
+  },
+  {
+   "id": "yan_qi_rise",
+   "y": 209,
+   "m": 10,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rise",
+     "yan",
+     [
+      "ji",
+      "dai"
+     ]
+    ],
+    [
+     "rise",
+     "qi",
+     [
+      "linzi",
+      "jimo",
+      "boyang"
+     ]
+    ]
+   ],
+   "at": "linzi",
+   "ja": "燕では韓広が燕王を称し、斉では旧王族の田儋が県令を殺して斉王を称した。",
+   "en": "In Yan, Han Guang declared himself King of Yan; in Qi, Tian Dan of the old royal house killed the magistrate and declared himself King of Qi."
+  },
+  {
+   "id": "wei_rise",
+   "y": 208,
+   "m": 1,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rise",
+     "wei",
+     [
+      "daliang",
+      "dingtao"
+     ]
+    ]
+   ],
+   "at": "daliang",
+   "ja": "魏の旧王族魏咎が魏王に立てられた。",
+   "en": "Wei Jiu of the old royal house of Wei was set up as King of Wei."
+  },
+  {
+   "id": "chen_sheng_end",
+   "y": 208,
+   "m": 1,
+   "need": [
+    "zhangchu",
+    "chu"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "zhangchu"
+    ]
+   ],
+   "imp": 3,
+   "at": "chen",
+   "ja": "秦将章邯に敗れて逃げる陳勝は、御者の荘賈に殺された。蜂起からわずか半年であった。反乱の旗は楚の項梁へ移った。",
+   "en": "Beaten by the Qin general Zhang Han, Chen Sheng was killed in flight by his own charioteer, barely half a year after the rising. The banner of revolt passed to Xiang Liang of Chu."
+  },
+  {
+   "id": "hank_rise",
+   "y": 208,
+   "m": 6,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rise",
+     "hank",
+     [
+      "yangzhai"
+     ]
+    ]
+   ],
+   "at": "yangzhai",
+   "ja": "張良の勧めで韓の旧王族韓成が韓王に立てられた。",
+   "en": "At Zhang Liang's urging, Han Cheng of the old royal house of Hann was set up as its king."
+  },
+  {
+   "id": "king_huai",
+   "y": 208,
+   "m": 7,
+   "need": [
+    "chu"
+   ],
+   "do": [
+    [
+     "add",
+     "chu",
+     "legitimacy",
+     0.3
+    ],
+    [
+     "capital",
+     "chu",
+     "xuyi"
+    ]
+   ],
+   "imp": 2,
+   "at": "xuyi",
+   "ja": "項梁は范増の献策を容れ、羊飼いをしていた楚の王族の孫心を探し出して楚の懐王に立てた。",
+   "en": "On Fan Zeng's advice Xiang Liang sought out Xin, a grandson of the old Chu kings who was herding sheep, and made him King Huai of Chu."
+  },
+  {
+   "id": "linji",
+   "y": 208,
+   "m": 7,
+   "need": [
+    "qin",
+    "wei"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "wei",
+     "battle_wound"
+    ],
+    [
+     "rulerDies",
+     "qi",
+     "battle_wound"
+    ],
+    [
+     "add",
+     "qin",
+     "prestige",
+     10
+    ]
+   ],
+   "at": "daliang",
+   "ja": "章邯は臨済を囲み、救援に来た斉王田儋を討った。魏咎は民の命と引き換えに降り、自ら火に入って死んだ。",
+   "en": "Zhang Han besieged Linji and killed Tian Dan of Qi, who had come to its aid; Wei Jiu surrendered to save his people and threw himself into a fire."
+  },
+  {
+   "id": "dingtao",
+   "y": 208,
+   "m": 10,
+   "need": [
+    "qin",
+    "chu"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "chu",
+     "battle_wound"
+    ],
+    [
+     "army",
+     "chu",
+     0.7
+    ]
+   ],
+   "imp": 3,
+   "at": "dingtao",
+   "ja": "連勝に驕った項梁は、定陶で章邯の夜襲を受けて戦死した。",
+   "en": "Grown proud with victory, Xiang Liang was caught by a night attack of Zhang Han at Dingtao and killed."
+  },
+  {
+   "id": "julu",
+   "y": 207,
+   "m": 1,
+   "need": [
+    "qin",
+    "chu"
+   ],
+   "do": [
+    [
+     "army",
+     "qin",
+     0.4
+    ],
+    [
+     "add",
+     "chu",
+     "prestige",
+     30
+    ],
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "julu",
+   "ja": "鉅鹿の戦い。項羽は渡河すると船を沈め、釜を壊し、三日分の食糧だけを持たせて退路を断ち (破釜沈舟)、王離の秦軍を九度戦って破った。諸侯の将は膝で進んで項羽の陣に入り、顔を上げられなかったという。",
+   "en": "The battle of Julu. Once across the river Xiang Yu sank the boats and broke the cooking pots, leaving three days' food and no way back; he fought Wang Li's Qin army nine times and broke it. The other lords' generals came into his camp on their knees, it is said, and dared not look up."
+  },
+  {
+   "id": "zhang_han_surrenders",
+   "y": 207,
+   "m": 8,
+   "need": [
+    "qin",
+    "chu"
+   ],
+   "do": [
+    [
+     "army",
+     "qin",
+     0.3
+    ],
+    [
+     "add",
+     "chu",
+     "prestige",
+     15
+    ]
+   ],
+   "at": "zhaoge",
+   "ja": "趙高に疑われて行き場を失った章邯は、二十万の兵とともに項羽に降った。降った秦兵は新安で夜のうちに穴埋めにされたと伝わる。",
+   "en": "Distrusted by Zhao Gao and with nowhere to turn, Zhang Han surrendered to Xiang Yu with two hundred thousand men; the surrendered Qin soldiers were buried alive at Xin'an in a single night, the records say."
+  },
+  {
+   "id": "deer_horse",
+   "y": 207,
+   "m": 9,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "qin",
+     "assassination"
+    ],
+    [
+     "add",
+     "qin",
+     "legitimacy",
+     -0.3
+    ]
+   ],
+   "imp": 3,
+   "at": "xianyang",
+   "ja": "趙高は二世皇帝に鹿を献じて「馬です」と言い、鹿と答えた臣を陥れた (指鹿為馬)。やがて趙高は望夷宮で二世皇帝を自害させ、子嬰を立てた。子嬰は帝号を捨てて秦王と称し、趙高を誅した。",
+   "en": "Zhao Gao presented a deer to the Second Emperor and called it a horse, and ruined those who said \"deer\". Soon he forced the emperor to kill himself in the Wangyi palace and set up Ziying, who gave up the imperial title for \"King of Qin\" — and had Zhao Gao put to death."
+  },
+  {
+   "id": "pei_enters",
+   "y": 207,
+   "m": 12,
+   "need": [
+    "liu",
+    "qin"
+   ],
+   "do": [
+    [
+     "cede",
+     "qin",
+     "liu",
+     [
+      "xianyang",
+      "yueyang",
+      "feiqiu"
+     ]
+    ],
+    [
+     "add",
+     "liu",
+     "prestige",
+     20
+    ],
+    [
+     "add",
+     "liu",
+     "stability",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "xianyang",
+   "ja": "武関から関中に入った{r_liu}に、秦王子嬰は首に紐をかけ、白馬の車で迎えて降った。劉邦は宝物に手をつけず、秦の苛法を廃して「法三章」だけを約し、民の心をつかんだ。",
+   "en": "{r_liu} came into the land within the passes by the Wu pass; Ziying, King of Qin, met him in a white-horse carriage with a cord round his neck and surrendered. Liu Bang left the treasures alone, abolished the harsh Qin laws, and promised just three — and won the people."
+  },
+  {
+   "id": "hongmen",
+   "y": 206,
+   "m": 1,
+   "need": [
+    "chu",
+    "liu"
+   ],
+   "do": [
+    [
+     "add",
+     "chu",
+     "prestige",
+     5
+    ]
+   ],
+   "imp": 3,
+   "at": "hongmen",
+   "ja": "鴻門の会。関中を先に取られて怒る項羽のもとへ、劉邦は自ら謝罪に赴いた。范増は項荘に剣舞をさせて劉邦を討たせようとしたが、項伯が共に舞って庇い、樊噲が盾を持って乱入した。劉邦は厠に立つふりをして逃れた。范増は「豎子ともに謀るに足らず」と玉斗を砕いた。",
+   "en": "The feast at Hongmen. Liu Bang came in person to apologise to Xiang Yu, furious that Liu had reached the passes first. Fan Zeng had Xiang Zhuang perform a sword dance to kill him; Xiang Bo danced too and shielded him, and Fan Kuai burst in with his shield. Liu Bang slipped away as if to the privy. \"The boy is not worth plotting with,\" Fan Zeng said, and smashed his jade cup."
+  },
+  {
+   "id": "qin_end",
+   "y": 206,
+   "m": 1,
+   "need": [
+    "chu",
+    "qin"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "qin"
+    ],
+    [
+     "cede",
+     "liu",
+     "chu",
+     [
+      "xianyang",
+      "yueyang",
+      "feiqiu"
+     ]
+    ]
+   ],
+   "imp": 3,
+   "at": "xianyang",
+   "ja": "咸陽に入った{r_chu}は子嬰を殺し、宮殿を焼いた。火は三か月消えなかったという。秦は滅んだ。",
+   "en": "{r_chu} entered Xianyang, killed Ziying and burned the palaces; the fire burned for three months, it is said. Qin was no more."
+  },
+  {
+   "id": "eighteen",
+   "y": 206,
+   "m": 3,
+   "need": [
+    "chu",
+    "liu"
+   ],
+   "do": [
+    [
+     "relabel",
+     "chu",
+     {
+      "ja": "西楚",
+      "en": "Western Chu"
+     },
+     {
+      "ja": "西楚",
+      "en": "Western Chu"
+     }
+    ],
+    [
+     "capital",
+     "chu",
+     "pengcheng"
+    ],
+    [
+     "cede",
+     "*",
+     "liu",
+     [
+      "nanzheng",
+      "chengdu",
+      "jiangzhou"
+     ]
+    ],
+    [
+     "capital",
+     "liu",
+     "nanzheng"
+    ],
+    [
+     "relabel",
+     "liu",
+     {
+      "ja": "漢",
+      "en": "Han"
+     },
+     {
+      "ja": "漢",
+      "en": "Han"
+     }
+    ],
+    [
+     "rise",
+     "yong",
+     [
+      "feiqiu",
+      "longxi"
+     ]
+    ],
+    [
+     "rise",
+     "sai",
+     [
+      "yueyang",
+      "xianyang"
+     ]
+    ],
+    [
+     "rise",
+     "di",
+     [
+      "gaonu"
+     ]
+    ],
+    [
+     "rise",
+     "henan",
+     [
+      "luoyang"
+     ]
+    ],
+    [
+     "rise",
+     "yin",
+     [
+      "zhaoge"
+     ]
+    ],
+    [
+     "rise",
+     "changshan",
+     [
+      "xiangguo",
+      "jingxing"
+     ]
+    ],
+    [
+     "rise",
+     "jiujiang",
+     [
+      "liu",
+      "shouchun"
+     ]
+    ],
+    [
+     "rise",
+     "hengshan",
+     [
+      "zhu",
+      "changsha"
+     ]
+    ],
+    [
+     "rise",
+     "linjiang",
+     [
+      "jiangling"
+     ]
+    ],
+    [
+     "capital",
+     "zhao",
+     "dai"
+    ],
+    [
+     "relabel",
+     "wei",
+     {
+      "ja": "西魏",
+      "en": "Western Wei"
+     },
+     {
+      "ja": "西魏",
+      "en": "Western Wei"
+     }
+    ],
+    [
+     "capital",
+     "wei",
+     "pingyang"
+    ]
+   ],
+   "imp": 3,
+   "at": "pengcheng",
+   "ja": "項羽は自ら西楚覇王と称して彭城を都とし、諸侯の将を十八の王に封じた。劉邦は約束の関中ではなく、辺地の巴・蜀・漢中の漢王とされた。関中は秦の降将章邯・司馬欣・董翳の三人に分けられた。",
+   "en": "Xiang Yu took the title Hegemon-King of Western Chu with Pengcheng as his capital, and made the lords' generals kings of eighteen realms. Liu Bang was given not the land within the passes he had been promised, but the remote Ba, Shu and Hanzhong as King of Han; the land within the passes went to three surrendered Qin generals, Zhang Han, Sima Xin and Dong Yi."
+  },
+  {
+   "id": "plank_road",
+   "y": 206,
+   "m": 5,
+   "need": [
+    "liu"
+   ],
+   "do": [
+    [
+     "add",
+     "liu",
+     "stability",
+     0.1
+    ]
+   ],
+   "at": "nanzheng",
+   "ja": "漢中へ入る劉邦は、張良の勧めで通った桟道を焼き、東へ戻る気がないことを項羽に示した。",
+   "en": "On his way into Hanzhong, Liu Bang burned the plank roads behind him at Zhang Liang's advice, to show Xiang Yu he had no thought of coming back east."
+  },
+  {
+   "id": "tian_rong",
+   "y": 206,
+   "m": 7,
+   "need": [
+    "qi"
+   ],
+   "do": [
+    [
+     "add",
+     "qi",
+     "prestige",
+     10
+    ],
+    [
+     "war",
+     "qi",
+     "chu"
+    ]
+   ],
+   "at": "linzi",
+   "ja": "王に封じられなかった斉の田栄は、項羽の立てた斉の王たちを攻め殺して斉を一つにし、項羽に背いた。",
+   "en": "Left out of the kingdoms, Tian Rong of Qi attacked and killed the kings Xiang Yu had set up in Qi, united it, and defied Xiang Yu."
+  },
+  {
+   "id": "three_qin",
+   "y": 206,
+   "m": 9,
+   "need": [
+    "liu",
+    "sai",
+    "di"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "sai"
+    ],
+    [
+     "annex",
+     "liu",
+     "di"
+    ],
+    [
+     "capital",
+     "liu",
+     "yueyang"
+    ]
+   ],
+   "imp": 3,
+   "at": "feiqiu",
+   "ja": "韓信の策で、{r_liu}はひそかに陳倉の道から関中へ攻め入り (暗渡陳倉)、塞王・翟王を降して関中の大半を取り戻した。章邯は廃丘に籠もった。",
+   "en": "On Han Xin's plan {r_liu} slipped into the land within the passes by the Chencang road, brought down the kings of Sai and Di, and won back most of it; Zhang Han shut himself up in Feiqiu."
+  },
+  {
+   "id": "henan_hank",
+   "y": 206,
+   "m": 11,
+   "need": [
+    "liu",
+    "henan"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "henan"
+    ]
+   ],
+   "at": "luoyang",
+   "ja": "河南王申陽が漢に降った。",
+   "en": "Shen Yang, King of Henan, surrendered to Han."
+  },
+  {
+   "id": "hank_xin",
+   "y": 205,
+   "m": 2,
+   "need": [
+    "hank"
+   ],
+   "do": [],
+   "at": "yangzhai",
+   "ja": "漢は韓王鄭昌を降し、韓の公子信を韓王とした。",
+   "en": "Han brought down Zheng Chang, King of Hann, and made Prince Xin of Hann its king."
+  },
+  {
+   "id": "changshan_end",
+   "y": 205,
+   "m": 2,
+   "need": [
+    "zhao",
+    "changshan"
+   ],
+   "do": [
+    [
+     "annex",
+     "zhao",
+     "changshan"
+    ]
+   ],
+   "at": "xiangguo",
+   "ja": "陳余は斉の兵を借りて常山王張耳を追い、張耳は漢へ逃れた。かつて刎頸の交わりを結んだ二人は敵となった。",
+   "en": "Chen Yu, with troops borrowed from Qi, drove out Zhang Er, King of Changshan, who fled to Han. The two who had once sworn friendship to the death were now enemies."
+  },
+  {
+   "id": "yin_falls",
+   "y": 205,
+   "m": 4,
+   "need": [
+    "liu",
+    "yin"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "yin"
+    ]
+   ],
+   "at": "zhaoge",
+   "ja": "殷王司馬卬は漢に捕らえられた。洛陽で{r_liu}は義帝が項羽に殺されたことを天下に告げ、喪に服して諸侯に討伐を呼びかけた。",
+   "en": "Sima Ang, King of Yin, was taken by Han. At Luoyang {r_liu} announced that Xiang Yu had murdered the Righteous Emperor, put on mourning, and called the lords to war."
+  },
+  {
+   "id": "pengcheng",
+   "y": 205,
+   "m": 5,
+   "need": [
+    "liu",
+    "chu"
+   ],
+   "do": [
+    [
+     "army",
+     "liu",
+     0.3
+    ],
+    [
+     "add",
+     "chu",
+     "prestige",
+     20
+    ],
+    [
+     "add",
+     "liu",
+     "stability",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "pengcheng",
+   "ja": "彭城の戦い。五十六万の諸侯の軍を率いた{r_liu}は、項羽の留守の彭城を落として連日酒宴を開いた。斉から三万の精兵で取って返した項羽は、一朝にして漢軍を破り、睢水は屍で流れが止まったという。劉邦は父と妻を捕らえられ、わずかな供と逃れた。",
+   "en": "The battle of Pengcheng. Leading five hundred and sixty thousand men of the lords, {r_liu} took Pengcheng while Xiang Yu was away and feasted for days. Xiang Yu came back from Qi with thirty thousand picked men and broke the Han army in a morning; the Sui river, they say, was dammed with bodies. Liu Bang's father and wife were taken, and he fled with a handful of men."
+  },
+  {
+   "id": "feiqiu",
+   "y": 205,
+   "m": 7,
+   "need": [
+    "liu",
+    "yong"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "yong"
+    ]
+   ],
+   "at": "feiqiu",
+   "ja": "{r_liu}は水を引いて廃丘を攻め落とし、章邯は自害した。関中は漢のものとなった。",
+   "en": "{r_liu} flooded Feiqiu and took it; Zhang Han killed himself. The land within the passes was Han's."
+  },
+  {
+   "id": "wei_falls",
+   "y": 205,
+   "m": 10,
+   "need": [
+    "liu",
+    "wei"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "wei"
+    ]
+   ],
+   "imp": 3,
+   "at": "pingyang",
+   "ja": "漢に背いた魏王魏豹を、韓信は船を並べて見せかけたうえで上流から木の甕で兵を渡して討ち、魏を平らげた。",
+   "en": "Wei Bao, King of Wei, had turned against Han; Han Xin lined up boats as a feint, carried his men across upstream on wooden jars, and conquered Wei."
+  },
+  {
+   "id": "jingxing",
+   "y": 205,
+   "m": 11,
+   "need": [
+    "liu",
+    "zhao"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "zhao"
+    ],
+    [
+     "add",
+     "liu",
+     "prestige",
+     20
+    ]
+   ],
+   "imp": 3,
+   "at": "jingxing",
+   "ja": "井陘の戦い。韓信は川を背に陣を敷き (背水の陣)、退けない兵を死に物狂いで戦わせる間に、別働隊に趙の城の旗を漢の赤旗に変えさせた。趙軍は総崩れとなり、陳余は討たれ、趙王歇は捕らえられた。",
+   "en": "The battle of Jingxing. Han Xin drew up with a river at his back, so his men could not retreat and fought like the desperate, while a detachment swapped the flags on the Zhao fortress for the red flags of Han. The Zhao army fell apart; Chen Yu was killed and Zhao Xie, King of Zhao, captured."
+  },
+  {
+   "id": "ying_bu",
+   "y": 204,
+   "m": 1,
+   "need": [
+    "liu",
+    "jiujiang"
+   ],
+   "do": [
+    [
+     "ally",
+     "liu",
+     "jiujiang"
+    ],
+    [
+     "add",
+     "chu",
+     "prestige",
+     -5
+    ]
+   ],
+   "at": "liu",
+   "ja": "漢の使者随何に説かれ、九江王英布は楚に背いて漢についた。",
+   "en": "Persuaded by the Han envoy Sui He, Ying Bu, King of Jiujiang, broke with Chu and went over to Han."
+  },
+  {
+   "id": "fan_zeng",
+   "y": 204,
+   "m": 5,
+   "need": [
+    "chu"
+   ],
+   "do": [
+    [
+     "add",
+     "chu",
+     "stability",
+     -0.15
+    ]
+   ],
+   "ja": "陳平の離間の計により、項羽は范増を疑うようになった。范増は「天下の事は大いに定まった。君王みずから為されよ」と言って去り、帰る途中で背中の腫れ物が破れて死んだ。",
+   "en": "Chen Ping's ploy made Xiang Yu doubt Fan Zeng. \"The affairs of the realm are largely settled; let my lord see to them himself,\" Fan Zeng said, and left; on the way home a boil on his back burst, and he died."
+  },
+  {
+   "id": "ji_xin",
+   "y": 204,
+   "m": 6,
+   "need": [
+    "liu",
+    "chu"
+   ],
+   "do": [
+    [
+     "add",
+     "liu",
+     "stability",
+     0.05
+    ]
+   ],
+   "at": "xingyang",
+   "ja": "滎陽を囲まれた劉邦の身代わりに、紀信が王の車に乗って東門から降伏を申し出た。その隙に劉邦は西門から逃れた。項羽は紀信を焼き殺した。",
+   "en": "With Liu Bang trapped in Xingyang, Ji Xin rode out of the east gate in the king's carriage to offer surrender while Liu Bang escaped by the west gate. Xiang Yu burned Ji Xin alive."
+  },
+  {
+   "id": "weishui",
+   "y": 204,
+   "m": 12,
+   "need": [
+    "liu",
+    "qi"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "qi"
+    ],
+    [
+     "army",
+     "chu",
+     0.7
+    ]
+   ],
+   "imp": 3,
+   "at": "weishui",
+   "ja": "濰水の戦い。韓信は斉を攻め、救援に来た楚の龍且を、上流をせき止めた濰水の流れで分断して討った。酈食其は先に斉を説き伏せていたが、韓信の攻撃で斉王に煮殺されていた。",
+   "en": "The battle of the Wei river. Han Xin attacked Qi, and when Long Ju came from Chu to save it, he split Long Ju's army by releasing the dammed waters of the Wei, and killed him. Li Yiji, who had already talked Qi into peace, had been boiled alive by the King of Qi when Han Xin attacked."
+  },
+  {
+   "id": "han_xin_king",
+   "y": 203,
+   "m": 3,
+   "need": [
+    "liu"
+   ],
+   "do": [
+    [
+     "add",
+     "liu",
+     "stability",
+     -0.05
+    ]
+   ],
+   "at": "linzi",
+   "ja": "韓信は斉の仮の王になることを求めた。怒る劉邦の足を張良と陳平が踏み、劉邦は「大丈夫ならば仮ではなく真の王になれ」と言い直して韓信を斉王とした。蒯通は韓信に天下三分を説いたが、韓信は劉邦の恩を思って退けた。",
+   "en": "Han Xin asked to be acting King of Qi. As Liu Bang began to rage, Zhang Liang and Chen Ping trod on his foot, and he went on: \"A real man should be a real king, not an acting one,\" and made him King of Qi. Kuai Tong urged Han Xin to divide the realm in three; remembering Liu Bang's kindness, Han Xin refused."
+  },
+  {
+   "id": "honggou",
+   "y": 203,
+   "m": 10,
+   "need": [
+    "liu",
+    "chu"
+   ],
+   "do": [
+    [
+     "truce",
+     "liu",
+     "chu",
+     1
+    ]
+   ],
+   "imp": 3,
+   "at": "xingyang",
+   "ja": "鴻溝の和約。兵糧の尽きた楚と漢は、鴻溝を境に天下を二分して和を結び、項羽は劉邦の父と妻を返した。",
+   "en": "The peace of Honggou. Short of food, Chu and Han divided the realm along the Hong canal, and Xiang Yu returned Liu Bang's father and wife."
+  },
+  {
+   "id": "gaixia",
+   "y": 202,
+   "m": 1,
+   "need": [
+    "liu",
+    "chu"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "chu"
+    ]
+   ],
+   "imp": 3,
+   "at": "gaixia",
+   "ja": "垓下の戦い。和約を破って追撃した漢軍と韓信・彭越の軍に囲まれた項羽は、夜、四方の漢軍から楚の歌が聞こえるのを聞き (四面楚歌)、「力は山を抜き気は世を蓋う」と歌って虞美人と別れた。烏江のほとりで、渡しを勧める亭長に「江東の父兄に合わせる顔がない」と答え、自ら首を刎ねた。",
+   "en": "Gaixia. Breaking the peace, the Han army, with Han Xin and Peng Yue, surrounded Xiang Yu. At night he heard Chu songs from every side of the Han camp, sang \"My strength could uproot mountains, my spirit overtopped the world,\" and parted from Lady Yu. On the bank of the Wu river he refused the ferryman's boat — \"I cannot face the elders east of the river\" — and cut his own throat."
+  },
+  {
+   "id": "emperor",
+   "y": 202,
+   "m": 3,
+   "need": [
+    "liu"
+   ],
+   "do": [
+    [
+     "gov",
+     "liu",
+     "empire"
+    ],
+    [
+     "relabel",
+     "liu",
+     {
+      "ja": "漢",
+      "en": "the Han empire"
+     },
+     {
+      "ja": "漢",
+      "en": "Han"
+     }
+    ],
+    [
+     "capital",
+     "liu",
+     "luoyang"
+    ],
+    [
+     "vassal",
+     "liu",
+     "hengshan"
+    ],
+    [
+     "vassal",
+     "liu",
+     "jiujiang"
+    ],
+    [
+     "add",
+     "liu",
+     "legitimacy",
+     0.4
+    ]
+   ],
+   "imp": 3,
+   "at": "dingtao",
+   "ja": "劉邦は定陶の氾水の北で皇帝の位に即いた。農民の出から皇帝に昇った最初の人である。衡山王呉芮は長沙王とされ、九江王英布は淮南王となった。",
+   "en": "Liu Bang took the imperial throne north of the Si river at Dingtao — the first man to rise from the peasantry to emperor. Wu Rui of Hengshan became King of Changsha, and Ying Bu of Jiujiang King of Huainan."
+  },
+  {
+   "id": "linjiang_end",
+   "y": 202,
+   "m": 6,
+   "need": [
+    "liu",
+    "linjiang"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "linjiang"
+    ]
+   ],
+   "at": "jiangling",
+   "ja": "項羽に従い続けた臨江王共尉は、漢に攻められて捕らえられた。",
+   "en": "Gong Wei, King of Linjiang, who had stayed loyal to Xiang Yu, was attacked and taken by Han."
+  },
+  {
+   "id": "zang_tu",
+   "y": 202,
+   "m": 8,
+   "need": [
+    "liu",
+    "yan"
+   ],
+   "do": [
+    [
+     "annex",
+     "liu",
+     "yan"
+    ]
+   ],
+   "at": "ji",
+   "ja": "燕王臧荼は漢に背いたが、皇帝自らの親征で捕らえられた。燕王には劉邦の幼なじみの盧綰が立てられた。",
+   "en": "Zang Tu, King of Yan, rose against Han and was taken by the emperor's own expedition; Liu Bang's childhood friend Lu Wan was made King of Yan."
+  },
+  {
+   "id": "tian_heng",
+   "y": 202,
+   "m": 10,
+   "min": 4,
+   "need": [
+    "liu"
+   ],
+   "do": [],
+   "ja": "斉の田横は五百人の食客と海の島に逃れていたが、皇帝に召されて洛陽へ向かう途中、漢に仕えることを恥じて自ら命を絶った。島の五百人も後を追ったという。",
+   "en": "Tian Heng of Qi had fled to an island with five hundred followers. Summoned by the emperor, he killed himself on the road to Luoyang rather than serve Han; the five hundred on the island followed him in death, it is said."
+  }
+ ]
+}
