@@ -7260,25 +7260,6 @@
    "en": "The Zhou court and {n_zheng} exchanged hostages. That the Son of Heaven should trade hostages with a lord was unheard of, and the royal house lost face."
   },
   {
-   "id": "lu_huan_qi",
-   "y": 694,
-   "m": 4,
-   "need": [
-    "lu",
-    "qi"
-   ],
-   "do": [
-    [
-     "add",
-     "lu",
-     "stability",
-     -0.2
-    ]
-   ],
-   "ja": "{n_lu}の桓公は夫人を伴って{n_qi}を訪れ、宴の帰りに車中で殺された。斉の襄公が公子彭生に命じたものという。",
-   "en": "Duke Huan of Lu visited {n_qi} with his consort and was killed in his carriage on the way back from a feast — at the order, it was said, of Duke Xiang of Qi."
-  },
-  {
    "id": "xuge",
    "y": 707,
    "m": 7,
@@ -7331,6 +7312,25 @@
    "en": "{r_chu} declared \"I am a barbarian\" and, without waiting for Zhou leave, took the title of king — the first of the lords to do so."
   },
   {
+   "id": "lu_huan_qi",
+   "y": 694,
+   "m": 4,
+   "need": [
+    "lu",
+    "qi"
+   ],
+   "do": [
+    [
+     "add",
+     "lu",
+     "stability",
+     -0.2
+    ]
+   ],
+   "ja": "{n_lu}の桓公は夫人を伴って{n_qi}を訪れ、宴の帰りに車中で殺された。斉の襄公が公子彭生に命じたものという。",
+   "en": "Duke Huan of Lu visited {n_qi} with his consort and was killed in his carriage on the way back from a feast — at the order, it was said, of Duke Xiang of Qi."
+  },
+  {
    "id": "qi_annex_ji",
    "y": 690,
    "need": [
@@ -7350,6 +7350,23 @@
    "en": "The Marquis of Ji left his realm and {n_ji_state} was absorbed by {n_qi}; {r_qi} claimed to have avenged an ancestor nine generations back."
   },
   {
+   "id": "chu_ying",
+   "y": 689,
+   "need": [
+    "chu"
+   ],
+   "do": [
+    [
+     "capital",
+     "chu",
+     "ying"
+    ]
+   ],
+   "at": "ying",
+   "ja": "{r_chu}は都を郢に移した。郢はのちに四百年、楚の都であり続ける。",
+   "en": "{r_chu} moved the capital to Ying, which would remain the seat of Chu for four centuries."
+  },
+  {
    "id": "chu_annex_shen",
    "y": 688,
    "need": [
@@ -7367,23 +7384,6 @@
    "at": "shen_state",
    "ja": "{r_chu}は北へ兵を進めて{n_shen}を滅ぼし、県とした。楚が中原へ向かう扉が開いた。",
    "en": "{r_chu} marched north and destroyed {n_shen}, making it a county. The door from Chu to the Central Plain stood open."
-  },
-  {
-   "id": "chu_ying",
-   "y": 689,
-   "need": [
-    "chu"
-   ],
-   "do": [
-    [
-     "capital",
-     "chu",
-     "ying"
-    ]
-   ],
-   "at": "ying",
-   "ja": "{r_chu}は都を郢に移した。郢はのちに四百年、楚の都であり続ける。",
-   "en": "{r_chu} moved the capital to Ying, which would remain the seat of Chu for four centuries."
   },
   {
    "id": "guan_zhong",
@@ -7550,6 +7550,23 @@
    "en": "{r_chu} destroyed {n_deng}. Its ministers had once begged their lord to strike Chu while he could; he had not listened."
   },
   {
+   "id": "qin_yong",
+   "y": 677,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "capital",
+     "qin",
+     "yong"
+    ]
+   ],
+   "at": "yong",
+   "ja": "{r_qin}は都を雍に移した。以後三百年、雍は秦の都であった。",
+   "en": "{r_qin} moved the capital to Yong, the seat of Qin for the next three centuries."
+  },
+  {
    "id": "jin_lirong",
    "y": 672,
    "need": [
@@ -7565,6 +7582,52 @@
    ],
    "ja": "{r_jin}は驪戎を討ち、その娘[[p:驪姫]]を連れ帰った。のちの晋の内乱の種となる。",
    "en": "{r_jin} subdued the Li Rong and brought home their daughter [[p:驪姫|Li Ji]] — the seed of a later civil strife in Jin."
+  },
+  {
+   "id": "jin_jiang",
+   "y": 668,
+   "m": 3,
+   "need": [
+    "jin"
+   ],
+   "do": [
+    [
+     "capital",
+     "jin",
+     "yi"
+    ]
+   ],
+   "at": "yi",
+   "imp": 1,
+   "ja": "{r_jin}は絳に新しい都の城を築いて移った。",
+   "en": "{r_jin} walled a new capital at Jiang and moved the court there."
+  },
+  {
+   "id": "qi_saves_yan",
+   "y": 663,
+   "need": [
+    "qi",
+    "shanrong"
+   ],
+   "do": [
+    [
+     "war",
+     "yan",
+     "shanrong",
+     {
+      "ja": "斉桓公の山戎征伐",
+      "en": "the campaign against the Shanrong"
+     }
+    ],
+    [
+     "add",
+     "qi",
+     "prestige",
+     10
+    ]
+   ],
+   "ja": "{r_qi}は{n_yan}の求めに応じて{n_shanrong}を討った。帰路、道に迷った軍は[[a:laoma|老馬]]を放ち、その後について道を見出したという。",
+   "en": "{r_qi} answered {n_yan}'s call and marched against {n_shanrong}. Lost on the way home, the army let [[a:laoma|an old horse]] go ahead and followed it back to the road."
   },
   {
    "id": "wey_cranes",
@@ -7599,33 +7662,6 @@
    "at": "zhaoge",
    "ja": "{n_chidi}が{n_wey}に攻め入った。鶴を好み、鶴を大夫の車に乗せていた懿公に兵たちは「鶴に戦わせよ」と言い放ち、衛は大敗、都朝歌は落ちた。",
    "en": "{n_chidi} invaded {n_wey}. Duke Yi had loved cranes so well he gave them officials' carriages; now his soldiers told him to send the cranes to fight. Wey was routed and its capital Zhaoge fell."
-  },
-  {
-   "id": "qi_saves_yan",
-   "y": 663,
-   "need": [
-    "qi",
-    "shanrong"
-   ],
-   "do": [
-    [
-     "war",
-     "yan",
-     "shanrong",
-     {
-      "ja": "斉桓公の山戎征伐",
-      "en": "the campaign against the Shanrong"
-     }
-    ],
-    [
-     "add",
-     "qi",
-     "prestige",
-     10
-    ]
-   ],
-   "ja": "{r_qi}は{n_yan}の求めに応じて{n_shanrong}を討った。帰路、道に迷った軍は[[a:laoma|老馬]]を放ち、その後について道を見出したという。",
-   "en": "{r_qi} answered {n_yan}'s call and marched against {n_shanrong}. Lost on the way home, the army let [[a:laoma|an old horse]] go ahead and followed it back to the road."
   },
   {
    "id": "shaoling",
@@ -7729,23 +7765,23 @@
    "en": "The covenant of Kuiqiu. {r_qi} gathered the lords and received sacrificial meat from the Zhou king's envoy — the height of Qi's hegemony."
   },
   {
-   "id": "qi_huan_dies",
-   "y": 643,
-   "m": 9,
-   "min": 4,
+   "id": "chu_huang",
+   "y": 648,
    "need": [
-    "qi"
+    "chu",
+    "huang"
    ],
    "do": [
     [
-     "add",
-     "qi",
-     "stability",
-     -0.3
+     "annex",
+     "chu",
+     "huang"
     ]
    ],
-   "ja": "{n_qi}の桓公が没すると公子たちは位を争い、桓公の亡骸は六十七日も放置され、蛆が戸口から這い出たという。",
-   "en": "When Duke Huan of {n_qi} died, his sons fought over the throne; his body lay unburied for sixty-seven days, and maggots crawled out under the door."
+   "imp": 1,
+   "at": "huang",
+   "ja": "{r_chu}は{n_huang}を滅ぼした。",
+   "en": "{r_chu} destroyed {n_huang}."
   },
   {
    "id": "hanyuan",
@@ -7771,6 +7807,25 @@
    ],
    "ja": "韓原の戦い。{r_qin}は{n_jin}の恵公を捕らえたが、のちに許して帰した。",
    "en": "At Hanyuan {r_qin} captured Duke Hui of {n_jin}, then let him go home."
+  },
+  {
+   "id": "qi_huan_dies",
+   "y": 643,
+   "m": 9,
+   "min": 4,
+   "need": [
+    "qi"
+   ],
+   "do": [
+    [
+     "add",
+     "qi",
+     "stability",
+     -0.3
+    ]
+   ],
+   "ja": "{n_qi}の桓公が没すると公子たちは位を争い、桓公の亡骸は六十七日も放置され、蛆が戸口から這い出たという。",
+   "en": "When Duke Huan of {n_qi} died, his sons fought over the throne; his body lay unburied for sixty-seven days, and maggots crawled out under the door."
   },
   {
    "id": "qin_annex_rui",
@@ -7969,6 +8024,44 @@
    "en": "After three years in which, people said, he \"neither sang nor flew\", {r_chu} destroyed {n_yong}. \"Once it sings, it will astonish the world.\""
   },
   {
+   "id": "chu_qunman",
+   "y": 611,
+   "m": 8,
+   "need": [
+    "chu",
+    "qunman"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "qunman"
+    ]
+   ],
+   "imp": 1,
+   "at": "qunman",
+   "ja": "{n_yong}を滅ぼした{r_chu}に、群蛮の諸族も従った。",
+   "en": "With {n_yong} destroyed, the Man peoples too submitted to {r_chu}."
+  },
+  {
+   "id": "ling_of_jin",
+   "y": 607,
+   "m": 9,
+   "need": [
+    "jin"
+   ],
+   "do": [
+    [
+     "add",
+     "jin",
+     "legitimacy",
+     -0.15
+    ]
+   ],
+   "ja": "暴君と呼ばれた{n_jin}の霊公が趙穿に殺された。史官董狐は「[[p:趙盾]]その君を弑す」と書き、筆を曲げなかった。",
+   "en": "Duke Ling of {n_jin}, called a tyrant, was killed by Zhao Chuan. The scribe Dong Hu wrote \"[[p:趙盾|Zhao Dun]] killed his lord\" and would not change a word."
+  },
+  {
    "id": "cauldrons",
    "y": 606,
    "need": [
@@ -7995,22 +8088,23 @@
    "en": "{r_chu} brought his army to the banks of the Luo and asked the Zhou envoy how large and heavy the Nine Cauldrons were. \"It lies in virtue, not in the cauldrons,\" answered Wangsun Man."
   },
   {
-   "id": "ling_of_jin",
-   "y": 607,
-   "m": 9,
+   "id": "chu_shu",
+   "y": 601,
    "need": [
-    "jin"
+    "chu",
+    "shu_h"
    ],
    "do": [
     [
-     "add",
-     "jin",
-     "legitimacy",
-     -0.15
+     "annex",
+     "chu",
+     "shu_h"
     ]
    ],
-   "ja": "暴君と呼ばれた{n_jin}の霊公が趙穿に殺された。史官董狐は「[[p:趙盾]]その君を弑す」と書き、筆を曲げなかった。",
-   "en": "Duke Ling of {n_jin}, called a tyrant, was killed by Zhao Chuan. The scribe Dong Hu wrote \"[[p:趙盾|Zhao Dun]] killed his lord\" and would not change a word."
+   "imp": 1,
+   "at": "shu_huai",
+   "ja": "{r_chu}は群舒を討ち、その地を併せた。",
+   "en": "{r_chu} subdued the Shu peoples and took their land."
   },
   {
    "id": "xia_ji",
@@ -8078,6 +8172,25 @@
    "en": "{n_lu} for the first time [[a:chushuimu|taxed land by its area]]."
   },
   {
+   "id": "jin_chidi",
+   "y": 594,
+   "need": [
+    "jin",
+    "chidi"
+   ],
+   "do": [
+    [
+     "annex",
+     "jin",
+     "chidi"
+    ]
+   ],
+   "imp": 3,
+   "at": "lu_di",
+   "ja": "{n_jin}の[[p:荀林父]]は{n_chidi}の潞氏を滅ぼし、晋は太行山の東西にまたがる大国となった。",
+   "en": "[[p:荀林父|Xun Linfu]] of {n_jin} destroyed the Lu clan of {n_chidi}, and Jin spread across both sides of the Taihang mountains."
+  },
+  {
    "id": "an",
    "y": 589,
    "m": 5,
@@ -8101,6 +8214,25 @@
    ],
    "ja": "鞍の戦い。{n_jin}の軍が{n_qi}を破った。斉の頃公は御者と衣を取り替えて逃れた。",
    "en": "At An {n_jin} defeated {n_qi}. Duke Qing of Qi escaped by changing clothes with his charioteer."
+  },
+  {
+   "id": "jin_xintian",
+   "y": 585,
+   "m": 4,
+   "need": [
+    "jin"
+   ],
+   "do": [
+    [
+     "capital",
+     "jin",
+     "xintian"
+    ]
+   ],
+   "at": "xintian",
+   "imp": 2,
+   "ja": "{r_jin}は、土地が肥えて水の便のよい新田に都を移し、これを新絳と呼んだ。",
+   "en": "{r_jin} moved the capital to Xintian, rich land with good water, and called it New Jiang."
   },
   {
    "id": "wu_chariots",
@@ -8233,6 +8365,26 @@
    "en": "The covenant to end war. At the call of Xiang Xu of Song, {n_jin}, {n_chu} and the lords met in Song and swore to lay down arms; for forty years the great wars of the Central Plain ceased."
   },
   {
+   "id": "jin_taiyuan",
+   "y": 541,
+   "need": [
+    "jin"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "jin",
+     [
+      "jinyang"
+     ]
+    ]
+   ],
+   "at": "jinyang",
+   "ja": "{n_jin}の荀呉は[[a:chariot|戦車]]を降りて歩兵の隊列を組み、大原で狄を破った。",
+   "en": "Xun Wu of {n_jin} had his men leave their [[a:chariot|chariots]] and fight on foot, and beat the Di at Dayuan."
+  },
+  {
    "id": "zichan_code",
    "y": 536,
    "m": 3,
@@ -8280,6 +8432,25 @@
    "en": "{r_chu} built the [[a:zhanghuatai|Zhanghua terrace]]. Because he liked slender waists, people at court starved themselves thin."
   },
   {
+   "id": "jin_baidi",
+   "y": 520,
+   "need": [
+    "jin",
+    "baidi"
+   ],
+   "do": [
+    [
+     "annex",
+     "jin",
+     "baidi"
+    ]
+   ],
+   "imp": 1,
+   "at": "baidi",
+   "ja": "{r_jin}は白狄の諸邑 (肥・鼓など) を次々に滅ぼした。",
+   "en": "{r_jin} destroyed one White Di town after another."
+  },
+  {
    "id": "lu_zhao_exile",
    "y": 517,
    "m": 9,
@@ -8298,6 +8469,23 @@
    "en": "Duke Zhao of {n_lu} tried to break the Three Huan families (Jisun, Shusun and Mengsun), failed, and fled to Qi."
   },
   {
+   "id": "wu_gusu",
+   "y": 514,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "capital",
+     "wu",
+     "gusu"
+    ]
+   ],
+   "at": "gusu",
+   "ja": "{r_wu}は[[p:伍子胥]]に[[a:gusu|大きな城]]を築かせ、都を姑蘇に定めた。",
+   "en": "{r_wu} had [[p:伍子胥|Wu Zixu]] build a [[a:gusu|great walled city]] and made Gusu the capital."
+  },
+  {
    "id": "wu_annex_xu",
    "y": 512,
    "need": [
@@ -8314,6 +8502,45 @@
    "at": "xu_huai",
    "ja": "{r_wu}は川をせき止めて{n_xu_h}の都を水攻めにし、これを滅ぼした。",
    "en": "{r_wu} dammed a river to flood the capital of {n_xu_h}, and destroyed it."
+  },
+  {
+   "id": "wu_huaiyi",
+   "y": 512,
+   "m": 6,
+   "need": [
+    "wu",
+    "huaiyi"
+   ],
+   "do": [
+    [
+     "annex",
+     "wu",
+     "huaiyi"
+    ]
+   ],
+   "imp": 1,
+   "at": "huaiyi",
+   "ja": "淮水の下流の夷の諸族は{n_wu}に従った。",
+   "en": "The Yi peoples of the lower Huai came under {n_wu}."
+  },
+  {
+   "id": "cai_shen",
+   "y": 506,
+   "need": [
+    "cai",
+    "shen_c"
+   ],
+   "do": [
+    [
+     "annex",
+     "cai",
+     "shen_c"
+    ]
+   ],
+   "imp": 1,
+   "at": "shen_cai",
+   "ja": "{r_cai}は{n_shen_c}を滅ぼした。",
+   "en": "{r_cai} destroyed {n_shen_c}."
   },
   {
    "id": "boju",
@@ -8396,6 +8623,25 @@
    "en": "[[p:申包胥|Shen Baoxu]] of Chu wept in the courtyard of {n_qin} for seven days and nights until he was given an army. Pressed by Qin, {n_wu} withdrew from Ying."
   },
   {
+   "id": "zheng_xu",
+   "y": 504,
+   "need": [
+    "zheng",
+    "xu"
+   ],
+   "do": [
+    [
+     "annex",
+     "zheng",
+     "xu"
+    ]
+   ],
+   "imp": 1,
+   "at": "xu_city",
+   "ja": "{r_zheng}は{n_xu}を滅ぼした。",
+   "en": "{r_zheng} destroyed {n_xu}."
+  },
+  {
    "id": "jiagu",
    "y": 500,
    "m": 6,
@@ -8413,6 +8659,26 @@
    ],
    "ja": "夾谷の会。[[p:孔子]]は{n_lu}の[[a:ru|定公の相として]]{n_qi}との会盟に臨み、斉の企てを退けて奪われていた土地を返させた。",
    "en": "At the meeting of Jiagu [[p:孔子|Confucius]] [[a:ru|attended Duke Ding]] of {n_lu} and thwarted a plot of {n_qi}, winning back land Qi had taken."
+  },
+  {
+   "id": "jin_handan",
+   "y": 500,
+   "need": [
+    "jin"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "jin",
+     [
+      "handan"
+     ]
+    ]
+   ],
+   "at": "handan",
+   "ja": "邯鄲は{n_jin}の趙氏一族の邑となった。",
+   "en": "Handan became a town of the Zhao clan of {n_jin}."
   },
   {
    "id": "zuili",
@@ -8464,6 +8730,25 @@
    "at": "kuaiji",
    "ja": "夫椒の戦い。父の仇を忘れぬよう[[a:woxin|薪の上に臥した]]{r_wu}は{n_yue}を破り、会稽山に追い詰められた[[p:句践]]は臣従を誓った。[[p:句践]]は苦い肝を嘗めて恥を忘れまいとしたという (臥薪嘗胆)。",
    "en": "At Fujiao the King of Wu — who had [[a:woxin|slept on firewood]] so as never to forget his father's death — broke {n_yue}. Cornered on Mount Kuaiji, [[p:句践|Goujian]] swore submission, and tasted gall every day so as never to forget the shame."
+  },
+  {
+   "id": "song_cao",
+   "y": 487,
+   "need": [
+    "song",
+    "cao"
+   ],
+   "do": [
+    [
+     "annex",
+     "song",
+     "cao"
+    ]
+   ],
+   "imp": 2,
+   "at": "taoqiu",
+   "ja": "{r_song}は{n_cao}を滅ぼし、[[p:曹伯陽]]を捕らえた。",
+   "en": "{r_song} destroyed {n_cao} and captured its lord, [[p:曹伯陽|Earl Yang]]."
   },
   {
    "id": "ailing",
@@ -8599,6 +8884,24 @@
    "en": "{r_yue} destroyed {n_wu}. [[p:夫差|Fuchai]] covered his face — \"I cannot look [[p:伍子胥|Wu Zixu]] in the eye\" — and killed himself. The minister [[p:范蠡|Fan Li]] left, writing that \"when the cunning hare is dead, the hound is cooked\"."
   },
   {
+   "id": "yue_langya",
+   "y": 468,
+   "need": [
+    "yue"
+   ],
+   "do": [
+    [
+     "capital",
+     "yue",
+     "jimo_e"
+    ]
+   ],
+   "at": "jimo_e",
+   "imp": 2,
+   "ja": "呉を滅ぼした{n_yue}は都を北の琅邪に移し、斉・晋の諸侯と会盟して覇者を称した。",
+   "en": "Having destroyed Wu, {n_yue} moved its capital north to Langya and met the lords of Qi and Jin in covenant as hegemon."
+  },
+  {
    "id": "jinyang",
    "y": 453,
    "m": 4,
@@ -8617,6 +8920,25 @@
    "at": "jinyang",
    "ja": "晋陽の戦い。{n_jin}の重臣智伯は趙氏の晋陽を水攻めにしたが、韓・魏が寝返り、趙・韓・魏の三家に滅ぼされた。[[p:豫譲]]は主君智伯の仇を討とうと、身に漆を塗り炭を呑んで[[p:趙襄子]]を狙った。",
    "en": "The battle of Jinyang. Zhi Bo, first minister of {n_jin}, flooded Jinyang, the Zhao stronghold — but Han and Wei turned on him and the three houses destroyed him. [[p:豫譲|Yu Rang]] lacquered his skin and swallowed coals to stalk [[p:趙襄子|Zhao Xiangzi]] for his lord's sake."
+  },
+  {
+   "id": "chu_sui",
+   "y": 450,
+   "need": [
+    "chu",
+    "sui"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "sui"
+    ]
+   ],
+   "imp": 1,
+   "at": "sui",
+   "ja": "長く楚に従ってきた{n_sui}は、楚の県となった。",
+   "en": "{n_sui}, long a follower of Chu, became a county of Chu."
   },
   {
    "id": "chu_annex_cai",
@@ -8672,418 +8994,6 @@
    "en": "{r_chu} destroyed {n_ju} in the east."
   },
   {
-   "id": "qin_yong",
-   "y": 677,
-   "need": [
-    "qin"
-   ],
-   "do": [
-    [
-     "capital",
-     "qin",
-     "yong"
-    ]
-   ],
-   "at": "yong",
-   "ja": "{r_qin}は都を雍に移した。以後三百年、雍は秦の都であった。",
-   "en": "{r_qin} moved the capital to Yong, the seat of Qin for the next three centuries."
-  },
-  {
-   "id": "jin_chidi",
-   "y": 594,
-   "need": [
-    "jin",
-    "chidi"
-   ],
-   "do": [
-    [
-     "annex",
-     "jin",
-     "chidi"
-    ]
-   ],
-   "imp": 3,
-   "at": "lu_di",
-   "ja": "{n_jin}の[[p:荀林父]]は{n_chidi}の潞氏を滅ぼし、晋は太行山の東西にまたがる大国となった。",
-   "en": "[[p:荀林父|Xun Linfu]] of {n_jin} destroyed the Lu clan of {n_chidi}, and Jin spread across both sides of the Taihang mountains."
-  },
-  {
-   "id": "jin_taiyuan",
-   "y": 541,
-   "need": [
-    "jin"
-   ],
-   "do": [
-    [
-     "cede",
-     "*",
-     "jin",
-     [
-      "jinyang"
-     ]
-    ]
-   ],
-   "at": "jinyang",
-   "ja": "{n_jin}の荀呉は[[a:chariot|戦車]]を降りて歩兵の隊列を組み、大原で狄を破った。",
-   "en": "Xun Wu of {n_jin} had his men leave their [[a:chariot|chariots]] and fight on foot, and beat the Di at Dayuan."
-  },
-  {
-   "id": "jin_handan",
-   "y": 500,
-   "need": [
-    "jin"
-   ],
-   "do": [
-    [
-     "cede",
-     "*",
-     "jin",
-     [
-      "handan"
-     ]
-    ]
-   ],
-   "at": "handan",
-   "ja": "邯鄲は{n_jin}の趙氏一族の邑となった。",
-   "en": "Handan became a town of the Zhao clan of {n_jin}."
-  },
-  {
-   "id": "wu_gusu",
-   "y": 514,
-   "need": [
-    "wu"
-   ],
-   "do": [
-    [
-     "capital",
-     "wu",
-     "gusu"
-    ]
-   ],
-   "at": "gusu",
-   "ja": "{r_wu}は[[p:伍子胥]]に[[a:gusu|大きな城]]を築かせ、都を姑蘇に定めた。",
-   "en": "{r_wu} had [[p:伍子胥|Wu Zixu]] build a [[a:gusu|great walled city]] and made Gusu the capital."
-  },
-  {
-   "id": "qin_yueyang",
-   "y": 383,
-   "need": [
-    "qin"
-   ],
-   "do": [
-    [
-     "capital",
-     "qin",
-     "yueyang"
-    ]
-   ],
-   "at": "yueyang",
-   "ja": "{r_qin}は東へ進むため都を櫟陽に移した。",
-   "en": "{r_qin} moved the capital east to Yueyang."
-  },
-  {
-   "id": "zhao_handan",
-   "y": 386,
-   "need": [
-    "zhao"
-   ],
-   "do": [
-    [
-     "capital",
-     "zhao",
-     "handan"
-    ]
-   ],
-   "at": "handan",
-   "ja": "{r_zhao}は都を邯鄲に移した。",
-   "en": "{r_zhao} moved the capital to Handan."
-  },
-  {
-   "id": "wei_daliang",
-   "y": 361,
-   "need": [
-    "wei"
-   ],
-   "do": [
-    [
-     "capital",
-     "wei",
-     "daliang"
-    ]
-   ],
-   "at": "daliang",
-   "ja": "{r_wei}は秦の圧力を避けて都を大梁に移した。以後、魏は「梁」とも呼ばれる。",
-   "en": "{r_wei}, pressed by Qin, moved the capital to Daliang; Wei was called \"Liang\" from then on."
-  },
-  {
-   "id": "chu_shu",
-   "y": 601,
-   "need": [
-    "chu",
-    "shu_h"
-   ],
-   "do": [
-    [
-     "annex",
-     "chu",
-     "shu_h"
-    ]
-   ],
-   "imp": 1,
-   "at": "shu_huai",
-   "ja": "{r_chu}は群舒を討ち、その地を併せた。",
-   "en": "{r_chu} subdued the Shu peoples and took their land."
-  },
-  {
-   "id": "chu_huang",
-   "y": 648,
-   "need": [
-    "chu",
-    "huang"
-   ],
-   "do": [
-    [
-     "annex",
-     "chu",
-     "huang"
-    ]
-   ],
-   "imp": 1,
-   "at": "huang",
-   "ja": "{r_chu}は{n_huang}を滅ぼした。",
-   "en": "{r_chu} destroyed {n_huang}."
-  },
-  {
-   "id": "chu_qunman",
-   "y": 611,
-   "m": 8,
-   "need": [
-    "chu",
-    "qunman"
-   ],
-   "do": [
-    [
-     "annex",
-     "chu",
-     "qunman"
-    ]
-   ],
-   "imp": 1,
-   "at": "qunman",
-   "ja": "{n_yong}を滅ぼした{r_chu}に、群蛮の諸族も従った。",
-   "en": "With {n_yong} destroyed, the Man peoples too submitted to {r_chu}."
-  },
-  {
-   "id": "cai_shen",
-   "y": 506,
-   "need": [
-    "cai",
-    "shen_c"
-   ],
-   "do": [
-    [
-     "annex",
-     "cai",
-     "shen_c"
-    ]
-   ],
-   "imp": 1,
-   "at": "shen_cai",
-   "ja": "{r_cai}は{n_shen_c}を滅ぼした。",
-   "en": "{r_cai} destroyed {n_shen_c}."
-  },
-  {
-   "id": "zheng_xu",
-   "y": 504,
-   "need": [
-    "zheng",
-    "xu"
-   ],
-   "do": [
-    [
-     "annex",
-     "zheng",
-     "xu"
-    ]
-   ],
-   "imp": 1,
-   "at": "xu_city",
-   "ja": "{r_zheng}は{n_xu}を滅ぼした。",
-   "en": "{r_zheng} destroyed {n_xu}."
-  },
-  {
-   "id": "wu_huaiyi",
-   "y": 512,
-   "m": 6,
-   "need": [
-    "wu",
-    "huaiyi"
-   ],
-   "do": [
-    [
-     "annex",
-     "wu",
-     "huaiyi"
-    ]
-   ],
-   "imp": 1,
-   "at": "huaiyi",
-   "ja": "淮水の下流の夷の諸族は{n_wu}に従った。",
-   "en": "The Yi peoples of the lower Huai came under {n_wu}."
-  },
-  {
-   "id": "song_cao",
-   "y": 487,
-   "need": [
-    "song",
-    "cao"
-   ],
-   "do": [
-    [
-     "annex",
-     "song",
-     "cao"
-    ]
-   ],
-   "imp": 2,
-   "at": "taoqiu",
-   "ja": "{r_song}は{n_cao}を滅ぼし、[[p:曹伯陽]]を捕らえた。",
-   "en": "{r_song} destroyed {n_cao} and captured its lord, [[p:曹伯陽|Earl Yang]]."
-  },
-  {
-   "id": "chu_sui",
-   "y": 450,
-   "need": [
-    "chu",
-    "sui"
-   ],
-   "do": [
-    [
-     "annex",
-     "chu",
-     "sui"
-    ]
-   ],
-   "imp": 1,
-   "at": "sui",
-   "ja": "長く楚に従ってきた{n_sui}は、楚の県となった。",
-   "en": "{n_sui}, long a follower of Chu, became a county of Chu."
-  },
-  {
-   "id": "jin_baidi",
-   "y": 520,
-   "need": [
-    "jin",
-    "baidi"
-   ],
-   "do": [
-    [
-     "annex",
-     "jin",
-     "baidi"
-    ]
-   ],
-   "imp": 1,
-   "at": "baidi",
-   "ja": "{r_jin}は白狄の諸邑 (肥・鼓など) を次々に滅ぼした。",
-   "en": "{r_jin} destroyed one White Di town after another."
-  },
-  {
-   "id": "song_teng",
-   "y": 296,
-   "need": [
-    "song",
-    "teng"
-   ],
-   "do": [
-    [
-     "annex",
-     "song",
-     "teng"
-    ]
-   ],
-   "imp": 1,
-   "at": "teng",
-   "ja": "{r_song}は{n_teng}を滅ぼした。",
-   "en": "{r_song} destroyed {n_teng}."
-  },
-  {
-   "id": "chu_zhu",
-   "y": 261,
-   "need": [
-    "chu",
-    "zhu"
-   ],
-   "do": [
-    [
-     "annex",
-     "chu",
-     "zhu"
-    ]
-   ],
-   "imp": 1,
-   "at": "zhu",
-   "ja": "{r_chu}は[[p:孟子]]の故郷{n_zhu}を併せた。",
-   "en": "{r_chu} absorbed {n_zhu}, the home of [[p:孟子|Mencius]]."
-  },
-  {
-   "id": "zhao_linhu",
-   "y": 306,
-   "need": [
-    "zhao",
-    "linhu"
-   ],
-   "do": [
-    [
-     "annex",
-     "zhao",
-     "linhu"
-    ]
-   ],
-   "imp": 2,
-   "at": "linhu",
-   "ja": "[[a:hufu|胡服騎射]]の騎兵を得た{r_zhao}は、北の林胡・楼煩を討って雲中・雁門の地を開いた。",
-   "en": "With his new [[a:hufu|horse archers]] {r_zhao} struck the Linhu and Loufan in the north and opened the lands of Yunzhong and Yanmen."
-  },
-  {
-   "id": "yan_shanrong",
-   "y": 300,
-   "need": [
-    "yan",
-    "shanrong"
-   ],
-   "do": [
-    [
-     "annex",
-     "yan",
-     "shanrong"
-    ]
-   ],
-   "imp": 1,
-   "at": "shanrong",
-   "ja": "{n_yan}の将秦開は東胡を千里のかなたへ退け、[[a:changcheng|長城]]を築いた。",
-   "en": "Qin Kai, a general of {n_yan}, drove the Donghu back a thousand li and built a [[a:changcheng|long wall]]."
-  },
-  {
-   "id": "qin_yiqu",
-   "y": 272,
-   "need": [
-    "qin",
-    "yiqu"
-   ],
-   "do": [
-    [
-     "annex",
-     "qin",
-     "yiqu"
-    ]
-   ],
-   "imp": 2,
-   "at": "yiqu",
-   "ja": "{r_qin}の母宣太后は義渠王を甘泉宮に誘って殺し、秦は義渠を滅ぼした。",
-   "en": "The Queen Dowager Xuan of {n_qin} lured the King of Yiqu to the Ganquan palace and had him killed; Qin destroyed Yiqu."
-  },
-  {
    "id": "three_jin",
    "y": 403,
    "need": [
@@ -9135,6 +9045,23 @@
    "en": "{r_wei} put [[p:李悝|Li Kui]] in charge — farming to the utmost and [[a:li_kui_reform|a code of law]] — and had [[p:呉起|Wu Qi]] train [[a:wuzu|picked soldiers]]. Wei became the first great power of the Warring States."
   },
   {
+   "id": "zhao_handan",
+   "y": 386,
+   "need": [
+    "zhao"
+   ],
+   "do": [
+    [
+     "capital",
+     "zhao",
+     "handan"
+    ]
+   ],
+   "at": "handan",
+   "ja": "{r_zhao}は都を邯鄲に移した。",
+   "en": "{r_zhao} moved the capital to Handan."
+  },
+  {
    "id": "tian_qi",
    "y": 386,
    "need": [
@@ -9152,6 +9079,23 @@
    "at": "linzi",
    "ja": "田和が周王から斉侯と認められた。太公望以来の姜氏の斉は終わり、{n_qi}は田氏の国となった。",
    "en": "Tian He was recognised by the Zhou king as Marquis of Qi. The Qi of the Jiang house, descended from the Grand Duke, ended; {n_qi} now belonged to the Tian."
+  },
+  {
+   "id": "qin_yueyang",
+   "y": 383,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "capital",
+     "qin",
+     "yueyang"
+    ]
+   ],
+   "at": "yueyang",
+   "ja": "{r_qin}は東へ進むため都を櫟陽に移した。",
+   "en": "{r_qin} moved the capital east to Yueyang."
   },
   {
    "id": "wu_qi_chu",
@@ -9174,6 +9118,24 @@
    ],
    "ja": "{r_chu}は[[p:呉起]]を令尹とし、[[a:wu_qi_reform|貴族の特権を削って]]兵を強めた。翌年、悼王の死とともに[[p:呉起]]は貴族たちに射殺された。王の亡骸に覆い被さった[[p:呉起]]を射た者たちは、のちに罪を問われた。",
    "en": "{r_chu} made [[p:呉起|Wu Qi]] chief minister, and [[p:呉起|Wu Qi]] [[a:wu_qi_reform|cut the nobles' privileges]] to strengthen the army. When the king died the next year the nobles shot [[p:呉起|Wu Qi]] down — he had thrown himself over the king's body, and those whose arrows struck the corpse were punished for it."
+  },
+  {
+   "id": "yue_back_wu",
+   "y": 379,
+   "need": [
+    "yue"
+   ],
+   "do": [
+    [
+     "capital",
+     "yue",
+     "gusu"
+    ]
+   ],
+   "at": "gusu",
+   "imp": 1,
+   "ja": "{r_yue}は都を琅邪から呉に戻した。",
+   "en": "{r_yue} moved the capital back from Langya to Wu."
   },
   {
    "id": "han_annex_zheng",
@@ -9200,21 +9162,21 @@
    "en": "{r_han} destroyed {n_zheng} and moved its capital to Xinzheng."
   },
   {
-   "id": "jin_ends",
-   "y": 349,
+   "id": "wei_daliang",
+   "y": 361,
    "need": [
-    "zhao",
-    "jin"
+    "wei"
    ],
    "do": [
     [
-     "annex",
-     "zhao",
-     "jin"
+     "capital",
+     "wei",
+     "daliang"
     ]
    ],
-   "ja": "最後の晋公が廃され、{n_jin}の祀りは絶えた。",
-   "en": "The last Duke of Jin was deposed, and the sacrifices of {n_jin} ceased."
+   "at": "daliang",
+   "ja": "{r_wei}は秦の圧力を避けて都を大梁に移した。以後、魏は「梁」とも呼ばれる。",
+   "en": "{r_wei}, pressed by Qin, moved the capital to Daliang; Wei was called \"Liang\" from then on."
   },
   {
    "id": "shang_yang_1",
@@ -9247,6 +9209,32 @@
    "en": "{r_qin} carried out [[p:商鞅|Shang Yang]]'s [[a:shang_yang_reform|reforms]]: households grouped in fives and tens to watch each other, [[a:qin_rank|ranks given for heads taken in battle]]. To make the people trust the law, he paid fifty gold to the man who carried a pole from the south gate to the north."
   },
   {
+   "id": "guiling",
+   "y": 354,
+   "m": 10,
+   "need": [
+    "qi",
+    "wei",
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "qi",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "wei",
+     "prestige",
+     -10
+    ]
+   ],
+   "ja": "桂陵の戦い。{n_wei}の[[p:龐涓]]が趙の邯鄲を囲むと、{n_qi}の[[p:孫臏]]は邯鄲ではなく魏の都を突き、引き返す魏軍を待ち伏せて破った (囲魏救趙)。",
+   "en": "At Guiling, when [[p:龐涓|Pang Juan]] of {n_wei} besieged Handan, [[p:孫臏|Sun Bin]] of {n_qi} struck not Handan but Wei's own capital, and ambushed the Wei army as it hurried home (\"besiege Wei to save Zhao\")."
+  },
+  {
    "id": "shang_yang_2",
    "y": 350,
    "need": [
@@ -9277,30 +9265,21 @@
    "en": "{r_qin} moved the capital to Xianyang, set up counties and redrew the fields ([[a:shang_yang_reform|the second reform]])."
   },
   {
-   "id": "guiling",
-   "y": 354,
-   "m": 10,
+   "id": "jin_ends",
+   "y": 349,
    "need": [
-    "qi",
-    "wei",
-    "zhao"
+    "zhao",
+    "jin"
    ],
    "do": [
     [
-     "add",
-     "qi",
-     "prestige",
-     10
-    ],
-    [
-     "add",
-     "wei",
-     "prestige",
-     -10
+     "annex",
+     "zhao",
+     "jin"
     ]
    ],
-   "ja": "桂陵の戦い。{n_wei}の[[p:龐涓]]が趙の邯鄲を囲むと、{n_qi}の[[p:孫臏]]は邯鄲ではなく魏の都を突き、引き返す魏軍を待ち伏せて破った (囲魏救趙)。",
-   "en": "At Guiling, when [[p:龐涓|Pang Juan]] of {n_wei} besieged Handan, [[p:孫臏|Sun Bin]] of {n_qi} struck not Handan but Wei's own capital, and ambushed the Wei army as it hurried home (\"besiege Wei to save Zhao\")."
+   "ja": "最後の晋公が廃され、{n_jin}の祀りは絶えた。",
+   "en": "The last Duke of Jin was deposed, and the sacrifices of {n_jin} ceased."
   },
   {
    "id": "maling",
@@ -9610,29 +9589,6 @@
    "en": "[[p:燕王噲|King Kuai]] of {n_yan}, copying the sage kings, gave his realm to his minister Zizhi, and the country fell into chaos. {n_qi} seized the moment and invaded Yan."
   },
   {
-   "id": "golden_terrace",
-   "y": 311,
-   "need": [
-    "yan"
-   ],
-   "do": [
-    [
-     "add",
-     "yan",
-     "prestige",
-     15
-    ],
-    [
-     "add",
-     "yan",
-     "stability",
-     0.2
-    ]
-   ],
-   "ja": "{r_yan}は[[a:xianwei|「まず隗より始めよ」]]との[[p:郭隗]]の言を容れ、黄金台を築いて天下の賢者を招いた。[[p:楽毅]]・[[p:鄒衍]]らが燕に集まった。",
-   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"[[a:xianwei|begin with me, Wei]]\" — and built the Golden Terrace to welcome the able men of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan."
-  },
-  {
    "id": "danyang",
    "y": 312,
    "need": [
@@ -9665,6 +9621,29 @@
    "en": "{r_chu}, tricked by [[p:張儀|Zhang Yi]]'s promise of six hundred li if he broke with Qi, made war on {n_qin} in anger — and lost at Danyang, and with it Hanzhong."
   },
   {
+   "id": "golden_terrace",
+   "y": 311,
+   "need": [
+    "yan"
+   ],
+   "do": [
+    [
+     "add",
+     "yan",
+     "prestige",
+     15
+    ],
+    [
+     "add",
+     "yan",
+     "stability",
+     0.2
+    ]
+   ],
+   "ja": "{r_yan}は[[a:xianwei|「まず隗より始めよ」]]との[[p:郭隗]]の言を容れ、黄金台を築いて天下の賢者を招いた。[[p:楽毅]]・[[p:鄒衍]]らが燕に集まった。",
+   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"[[a:xianwei|begin with me, Wei]]\" — and built the Golden Terrace to welcome the able men of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan."
+  },
+  {
    "id": "hufu",
    "y": 307,
    "need": [
@@ -9689,6 +9668,44 @@
    "en": "{r_zhao} ordered \"[[a:hufu|barbarian dress and mounted archery]]\": trousers instead of robes, and bowmen on horseback. He talked round the elders who objected himself."
   },
   {
+   "id": "zhao_linhu",
+   "y": 306,
+   "need": [
+    "zhao",
+    "linhu"
+   ],
+   "do": [
+    [
+     "annex",
+     "zhao",
+     "linhu"
+    ]
+   ],
+   "imp": 2,
+   "at": "linhu",
+   "ja": "[[a:hufu|胡服騎射]]の騎兵を得た{r_zhao}は、北の林胡・楼煩を討って雲中・雁門の地を開いた。",
+   "en": "With his new [[a:hufu|horse archers]] {r_zhao} struck the Linhu and Loufan in the north and opened the lands of Yunzhong and Yanmen."
+  },
+  {
+   "id": "yan_shanrong",
+   "y": 300,
+   "need": [
+    "yan",
+    "shanrong"
+   ],
+   "do": [
+    [
+     "annex",
+     "yan",
+     "shanrong"
+    ]
+   ],
+   "imp": 1,
+   "at": "shanrong",
+   "ja": "{n_yan}の将秦開は東胡を千里のかなたへ退け、[[a:changcheng|長城]]を築いた。",
+   "en": "Qin Kai, a general of {n_yan}, drove the Donghu back a thousand li and built a [[a:changcheng|long wall]]."
+  },
+  {
    "id": "huai_detained",
    "y": 299,
    "need": [
@@ -9705,6 +9722,25 @@
    ],
    "ja": "{n_chu}の懐王は会盟に招かれて{n_qin}に入り、そのまま捕らわれた。三年後、懐王は秦で没した。楚の人々は哀れみ、[[p:屈原]]はその死を悼んだ。",
    "en": "King Huai of {n_chu} went to a meeting in {n_qin} and was held there. He died in Qin three years later, mourned by the people of Chu — and by [[p:屈原|Qu Yuan]]."
+  },
+  {
+   "id": "song_teng",
+   "y": 296,
+   "need": [
+    "song",
+    "teng"
+   ],
+   "do": [
+    [
+     "annex",
+     "song",
+     "teng"
+    ]
+   ],
+   "imp": 1,
+   "at": "teng",
+   "ja": "{r_song}は{n_teng}を滅ぼした。",
+   "en": "{r_song} destroyed {n_teng}."
   },
   {
    "id": "zhao_zhongshan",
@@ -9902,6 +9938,25 @@
    "en": "[[p:白起|Bai Qi]] of Qin took Ying, the capital of {n_chu}, and burned the royal tombs. Chu moved east to Chen. Hearing the news, [[p:屈原|Qu Yuan]] drowned himself in the Miluo."
   },
   {
+   "id": "qin_yiqu",
+   "y": 272,
+   "need": [
+    "qin",
+    "yiqu"
+   ],
+   "do": [
+    [
+     "annex",
+     "qin",
+     "yiqu"
+    ]
+   ],
+   "imp": 2,
+   "at": "yiqu",
+   "ja": "{r_qin}の母宣太后は義渠王を甘泉宮に誘って殺し、秦は義渠を滅ぼした。",
+   "en": "The Queen Dowager Xuan of {n_qin} lured the King of Yiqu to the Ganquan palace and had him killed; Qin destroyed Yiqu."
+  },
+  {
    "id": "fan_ju",
    "y": 270,
    "need": [
@@ -9952,6 +10007,25 @@
    ],
    "ja": "秦に攻められた{n_han}の上党は、秦に降るより趙につくことを選んだ。趙は上党を受け入れ、秦との大戦が避けられなくなった。",
    "en": "Rather than yield to Qin, the Shangdang commandery of {n_han} gave itself to Zhao. Zhao accepted, and a great war with Qin became certain."
+  },
+  {
+   "id": "chu_zhu",
+   "y": 261,
+   "need": [
+    "chu",
+    "zhu"
+   ],
+   "do": [
+    [
+     "annex",
+     "chu",
+     "zhu"
+    ]
+   ],
+   "imp": 1,
+   "at": "zhu",
+   "ja": "{r_chu}は[[p:孟子]]の故郷{n_zhu}を併せた。",
+   "en": "{r_chu} absorbed {n_zhu}, the home of [[p:孟子|Mencius]]."
   },
   {
    "id": "changping",
