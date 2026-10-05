@@ -10473,6 +10473,103 @@
     "renga",
     "kenchi"
    ]
+  },
+  "gifu_name": {
+   "kind": "place",
+   "title": {
+    "ja": "岐阜の名",
+    "en": "The naming of Gifu"
+   },
+   "body": {
+    "ja": "1567年、美濃の[[p:斎藤龍興]]を追った[[p:織田信長]]は、稲葉山城と井ノ口の町に入り、町の名を「岐阜」と改めた。\n\n名付けたのは、信長が招いた禅僧の沢彦宗恩だと伝わる。「岐」は、周の文王が岐山から起こって天下を取ったことに、「阜」は孔子の生まれた曲阜にちなむ。天下を取る志と、学問の地となる願いを込めた名だという (由来には諸説ある)。\n\nこの頃から信長は「天下布武」の印を使い始めた。岐阜は、信長が天下へ乗り出す足場となった。",
+    "en": "In 1567, having driven out [[p:斎藤龍興|Saitō Tatsuoki]] of Mino, [[p:織田信長|Oda Nobunaga]] took Inabayama castle and the town of Inokuchi below it, and renamed the town Gifu.\n\nThe name was chosen, they say, by the monk Takugen Sōon, whom Nobunaga had invited: \"Gi\" for Mount Qi, from which King Wen of Zhou rose to win the realm, and \"fu\" for Qufu, the birthplace of Confucius — ambition to rule the realm, and the hope of a seat of learning (accounts differ).\n\nFrom about then Nobunaga began using his seal \"Rule the realm by arms\". Gifu was his springboard to the realm."
+   },
+   "year": 1567,
+   "people": [
+    "織田信長|Oda Nobunaga",
+    "斎藤龍興|Saitō Tatsuoki"
+   ],
+   "related": [
+    "rakuichi",
+    "nagae"
+   ]
+  },
+  "hamamatsu_name": {
+   "kind": "place",
+   "title": {
+    "ja": "浜松の名",
+    "en": "The naming of Hamamatsu"
+   },
+   "body": {
+    "ja": "1570年、[[p:徳川家康]]は本拠を岡崎から遠江の引間城に移し、城を大きく築き直して「浜松城」と名を改めた。「引間」は「引く間」、つまり退くことに通じて縁起が悪い、と嫌ったためとも言われる。\n\n家康は二十九歳から四十五歳までの十七年をこの城で過ごした。三方ヶ原で[[p:武田信玄]]に大敗して逃げ帰ったのもこの城である。\n\n浜松城は、のちに城主となった者が幕府の要職に出世することが多かったため、「出世城」と呼ばれた。",
+    "en": "In 1570 [[p:徳川家康|Tokugawa Ieyasu]] moved his seat from Okazaki to Hikuma castle in Tōtōmi, rebuilt it on a large scale and renamed it Hamamatsu. \"Hikuma\" can be read as \"time to draw back\" — an ill omen for a warrior, they say.\n\nIeyasu spent seventeen years there, from twenty-nine to forty-five. It was to this castle that he fled after his great defeat by [[p:武田信玄|Takeda Shingen]] at Mikatagahara.\n\nSince so many later lords of Hamamatsu rose to high office in the shogunate, it was nicknamed \"the castle of promotion\"."
+   },
+   "year": 1570,
+   "people": [
+    "徳川家康|Tokugawa Ieyasu",
+    "武田信玄|Takeda Shingen"
+   ],
+   "related": [
+    "battle_mikatagahara"
+   ]
+  },
+  "wakamatsu_name": {
+   "kind": "place",
+   "title": {
+    "ja": "会津若松の名",
+    "en": "The naming of Aizu-Wakamatsu"
+   },
+   "body": {
+    "ja": "小田原征伐の後、[[p:伊達政宗]]から会津を取り上げた豊臣秀吉は、[[p:蒲生氏郷]]を会津の主とした。1592年、氏郷は黒川の町を「若松」と改め、七層の天守を持つ鶴ヶ城を築いた。\n\n「若松」の名は、氏郷のふるさと近江日野の「若松の森」にちなむという。\n\n氏郷は伊勢松坂から商人を呼び寄せ、楽市を開いて町を盛り立てた。会津は奥州をにらむ要の地であり、才ある氏郷が置かれたのは、政宗を抑えるためであった。",
+    "en": "After the Odawara campaign Toyotomi Hideyoshi took Aizu from [[p:伊達政宗|Date Masamune]] and gave it to [[p:蒲生氏郷|Gamō Ujisato]]. In 1592 Ujisato renamed the town of Kurokawa \"Wakamatsu\" and built Tsuruga castle with a seven-storey keep.\n\nThe name came, they say, from the \"Wakamatsu wood\" of Hino in Ōmi, Ujisato's home.\n\nHe brought merchants from [[p:まつ|Matsu]]saka in Ise, opened a free market and made the town thrive. Aizu watched over the north, and the able Ujisato was put there to hold Masamune in check."
+   },
+   "year": 1592,
+   "people": [
+    "蒲生氏郷|Gamō Ujisato",
+    "伊達政宗|Date Masamune",
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "rakuichi"
+   ]
+  },
+  "sendai_name": {
+   "kind": "place",
+   "title": {
+    "ja": "仙台の名",
+    "en": "The naming of Sendai"
+   },
+   "body": {
+    "ja": "1600年、[[p:伊達政宗]]は青葉山に新しい城を築き始め、城と町の名を「千代」から「仙台」に改めた。\n\n唐の詩人の句に「仙臺 (仙人の住む高殿)」とあるのにちなむと伝わる。仙人の住むような長く栄える地となるよう、という願いを込めたという。\n\n政宗は家臣の[[p:支倉常長]]をはるかスペインとローマへ使いに送るなど、天下人になれなかった野心を、海の向こうへ向けたとも言われる。",
+    "en": "In 1600 [[p:伊達政宗|Date Masamune]] began a new castle on Mount Aoba, and changed the name of the castle and town from \"Sendai\" written \"a thousand ages\" to \"Sendai\" written \"terrace of the immortals\".\n\nThe name is said to come from a line of a Tang poet mentioning a \"terrace of the immortals\" — a wish for a land that would flourish as long as the immortals live.\n\nMasamune sent his retainer [[p:支倉常長|Hasekura Tsunenaga]] all the way to Spain and Rome — turning, some say, the ambition that could not win him the realm towards the lands beyond the sea."
+   },
+   "year": 1600,
+   "people": [
+    "伊達政宗|Date Masamune",
+    "支倉常長|Hasekura Tsunenaga"
+   ],
+   "related": [
+    "kirisuto",
+    "nanban"
+   ]
+  },
+  "kumamoto_name": {
+   "kind": "place",
+   "title": {
+    "ja": "熊本の名",
+    "en": "The naming of Kumamoto"
+   },
+   "body": {
+    "ja": "肥後の[[p:加藤清正]]は、隈本城を大きく築き直し、1607年頃に完成させると、町の名を「隈本」から「熊本」に改めた。「隈」は「畏 (おそれる)」に通じて戦に向かないとして、勇ましい「熊」の字を用いたという。\n\n熊本城は、高く反り返った石垣「武者返し」で知られる。朝鮮の陣で籠城の苦しさを知った清正は、城の中に井戸を百以上掘り、壁の中にかんぴょうや芋がらを塗り込めて、いざというときの食料にしたと伝わる。\n\n二百七十年後の西南戦争で、熊本城は西郷隆盛の軍の攻撃に耐え抜いた。",
+    "en": "[[p:加藤清正|Katō Kiyomasa]] of Higo rebuilt Kumamoto castle on a grand scale, finishing around 1607, and changed the character of its name: the old \"kuma\" meant a nook, and sounded like \"fear\" — no name for war — so he used \"kuma\", bear.\n\nThe castle is famous for its steep, curving stone walls, the \"warrior-repellers\". Having learned the miseries of siege in Korea, Kiyomasa dug over a hundred wells inside and, they say, built dried gourd strips and taro stalks into the walls as food for a last stand.\n\nTwo hundred and seventy years later, in the Satsuma rebellion, Kumamoto castle held out against the army of Saigō Takamori."
+   },
+   "year": 1607,
+   "people": [
+    "加藤清正|Katō Kiyomasa"
+   ],
+   "related": [
+    "himeji_castle"
+   ]
   }
  },
  "goods": [
@@ -11259,6 +11356,77 @@
     "en": "Megohime of the Tamura married Masamune at twelve; the Tamura alliance was the Date foothold in southern Ōu."
    },
    1579
+  ]
+ ],
+ "renames": [
+  [
+   "inabayama",
+   1567,
+   "稲葉山",
+   "Inabayama",
+   "岐阜",
+   "Gifu",
+   "gifu_name"
+  ],
+  [
+   "hikuma",
+   1570,
+   "引間",
+   "Hikuma",
+   "浜松",
+   "Hamamatsu",
+   "hamamatsu_name"
+  ],
+  [
+   "ishiyama",
+   1583,
+   "石山",
+   "Ishiyama",
+   "大坂",
+   "Osaka"
+  ],
+  [
+   "fukashi",
+   1582,
+   "深志",
+   "Fukashi",
+   "松本",
+   "Matsumoto"
+  ],
+  [
+   "kurokawa",
+   1592,
+   "黒川",
+   "Kurokawa",
+   "若松",
+   "Wakamatsu",
+   "wakamatsu_name"
+  ],
+  [
+   "oyama",
+   1583,
+   "尾山",
+   "Oyama",
+   "金沢",
+   "Kanazawa"
+  ],
+  [
+   "sendai",
+   1600,
+   "千代",
+   "Sendai",
+   "仙台",
+   "Sendai",
+   "sendai_name"
+  ],
+  [
+   "kumamoto",
+   1607,
+   "隈本",
+   "Kumamoto",
+   "熊本",
+   "Kumamoto",
+   "kumamoto_name"
   ]
  ]
 }

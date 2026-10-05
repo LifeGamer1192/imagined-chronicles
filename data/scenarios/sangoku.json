@@ -6899,6 +6899,45 @@
     "battle_yiling",
     "shu_law"
    ]
+  },
+  "jianye_name": {
+   "kind": "place",
+   "title": {
+    "ja": "秣陵から建業へ",
+    "en": "From Moling to Jianye"
+   },
+   "body": {
+    "ja": "211年、[[p:孫権]]は本拠を京口から秣陵に移し、翌年、石頭城を築いて名を「建業」と改めた。「帝王の業を建てる」という意味である。\n\n秦の始皇帝がこの地を巡ったとき、気を見る者が「五百年の後、金陵に天子の気がある」と言ったため、始皇帝は山を削り、名を「秣陵」(馬のまぐさの丘) と卑しい名に変えさせた、という言い伝えがある。孫権はそれを再び帝王の都の名に戻したのである。\n\n建業はのちに建康と名を変えて六つの王朝の都となり、明の時代には南京と呼ばれた。",
+    "en": "In 211 [[p:孫権|Sun Quan]] moved his seat from Jingkou to Moling; the next year he built the Stone City and renamed the town Jianye — \"founding the imperial enterprise\".\n\nLegend says that when the First Emperor of Qin toured the area, a reader of portents saw \"the aura of a Son of Heaven\" over it, so the emperor had the hills cut and renamed the place Moling, \"the fodder hill\" — a lowly name. Sun Quan gave it back a name fit for emperors.\n\nJianye later became Jiankang, capital of six dynasties, and under the Ming was called Nanjing."
+   },
+   "year": 212,
+   "people": [
+    "孫権|Sun Quan"
+   ],
+   "related": [
+    "shitoucheng",
+    "wu_ships"
+   ]
+  },
+  "luoyang_name": {
+   "kind": "place",
+   "title": {
+    "ja": "雒陽・洛陽、許・許昌",
+    "en": "Luoyang's two spellings, and Xu becomes Xuchang"
+   },
+   "body": {
+    "ja": "後漢の都「らくよう」は、もとは「雒陽」と書いた。漢は五行の「火」の徳で天下を治めると考えたので、火を消す「水」の部首を持つ「洛」の字を嫌い、「雒」の字に変えていたのである。\n\n220年、漢から位を譲られて魏を建てた[[p:曹丕]]は、魏は「土」の徳であり、土は水を得て柔らかになるとして、字を「洛陽」に戻した。文字一つにも、王朝の交代が刻まれている。\n\n同じ頃、[[p:献帝]]が長く都としていた許は「許昌」と改められた。「漢は許に亡び、魏は許に昌 (さか) える」という言葉 (讖語) にちなんだという。",
+    "en": "The Eastern Han capital, Luoyang, was written with a \"bird\" character for its first syllable. The Han believed it ruled by the virtue of Fire, so it shunned the usual character with the \"water\" radical, which puts fire out.\n\nIn 220 [[p:曹丕|Cao Pi]], taking the throne from the Han and founding Wei, held that Wei ruled by the virtue of Earth — and earth is softened by water — so he restored the \"water\" character. A single character records the change of dynasty.\n\nAt the same time Xu, long [[p:献帝|Emperor Xian]]'s capital, was renamed Xuchang — after a prophecy: \"Han will perish at Xu; Wei will prosper (chang) at Xu.\""
+   },
+   "year": 220,
+   "people": [
+    "曹丕|Cao Pi",
+    "献帝|Emperor Xian"
+   ],
+   "related": [
+    "mingdi_palaces",
+    "cai_paper"
+   ]
   }
  },
  "goods": [
@@ -7513,6 +7552,51 @@
     "en": "Huang Chengyan of Jing said: \"My daughter is ugly, but her talent matches yours,\" and gave her to [[p:諸葛亮|Zhuge Liang]]. People joked: \"Don't copy Kongming in choosing a wife — you'll get Old Cheng's plain daughter.\""
    },
    207
+  ]
+ ],
+ "renames": [
+  [
+   "jianye",
+   212,
+   "秣陵",
+   "Moling",
+   "建業",
+   "Jianye",
+   "jianye_name"
+  ],
+  [
+   "luoyang",
+   220,
+   "雒陽",
+   "Luoyang",
+   "洛陽",
+   "Luoyang",
+   "luoyang_name"
+  ],
+  [
+   "xu",
+   221,
+   "許",
+   "Xu",
+   "許昌",
+   "Xuchang",
+   "luoyang_name"
+  ],
+  [
+   "wuchang",
+   221,
+   "鄂",
+   "E",
+   "武昌",
+   "Wuchang"
+  ],
+  [
+   "yiling",
+   222,
+   "夷陵",
+   "Yiling",
+   "西陵",
+   "Xiling"
   ]
  ]
 }

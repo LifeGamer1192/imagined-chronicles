@@ -11700,6 +11700,25 @@
    "related": [
     "guanzhong_reform"
    ]
+  },
+  "ying_names": {
+   "kind": "place",
+   "title": {
+    "ja": "楚の都はどこでも「郢」",
+    "en": "Wherever the Chu capital stood, it was \"Ying\""
+   },
+   "body": {
+    "ja": "楚の都は長く、長江の中流の郢 (今の湖北省荊州のあたり) にあった。前278年、秦の[[p:白起]]が郢を落とし、歴代の王の墓を焼くと、楚は東の陳 (宛丘) へ都を移した。\n\nところが楚の人々は、新しい都も「郢」と呼んだ。陳は「郢陳」となり、前241年にさらに寿春へ移ると、寿春は「寿郢」と呼ばれた。楚にとって「郢」は一つの町の名ではなく、王のいる都そのものを指す言葉だったのである。\n\n近年見つかった楚の竹簡には、王のいた場所として「〇郢」という名がいくつも記されており、楚の王たちが時に応じて都を移していたことが分かってきた。",
+    "en": "For centuries the Chu capital stood at Ying on the middle Yangzi (near today's Jingzhou in Hubei). In 278 BC [[p:白起|Bai Qi]] of Qin took Ying and burned the tombs of its kings, and Chu moved its capital east to Chen (Wanqiu).\n\nBut the people of Chu called the new capital \"Ying\" too. Chen became \"Ying-Chen\", and when the capital moved again to Shouchun in 241 BC, Shouchun became \"Shou-Ying\". To Chu, Ying was not the name of one town but the word for wherever the king held court.\n\nChu bamboo slips found in recent decades name many \"so-and-so Ying\" as places where the king resided — the kings of Chu moved their court as need arose."
+   },
+   "year": 278,
+   "people": [
+    "白起|Bai Qi"
+   ],
+   "related": [
+    "chu_lacquer",
+    "zhanghuatai"
+   ]
   }
  },
  "goods": [
@@ -12448,6 +12467,34 @@
     "en": "Zichu ([[p:荘襄王|King Zhuangxiang]]), a Qin prince held hostage in Handan, fell for the dancer [[p:趙姫|Lady Zhao]] at the merchant [[p:呂不韋|Lü Buwei]]'s feast, and Lü Buwei gave her to him. Their son was Zheng — the First Emperor. The rumour that his true father was Lü Buwei found its way even into the Records of the Grand Historian."
    },
    260
+  ]
+ ],
+ "renames": [
+  [
+   "xintian",
+   585,
+   "新田",
+   "Xintian",
+   "新絳",
+   "Xinjiang"
+  ],
+  [
+   "wanqiu",
+   278,
+   "宛丘",
+   "Wanqiu",
+   "郢陳",
+   "Ying-Chen",
+   "ying_names"
+  ],
+  [
+   "shouchun",
+   241,
+   "寿春",
+   "Shouchun",
+   "寿郢",
+   "Shou-Ying",
+   "ying_names"
   ]
  ]
 }
