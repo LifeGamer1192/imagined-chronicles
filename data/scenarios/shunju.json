@@ -6827,6 +6827,144 @@
     ],
     "fame": 6
    }
+  ],
+  [
+   "荀林父",
+   "Xun Linfu",
+   "jin",
+   "general",
+   650,
+   593,
+   {
+    "from": 607,
+    "ab": [
+     5,
+     6,
+     5,
+     5
+    ],
+    "tr": [
+     "content"
+    ]
+   }
+  ],
+  [
+   "先縠",
+   "Xian Hu",
+   "jin",
+   "general",
+   640,
+   596,
+   {
+    "from": 600,
+    "ab": [
+     3,
+     6,
+     3,
+     4
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "士会",
+   "Shi Hui",
+   "jin",
+   "general",
+   660,
+   583,
+   {
+    "from": 615,
+    "ab": [
+     8,
+     8,
+     7,
+     6
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "伍挙",
+   "Wu Ju",
+   "chu",
+   "minister",
+   640,
+   570,
+   {
+    "from": 600,
+    "ab": [
+     6,
+     4,
+     7,
+     6
+    ]
+   }
+  ],
+  [
+   "囊瓦",
+   "Nang Wa",
+   "chu",
+   "minister",
+   560,
+   500,
+   {
+    "from": 519,
+    "ab": [
+     3,
+     4,
+     3,
+     3
+    ],
+    "tr": [
+     "greedy"
+    ]
+   }
+  ],
+  [
+   "沈尹戌",
+   "Shen Yin Xu",
+   "chu",
+   "general",
+   560,
+   506,
+   {
+    "from": 520,
+    "ab": [
+     5,
+     8,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "王齕",
+   "Wang He",
+   "qin",
+   "general",
+   300,
+   240,
+   {
+    "from": 262,
+    "ab": [
+     4,
+     8,
+     4,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
   ]
  ],
  "events": [
@@ -7024,8 +7162,8 @@
    ],
    "imp": 3,
    "at": "linzi",
-   "ja": "{r_qi}はかつて自分を射た[[p:管仲]]を、[[p:鮑叔牙]]の推挙によって宰相に迎えた。「我を生む者は父母、我を知る者は鮑子なり」と管仲は語ったという。",
-   "en": "{r_qi} made [[p:管仲|Guan Zhong]] — the man who had once shot an arrow at him — chief minister, on [[p:鮑叔牙|Bao Shuya]]'s word. \"My parents gave me life,\" Guan Zhong said, \"but it is Bao who knows me.\""
+   "ja": "{r_qi}はかつて自分を射た[[p:管仲]]を、[[p:鮑叔牙]]の推挙によって宰相に迎えた。「我を生む者は父母、我を知る者は鮑子なり」と[[p:管仲]]は語ったという。",
+   "en": "{r_qi} made [[p:管仲|Guan Zhong]] — the man who had once shot an arrow at him — chief minister, on [[p:鮑叔牙|Bao Shuya]]'s word. \"My parents gave me life,\" [[p:管仲|Guan Zhong]] said, \"but it is Bao who knows me.\""
   },
   {
    "id": "changshao",
@@ -7485,6 +7623,10 @@
    ],
    "do": [
     [
+     "battle",
+     "chengpu"
+    ],
+    [
      "add",
      "jin",
      "prestige",
@@ -7651,6 +7793,10 @@
     "jin"
    ],
    "do": [
+    [
+     "battle",
+     "bi"
+    ],
     [
      "add",
      "chu",
@@ -7939,6 +8085,10 @@
    ],
    "do": [
     [
+     "battle",
+     "boju"
+    ],
+    [
      "cede",
      "chu",
      "wu",
@@ -7961,8 +8111,8 @@
    ],
    "imp": 3,
    "at": "ying",
-   "ja": "柏挙の戦い。[[p:孫武]]と[[p:伍子胥]]に率いられた{n_wu}の軍が{n_chu}を破り、都の郢に入った。伍子胥は平王の墓をあばき、その屍を三百回鞭打ったという。",
-   "en": "At Boju the army of {n_wu}, led by [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], broke {n_chu} and entered its capital Ying. Wu Zixu, it is said, dug up King Ping's body and flogged it three hundred times."
+   "ja": "柏挙の戦い。[[p:孫武]]と[[p:伍子胥]]に率いられた{n_wu}の軍が{n_chu}を破り、都の郢に入った。[[p:伍子胥]]は平王の墓をあばき、その屍を三百回鞭打ったという。",
+   "en": "At Boju the army of {n_wu}, led by [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], broke {n_chu} and entered its capital Ying. [[p:伍子胥|Wu Zixu]], it is said, dug up King Ping's body and flogged it three hundred times."
   },
   {
    "id": "shen_baoxu",
@@ -8066,7 +8216,7 @@
    ],
    "imp": 3,
    "at": "kuaiji",
-   "ja": "夫椒の戦い。父の仇を忘れぬよう薪の上に臥した{r_wu}は{n_yue}を破り、会稽山に追い詰められた[[p:句践]]は臣従を誓った。句践は苦い肝を嘗めて恥を忘れまいとしたという (臥薪嘗胆)。",
+   "ja": "夫椒の戦い。父の仇を忘れぬよう薪の上に臥した{r_wu}は{n_yue}を破り、会稽山に追い詰められた[[p:句践]]は臣従を誓った。[[p:句践]]は苦い肝を嘗めて恥を忘れまいとしたという (臥薪嘗胆)。",
    "en": "At Fujiao the King of Wu — who had slept on firewood so as never to forget his father's death — broke {n_yue}. Cornered on Mount Kuaiji, [[p:句践|Goujian]] swore submission, and tasted gall every day so as never to forget the shame."
   },
   {
@@ -8308,8 +8458,8 @@
    ],
    "imp": 3,
    "at": "lu_di",
-   "ja": "{n_jin}の荀林父は{n_chidi}の潞氏を滅ぼし、晋は太行山の東西にまたがる大国となった。",
-   "en": "Xun Linfu of {n_jin} destroyed the Lu clan of {n_chidi}, and Jin spread across both sides of the Taihang mountains."
+   "ja": "{n_jin}の[[p:荀林父]]は{n_chidi}の潞氏を滅ぼし、晋は太行山の東西にまたがる大国となった。",
+   "en": "[[p:荀林父|Xun Linfu]] of {n_jin} destroyed the Lu clan of {n_chidi}, and Jin spread across both sides of the Taihang mountains."
   },
   {
    "id": "jin_taiyuan",
@@ -8776,8 +8926,8 @@
      1.15
     ]
    ],
-   "ja": "{r_chu}は[[p:呉起]]を令尹とし、貴族の特権を削って兵を強めた。翌年、悼王の死とともに呉起は貴族たちに射殺された。王の亡骸に覆い被さった呉起を射た者たちは、のちに罪を問われた。",
-   "en": "{r_chu} made [[p:呉起|Wu Qi]] chief minister, and Wu Qi cut the nobles' privileges to strengthen the army. When the king died the next year the nobles shot Wu Qi down — he had thrown himself over the king's body, and those whose arrows struck the corpse were punished for it."
+   "ja": "{r_chu}は[[p:呉起]]を令尹とし、貴族の特権を削って兵を強めた。翌年、悼王の死とともに[[p:呉起]]は貴族たちに射殺された。王の亡骸に覆い被さった[[p:呉起]]を射た者たちは、のちに罪を問われた。",
+   "en": "{r_chu} made [[p:呉起|Wu Qi]] chief minister, and [[p:呉起|Wu Qi]] cut the nobles' privileges to strengthen the army. When the king died the next year the nobles shot [[p:呉起|Wu Qi]] down — he had thrown himself over the king's body, and those whose arrows struck the corpse were punished for it."
   },
   {
    "id": "han_annex_zheng",
@@ -8916,6 +9066,10 @@
    ],
    "do": [
     [
+     "battle",
+     "maling"
+    ],
+    [
      "add",
      "qi",
      "prestige",
@@ -8934,8 +9088,8 @@
     ]
    ],
    "imp": 3,
-   "ja": "馬陵の戦い。[[p:孫臏]]は毎日かまどの数を減らして逃げるふりをし、追う[[p:龐涓]]を馬陵の狭い道に誘い込んだ。「龐涓この樹の下に死す」と記した木の下で龐涓は自害した。",
-   "en": "At Maling [[p:孫臏|Sun Bin]] made fewer cooking fires each night, as if his men were deserting, and drew [[p:龐涓|Pang Juan]] into a narrow pass. Under a tree on which Sun Bin had written \"Pang Juan dies beneath this tree\", Pang Juan killed himself."
+   "ja": "馬陵の戦い。[[p:孫臏]]は毎日かまどの数を減らして逃げるふりをし、追う[[p:龐涓]]を馬陵の狭い道に誘い込んだ。「[[p:龐涓]]この樹の下に死す」と記した木の下で[[p:龐涓]]は自害した。",
+   "en": "At Maling [[p:孫臏|Sun Bin]] made fewer cooking fires each night, as if his men were deserting, and drew [[p:龐涓|Pang Juan]] into a narrow pass. Under a tree on which [[p:孫臏|Sun Bin]] had written \"[[p:龐涓|Pang Juan]] dies beneath this tree\", [[p:龐涓|Pang Juan]] killed himself."
   },
   {
    "id": "hexi",
@@ -9458,7 +9612,7 @@
      10
     ]
    ],
-   "ja": "澠池の会。{r_qin}は{r_zhao}に瑟を弾かせて辱めたが、[[p:藺相如]]は秦王に缶を打たせて返した。和氏の璧を完うして帰った藺相如は上卿となり、[[p:廉頗]]とは「刎頸の交わり」を結んだ。",
+   "ja": "澠池の会。{r_qin}は{r_zhao}に瑟を弾かせて辱めたが、[[p:藺相如]]は秦王に缶を打たせて返した。和氏の璧を完うして帰った[[p:藺相如]]は上卿となり、[[p:廉頗]]とは「刎頸の交わり」を結んだ。",
    "en": "At Mianchi {r_qin} shamed {r_zhao} by making him play the zither; [[p:藺相如|Lin Xiangru]] made the King of Qin beat a clay pot in return. Lin, who had brought the jade of He home whole, became first minister and swore with [[p:廉頗|Lian Po]] a friendship \"unto the cutting of throats\"."
   },
   {
@@ -9562,6 +9716,10 @@
     "zhao"
    ],
    "do": [
+    [
+     "battle",
+     "changping"
+    ],
     [
      "army",
      "zhao",
@@ -9728,8 +9886,8 @@
     "qin"
    ],
    "do": [],
-   "ja": "秦王は[[p:韓非]]の書を読んで「この人と交われるなら死んでも恨まぬ」と言ったが、使者として来た韓非は[[p:李斯]]らに讒され、獄中で毒を仰いだ。",
-   "en": "Reading [[p:韓非|Han Fei]], the King of Qin said he would die content if he could meet the man. When Han Fei came as an envoy, [[p:李斯|Li Si]] slandered him, and he took poison in prison."
+   "ja": "秦王は[[p:韓非]]の書を読んで「この人と交われるなら死んでも恨まぬ」と言ったが、使者として来た[[p:韓非]]は[[p:李斯]]らに讒され、獄中で毒を仰いだ。",
+   "en": "Reading [[p:韓非|Han Fei]], the King of Qin said he would die content if he could meet the man. When [[p:韓非|Han Fei]] came as an envoy, [[p:李斯|Li Si]] slandered him, and he took poison in prison."
   },
   {
    "id": "qin_han",
@@ -9787,7 +9945,7 @@
    "imp": 3,
    "at": "xianyang",
    "ja": "[[p:荊軻]]は易水のほとりで「風蕭蕭として易水寒し、壮士一たび去りて復た還らず」と歌って旅立ち、地図に匕首を隠して秦王に迫ったが、柱をめぐって逃げる王を刺し損ねて斬られた。",
-   "en": "By the River Yi [[p:荊軻|Jing Ke]] sang \"The wind sighs, the Yi is cold; the hero goes, and does not return,\" set out, and came before the King of Qin with a dagger rolled in a map. The king fled round a pillar; Jing Ke missed, and was cut down."
+   "en": "By the River Yi [[p:荊軻|Jing Ke]] sang \"The wind sighs, the Yi is cold; the hero goes, and does not return,\" set out, and came before the King of Qin with a dagger rolled in a map. The king fled round a pillar; [[p:荊軻|Jing Ke]] missed, and was cut down."
   },
   {
    "id": "qin_wei",
@@ -9890,5 +10048,295 @@
    "ja": "天下は一つになった。{r_qin}は王の名では足りないとして「皇帝」を称し、自らを始皇帝とした。度量衡・文字・車軸の幅が統一され、天下は三十六郡に分けられた。",
    "en": "All under heaven was one. Finding \"king\" too small a word, {r_qin} took the title huangdi — emperor — and called himself the First Emperor. Weights, measures, script and axle widths were made one, and the realm was divided into thirty-six commanderies."
   }
- ]
+ ],
+ "battles": {
+  "chengpu": {
+   "name": {
+    "ja": "城濮の戦い",
+    "en": "the battle of Chengpu"
+   },
+   "at": "taoqiu",
+   "sides": [
+    {
+     "realm": "jin",
+     "generals": [
+      "先軫",
+      "狐偃",
+      "趙衰"
+     ],
+     "troops": 52000
+    },
+    {
+     "realm": "chu",
+     "generals": [
+      "成得臣"
+     ],
+     "troops": 60000
+    }
+   ],
+   "losses": [
+    3000,
+    15000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "晋は三軍に分かれた。中軍を[[p:先軫]]、上軍を狐毛と[[p:狐偃]]、下軍を欒枝と胥臣が率い、宋・斉・秦の兵が加わった。楚は子玉 ([[p:成得臣]]) が中軍に座し、左軍を子西、右軍を子上が率い、右軍の主力は従属する陳・蔡の兵であった。",
+    "en": "Jin stood in three armies: [[p:先軫|Xian Zhen]] led the centre, Hu Mao and [[p:狐偃|Hu Yan]] the upper army, Luan Zhi and Xu Chen the lower, with troops of Song, Qi and Qin beside them. Ziyu ([[p:成得臣|Cheng Dechen]]) held the Chu centre, Zixi the left, Zishang the right — whose strength was the levies of the subject states Chen and Cai."
+   },
+   "plan": {
+    "ja": "晋の文公は、流浪の頃に楚の成王から受けた恩を返すとして「三舎」(九十里) を退いた。退いたことで晋は約束を守る者となり、楚は追う者となった。戦いが始まると、胥臣は馬に虎の皮をかぶせて陳・蔡の兵に突っ込み、楚の右軍はたちまち崩れた。欒枝は車の後ろに柴を引きずって土煙を上げ、敗走するように見せかけて楚の左軍を誘い出し、[[p:先軫]]と郤溱の中軍が横から突いた。中軍の子玉だけが兵を収めて退いた。",
+    "en": "Duke Wen of Jin fell back three days' march, to repay the kindness the King of Chu had shown him in his wandering years: Jin became the one who kept faith, Chu the one who pursued. When the fighting began, Xu Chen covered his horses with tiger skins and drove into the levies of Chen and Cai, and the Chu right collapsed. Luan Zhi dragged brushwood behind his chariots to raise dust, as if in flight, drew the Chu left out after him, and the centre under [[p:先軫|Xian Zhen]] struck it in the flank. Only Ziyu in the centre gathered his men and withdrew."
+   },
+   "tales": [
+    {
+     "ja": "戦いの前夜、文公は楚王と組み合って押し倒され、脳を吸われる夢を見て恐れた。[[p:狐偃]]は「天を仰いだ我らは天を得、地に伏した楚は罪に伏したのです」と解いて励ました。",
+     "en": "On the eve of battle Duke Wen dreamed the King of Chu wrestled him down and sucked his brains, and was afraid. [[p:狐偃|Hu Yan]] read it for him: \"We lay facing heaven and have heaven; Chu bent over the earth, bowed down to its guilt.\""
+    },
+    {
+     "ja": "敗れた子玉は、楚王から「申と息の父老にどう顔向けするのか」と問われ、帰る途中で自ら命を絶った。それを聞いた文公は「これで私を害する者はいなくなった」と喜びを隠さなかったという。",
+     "en": "Beaten, Ziyu was asked by his king how he would face the elders of Shen and Xi, and took his own life on the way home. Hearing it, Duke Wen made no secret of his joy: \"Now there is no one left to harm me.\""
+    }
+   ],
+   "after": {
+    "ja": "戦いの後、晋は践土に王宮を築いて周の襄王を迎え、諸侯の盟を主宰した。王は文公を「侯伯」(諸侯の長) に任じ、晋はこの後百年近く中原の覇権を握る。",
+    "en": "After the battle Jin built a palace at Jiantu, welcomed [[p:燕王喜|King Xi]]ang of Zhou there and presided over the covenant of the lords. The king named Duke Wen \"elder of the lords\", and Jin would hold the hegemony of the Central Plain for most of a century."
+   },
+   "read": [
+    "tuisan",
+    "chariot"
+   ]
+  },
+  "bi": {
+   "name": {
+    "ja": "邲の戦い",
+    "en": "the battle of Bi"
+   },
+   "at": "jing_zheng",
+   "sides": [
+    {
+     "realm": "chu",
+     "generals": [
+      "孫叔敖",
+      "伍挙"
+     ],
+     "troops": 60000
+    },
+    {
+     "realm": "jin",
+     "generals": [
+      "荀林父",
+      "先縠",
+      "士会"
+     ],
+     "troops": 60000
+    }
+   ],
+   "losses": [
+    5000,
+    20000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "鄭を救いに来た晋の中軍は[[p:荀林父]]が率いたが、鄭が既に楚に降ったと知って帰るか戦うかで将たちが割れた。副将の[[p:先縠]]は勝手に兵を渡河させた。楚は荘王自ら陣頭に立った。",
+    "en": "Jin had come to save Zheng, but when [[p:荀林父|Xun Linfu]], leading its centre, learned that Zheng had already gone over to Chu, his generals split over whether to fight or turn back; his deputy [[p:先縠|Xian Hu]] took troops across the river on his own."
+   },
+   "plan": {
+    "ja": "将が割れたまま戦いに引き込まれた晋軍に、楚軍は不意に押し寄せた。[[p:荀林父]]は「先に河を渡った者に賞を与える」と太鼓を打たせ、晋兵は舟に殺到した。上軍の[[p:士会]]だけが陣を崩さず退いた。",
+    "en": "With its generals divided Jin was drawn into battle, and the Chu army came on suddenly. [[p:荀林父|Xun Linfu]] beat the drums and promised a reward to the first back across the river; his men stampeded for the boats. Only [[p:士会|Shi Hui]] of the upper army withdrew in order."
+   },
+   "tales": [
+    {
+     "ja": "舟べりにすがる味方の指を斬り落として舟を出したため、舟の中の指は掬えるほどであったという。",
+     "en": "Men in the boats cut off the fingers of comrades clinging to the sides; the fingers in the bottoms, it is said, could be scooped up by the handful."
+    },
+    {
+     "ja": "楚兵は戦車の溝にはまって進めない晋兵に「横木を外せ」「旗を抜け」と教えてやった。晋兵は逃げながら「我らは大国 (楚) ほど逃げ慣れていない」と言い返した。",
+     "en": "Chu soldiers called out to Jin charioteers stuck in a rut how to pull out the crossbar and take down the flag; escaping, the men of Jin shouted back that they were not as practised at running as the great state of Chu."
+    },
+    {
+     "ja": "臣下が晋兵の屍を積んで「京観」(戦勝の塚) を築くよう勧めると、荘王は「武の字は戈を止めると書く」と退けた。",
+     "en": "When his ministers urged him to heap up the Jin dead into a victory mound, King Zhuang refused: the character for \"martial\", he said, is written \"to stop the spear\"."
+    }
+   ],
+   "after": {
+    "ja": "楚の荘王は覇者となり、鄭・宋も楚に従った。",
+    "en": "King Zhuang of Chu became hegemon, and Zheng and Song followed Chu."
+   },
+   "read": [
+    "chariot"
+   ]
+  },
+  "boju": {
+   "name": {
+    "ja": "柏挙の戦い",
+    "en": "the battle of Boju"
+   },
+   "at": "sui",
+   "sides": [
+    {
+     "realm": "wu",
+     "generals": [
+      "孫武",
+      "伍子胥",
+      "伯嚭"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "chu",
+     "generals": [
+      "囊瓦",
+      "沈尹戌"
+     ],
+     "troops": 200000
+    }
+   ],
+   "losses": [
+    3000,
+    60000
+   ],
+   "winner": 0,
+   "months": 2,
+   "deploy": {
+    "ja": "呉は精兵三万で、淮水をさかのぼった舟を捨て、一気に陸路で漢水へ出た。楚は令尹の[[p:囊瓦]] (子常) が二十万と号する大軍で漢水の西に陣した。",
+    "en": "Wu came with thirty thousand picked men; it left its boats on the Huai and struck overland to the Han river. Chu's chief minister [[p:囊瓦|Nang Wa]] ([[p:子産|Zichan]]g) faced it west of the Han with a host said to number two hundred thousand."
+   },
+   "plan": {
+    "ja": "楚の[[p:沈尹戌]]は、自分が呉の舟を焼いて退路を断つ間、[[p:囊瓦]]に川を挟んで守るよう説いた。だが功を独り占めしたい囊瓦は川を渡って攻め、呉は三度戦って三度破った。柏挙では呉王の弟夫概が王の許しを待たず五千で突っ込み、楚軍を崩した。呉軍は五度戦って五度勝ち、郢に入った。",
+    "en": "[[p:沈尹戌|Shen Yin Xu]] of Chu proposed that [[p:囊瓦|Nang Wa]] hold the river while he burned the Wu boats behind them. Nang Wa, wanting the glory for himself, crossed and attacked; Wu beat him three times. At Boju the king's brother Fugai charged with five thousand without waiting for leave and broke the Chu army. Fighting five battles and winning all five, Wu entered Ying."
+   },
+   "tales": [
+    {
+     "ja": "[[p:孫武]]は呉王[[p:闔閭]]に兵法を説いたとき、宮中の女官百八十人を二隊に分けて調練し、笑って命に従わない隊長の寵姫二人を王の制止も聞かず斬った。以後、女官たちは一糸乱れず動いたという。",
+     "en": "When [[p:孫武|Sun Wu]] laid out the art of war for King [[p:闔閭|Helü]], he drilled a hundred and eighty palace women in two companies and, over the king's protests, beheaded the two favourites who led them for laughing at his orders. After that the women moved as one."
+    },
+    {
+     "ja": "郢に入った[[p:伍子胥]]は、父と兄を殺した平王の墓をあばいて屍に鞭打った。友の[[p:申包胥]]が「天理に背く」と責めると、「日暮れて道遠し、ゆえに倒行逆施す」と答えた。",
+     "en": "In Ying [[p:伍子胥|Wu Zixu]] dug up the body of King Ping, who had killed his father and brother, and flogged it. When his old friend [[p:申包胥|Shen Baoxu]] called it an outrage against heaven, he answered: \"The day is late and the road is long; so I walk backwards and act against the grain.\""
+    }
+   ],
+   "after": {
+    "ja": "楚の昭王は逃れ、[[p:申包胥]]の嘆願で秦の援軍が来ると、呉は郢を去った。この勝利で呉は南方の強国となった。",
+    "en": "King Zhao of Chu fled; when [[p:申包胥|Shen Baoxu]] brought a Qin army with his pleading, Wu left Ying. The victory made Wu a great power of the south."
+   },
+   "read": [
+    "sunzi",
+    "wuzixu_whip"
+   ]
+  },
+  "maling": {
+   "name": {
+    "ja": "馬陵の戦い",
+    "en": "the battle of Maling"
+   },
+   "at": "daliang",
+   "sides": [
+    {
+     "realm": "qi",
+     "generals": [
+      "孫臏",
+      "田忌"
+     ],
+     "troops": 100000
+    },
+    {
+     "realm": "wei",
+     "generals": [
+      "龐涓"
+     ],
+     "troops": 100000
+    }
+   ],
+   "losses": [
+    5000,
+    60000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "斉は[[p:田忌]]を将、[[p:孫臏]]を軍師として韓を救うため魏の都大梁を突いた。魏の[[p:龐涓]]は韓から兵を返し、太子申とともに斉軍を追った。",
+    "en": "Qi sent [[p:田忌|Tian Ji]], with [[p:孫臏|Sun Bin]] as his strategist, to strike at the Wei capital Daliang and so relieve Han. [[p:龐涓|Pang Juan]] of Wei pulled back from Han and, with the crown prince Shen, went after the Qi army."
+   },
+   "plan": {
+    "ja": "[[p:孫臏]]は「魏の兵は斉を臆病と侮っている」と見て、初日は十万、翌日は五万、三日目は三万と、毎夜かまどの数を減らして見せた。[[p:龐涓]]は「斉兵は三日で半分以上逃げた」と喜び、歩兵を置いて騎兵だけで追った。孫臏は日暮れに着くと読んだ狭い馬陵の道に、一万の弩兵を伏せた。",
+    "en": "[[p:孫臏|Sun Bin]] saw that Wei thought Qi's soldiers cowards. He had the army light a hundred thousand cooking fires the first night, fifty thousand the second, thirty thousand the third. \"Half the men of Qi have deserted in three days!\" [[p:龐涓|Pang Juan]] rejoiced, left his foot behind and pursued with the horse alone. Sun Bin hid ten thousand crossbowmen along the narrow road at Maling, where he reckoned Pang Juan would arrive at dusk."
+   },
+   "tales": [
+    {
+     "ja": "[[p:孫臏]]は大木の皮を削って「[[p:龐涓]]この樹の下に死す」と書かせ、「火が見えたら一斉に射よ」と命じた。夜、着いた龐涓が字を読もうと松明をともした瞬間、矢が降り注いだ。龐涓は「ついに豎子の名を成さしめたか」と言って自ら首を刎ねた。",
+     "en": "[[p:孫臏|Sun Bin]] had the bark stripped from a great tree and wrote on it: \"[[p:龐涓|Pang Juan]] dies beneath this tree\", and told his archers to shoot as one when they saw a light. Pang Juan arrived in the dark and lit a torch to read the words — and the arrows fell. \"So I have made that wretch famous,\" he said, and cut his own throat."
+    },
+    {
+     "ja": "かつて二人は同じ師に学んだ。[[p:孫臏]]の才を妬んだ[[p:龐涓]]は、孫臏を罪に陥れて両足を断つ刑に処し、顔に入れ墨をさせた。孫臏は斉の使者の車にひそかに隠れて魏を逃れていた。",
+     "en": "The two had studied under the same master. Jealous of [[p:孫臏|Sun Bin]]'s gifts, [[p:龐涓|Pang Juan]] had him falsely accused, his feet cut off and his face tattooed; Sun Bin escaped Wei hidden in the carriage of a Qi envoy."
+    }
+   ],
+   "after": {
+    "ja": "魏の太子申は捕らえられ、魏は戦国の初めの覇権を失った。斉の威王は東方の最強国となった。",
+    "en": "The Wei crown prince Shen was captured and Wei lost the primacy it had held since the Warring States began. King Wei of Qi was master of the east."
+   },
+   "read": [
+    "sunbin_stove",
+    "crossbow"
+   ]
+  },
+  "changping": {
+   "name": {
+    "ja": "長平の戦い",
+    "en": "the battle of Changping"
+   },
+   "at": "lu_di",
+   "sides": [
+    {
+     "realm": "qin",
+     "generals": [
+      "白起",
+      "王齕"
+     ],
+     "troops": 600000
+    },
+    {
+     "realm": "zhao",
+     "generals": [
+      "趙括",
+      "廉頗"
+     ],
+     "troops": 450000
+    }
+   ],
+   "losses": [
+    250000,
+    450000
+   ],
+   "winner": 0,
+   "months": 5,
+   "deploy": {
+    "ja": "上党を受け入れた趙に、秦は[[p:王齕]]の大軍を向けた。趙の老将[[p:廉頗]]は塁を固めて三年近く戦わず、秦の兵站を消耗させた。",
+    "en": "Zhao accepted Shangdang, and Qin sent [[p:王齕|Wang He]] with a great army. The veteran [[p:廉頗|Lian Po]] built ramparts and would not fight for nearly three years, wearing down Qin's supply lines."
+   },
+   "plan": {
+    "ja": "秦の[[p:范雎]]は「秦が恐れるのは[[p:廉頗]]ではなく[[p:趙奢]]の子[[p:趙括]]だ」との噂を趙に流した。趙王は廉頗を退けて趙括を将とした。秦はひそかに[[p:白起]]を総大将に替え、偽って退いて趙括を塁の外へ誘い出し、二万五千の伏兵で退路を断ち、五千の騎兵で趙軍を二つに分けた。趙軍は四十六日間食を断たれ、互いに食らい合うほどになった。",
+    "en": "[[p:范雎|Fan Ju]] of Qin spread the word in Zhao that what Qin feared was not [[p:廉頗|Lian Po]] but [[p:趙括|Zhao Kuo]], son of [[p:趙奢|Zhao She]]. The King of Zhao replaced Lian Po with Zhao Kuo. Qin secretly made [[p:白起|Bai Qi]] its commander, feigned a retreat to draw Zhao Kuo out of his ramparts, cut his line of retreat with twenty-five thousand men and split the Zhao army in two with five thousand horse. Without food for forty-six days, the Zhao soldiers were reduced to eating one another."
+   },
+   "tales": [
+    {
+     "ja": "[[p:趙括]]は兵書をそらんじ、議論では父の[[p:趙奢]]も言い負かしたが、父は「戦は死地なのに、括は易々と口にする。趙を破るのは括だ」と言った。趙括の母も王に「あの子を将にしないでください」と願い出ていた。",
+     "en": "[[p:趙括|Zhao Kuo]] knew the books of war by heart and could outargue even his father, but [[p:趙奢|Zhao She]] said: \"War is a place of death, and Kuo talks of it lightly; if Zhao is ever broken, it will be by him.\" His mother too begged the king not to make him general."
+    },
+    {
+     "ja": "[[p:趙括]]は自ら突撃して射殺され、降った四十万の兵は、二百四十人の少年を除いて穴埋めにされたと伝わる。後に[[p:白起]]は「長平の降卒を欺いて殺した。わたしが死ぬのは当然だ」と言って自害した。",
+     "en": "[[p:趙括|Zhao Kuo]] led a last charge and was shot down. The four hundred thousand who surrendered were buried alive, the records say, all but two hundred and forty boys. Years later, ordered to die, [[p:白起|Bai Qi]] said: \"I deceived and killed the men who surrendered at Changping. I deserve to die.\""
+    }
+   ],
+   "after": {
+    "ja": "趙は国の力のほとんどを失い、秦は邯鄲を囲んだが、[[p:信陵君]]らの救援で退いた。それでも戦国の力の均衡はここで決定的に秦へ傾いた。",
+    "en": "Zhao lost most of its strength. Qin besieged Handan, and was driven off by [[p:信陵君|Lord Xinling]] and others — but the balance of the Warring States had tipped to Qin for good."
+   },
+   "read": [
+    "zhao_kuo_books"
+   ]
+  }
+ }
 }

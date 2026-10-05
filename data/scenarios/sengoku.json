@@ -5442,6 +5442,43 @@
     ],
     "fame": 6
    }
+  ],
+  [
+   "田原紹忍",
+   "Tawara Jōnin",
+   "otomo",
+   "general",
+   1530,
+   1600,
+   {
+    "from": 1560,
+    "ab": [
+     5,
+     4,
+     5,
+     4
+    ]
+   }
+  ],
+  [
+   "田北鎮周",
+   "Tagita Shigekane",
+   "otomo",
+   "general",
+   1540,
+   1578,
+   {
+    "from": 1565,
+    "ab": [
+     3,
+     7,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
   ]
  ],
  "events": [
@@ -5454,6 +5491,10 @@
     "imagawa"
    ],
    "do": [
+    [
+     "battle",
+     "okehazama"
+    ],
     [
      "rulerDies",
      "imagawa",
@@ -5548,6 +5589,10 @@
     "uesugi"
    ],
    "do": [
+    [
+     "battle",
+     "kawanakajima"
+    ],
     [
      "army",
      "takeda",
@@ -5933,6 +5978,10 @@
    ],
    "do": [
     [
+     "battle",
+     "anegawa"
+    ],
+    [
      "army",
      "azai",
      0.75
@@ -6083,6 +6132,10 @@
     "tokugawa"
    ],
    "do": [
+    [
+     "battle",
+     "mikatagahara"
+    ],
     [
      "army",
      "tokugawa",
@@ -6274,6 +6327,10 @@
     "takeda"
    ],
    "do": [
+    [
+     "battle",
+     "nagashino"
+    ],
     [
      "army",
      "takeda",
@@ -6580,6 +6637,10 @@
     "otomo"
    ],
    "do": [
+    [
+     "battle",
+     "mimikawa"
+    ],
     [
      "army",
      "otomo",
@@ -7112,6 +7173,10 @@
    ],
    "do": [
     [
+     "battle",
+     "komaki"
+    ],
+    [
      "add",
      "tokugawa",
      "prestige",
@@ -7138,6 +7203,10 @@
     "ryuzoji"
    ],
    "do": [
+    [
+     "battle",
+     "okitanawate"
+    ],
     [
      "rulerDies",
      "ryuzoji",
@@ -7503,6 +7572,10 @@
    ],
    "do": [
     [
+     "battle",
+     "suriagehara"
+    ],
+    [
      "annex",
      "date",
      "ashina"
@@ -7861,6 +7934,10 @@
     "oda"
    ],
    "do": [
+    [
+     "battle",
+     "sekigahara"
+    ],
     [
      "free",
      "tokugawa"
@@ -8236,6 +8313,10 @@
    ],
    "do": [
     [
+     "battle",
+     "osaka_summer"
+    ],
+    [
      "annex",
      "tokugawa",
      "oda"
@@ -8272,5 +8353,612 @@
    "ja": "元和偃武。大坂の陣ののち、幕府は一国一城令と武家諸法度を出した。応仁の乱から百五十年続いた戦乱の世は終わった。",
    "en": "The Genna peace. After Osaka the shogunate ordered one castle to a province and issued its laws for the warrior houses. The age of war that began with the Ōnin war a hundred and fifty years before was over."
   }
- ]
+ ],
+ "battles": {
+  "okehazama": {
+   "name": {
+    "ja": "桶狭間の戦い",
+    "en": "the battle of Okehazama"
+   },
+   "at": "kiyosu",
+   "sides": [
+    {
+     "realm": "oda",
+     "generals": [
+      "織田信長",
+      "前田利家",
+      "池田恒興"
+     ],
+     "troops": 3000
+    },
+    {
+     "realm": "imagawa",
+     "generals": [
+      "今川義元"
+     ],
+     "troops": 25000
+    }
+   ],
+   "losses": [
+    800,
+    3000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:今川義元]]は二万五千と号する大軍で尾張へ入り、松平元康 (家康) らに大高城・鷲津・丸根の砦を攻めさせた。義元の本隊五千ほどは桶狭間の山あいで休息していた。[[p:織田信長]]は清洲から二千ほどで出た。",
+    "en": "[[p:今川義元|Imagawa Yoshimoto]] entered Owari with a host said to number twenty-five thousand, and set Matsudaira Motoyasu (Ieyasu) and others against the Ōdaka castle and the forts of Washizu and Marune. Yoshimoto's own column, five thousand or so, rested in the hollows of Okehazama. [[p:織田信長|Oda Nobunaga]] rode out of Kiyosu with about two thousand."
+   },
+   "plan": {
+    "ja": "信長は夜明けに「敦盛」を舞って出陣し、熱田神宮で兵を集めた。砦が落ちたとの知らせを受けながら、善照寺砦から中島砦へ進み、昼過ぎの激しい雷雨の中を今川本隊に向かって突き進んだ。雨が上がった瞬間に襲いかかられた本隊は崩れ、義元は毛利新介に討たれた。",
+    "en": "Nobunaga danced \"Atsumori\" at dawn and rode out, gathering his men at the Atsuta shrine. Hearing the forts had fallen, he pushed on from Zenshōji to Nakajima and, in a violent thunderstorm after noon, drove straight at the Imagawa column. It broke the moment the rain stopped and he fell on it; Yoshimoto was cut down by Mōri Shinsuke."
+   },
+   "tales": [
+    {
+     "ja": "「人間五十年、下天のうちをくらぶれば、夢幻のごとくなり」。出陣の朝、信長は幸若舞「敦盛」のこの一節を舞い、湯漬けをかき込んで、わずかな供と城を飛び出したという。",
+     "en": "\"Fifty years of a man's life, beside the realm below heaven, are a dream, an illusion.\" On the morning he rode out Nobunaga danced these lines from the ballad Atsumori, gulped a bowl of rice in hot water and dashed from the castle with a handful of men."
+    },
+    {
+     "ja": "義元を討った毛利新介は、首を取るとき義元に指を食いちぎられたと伝わる。",
+     "en": "Mōri Shinsuke, who killed Yoshimoto, is said to have lost a finger, bitten off by Yoshimoto as he took his head."
+    }
+   ],
+   "after": {
+    "ja": "今川家は大きく揺らぎ、松平元康は岡崎で自立した。信長の名は一夜で天下に知られた。",
+    "en": "The Imagawa house was shaken to its roots and Matsudaira Motoyasu made himself independent at Okazaki. Overnight Nobunaga's name was known throughout the land."
+   },
+   "read": [
+    "atsumori"
+   ]
+  },
+  "kawanakajima": {
+   "name": {
+    "ja": "第四次川中島の戦い",
+    "en": "the fourth battle of Kawanakajima"
+   },
+   "at": "kaizu",
+   "sides": [
+    {
+     "realm": "takeda",
+     "generals": [
+      "武田信玄",
+      "武田信繁",
+      "山本勘助",
+      "馬場信春",
+      "高坂昌信"
+     ],
+     "troops": 20000
+    },
+    {
+     "realm": "uesugi",
+     "generals": [
+      "上杉謙信",
+      "柿崎景家"
+     ],
+     "troops": 13000
+    }
+   ],
+   "losses": [
+    4000,
+    3400
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:上杉謙信]]は妻女山に陣取り、[[p:武田信玄]]は海津城に入った。武田は兵を二つに分け、[[p:高坂昌信]]・[[p:馬場信春]]らの別働隊一万二千が妻女山を背後から突き、信玄の本隊八千が八幡原で待ち受けることにした。",
+    "en": "[[p:上杉謙信|Uesugi Kenshin]] camped on Mount Saijo; [[p:武田信玄|Takeda Shingen]] entered Kaizu castle. Takeda split his army: a detachment of twelve thousand under [[p:高坂昌信|Kōsaka Masanobu]] and [[p:馬場信春|Baba Nobuharu]] would strike the mountain from behind, while Shingen's main body of eight thousand waited on the plain of Hachimanbara."
+   },
+   "plan": {
+    "ja": "[[p:山本勘助]]の「啄木鳥の戦法」(木をつついて飛び出した虫を食う) であったが、謙信は海津城から上がる炊煙の多さで動きを見抜き、夜のうちに山を下りて霧の八幡原に陣を敷いた。霧が晴れると、目の前に上杉の全軍がいた。上杉は「車懸り」で次々と新手を繰り出し、武田の本隊は崩れかけたが、別働隊が駆けつけて上杉を挟んだ。",
+    "en": "It was [[p:山本勘助|Yamamoto Kansuke]]'s \"woodpecker\" plan — peck at the tree and catch the insects that fly out. But Kenshin read it from the many cooking fires smoking over Kaizu, came down the mountain by night and drew up in the fog on Hachimanbara. When the fog lifted, Shingen found the whole Uesugi army before him. The Uesugi sent in fresh troops wave on wave; the Takeda main body was close to breaking when the detachment arrived and caught the Uesugi between them."
+   },
+   "tales": [
+    {
+     "ja": "白い頭巾の騎馬武者がただ一騎、信玄の本陣に斬り込み、床几に座る信玄に三太刀を浴びせた。信玄は軍配で受け止めたと伝わる (一騎討ちは後の軍記の語るところ)。",
+     "en": "A horseman in a white hood rode alone into Shingen's camp and slashed three times at Shingen on his stool, who caught the blows on his war fan — so the later war tales tell."
+    },
+    {
+     "ja": "信玄の弟[[p:武田信繁]]と軍師[[p:山本勘助]]は、この戦いで討死した。信繁の家訓は、のちの武士の手本とされた。",
+     "en": "Shingen's brother [[p:武田信繁|Takeda Nobushige]] and his strategist [[p:山本勘助|Yamamoto Kansuke]] were killed in the battle; Nobushige's house rules were later held up as a model for warriors."
+    }
+   ],
+   "after": {
+    "ja": "両軍とも多くを失い、勝敗ははっきりしなかった。北信濃は武田のものとして残った。",
+    "en": "Both sides lost heavily and neither clearly won; northern Shinano stayed Takeda land."
+   },
+   "read": [
+    "kitsutsuki"
+   ]
+  },
+  "anegawa": {
+   "name": {
+    "ja": "姉川の戦い",
+    "en": "the battle of the Ane river"
+   },
+   "at": "odani",
+   "sides": [
+    {
+     "realm": "oda",
+     "generals": [
+      "織田信長",
+      "柴田勝家",
+      "森可成",
+      "徳川家康"
+     ],
+     "troops": 28000
+    },
+    {
+     "realm": "azai",
+     "generals": [
+      "浅井長政"
+     ],
+     "troops": 13000
+    }
+   ],
+   "losses": [
+    800,
+    3000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "織田・徳川の連合軍は姉川の南に陣し、北岸に浅井・朝倉の連合軍が並んだ。徳川は朝倉、織田は浅井と向き合った。",
+    "en": "Oda and Tokugawa drew up south of the Ane; Azai and Asakura faced them on the north bank. Tokugawa took on Asakura, Oda the Azai."
+   },
+   "plan": {
+    "ja": "浅井の磯野員昌は織田の陣を十三段のうち十一段まで突き崩したと伝わる。だが徳川勢が朝倉を押し返し、[[p:榊原康政]]が横から朝倉を突いて崩すと、浅井も支えきれずに退いた。",
+    "en": "Isono Kazumasa of the Azai is said to have broken eleven of the thirteen lines of the Oda array. But the Tokugawa pushed the Asakura back, [[p:榊原康政|Sakakibara Yasumasa]] took them in the flank, and when the Asakura broke the Azai could not hold either."
+   },
+   "tales": [
+    {
+     "ja": "姉川の水は血で赤く染まり、のちに「血原」「血川」と呼ばれる地名が残ったという。",
+     "en": "The waters of the Ane ran red, and places there were called \"the Field of Blood\" and \"the River of Blood\" ever after, they say."
+    }
+   ],
+   "after": {
+    "ja": "浅井・朝倉は敗れたものの滅びず、本願寺や武田と結んで信長を包囲していく。",
+    "en": "Azai and Asakura were beaten but not destroyed; with the Ishiyama believers and the Takeda they went on to encircle Nobunaga."
+   }
+  },
+  "mikatagahara": {
+   "name": {
+    "ja": "三方ヶ原の戦い",
+    "en": "the battle of Mikatagahara"
+   },
+   "at": "hikuma",
+   "sides": [
+    {
+     "realm": "takeda",
+     "generals": [
+      "武田信玄",
+      "山県昌景",
+      "馬場信春"
+     ],
+     "troops": 27000
+    },
+    {
+     "realm": "tokugawa",
+     "generals": [
+      "徳川家康",
+      "本多忠勝",
+      "酒井忠次"
+     ],
+     "troops": 11000
+    }
+   ],
+   "losses": [
+    200,
+    2000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "西へ進む[[p:武田信玄]]の大軍は、浜松城を素通りして三方ヶ原の台地へ上がった。家康は織田の援軍を合わせ一万一千で城を出て、背後を襲おうとした。",
+    "en": "Shingen's great army marched west past Hamamatsu castle and climbed onto the Mikatagahara plateau. Ieyasu came out with eleven thousand, Oda reinforcements included, to fall on its rear."
+   },
+   "plan": {
+    "ja": "武田は台地の上で振り返り、「魚鱗」の陣で待ち受けていた。家康は横に広い「鶴翼」で挑んだが、夕暮れから二時間ほどで崩れ、浜松城へ逃げ戻った。",
+    "en": "On the plateau the Takeda turned and waited in a \"fish scale\" wedge. Ieyasu came on in a wide \"crane's wing\" and in two hours of dusk was broken and fled back to Hamamatsu."
+   },
+   "tales": [
+    {
+     "ja": "城に戻った家康は、門を開けたままかがり火を焚かせた (空城の計)。追ってきた[[p:山県昌景]]は罠を疑って引き返したという。",
+     "en": "Back in the castle Ieyasu had the gates left open and bonfires lit; pursuing, [[p:山県昌景|Yamagata Masakage]] suspected a trap and turned back, it is said."
+    },
+    {
+     "ja": "家康はこの敗戦の苦い顔を絵師に描かせ、慢心の戒めとしたと伝わる (いわゆる「しかみ像」。この由来は後世の言い伝えともいう)。",
+     "en": "Ieyasu is said to have had a painter draw his face twisted with the bitterness of this defeat, as a warning against pride — though the story behind the portrait may be a later tradition."
+    }
+   ],
+   "after": {
+    "ja": "信玄はそのまま西へ進んだが、翌年の春に病に倒れ、甲斐へ帰る途中で世を去った。",
+    "en": "Shingen marched on west, but fell ill the next spring and died on the way home to Kai."
+   }
+  },
+  "nagashino": {
+   "name": {
+    "ja": "長篠の戦い",
+    "en": "the battle of Nagashino"
+   },
+   "at": "okazaki",
+   "sides": [
+    {
+     "realm": "oda",
+     "generals": [
+      "織田信長",
+      "羽柴秀吉",
+      "丹羽長秀",
+      "滝川一益",
+      "徳川家康"
+     ],
+     "troops": 38000
+    },
+    {
+     "realm": "takeda",
+     "generals": [
+      "武田勝頼",
+      "山県昌景",
+      "馬場信春"
+     ],
+     "troops": 15000
+    }
+   ],
+   "losses": [
+    600,
+    10000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:武田勝頼]]は長篠城を囲んだ。救援に来た織田・徳川は設楽原の連吾川沿いに陣を敷き、川の手前に二重三重の馬防柵を築いた。",
+    "en": "[[p:武田勝頼|Takeda Katsuyori]] besieged Nagashino castle. The Oda and Tokugawa came to relieve it and drew up along the Rengo stream at Shitaragahara, building double and triple palisades against horse in front of it."
+   },
+   "plan": {
+    "ja": "織田の[[p:酒井忠次]]の別働隊が夜のうちに鳶ノ巣山砦を奪い、武田は背後を断たれた。勝頼は決戦を選び、[[p:山県昌景]]らの軍勢が柵に向かって次々と攻めかかったが、柵の内から撃ちかけられる多数の鉄砲と弓に阻まれた。昼過ぎまでに武田の名将の多くが討たれた。",
+    "en": "A detachment under [[p:酒井忠次|Sakai Tadatsugu]] took the Tobinosuyama fort by night, cutting the Takeda off behind. Katsuyori chose battle; [[p:山県昌景|Yamagata Masakage]] and the rest charged the palisades wave after wave, and were stopped by the guns and bows firing from behind them. By early afternoon most of Takeda's great captains were dead."
+   },
+   "tales": [
+    {
+     "ja": "「鉄砲三千挺の三段撃ち」は後世の軍記が広めた話で、実際の数や撃ち方ははっきりしない。それでも多くの鉄砲を柵とともに使ったことは確かとされる。",
+     "en": "\"Three thousand guns firing in three ranks\" is a tale spread by later war chronicles; the true numbers and drill are uncertain. That many guns were used together with the palisades is beyond doubt."
+    },
+    {
+     "ja": "長篠城では、援軍を求めて城を抜け出した鳥居強右衛門が武田に捕らえられ、「援軍は来ない」と城に叫ぶよう命じられた。彼は「援軍はすぐ来る」と叫び、磔にされた。",
+     "en": "At Nagashino castle, Torii Suneemon slipped out to fetch help, was caught by the Takeda and ordered to shout to the castle that no help was coming. He shouted that help was near, and was crucified."
+    }
+   ],
+   "after": {
+    "ja": "武田は山県・馬場・内藤らを失い、急速に力を落とした。七年後、武田家は滅ぶ。",
+    "en": "Takeda lost Yamagata, Baba, Naitō and many more, and its strength drained away; seven years later the house was gone."
+   },
+   "read": [
+    "teppo"
+   ]
+  },
+  "mimikawa": {
+   "name": {
+    "ja": "耳川の戦い",
+    "en": "the battle of the Mimi river"
+   },
+   "at": "tonokori",
+   "sides": [
+    {
+     "realm": "shimazu",
+     "generals": [
+      "島津義久",
+      "島津義弘",
+      "島津家久"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "otomo",
+     "generals": [
+      "田原紹忍",
+      "田北鎮周"
+     ],
+     "troops": 43000
+    }
+   ],
+   "losses": [
+    3000,
+    20000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:大友宗麟]]は日向に大軍を送り、島津方の高城を囲ませた。[[p:島津義久]]は救援に向かい、高城川 (小丸川) を挟んで大友軍と対した。",
+    "en": "[[p:大友宗麟|Ōtomo Sōrin]] sent a great army into Hyūga to besiege the Shimazu castle of Taka; [[p:島津義久|Shimazu Yoshihisa]] came to its aid and faced the Ōtomo across the Takajō river."
+   },
+   "plan": {
+    "ja": "功を焦る[[p:田北鎮周]]が川を渡って攻めかかると、島津は少数の囮を退かせ、伏せていた左右の兵で包み込んだ (釣り野伏せ)。崩れた大友軍は耳川まで追われ、増水した川で多くが溺れた。",
+    "en": "The impatient [[p:田北鎮周|Tagita Shigekane]] crossed and attacked; the Shimazu let a small decoy fall back and closed on the pursuers with men hidden on both sides — the \"fishing ambush\". The broken Ōtomo army was chased to the Mimi river, where many drowned in the flood."
+   },
+   "tales": [
+    {
+     "ja": "大友軍の将たちは仲が悪く、総大将の[[p:田原紹忍]]は戦いの最中も采配が定まらなかったという。",
+     "en": "The Ōtomo generals were at odds, and their commander [[p:田原紹忍|Tawara Jōnin]] could not settle on orders even as the battle went on."
+    }
+   ],
+   "after": {
+    "ja": "大友は多くの重臣を失い、島津は九州の覇権を目指して北上する。",
+    "en": "Ōtomo lost many of its leading men; the Shimazu turned north, aiming for mastery of Kyūshū."
+   },
+   "read": [
+    "tsurinobuse"
+   ]
+  },
+  "okitanawate": {
+   "name": {
+    "ja": "沖田畷の戦い",
+    "en": "the battle of Okitanawate"
+   },
+   "at": "hinoe",
+   "sides": [
+    {
+     "realm": "shimazu",
+     "generals": [
+      "島津家久"
+     ],
+     "troops": 6000
+    },
+    {
+     "realm": "ryuzoji",
+     "generals": [
+      "龍造寺隆信",
+      "鍋島直茂"
+     ],
+     "troops": 25000
+    }
+   ],
+   "losses": [
+    250,
+    3000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:龍造寺隆信]]は[[p:有馬晴信]]を攻めた。[[p:島津家久]]はわずかな兵で有馬を助け、湿地の中を細い畷 (あぜ道) が通る沖田に陣を敷いた。",
+    "en": "[[p:龍造寺隆信|Ryūzōji Takanobu]] marched on [[p:有馬晴信|Arima Harunobu]]. [[p:島津家久|Shimazu Iehisa]] came to Arima's aid with a small force and took his stand at Okita, where narrow causeways ran through the marsh."
+   },
+   "plan": {
+    "ja": "大軍の龍造寺勢は細い道に縦長に伸び、湿地に足を取られた。島津は囮で誘い込み、左右の茂みから鉄砲と弓で撃ちかけて斬り込んだ。乱戦の中で隆信は討たれた。",
+    "en": "The great Ryūzōji army stretched thin along the narrow paths and bogged down in the marsh. The Shimazu drew it in with a decoy and struck from the thickets on both sides with guns and bows, then swords. In the melee Takanobu was killed."
+   },
+   "tales": [
+    {
+     "ja": "肥満で馬に乗れなかった隆信は、六人担ぎの輿に乗って戦場に出ていたと伝わる。",
+     "en": "Takanobu, too stout to ride, is said to have gone into battle in a palanquin carried by six men."
+    }
+   ],
+   "after": {
+    "ja": "龍造寺は島津に従い、九州は島津・大友の争いとなった。",
+    "en": "Ryūzōji bowed to the Shimazu, and Kyūshū was left to Shimazu and Ōtomo."
+   },
+   "read": [
+    "tsurinobuse"
+   ]
+  },
+  "komaki": {
+   "name": {
+    "ja": "小牧・長久手の戦い",
+    "en": "the battle of Komaki and Nagakute"
+   },
+   "at": "kiyosu",
+   "sides": [
+    {
+     "realm": "tokugawa",
+     "generals": [
+      "徳川家康",
+      "井伊直政",
+      "本多忠勝"
+     ],
+     "troops": 16000
+    },
+    {
+     "realm": "oda",
+     "generals": [
+      "羽柴秀吉",
+      "池田恒興"
+     ],
+     "troops": 60000
+    }
+   ],
+   "losses": [
+    600,
+    2500
+   ],
+   "winner": 0,
+   "months": 6,
+   "deploy": {
+    "ja": "織田信雄と結んだ家康は小牧山に陣を構え、秀吉は大軍で対した。両軍とも砦を築いて睨み合った。",
+    "en": "Allied with Oda Nobukatsu, Ieyasu fortified Mount Komaki; Hideyoshi faced him with a far larger army, and both sides dug in behind their forts."
+   },
+   "plan": {
+    "ja": "[[p:池田恒興]]らは手薄な家康の本国三河を突く「中入り」を進言し、二万の別働隊が動いた。家康はこれを察してひそかに追い、長久手で別働隊を破って池田恒興と森長可を討ち取った。",
+    "en": "[[p:池田恒興|Ikeda Tsuneoki]] proposed a raid deep into Ieyasu's home province of Mikawa, and a detachment of twenty thousand set out. Ieyasu saw it, followed in secret, and destroyed it at Nagakute, killing Ikeda Tsuneoki and Mori Nagayoshi."
+   },
+   "tales": [
+    {
+     "ja": "[[p:井伊直政]]の部隊は甲冑を赤一色に揃えた「赤備え」で、敵に恐れられたという。",
+     "en": "[[p:井伊直政|Ii Naomasa]]'s men wore armour all in red — the \"red guard\" — and their enemies dreaded them."
+    }
+   ],
+   "after": {
+    "ja": "秀吉は戦いでは勝てなかったが、信雄と単独で和を結んで家康の大義名分を奪った。家康はのちに秀吉に臣従する。",
+    "en": "Hideyoshi could not win in the field, but made a separate peace with Nobukatsu and took away Ieyasu's cause; Ieyasu later bowed to him."
+   },
+   "read": [
+    "akazonae"
+   ]
+  },
+  "suriagehara": {
+   "name": {
+    "ja": "摺上原の戦い",
+    "en": "the battle of Suriagehara"
+   },
+   "at": "kurokawa",
+   "sides": [
+    {
+     "realm": "date",
+     "generals": [
+      "伊達政宗",
+      "伊達成実",
+      "片倉景綱"
+     ],
+     "troops": 23000
+    },
+    {
+     "realm": "ashina",
+     "generals": [
+      "蘆名義広"
+     ],
+     "troops": 16000
+    }
+   ],
+   "losses": [
+    300,
+    1800
+   ],
+   "winner": 0,
+   "months": 1,
+   "plan": {
+    "ja": "[[p:伊達政宗]]は磐梯山の麓、摺上原で[[p:蘆名義広]]と戦った。初めは向かい風に砂塵を浴びて苦しんだが、風向きが変わると攻勢に転じ、蘆名勢を日橋川へ追い落とした。",
+    "en": "[[p:伊達政宗|Date Masamune]] met [[p:蘆名義広|Ashina Yoshihiro]] at Suriagehara under Mount Bandai. At first the wind drove dust into his men's faces; when it turned, he went over to the attack and drove the Ashina into the Nippashi river."
+   },
+   "tales": [
+    {
+     "ja": "蘆名家中には政宗に内通した者が多く、戦いの最中に兵を動かさない家臣もいたという。",
+     "en": "Many in the Ashina house were secretly in touch with Masamune, and some of its men never moved during the battle."
+    }
+   ],
+   "after": {
+    "ja": "政宗は会津を得て南奥州の大半を手にしたが、翌年の小田原征伐に遅参し、秀吉に会津を取り上げられる。",
+    "en": "Masamune won Aizu and most of southern Ōu — and the next year, late to the siege of Odawara, lost Aizu to Hideyoshi."
+   }
+  },
+  "sekigahara": {
+   "name": {
+    "ja": "関ヶ原の戦い",
+    "en": "the battle of Sekigahara"
+   },
+   "at": "ogaki",
+   "sides": [
+    {
+     "realm": "tokugawa",
+     "generals": [
+      "徳川家康",
+      "井伊直政",
+      "本多忠勝",
+      "福島正則"
+     ],
+     "troops": 75000
+    },
+    {
+     "realm": "oda",
+     "generals": [
+      "石田三成",
+      "大谷吉継",
+      "小西行長",
+      "宇喜多秀家",
+      "島津義弘",
+      "小早川秀秋"
+     ],
+     "troops": 80000
+    }
+   ],
+   "losses": [
+    4000,
+    8000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "西軍は[[p:石田三成]]・[[p:宇喜多秀家]]・[[p:小西行長]]・[[p:大谷吉継]]らが関ヶ原の西に陣を敷き、南の松尾山に[[p:小早川秀秋]]、東の南宮山に毛利秀元・吉川広家らが陣取って、東軍を包み込む形をとった。東軍は[[p:福島正則]]を先鋒に、家康は桃配山に本陣を置いた。",
+    "en": "The western army — [[p:石田三成|Ishida Mitsunari]], [[p:宇喜多秀家|Ukita Hideie]], [[p:小西行長|Konishi Yukinaga]], [[p:大谷吉継|Ōtani Yoshitsugu]] and others — drew up on the west side of Sekigahara, with [[p:小早川秀秋|Kobayakawa Hideaki]] on Mount Matsuo to the south and Mōri Hidemoto and Kikkawa Hiroie on Mount Nangū to the east, as if to enfold the eastern army. The east sent [[p:福島正則|Fukushima Masanori]] forward; Ieyasu set his headquarters on Mount Momokubari."
+   },
+   "plan": {
+    "ja": "朝の霧の中、[[p:井伊直政]]の抜け駆けで戦いが始まった。西軍は善戦し、昼まで一進一退が続いた。毛利勢は吉川広家が東軍と通じていて動かず、松尾山の[[p:小早川秀秋]]も動かなかった。昼過ぎ、家康が松尾山に鉄砲を撃ちかけると (問鉄砲。後世の話ともいう)、秀秋は東軍に寝返って[[p:大谷吉継]]の陣に攻め下った。脇坂ら四将も寝返り、西軍は総崩れとなった。",
+    "en": "In the morning fog [[p:井伊直政|Ii Naomasa]] jumped the start and the battle began. The west fought well, and until noon neither side gave way. The Mōri did not move — Kikkawa Hiroie had a secret understanding with the east — and neither did Kobayakawa on Mount Matsuo. After noon Ieyasu had guns fired at the mountain (a later story, some say); Hideaki went over to the east and charged down on [[p:大谷吉継|Ōtani Yoshitsugu]]. Four more commanders turned, and the western army collapsed."
+   },
+   "tales": [
+    {
+     "ja": "病で目が見えなくなっていた[[p:大谷吉継]]は、寝返りを予期して備えていたが支えきれず自害した。親友の[[p:石田三成]]の頼みで、負けを承知で西軍に加わっていたという。",
+     "en": "[[p:大谷吉継|Ōtani Yoshitsugu]], half blind with illness, had foreseen the betrayal and prepared for it, but could not hold, and took his own life. He had joined the west knowing it would lose, they say, because his friend [[p:石田三成|Ishida Mitsunari]] asked him."
+    },
+    {
+     "ja": "[[p:島津義弘]]は敵中を正面突破して退却した (島津の退き口)。甥の豊久らが次々と殿に残って討たれ、千五百の兵のうち薩摩に帰り着いたのは数十人であったという。",
+     "en": "[[p:島津義弘|Shimazu Yoshihiro]] retreated by cutting straight through the enemy — \"the Shimazu withdrawal\". His nephew Toyohisa and others stayed behind one after another to hold the pursuers and died; of fifteen hundred men only a few dozen reached Satsuma."
+    },
+    {
+     "ja": "捕らえられた三成は、処刑の前に喉が渇いて湯を求め、代わりに干し柿を勧められると「痰の毒だ」と断った。「大志を抱く者は最期まで命を惜しむ」と言ったという。",
+     "en": "Captured, Mitsunari asked for hot water before his execution; offered a dried persimmon instead, he refused it as bad for the phlegm. \"A man with great aims guards his life to the end,\" he said."
+    }
+   ],
+   "after": {
+    "ja": "戦いは一日で終わり、家康は西軍の大名の領地を取り上げて味方に分け与えた。三年後、家康は征夷大将軍となる。",
+    "en": "The battle was over in a day. Ieyasu stripped the western daimyo of their lands and handed them to his own side; three years later he was shogun."
+   },
+   "read": [
+    "shimazu_noki",
+    "akazonae"
+   ]
+  },
+  "osaka_summer": {
+   "name": {
+    "ja": "大坂夏の陣",
+    "en": "the summer siege of Osaka"
+   },
+   "at": "ishiyama",
+   "sides": [
+    {
+     "realm": "tokugawa",
+     "generals": [
+      "徳川家康",
+      "徳川秀忠"
+     ],
+     "troops": 155000
+    },
+    {
+     "realm": "oda",
+     "generals": [
+      "豊臣秀頼",
+      "真田信繁"
+     ],
+     "troops": 55000
+    }
+   ],
+   "losses": [
+    10000,
+    20000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "冬の陣の和議で堀を埋められた大坂城は守れず、豊臣方は城を出て天王寺・岡山口に陣を敷いた。家康は天王寺口、秀忠は岡山口から攻めた。",
+    "en": "With its moats filled in after the winter peace, Osaka castle could not be held; the Toyotomi side came out and drew up at Tennōji and Okayama. Ieyasu attacked at Tennōji, Hidetada at Okayama."
+   },
+   "plan": {
+    "ja": "[[p:真田信繁]]は天王寺口から家康の本陣めがけて突撃し、三度にわたって斬り込んで本陣の旗を倒した。家康は一時、自害を覚悟したとも伝わる。だが数に勝る徳川勢が押し返し、信繁は安居神社で討たれた。城には火が放たれた。",
+    "en": "[[p:真田信繁|Sanada Nobushige]] charged from Tennōji straight at Ieyasu's headquarters, broke in three times and brought down its standard; Ieyasu, some say, was ready to kill himself. But the larger Tokugawa army pushed back, and Nobushige was killed at the Yasui shrine. The castle was set on fire."
+   },
+   "tales": [
+    {
+     "ja": "[[p:真田信繁]]を敵方の島津家の記録は「日本一の兵」と讃えた。",
+     "en": "The records of the Shimazu, on the other side, called [[p:真田信繁|Sanada Nobushige]] \"the finest soldier in Japan\"."
+    },
+    {
+     "ja": "秀頼と[[p:淀殿]]は山里曲輪の蔵に籠もり、助命の願いが聞き入れられないと知って自害した。",
+     "en": "Hideyori and [[p:淀殿|Lady Yodo]] shut themselves in a storehouse in the inner citadel, and when they learned no mercy would be given, took their own lives."
+    }
+   ],
+   "after": {
+    "ja": "豊臣家は滅び、元号は元和と改められた。応仁の乱から続いた戦乱の世は終わった。",
+    "en": "The house of Toyotomi was gone and the era was renamed Genna. The age of war that had begun with the Ōnin war was over."
+   },
+   "read": [
+    "sanada_maru"
+   ]
+  }
+ }
 }

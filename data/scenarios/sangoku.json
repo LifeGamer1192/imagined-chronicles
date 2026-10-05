@@ -3854,8 +3854,8 @@
     ]
    ],
    "at": "chengdu",
-   "ja": "[[p:劉焉]]の進言で州の長官に兵と民を治める大きな権限 (州牧) が与えられた。劉焉は自ら益州牧となって蜀に入り、道を閉ざして独立の構えをとった。",
-   "en": "On [[p:劉焉|Liu Yan]]'s advice the provincial governors were given great powers over troops and people. Liu Yan made himself governor of Yi, went into Shu, closed the roads and stood apart."
+   "ja": "[[p:劉焉]]の進言で州の長官に兵と民を治める大きな権限 (州牧) が与えられた。[[p:劉焉]]は自ら益州牧となって蜀に入り、道を閉ざして独立の構えをとった。",
+   "en": "On [[p:劉焉|Liu Yan]]'s advice the provincial governors were given great powers over troops and people. [[p:劉焉|Liu Yan]] made himself governor of Yi, went into Shu, closed the roads and stood apart."
   },
   {
    "id": "eunuchs",
@@ -3899,7 +3899,7 @@
     ]
    ],
    "at": "luoyang",
-   "ja": "[[p:董卓]]は少帝を廃して陳留王を立てた ([[p:献帝]])。洛陽の宮殿は董卓の兵がほしいままに荒らした。",
+   "ja": "[[p:董卓]]は少帝を廃して陳留王を立てた ([[p:献帝]])。洛陽の宮殿は[[p:董卓]]の兵がほしいままに荒らした。",
    "en": "[[p:董卓|Dong Zhuo]] deposed the young emperor and set up the Prince of Chenliu ([[p:献帝|Emperor Xian]]). His soldiers plundered Luoyang as they pleased."
   },
   {
@@ -4072,8 +4072,8 @@
    ],
    "imp": 3,
    "at": "changan",
-   "ja": "[[p:王允]]の計で、[[p:董卓]]は養子の[[p:呂布]]に刺し殺された。長安の人々は歌い踊って喜んだが、董卓の部将李傕・郭汜が長安を攻め落とし、王允を殺した。",
-   "en": "By [[p:王允|Wang Yun]]'s plan [[p:董卓|Dong Zhuo]] was stabbed to death by his adopted son [[p:呂布|Lü Bu]]. Chang'an danced in the streets — until Dong's captains Li Jue and Guo Si stormed the city and killed Wang Yun."
+   "ja": "[[p:王允]]の計で、[[p:董卓]]は養子の[[p:呂布]]に刺し殺された。長安の人々は歌い踊って喜んだが、[[p:董卓]]の部将李傕・郭汜が長安を攻め落とし、[[p:王允]]を殺した。",
+   "en": "By [[p:王允|Wang Yun]]'s plan [[p:董卓|Dong Zhuo]] was stabbed to death by his adopted son [[p:呂布|Lü Bu]]. Chang'an danced in the streets — until Dong's captains Li Jue and Guo Si stormed the city and killed [[p:王允|Wang Yun]]."
   },
   {
    "id": "qingzhou",
@@ -4147,8 +4147,8 @@
     ]
    ],
    "at": "puyang",
-   "ja": "{r_cao}が徐州に出ている隙に、[[p:陳宮]]らが[[p:呂布]]を迎え入れて兗州で背いた。[[p:曹操]]は濮陽で呂布と一年余り戦った。",
-   "en": "While {r_cao} was away in Xu, [[p:陳宮|Chen Gong]] and others let [[p:呂布|Lü Bu]] into Yan and rose; Cao fought Lü Bu at Puyang for more than a year."
+   "ja": "{r_cao}が徐州に出ている隙に、[[p:陳宮]]らが[[p:呂布]]を迎え入れて兗州で背いた。[[p:曹操]]は濮陽で[[p:呂布]]と一年余り戦った。",
+   "en": "While {r_cao} was away in Xu, [[p:陳宮|Chen Gong]] and others let [[p:呂布|Lü Bu]] into Yan and rose; Cao fought [[p:呂布|Lü Bu]] at Puyang for more than a year."
   },
   {
    "id": "liubei_xu",
@@ -4378,7 +4378,7 @@
    ],
    "imp": 3,
    "at": "xiapi",
-   "ja": "{r_cao}は下邳を水攻めにした。部下に縛り上げられて降った[[p:呂布]]は「縄がきつい」と言ったが、[[p:曹操]]は[[p:劉備]]の一言で呂布を斬った。",
+   "ja": "{r_cao}は下邳を水攻めにした。部下に縛り上げられて降った[[p:呂布]]は「縄がきつい」と言ったが、[[p:曹操]]は[[p:劉備]]の一言で[[p:呂布]]を斬った。",
    "en": "{r_cao} flooded Xiapi. [[p:呂布|Lü Bu]], bound and handed over by his own men, complained the ropes were too tight; at a word from [[p:劉備|Liu Bei]], Cao had him executed."
   },
   {
@@ -4429,8 +4429,8 @@
     ]
    ],
    "at": "shouchun",
-   "ja": "落ちぶれた[[p:袁術]]は、蜜水を求めても得られず、「袁術ともあろう者がこのざまか」と叫んで血を吐いて死んだ。",
-   "en": "Fallen on hard times, [[p:袁術|Yuan Shu]] asked for honey water and there was none. \"Has Yuan Shu come to this?\" he cried, and died vomiting blood."
+   "ja": "落ちぶれた[[p:袁術]]は、蜜水を求めても得られず、「[[p:袁術]]ともあろう者がこのざまか」と叫んで血を吐いて死んだ。",
+   "en": "Fallen on hard times, [[p:袁術|Yuan Shu]] asked for honey water and there was none. \"Has [[p:袁術|Yuan Shu]] come to this?\" he cried, and died vomiting blood."
   },
   {
    "id": "sunce_dies",
@@ -4461,6 +4461,10 @@
     "yuanshao"
    ],
    "do": [
+    [
+     "battle",
+     "guandu"
+    ],
     [
      "army",
      "yuanshao",
@@ -4589,8 +4593,8 @@
    "do": [],
    "imp": 3,
    "at": "xinye",
-   "ja": "新野にいた[[p:劉備]]は、隆中の[[p:諸葛亮]]の庵を三度訪ねてようやく会えた。諸葛亮は荊州と益州を取って天下を三分する策を説いた (天下三分の計)。",
-   "en": "[[p:劉備|Liu Bei]], at Xinye, called three times at [[p:諸葛亮|Zhuge Liang]]'s cottage in Longzhong before he was received. Zhuge Liang laid out his plan: take Jing and Yi and divide the realm in three."
+   "ja": "新野にいた[[p:劉備]]は、隆中の[[p:諸葛亮]]の庵を三度訪ねてようやく会えた。[[p:諸葛亮]]は荊州と益州を取って天下を三分する策を説いた (天下三分の計)。",
+   "en": "[[p:劉備|Liu Bei]], at Xinye, called three times at [[p:諸葛亮|Zhuge Liang]]'s cottage in Longzhong before he was received. [[p:諸葛亮|Zhuge Liang]] laid out his plan: take Jing and Yi and divide the realm in three."
   },
   {
    "id": "liubiao_end",
@@ -4618,8 +4622,8 @@
    ],
    "imp": 3,
    "at": "xiangyang",
-   "ja": "[[p:劉表]]が病死すると、子の[[p:劉琮]]は戦わずに{n_cao}に降った。南へ逃れる[[p:劉備]]の一行は長坂で追いつかれ、[[p:趙雲]]は劉備の幼子を抱いて敵中を駆け抜けた。",
-   "en": "When [[p:劉表|Liu Biao]] died, his son [[p:劉琮|Liu Cong]] surrendered to {n_cao} without a fight. [[p:劉備|Liu Bei]]'s column fleeing south was overtaken at Changban; [[p:趙雲|Zhao Yun]] rode through the enemy carrying Liu Bei's infant son."
+   "ja": "[[p:劉表]]が病死すると、子の[[p:劉琮]]は戦わずに{n_cao}に降った。南へ逃れる[[p:劉備]]の一行は長坂で追いつかれ、[[p:趙雲]]は[[p:劉備]]の幼子を抱いて敵中を駆け抜けた。",
+   "en": "When [[p:劉表|Liu Biao]] died, his son [[p:劉琮|Liu Cong]] surrendered to {n_cao} without a fight. [[p:劉備|Liu Bei]]'s column fleeing south was overtaken at Changban; [[p:趙雲|Zhao Yun]] rode through the enemy carrying [[p:劉備|Liu Bei]]'s infant son."
   },
   {
    "id": "chibi",
@@ -4630,6 +4634,10 @@
     "wu"
    ],
    "do": [
+    [
+     "battle",
+     "chibi"
+    ],
     [
      "army",
      "cao",
@@ -4650,7 +4658,7 @@
    ],
    "imp": 3,
    "at": "chibi",
-   "ja": "赤壁の戦い。{r_wu}は[[p:周瑜]]に兵を預け、[[p:劉備]]と結んで{n_cao}の大軍を長江に迎えた。[[p:黄蓋]]の偽りの降伏とともに火を放った船が[[p:曹操]]の船団を焼き、疫病にも苦しんだ曹操軍は北へ退いた。",
+   "ja": "赤壁の戦い。{r_wu}は[[p:周瑜]]に兵を預け、[[p:劉備]]と結んで{n_cao}の大軍を長江に迎えた。[[p:黄蓋]]の偽りの降伏とともに火を放った船が[[p:曹操]]の船団を焼き、疫病にも苦しんだ[[p:曹操]]軍は北へ退いた。",
    "en": "The battle of the Red Cliffs. {r_wu} gave [[p:周瑜|Zhou Yu]] command and, allied with [[p:劉備|Liu Bei]], met the great host of {n_cao} on the Yangtze. Fire ships sent in with [[p:黄蓋|Huang Gai]]'s false surrender burned Cao's fleet; plagued by sickness too, Cao's army withdrew north."
   },
   {
@@ -4676,7 +4684,7 @@
    ],
    "imp": 3,
    "at": "changsha",
-   "ja": "[[p:劉備]]は荊州南部の長沙・零陵・桂陽・武陵の四郡を平らげ、ついに自らの地盤を得た。[[p:孫権]]は妹を劉備に嫁がせて同盟を固めた。",
+   "ja": "[[p:劉備]]は荊州南部の長沙・零陵・桂陽・武陵の四郡を平らげ、ついに自らの地盤を得た。[[p:孫権]]は妹を[[p:劉備]]に嫁がせて同盟を固めた。",
    "en": "[[p:劉備|Liu Bei]] took the four southern commanderies of Jing — Changsha, Lingling, Guiyang and Wuling — and had at last a base of his own. [[p:孫権|Sun Quan]] sealed the alliance by marrying his sister to him."
   },
   {
@@ -4883,6 +4891,10 @@
    ],
    "do": [
     [
+     "battle",
+     "hefei"
+    ],
+    [
      "add",
      "wu",
      "prestige",
@@ -4897,8 +4909,8 @@
    ],
    "imp": 3,
    "at": "hefei",
-   "ja": "合肥の戦い。[[p:張遼]]はわずか八百の兵で十万の{n_wu}軍に斬り込み、[[p:孫権]]をあと一歩まで追い詰めた。江東では泣く子も「張遼が来る」と聞くと泣きやんだという。",
-   "en": "The battle of Hefei. With just eight hundred men [[p:張遼|Zhang Liao]] charged the hundred thousand of {n_wu} and came within a step of [[p:孫権|Sun Quan]]. In the east, it is said, crying children fell silent at the words \"Zhang Liao is coming\"."
+   "ja": "合肥の戦い。[[p:張遼]]はわずか八百の兵で十万の{n_wu}軍に斬り込み、[[p:孫権]]をあと一歩まで追い詰めた。江東では泣く子も「[[p:張遼]]が来る」と聞くと泣きやんだという。",
+   "en": "The battle of Hefei. With just eight hundred men [[p:張遼|Zhang Liao]] charged the hundred thousand of {n_wu} and came within a step of [[p:孫権|Sun Quan]]. In the east, it is said, crying children fell silent at the words \"[[p:張遼|Zhang Liao]] is coming\"."
   },
   {
    "id": "zhanglu_end",
@@ -4965,6 +4977,10 @@
     "shu"
    ],
    "do": [
+    [
+     "battle",
+     "dingjun"
+    ],
     [
      "cede",
      "cao",
@@ -5033,7 +5049,7 @@
    ],
    "imp": 3,
    "at": "xiangyang",
-   "ja": "[[p:関羽]]は樊城を囲み、長雨で漢水があふれた機に[[p:于禁]]の七軍を水没させて降した。関羽の威名は中原を震わせ、[[p:曹操]]は都を移すことさえ考えた。",
+   "ja": "[[p:関羽]]は樊城を囲み、長雨で漢水があふれた機に[[p:于禁]]の七軍を水没させて降した。[[p:関羽]]の威名は中原を震わせ、[[p:曹操]]は都を移すことさえ考えた。",
    "en": "[[p:関羽|Guan Yu]] besieged Fancheng; when long rains flooded the Han river, he drowned [[p:于禁|Yu Jin]]'s seven armies and took his surrender. His name shook the Central Plain, and [[p:曹操|Cao Cao]] even thought of moving the capital."
   },
   {
@@ -5059,8 +5075,8 @@
    ],
    "imp": 3,
    "at": "jiangling",
-   "ja": "[[p:呂蒙]]は兵を商人に変装させて長江を渡り、[[p:関羽]]の留守の荊州を奪った。退路を断たれた関羽は捕らえられて斬られた。",
-   "en": "[[p:呂蒙|Lü Meng]] disguised his soldiers as merchants, crossed the Yangtze and took Jing behind [[p:関羽|Guan Yu]]'s back. Cut off, Guan Yu was captured and executed."
+   "ja": "[[p:呂蒙]]は兵を商人に変装させて長江を渡り、[[p:関羽]]の留守の荊州を奪った。退路を断たれた[[p:関羽]]は捕らえられて斬られた。",
+   "en": "[[p:呂蒙|Lü Meng]] disguised his soldiers as merchants, crossed the Yangtze and took Jing behind [[p:関羽|Guan Yu]]'s back. Cut off, [[p:関羽|Guan Yu]] was captured and executed."
   },
   {
    "id": "cao_cao_dies",
@@ -5154,6 +5170,10 @@
    ],
    "do": [
     [
+     "battle",
+     "yiling"
+    ],
+    [
      "army",
      "shu",
      0.4
@@ -5217,8 +5237,8 @@
    ],
    "imp": 3,
    "at": "baidi",
-   "ja": "[[p:劉備]]は白帝城で世を去った。死に臨んで[[p:諸葛亮]]に「子が補佐に足る者なら補佐せよ。才がなければ、君が国を取れ」と言った。諸葛亮は呉と和を結び直した。",
-   "en": "[[p:劉備|Liu Bei]] died at Baidi. On his deathbed he told [[p:諸葛亮|Zhuge Liang]]: \"If my son is worth helping, help him; if not, take the realm yourself.\" Zhuge Liang renewed the alliance with Wu."
+   "ja": "[[p:劉備]]は白帝城で世を去った。死に臨んで[[p:諸葛亮]]に「子が補佐に足る者なら補佐せよ。才がなければ、君が国を取れ」と言った。[[p:諸葛亮]]は呉と和を結び直した。",
+   "en": "[[p:劉備|Liu Bei]] died at Baidi. On his deathbed he told [[p:諸葛亮|Zhuge Liang]]: \"If my son is worth helping, help him; if not, take the realm yourself.\" [[p:諸葛亮|Zhuge Liang]] renewed the alliance with Wu."
   },
   {
    "id": "nanzheng",
@@ -5281,7 +5301,7 @@
    ],
    "imp": 3,
    "at": "jieting",
-   "ja": "第一次北伐。街亭を任された[[p:馬謖]]は命に背いて山上に陣を張り、[[p:張郃]]に水を断たれて大敗した。[[p:諸葛亮]]は泣いて馬謖を斬った。天水の[[p:姜維]]が蜀に降った。",
+   "ja": "第一次北伐。街亭を任された[[p:馬謖]]は命に背いて山上に陣を張り、[[p:張郃]]に水を断たれて大敗した。[[p:諸葛亮]]は泣いて[[p:馬謖]]を斬った。天水の[[p:姜維]]が蜀に降った。",
    "en": "The first northern campaign. [[p:馬謖|Ma Su]], left to hold Jieting, disobeyed orders, camped on a hill, was cut off from water by [[p:張郃|Zhang He]] and routed. Weeping, [[p:諸葛亮|Zhuge Liang]] had him executed. [[p:姜維|Jiang Wei]] of Tianshui went over to Shu."
   },
   {
@@ -5338,8 +5358,8 @@
    ],
    "imp": 3,
    "at": "wuzhang",
-   "ja": "五丈原で[[p:司馬懿]]と対陣中、[[p:諸葛亮]]は陣中で病死した。蜀軍が退くとき、追ってきた司馬懿は蜀軍が反撃の構えを見せると慌てて退き、人々は「死せる孔明、生ける仲達を走らす」と笑った。",
-   "en": "Facing [[p:司馬懿|Sima Yi]] at Wuzhangyuan, [[p:諸葛亮|Zhuge Liang]] died of illness in camp. As the Shu army withdrew, Sima Yi pursued — and fled when it turned as if to fight. \"The dead Kongming put the living Zhongda to flight,\" people laughed."
+   "ja": "五丈原で[[p:司馬懿]]と対陣中、[[p:諸葛亮]]は陣中で病死した。蜀軍が退くとき、追ってきた[[p:司馬懿]]は蜀軍が反撃の構えを見せると慌てて退き、人々は「死せる孔明、生ける仲達を走らす」と笑った。",
+   "en": "Facing [[p:司馬懿|Sima Yi]] at Wuzhangyuan, [[p:諸葛亮|Zhuge Liang]] died of illness in camp. As the Shu army withdrew, [[p:司馬懿|Sima Yi]] pursued — and fled when it turned as if to fight. \"The dead Kongming put the living Zhongda to flight,\" people laughed."
   },
   {
    "id": "shanyue",
@@ -5437,8 +5457,8 @@
    ],
    "imp": 3,
    "at": "luoyang",
-   "ja": "「[[p:司馬昭]]の心は路人も知る所なり」。皇帝[[p:曹髦]]は宮中の兵を率いて司馬昭を討とうとし、返り討ちにあって殺された。",
-   "en": "\"The heart of [[p:司馬昭|Sima Zhao]] is known to every passer-by.\" The emperor [[p:曹髦|Cao Mao]] led the palace guards against Sima Zhao and was killed."
+   "ja": "「[[p:司馬昭]]の心は路人も知る所なり」。皇帝[[p:曹髦]]は宮中の兵を率いて[[p:司馬昭]]を討とうとし、返り討ちにあって殺された。",
+   "en": "\"The heart of [[p:司馬昭|Sima Zhao]] is known to every passer-by.\" The emperor [[p:曹髦|Cao Mao]] led the palace guards against [[p:司馬昭|Sima Zhao]] and was killed."
   },
   {
    "id": "shu_end",
@@ -5536,5 +5556,307 @@
    "ja": "晋の大軍が長江の上流と北から攻め下り、王濬の水軍が建業に入った。{r_wu}は降伏し、百年近く分かれていた天下は再び一つになった。",
    "en": "The armies of Jin came down the Yangtze and from the north, and Wang Jun's fleet entered Jianye. {r_wu} surrendered, and the realm, divided for nearly a century, was one again."
   }
- ]
+ ],
+ "battles": {
+  "guandu": {
+   "name": {
+    "ja": "官渡の戦い",
+    "en": "the battle of Guandu"
+   },
+   "at": "guandu",
+   "sides": [
+    {
+     "realm": "cao",
+     "generals": [
+      "曹操",
+      "荀攸",
+      "許褚",
+      "張遼",
+      "徐晃"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "yuanshao",
+     "generals": [
+      "袁紹",
+      "沮授",
+      "審配",
+      "顔良",
+      "文醜",
+      "張郃"
+     ],
+     "troops": 110000
+    }
+   ],
+   "losses": [
+    10000,
+    70000
+   ],
+   "winner": 0,
+   "months": 8,
+   "deploy": {
+    "ja": "河北四州を従えた[[p:袁紹]]は十万を超える兵で南下し、黄河を渡った。[[p:曹操]]は兵力で大きく劣り、官渡に砦を築いて守りに入った。前哨戦の白馬では[[p:関羽]]が[[p:顔良]]を斬り、延津では[[p:文醜]]も討たれた。",
+    "en": "Master of the four provinces north of the river, [[p:袁紹|Yuan Shao]] came south across the Yellow River with more than a hundred thousand men. Far outnumbered, [[p:曹操|Cao Cao]] fortified Guandu and stood on the defensive. In the opening fights [[p:関羽|Guan Yu]] cut down [[p:顔良|Yan Liang]] at Baima, and [[p:文醜|Wen Chou]] was killed at Yanjin."
+   },
+   "plan": {
+    "ja": "[[p:袁紹]]は土山や櫓を築いて[[p:曹操]]の陣に矢を降らせ、曹操は「霹靂車」(投石機) で櫓を砕いた。地下道を掘れば堀で防いだ。数か月のにらみ合いで曹操の兵糧は尽きかけ、[[p:荀彧]]に「退きたい」と書き送るほどであった。そこへ袁紹の参謀許攸が寝返り、兵糧の集積地烏巣の場所を告げた。曹操は自ら五千の兵を率い、袁軍の旗を掲げて夜道を進み、烏巣を焼いた。袁紹が送った[[p:張郃]]・高覧は曹操の本陣を落とせず、そのまま曹操に降った。",
+    "en": "[[p:袁紹|Yuan Shao]] raised earth mounds and towers to rain arrows into [[p:曹操|Cao Cao]]'s camp; Cao Cao smashed them with his \"thunderbolt carts\" — stone-throwers. Yuan dug tunnels; Cao dug trenches across them. Months passed; Cao Cao's grain ran so low that he wrote to [[p:荀彧|Xun Yu]] of retreat. Then Yuan Shao's adviser Xu You came over and told him where the grain lay — at Wuchao. Cao Cao led five thousand himself by night under Yuan banners and burned it. [[p:張郃|Zhang He]] and Gao Lan, sent against Cao's camp, could not take it and went over to him."
+   },
+   "tales": [
+    {
+     "ja": "許攸が来たと聞いた[[p:曹操]]は、裸足のまま飛び出して迎えた。許攸が「兵糧はいかほどか」と問うと曹操は「一年分はある」「いや半年」と言を濁し、ついに「実はひと月分だ」と打ち明けたという。",
+     "en": "When he heard Xu You had come, [[p:曹操|Cao Cao]] ran out barefoot to greet him. Asked how much grain he had, he said a year's, then half a year's, and at last admitted: one month."
+    },
+    {
+     "ja": "勝った[[p:曹操]]は、[[p:袁紹]]の陣から自軍の者が袁紹に送った内通の手紙の束を見つけたが、読まずにすべて焼かせた。「袁紹が強かったときは、わたしでさえ身を守れるか分からなかった」と言って。",
+     "en": "In [[p:袁紹|Yuan Shao]]'s camp [[p:曹操|Cao Cao]] found a bundle of letters his own men had written to the enemy. He had them burned unread: \"When Yuan Shao was strong, even I did not know if I could save myself.\""
+    },
+    {
+     "ja": "[[p:沮授]]は持久戦を説いて退けられ、捕らえられても降らず、[[p:袁紹]]のもとへ逃げ帰ろうとして殺された。[[p:田豊]]は「戦うな」と諫めて獄につながれ、敗戦を恥じた袁紹に殺された。",
+     "en": "[[p:沮授|Ju Shou]] had urged a slow war and was overruled; captured, he would not submit, and was killed trying to escape back to [[p:袁紹|Yuan Shao]]. [[p:田豊|Tian Feng]], jailed for advising against the battle, was put to death by Yuan Shao, ashamed of his defeat."
+    }
+   ],
+   "after": {
+    "ja": "[[p:袁紹]]は二年後に病死し、子の袁譚と[[p:袁尚]]が争う間に、[[p:曹操]]は河北を平らげた。華北の覇者は曹操と決まった。",
+    "en": "[[p:袁紹|Yuan Shao]] died two years later, and while his sons Yuan Tan and [[p:袁尚|Yuan Shang]] fought each other [[p:曹操|Cao Cao]] took the north. The master of northern China was Cao Cao."
+   },
+   "read": [
+    "wuchao",
+    "pilicche"
+   ]
+  },
+  "chibi": {
+   "name": {
+    "ja": "赤壁の戦い",
+    "en": "the battle of Red Cliffs"
+   },
+   "at": "chibi",
+   "sides": [
+    {
+     "realm": "wu",
+     "generals": [
+      "周瑜",
+      "程普",
+      "黄蓋",
+      "魯粛",
+      "甘寧",
+      "劉備",
+      "諸葛亮"
+     ],
+     "troops": 50000
+    },
+    {
+     "realm": "cao",
+     "generals": [
+      "曹操",
+      "曹仁"
+     ],
+     "troops": 200000
+    }
+   ],
+   "losses": [
+    5000,
+    80000
+   ],
+   "winner": 0,
+   "months": 2,
+   "deploy": {
+    "ja": "荊州を降した[[p:曹操]]は、二十万 (号して八十万) と荊州の水軍を率いて長江を下った。[[p:孫権]]は[[p:周瑜]]・[[p:程普]]に三万を与え、[[p:劉備]]の二万と合わせて赤壁で迎え撃った。",
+    "en": "With Jing province in hand, [[p:曹操|Cao Cao]] came down the Yangzi with two hundred thousand men — he claimed eight hundred thousand — and the Jing fleet. [[p:孫権|Sun Quan]] gave [[p:周瑜|Zhou Yu]] and [[p:程普|Cheng Pu]] thirty thousand, and with [[p:劉備|Liu Bei]]'s twenty thousand they met him at the Red Cliffs."
+   },
+   "plan": {
+    "ja": "北方の兵は船に慣れず、疫病も広がっていた。[[p:曹操]]の船は鎖でつながれていたとも、ただ密集していたともいう。[[p:黄蓋]]は偽りの降伏状を送り、油をしみ込ませた柴草を積んだ十艘の船に幕をかけて東南の風に乗せた。間近で火を放つと、炎は曹操の船団から岸の陣営にまで燃え広がった。[[p:周瑜]]は精兵で追い討ち、曹操は華容道のぬかるみを、兵に草を敷かせて逃れた。",
+    "en": "The northern soldiers were no sailors, and plague was in their camp. [[p:曹操|Cao Cao]]'s ships were chained together, some say — or simply crowded. [[p:黄蓋|Huang Gai]] sent a false letter of surrender, filled ten ships with brushwood soaked in oil, covered them with curtains and sailed on the southeast wind. Fired close in, they set the whole fleet ablaze, and the flames ran up into the camps on shore. [[p:周瑜|Zhou Yu]] followed with his best men; Cao Cao escaped along the swampy Huarong road, his soldiers laying grass so the horses could pass."
+   },
+   "tales": [
+    {
+     "ja": "「周郎 ([[p:周瑜]]) は曲を一つ間違えればすぐ振り返る」と歌われるほど音楽に通じた美男で、[[p:孫策]]とは同い年の義兄弟、妻はそれぞれ「二喬」と呼ばれた美人姉妹であった。",
+     "en": "\"If a note is wrong, young Master Zhou turns his head,\" went the song: [[p:周瑜|Zhou Yu]] was a handsome man with a fine ear, the sworn brother of [[p:孫策|Sun Ce]], born the same year; their wives were the two Qiao sisters, famed beauties."
+    },
+    {
+     "ja": "開戦をためらう家臣たちの前で、[[p:孫権]]は剣を抜いて机の角を斬り落とし、「なお降伏を言う者はこの机と同じになる」と言い放った。",
+     "en": "Before ministers who wanted to surrender, [[p:孫権|Sun Quan]] drew his sword and cut off a corner of his desk: \"Anyone who speaks of surrender again will be like this desk.\""
+    },
+    {
+     "ja": "[[p:諸葛亮]]が風を祈ったり、藁人形の船で矢を集めたりする話は、後の物語の創作である。",
+     "en": "[[p:諸葛亮|Zhuge Liang]] praying for the wind, or gathering arrows with straw-man boats, are inventions of later fiction."
+    }
+   ],
+   "after": {
+    "ja": "[[p:曹操]]は北へ退き、天下統一の機を失った。荊州南部は[[p:劉備]]が取り、天下三分の形が生まれる。",
+    "en": "[[p:曹操|Cao Cao]] went back north and the chance to unite the realm was gone. [[p:劉備|Liu Bei]] took southern Jing, and the three-way split of the realm took shape."
+   },
+   "read": [
+    "wu_ships",
+    "fire_attack"
+   ]
+  },
+  "hefei": {
+   "name": {
+    "ja": "合肥の戦い (逍遥津)",
+    "en": "the battle of Hefei (Xiaoyao Ford)"
+   },
+   "at": "hefei",
+   "sides": [
+    {
+     "realm": "cao",
+     "generals": [
+      "張遼",
+      "楽進"
+     ],
+     "troops": 7000
+    },
+    {
+     "realm": "wu",
+     "generals": [
+      "孫権",
+      "甘寧",
+      "呂蒙"
+     ],
+     "troops": 100000
+    }
+   ],
+   "losses": [
+    1000,
+    8000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:曹操]]が漢中へ出ている隙に、[[p:孫権]]は十万で合肥を囲んだ。守るのは[[p:張遼]]・[[p:楽進]]・李典の七千であった。",
+    "en": "With [[p:曹操|Cao Cao]] away in Hanzhong, [[p:孫権|Sun Quan]] besieged Hefei with a hundred thousand. Inside were [[p:張遼|Zhang Liao]], [[p:楽進|Yue Jin]] and Li Dian with seven thousand."
+   },
+   "plan": {
+    "ja": "[[p:曹操]]が残した手紙には「敵が来たら[[p:張遼]]と李典は出て戦え、[[p:楽進]]は守れ」とあった。張遼は決死の兵八百を募り、夜明けに自ら先頭に立って[[p:孫権]]の本陣へ斬り込んだ。孫権は丘に逃れ、呉軍の士気はくじけた。十数日の後に孫権が退くと、張遼は逍遥津の橋で追い討ち、孫権は橋の壊れた所を馬に跳ばせてようやく逃れた。",
+    "en": "The letter [[p:曹操|Cao Cao]] had left read: \"If the enemy comes, [[p:張遼|Zhang Liao]] and Li Dian go out to fight; [[p:楽進|Yue Jin]] holds the walls.\" Zhang Liao picked eight hundred men ready to die, and at dawn led them himself into [[p:孫権|Sun Quan]]'s camp. Sun Quan fled to a hill and the heart went out of the Wu army. When it fell back some days later, Zhang Liao struck again at the Xiaoyao ford, and Sun Quan escaped only by making his horse leap a broken span of the bridge."
+   },
+   "tales": [
+    {
+     "ja": "江東では泣く子に「遼来々 ([[p:張遼]]が来るぞ)」と言うと泣きやんだという (後の言い伝え)。",
+     "en": "In the lands south of the river, the story goes, a crying child would hush at \"[[p:張遼|Zhang Liao]] is coming!\" — a later tale."
+    }
+   ],
+   "after": {
+    "ja": "合肥は呉の北上を阻む壁であり続け、[[p:孫権]]はこの後も何度も攻めて落とせなかった。",
+    "en": "Hefei remained the wall against Wu's advance north; [[p:孫権|Sun Quan]] attacked it again and again and never took it."
+   }
+  },
+  "dingjun": {
+   "name": {
+    "ja": "定軍山の戦い",
+    "en": "the battle of Mount Dingjun"
+   },
+   "at": "dingjun",
+   "sides": [
+    {
+     "realm": "shu",
+     "generals": [
+      "劉備",
+      "黄忠",
+      "法正",
+      "趙雲"
+     ],
+     "troops": 40000
+    },
+    {
+     "realm": "cao",
+     "generals": [
+      "夏侯淵",
+      "張郃",
+      "徐晃"
+     ],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    3000,
+    8000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "漢中を争って、[[p:劉備]]は陽平関から定軍山へ陣を移した。[[p:夏侯淵]]と[[p:張郃]]が山の下に陣を敷いた。",
+    "en": "Fighting for Hanzhong, [[p:劉備|Liu Bei]] moved his camp from Yangping pass up onto Mount Dingjun; [[p:夏侯淵|Xiahou Yuan]] and [[p:張郃|Zhang He]] camped below."
+   },
+   "plan": {
+    "ja": "[[p:劉備]]は夜、[[p:夏侯淵]]の陣の柵 (鹿角) に火を放った。夏侯淵が自ら兵を割いて柵を直しに出たところを、[[p:法正]]の「今こそ撃つべし」の言葉で[[p:黄忠]]が山上から太鼓を鳴らして駆け下り、夏侯淵を斬った。",
+    "en": "At night [[p:劉備|Liu Bei]] set fire to the stakes around [[p:夏侯淵|Xiahou Yuan]]'s camp. When Xiahou Yuan went out himself with part of his men to mend them, [[p:法正|Fa Zheng]] said: now. [[p:黄忠|Huang Zhong]] charged down the mountain to the sound of drums and killed him."
+   },
+   "tales": [
+    {
+     "ja": "[[p:曹操]]はかねて[[p:夏侯淵]]に「将には臆病なときもなければならない。勇気だけに頼るな」と戒めていた。",
+     "en": "[[p:曹操|Cao Cao]] had warned [[p:夏侯淵|Xiahou Yuan]]: \"A general must sometimes be timid; do not trust in courage alone.\""
+    },
+    {
+     "ja": "漢中に来た[[p:曹操]]は「鶏肋 (鶏の肋骨) だ」とだけ言った。捨てるには惜しいが食べるところがない。楊修はそれを聞いて撤退を悟り、荷造りを始めた。",
+     "en": "In Hanzhong [[p:曹操|Cao Cao]] would say only: \"Chicken ribs.\" Too good to throw away, nothing to eat. Yang Xiu understood that they would retreat, and began to pack."
+    }
+   ],
+   "after": {
+    "ja": "[[p:曹操]]は漢中を捨て、[[p:劉備]]は漢中王を称した。蜀の勢いはここで頂点に達する。",
+    "en": "[[p:曹操|Cao Cao]] gave up Hanzhong and [[p:劉備|Liu Bei]] named himself King of Hanzhong — the high point of Shu's fortunes."
+   },
+   "read": [
+    "jilei"
+   ]
+  },
+  "yiling": {
+   "name": {
+    "ja": "夷陵の戦い",
+    "en": "the battle of Yiling"
+   },
+   "at": "yiling",
+   "sides": [
+    {
+     "realm": "wu",
+     "generals": [
+      "陸遜",
+      "丁奉"
+     ],
+     "troops": 50000
+    },
+    {
+     "realm": "shu",
+     "generals": [
+      "劉備",
+      "黄権",
+      "馬良"
+     ],
+     "troops": 70000
+    }
+   ],
+   "losses": [
+    5000,
+    40000
+   ],
+   "winner": 0,
+   "months": 10,
+   "deploy": {
+    "ja": "[[p:関羽]]の仇を討とうと[[p:劉備]]は呉に攻め込み、長江沿いの山あい数百里に四十余りの陣を連ねた。呉は若い[[p:陸遜]]を大都督に任じた。",
+    "en": "To avenge [[p:関羽|Guan Yu]] [[p:劉備|Liu Bei]] invaded Wu and strung more than forty camps along hundreds of li of the Yangzi gorges. Wu made the young [[p:陸遜|Lu Xun]] its commander-in-chief."
+   },
+   "plan": {
+    "ja": "[[p:陸遜]]は戦わず、老将たちの不満を抑えて半年以上守り続けた。夏の暑さで蜀軍が林の中に陣を移し、疲れが見えたとき、陸遜は兵に茅を一束ずつ持たせて火を放ち、四十余りの陣を一気に焼き払った。",
+    "en": "[[p:陸遜|Lu Xun]] would not fight, and held for more than half a year against the grumbling of older generals. When the summer heat drove the Shu army into the woods and it began to tire, he had each man carry a bundle of reeds, set fire to the camps and burned forty of them at a stroke."
+   },
+   "tales": [
+    {
+     "ja": "白帝城に逃れた[[p:劉備]]は、死の床で[[p:諸葛亮]]に「子 ([[p:劉禅]]) が補佐するに足りなければ、君が自ら取れ」と告げた。諸葛亮は涙を流して、死ぬまで忠を尽くすと誓った。",
+     "en": "Fled to Baidi, [[p:劉備|Liu Bei]] on his deathbed told [[p:諸葛亮|Zhuge Liang]]: \"If my son is worth helping, help him; if not, take the throne yourself.\" Weeping, Zhuge Liang swore to serve to his death."
+    },
+    {
+     "ja": "退路を断たれた[[p:黄権]]は、呉ではなく魏に降った。[[p:劉備]]は「わたしが黄権を裏切ったのであって、黄権がわたしを裏切ったのではない」と言い、その家族を罪に問わなかった。",
+     "en": "Cut off, [[p:黄権|Huang Quan]] surrendered — to Wei, not Wu. [[p:劉備|Liu Bei]] said: \"I failed Huang Quan; he did not fail me,\" and left his family unharmed."
+    }
+   ],
+   "after": {
+    "ja": "[[p:劉備]]は翌年白帝城で世を去り、蜀は[[p:諸葛亮]]のもとで呉と和を結び直した。",
+    "en": "[[p:劉備|Liu Bei]] died at Baidi the next year; under [[p:諸葛亮|Zhuge Liang]] Shu made peace with Wu again."
+   },
+   "read": [
+    "fire_attack"
+   ]
+  }
+ }
 }
