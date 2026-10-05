@@ -5479,6 +5479,86 @@
      "brave"
     ]
    }
+  ],
+  [
+   "高山右近",
+   "Takayama Ukon",
+   "oda",
+   "general",
+   1552,
+   1615,
+   {
+    "from": 1573,
+    "ab": [
+     6,
+     6,
+     6,
+     7
+    ],
+    "tr": [
+     "pious"
+    ]
+   }
+  ],
+  [
+   "後藤又兵衛",
+   "Gotō Matabei",
+   "oda",
+   "general",
+   1560,
+   1615,
+   {
+    "from": 1585,
+    "ab": [
+     4,
+     8,
+     3,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "蒲生氏郷",
+   "Gamō Ujisato",
+   "oda",
+   "general",
+   1556,
+   1595,
+   {
+    "from": 1569,
+    "ab": [
+     7,
+     8,
+     6,
+     7
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "佐々木小次郎",
+   "Sasaki Kojirō",
+   "oda",
+   "hero",
+   1585,
+   1612,
+   {
+    "from": 1605,
+    "ab": [
+     2,
+     8,
+     2,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
   ]
  ],
  "events": [
@@ -9603,15 +9683,16 @@
     "en": "The coming of Christianity"
    },
    "body": {
-    "ja": "1549年、宣教師フランシスコ・ザビエルが鹿児島に上陸し、日本にキリスト教が伝わった。宣教師たちは南蛮船とともに九州の港々を訪れ、大名に布教の許しを求めた。南蛮貿易の船は、布教を許す大名の港に入ることが多かった。\n\n豊後の[[p:大友宗麟]]は1551年にザビエルを府内に迎えて布教を許し、のちに自ら洗礼を受けた。1563年には肥前の[[p:大村純忠]]が大名として初めて洗礼を受け、1580年には長崎の地を宣教師に寄進した。[[p:有馬晴信]]もこれに続いた。信者は九州を中心に数十万人に達したといわれる。\n\n1582年、大友・大村・有馬の三家は、四人の少年をはるかローマへ使節として送った (天正遣欧使節)。八年後に帰国したとき、日本の様子は一変していた。1587年、豊臣秀吉は宣教師の国外退去を命じた (バテレン追放令)。貿易は続けられたため命令は徹底されなかったが、1614年には江戸幕府がキリスト教を全国で禁じ、高山右近らは国外へ追われた。",
-    "en": "In 1549 the missionary Francis Xavier landed at Kagoshima and Christianity came to Japan. Missionaries travelled with the southern barbarian ships to the ports of Kyūshū, asking the lords for leave to preach; and the trading ships tended to call at the ports of lords who gave it.\n\n[[p:大友宗麟|Ōtomo Sōrin]] of Bungo welcomed Xavier to Funai in 1551 and allowed preaching, and was later baptised himself. In 1563 [[p:大村純忠|Ōmura Sumitada]] of Hizen became the first daimyo to be baptised, and in 1580 he gave Nagasaki to the missionaries; [[p:有馬晴信|Arima Harunobu]] followed. Believers numbered in the hundreds of thousands, mostly in Kyūshū.\n\nIn 1582 the Ōtomo, Ōmura and Arima sent four boys as envoys all the way to Rome. When they came home eight years later Japan had changed. In 1587 Toyotomi Hideyoshi ordered the missionaries out of the country; since the trade went on, the order was loosely kept. In 1614 the Tokugawa shogunate banned Christianity throughout the land, and men like Takayama Ukon were sent into exile."
+    "ja": "1549年、宣教師フランシスコ・ザビエルが鹿児島に上陸し、日本にキリスト教が伝わった。宣教師たちは南蛮船とともに九州の港々を訪れ、大名に布教の許しを求めた。南蛮貿易の船は、布教を許す大名の港に入ることが多かった。\n\n豊後の[[p:大友宗麟]]は1551年にザビエルを府内に迎えて布教を許し、のちに自ら洗礼を受けた。1563年には肥前の[[p:大村純忠]]が大名として初めて洗礼を受け、1580年には長崎の地を宣教師に寄進した。[[p:有馬晴信]]もこれに続いた。信者は九州を中心に数十万人に達したといわれる。\n\n1582年、大友・大村・有馬の三家は、四人の少年をはるかローマへ使節として送った (天正遣欧使節)。八年後に帰国したとき、日本の様子は一変していた。1587年、豊臣秀吉は宣教師の国外退去を命じた (バテレン追放令)。貿易は続けられたため命令は徹底されなかったが、1614年には江戸幕府がキリスト教を全国で禁じ、[[p:高山右近]]らは国外へ追われた。",
+    "en": "In 1549 the missionary Francis Xavier landed at Kagoshima and Christianity came to Japan. Missionaries travelled with the southern barbarian ships to the ports of Kyūshū, asking the lords for leave to preach; and the trading ships tended to call at the ports of lords who gave it.\n\n[[p:大友宗麟|Ōtomo Sōrin]] of Bungo welcomed Xavier to Funai in 1551 and allowed preaching, and was later baptised himself. In 1563 [[p:大村純忠|Ōmura Sumitada]] of Hizen became the first daimyo to be baptised, and in 1580 he gave Nagasaki to the missionaries; [[p:有馬晴信|Arima Harunobu]] followed. Believers numbered in the hundreds of thousands, mostly in Kyūshū.\n\nIn 1582 the Ōtomo, Ōmura and Arima sent four boys as envoys all the way to Rome. When they came home eight years later Japan had changed. In 1587 Toyotomi Hideyoshi ordered the missionaries out of the country; since the trade went on, the order was loosely kept. In 1614 the Tokugawa shogunate banned Christianity throughout the land, and men like [[p:高山右近|Takayama Ukon]] were sent into exile."
    },
    "year": 1549,
    "people": [
     "大友宗麟|Ōtomo Sōrin",
     "大村純忠|Ōmura Sumitada",
     "有馬晴信|Arima Harunobu",
-    "羽柴秀吉|Hashiba Hideyoshi"
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "高山右近|Takayama Ukon"
    ],
    "related": [
     "nanban"
@@ -10114,5 +10195,407 @@
    "begun": 1601,
    "done": 1609
   }
+ ],
+ "ties": [
+  [
+   "織田信長",
+   "羽柴秀吉",
+   "lord",
+   {
+    "ja": "草履取りから仕えた秀吉を、信長は「猿」「禿げ鼠」と呼んで可愛がり、重く用いた。",
+    "en": "Nobunaga called Hideyoshi, who began as his sandal-bearer, \"monkey\" and \"bald rat\", and raised him high."
+   }
+  ],
+  [
+   "織田信長",
+   "柴田勝家",
+   "lord",
+   {
+    "ja": "信長の弟信勝に従って背いた勝家は、許されてからは織田家の筆頭の将となった。",
+    "en": "Katsuie once rebelled with Nobunaga's brother; pardoned, he became the first of Oda's generals."
+   }
+  ],
+  [
+   "織田信長",
+   "明智光秀",
+   "betrayed_by",
+   {
+    "ja": "1582年、光秀は本能寺の信長を襲った。理由は今も謎である。",
+    "en": "In 1582 Mitsuhide fell on Nobunaga at Honnōji — why is still a mystery."
+   }
+  ],
+  [
+   "織田信長",
+   "前田利家",
+   "lord",
+   {
+    "ja": "利家は若い頃「槍の又左」と呼ばれた信長の側近であった。",
+    "en": "In his youth Toshiie was one of Nobunaga's pages, \"Mataza of the spear\"."
+   }
+  ],
+  [
+   "織田信長",
+   "丹羽長秀",
+   "lord"
+  ],
+  [
+   "織田信長",
+   "滝川一益",
+   "lord"
+  ],
+  [
+   "織田信長",
+   "太田牛一",
+   "lord",
+   {
+    "ja": "牛一は信長の一代記『信長公記』を書き残した。",
+    "en": "[[p:太田牛一|Ōta Gyūichi]] wrote Nobunaga's chronicle."
+   }
+  ],
+  [
+   "織田信長",
+   "狩野永徳",
+   "lord",
+   {
+    "ja": "永徳は安土城の障壁画を描いた。",
+    "en": "Eitoku painted the walls of Azuchi castle."
+   }
+  ],
+  [
+   "織田信長",
+   "ルイス・フロイス",
+   "friend",
+   {
+    "ja": "信長はフロイスと十数回も会い、遠い国々の話を好んで聞いた。",
+    "en": "Nobunaga met Frois more than a dozen times, eager to hear of faraway lands."
+   }
+  ],
+  [
+   "浅井長政",
+   "織田信長",
+   "betrayed",
+   {
+    "ja": "信長の妹[[p:お市]]を妻に迎えながら、長政は朝倉との古い盟約を選び、金ヶ崎で信長を挟み撃ちにしかけた。",
+    "en": "Married to Nobunaga's sister [[p:お市|Oichi]], Nagamasa chose his old alliance with the Asakura and nearly trapped Nobunaga at Kanegasaki."
+   }
+  ],
+  [
+   "松永久秀",
+   "織田信長",
+   "betrayed",
+   {
+    "ja": "久秀は二度にわたって信長に背き、最後は信貴山城で滅んだ。",
+    "en": "Hisahide rebelled against Nobunaga twice, and perished at last at Shigisan."
+   }
+  ],
+  [
+   "荒木村重",
+   "織田信長",
+   "betrayed",
+   {
+    "ja": "有岡城で信長に背いた村重は、説得に来た[[p:黒田官兵衛]]を一年も土牢に閉じ込めた。",
+    "en": "Rebelling at Arioka, Murashige threw [[p:黒田官兵衛|Kuroda Kanbei]], who came to talk him round, into a dungeon for a year."
+   }
+  ],
+  [
+   "荒木村重",
+   "黒田官兵衛",
+   "betrayed"
+  ],
+  [
+   "竹中半兵衛",
+   "黒田官兵衛",
+   "friend",
+   {
+    "ja": "官兵衛が裏切ったと思い込んだ信長に、官兵衛の子を殺せと命じられた半兵衛は、ひそかに子をかくまって救った。",
+    "en": "Ordered by Nobunaga, who thought Kanbei a traitor, to kill Kanbei's son, Hanbei hid the boy and saved him."
+   }
+  ],
+  [
+   "羽柴秀吉",
+   "竹中半兵衛",
+   "lord"
+  ],
+  [
+   "羽柴秀吉",
+   "黒田官兵衛",
+   "lord",
+   {
+    "ja": "秀吉は官兵衛の才を恐れ、「わしの後に天下を取るのはあの男だ」と言ったという。",
+    "en": "Hideyoshi feared Kanbei's gifts: \"the one who will take the realm after me is that man,\" he is said to have remarked."
+   }
+  ],
+  [
+   "羽柴秀吉",
+   "石田三成",
+   "lord",
+   {
+    "ja": "「三献の茶」。寺の小僧だった三成は、喉の渇いた秀吉にぬるい茶をたっぷり、次に少し熱く、最後に熱い茶を少しだけ出し、その気配りで召し抱えられたという。",
+    "en": "\"Three cups of tea.\" As a temple boy, Mitsunari served the thirsty Hideyoshi a big cup of lukewarm tea, then a smaller, hotter one, then a little very hot — and was taken into his service for his thoughtfulness, the story goes."
+   }
+  ],
+  [
+   "羽柴秀吉",
+   "加藤清正",
+   "lord",
+   {
+    "ja": "賤ヶ岳で手柄を立てた「七本槍」の一人。",
+    "en": "One of the \"Seven Spears\" of Shizugatake."
+   }
+  ],
+  [
+   "羽柴秀吉",
+   "福島正則",
+   "lord",
+   {
+    "ja": "七本槍の筆頭。",
+    "en": "First of the Seven Spears."
+   }
+  ],
+  [
+   "羽柴秀吉",
+   "千利休",
+   "betrayed",
+   {
+    "ja": "茶頭として重んじた利休に、秀吉は1591年、切腹を命じた。",
+    "en": "In 1591 Hideyoshi ordered Rikyū, his honoured tea master, to take his own life."
+   }
+  ],
+  [
+   "羽柴秀吉",
+   "羽柴秀長",
+   "companion",
+   {
+    "ja": "弟の秀長は秀吉を陰で支え、秀長が死ぬと豊臣家に影がさした。",
+    "en": "His brother Hidenaga was his steady support; when Hidenaga died a shadow fell over the house."
+   }
+  ],
+  [
+   "石田三成",
+   "大谷吉継",
+   "friend",
+   {
+    "ja": "茶会で、病の吉継の膿が茶碗に落ち、皆が飲むのをためらった。三成は平然と飲み干したという。吉継は負けると知りながら三成のために関ヶ原で戦った。",
+    "en": "At a tea gathering pus from the sick Yoshitsugu's face fell into the shared bowl and no one would drink; Mitsunari drank it off, the story goes. Yoshitsugu fought for him at Sekigahara knowing they would lose."
+   }
+  ],
+  [
+   "石田三成",
+   "加藤清正",
+   "rival",
+   {
+    "ja": "朝鮮の陣以来、武断派の清正・正則らと三成は激しく対立した。",
+    "en": "From the Korean campaigns the fighting generals Kiyomasa and Masanori loathed Mitsunari."
+   }
+  ],
+  [
+   "石田三成",
+   "福島正則",
+   "rival"
+  ],
+  [
+   "小早川秀秋",
+   "石田三成",
+   "betrayed",
+   {
+    "ja": "関ヶ原の昼過ぎ、松尾山の秀秋は東軍に寝返った。",
+    "en": "Past noon at Sekigahara, Hideaki on Mount Matsuo went over to the east."
+   }
+  ],
+  [
+   "徳川家康",
+   "本多忠勝",
+   "lord",
+   {
+    "ja": "五十余度の戦で傷一つ負わなかったという猛将。「家康に過ぎたるもの」とうたわれた。",
+    "en": "A fierce warrior said never to have been wounded in fifty-odd battles — \"more than Ieyasu deserves\", people sang."
+   }
+  ],
+  [
+   "徳川家康",
+   "井伊直政",
+   "lord"
+  ],
+  [
+   "徳川家康",
+   "酒井忠次",
+   "lord"
+  ],
+  [
+   "徳川家康",
+   "榊原康政",
+   "lord"
+  ],
+  [
+   "徳川家康",
+   "服部半蔵",
+   "lord",
+   {
+    "ja": "本能寺の変の後、半蔵は家康を伊賀の山越えで三河へ逃がした。",
+    "en": "After Honnōji Hanzō led Ieyasu to safety over the hills of Iga."
+   }
+  ],
+  [
+   "徳川家康",
+   "本多正信",
+   "friend",
+   {
+    "ja": "家康は正信を「友」と呼び、二人きりで長く語り合ったという。",
+    "en": "Ieyasu called Masanobu his \"friend\", and talked with him alone for hours."
+   }
+  ],
+  [
+   "石川数正",
+   "徳川家康",
+   "betrayed",
+   {
+    "ja": "1585年、家康の重臣数正は突然秀吉のもとへ走った。",
+    "en": "In 1585 Kazumasa, one of Ieyasu's chief retainers, suddenly went over to Hideyoshi."
+   }
+  ],
+  [
+   "武田信玄",
+   "上杉謙信",
+   "rival",
+   {
+    "ja": "五度の川中島。信玄が死んだと聞いた謙信は、食事の箸を落として泣いたという。",
+    "en": "Five battles at Kawanakajima. Hearing Shingen was dead, Kenshin dropped his chopsticks and wept, they say."
+   }
+  ],
+  [
+   "武田信玄",
+   "山本勘助",
+   "lord"
+  ],
+  [
+   "武田信玄",
+   "山県昌景",
+   "lord"
+  ],
+  [
+   "武田信玄",
+   "馬場信春",
+   "lord"
+  ],
+  [
+   "武田信玄",
+   "高坂昌信",
+   "lord"
+  ],
+  [
+   "武田信玄",
+   "真田幸隆",
+   "lord"
+  ],
+  [
+   "上杉謙信",
+   "柿崎景家",
+   "lord"
+  ],
+  [
+   "上杉景勝",
+   "直江兼続",
+   "lord",
+   {
+    "ja": "無口な景勝と才気の兼続は、生涯の主従であった。",
+    "en": "Silent Kagekatsu and brilliant Kanetsugu were lord and retainer for life."
+   }
+  ],
+  [
+   "伊達政宗",
+   "片倉景綱",
+   "lord",
+   {
+    "ja": "幼い政宗の、病で飛び出した右目を、景綱が小刀で切り取ったという話が伝わる。",
+    "en": "The story goes that Kagetsuna cut out with a knife the young Masamune's eye, which disease had made bulge."
+   }
+  ],
+  [
+   "伊達政宗",
+   "伊達成実",
+   "lord"
+  ],
+  [
+   "立花道雪",
+   "高橋紹運",
+   "friend",
+   {
+    "ja": "大友家の二つの柱。道雪は紹運の子宗茂を婿養子に迎えた。",
+    "en": "The two pillars of the Ōtomo; Dōsetsu adopted Jōun's son Muneshige as his heir."
+   }
+  ],
+  [
+   "尼子義久",
+   "山中鹿之介",
+   "lord",
+   {
+    "ja": "「願わくば我に七難八苦を与えたまえ」。尼子家の再興に生涯をかけた。",
+    "en": "\"Grant me seven troubles and eight sorrows.\" He gave his life to restoring the Amago."
+   }
+  ],
+  [
+   "顕如",
+   "下間頼廉",
+   "lord"
+  ],
+  [
+   "顕如",
+   "鈴木孫一",
+   "lord"
+  ],
+  [
+   "狩野永徳",
+   "長谷川等伯",
+   "rival",
+   {
+    "ja": "天下一の絵師の座を争った二人。",
+    "en": "Rivals for the title of first painter of the realm."
+   }
+  ],
+  [
+   "宮本武蔵",
+   "佐々木小次郎",
+   "rival",
+   {
+    "ja": "1612年、巌流島で二人は決闘し、遅れて来た武蔵が櫂を削った木刀で小次郎を倒したと伝わる。",
+    "en": "In 1612 they duelled on Ganryūjima; Musashi, arriving late, struck Kojirō down with a sword carved from an oar, so the story goes."
+   }
+  ],
+  [
+   "真田信繁",
+   "後藤又兵衛",
+   "friend",
+   {
+    "ja": "大坂の陣で豊臣方の牢人衆を率いた二人。又兵衛は道明寺で討死した。",
+    "en": "The two led the masterless warriors on the Toyotomi side at Osaka; Matabei died at Dōmyōji."
+   }
+  ],
+  [
+   "蒲生氏郷",
+   "高山右近",
+   "friend",
+   {
+    "ja": "氏郷は右近に導かれてキリスト教に親しんだ。",
+    "en": "Ujisato came to Christianity through Ukon."
+   }
+  ],
+  [
+   "織田信長",
+   "蒲生氏郷",
+   "lord",
+   {
+    "ja": "人質だった少年氏郷の才を見抜いた信長は、娘を嫁がせた。",
+    "en": "Seeing the gifts of the boy hostage, Nobunaga gave him his daughter in marriage."
+   }
+  ],
+  [
+   "明智光秀",
+   "細川藤孝",
+   "friend",
+   {
+    "ja": "光秀の娘玉 (ガラシャ) は藤孝の子忠興の妻。だが本能寺の後、藤孝は髪を下ろして光秀に味方しなかった。",
+    "en": "Mitsuhide's daughter Tama (Gracia) was married to Fujitaka's son; yet after Honnōji Fujitaka shaved his head and would not join Mitsuhide."
+   }
+  ]
  ]
 }

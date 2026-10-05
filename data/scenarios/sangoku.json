@@ -3731,6 +3731,72 @@
      "content"
     ]
    }
+  ],
+  [
+   "徐庶",
+   "Xu Shu",
+   "shu",
+   "minister",
+   175,
+   234,
+   {
+    "from": 201,
+    "moves": [
+     [
+      208,
+      "cao"
+     ]
+    ],
+    "ab": [
+     7,
+     6,
+     6,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "司馬徽",
+   "Sima Hui",
+   "liubiao",
+   "scholar",
+   173,
+   208,
+   {
+    "from": 195,
+    "ab": [
+     6,
+     2,
+     6,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "凌統",
+   "Ling Tong",
+   "wu",
+   "general",
+   189,
+   217,
+   {
+    "from": 206,
+    "ab": [
+     4,
+     7,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
   ]
  ],
  "events": [
@@ -6024,7 +6090,7 @@
     "en": "The White Horse Volunteers"
    },
    "body": {
-    "ja": "幽州の[[p:公孫瓚]]が率いた騎兵。白い馬に乗った騎射の精鋭で、[[p:公孫瓚]]自身も白馬に乗った。北方の烏桓は「白馬の長史を避けよ」と言い合い、[[p:公孫瓚]]の姿を描いた的を射て、当てた者を讃えたという。\n\n「義従」とは、義によって従う者の意。[[p:公孫瓚]]は弓の上手な者を集め、兄弟の契りを結んで左右の翼としたとされる。\n\n191年の界橋の戦いで、[[p:公孫瓚]]は歩兵を中央に、左右に騎兵を置いて[[p:袁紹]]に挑んだ。[[p:袁紹]]の先鋒の麴義は、八百の兵を盾の陰に伏せさせ、千張の強弩を左右に置いた。騎兵が数十歩まで迫ったところで一斉に立ち上がって射かけると、白馬の騎兵は崩れた。\n\nこの敗北から[[p:公孫瓚]]の運は傾き、易京に籠もった末に滅んだ。若い[[p:趙雲]]は公孫瓚のもとにいて、そこで[[p:劉備]]と出会っている。",
+    "ja": "幽州の[[p:公孫瓚]]が率いた騎兵。白い馬に乗った騎射の精鋭で、[[p:公孫瓚]]自身も白馬に乗った。北方の烏桓は「白馬の長史を避けよ」と言い合い、[[p:公孫瓚]]の姿を描いた的を射て、当てた者を讃えたという。\n\n「義従」とは、義によって従う者の意。[[p:公孫瓚]]は弓の上手な者を集め、兄弟の契りを結んで左右の翼としたとされる。\n\n191年の界橋の戦いで、[[p:公孫瓚]]は歩兵を中央に、左右に騎兵を置いて[[p:袁紹]]に挑んだ。[[p:袁紹]]の先鋒の麴義は、八百の兵を盾の陰に伏せさせ、千張の強弩を左右に置いた。騎兵が数十歩まで迫ったところで一斉に立ち上がって射かけると、白馬の騎兵は崩れた。\n\nこの敗北から[[p:公孫瓚]]の運は傾き、易京に籠もった末に滅んだ。若い[[p:趙雲]]は[[p:公孫瓚]]のもとにいて、そこで[[p:劉備]]と出会っている。",
     "en": "The horsemen of [[p:公孫瓚|Gongsun Zan]] of You province: picked mounted archers on white horses, with [[p:公孫瓚|Gongsun Zan]] himself on a white horse at their head. The Wuhuan of the north warned each other to \"keep clear of the officer on the white horse\", and shot at targets painted with his likeness, cheering whoever hit it.\n\n\"Volunteers\" — men who follow out of loyalty: [[p:公孫瓚|Gongsun Zan]] gathered the best archers, swore brotherhood with them and made them his two wings.\n\nAt Jieqiao in 191 he challenged [[p:袁紹|Yuan Shao]] with infantry in the centre and horse on both wings. [[p:袁紹|Yuan Shao]]'s vanguard commander Qu Yi had eight hundred men crouch behind their shields, with a thousand strong crossbows on either side; when the horsemen were a few dozen paces away they rose and shot together, and the white horses broke.\n\nFrom that defeat [[p:公孫瓚|Gongsun Zan]]'s fortunes declined, until he died shut up in Yijing. The young [[p:趙雲|Zhao Yun]] served him, and met [[p:劉備|Liu Bei]] there."
    },
    "year": 191,
@@ -6288,8 +6354,8 @@
     "en": "The literature of the Jian'an era"
    },
    "body": {
-    "ja": "後漢の建安年間 (196〜220年)、[[p:曹操]]とその子の[[p:曹丕]]・[[p:曹植]]のもとに、多くの文人が集まった。[[p:孔融]]・陳琳・王粲ら「建安の七子」である。戦乱の世の悲しみと志を、力強い五言の詩に詠んだ。\n\n[[p:曹操]]自身がすぐれた詩人だった。「酒に対しては当に歌うべし、人生幾何ぞ」と歌い出す「短歌行」は、人生の短さを嘆きつつ、賢者を求める志を詠む。陳琳はもと[[p:袁紹]]に仕え、[[p:曹操]]を罵る檄文を書いた。曹操は頭痛に苦しんでいたが、その檄文を読むと冷や汗が出て頭痛が治ったと言い、のちに陳琳を許して用いた。\n\n[[p:曹丕]]と[[p:曹植]]は兄弟で帝位を争った。帝となった[[p:曹丕]]は、七歩歩く間に詩を作れなければ罰すると[[p:曹植]]に命じた。曹植はたちまち詠んだ。「豆を煮るに豆がらを燃やす……本は同じ根から生じたのに、どうしてそんなに急いで煮るのか」。兄弟で争う悲しみを詠んだ「七歩詩」である (のちの言い伝えともいう)。",
-    "en": "In the Jian'an years (196–220) many writers gathered round [[p:曹操|Cao Cao]] and his sons [[p:曹丕|Cao Pi]] and [[p:曹植|Cao Zhi]] — the \"Seven Masters of Jian'an\", [[p:孔融|Kong Rong]], Chen Lin, Wang Can and others — writing the sorrows and ambitions of an age of war in strong five-character verse.\n\n[[p:曹操|Cao Cao]] was a fine poet himself. \"Facing wine, one should sing — how long is a man's life?\" begins his Short Song, which laments life's brevity and calls for able men. Chen Lin, once in [[p:袁紹|Yuan Shao]]'s service, wrote a manifesto reviling [[p:曹操|Cao Cao]]; Cao Cao, who suffered from headaches, said reading it broke him out in a cold sweat and cured his head — and later pardoned Chen Lin and employed him.\n\n[[p:曹丕|Cao Pi]] and [[p:曹植|Cao Zhi]] fought over the succession. Emperor at last, [[p:曹丕|Cao Pi]] ordered [[p:曹植|Cao Zhi]] to compose a poem in seven paces or be punished. Cao Zhi at once said: \"They boil the beans burning the beanstalks… We grew from the same root — why such haste to cook me?\" — the Seven-Pace Poem, though it may be a later tale."
+    "ja": "後漢の建安年間 (196〜220年)、[[p:曹操]]とその子の[[p:曹丕]]・[[p:曹植]]のもとに、多くの文人が集まった。[[p:孔融]]・陳琳・王粲ら「建安の七子」である。戦乱の世の悲しみと志を、力強い五言の詩に詠んだ。\n\n曹操自身がすぐれた詩人だった。「酒に対しては当に歌うべし、人生幾何ぞ」と歌い出す「短歌行」は、人生の短さを嘆きつつ、賢者を求める志を詠む。陳琳はもと[[p:袁紹]]に仕え、曹操を罵る檄文を書いた。曹操は頭痛に苦しんでいたが、その檄文を読むと冷や汗が出て頭痛が治ったと言い、のちに陳琳を許して用いた。\n\n曹丕と曹植は兄弟で帝位を争った。帝となった曹丕は、七歩歩く間に詩を作れなければ罰すると曹植に命じた。曹植はたちまち詠んだ。「豆を煮るに豆がらを燃やす……本は同じ根から生じたのに、どうしてそんなに急いで煮るのか」。兄弟で争う悲しみを詠んだ「七歩詩」である (のちの言い伝えともいう)。",
+    "en": "In the Jian'an years (196–220) many writers gathered round [[p:曹操|Cao Cao]] and his sons [[p:曹丕|Cao Pi]] and [[p:曹植|Cao Zhi]] — the \"Seven Masters of Jian'an\", [[p:孔融|Kong Rong]], Chen Lin, Wang Can and others — writing the sorrows and ambitions of an age of war in strong five-character verse.\n\nCao Cao was a fine poet himself. \"Facing wine, one should sing — how long is a man's life?\" begins his Short Song, which laments life's brevity and calls for able men. Chen Lin, once in [[p:袁紹|Yuan Shao]]'s service, wrote a manifesto reviling Cao Cao; Cao Cao, who suffered from headaches, said reading it broke him out in a cold sweat and cured his head — and later pardoned Chen Lin and employed him.\n\nCao Pi and Cao Zhi fought over the succession. Emperor at last, Cao Pi ordered Cao Zhi to compose a poem in seven paces or be punished. Cao Zhi at once said: \"They boil the beans burning the beanstalks… We grew from the same root — why such haste to cook me?\" — the Seven-Pace Poem, though it may be a later tale."
    },
    "year": 204,
    "people": [
@@ -6315,8 +6381,8 @@
     "en": "Pure talk and the Seven Sages of the Bamboo Grove"
    },
    "body": {
-    "ja": "魏の正始年間 (240〜249年) の頃から、知識人たちは政治の話を避け、『老子』『荘子』『易』をもとに、ものの根本について語り合う「清談」にふけった。何晏や若き天才王弼がその中心であった。\n\n司馬氏が力を握り、魏の名士たちが次々と殺されると、竹林に集まって酒を飲み琴を弾き、世間に背を向ける者たちが現れた。[[p:嵆康]]・[[p:阮籍]]・山濤・劉伶・向秀・阮咸・王戎の「竹林の七賢」である。[[p:阮籍]]は気に入らない客には白い目 (白眼) を、気に入った客には青い目 (青眼) を向けた。劉伶は家で裸になり、訪ねた客に「天地が私の家で、部屋は私の褌だ。なぜ君は私の褌に入ってくるのか」と言ったという。\n\n[[p:嵆康]]は[[p:司馬昭]]に仕えることを拒み、讒言によって262年に処刑された。刑場で琴を求め、名曲「広陵散」を弾き終えると、「広陵散は今日で絶えた」と言って死に就いた。三千人の太学生が助命を願ったと伝わる。",
-    "en": "From the Zhengshi years of Wei (240–249) intellectuals shunned politics and lost themselves in \"pure talk\" about the root of things, drawing on the Laozi, the Zhuangzi and the Book of Changes; He Yan and the young genius Wang Bi led it.\n\nAs the Sima seized power and the notables of Wei were killed one by one, some turned their backs on the world in a bamboo grove, drinking and playing the zither: [[p:嵆康|Ji Kang]], [[p:阮籍|Ruan Ji]], Shan Tao, Liu Ling, Xiang Xiu, Ruan Xian and Wang Rong — the Seven Sages. [[p:阮籍|Ruan Ji]] showed the whites of his eyes to guests he disliked and the dark of them to those he liked. Liu Ling sat naked at home and told a startled visitor: \"Heaven and earth are my house, my room is my trousers — what are you doing in my trousers?\"\n\n[[p:嵆康|Ji Kang]] refused to serve [[p:司馬昭|Sima Zhao]] and, slandered, was executed in 262. At the execution ground he asked for his zither, played the famous piece \"Guangling San\" to the end, and said: \"Guangling San dies with me today.\" Three thousand students of the academy pleaded for his life, it is said."
+    "ja": "魏の正始年間 (240〜249年) の頃から、知識人たちは政治の話を避け、『老子』『荘子』『易』をもとに、ものの根本について語り合う「清談」にふけった。何晏や若き天才王弼がその中心であった。\n\n司馬氏が力を握り、魏の名士たちが次々と殺されると、竹林に集まって酒を飲み琴を弾き、世間に背を向ける者たちが現れた。[[p:嵆康]]・[[p:阮籍]]・山濤・劉伶・向秀・阮咸・王戎の「竹林の七賢」である。阮籍は気に入らない客には白い目 (白眼) を、気に入った客には青い目 (青眼) を向けた。劉伶は家で裸になり、訪ねた客に「天地が私の家で、部屋は私の褌だ。なぜ君は私の褌に入ってくるのか」と言ったという。\n\n嵆康は[[p:司馬昭]]に仕えることを拒み、讒言によって262年に処刑された。刑場で琴を求め、名曲「広陵散」を弾き終えると、「広陵散は今日で絶えた」と言って死に就いた。三千人の太学生が助命を願ったと伝わる。",
+    "en": "From the Zhengshi years of Wei (240–249) intellectuals shunned politics and lost themselves in \"pure talk\" about the root of things, drawing on the Laozi, the Zhuangzi and the Book of Changes; He Yan and the young genius Wang Bi led it.\n\nAs the Sima seized power and the notables of Wei were killed one by one, some turned their backs on the world in a bamboo grove, drinking and playing the zither: [[p:嵆康|Ji Kang]], [[p:阮籍|Ruan Ji]], Shan Tao, Liu Ling, Xiang Xiu, Ruan Xian and Wang Rong — the Seven Sages. Ruan Ji showed the whites of his eyes to guests he disliked and the dark of them to those he liked. Liu Ling sat naked at home and told a startled visitor: \"Heaven and earth are my house, my room is my trousers — what are you doing in my trousers?\"\n\nJi Kang refused to serve [[p:司馬昭|Sima Zhao]] and, slandered, was executed in 262. At the execution ground he asked for his zither, played the famous piece \"Guangling San\" to the end, and said: \"Guangling San dies with me today.\" Three thousand students of the academy pleaded for his life, it is said."
    },
    "year": 240,
    "people": [
@@ -6361,8 +6427,8 @@
     "en": "The Bronze Sparrow Terrace"
    },
    "body": {
-    "ja": "210年、[[p:曹操]]は本拠の鄴の城の北西に、高さ十丈の高殿「銅雀台」を築いた。屋根の上には銅の大きな雀 (鳳凰とも) が羽を広げていた。のちに金虎台・氷井台も並び、「三台」と呼ばれた。\n\n完成すると曹操は子たちを台に登らせ、詩を作らせた。[[p:曹植]]はたちまち見事な賦を作り、曹操を驚かせたという。曹操は遺言で、自分の死後、側女たちを銅雀台に住まわせ、毎月の一日と十五日には台の上で音楽を奏で、自分の陵の方を望ませよと命じた。\n\n後の物語では、[[p:諸葛亮]]が[[p:周瑜]]に「曹操は江東の二喬 (大喬・小喬) を銅雀台に置きたがっている」と言って怒らせ、赤壁の戦いに踏み切らせたことになっている。銅雀台の完成は赤壁の二年後なので、これは物語の創作である。",
-    "en": "In 210 [[p:曹操|Cao Cao]] raised a terrace ten zhang high northwest of his seat at Ye — the Bronze Sparrow Terrace, with a great bronze bird (some say a phoenix) spreading its wings on the roof. Gold Tiger and Ice Well terraces later stood beside it: \"the three terraces\".\n\nWhen it was done Cao Cao had his sons climb it and compose poems; [[p:曹植|Cao Zhi]] dashed off a splendid rhapsody that astonished his father. In his will Cao Cao ordered that after his death his women live on the terrace, and on the first and fifteenth of every month play music there, looking towards his tomb.\n\nIn the later novel, [[p:諸葛亮|Zhuge Liang]] goads [[p:周瑜|Zhou Yu]] into war at Red Cliffs by telling him Cao Cao wanted to keep the two Qiao sisters of the south on the Bronze Sparrow Terrace. The terrace was finished two years after Red Cliffs; the scene is fiction."
+    "ja": "210年、[[p:曹操]]は本拠の鄴の城の北西に、高さ十丈の高殿「銅雀台」を築いた。屋根の上には銅の大きな雀 (鳳凰とも) が羽を広げていた。のちに金虎台・氷井台も並び、「三台」と呼ばれた。\n\n完成すると[[p:曹操]]は子たちを台に登らせ、詩を作らせた。[[p:曹植]]はたちまち見事な賦を作り、[[p:曹操]]を驚かせたという。曹操は遺言で、自分の死後、側女たちを銅雀台に住まわせ、毎月の一日と十五日には台の上で音楽を奏で、自分の陵の方を望ませよと命じた。\n\n後の物語では、[[p:諸葛亮]]が[[p:周瑜]]に「曹操は江東の二喬 (大喬・小喬) を銅雀台に置きたがっている」と言って怒らせ、赤壁の戦いに踏み切らせたことになっている。銅雀台の完成は赤壁の二年後なので、これは物語の創作である。",
+    "en": "In 210 [[p:曹操|Cao Cao]] raised a terrace ten zhang high northwest of his seat at Ye — the Bronze Sparrow Terrace, with a great bronze bird (some say a phoenix) spreading its wings on the roof. Gold Tiger and Ice Well terraces later stood beside it: \"the three terraces\".\n\nWhen it was done [[p:曹操|Cao Cao]] had his sons climb it and compose poems; [[p:曹植|Cao Zhi]] dashed off a splendid rhapsody that astonished his father. In his will [[p:曹操|Cao Cao]] ordered that after his death his women live on the terrace, and on the first and fifteenth of every month play music there, looking towards his tomb.\n\nIn the later novel, [[p:諸葛亮|Zhuge Liang]] goads [[p:周瑜|Zhou Yu]] into war at Red Cliffs by telling him Cao Cao wanted to keep the two Qiao sisters of the south on the Bronze Sparrow Terrace. The terrace was finished two years after Red Cliffs; the scene is fiction."
    },
    "year": 210,
    "people": [
@@ -6617,5 +6683,380 @@
    "begun": 235,
    "done": 237
   }
+ ],
+ "ties": [
+  [
+   "劉備",
+   "関羽",
+   "sworn",
+   {
+    "ja": "「恩は兄弟のごとし」。[[p:劉備]]は[[p:関羽]]・[[p:張飛]]と同じ床に寝たと正史は書く。桃園の誓いは後の物語である。",
+    "en": "\"Like brothers.\" The histories say [[p:劉備|Liu Bei]] slept in the same bed as [[p:関羽|Guan Yu]] and [[p:張飛|Zhang Fei]]; the oath in the peach garden is from the later novel."
+   }
+  ],
+  [
+   "劉備",
+   "張飛",
+   "sworn"
+  ],
+  [
+   "関羽",
+   "張飛",
+   "sworn"
+  ],
+  [
+   "劉備",
+   "諸葛亮",
+   "lord",
+   {
+    "ja": "「三顧の礼」「水魚の交わり」。[[p:劉備]]は三度訪ねてようやく[[p:諸葛亮]]に会い、「私に孔明がいるのは魚に水があるようなものだ」と言った。",
+    "en": "\"Three visits to the thatched hut.\" [[p:劉備|Liu Bei]] called three times before he met [[p:諸葛亮|Zhuge Liang]], and said: \"Having Kongming is like a fish having water.\""
+   }
+  ],
+  [
+   "劉備",
+   "趙雲",
+   "lord",
+   {
+    "ja": "長坂で[[p:趙雲]]は幼い[[p:劉禅]]を抱いて敵中を駆け抜けた。",
+    "en": "At Changban [[p:趙雲|Zhao Yun]] carried the infant [[p:劉禅|Liu Shan]] through the enemy."
+   }
+  ],
+  [
+   "劉備",
+   "黄忠",
+   "lord"
+  ],
+  [
+   "劉備",
+   "魏延",
+   "lord"
+  ],
+  [
+   "劉備",
+   "法正",
+   "lord"
+  ],
+  [
+   "劉備",
+   "龐統",
+   "lord",
+   {
+    "ja": "「伏竜・鳳雛」。[[p:司馬徽]]は[[p:諸葛亮]]を伏竜、[[p:龐統]]を鳳雛と呼んだ。[[p:龐統]]は落鳳坡ではなく雒城の攻囲で流れ矢に当たって死んだ。",
+    "en": "\"Sleeping Dragon and Young Phoenix\", [[p:司馬徽|Sima Hui]] called [[p:諸葛亮|Zhuge Liang]] and [[p:龐統|Pang Tong]]. [[p:龐統|Pang Tong]] died by a stray arrow at the siege of Luo."
+   }
+  ],
+  [
+   "劉備",
+   "徐庶",
+   "lord",
+   {
+    "ja": "[[p:徐庶]]は[[p:劉備]]に[[p:諸葛亮]]を推した。母が[[p:曹操]]に捕らえられると、[[p:劉備]]に別れを告げて北へ去った。",
+    "en": "[[p:徐庶|Xu Shu]] recommended [[p:諸葛亮|Zhuge Liang]] to [[p:劉備|Liu Bei]]; when his mother was taken by [[p:曹操|Cao Cao]], he bade [[p:劉備|Liu Bei]] farewell and went north."
+   }
+  ],
+  [
+   "徐庶",
+   "諸葛亮",
+   "friend"
+  ],
+  [
+   "司馬徽",
+   "諸葛亮",
+   "mentor",
+   {
+    "ja": "「水鏡先生」[[p:司馬徽]]は、荊州の若者たちの人物を見抜いた。",
+    "en": "\"Master Water Mirror\" [[p:司馬徽|Sima Hui]] knew the worth of the young men of Jing."
+   }
+  ],
+  [
+   "諸葛亮",
+   "姜維",
+   "mentor",
+   {
+    "ja": "魏から降った[[p:姜維]]を、[[p:諸葛亮]]は「涼州の上士」と讃えて後継とした。",
+    "en": "[[p:諸葛亮|Zhuge Liang]] praised [[p:姜維|Jiang Wei]], who came over from Wei, as the finest man of Liang, and made him his heir."
+   }
+  ],
+  [
+   "諸葛亮",
+   "馬謖",
+   "mentor",
+   {
+    "ja": "「泣いて[[p:馬謖]]を斬る」。街亭で命に背いた愛弟子を、[[p:諸葛亮]]は軍律に従って斬った。",
+    "en": "\"Weeping, he beheaded [[p:馬謖|Ma Su]].\" For his disobedience at Jieting, [[p:諸葛亮|Zhuge Liang]] executed his beloved pupil by military law."
+   }
+  ],
+  [
+   "諸葛亮",
+   "司馬懿",
+   "rival",
+   {
+    "ja": "五丈原で対陣した二人。[[p:諸葛亮]]が女物の衣を贈って挑発しても、[[p:司馬懿]]は動かなかった。",
+    "en": "They faced each other at Wuzhangyuan; even when [[p:諸葛亮|Zhuge Liang]] sent him women's clothes to taunt him, [[p:司馬懿|Sima Yi]] would not move."
+   }
+  ],
+  [
+   "諸葛亮",
+   "孟獲",
+   "rival",
+   {
+    "ja": "「七縦七擒」。[[p:諸葛亮]]は南中の[[p:孟獲]]を七度捕らえて七度放し、心から従わせたという。",
+    "en": "\"Seven times caught, seven times freed.\" [[p:諸葛亮|Zhuge Liang]] captured [[p:孟獲|Meng Huo]] of Nanzhong seven times and let him go seven times, until he submitted from the heart, it is said."
+   }
+  ],
+  [
+   "曹操",
+   "劉備",
+   "rival",
+   {
+    "ja": "「今、天下の英雄は君と操のみ」。[[p:曹操]]にこう言われた[[p:劉備]]は、驚いて箸を落とした。",
+    "en": "\"The only heroes in the world today are you and I.\" When [[p:曹操|Cao Cao]] said this, [[p:劉備|Liu Bei]] dropped his chopsticks."
+   }
+  ],
+  [
+   "曹操",
+   "袁紹",
+   "rival",
+   {
+    "ja": "若い頃は遊び仲間だった二人は、官渡で天下を争った。",
+    "en": "Companions in youthful escapades, they fought for the realm at Guandu."
+   }
+  ],
+  [
+   "曹操",
+   "関羽",
+   "friend",
+   {
+    "ja": "一時[[p:曹操]]に降った[[p:関羽]]は、白馬で[[p:顔良]]を斬って恩を返し、[[p:劉備]]のもとへ去った。[[p:曹操]]は「各々其の主の為なり」と追わせなかった。",
+    "en": "[[p:関羽|Guan Yu]], for a time in [[p:曹操|Cao Cao]]'s service, repaid him by killing [[p:顔良|Yan Liang]] at Baima and then left for [[p:劉備|Liu Bei]]. \"Each serves his own lord,\" said [[p:曹操|Cao Cao]], and let him go."
+   }
+  ],
+  [
+   "曹操",
+   "荀彧",
+   "lord",
+   {
+    "ja": "「我が子房 (張良)」と[[p:曹操]]が呼んだ参謀。[[p:曹操]]が魏公になることに反対し、まもなく世を去った。",
+    "en": "[[p:曹操|Cao Cao]]'s \"[[p:張梁|Zhang Liang]]\". He opposed [[p:曹操|Cao Cao]] becoming Duke of Wei, and died soon after."
+   }
+  ],
+  [
+   "曹操",
+   "郭嘉",
+   "lord",
+   {
+    "ja": "赤壁の敗北の後、[[p:曹操]]は「[[p:郭嘉]]が生きていれば、こんなことにはならなかった」と嘆いた。",
+    "en": "After Red Cliffs [[p:曹操|Cao Cao]] lamented: \"If [[p:郭嘉|Guo Jia]] were alive, this would never have happened.\""
+   }
+  ],
+  [
+   "曹操",
+   "典韋",
+   "lord",
+   {
+    "ja": "宛城の夜襲で、[[p:典韋]]は門を守って[[p:曹操]]を逃がし、立ったまま死んだ。",
+    "en": "In the night attack at Wan, [[p:典韋|Dian Wei]] held the gate so [[p:曹操|Cao Cao]] could escape, and died on his feet."
+   }
+  ],
+  [
+   "曹操",
+   "許褚",
+   "lord"
+  ],
+  [
+   "曹操",
+   "夏侯惇",
+   "lord"
+  ],
+  [
+   "曹操",
+   "華佗",
+   "betrayed",
+   {
+    "ja": "頭痛の治療を拒んだ名医[[p:華佗]]を、[[p:曹操]]は獄で死なせた。のちに我が子曹沖を失ったとき、[[p:曹操]]はそれを悔いた。",
+    "en": "[[p:曹操|Cao Cao]] let the great physician [[p:華佗|Hua Tuo]] die in prison for refusing to treat his headaches — and regretted it when his son Cao Chong died."
+   }
+  ],
+  [
+   "曹操",
+   "陳宮",
+   "betrayed_by",
+   {
+    "ja": "[[p:陳宮]]は一度は[[p:曹操]]を兗州に迎えたが、のちに[[p:呂布]]を引き入れて背いた。",
+    "en": "[[p:陳宮|Chen Gong]] once welcomed [[p:曹操|Cao Cao]] to Yan province, then let [[p:呂布|Lü Bu]] in and turned against him."
+   }
+  ],
+  [
+   "呂布",
+   "董卓",
+   "betrayed",
+   {
+    "ja": "養父[[p:董卓]]を、[[p:呂布]]は[[p:王允]]と結んで殺した。",
+    "en": "[[p:呂布|Lü Bu]], [[p:董卓|Dong Zhuo]]'s adopted son, killed him in league with [[p:王允|Wang Yun]]."
+   }
+  ],
+  [
+   "王允",
+   "呂布",
+   "friend"
+  ],
+  [
+   "呂布",
+   "陳宮",
+   "lord"
+  ],
+  [
+   "呂布",
+   "高順",
+   "lord"
+  ],
+  [
+   "孫策",
+   "周瑜",
+   "sworn",
+   {
+    "ja": "「断金の交わり」。同い年の二人は義兄弟となり、それぞれ大喬・小喬を妻とした。",
+    "en": "\"Friendship that could cut metal.\" Born the same year, they became sworn brothers and married the Qiao sisters."
+   }
+  ],
+  [
+   "周瑜",
+   "魯粛",
+   "friend",
+   {
+    "ja": "兵糧に困った[[p:周瑜]]に、[[p:魯粛]]は二つあった米蔵の一つをそのまま指さして与えた。",
+    "en": "When [[p:周瑜|Zhou Yu]] was short of food, [[p:魯粛|Lu Su]] pointed to one of his two granaries and gave it to him whole."
+   }
+  ],
+  [
+   "孫権",
+   "周瑜",
+   "lord"
+  ],
+  [
+   "孫権",
+   "魯粛",
+   "lord"
+  ],
+  [
+   "孫権",
+   "呂蒙",
+   "lord",
+   {
+    "ja": "「呉下の阿蒙にあらず」。[[p:孫権]]に学問を勧められた[[p:呂蒙]]は見違えるほどになり、[[p:魯粛]]を驚かせた。",
+    "en": "\"No longer the Ameng of Wu.\" Urged by [[p:孫権|Sun Quan]] to study, [[p:呂蒙|Lü Meng]] changed beyond recognition and astonished [[p:魯粛|Lu Su]]."
+   }
+  ],
+  [
+   "孫権",
+   "陸遜",
+   "lord"
+  ],
+  [
+   "孫権",
+   "甘寧",
+   "lord"
+  ],
+  [
+   "甘寧",
+   "凌統",
+   "rival",
+   {
+    "ja": "[[p:甘寧]]は[[p:凌統]]の父を討っていた。だが合肥で[[p:甘寧]]は[[p:凌統]]の命を救い、二人の間のわだかまりは解けたという。",
+    "en": "[[p:甘寧|Gan Ning]] had killed [[p:凌統|Ling Tong]]'s father; but at Hefei he saved [[p:凌統|Ling Tong]]'s life, and the grudge eased, it is said."
+   }
+  ],
+  [
+   "呂蒙",
+   "関羽",
+   "betrayed",
+   {
+    "ja": "[[p:呂蒙]]は病と偽って油断させ、白い服を着せた兵を商人に化けさせて荊州を奪った。",
+    "en": "[[p:呂蒙|Lü Meng]] feigned illness to lull [[p:関羽|Guan Yu]], disguised soldiers in white as merchants, and took Jing province."
+   }
+  ],
+  [
+   "張遼",
+   "関羽",
+   "friend"
+  ],
+  [
+   "徐晃",
+   "関羽",
+   "friend",
+   {
+    "ja": "同郷の二人は樊城で敵として向き合った。",
+    "en": "Men of the same district, they met as enemies at Fan."
+   }
+  ],
+  [
+   "龐徳",
+   "関羽",
+   "rival",
+   {
+    "ja": "[[p:龐徳]]は棺を担がせて出陣し、[[p:関羽]]の額を矢で射たが、捕らえられて降らずに斬られた。",
+    "en": "[[p:龐徳|Pang De]] rode out with his coffin carried behind him and shot [[p:関羽|Guan Yu]] in the forehead; captured, he would not submit and was beheaded."
+   }
+  ],
+  [
+   "曹丕",
+   "曹植",
+   "rival",
+   {
+    "ja": "才に溢れる弟の[[p:曹植]]と、帝位を争った。",
+    "en": "He fought his gifted brother [[p:曹植|Cao Zhi]] for the succession."
+   }
+  ],
+  [
+   "嵆康",
+   "阮籍",
+   "friend",
+   {
+    "ja": "竹林の七賢。",
+    "en": "Two of the Seven Sages of the Bamboo Grove."
+   }
+  ],
+  [
+   "鍾会",
+   "嵆康",
+   "betrayed",
+   {
+    "ja": "[[p:嵆康]]に冷たくあしらわれた[[p:鍾会]]は、[[p:司馬昭]]に讒言して死なせた。",
+    "en": "Snubbed by [[p:嵆康|Ji Kang]], [[p:鍾会|Zhong Hui]] slandered him to [[p:司馬昭|Sima Zhao]] and had him killed."
+   }
+  ],
+  [
+   "鍾会",
+   "鄧艾",
+   "betrayed",
+   {
+    "ja": "蜀を降した[[p:鄧艾]]を、[[p:鍾会]]は謀反と訴えて捕らえさせた。",
+    "en": "When [[p:鄧艾|Deng Ai]] had taken Shu, [[p:鍾会|Zhong Hui]] accused him of treason and had him arrested."
+   }
+  ],
+  [
+   "陸抗",
+   "羊祜",
+   "friend",
+   {
+    "ja": "「羊陸の交わり」。国境で対陣する敵将同士でありながら、[[p:陸抗]]は[[p:羊祜]]の贈った薬を疑わずに飲み、[[p:羊祜]]は[[p:陸抗]]の贈った酒を疑わずに飲んだ。",
+    "en": "\"The friendship of Yang and Lu.\" Enemy commanders on the frontier, [[p:陸抗|Lu Kang]] drank the medicine [[p:羊祜|Yang Hu]] sent him without suspicion, and [[p:羊祜|Yang Hu]] the wine [[p:陸抗|Lu Kang]] sent."
+   }
+  ],
+  [
+   "袁紹",
+   "田豊",
+   "betrayed",
+   {
+    "ja": "戦うなと諫めた[[p:田豊]]を獄につなぎ、官渡で敗れた[[p:袁紹]]は恥じて[[p:田豊]]を殺した。",
+    "en": "[[p:袁紹|Yuan Shao]] jailed [[p:田豊|Tian Feng]] for advising against battle; beaten at Guandu, he killed him out of shame."
+   }
+  ],
+  [
+   "袁紹",
+   "沮授",
+   "lord"
+  ]
  ]
 }

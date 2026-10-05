@@ -2382,6 +2382,23 @@
      "ambitious"
     ]
    }
+  ],
+  [
+   "ソシュロス",
+   "Sosylus",
+   "carthage",
+   "scholar",
+   260,
+   190,
+   {
+    "from": 218,
+    "ab": [
+     5,
+     2,
+     5,
+     5
+    ]
+   }
   ]
  ],
  "events": [
@@ -4022,8 +4039,8 @@
     "en": "The beginnings of Latin literature"
    },
    "body": {
-    "ja": "ローマの文学は、ギリシアから来た一人の解放奴隷に始まる。タレントゥム出身の[[p:リウィウス・アンドロニクス]]は、ホメロスの『オデュッセイア』をラテン語に訳し、前240年に初めてギリシア風の劇をローマで上演した。前207年、ハスドルバルがイタリアに迫ったとき、国の頼みで神々への賛歌を作ったのも彼である。\n\n戦争のさなかでも劇場は賑わった。[[p:プラウトゥス]]はギリシアの喜劇を下敷きに、ほら吹きの兵隊や知恵の回る奴隷が活躍する笑いの劇を次々に書いた。\n\n前204年、カトはサルディニアから詩人[[p:エンニウス]]をローマへ連れて来た。[[p:エンニウス]]はローマの歴史を詩で歌った『年代記』を書き、ファビウスについて「ひとりの人がためらうことによって、我らに国を取り戻してくれた」と歌った。最初のローマの歴史書を書いたのは元老院議員ファビウス・ピクトルで、彼はそれをギリシア語で書いた。ギリシアの世界にローマの言い分を伝えるためであった。",
-    "en": "Roman literature begins with a freedman from the Greek world: [[p:リウィウス・アンドロニクス|Livius Andronicus]] of Tarentum, who translated Homer's Odyssey into Latin and in 240 BC put on the first Greek-style play at Rome. In 207, with Hasdrubal marching into Italy, it was he whom the state asked for a hymn to the gods.\n\nEven in the war the theatres were full. [[p:プラウトゥス|Plautus]] reworked Greek comedies into roaring farces of braggart soldiers and clever slaves.\n\nIn 204 Cato brought the poet [[p:エンニウス|Ennius]] from Sardinia to Rome. [[p:エンニウス|Ennius]] sang Rome's history in his Annals, and wrote of Fabius: \"One man, by delaying, restored the state to us.\" The first history of Rome was written by the senator Fabius Pictor — in Greek, to put Rome's case to the Greek world."
+    "ja": "ローマの文学は、ギリシアから来た一人の解放奴隷に始まる。タレントゥム出身の[[p:リウィウス・アンドロニクス]]は、ホメロスの『オデュッセイア』をラテン語に訳し、前240年に初めてギリシア風の劇をローマで上演した。前207年、ハスドルバルがイタリアに迫ったとき、国の頼みで神々への賛歌を作ったのも彼である。\n\n戦争のさなかでも劇場は賑わった。[[p:プラウトゥス]]はギリシアの喜劇を下敷きに、ほら吹きの兵隊や知恵の回る奴隷が活躍する笑いの劇を次々に書いた。\n\n前204年、カトはサルディニアから詩人[[p:エンニウス]]をローマへ連れて来た。エンニウスはローマの歴史を詩で歌った『年代記』を書き、ファビウスについて「ひとりの人がためらうことによって、我らに国を取り戻してくれた」と歌った。最初のローマの歴史書を書いたのは元老院議員ファビウス・ピクトルで、彼はそれをギリシア語で書いた。ギリシアの世界にローマの言い分を伝えるためであった。",
+    "en": "Roman literature begins with a freedman from the Greek world: [[p:リウィウス・アンドロニクス|Livius Andronicus]] of Tarentum, who translated Homer's Odyssey into Latin and in 240 BC put on the first Greek-style play at Rome. In 207, with Hasdrubal marching into Italy, it was he whom the state asked for a hymn to the gods.\n\nEven in the war the theatres were full. [[p:プラウトゥス|Plautus]] reworked Greek comedies into roaring farces of braggart soldiers and clever slaves.\n\nIn 204 Cato brought the poet [[p:エンニウス|Ennius]] from Sardinia to Rome. Ennius sang Rome's history in his Annals, and wrote of Fabius: \"One man, by delaying, restored the state to us.\" The first history of Rome was written by the senator Fabius Pictor — in Greek, to put Rome's case to the Greek world."
    },
    "year": 240,
    "people": [
@@ -4050,8 +4067,8 @@
     "en": "Hannibal's historians"
    },
    "body": {
-    "ja": "[[p:ハンニバル]]はギリシア語を、スパルタ人ソシュロスから学んだ。ソシュロスは師として[[p:ハンニバル]]の遠征に付き従い、シチリアのシレノスとともに、その戦いを書き残した。\n\n二人の書は失われたが、のちのギリシアの歴史家ポリュビオスがそれを使って第二次ポエニ戦争を書いた。もっともポリュビオスは、ソシュロスの書を「床屋の世間話のようなもの」とけなしてもいる。\n\n[[p:ハンニバル]]自身も記録を残した。イタリアを去る前、彼は南イタリアのラキニオン岬の女神の神殿に、自分の兵の数や戦いの次第を、カルタゴの言葉とギリシア語の二つで刻んだ銅板を奉納した。ポリュビオスはその銅板を自分の目で見て、ハンニバル軍の兵の数を書いている。",
-    "en": "[[p:ハンニバル|Hannibal]] learned Greek from a Spartan, Sosylus, who went with him on campaign as his tutor and, with Silenus of Sicily, wrote the history of his war.\n\nTheir books are lost, but the Greek historian Polybius used them for his account of the Second Punic War — though he dismissed Sosylus as \"the gossip of a barber's shop\".\n\n[[p:ハンニバル|Hannibal]] kept his own record too. Before leaving Italy he set up in the temple of the goddess on the Lacinian cape a bronze tablet in Punic and Greek listing his forces and his deeds; Polybius saw it with his own eyes and took his numbers for [[p:ハンニバル|Hannibal]]'s army from it."
+    "ja": "[[p:ハンニバル]]はギリシア語を、スパルタ人[[p:ソシュロス]]から学んだ。ソシュロスは師としてハンニバルの遠征に付き従い、シチリアのシレノスとともに、その戦いを書き残した。\n\n二人の書は失われたが、のちのギリシアの歴史家ポリュビオスがそれを使って第二次ポエニ戦争を書いた。もっともポリュビオスは、ソシュロスの書を「床屋の世間話のようなもの」とけなしてもいる。\n\nハンニバル自身も記録を残した。イタリアを去る前、彼は南イタリアのラキニオン岬の女神の神殿に、自分の兵の数や戦いの次第を、カルタゴの言葉とギリシア語の二つで刻んだ銅板を奉納した。ポリュビオスはその銅板を自分の目で見て、ハンニバル軍の兵の数を書いている。",
+    "en": "[[p:ハンニバル|Hannibal]] learned Greek from a Spartan, [[p:ソシュロス|Sosylus]], who went with him on campaign as his tutor and, with Silenus of Sicily, wrote the history of his war.\n\nTheir books are lost, but the Greek historian Polybius used them for his account of the Second Punic War — though he dismissed Sosylus as \"the gossip of a barber's shop\".\n\nHannibal kept his own record too. Before leaving Italy he set up in the temple of the goddess on the Lacinian cape a bronze tablet in Punic and Greek listing his forces and his deeds; Polybius saw it with his own eyes and took his numbers for Hannibal's army from it."
    },
    "year": 218,
    "people": [
@@ -4341,5 +4358,184 @@
    "begun": 230,
    "done": 220
   }
+ ],
+ "ties": [
+  [
+   "ハンニバル",
+   "プブリウス・スキピオ",
+   "rival",
+   {
+    "ja": "ザマの前に二人は両軍の間で会見した。後年エフェソスで再会したとも伝わる。",
+    "en": "They met between the armies before Zama, and again at Ephesus years later, the story goes."
+   }
+  ],
+  [
+   "ハンニバル",
+   "クィントゥス・ファビウス・マクシムス",
+   "rival",
+   {
+    "ja": "決戦を避けてつきまとうファビウスに、[[p:ハンニバル]]は手を焼いた。",
+    "en": "Fabius, dogging his steps and refusing battle, was a thorn in [[p:ハンニバル|Hannibal]]'s side."
+   }
+  ],
+  [
+   "ハンニバル",
+   "マハルバル",
+   "lord",
+   {
+    "ja": "「あなたは勝つことを知っているが、勝利を使うことを知らない」。",
+    "en": "\"You know how to win a victory, but not how to use one.\""
+   }
+  ],
+  [
+   "ハンニバル",
+   "ヒッポクラテス",
+   "lord"
+  ],
+  [
+   "ハンニバル",
+   "エピキュデス",
+   "lord"
+  ],
+  [
+   "ソシュロス",
+   "ハンニバル",
+   "mentor",
+   {
+    "ja": "スパルタ人[[p:ソシュロス]]は[[p:ハンニバル]]にギリシア語を教え、遠征に付き従って戦いを書き残した。",
+    "en": "The Spartan [[p:ソシュロス|Sosylus]] taught [[p:ハンニバル|Hannibal]] Greek, went with him on campaign and wrote his war."
+   }
+  ],
+  [
+   "大ハンノ",
+   "ハンニバル",
+   "rival",
+   {
+    "ja": "カルタゴの和平派を率いた[[p:大ハンノ]]は、バルカ家の戦争に反対し続けた。",
+    "en": "[[p:大ハンノ|Hanno the Great]] led the peace party at Carthage and opposed the Barcid war throughout."
+   }
+  ],
+  [
+   "プブリウス・スキピオ",
+   "ガイウス・ラエリウス",
+   "friend",
+   {
+    "ja": "ラエリウスは若い頃からのスキピオの友で、イベリアでもアフリカでも副将を務めた。",
+    "en": "Laelius was Scipio's friend from youth and his second in Spain and Africa."
+   }
+  ],
+  [
+   "プブリウス・スキピオ",
+   "マシニッサ",
+   "friend",
+   {
+    "ja": "スキピオはイベリアで捕らえた[[p:マシニッサ]]の甥を贈り物とともに帰した。それが[[p:マシニッサ]]を味方に変えたという。",
+    "en": "In Spain Scipio sent home [[p:マシニッサ|Masinissa]]'s captured nephew with gifts — the gesture that won [[p:マシニッサ|Masinissa]] over, they say."
+   }
+  ],
+  [
+   "マルクス・ポルキウス・カト",
+   "プブリウス・スキピオ",
+   "rival",
+   {
+    "ja": "シチリアでのスキピオのギリシア風の贅沢を、財務官のカトは厳しく批判した。二人の対立は生涯続いた。",
+    "en": "As quaestor Cato attacked Scipio's Greek-style luxury in Sicily; their feud lasted all their lives."
+   }
+  ],
+  [
+   "クィントゥス・ファビウス・マクシムス",
+   "プブリウス・スキピオ",
+   "rival",
+   {
+    "ja": "アフリカへ渡る若いスキピオの計画に、老ファビウスは元老院で強く反対した。",
+    "en": "In the senate old Fabius fought young Scipio's plan to invade Africa."
+   }
+  ],
+  [
+   "クィントゥス・ファビウス・マクシムス",
+   "マルクス・ミヌキウス・ルフス",
+   "mentor",
+   {
+    "ja": "無謀な戦いでファビウスに救われたミヌキウスは、ファビウスを「父」と呼んで従った。",
+    "en": "Rescued by Fabius from his own rashness, Minucius hailed him as \"father\" and submitted to him."
+   }
+  ],
+  [
+   "クィントゥス・ファビウス・マクシムス",
+   "マルクス・クラウディウス・マルケッルス",
+   "companion",
+   {
+    "ja": "「ローマの盾」ファビウスと「ローマの剣」マルケッルス。",
+    "en": "Fabius, \"the shield of Rome\", and Marcellus, \"the sword of Rome\"."
+   }
+  ],
+  [
+   "マシニッサ",
+   "シュファクス",
+   "rival"
+  ],
+  [
+   "マシニッサ",
+   "ソフォニスバ",
+   "love",
+   {
+    "ja": "かつての許嫁[[p:ソフォニスバ]]を妻とした[[p:マシニッサ]]は、ローマに引き渡すよう迫られ、毒を送った。[[p:ソフォニスバ]]は「婚礼の贈り物として受け取る」と言って飲んだという。",
+    "en": "[[p:マシニッサ|Masinissa]] married [[p:ソフォニスバ|Sophonisba]], once promised to him; when Rome demanded her, he sent her poison. She drank it, saying she accepted it as a wedding gift, the story goes."
+   }
+  ],
+  [
+   "シュファクス",
+   "ソフォニスバ",
+   "love",
+   {
+    "ja": "[[p:ハスドルバル・ギスコ]]の娘[[p:ソフォニスバ]]を妻に迎え、[[p:シュファクス]]はカルタゴについた。",
+    "en": "Married to [[p:ソフォニスバ|Sophonisba]], [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]]'s daughter, [[p:シュファクス|Syphax]] took Carthage's side."
+   }
+  ],
+  [
+   "ヒエロン2世",
+   "アルキメデス",
+   "friend",
+   {
+    "ja": "[[p:アルキメデス]]は王の縁者であり、王の冠に混ぜ物がないかを調べる難題を、風呂で解いたという。",
+    "en": "[[p:アルキメデス|Archimedes]] was the king's kinsman; he solved the puzzle of whether the king's crown was pure gold in his bath, it is said."
+   }
+  ],
+  [
+   "マルクス・ポルキウス・カト",
+   "エンニウス",
+   "friend",
+   {
+    "ja": "カトはサルディニアで出会った[[p:エンニウス]]をローマへ連れて来た。",
+    "en": "Cato brought [[p:エンニウス|Ennius]] to Rome from Sardinia."
+   }
+  ],
+  [
+   "プブリウス・スキピオ",
+   "エンニウス",
+   "friend",
+   {
+    "ja": "[[p:エンニウス]]の像はスキピオ家の墓に置かれたという。",
+    "en": "A statue of [[p:エンニウス|Ennius]] was set in the tomb of the Scipios, it is said."
+   }
+  ],
+  [
+   "インディビリス",
+   "プブリウス・スキピオ",
+   "betrayed",
+   {
+    "ja": "スキピオに味方したイレルゲテス族の長[[p:インディビリス]]は、スキピオが病と聞いて背いた。",
+    "en": "[[p:インディビリス|Indibilis]], chief of the Ilergetes, who had joined Scipio, rose against him when he heard Scipio was ill."
+   }
+  ],
+  [
+   "ファロスのデメトリオス",
+   "フィリッポス5世",
+   "friend",
+   {
+    "ja": "ローマに追われたデメトリオスは、フィリッポスにイタリアへの野心を吹き込んだ。",
+    "en": "Driven out by Rome, Demetrius stirred Philip's ambitions towards Italy."
+   }
+  ]
  ]
 }

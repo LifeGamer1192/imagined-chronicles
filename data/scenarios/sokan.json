@@ -2149,6 +2149,26 @@
      "brave"
     ]
    }
+  ],
+  [
+   "黄石公",
+   "Huangshi Gong",
+   "hank",
+   "scholar",
+   280,
+   200,
+   {
+    "from": 218,
+    "ab": [
+     6,
+     6,
+     6,
+     6
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
   ]
  ],
  "events": [
@@ -3834,7 +3854,7 @@
     "en": "The three laws"
    },
    "body": {
-    "ja": "前207年の冬、[[p:劉邦]]は武関から関中に入り、秦王[[p:子嬰]]の降伏を受けた。宮殿の財宝と美女に心を奪われかけた[[p:劉邦]]を、[[p:樊噲]]と[[p:張良]]がいさめ、[[p:劉邦]]は覇上の陣に戻った。\n\n[[p:劉邦]]は関中の長老たちを集めて言った。「皆は長く秦の苛酷な法に苦しんできた。私は皆と約束しよう。法はただ三章。人を殺した者は死罪、人を傷つけた者と盗んだ者は、それぞれの罪に応じて罰する。それ以外の秦の法はすべて除く」。\n\n秦の民は大いに喜び、牛や羊、酒を持って兵をもてなそうとした。劉邦は「倉には穀物が多い。民に負担をかけたくない」と受け取らなかった。民はますます喜び、劉邦が関中の王にならないことを恐れたという。同じ時、[[p:蕭何]]はただ一人、秦の役所の法令・地図・戸籍を集めて持ち出した。これがのちに、漢が天下の地形と人口を知る元となった。",
+    "ja": "前207年の冬、[[p:劉邦]]は武関から関中に入り、秦王[[p:子嬰]]の降伏を受けた。宮殿の財宝と美女に心を奪われかけた[[p:劉邦]]を、[[p:樊噲]]と[[p:張良]]がいさめ、[[p:劉邦]]は覇上の陣に戻った。\n\n[[p:劉邦]]は関中の長老たちを集めて言った。「皆は長く秦の苛酷な法に苦しんできた。私は皆と約束しよう。法はただ三章。人を殺した者は死罪、人を傷つけた者と盗んだ者は、それぞれの罪に応じて罰する。それ以外の秦の法はすべて除く」。\n\n秦の民は大いに喜び、牛や羊、酒を持って兵をもてなそうとした。[[p:劉邦]]は「倉には穀物が多い。民に負担をかけたくない」と受け取らなかった。民はますます喜び、[[p:劉邦]]が関中の王にならないことを恐れたという。同じ時、[[p:蕭何]]はただ一人、秦の役所の法令・地図・戸籍を集めて持ち出した。これがのちに、漢が天下の地形と人口を知る元となった。",
     "en": "In the winter of 207 BC [[p:劉邦|Liu Bang]] entered Guanzhong through the Wu pass and received the surrender of [[p:子嬰|Ziying]], King of Qin. Tempted by the treasures and women of the palace, he was talked out of it by [[p:樊噲|Fan Kuai]] and [[p:張良|Zhang Liang]] and went back to his camp at Bashang.\n\nHe called together the elders of Guanzhong: \"You have long suffered under the cruel laws of Qin. I make you this promise: three laws only. Whoever kills shall die; whoever wounds or steals shall be punished according to the crime. All the other laws of Qin are abolished.\"\n\nThe people of Qin rejoiced and brought oxen, sheep and wine for his soldiers. [[p:劉邦|Liu Bang]] refused them: the granaries were full and he would not burden the people. They loved him all the more and feared only that he might not become their king. Meanwhile [[p:蕭何|Xiao He]] alone gathered up the laws, maps and registers of the Qin offices — the knowledge by which Han would later know the land and people of the whole realm."
    },
    "year": 207,
@@ -3861,7 +3881,7 @@
     "en": "Xiao He's Nine Chapters"
    },
    "body": {
-    "ja": "天下を取った漢は、法三章だけでは国を治められなかった。[[p:蕭何]]は秦の法を取捨し、李悝の『法経』六篇に、戸 (戸籍)・興 (労役)・厩 (馬と倉) の三篇を加えて「九章律」とした。\n\n[[p:蕭何]]が死ぬと、後を継いだ[[p:曹参]]は[[p:蕭何]]の決めたことを何一つ変えず、毎日酒を飲んでいた。いぶかる恵帝に[[p:曹参]]は尋ねた。「陛下と高祖では、どちらが優れておられますか」「高祖には及ばない」「私と[[p:蕭何]]では」「及ばないようだ」「では、高祖と蕭何が定めたものを、私たちが守っていればよいのです」。「蕭規曹随」(蕭何が規を作り、[[p:曹参]]が随う) という言葉はここから生まれた。",
+    "ja": "天下を取った漢は、法三章だけでは国を治められなかった。[[p:蕭何]]は秦の法を取捨し、李悝の『法経』六篇に、戸 (戸籍)・興 (労役)・厩 (馬と倉) の三篇を加えて「九章律」とした。\n\n[[p:蕭何]]が死ぬと、後を継いだ[[p:曹参]]は[[p:蕭何]]の決めたことを何一つ変えず、毎日酒を飲んでいた。いぶかる恵帝に[[p:曹参]]は尋ねた。「陛下と高祖では、どちらが優れておられますか」「高祖には及ばない」「私と[[p:蕭何]]では」「及ばないようだ」「では、高祖と[[p:蕭何]]が定めたものを、私たちが守っていればよいのです」。「蕭規曹随」([[p:蕭何]]が規を作り、[[p:曹参]]が随う) という言葉はここから生まれた。",
     "en": "Victorious Han could not rule the realm on three laws. [[p:蕭何|Xiao He]] sifted the laws of Qin and added three chapters — households, labour service, stables and granaries — to Li Kui's six-part Canon, making the Nine Chapters.\n\nWhen [[p:蕭何|Xiao He]] died his successor Cao Can changed nothing he had set down, and drank wine every day. When the puzzled Emperor Hui asked why, Cao Can asked him: \"Who is the greater, Your Majesty or the founder?\" \"I cannot match the founder.\" \"And I or [[p:蕭何|Xiao He]]?\" \"You seem not his equal.\" \"Then if we keep what the founder and [[p:蕭何|Xiao He]] laid down, that is enough.\" Hence the saying \"Xiao made the rules and Cao followed them\"."
    },
    "year": 202,
@@ -3886,7 +3906,7 @@
     "en": "The teaching of the Yellow Emperor and Laozi"
    },
    "body": {
-    "ja": "秦の厳しい法と、続く戦乱に疲れ果てた人々にとって、何よりも必要だったのは休息であった。漢の初めに重んじられたのが、伝説の帝王黄帝と老子の名を冠した「黄老」の考えである。上に立つ者は余計なことをせず、民を休ませれば、世は自ずから治まる。\n\n[[p:曹参]]は斉の宰相となったとき、斉の学者たちを集めて治め方を問うたが、百人百様で決められなかった。膠西に蓋公という黄老の学者がいると聞いて招くと、蓋公は「治める道は清らかで静かであることを貴ぶ。そうすれば民は自ずから落ち着く」と答えた。[[p:曹参]]はそれに従い、九年で斉はよく治まった。\n\n漢は税を軽くし、労役を減らし、「民と共に休息する」政治を数十年続けた。文帝・景帝の時代、蔵の銭は数えきれず、銭を通す紐が腐るほどだったと『史記』は書く。",
+    "ja": "秦の厳しい法と、続く戦乱に疲れ果てた人々にとって、何よりも必要だったのは休息であった。漢の初めに重んじられたのが、伝説の帝王黄帝と老子の名を冠した「黄老」の考えである。上に立つ者は余計なことをせず、民を休ませれば、世は自ずから治まる。\n\n[[p:曹参]]は斉の宰相となったとき、斉の学者たちを集めて治め方を問うたが、百人百様で決められなかった。膠西に蓋公という黄老の学者がいると聞いて招くと、蓋公は「治める道は清らかで静かであることを貴ぶ。そうすれば民は自ずから落ち着く」と答えた。曹参はそれに従い、九年で斉はよく治まった。\n\n漢は税を軽くし、労役を減らし、「民と共に休息する」政治を数十年続けた。文帝・景帝の時代、蔵の銭は数えきれず、銭を通す紐が腐るほどだったと『史記』は書く。",
     "en": "Worn out by Qin's harsh laws and the wars that followed, what people needed above all was rest. Early Han honoured the \"Huang-Lao\" teaching, named for the legendary Yellow Emperor and Laozi: let those above do nothing needless, let the people rest, and the world governs itself.\n\nWhen Cao Can became chief minister of Qi he asked the scholars of Qi how to govern, and got a hundred answers. Hearing of a Huang-Lao master, Lord Gai of Jiaoxi, he sent for him; the old man said: \"The way of governing prizes clarity and stillness; then the people settle of themselves.\" Cao Can followed it, and in nine years Qi was well ruled.\n\nHan kept taxes light and labour service small, \"resting together with the people\", for decades. Under Emperors Wen and Jing, says the Records of the Grand Historian, there was so much money in the treasury that the cords stringing the coins rotted."
    },
    "year": 202,
@@ -3910,8 +3930,8 @@
     "en": "The burning of the books"
    },
    "body": {
-    "ja": "前213年、始皇帝の宴の席で、博士の淳于越は「古の殷周は子弟を王に封じて千年余り続いた。古を師としないで長く続いた例はない」と、郡県をやめて封建に戻すよう説いた。丞相の[[p:李斯]]は猛然と反論した。「学者たちは今を学ばず古を学び、それで今を誹り、民を惑わしている」。\n\n始皇帝は[[p:李斯]]の進言を入れ、秦の記録以外の歴史書と、民間の『詩』『書』や諸子の書を焼かせた。残されたのは医薬・占い・農業の書だけ。『詩』『書』を語り合う者は死罪、古を引いて今を誹る者は一族皆殺しとした。翌年には、始皇帝を誹ったとして四百六十余人の学者や方士を咸陽で穴に埋めたと『史記』は伝える。\n\n書を守った者もいた。秦の博士伏生は『書経』を壁の中に塗り込めて隠し、漢の世になって掘り出した。孔子の旧宅の壁からも、漢の時代に古い文字で書かれた経書が見つかっている。秦の博士だった[[p:叔孫通]]は、秦の終わりに逃れて、のちに漢の朝廷の儀礼を作った。",
-    "en": "At a banquet of the First Emperor in 213 BC the scholar Chunyu Yue argued that Shang and Zhou had lasted a thousand years by giving fiefs to their kin, and that nothing lasted that did not take antiquity as its teacher: the commanderies should give way to fiefs. The chancellor [[p:李斯|Li Si]] answered fiercely: the scholars learned not the present but the past, and used it to slander the present and confuse the people.\n\nThe emperor took [[p:李斯|Li Si]]'s advice. Every history but Qin's, and the Odes, the Documents and the books of the philosophers in private hands, were burned; only books of medicine, divination and farming were spared. To discuss the Odes and Documents was death; to use the past to criticise the present, death for the whole clan. The next year, says the Records of the Grand Historian, more than four hundred and sixty scholars and magicians accused of slandering the emperor were buried at Xianyang.\n\nSome saved the books. Fu Sheng, a Qin scholar, walled up the Documents and dug them out again under Han; old texts in ancient script were found in the walls of Confucius's house in Han times too. [[p:叔孫通|Shusun Tong]], a scholar at the Qin court, slipped away at its end and later drew up the ceremonies of the Han court."
+    "ja": "前213年、始皇帝の宴の席で、博士の淳于越は「古の殷周は子弟を王に封じて千年余り続いた。古を師としないで長く続いた例はない」と、郡県をやめて封建に戻すよう説いた。丞相の[[p:李斯]]は猛然と反論した。「学者たちは今を学ばず古を学び、それで今を誹り、民を惑わしている」。\n\n始皇帝は李斯の進言を入れ、秦の記録以外の歴史書と、民間の『詩』『書』や諸子の書を焼かせた。残されたのは医薬・占い・農業の書だけ。『詩』『書』を語り合う者は死罪、古を引いて今を誹る者は一族皆殺しとした。翌年には、始皇帝を誹ったとして四百六十余人の学者や方士を咸陽で穴に埋めたと『史記』は伝える。\n\n書を守った者もいた。秦の博士伏生は『書経』を壁の中に塗り込めて隠し、漢の世になって掘り出した。孔子の旧宅の壁からも、漢の時代に古い文字で書かれた経書が見つかっている。秦の博士だった[[p:叔孫通]]は、秦の終わりに逃れて、のちに漢の朝廷の儀礼を作った。",
+    "en": "At a banquet of the First Emperor in 213 BC the scholar Chunyu Yue argued that Shang and Zhou had lasted a thousand years by giving fiefs to their kin, and that nothing lasted that did not take antiquity as its teacher: the commanderies should give way to fiefs. The chancellor [[p:李斯|Li Si]] answered fiercely: the scholars learned not the present but the past, and used it to slander the present and confuse the people.\n\nThe emperor took Li Si's advice. Every history but Qin's, and the Odes, the Documents and the books of the philosophers in private hands, were burned; only books of medicine, divination and farming were spared. To discuss the Odes and Documents was death; to use the past to criticise the present, death for the whole clan. The next year, says the Records of the Grand Historian, more than four hundred and sixty scholars and magicians accused of slandering the emperor were buried at Xianyang.\n\nSome saved the books. Fu Sheng, a Qin scholar, walled up the Documents and dug them out again under Han; old texts in ancient script were found in the walls of Confucius's house in Han times too. [[p:叔孫通|Shusun Tong]], a scholar at the Qin court, slipped away at its end and later drew up the ceremonies of the Han court."
    },
    "year": 213,
    "people": [
@@ -4161,5 +4181,237 @@
    "done": 150,
    "lost": 206
   }
+ ],
+ "ties": [
+  [
+   "黄石公",
+   "張良",
+   "mentor",
+   {
+    "ja": "橋の上の老人が沓をわざと落とし、拾わせ、履かせた。[[p:張良]]がそれに従うと、老人は兵法の書を授けた。",
+    "en": "An old man on a bridge dropped his shoe on purpose and had [[p:張良|Zhang Liang]] fetch it and put it on him; when [[p:張良|Zhang Liang]] did, the old man gave him a book of strategy."
+   }
+  ],
+  [
+   "劉邦",
+   "張良",
+   "lord",
+   {
+    "ja": "「謀を帷幄の中に運らし、勝ちを千里の外に決す」と[[p:劉邦]]は[[p:張良]]を讃えた。",
+    "en": "\"He laid plans within the tent that decided victories a thousand li away,\" [[p:劉邦|Liu Bang]] said of [[p:張良|Zhang Liang]]."
+   }
+  ],
+  [
+   "劉邦",
+   "蕭何",
+   "lord"
+  ],
+  [
+   "劉邦",
+   "韓信",
+   "lord",
+   {
+    "ja": "[[p:韓信]]を大将に任じるとき、[[p:劉邦]]は壇を築き、斎戒して礼を尽くした。",
+    "en": "To make [[p:韓信|Han Xin]] his supreme general, [[p:劉邦|Liu Bang]] built an altar and fasted, with every honour."
+   }
+  ],
+  [
+   "劉邦",
+   "韓信",
+   "betrayed",
+   {
+    "ja": "天下を取った後、[[p:劉邦]]は[[p:韓信]]を楚王から淮陰侯に落とした。[[p:韓信]]は「狡兎死して走狗烹らる」と嘆いた。",
+    "en": "Master of the realm, [[p:劉邦|Liu Bang]] demoted [[p:韓信|Han Xin]] from King of Chu to Marquis of Huaiyin. \"The hare dead, the hound is cooked,\" [[p:韓信|Han Xin]] sighed."
+   }
+  ],
+  [
+   "劉邦",
+   "樊噲",
+   "lord",
+   {
+    "ja": "鴻門の会で[[p:樊噲]]は宴に乱入し、[[p:項羽]]を睨みつけて[[p:劉邦]]を救った。妻は[[p:呂雉]]の妹。",
+    "en": "At Hongmen [[p:樊噲|Fan Kuai]] burst into the feast, glared at [[p:項羽|Xiang Yu]] and saved [[p:劉邦|Liu Bang]]; his wife was [[p:呂雉|Lü Zhi]]'s sister."
+   }
+  ],
+  [
+   "劉邦",
+   "曹参",
+   "lord"
+  ],
+  [
+   "劉邦",
+   "周勃",
+   "lord"
+  ],
+  [
+   "劉邦",
+   "夏侯嬰",
+   "lord"
+  ],
+  [
+   "劉邦",
+   "陳平",
+   "lord",
+   {
+    "ja": "[[p:陳平]]は六度の奇計で[[p:劉邦]]を救ったという。",
+    "en": "[[p:陳平|Chen Ping]] saved [[p:劉邦|Liu Bang]] with six strange stratagems, they say."
+   }
+  ],
+  [
+   "劉邦",
+   "盧綰",
+   "friend",
+   {
+    "ja": "[[p:劉邦]]と同じ日に生まれた幼なじみ。",
+    "en": "Born the same day as [[p:劉邦|Liu Bang]], his friend from childhood."
+   }
+  ],
+  [
+   "劉邦",
+   "項羽",
+   "rival"
+  ],
+  [
+   "蕭何",
+   "韓信",
+   "friend",
+   {
+    "ja": "「月下に[[p:韓信]]を追う」。漢を去った[[p:韓信]]を、[[p:蕭何]]は夜通し追って連れ戻した。",
+    "en": "\"Chasing [[p:韓信|Han Xin]] under the moon.\" When [[p:韓信|Han Xin]] left Han, [[p:蕭何|Xiao He]] rode all night after him and brought him back."
+   }
+  ],
+  [
+   "蕭何",
+   "韓信",
+   "betrayed",
+   {
+    "ja": "「成るも[[p:蕭何]]、敗るるも[[p:蕭何]]」。のちに[[p:呂雉]]と謀り、[[p:韓信]]を宮中に呼び出して殺させたのも蕭何であった。",
+    "en": "\"Made by [[p:蕭何|Xiao He]], undone by [[p:蕭何|Xiao He]].\" Later it was Xiao He who, plotting with [[p:呂雉|Lü Zhi]], lured [[p:韓信|Han Xin]] to the palace to be killed."
+   }
+  ],
+  [
+   "項羽",
+   "范増",
+   "lord",
+   {
+    "ja": "[[p:項羽]]は[[p:范増]]を「亜父」(父に次ぐ人) と呼んだ。",
+    "en": "[[p:項羽|Xiang Yu]] called [[p:范増|Fan Zeng]] \"Second Father\"."
+   }
+  ],
+  [
+   "項羽",
+   "范増",
+   "betrayed",
+   {
+    "ja": "[[p:陳平]]の離間の計で[[p:范増]]を疑った[[p:項羽]]に、[[p:范増]]は「天下の大事は定まった」と言って去り、途中で病死した。",
+    "en": "Taken in by [[p:陳平|Chen Ping]]'s ruse, [[p:項羽|Xiang Yu]] doubted [[p:范増|Fan Zeng]], who left — \"the great affair of the realm is settled\" — and died of illness on the way."
+   }
+  ],
+  [
+   "項羽",
+   "虞美人",
+   "love"
+  ],
+  [
+   "項羽",
+   "鍾離眜",
+   "lord"
+  ],
+  [
+   "項羽",
+   "季布",
+   "lord",
+   {
+    "ja": "「[[p:季布]]の一諾」。[[p:季布]]が一度引き受けたことは黄金百斤より重いと言われた。",
+    "en": "\"A promise from [[p:季布|Ji Bu]] is worth more than a hundred catties of gold,\" people said."
+   }
+  ],
+  [
+   "項羽",
+   "龍且",
+   "lord"
+  ],
+  [
+   "項伯",
+   "張良",
+   "friend",
+   {
+    "ja": "かつて[[p:張良]]に命を救われた[[p:項伯]]は、鴻門の会の前夜、[[p:張良]]に危険を知らせ、宴では剣舞で[[p:劉邦]]をかばった。",
+    "en": "[[p:項伯|Xiang Bo]], whose life [[p:張良|Zhang Liang]] had once saved, warned him on the eve of Hongmen, and at the feast shielded [[p:劉邦|Liu Bang]] with his own sword dance."
+   }
+  ],
+  [
+   "韓信",
+   "鍾離眜",
+   "betrayed",
+   {
+    "ja": "旧友の[[p:鍾離眜]]をかくまった[[p:韓信]]は、[[p:劉邦]]の疑いを解くため彼に死を迫った。[[p:鍾離眜]]は「次は君の番だ」と言って自害した。",
+    "en": "[[p:韓信|Han Xin]] sheltered his old friend [[p:鍾離眜|Zhongli Mo]], then pressed him to die to clear himself with [[p:劉邦|Liu Bang]]. \"You will be next,\" said [[p:鍾離眜|Zhongli Mo]], and killed himself."
+   }
+  ],
+  [
+   "韓信",
+   "蒯通",
+   "lord"
+  ],
+  [
+   "張耳",
+   "陳余",
+   "rival",
+   {
+    "ja": "かつて「刎頸の交わり」を結んだ二人は、鉅鹿の囲みで救援を巡って仲違いし、宿敵となった。[[p:陳余]]は井陘で[[p:張耳]]と[[p:韓信]]に討たれた。",
+    "en": "Once sworn \"friends unto death\", they fell out over the relief of Julu and became mortal enemies; [[p:陳余|Chen Yu]] was killed at Jingxing by [[p:張耳|Zhang Er]] and [[p:韓信|Han Xin]]."
+   }
+  ],
+  [
+   "陳勝",
+   "呉広",
+   "friend",
+   {
+    "ja": "大沢郷で、二人は「王侯将相いずくんぞ種あらんや」と叫んで兵を挙げた。",
+    "en": "At Dazexiang they rose crying: \"Are kings and ministers born to it?\""
+   }
+  ],
+  [
+   "趙高",
+   "李斯",
+   "betrayed",
+   {
+    "ja": "始皇帝の遺詔を偽るとき共謀した[[p:李斯]]を、[[p:趙高]]はのちに謀反の罪で腰斬にした。",
+    "en": "[[p:趙高|Zhao Gao]] later had [[p:李斯|Li Si]], his partner in forging the First Emperor's will, cut in two for treason."
+   }
+  ],
+  [
+   "趙高",
+   "二世皇帝",
+   "betrayed",
+   {
+    "ja": "「鹿を指して馬と為す」。[[p:趙高]]は[[p:二世皇帝]]を追い詰めて自害させた。",
+    "en": "\"Calling a deer a horse.\" [[p:趙高|Zhao Gao]] drove [[p:二世皇帝|the Second Emperor]] to suicide."
+   }
+  ],
+  [
+   "子嬰",
+   "趙高",
+   "avenge",
+   {
+    "ja": "即位した[[p:子嬰]]は、病と偽って[[p:趙高]]をおびき寄せ、刺し殺した。",
+    "en": "Made king, [[p:子嬰|Ziying]] feigned illness, lured [[p:趙高|Zhao Gao]] to him and stabbed him to death."
+   }
+  ],
+  [
+   "章邯",
+   "趙高",
+   "rival",
+   {
+    "ja": "[[p:趙高]]の讒言を恐れた[[p:章邯]]は、[[p:項羽]]に降った。",
+    "en": "Fearing [[p:趙高|Zhao Gao]]'s slander, [[p:章邯|Zhang Han]] surrendered to [[p:項羽|Xiang Yu]]."
+   }
+  ],
+  [
+   "冒頓単于",
+   "頭曼単于",
+   "betrayed"
+  ]
  ]
 }
