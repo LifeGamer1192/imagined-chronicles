@@ -2412,8 +2412,8 @@
    ],
    "imp": 3,
    "at": "carthago_nova",
-   "ja": "サグントゥムを落とした{r_carthage}は、ローマの宣戦を受けて新カルタゴを発った。歩兵九万、騎兵一万二千、象三十七頭がエブロ川を越え、イタリアを目指した。",
-   "en": "Having taken Saguntum, {r_carthage} answered Rome's declaration of war by marching from New Carthage: ninety thousand foot, twelve thousand horse and thirty-seven elephants crossed the Ebro, bound for Italy."
+   "ja": "サグントゥムを落とした{r_carthage}は、ローマの宣戦を受けて新カルタゴを発った。歩兵九万、騎兵一万二千、[[a:war_elephants|象]]三十七頭がエブロ川を越え、イタリアを目指した。",
+   "en": "Having taken Saguntum, {r_carthage} answered Rome's declaration of war by marching from New Carthage: ninety thousand foot, twelve thousand horse and thirty-seven [[a:war_elephants|elephants]] crossed the Ebro, bound for Italy."
   },
   {
    "id": "rhone",
@@ -2510,8 +2510,8 @@
     ]
    ],
    "at": "mediolanum",
-   "ja": "ティキヌス川の戦い。騎兵の小競り合いでヌミディア騎兵に囲まれた執政官[[p:プブリウス・スキピオ]]は傷を負い、十七歳の息子に救われた。",
-   "en": "The battle of the Ticinus. In a cavalry clash the consul Publius Scipio was surrounded by Numidian horse and wounded; his seventeen-year-old son saved him."
+   "ja": "ティキヌス川の戦い。騎兵の小競り合いで[[a:numidian|ヌミディア騎兵]]に囲まれた執政官[[p:プブリウス・スキピオ]]は傷を負い、十七歳の息子に救われた。",
+   "en": "The battle of the Ticinus. In a cavalry clash the consul Publius Scipio was surrounded by [[a:numidian|Numidian horse]] and wounded; his seventeen-year-old son saved him."
   },
   {
    "id": "trebia",
@@ -3291,8 +3291,8 @@
    ],
    "imp": 3,
    "at": "zama",
-   "ja": "ザマの戦い。スキピオは隊列の間に道を空けて八十頭の象をやり過ごし、[[p:マシニッサ]]のヌミディア騎兵が戻って[[p:ハンニバル]]の軍の背後を突いた。[[p:ハンニバル]]は初めて敗れた。",
-   "en": "The battle of Zama. Scipio left lanes in his lines for [[p:ハンニバル|Hannibal]]'s eighty elephants to pass through harmlessly, and [[p:マシニッサ|Masinissa]]'s Numidian horse came back to strike [[p:ハンニバル|Hannibal]]'s rear. For the first time, [[p:ハンニバル|Hannibal]] was beaten."
+   "ja": "ザマの戦い。スキピオは隊列の間に道を空けて八十頭の[[a:war_elephants|象]]をやり過ごし、[[p:マシニッサ]]の[[a:numidian|ヌミディア騎兵]]が戻って[[p:ハンニバル]]の軍の背後を突いた。[[p:ハンニバル]]は初めて敗れた。",
+   "en": "The battle of Zama. Scipio left lanes in his lines for [[p:ハンニバル|Hannibal]]'s eighty [[a:war_elephants|elephants]] to pass through harmlessly, and [[p:マシニッサ|Masinissa]]'s [[a:numidian|Numidian horse]] came back to strike [[p:ハンニバル|Hannibal]]'s rear. For the first time, [[p:ハンニバル|Hannibal]] was beaten."
   },
   {
    "id": "peace",
@@ -3383,6 +3383,11 @@
    "read": [
     "numidian",
     "war_elephants"
+   ],
+   "units": [
+    "numidian",
+    "war_elephants",
+    "balearic"
    ]
   },
   "trasimene": {
@@ -3438,6 +3443,9 @@
    },
    "read": [
     "cunctator"
+   ],
+   "units": [
+    "numidian"
    ]
   },
   "cannae": {
@@ -3498,6 +3506,12 @@
    },
    "read": [
     "double_envelopment"
+   ],
+   "units": [
+    "numidian",
+    "legion",
+    "balearic",
+    "gladius"
    ]
   },
   "metaurus": {
@@ -3541,7 +3555,11 @@
    "after": {
     "ja": "[[p:ハンニバル]]は援軍の望みを絶たれ、イタリアの南の端ブルッティウムに籠もった。",
     "en": "With no hope of help, [[p:ハンニバル|Hannibal]] withdrew to Bruttium in the toe of Italy."
-   }
+   },
+   "units": [
+    "war_elephants",
+    "legion"
+   ]
   },
   "ilipa": {
    "name": {
@@ -3586,7 +3604,11 @@
    "after": {
     "ja": "カルタゴはイベリア半島を失った。スキピオはローマへ戻って執政官となり、アフリカへ渡る。",
     "en": "Carthage lost Iberia. Scipio went home, was elected consul and crossed to Africa."
-   }
+   },
+   "units": [
+    "legion",
+    "war_elephants"
+   ]
   },
   "zama": {
    "name": {
@@ -3643,6 +3665,11 @@
    "read": [
     "war_elephants",
     "numidian"
+   ],
+   "units": [
+    "war_elephants",
+    "numidian",
+    "legion"
    ]
   }
  },
@@ -3689,5 +3716,103 @@
     "en": "On a festival night part of the walls was taken and Syracuse fell. [[p:アルキメデス|Archimedes]], drawing figures in the sand, told a soldier not to disturb his circles, and was killed, the story goes."
    }
   }
- ]
+ ],
+ "articles": {
+  "war_elephants": {
+   "kind": "unit",
+   "title": {
+    "ja": "カルタゴの戦象",
+    "en": "The war elephants of Carthage"
+   },
+   "body": {
+    "ja": "カルタゴの象は、北アフリカのアトラス山地などにいた小型のアフリカゾウ (今のマルミミゾウに近い仲間) だったと考えられている。肩の高さは2.5mほどでインドゾウより小さく、背に塔は載せられなかったとも言われる。[[p:ハンニバル]]の象のうち「スルス (シリア人)」と呼ばれた一頭は、大型のインドゾウだったかもしれない。\n\nハンニバルは前218年、三十七頭の象を連れてイベリアを発った。ローヌ川では、岸に見えるよう土をかぶせた大きな筏に象を乗せて渡した。アルプスを越えた象の多くは、トレビアの戦いの後の寒さで死に、生き残ったのは一頭だけだったという。翌年の春、目を病んだハンニバルはその最後の象に乗って、エトルリアの沼地を渡ったと伝わる。\n\n象は敵の馬を怯えさせ、隊列を踏み崩す。だが傷ついて暴れると、味方の中へも突っ込む。メタウルスの戦いでは、象使いが暴れる象を止めるため、のみと槌で首の付け根を打ち抜いて殺したという。\n\nザマの戦いで、ハンニバルは八十頭の象を先頭に立てた。スキピオは歩兵の中隊の間にまっすぐ通り道を空け、ラッパと角笛を一斉に吹き鳴らさせた。驚いた象の多くは通り道を駆け抜けるか、味方の騎兵へ逃げ戻り、ローマの勝利のきっかけとなった。講和の条件には、カルタゴが今後象を飼い慣らさないことまで含まれていた。",
+    "en": "Carthage's elephants were probably small African elephants of the Atlas and North Africa, kin to today's forest elephant — about 2.5 metres at the shoulder, smaller than Indian elephants, and perhaps too small to carry towers. One of [[p:ハンニバル|Hannibal]]'s, called Surus (\"the Syrian\"), may have been a big Indian elephant.\n\nHannibal left Iberia in 218 BC with thirty-seven elephants. At the Rhône they were floated across on great rafts covered with earth so that they would think they were still on land. Most of those that crossed the Alps died of cold after the Trebia; only one survived, it is said, and the next spring Hannibal, sick in one eye, rode it through the marshes of Etruria.\n\nElephants terrify horses and trample ranks — but wounded and maddened they turn on their own side. At the Metaurus, the story goes, their drivers carried a chisel and mallet to kill a runaway with a blow at the base of the skull.\n\nAt Zama Hannibal put eighty elephants in front. Scipio opened straight lanes between his maniples and had every trumpet and horn blow at once; terrified, many elephants ran down the lanes or back into their own cavalry, and the Roman victory began there. The peace even forbade Carthage to train elephants again."
+   },
+   "year": 218,
+   "people": [
+    "ハンニバル|Hannibal",
+    "ハスドルバル・バルカ|Hasdrubal Barca",
+    "プブリウス・スキピオ|Publius Cornelius Scipio"
+   ],
+   "related": [
+    "numidian",
+    "legion"
+   ]
+  },
+  "numidian": {
+   "kind": "unit",
+   "title": {
+    "ja": "ヌミディア騎兵",
+    "en": "The Numidian horse"
+   },
+   "body": {
+    "ja": "北アフリカのヌミディア (今のアルジェリア東部あたり) の騎兵。鞍も手綱も使わず、馬の首にかけた紐と膝、それに声だけで小柄な馬を操ったと伝わる。小さな盾と数本の投げ槍を持ち、近づいては投げ、さっと離れてはまた戻る戦い方をした。\n\n[[p:ハンニバル]]のイタリア遠征では、ヌミディア騎兵が軍の目となり手足となった。ティキヌスでは執政官スキピオを囲んで傷を負わせ、トレビアでは川を渡ってローマの陣を挑発し、朝食も取らないローマ兵を凍える川へ誘い出した。カンナエでは、逃げるローマの同盟市の騎兵を追い散らした。\n\n戦争の後半、ヌミディアの王子[[p:マシニッサ]]はローマの側についた。ザマの戦いでは、マシニッサの騎兵が今度はカルタゴの騎兵を追い払い、戻ってきてハンニバルの歩兵の背後を突いた。ハンニバルに勝利をもたらしてきた騎兵が、最後にはハンニバルを破ったのである。\n\nマシニッサは九十歳近くまで生き、その歳になっても人の手を借りずに馬に乗ったという。ヌミディア王国はその後、ローマと結んで続いた。",
+    "en": "The horsemen of Numidia (roughly eastern Algeria) rode small horses without saddle or bridle, steering with a cord round the neck, their knees and their voices. With a small shield and a handful of javelins they rode in, threw, wheeled away and came back again.\n\nOn [[p:ハンニバル|Hannibal]]'s Italian campaign they were the army's eyes and hands. At the Ticinus they surrounded the consul Scipio and wounded him; at the Trebia they crossed the river to taunt the Roman camp and drew the Romans, unfed, through the freezing water; at Cannae they hunted down the fleeing allied horse.\n\nLate in the war the Numidian prince [[p:マシニッサ|Masinissa]] went over to Rome. At Zama his riders chased off the Carthaginian horse and came back to fall on Hannibal's infantry from behind: the horsemen who had won Hannibal his victories beat him in the end.\n\nMasinissa lived to nearly ninety and could still mount a horse unaided at that age, it is said. His kingdom of Numidia endured as Rome's ally."
+   },
+   "year": 218,
+   "people": [
+    "マシニッサ|Masinissa",
+    "ハンニバル|Hannibal",
+    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "マハルバル|Maharbal"
+   ],
+   "related": [
+    "war_elephants"
+   ]
+  },
+  "legion": {
+   "kind": "unit",
+   "title": {
+    "ja": "ローマの軍団",
+    "en": "The Roman legion"
+   },
+   "body": {
+    "ja": "この時代のローマ軍の単位は、市民から集めた軍団 (レギオ) であった。一個軍団は歩兵およそ四千二百 (危急の時は五千) と騎兵三百。執政官一人が二個軍団と、ほぼ同じ数の同盟市の兵を率いた。\n\n歩兵は年齢と財産で分けられた。最前列は若い「ハスタティ」、二列目は働き盛りの「プリンキペス」、三列目は古参の「トリアリイ」。それぞれ百二十人ほど (トリアリイは六十人) の中隊 (マニプルス) を作り、市松模様に並んだ。前の列が疲れれば後ろの中隊と入れ替わる。「事がトリアリイに及んだ」は、追い詰められた、という意味の言い回しになった。その前では、軽装の「ウェリテス」が投げ槍で戦いの口火を切った。\n\nハスタティとプリンキペスは重い投げ槍ピルムを二本持ち、ぶつかる直前に投げてから剣を抜いた。剣はイベリアに学んだ「ヒスパニアの剣」である。\n\nカンナエでローマは、八個軍団とそれに並ぶ同盟市の兵のほとんどを失った。それでもローマは、市民と同盟市から次々と新しい軍団を作り出した。奴隷を国が買い取って兵とした二個軍団 (ウォロネス) まで編成した。人を出し続けるこの力こそ、[[p:ハンニバル]]が最後まで崩せなかったローマの強さであった。",
+    "en": "The Roman army of this age was built of legions raised from the citizens: about 4,200 foot (5,000 in an emergency) and 300 horse each. A consul led two legions and about as many allied troops.\n\nThe foot were sorted by age and wealth: the young hastati in front, the men in their prime, the principes, behind, and the veteran triarii at the back. Each line was formed in maniples of about 120 (60 for the triarii) set out like a chessboard, so that a tired line could fall back through the next. \"It has come to the triarii\" meant one's back was to the wall. Ahead of them all, light-armed velites opened the fight with javelins.\n\nHastati and principes each carried two heavy javelins, the pila, threw them just before contact and then drew the sword — the \"Spanish sword\" learned in Iberia.\n\nAt Cannae Rome lost eight legions and nearly as many allies. It went on raising new legions from its citizens and allies all the same, and even two legions of slaves bought by the state, the volones. That power to keep finding men was the strength of Rome that [[p:ハンニバル|Hannibal]] never broke."
+   },
+   "year": 218,
+   "people": [
+    "ルキウス・アエミリウス・パウッルス|Lucius Aemilius Paullus",
+    "クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus"
+   ],
+   "related": [
+    "gladius",
+    "war_elephants"
+   ]
+  },
+  "balearic": {
+   "kind": "unit",
+   "title": {
+    "ja": "バレアレスの投石兵",
+    "en": "The Balearic slingers"
+   },
+   "body": {
+    "ja": "地中海西部のバレアレス諸島 (マヨルカ島・メノルカ島) の人々は、投石の名手として知られた。子どもは、竿の上に置いたパンを石で落とさなければ食べさせてもらえなかったと伝わる。\n\n彼らは長さの違う投石紐を三本持っていた。一本は頭に巻き、一本は腰に巻き、一本は手に持つ。遠くの敵には長い紐、近くの敵には短い紐を使い分けた。投げる石は大きく、その一撃は盾や兜を砕いたという。\n\nカルタゴは彼らを傭兵として雇い、[[p:ハンニバル]]も軽装の兵として前に立てた。トレビアでもカンナエでも、戦いは彼らの石の雨で始まった。\n\nギリシア語の島の名「バレアレス」は「投げる (バレイン)」から来た、という言い伝えもある。",
+    "en": "The people of the Balearic islands (Mallorca and Menorca) in the western Mediterranean were famous slingers. Their children, it is said, got no bread until they had knocked it off a pole with a stone.\n\nEach man carried three slings of different lengths — one wound round the head, one round the waist, one in the hand — long for far targets, short for near ones. Their stones were large, and could smash shields and helmets.\n\nCarthage hired them as mercenaries, and [[p:ハンニバル|Hannibal]] put them in front as light troops; at the Trebia and at Cannae the fighting began with their hail of stones.\n\nSome said the islands' Greek name came from ballein, \"to throw\"."
+   },
+   "year": 218,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "legion"
+   ]
+  },
+  "gladius": {
+   "kind": "unit",
+   "title": {
+    "ja": "ヒスパニアの剣",
+    "en": "The Spanish sword"
+   },
+   "body": {
+    "ja": "ローマ兵の剣「グラディウス・ヒスパニエンシス」は、その名のとおりイベリア半島 (ヒスパニア) の剣を手本にしたとされる。刃渡り六十センチほどの両刃の剣で、斬ることも突くこともできた。\n\nローマがいつこの剣を取り入れたかははっきりしない。[[p:ハンニバル]]軍のイベリア兵が使うのを見て学んだ、いや第一次ポエニ戦争の頃にはもう使っていた、などの説がある。\n\nリウィウスは、前200年、マケドニアとの戦いの初めに、ヒスパニアの剣で腕を肩から斬り落とされ、首を落とされた死体を見たマケドニア兵が、ローマの武器の恐ろしさにおののいたと書いている。\n\nイベリアの鍛冶の腕は名高く、刃にする鉄を土に埋めて質の悪いところを錆びさせ、残った良い鉄だけを鍛えたとも伝わる。",
+    "en": "The Roman sword, the gladius hispaniensis, was modelled, as its name says, on a sword of Iberia: a double-edged blade of about sixty centimetres that could cut as well as thrust.\n\nWhen Rome took it up is unclear: some say from [[p:ハンニバル|Hannibal]]'s Iberian soldiers, some that it was already in use in the First Punic War.\n\nLivy writes that at the start of the war with Macedon in 200 BC, Macedonian soldiers who saw bodies with arms hewn off at the shoulder and heads cut clean away by the Spanish sword were struck with dread at Roman arms.\n\nThe smiths of Iberia were famous: they buried their iron in the ground, it is said, until the poor parts rusted away, and forged only the good iron that remained."
+   },
+   "year": 216,
+   "related": [
+    "legion"
+   ],
+   "people": []
+  }
+ }
 }

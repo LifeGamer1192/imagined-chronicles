@@ -7877,8 +7877,8 @@
    ],
    "imp": 3,
    "at": "meili",
-   "ja": "楚から亡命した巫臣が{n_wu}に戦車と弓射の術を伝えた。呉は中原の国々と通じ、楚を背後から脅かし始めた。",
-   "en": "Wuchen, an exile from Chu, taught {n_wu} to fight with chariots and bows. Wu opened ties with the Central Plain and began to threaten Chu from behind."
+   "ja": "楚から亡命した巫臣が{n_wu}に[[a:chariot|戦車]]と弓射の術を伝えた。呉は中原の国々と通じ、楚を背後から脅かし始めた。",
+   "en": "Wuchen, an exile from Chu, taught {n_wu} to fight with [[a:chariot|chariots]] and bows. Wu opened ties with the Central Plain and began to threaten Chu from behind."
   },
   {
    "id": "first_truce",
@@ -8478,8 +8478,8 @@
     ]
    ],
    "at": "jinyang",
-   "ja": "{n_jin}の荀呉は戦車を降りて歩兵の隊列を組み、大原で狄を破った。",
-   "en": "Xun Wu of {n_jin} had his men leave their chariots and fight on foot, and beat the Di at Dayuan."
+   "ja": "{n_jin}の荀呉は[[a:chariot|戦車]]を降りて歩兵の隊列を組み、大原で狄を破った。",
+   "en": "Xun Wu of {n_jin} had his men leave their [[a:chariot|chariots]] and fight on foot, and beat the Di at Dayuan."
   },
   {
    "id": "jin_handan",
@@ -8796,8 +8796,8 @@
    ],
    "imp": 2,
    "at": "linhu",
-   "ja": "胡服騎射の騎兵を得た{r_zhao}は、北の林胡・楼煩を討って雲中・雁門の地を開いた。",
-   "en": "With his new horse archers {r_zhao} struck the Linhu and Loufan in the north and opened the lands of Yunzhong and Yanmen."
+   "ja": "[[a:hufu|胡服騎射]]の騎兵を得た{r_zhao}は、北の林胡・楼煩を討って雲中・雁門の地を開いた。",
+   "en": "With his new [[a:hufu|horse archers]] {r_zhao} struck the Linhu and Loufan in the north and opened the lands of Yunzhong and Yanmen."
   },
   {
    "id": "yan_shanrong",
@@ -8885,8 +8885,8 @@
      1.2
     ]
    ],
-   "ja": "{r_wei}は[[p:李悝]]を用いて田を尽くす教えと『法経』を定め、[[p:呉起]]に精兵「武卒」を鍛えさせた。魏は戦国の初めの最強国となった。",
-   "en": "{r_wei} put [[p:李悝|Li Kui]] in charge — farming to the utmost and a code of law — and had [[p:呉起|Wu Qi]] train picked soldiers. Wei became the first great power of the Warring States."
+   "ja": "{r_wei}は[[p:李悝]]を用いて田を尽くす教えと『法経』を定め、[[p:呉起]]に精兵「[[a:wuzu|武卒]]」を鍛えさせた。魏は戦国の初めの最強国となった。",
+   "en": "{r_wei} put [[p:李悝|Li Kui]] in charge — farming to the utmost and a code of law — and had [[p:呉起|Wu Qi]] train [[a:wuzu|picked soldiers]]. Wei became the first great power of the Warring States."
   },
   {
    "id": "tian_qi",
@@ -8997,8 +8997,8 @@
    ],
    "imp": 3,
    "at": "yong",
-   "ja": "{r_qin}は[[p:商鞅]]を用いて変法を行った。五家・十家を組にして互いに監視させ、戦の手柄で爵位を与えた。法を信じさせるため、都の南門の木を北門に移した者に五十金を与えたという。",
-   "en": "{r_qin} carried out [[p:商鞅|Shang Yang]]'s reforms: households grouped in fives and tens to watch each other, ranks given for heads taken in battle. To make the people trust the law, he paid fifty gold to the man who carried a pole from the south gate to the north."
+   "ja": "{r_qin}は[[p:商鞅]]を用いて変法を行った。五家・十家を組にして互いに監視させ、[[a:qin_rank|戦の手柄で爵位を与えた]]。法を信じさせるため、都の南門の木を北門に移した者に五十金を与えたという。",
+   "en": "{r_qin} carried out [[p:商鞅|Shang Yang]]'s reforms: households grouped in fives and tens to watch each other, [[a:qin_rank|ranks given for heads taken in battle]]. To make the people trust the law, he paid fifty gold to the man who carried a pole from the south gate to the north."
   },
   {
    "id": "shang_yang_2",
@@ -9439,8 +9439,8 @@
    ],
    "imp": 3,
    "at": "handan",
-   "ja": "{r_zhao}は「胡服騎射」を命じ、遊牧の民の服を着て馬上から弓を射る騎兵を育てた。反対する重臣たちを王は自ら説き伏せた。",
-   "en": "{r_zhao} ordered \"barbarian dress and mounted archery\": trousers instead of robes, and bowmen on horseback. He talked round the elders who objected himself."
+   "ja": "{r_zhao}は「[[a:hufu|胡服騎射]]」を命じ、遊牧の民の服を着て馬上から弓を射る騎兵を育てた。反対する重臣たちを王は自ら説き伏せた。",
+   "en": "{r_zhao} ordered \"[[a:hufu|barbarian dress and mounted archery]]\": trousers instead of robes, and bowmen on horseback. He talked round the elders who objected himself."
   },
   {
    "id": "huai_detained",
@@ -10105,6 +10105,9 @@
    "read": [
     "tuisan",
     "chariot"
+   ],
+   "units": [
+    "chariot"
    ]
   },
   "bi": {
@@ -10166,6 +10169,9 @@
    },
    "read": [
     "chariot"
+   ],
+   "units": [
+    "chariot"
    ]
   },
   "boju": {
@@ -10224,6 +10230,9 @@
    "read": [
     "sunzi",
     "wuzixu_whip"
+   ],
+   "units": [
+    "chariot"
    ]
   },
   "maling": {
@@ -10265,11 +10274,11 @@
    },
    "tales": [
     {
-     "ja": "[[p:孫臏]]は大木の皮を削って「[[p:龐涓]]この樹の下に死す」と書かせ、「火が見えたら一斉に射よ」と命じた。夜、着いた[[p:龐涓]]が字を読もうと松明をともした瞬間、矢が降り注いだ。龐涓は「ついに豎子の名を成さしめたか」と言って自ら首を刎ねた。",
+     "ja": "[[p:孫臏]]は大木の皮を削って「[[p:龐涓]]この樹の下に死す」と書かせ、「火が見えたら一斉に射よ」と命じた。夜、着いた[[p:龐涓]]が字を読もうと松明をともした瞬間、矢が降り注いだ。[[p:龐涓]]は「ついに豎子の名を成さしめたか」と言って自ら首を刎ねた。",
      "en": "[[p:孫臏|Sun Bin]] had the bark stripped from a great tree and wrote on it: \"[[p:龐涓|Pang Juan]] dies beneath this tree\", and told his archers to shoot as one when they saw a light. [[p:龐涓|Pang Juan]] arrived in the dark and lit a torch to read the words — and the arrows fell. \"So I have made that wretch famous,\" he said, and cut his own throat."
     },
     {
-     "ja": "かつて二人は同じ師に学んだ。[[p:孫臏]]の才を妬んだ[[p:龐涓]]は、[[p:孫臏]]を罪に陥れて両足を断つ刑に処し、顔に入れ墨をさせた。孫臏は斉の使者の車にひそかに隠れて魏を逃れていた。",
+     "ja": "かつて二人は同じ師に学んだ。[[p:孫臏]]の才を妬んだ[[p:龐涓]]は、[[p:孫臏]]を罪に陥れて両足を断つ刑に処し、顔に入れ墨をさせた。[[p:孫臏]]は斉の使者の車にひそかに隠れて魏を逃れていた。",
      "en": "The two had studied under the same master. Jealous of [[p:孫臏|Sun Bin]]'s gifts, [[p:龐涓|Pang Juan]] had him falsely accused, his feet cut off and his face tattooed; [[p:孫臏|Sun Bin]] escaped Wei hidden in the carriage of a Qi envoy."
     }
    ],
@@ -10280,6 +10289,10 @@
    "read": [
     "sunbin_stove",
     "crossbow"
+   ],
+   "units": [
+    "crossbow",
+    "wuzu"
    ]
   },
   "changping": {
@@ -10317,8 +10330,8 @@
     "en": "Zhao accepted Shangdang, and Qin sent [[p:王齕|Wang He]] with a great army. The veteran [[p:廉頗|Lian Po]] built ramparts and would not fight for nearly three years, wearing down Qin's supply lines."
    },
    "plan": {
-    "ja": "秦の[[p:范雎]]は「秦が恐れるのは[[p:廉頗]]ではなく[[p:趙奢]]の子[[p:趙括]]だ」との噂を趙に流した。趙王は[[p:廉頗]]を退けて[[p:趙括]]を将とした。秦はひそかに[[p:白起]]を総大将に替え、偽って退いて趙括を塁の外へ誘い出し、二万五千の伏兵で退路を断ち、五千の騎兵で趙軍を二つに分けた。趙軍は四十六日間食を断たれ、互いに食らい合うほどになった。",
-    "en": "[[p:范雎|Fan Ju]] of Qin spread the word in Zhao that what Qin feared was not [[p:廉頗|Lian Po]] but [[p:趙括|Zhao Kuo]], son of [[p:趙奢|Zhao She]]. The King of Zhao replaced [[p:廉頗|Lian Po]] with [[p:趙括|Zhao Kuo]]. Qin secretly made [[p:白起|Bai Qi]] its commander, feigned a retreat to draw Zhao Kuo out of his ramparts, cut his line of retreat with twenty-five thousand men and split the Zhao army in two with five thousand horse. Without food for forty-six days, the Zhao soldiers were reduced to eating one another."
+    "ja": "秦の[[p:范雎]]は「秦が恐れるのは[[p:廉頗]]ではなく[[p:趙奢]]の子[[p:趙括]]だ」との噂を趙に流した。趙王は[[p:廉頗]]を退けて[[p:趙括]]を将とした。秦はひそかに[[p:白起]]を総大将に替え、偽って退いて[[p:趙括]]を塁の外へ誘い出し、二万五千の伏兵で退路を断ち、五千の騎兵で趙軍を二つに分けた。趙軍は四十六日間食を断たれ、互いに食らい合うほどになった。",
+    "en": "[[p:范雎|Fan Ju]] of Qin spread the word in Zhao that what Qin feared was not [[p:廉頗|Lian Po]] but [[p:趙括|Zhao Kuo]], son of [[p:趙奢|Zhao She]]. The King of Zhao replaced [[p:廉頗|Lian Po]] with [[p:趙括|Zhao Kuo]]. Qin secretly made [[p:白起|Bai Qi]] its commander, feigned a retreat to draw [[p:趙括|Zhao Kuo]] out of his ramparts, cut his line of retreat with twenty-five thousand men and split the Zhao army in two with five thousand horse. Without food for forty-six days, the Zhao soldiers were reduced to eating one another."
    },
    "tales": [
     {
@@ -10336,6 +10349,10 @@
    },
    "read": [
     "zhao_kuo_books"
+   ],
+   "units": [
+    "qin_rank",
+    "crossbow"
    ]
   }
  },
@@ -10464,5 +10481,99 @@
     "en": "After Changping Qin besieged Handan, but was beaten off by the relief armies of [[p:信陵君|Lord Xinling]] of Wei and [[p:春申君|Lord Chunshen]] of Chu. Zhao survived, but never recovered its strength."
    }
   }
- ]
+ ],
+ "articles": {
+  "hufu": {
+   "kind": "unit",
+   "title": {
+    "ja": "胡服騎射",
+    "en": "Barbarian dress and mounted archery"
+   },
+   "body": {
+    "ja": "前307年、趙の[[p:武霊王]]は「胡服騎射」を命じた。胡服とは北方の遊牧の民の服である。筒袖の短い上着、馬にまたがれるズボン (袴)、革の長靴、帯を留める金具。中原の貴族は裾の長い衣を着て、戦では戦車の上に立って戦っていた。裾を引きずる衣では馬に乗れない。王は、服から変えなければ騎兵は生まれないと考えた。\n\n反対は激しかった。服は礼であり、礼こそが中華と夷狄を分けるもの、というのが貴族たちの考えであった。王の叔父の公子成は病と称して朝廷に出てこなかった。王は自ら叔父の屋敷を訪ね、「服は着る者の便のため、礼は事を成すためのものです。聖人は国を利するなら古いしきたりにこだわりません」と説いた。翌日、公子成は胡服を着て朝廷に現れた。\n\nなぜ騎兵だったのか。趙は北と西で林胡・楼煩などの遊牧の民と境を接していた。彼らは馬上から弓を射て、戦車の入れない山や草原を自在に駆け回る。戦車は平らな土地でしか使えず、一台に馬四頭と兵三人が要る。騎兵なら一頭に一人、山でも谷でも行ける。武霊王は、敵の戦い方そのものを取り入れたのである。\n\n効き目はすぐに現れた。趙は林胡・楼煩を討って雲中・雁門・代の郡を置き、長年の敵であった中山国を滅ぼした。降った楼煩の騎兵も自軍に組み入れ、趙の北辺の騎兵は戦国で最も強いと言われるようになった。のちに匈奴の大軍を破った名将[[p:李牧]]も、この騎兵を率いて戦っている。\n\n王の最期は悲劇であった。王は位を若い子 ([[p:恵文王]]) に譲って自らは「主父」と名乗り、なお軍を率い続けた。ところが、廃した長子の反乱に巻き込まれ、沙丘の離宮を三か月余り囲まれて、雀の雛まで食べ尽くして餓死したという。\n\n胡服の影響は戦場の外にも残った。ズボンと長靴、帯の留め金 (帯鉤) はやがて中国の兵の普通の装いとなり、騎兵は秦と漢の軍の柱となっていく。「胡服騎射」は、伝統より実利を選んだ改革の代名詞として、今も語られている。",
+    "en": "In 307 BC [[p:武霊王|King Wuling]] of Zhao ordered \"barbarian dress and mounted archery\". The \"barbarian dress\" was the clothing of the northern herders: a short jacket with narrow sleeves, trousers a man could sit a horse in, leather boots and a belt hook. The nobles of the Central Plain wore long robes and fought standing in chariots — and no one can ride in a robe that trails on the ground. Without a change of clothes, the king reasoned, there would be no cavalry.\n\nThe opposition was fierce. Dress was ritual, said the nobles, and ritual was what set the civilised apart from the barbarians. The king's uncle, Prince Cheng, pleaded illness and stayed away from court. The king went to his house himself: \"Clothes are for the convenience of those who wear them; rites are for getting things done. A sage does not cling to old custom when the state can gain by changing it.\" The next day Prince Cheng came to court in trousers.\n\nWhy horsemen? To the north and west Zhao bordered herding peoples such as the Linhu and the Loufan, who shot from horseback and ranged over mountains and grassland where no chariot could go. A chariot needs flat ground, four horses and three men; a horseman needs one horse and goes anywhere. King Wuling simply took over his enemies' way of fighting.\n\nIt worked at once. Zhao struck the Linhu and Loufan, set up the commanderies of Yunzhong, Yanmen and Dai, and destroyed its old enemy, the state of Zhongshan. The Loufan horsemen who surrendered were taken into the army, and the cavalry of Zhao's northern frontier came to be thought the best of the Warring States. [[p:李牧|Li Mu]], who later crushed a great Xiongnu army, led these horsemen.\n\nThe king's end was tragic. He handed the throne to a young son ([[p:恵文王|King Huiwen]]), styled himself \"the Lord Father\" and went on leading armies — until he was caught up in the revolt of the elder son he had set aside, besieged in the palace at Shaqiu for more than three months, and starved to death after eating even the sparrow chicks in the eaves.\n\nThe change outlived him. Trousers, boots and belt hooks became the ordinary wear of Chinese soldiers, and cavalry became a pillar of the armies of Qin and Han. \"Barbarian dress and mounted archery\" is still the byword for a reform that put use before tradition."
+   },
+   "year": 307,
+   "people": [
+    "武霊王|King Wuling"
+   ],
+   "related": [
+    "chariot"
+   ]
+  },
+  "chariot": {
+   "kind": "unit",
+   "title": {
+    "ja": "春秋の戦車",
+    "en": "The chariots of the Spring and Autumn"
+   },
+   "body": {
+    "ja": "春秋の戦いの主役は、二頭または四頭の馬が引く二輪の戦車であった。車の上には三人が乗る。左に弓を持つ車左、右に戈 (ほこ) を持つ車右、中央で手綱を取る御者。車の後ろには数十人の歩兵が従い、戦車一台とその歩兵が一つの単位となった。\n\n国の力は戦車の数で数えられた。「千乗の国」「万乗の君」という言葉は、戦車を千台、一万台出せる国、という意味である。城濮の戦いで晋が出した戦車は七百乗であった。\n\n戦車の戦いには礼があった。整列を待たずに攻めない、逃げる敵を深追いしない、傷ついた者を重ねて傷つけない。泓水の戦い (前638年) で、宋の襄公は楚軍が河を渡りきり陣を整えるまで攻撃を待ち、大敗して自らも腿に傷を負い、翌年死んだ。後世「宋襄の仁」として笑われる話である。邲の戦いでは、楚兵が溝にはまった晋の戦車に抜け出し方を教えてやったという。\n\n戦車は平地でしか力を出せない。山がちな北の地で狄と戦った晋の軍では、前541年、魏舒の進言で兵を車から降ろして歩兵の隊列を組ませ (「車を毀ちて行と為す」)、大原で狄を破った。戦国時代になると、歩兵の大軍と騎兵、そして弩が戦場を支配し、戦車はしだいに指揮官の乗り物となっていく。\n\n戦車と弓の術は国から国へ伝わった。楚から晋へ亡命した巫臣は、晋の命で南の呉に渡り、戦車の御し方と陣の組み方を教えた。それまで舟と歩兵で戦っていた呉はこうして中原の戦い方を身につけ、八十年ほど後には楚の都に攻め入ることになる。",
+    "en": "The decisive arm of Spring and Autumn warfare was the two-wheeled chariot drawn by two or four horses. Three men rode in it: an archer on the left, a man with a dagger-axe on the right, and the driver in the middle. Behind came a few dozen foot soldiers; a chariot and its men made one unit.\n\nA state's power was counted in chariots. \"A state of a thousand chariots\", \"a lord of ten thousand chariots\" meant one that could field that many. At Chengpu, Jin put seven hundred chariots in the field.\n\nChariot warfare had its courtesies: no attack before the enemy had formed up, no long pursuit of the fleeing, no second wound to the wounded. At the Hong river in 638 BC Duke Xiang of Song waited for the Chu army to cross and form its lines before attacking; he was routed, took a wound in the thigh and died the next year — \"the benevolence of Duke Xiang\" became a byword for folly. At Bi, Chu soldiers showed Jin charioteers stuck in a ditch how to get out.\n\nChariots need flat ground. Fighting the Di in the hills of the north in 541 BC, a Jin army on Wei Shu's advice broke up its chariots and formed its men into infantry files, and won at Dayuan. By the Warring States, masses of infantry, cavalry and the crossbow ruled the battlefield, and the chariot became a commander's vehicle.\n\nThe art of chariot and bow passed from state to state. Wuchen, an exile from Chu in Jin, was sent south to Wu to teach it how to drive chariots and draw up battle lines. Wu, which had fought with boats and foot soldiers, learned the ways of the Central Plain — and some eighty years later stormed the capital of Chu."
+   },
+   "year": 632,
+   "related": [
+    "hufu",
+    "crossbow"
+   ],
+   "people": []
+  },
+  "crossbow": {
+   "kind": "unit",
+   "title": {
+    "ja": "弩",
+    "en": "The crossbow"
+   },
+   "body": {
+    "ja": "弩は、引き絞った弦を引き金の仕掛け (懸刀) で留めておき、狙いを定めてから放つ弓である。弓のように腕の力で引いたまま狙う必要がないので、力の弱い兵でも短い訓練で使え、強い弓よりも遠くへ、鎧を貫くほどの力で射ることができた。\n\n戦国時代、弩は歩兵の主な武器となった。「天下の強い弓と弩はみな韓から出る」と言われ、韓の弩は六百歩先まで届いたという (遊説家[[p:蘇秦]]の言葉として伝わる)。青銅で精密に鋳た引き金の部品は形がそろい、壊れても取り替えることができた。\n\n馬陵の戦いで[[p:孫臏]]は一万の弩兵を道の両側に伏せ、[[p:龐涓]]の軍を一斉の射撃で崩した。弩は隊列で一斉に放つときに最も力を発揮する。前の列が撃つ間に後ろの列が弦を張る、交代で撃つ工夫もされた。\n\n始皇帝陵の兵馬俑には、ひざまずいて弩を構える兵の像が並んでいる。漢の時代には、足で弦を踏んで引く強い弩 (蹶張) が、北の騎兵に対する切り札となった。\n\n西方にも古代ギリシアの「腹当て弓」のような弩はあったが、広く使われたのは中世になってからである。東アジアでは二千年以上前に、すでに弩が大量に作られ、組織的に使われていた。",
+    "en": "A crossbow holds the drawn string on a trigger catch until the archer has taken aim. Since nobody has to hold the draw with the strength of his arms, weaker men could learn it quickly, and it shot farther and harder than a strong bow — hard enough to pierce armour.\n\nIn the Warring States the crossbow became the infantry's main weapon. \"All the strong bows and crossbows under heaven come from Han,\" it was said, and the crossbows of Han reached six hundred paces — so the persuader [[p:蘇秦|Su Qin]] is supposed to have told its king. The bronze trigger parts were cast so precisely that they matched and could be swapped when broken.\n\nAt Maling [[p:孫臏|Sun Bin]] hid ten thousand crossbowmen on both sides of the road and broke [[p:龐涓|Pang Juan]]'s army with a single volley. Crossbows are at their best shot together in ranks; men learned to take turns, the rear rank spanning while the front rank shot.\n\nAmong the terracotta warriors of the First Emperor's tomb kneel crossbowmen ready to shoot. Under the Han, powerful crossbows spanned with the feet became the trump card against the horsemen of the north.\n\nThe West had crossbows too — the \"belly bow\" of ancient Greece — but they spread widely only in the Middle Ages. In East Asia they were made in great numbers and used in organised ranks more than two thousand years ago."
+   },
+   "year": 342,
+   "people": [
+    "孫臏|Sun Bin",
+    "龐涓|Pang Juan"
+   ],
+   "related": [
+    "chariot"
+   ]
+  },
+  "wuzu": {
+   "kind": "unit",
+   "title": {
+    "ja": "魏の武卒",
+    "en": "The picked soldiers of Wei"
+   },
+   "body": {
+    "ja": "戦国の初め、魏の文侯は[[p:呉起]]に命じて精兵「武卒」を選ばせた。[[p:荀子]]によれば、その試験は、三重の鎧を着て、十二石の弩を引き、矢五十本を背負い、戈をかつぎ、兜をかぶり剣を帯び、三日分の食糧を担いで、半日で百里を走ること。合格すれば家の税と労役を免じられ、田と家を与えられた。\n\n呉起は兵と同じものを食べ、同じ所に寝て、馬にも乗らず、自分の食糧は自分で担いだ。兵の腫れ物の膿を口で吸い出してやったとき、その兵の母は声を上げて泣いた。「あの子の父も将軍に膿を吸っていただき、ご恩に報いようと退かずに戦って死にました。あの子もきっと同じことになるでしょう」。\n\n武卒を率いた呉起は秦から河西の地を奪い、諸侯と七十六度戦って六十四度勝ち、残りも引き分けたという。魏は戦国の初めの最強国となった。\n\nしかし荀子は武卒の弱点も指摘している。一度選ばれると、年を取って衰えても特権は取り上げられない。新しく選ぶにも費用がかかる。国が豊かでも兵の数を増やせない。呉起が魏を去り、馬陵で魏が敗れたのち、選ばれた精兵の時代は、秦の軍功爵による大動員の時代に取って代わられていった。",
+    "en": "At the start of the Warring States Marquis Wen of Wei had [[p:呉起|Wu Qi]] select an elite infantry, the \"martial soldiers\". [[p:荀子|Xunzi]] describes the test: in three layers of armour, spanning a twelve-stone crossbow, with fifty arrows on the back, a dagger-axe on the shoulder, helmet and sword, and three days' food, a man had to cover a hundred li by noon. Those who passed were freed from tax and labour and given fields and a house.\n\nWu Qi ate what his men ate, slept where they slept, would not ride, and carried his own food. When he sucked the pus from a soldier's abscess, the soldier's mother wailed: \"The general did the same for his father, who would not turn back in battle to repay him, and died. Now my son will too.\"\n\nLeading these soldiers Wu Qi took the land west of the Yellow River from Qin and fought the lords seventy-six times, winning sixty-four and drawing the rest, it is said. Wei became the first great power of the Warring States.\n\nXunzi also saw the weakness. A man once chosen kept his privileges even when he grew old and weak; choosing new men was costly; a rich state still could not field more of them. After Wu Qi left Wei and Wei was beaten at Maling, the age of picked soldiers gave way to the mass levies of Qin and its ranks for heads."
+   },
+   "year": 400,
+   "people": [
+    "呉起|Wu Qi",
+    "李悝|Li Kui"
+   ],
+   "related": [
+    "crossbow",
+    "qin_rank"
+   ]
+  },
+  "qin_rank": {
+   "kind": "unit",
+   "title": {
+    "ja": "秦の軍功爵",
+    "en": "Qin's ranks for heads"
+   },
+   "body": {
+    "ja": "[[p:商鞅]]の変法で、秦は爵位を戦の手柄で与えることにした。敵の甲冑の兵の首を一つ取れば、爵一級と田一頃・宅地九畝、それに召し使う者一人。爵は二十の等級に分かれ、上がるほど田と税の免除が増え、罪を爵で償うこともできた。\n\n反対に、王の一族でも軍功がなければ一族の籍から外された。家柄ではなく首の数が身分を決める——中原の諸侯から見れば野蛮だったが、秦の農民には出世の道が開かれた。秦の兵は戦場で兜を脱ぎ捨て、左手に敵の首を下げ、右脇に捕虜を抱えて駆けた、と遊説家の[[p:張儀]]は語っている。\n\n五家を一組とする「伍」の仕組みもあった。一人が罪を犯せば組の皆が罰せられ、互いに見張り合う。農と戦のほかに出世の道はふさがれ、国全体が兵と兵糧を生み出す仕組みとなった。\n\nこの仕組みが長平の戦いのような大動員を可能にした。長平では、秦王が自ら河内に出向いて民に爵を一級ずつ与え、十五歳以上の男子をすべて送り込んだと伝わる。秦の統一は、この冷徹な仕組みの上に築かれた。",
+    "en": "Under [[p:商鞅|Shang Yang]]'s reforms Qin gave rank for deeds in war. One head of an armoured enemy soldier earned one degree of rank, a hundred mu of land, nine mu for a house and a servant. There were twenty degrees; the higher a man rose, the more land and freedom from tax he had, and rank could buy off punishment.\n\nThe other way round, members of the royal clan with no merit in war were struck from its register. Heads, not birth, made a man's place — barbarous in the eyes of the Central Plain, but a road upward for Qin's farmers. The soldiers of Qin, said the persuader [[p:張儀|Zhang Yi]], threw off their helmets and ran at the enemy with a head in the left hand and a prisoner under the right arm.\n\nHouseholds were grouped in fives: if one broke the law, all were punished, so all watched each other. Every road to advancement but farming and war was closed, and the whole state became a machine for soldiers and grain.\n\nThat machine made levies like Changping possible: the king, it is said, went himself to Henei, gave every man a degree of rank and sent every male over fifteen to the front. The unification of China was built on it."
+   },
+   "year": 356,
+   "people": [
+    "商鞅|Shang Yang"
+   ],
+   "related": [
+    "wuzu"
+   ]
+  }
+ }
 }

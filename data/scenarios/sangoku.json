@@ -4052,8 +4052,8 @@
     ]
    ],
    "at": "yijing",
-   "ja": "界橋の戦い。白馬の騎兵を率いる{r_gongsun}が{n_yuanshao}に挑んだが、麴義の弩兵に破られた。",
-   "en": "At Jieqiao {r_gongsun} and his white-horse cavalry challenged {n_yuanshao} and were broken by Qu Yi's crossbowmen."
+   "ja": "界橋の戦い。[[a:baima|白馬の騎兵]]を率いる{r_gongsun}が{n_yuanshao}に挑んだが、麴義の弩兵に破られた。",
+   "en": "At Jieqiao {r_gongsun} and his [[a:baima|white-horse cavalry]] challenged {n_yuanshao} and were broken by Qu Yi's crossbowmen."
   },
   {
    "id": "dong_dies",
@@ -4105,8 +4105,8 @@
     ]
    ],
    "at": "puyang",
-   "ja": "{r_cao}は兗州に入った青州の黄巾三十万を降し、その精鋭を「青州兵」とした。",
-   "en": "{r_cao} brought to submission three hundred thousand Yellow Turbans of Qing who had come into Yan, and made the best of them his \"Qingzhou army\"."
+   "ja": "{r_cao}は兗州に入った青州の黄巾三十万を降し、その精鋭を「[[a:qingzhou|青州兵]]」とした。",
+   "en": "{r_cao} brought to submission three hundred thousand Yellow Turbans of Qing who had come into Yan, and made the best of them his \"[[a:qingzhou|Qingzhou army]]\"."
   },
   {
    "id": "xu_war",
@@ -5600,8 +5600,8 @@
     "en": "Master of the four provinces north of the river, [[p:袁紹|Yuan Shao]] came south across the Yellow River with more than a hundred thousand men. Far outnumbered, [[p:曹操|Cao Cao]] fortified Guandu and stood on the defensive. In the opening fights [[p:関羽|Guan Yu]] cut down [[p:顔良|Yan Liang]] at Baima, and [[p:文醜|Wen Chou]] was killed at Yanjin."
    },
    "plan": {
-    "ja": "[[p:袁紹]]は土山や櫓を築いて[[p:曹操]]の陣に矢を降らせ、[[p:曹操]]は「霹靂車」(投石機) で櫓を砕いた。地下道を掘れば堀で防いだ。数か月のにらみ合いで[[p:曹操]]の兵糧は尽きかけ、[[p:荀彧]]に「退きたい」と書き送るほどであった。そこへ[[p:袁紹]]の参謀許攸が寝返り、兵糧の集積地烏巣の場所を告げた。曹操は自ら五千の兵を率い、袁軍の旗を掲げて夜道を進み、烏巣を焼いた。[[p:袁紹]]が送った[[p:張郃]]・高覧は曹操の本陣を落とせず、そのまま曹操に降った。",
-    "en": "[[p:袁紹|Yuan Shao]] raised earth mounds and towers to rain arrows into [[p:曹操|Cao Cao]]'s camp; [[p:曹操|Cao Cao]] smashed them with his \"thunderbolt carts\" — stone-throwers. Yuan dug tunnels; Cao dug trenches across them. Months passed; [[p:曹操|Cao Cao]]'s grain ran so low that he wrote to [[p:荀彧|Xun Yu]] of retreat. Then [[p:袁紹|Yuan Shao]]'s adviser Xu You came over and told him where the grain lay — at Wuchao. Cao Cao led five thousand himself by night under Yuan banners and burned it. [[p:張郃|Zhang He]] and Gao Lan, sent against Cao's camp, could not take it and went over to him."
+    "ja": "[[p:袁紹]]は土山や櫓を築いて[[p:曹操]]の陣に矢を降らせ、[[p:曹操]]は「霹靂車」(投石機) で櫓を砕いた。地下道を掘れば堀で防いだ。数か月のにらみ合いで[[p:曹操]]の兵糧は尽きかけ、[[p:荀彧]]に「退きたい」と書き送るほどであった。そこへ[[p:袁紹]]の参謀許攸が寝返り、兵糧の集積地烏巣の場所を告げた。[[p:曹操]]は自ら五千の兵を率い、袁軍の旗を掲げて夜道を進み、烏巣を焼いた。[[p:袁紹]]が送った[[p:張郃]]・高覧は[[p:曹操]]の本陣を落とせず、そのまま曹操に降った。",
+    "en": "[[p:袁紹|Yuan Shao]] raised earth mounds and towers to rain arrows into [[p:曹操|Cao Cao]]'s camp; [[p:曹操|Cao Cao]] smashed them with his \"thunderbolt carts\" — stone-throwers. Yuan dug tunnels; Cao dug trenches across them. Months passed; [[p:曹操|Cao Cao]]'s grain ran so low that he wrote to [[p:荀彧|Xun Yu]] of retreat. Then [[p:袁紹|Yuan Shao]]'s adviser Xu You came over and told him where the grain lay — at Wuchao. [[p:曹操|Cao Cao]] led five thousand himself by night under Yuan banners and burned it. [[p:張郃|Zhang He]] and Gao Lan, sent against Cao's camp, could not take it and went over to him."
    },
    "tales": [
     {
@@ -5624,6 +5624,10 @@
    "read": [
     "wuchao",
     "pilicche"
+   ],
+   "units": [
+    "qingzhou",
+    "hubaoqi"
    ]
   },
   "chibi": {
@@ -5728,7 +5732,7 @@
     "en": "With [[p:曹操|Cao Cao]] away in Hanzhong, [[p:孫権|Sun Quan]] besieged Hefei with a hundred thousand. Inside were [[p:張遼|Zhang Liao]], [[p:楽進|Yue Jin]] and Li Dian with seven thousand."
    },
    "plan": {
-    "ja": "[[p:曹操]]が残した手紙には「敵が来たら[[p:張遼]]と李典は出て戦え、[[p:楽進]]は守れ」とあった。[[p:張遼]]は決死の兵八百を募り、夜明けに自ら先頭に立って[[p:孫権]]の本陣へ斬り込んだ。[[p:孫権]]は丘に逃れ、呉軍の士気はくじけた。十数日の後に[[p:孫権]]が退くと、[[p:張遼]]は逍遥津の橋で追い討ち、孫権は橋の壊れた所を馬に跳ばせてようやく逃れた。",
+    "ja": "[[p:曹操]]が残した手紙には「敵が来たら[[p:張遼]]と李典は出て戦え、[[p:楽進]]は守れ」とあった。[[p:張遼]]は決死の兵八百を募り、夜明けに自ら先頭に立って[[p:孫権]]の本陣へ斬り込んだ。[[p:孫権]]は丘に逃れ、呉軍の士気はくじけた。十数日の後に[[p:孫権]]が退くと、[[p:張遼]]は逍遥津の橋で追い討ち、[[p:孫権]]は橋の壊れた所を馬に跳ばせてようやく逃れた。",
     "en": "The letter [[p:曹操|Cao Cao]] had left read: \"If the enemy comes, [[p:張遼|Zhang Liao]] and Li Dian go out to fight; [[p:楽進|Yue Jin]] holds the walls.\" [[p:張遼|Zhang Liao]] picked eight hundred men ready to die, and at dawn led them himself into [[p:孫権|Sun Quan]]'s camp. [[p:孫権|Sun Quan]] fled to a hill and the heart went out of the Wu army. When it fell back some days later, [[p:張遼|Zhang Liao]] struck again at the Xiaoyao ford, and [[p:孫権|Sun Quan]] escaped only by making his horse leap a broken span of the bridge."
    },
    "tales": [
@@ -5885,7 +5889,7 @@
    ],
    "terms": {
     "ja": "留守の兗州を張邈と[[p:陳宮]]が[[p:呂布]]に明け渡したため、[[p:曹操]]は兵を返した。",
-    "en": "Zhang Miao and [[p:陳宮|Chen Gong]] handed [[p:曹操|Cao Cao]]'s home province of Yan to [[p:呂布|Lü Bu]] behind his back, and Cao Cao turned for home."
+    "en": "Zhang Miao and [[p:陳宮|Chen Gong]] handed [[p:曹操|Cao Cao]]'s home province of Yan to [[p:呂布|Lü Bu]] behind his back, and [[p:曹操|Cao Cao]] turned for home."
    }
   },
   {
@@ -5963,12 +5967,133 @@
     8
    ],
    "terms": {
-    "ja": "[[p:劉備]]は白帝城に退いた。翌年、劉備の死の後、鄧芝が呉へ使いし、蜀と呉は再び同盟を結んだ。",
+    "ja": "[[p:劉備]]は白帝城に退いた。翌年、[[p:劉備]]の死の後、鄧芝が呉へ使いし、蜀と呉は再び同盟を結んだ。",
     "en": "[[p:劉備|Liu Bei]] withdrew to Baidi. The next year, after his death, Deng Zhi went to Wu and Shu and Wu were allies once more."
    },
    "battles": [
     "yiling"
    ]
   }
- ]
+ ],
+ "articles": {
+  "qingzhou": {
+   "kind": "unit",
+   "title": {
+    "ja": "青州兵",
+    "en": "The Qingzhou army"
+   },
+   "body": {
+    "ja": "192年、青州 (山東) の黄巾の残党の大集団が兗州に流れ込み、兗州刺史の劉岱を殺した。[[p:曹操]]は迎え撃ち、追い詰めて冬までに降伏させた。降った兵は三十万余り、男女百万余りと伝わる。\n\n曹操はその中から精鋭を選んで「青州兵」と名付け、自分の軍の中核とした。家族ごと降った彼らに土地を与えて住まわせたことが、のちの屯田の先駆けになったとも言われる。\n\n青州兵は曹操がまだ小さな勢力だった頃の柱であった。一方で、もとは流民の集団で規律は荒く、宛城で張繍に敗れたときには味方の村を略奪して、[[p:于禁]]に討たれている。于禁は、陣を固めるのが先と、陣を整えてから曹操に報告し、「古の名将にも劣らない」と褒められた。\n\n曹操が死ぬと、青州兵は太鼓を打ち鳴らして勝手に故郷へ帰ってしまった。一人の主君に結びついた兵であったことを物語る話である。",
+    "en": "In 192 a huge band of Yellow Turban survivors from Qing (Shandong) poured into Yan province and killed its governor, Liu Dai. [[p:曹操|Cao Cao]] met them, hounded them and by winter had them surrender — more than three hundred thousand fighting men and a million men and women in all, it is said.\n\nCao Cao chose the best of them, called them his \"Qingzhou army\" and made them the core of his forces. Settling them on the land with their families may have been the forerunner of his military farm colonies.\n\nThey were the backbone of Cao Cao's early years — but they were refugees at heart and poorly disciplined. When Cao Cao was beaten at Wan by Zhang Xiu they plundered friendly villages and were attacked for it by [[p:于禁|Yu Jin]], who fortified his camp before reporting to Cao Cao and was praised as the equal of the great generals of old.\n\nWhen Cao Cao died the Qingzhou men beat their drums and simply went home — soldiers bound to one master."
+   },
+   "year": 192,
+   "people": [
+    "曹操|Cao Cao",
+    "于禁|Yu Jin"
+   ],
+   "related": [
+    "hubaoqi"
+   ]
+  },
+  "hubaoqi": {
+   "kind": "unit",
+   "title": {
+    "ja": "虎豹騎",
+    "en": "The Tiger and Leopard Cavalry"
+   },
+   "body": {
+    "ja": "[[p:曹操]]の親衛の精鋭騎兵。曹氏一族の曹純が率いた。百人隊の長にさえ、ほかの部隊なら将になれる者を選んだと伝わる。\n\n205年、南皮で袁譚を討ったとき、曹純の虎豹騎が袁譚の首を取った。207年の白狼山の戦いでは、烏桓の単于蹋頓を捕らえた。208年、荊州で[[p:劉備]]を追った曹操は、虎豹騎を含む軽騎五千で一昼夜に三百里余りを駆け、長坂で劉備の軍を散らした。劉備は妻子を捨てて逃げ、[[p:趙雲]]が幼い[[p:劉禅]]を抱いて守った。\n\n曹純が死ぬと、曹操は「あれほどの者がまた得られようか」と言って後任を置かず、自ら虎豹騎を率いたという。のちには曹休・[[p:曹真]]ら一族の若い将が率いた。",
+    "en": "[[p:曹操|Cao Cao]]'s elite guard cavalry, led by his kinsman Cao Chun. Even its captains of a hundred, it was said, were men who could have been generals elsewhere.\n\nIn 205 at Nanpi Cao Chun's riders took Yuan Tan's head; in 207 at White Wolf Mountain they captured the Wuhuan chieftain Tadun. In 208, pursuing [[p:劉備|Liu Bei]] through Jing, Cao Cao rode with five thousand light horse, the Tiger and Leopard among them, more than three hundred li in a day and a night and scattered Liu Bei's army at Changban. Liu Bei fled, leaving his wife and children; [[p:趙雲|Zhao Yun]] saved the infant [[p:劉禅|Liu Shan]].\n\nWhen Cao Chun died, Cao Cao said, \"Where would I find his like again?\" and named no successor, leading the corps himself. Later young men of the clan — Cao Xiu, [[p:曹真|Cao Zhen]] — commanded it."
+   },
+   "year": 205,
+   "people": [
+    "曹操|Cao Cao",
+    "劉備|Liu Bei",
+    "趙雲|Zhao Yun",
+    "劉禅|Liu Shan",
+    "曹真|Cao Zhen"
+   ],
+   "related": [
+    "qingzhou"
+   ]
+  },
+  "baima": {
+   "kind": "unit",
+   "title": {
+    "ja": "白馬義従",
+    "en": "The White Horse Volunteers"
+   },
+   "body": {
+    "ja": "幽州の[[p:公孫瓚]]が率いた騎兵。白い馬に乗った騎射の精鋭で、公孫瓚自身も白馬に乗った。北方の烏桓は「白馬の長史を避けよ」と言い合い、公孫瓚の姿を描いた的を射て、当てた者を讃えたという。\n\n「義従」とは、義によって従う者の意。公孫瓚は弓の上手な者を集め、兄弟の契りを結んで左右の翼としたとされる。\n\n191年の界橋の戦いで、公孫瓚は歩兵を中央に、左右に騎兵を置いて[[p:袁紹]]に挑んだ。袁紹の先鋒の麴義は、八百の兵を盾の陰に伏せさせ、千張の強弩を左右に置いた。騎兵が数十歩まで迫ったところで一斉に立ち上がって射かけると、白馬の騎兵は崩れた。\n\nこの敗北から公孫瓚の運は傾き、易京に籠もった末に滅んだ。若い[[p:趙雲]]は公孫瓚のもとにいて、そこで[[p:劉備]]と出会っている。",
+    "en": "The horsemen of [[p:公孫瓚|Gongsun Zan]] of You province: picked mounted archers on white horses, with Gongsun Zan himself on a white horse at their head. The Wuhuan of the north warned each other to \"keep clear of the officer on the white horse\", and shot at targets painted with his likeness, cheering whoever hit it.\n\n\"Volunteers\" — men who follow out of loyalty: Gongsun Zan gathered the best archers, swore brotherhood with them and made them his two wings.\n\nAt Jieqiao in 191 he challenged [[p:袁紹|Yuan Shao]] with infantry in the centre and horse on both wings. Yuan Shao's vanguard commander Qu Yi had eight hundred men crouch behind their shields, with a thousand strong crossbows on either side; when the horsemen were a few dozen paces away they rose and shot together, and the white horses broke.\n\nFrom that defeat Gongsun Zan's fortunes declined, until he died shut up in Yijing. The young [[p:趙雲|Zhao Yun]] served him, and met [[p:劉備|Liu Bei]] there."
+   },
+   "year": 191,
+   "people": [
+    "公孫瓚|Gongsun Zan",
+    "袁紹|Yuan Shao",
+    "趙雲|Zhao Yun",
+    "劉備|Liu Bei"
+   ],
+   "related": [
+    "hubaoqi"
+   ]
+  },
+  "xianzhen": {
+   "kind": "unit",
+   "title": {
+    "ja": "陥陣営",
+    "en": "The Formation Breakers"
+   },
+   "body": {
+    "ja": "[[p:呂布]]の将、[[p:高順]]が率いた精兵。七百ほどの兵だったが、鎧や兜、武具はすべて精巧に整えられ、攻めかかった陣はどれも必ず破った。それで「陥陣営」(陣を陥とす隊) と呼ばれた。\n\n高順は清廉で威厳があり、酒を飲まず、贈り物も受け取らなかった。呂布に何度も忠告したが、呂布はその忠義を知りながら用いきれず、兵を取り上げて魏続に与え、戦いのときだけ返したという。高順はそれでも恨むことがなかった。\n\n198年、高順は小沛の[[p:劉備]]を破り、救援に来た[[p:夏侯惇]]も退けた。しかし同じ年、[[p:曹操]]に下邳を囲まれて呂布とともに捕らえられ、斬られた。",
+    "en": "The picked men of [[p:高順|Gao Shun]], [[p:呂布|Lü Bu]]'s general — only seven hundred or so, but every piece of their armour and gear was finely made and kept, and no formation they attacked held. They were called the \"Formation Breakers\".\n\nGao Shun was upright and stern; he did not drink and accepted no gifts. He warned Lü Bu again and again, and Lü Bu, knowing his loyalty, still could not make use of him — he took Gao Shun's men away, gave them to Wei Xu, and handed them back only for battle. Gao Shun bore no grudge.\n\nIn 198 Gao Shun beat [[p:劉備|Liu Bei]] at Xiaopei and drove off [[p:夏侯惇|Xiahou Dun]], who came to Liu Bei's aid. That same year [[p:曹操|Cao Cao]] besieged Xiapi; Gao Shun was taken with Lü Bu and beheaded."
+   },
+   "year": 198,
+   "people": [
+    "高順|Gao Shun",
+    "呂布|Lü Bu",
+    "劉備|Liu Bei",
+    "夏侯惇|Xiahou Dun",
+    "曹操|Cao Cao"
+   ]
+  },
+  "wudang": {
+   "kind": "unit",
+   "title": {
+    "ja": "無当飛軍",
+    "en": "The Wudang Flying Army"
+   },
+   "body": {
+    "ja": "蜀の南中 (今の雲南・貴州あたり) の民から選んだ部隊。225年に[[p:諸葛亮]]が南中を平らげたのち、勇猛な青羌の兵一万余家を蜀へ移して五部に分けた。向かうところ前に立つ者がない「飛軍」と呼ばれた。「無当」は、当たる敵なし、の意とされる。\n\n山の戦いに強かったという。228年、街亭で[[p:馬謖]]が山上に陣を敷いて[[p:張郃]]に敗れたとき、王平だけが太鼓を鳴らして陣を保ち、張郃に伏兵を疑わせて退かせ、散った兵を集めて帰った。この功で王平は五部を統べることになる。\n\n244年、魏の曹爽が十万余りで漢中に攻め込んだとき (興勢の戦い)、王平は興勢山に兵を張り巡らせ、援軍が来るまで魏軍を防ぎきった。曹爽は多くの牛馬を失って退いた。",
+    "en": "A corps drawn from the peoples of Nanzhong in the south of Shu (today's Yunnan and Guizhou). After [[p:諸葛亮|Zhuge Liang]] subdued Nanzhong in 225, more than ten thousand households of fierce Qiang warriors were moved into Shu and formed into five divisions, the \"Flying Army\", before whom no one could stand; \"Wudang\" is read as \"none can withstand\".\n\nThey were strong in mountain warfare. In 228 at Jieting, when [[p:馬謖|Ma Su]] camped on a hill and was beaten by [[p:張郃|Zhang He]], only Wang Ping kept his drums beating and his ranks together, so that Zhang He feared an ambush and drew back; Wang Ping gathered the scattered men and brought them home, and for this was given command of the five divisions.\n\nIn 244 the Wei regent Cao Shuang invaded Hanzhong with over a hundred thousand men. Wang Ping spread his troops along Mount Xingshi and held until help came; Cao Shuang retreated, having lost most of his oxen and horses."
+   },
+   "year": 225,
+   "people": [
+    "諸葛亮|Zhuge Liang",
+    "馬謖|Ma Su",
+    "張郃|Zhang He"
+   ],
+   "related": [
+    "lianzhu"
+   ]
+  },
+  "lianzhu": {
+   "kind": "unit",
+   "title": {
+    "ja": "諸葛亮の連弩",
+    "en": "Zhuge Liang's repeating crossbow"
+   },
+   "body": {
+    "ja": "[[p:諸葛亮]]は、それまでの連弩を改良した「元戎」を作ったと伝わる。長さ八寸の鉄の矢を、一つの弩から十本同時に放てたという。\n\n諸葛亮は兵器と輸送の工夫でも知られる。険しい山道で兵糧を運んだ「木牛」と「流馬」、陣の組み方の「八陣図」も彼の工夫とされる。秦嶺の山々を越える北伐の軍は、いつも兵糧を前線へ運ぶことに苦しんだ。\n\n連弩の実物は残っておらず、後の書物にさまざまな復元図が描かれた。明の時代には、箱に入れた矢をてこで次々に放つ「諸葛弩」と呼ばれる連発の弩が使われ、今でも中国の歴史ドラマでおなじみである。",
+    "en": "[[p:諸葛亮|Zhuge Liang]] is said to have improved the repeating crossbow into the \"Yuanrong\", which shot ten iron bolts, each eight inches long, at once.\n\nHe is remembered for his engineering too: the \"wooden ox\" and \"gliding horse\" that carried grain over mountain paths, and the \"eight formations\" for drawing up an army. His northern campaigns, over the Qinling mountains, always struggled to bring food to the front.\n\nNo example survives, and later books drew many reconstructions. In the Ming a magazine-fed crossbow worked with a lever, the \"Zhuge crossbow\", was in use; it is a familiar sight in Chinese historical dramas."
+   },
+   "year": 230,
+   "people": [
+    "諸葛亮|Zhuge Liang"
+   ],
+   "related": [
+    "wudang"
+   ]
+  }
+ }
 }

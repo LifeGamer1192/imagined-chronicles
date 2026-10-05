@@ -6357,8 +6357,8 @@
    ],
    "imp": 3,
    "at": "okazaki",
-   "ja": "長篠の戦い。{n_oda}と{n_tokugawa}は馬防柵の内から多くの鉄砲を撃ちかけ、{n_takeda}の騎馬隊を破った。[[p:山県昌景]]・[[p:馬場信春]]ら武田の名将の多くが討死した。",
-   "en": "The battle of Nagashino. From behind palisades {n_oda} and {n_tokugawa} met the horsemen of {n_takeda} with massed musket fire. [[p:山県昌景|Yamagata Masakage]], [[p:馬場信春|Baba Nobuharu]] and many of Takeda's best fell."
+   "ja": "長篠の戦い。{n_oda}と{n_tokugawa}は馬防柵の内から多くの[[a:teppo|鉄砲]]を撃ちかけ、{n_takeda}の[[a:takeda_horse|騎馬隊]]を破った。[[p:山県昌景]]・[[p:馬場信春]]ら武田の名将の多くが討死した。",
+   "en": "The battle of Nagashino. From behind palisades {n_oda} and {n_tokugawa} met the [[a:takeda_horse|horsemen]] of {n_takeda} with massed [[a:teppo|musket fire]]. [[p:山県昌景|Yamagata Masakage]], [[p:馬場信春|Baba Nobuharu]] and many of Takeda's best fell."
   },
   {
    "id": "mimura_end",
@@ -8409,6 +8409,9 @@
    },
    "read": [
     "atsumori"
+   ],
+   "units": [
+    "nagae"
    ]
   },
   "kawanakajima": {
@@ -8468,6 +8471,9 @@
    },
    "read": [
     "kitsutsuki"
+   ],
+   "units": [
+    "takeda_horse"
    ]
   },
   "anegawa": {
@@ -8573,7 +8579,11 @@
    "after": {
     "ja": "信玄はそのまま西へ進んだが、翌年の春に病に倒れ、甲斐へ帰る途中で世を去った。",
     "en": "Shingen marched on west, but fell ill the next spring and died on the way home to Kai."
-   }
+   },
+   "units": [
+    "akazonae",
+    "takeda_horse"
+   ]
   },
   "nagashino": {
    "name": {
@@ -8633,6 +8643,11 @@
    },
    "read": [
     "teppo"
+   ],
+   "units": [
+    "teppo",
+    "takeda_horse",
+    "akazonae"
    ]
   },
   "mimikawa": {
@@ -8686,6 +8701,9 @@
    },
    "read": [
     "tsurinobuse"
+   ],
+   "units": [
+    "teppo"
    ]
   },
   "okitanawate": {
@@ -8737,6 +8755,9 @@
    },
    "read": [
     "tsurinobuse"
+   ],
+   "units": [
+    "teppo"
    ]
   },
   "komaki": {
@@ -8789,6 +8810,9 @@
     "en": "Hideyoshi could not win in the field, but made a separate peace with Nobukatsu and took away Ieyasu's cause; Ieyasu later bowed to him."
    },
    "read": [
+    "akazonae"
+   ],
+   "units": [
     "akazonae"
    ]
   },
@@ -8902,6 +8926,10 @@
    "read": [
     "shimazu_noki",
     "akazonae"
+   ],
+   "units": [
+    "akazonae",
+    "teppo"
    ]
   },
   "osaka_summer": {
@@ -8958,6 +8986,10 @@
    },
    "read": [
     "sanada_maru"
+   ],
+   "units": [
+    "akazonae",
+    "teppo"
    ]
   }
  },
@@ -9185,5 +9217,128 @@
     "en": "The Toyotomi house was gone and Osaka castle burned. The next month the shogunate issued the one-castle-per-province edict and the laws for military houses, and the era was renamed Genna."
    }
   }
- ]
+ ],
+ "articles": {
+  "teppo": {
+   "kind": "unit",
+   "title": {
+    "ja": "鉄砲隊",
+    "en": "The musketeers"
+   },
+   "body": {
+    "ja": "1543年、種子島に流れ着いた船に乗っていたポルトガル人が火縄銃を伝えた。島主の種子島時尭は二挺を大金で買い取り、刀鍛冶の八板金兵衛に作り方を学ばせた。銃の底をふさぐ尾栓のねじの作り方には特に苦心したという。\n\n鉄砲は驚くほど早く広まった。堺・根来・近江の国友が大きな産地となり、十数年のうちに各地の大名が鉄砲を持つようになった。戦国の終わりの日本は、世界でも有数の鉄砲の国であったと言われる。\n\n鉄砲には弱点もあった。一発撃つと、銃口から火薬と弾を込め直し、火縄の火を確かめるまでに時間がかかる。雨にも弱い。そこで大名たちは多くの鉄砲足軽を集めて隊にまとめ、柵や土塁で守りながら撃たせた。弾の鉛や火薬の硝石は多くを海外から買っており、南蛮貿易の港を押さえることが、そのまま力になった。\n\n長篠の戦いでは、織田・徳川軍が馬防柵の内から多くの鉄砲で武田軍を撃った。有名な「三千挺の三段撃ち」は後の軍記の脚色とも言われるが、組織された鉄砲隊が戦場を変えたことは確かである。紀伊の雑賀衆と根来衆は、鉄砲を操る傭兵の集団として名を知られた。\n\n鉄砲は城の形も変えた。厚い土塀と高い石垣、鉄砲を撃つための狭間 (さま)、折れ曲がった塁で敵に横から弾を浴びせる設計が生まれた。大坂冬の陣では大砲も使われ、徳川方の砲弾が[[p:淀殿]]のいる御殿に当たって侍女が死に、豊臣方を和議に傾かせたという。",
+    "en": "In 1543 Portuguese aboard a ship wrecked on Tanegashima brought the matchlock gun to Japan. The island's lord, Tanegashima Tokitaka, bought two for a fortune and had the swordsmith Yaita Kinbei learn to make them; the screw of the breech plug, they say, gave him the most trouble.\n\nGuns spread with astonishing speed. Sakai, Negoro and Kunitomo in Ōmi became great centres of manufacture, and within a couple of decades lords everywhere had them. By the end of the age of war Japan was among the most gun-rich countries in the world.\n\nGuns had their weaknesses. After each shot, powder and ball had to be loaded down the muzzle and the match checked — and rain spoiled everything. So lords gathered their gunners into companies and had them shoot from behind palisades and earthworks. Much of the lead and the saltpetre for the powder came from abroad, and holding the ports of the southern trade meant power.\n\nAt Nagashino the Oda and Tokugawa shot down the Takeda from behind their palisades. The famous \"three thousand guns firing in three ranks\" may be the embroidery of later chronicles, but organised companies of gunners certainly changed the battlefield. The Saika and Negoro bands of Kii became famous as gunners for hire.\n\nGuns changed castles too: thick earthen walls, high stone ramparts, loopholes to shoot through, and angled walls to rake attackers from the side. At the winter siege of Osaka the Tokugawa used cannon; a shot that struck the hall where [[p:淀殿|Lady Yodo]] was, killing her maids, is said to have pushed the Toyotomi towards peace."
+   },
+   "year": 1543,
+   "people": [
+    "織田信長|Oda Nobunaga",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "saika",
+    "takeda_horse",
+    "tekkosen"
+   ]
+  },
+  "akazonae": {
+   "kind": "unit",
+   "title": {
+    "ja": "赤備え",
+    "en": "The red guard"
+   },
+   "body": {
+    "ja": "鎧・旗・馬具までを赤 (朱) 一色にそろえた部隊を「赤備え」という。戦場で遠くからでも目立ち、勇猛な精鋭の印であった。\n\n始まりは武田家とされる。飯富虎昌の部隊が赤備えで知られ、虎昌が謀反に連座して死んだのち、弟の[[p:山県昌景]] (甥ともいう) がそれを受け継いだ。山県の赤備えは三方ヶ原で徳川軍を追い散らし、家康を震え上がらせた。\n\n武田家が滅ぶと、家康は武田の旧臣を多く召し抱え、若い[[p:井伊直政]]に付けて赤備えを継がせた。「井伊の赤鬼」と呼ばれた直政の部隊は長久手で活躍し、関ヶ原でも先陣を切った。井伊家の赤備えは江戸時代を通じて受け継がれた。\n\n大坂夏の陣では、[[p:真田信繁]]の部隊も赤備えであった。赤い真田隊が家康の本陣に斬り込んだ場面は、のちの物語や絵で繰り返し描かれている。",
+    "en": "A \"red guard\" was a unit whose armour, banners and harness were all lacquered red. It stood out across the field and marked a body of picked, fearless men.\n\nIt began, they say, with the Takeda. Obu Toramasa's men were known for their red; when Toramasa died, implicated in a plot, his younger brother (or nephew) [[p:山県昌景|Yamagata Masakage]] took them over. At Mikatagahara Yamagata's reds scattered the Tokugawa army and terrified Ieyasu.\n\nWhen the Takeda fell, Ieyasu took many of their men into his service and gave them, in red, to the young [[p:井伊直政|Ii Naomasa]]. \"Ii's red devils\" distinguished themselves at Nagakute and led the attack at Sekigahara; the Ii kept their red guard all through the Edo period.\n\nAt the summer siege of Osaka [[p:真田信繁|Sanada Nobushige]]'s men wore red too, and the red Sanada charge into Ieyasu's headquarters has been told and painted again and again."
+   },
+   "year": 1572,
+   "people": [
+    "山県昌景|Yamagata Masakage",
+    "井伊直政|Ii Naomasa",
+    "真田信繁|Sanada Nobushige",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "takeda_horse"
+   ]
+  },
+  "takeda_horse": {
+   "kind": "unit",
+   "title": {
+    "ja": "武田の騎馬隊",
+    "en": "The Takeda horse"
+   },
+   "body": {
+    "ja": "甲斐の武田家は「騎馬軍団」の名で知られる。甲斐と信濃は古くから馬の産地 (牧) であり、武田の家臣には馬に乗る武士が多かった。\n\nとはいえ、騎馬武者だけで組んだ大部隊が一斉に突撃する、というのは後世のイメージに近い。当時の軍では、馬に乗る武士と、それに従う徒歩の従者や足軽が組になって戦い、いざ戦う段になると馬を降りることも多かった。日本の在来の馬は、肩の高さが120〜130cmほどの小柄な馬であった。\n\nそれでも武田の軍は強かった。信玄は家臣の領地に応じて出す兵と武具を細かく定め、山県・馬場・高坂・内藤らの名将が部隊を率いた。三方ヶ原では徳川・織田の連合軍を二時間ほどで打ち破っている。\n\n長篠で武田軍が多くの将を失ったのは、騎馬の突撃が鉄砲に負けたからというより、背後を断たれた末に、柵と堀で固めた倍以上の敵に正面から攻めかかったためだ、と見る研究者も多い。「騎馬隊 対 鉄砲隊」は、時代の移り変わりを語る分かりやすい物語として広まったのである。",
+    "en": "The Takeda of Kai are remembered for their \"cavalry corps\". Kai and Shinano had long been horse country, and many of the Takeda's retainers fought mounted.\n\nStill, great formations made up only of horsemen charging together are closer to later imagination. Armies of the day fought in groups — a mounted warrior with his followers and foot soldiers — and riders often dismounted to fight. Japanese horses were small, some 120–130 cm at the shoulder.\n\nThe Takeda army was strong all the same. Shingen fixed exactly what men and arms each retainer owed for his lands, and great captains — Yamagata, Baba, Kōsaka, Naitō — led its divisions. At Mikatagahara it broke the Tokugawa and Oda in about two hours.\n\nMany historians think the Takeda lost so many commanders at Nagashino less because horsemen lost to guns than because, cut off from behind, they attacked head-on an army twice their size dug in behind palisades and ditches. \"Horse against musket\" spread as a neat story of changing times."
+   },
+   "year": 1561,
+   "people": [
+    "武田信玄|Takeda Shingen",
+    "武田勝頼|Takeda Katsuyori",
+    "山県昌景|Yamagata Masakage",
+    "馬場信春|Baba Nobuharu",
+    "高坂昌信|Kōsaka Masanobu"
+   ],
+   "related": [
+    "teppo",
+    "akazonae"
+   ]
+  },
+  "saika": {
+   "kind": "unit",
+   "title": {
+    "ja": "雑賀衆",
+    "en": "The Saika band"
+   },
+   "body": {
+    "ja": "紀伊国 (和歌山) の北西、雑賀の地の地侍たちの集まり。海に面し、漁や海運、交易で栄えた。大名に従わず、寄り合いで物事を決める自治の気風が強かった。\n\n雑賀衆の名を高めたのは鉄砲である。近くの根来寺の僧兵 (根来衆) とともに早くから鉄砲を取り入れて腕を磨き、鉄砲の名手の集団として各地の大名に雇われて戦った。\n\n石山合戦では、雑賀衆の多くが本願寺に味方して織田軍を大いに苦しめた。「雑賀孫一」の名で知られる[[p:鈴木孫一]]らが率いたとされる。1577年、信長は大軍で雑賀を攻めたが、雑賀衆は地の利を生かして抵抗し、形ばかりの降伏で終わった。\n\n信長の死後、雑賀衆は秀吉と対立し、1585年の紀州攻めで根来寺とともに屈した。鉄砲を手に大名と渡り合った地侍の自治は、天下統一とともに終わった。",
+    "en": "A league of local warriors from Saika in northwestern Kii (Wakayama). Facing the sea, it lived by fishing, shipping and trade, would bow to no lord, and settled its affairs in council.\n\nGuns made its name. With the warrior monks of nearby Negoro, Saika took up firearms early, honed its skill and hired itself out to lords far and wide as a band of master gunners.\n\nIn the Ishiyama war most of Saika sided with the Honganji and gave Oda's armies great trouble, led, it is said, by [[p:鈴木孫一|Suzuki Magoichi]] — \"Saika Magoichi\". In 1577 Nobunaga invaded Saika with a great army, but the league used its ground well and the campaign ended in a surrender in name only.\n\nAfter Nobunaga's death Saika opposed Hideyoshi and was crushed with Negoro in the Kii campaign of 1585. The self-rule of country warriors who had faced down lords with their guns ended with the unification of the realm."
+   },
+   "year": 1577,
+   "people": [
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "teppo",
+    "tekkosen"
+   ]
+  },
+  "tekkosen": {
+   "kind": "unit",
+   "title": {
+    "ja": "鉄甲船",
+    "en": "The iron-clad ships"
+   },
+   "body": {
+    "ja": "1576年の第一次木津川口の戦いで、毛利の水軍は焙烙火矢 (火薬を詰めた焼き物の玉を投げつける火器) で織田の水軍を焼き払い、石山本願寺に兵糧を運び込んだ。\n\n信長は伊勢の[[p:九鬼嘉隆]]に、焼けない大船を造るよう命じた。1578年、伊勢で造られた六隻の大船が大坂湾に現れた。奈良の僧の日記には「鉄の船なり」とある。船体の一部に鉄板を張っていたと考えられ、大砲を積んでいた。\n\n同じ年の第二次木津川口の戦いで、九鬼の大船は毛利の水軍を打ち破った。本願寺は海からの補給を断たれ、二年後に石山を明け渡すことになる。\n\n鉄甲船の大きさや鉄の張り方ははっきりしない。宣教師オルガンティーノも見物に行き、その大きさに驚いたことを書き残している。「世界最初の装甲艦」と言われることもあるが、史料は少なく、確かなことは多くない。",
+    "en": "At the first battle of Kizugawaguchi in 1576 the Mōri fleet burned Oda's ships with hōroku — clay pots of gunpowder hurled aboard — and ran supplies into the Ishiyama Honganji.\n\nNobunaga ordered [[p:九鬼嘉隆|Kuki Yoshitaka]] of Ise to build great ships that would not burn. In 1578 six of them appeared in the bay of Osaka; the diary of a Nara monk calls them \"iron ships\". Parts of their hulls were probably plated with iron, and they carried cannon.\n\nAt the second battle of Kizugawaguchi that year Kuki's ships beat the Mōri fleet. The Honganji was cut off from the sea and two years later gave up Ishiyama.\n\nHow big the ships were and how much iron they wore is unclear. The missionary Organtino went to see them and wrote of his astonishment at their size. They are sometimes called the world's first ironclads, but the sources are few and little is certain."
+   },
+   "year": 1578,
+   "people": [
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "teppo",
+    "saika"
+   ]
+  },
+  "nagae": {
+   "kind": "unit",
+   "title": {
+    "ja": "長槍",
+    "en": "The long pikes"
+   },
+   "body": {
+    "ja": "槍は戦国の足軽の主な武器であった。刀より遠くから戦え、作るのも扱うのもたやすい。足軽は槍をそろえて横に並び、上から叩き、突きかけて敵の列を崩した (槍衾)。\n\n[[p:織田信長]]は、ふつう二間半 (約4.5m) ほどの槍を、三間半 (約6.4m) にまで長くさせたという。若い頃、家臣たちに槍の長短を論じさせ、長い方が有利と見て決めたと伝わる。\n\n1553年、美濃の斎藤道三は娘婿の信長と正徳寺で会見した。「うつけ」と噂される婿を道ばたの小屋からのぞき見ると、信長は三間半の朱槍五百本と、弓・鉄砲五百挺をそろえた軍勢を引き連れて現れた。会見の後、道三は「わしの子らは、あのうつけの門前に馬をつなぐことになろう」と嘆いたという。\n\n長い槍は、多くの兵がそろって使ってこそ力を出す。普段から訓練した兵を揃えられることが、大名の強さそのものであった。",
+    "en": "The spear was the chief weapon of the foot soldier in the age of war: it outreached a sword and was easy to make and to use. Ranks of spearmen beat down and thrust together to break the enemy's line.\n\n[[p:織田信長|Oda Nobunaga]] had his spears lengthened from the usual 4.5 metres or so to about 6.4. As a young man, it is said, he had his retainers argue long against short, and decided the long ones won.\n\nIn 1553 Saitō Dōsan of Mino met his son-in-law Nobunaga at the Shōtoku temple. Peeping from a roadside hut at the young \"fool\" everyone talked of, he saw him arrive with five hundred long vermilion pikes and five hundred bows and guns. After the meeting Dōsan sighed: \"My sons will end up tying their horses at that fool's gate.\"\n\nLong pikes work only when many men wield them together; being able to field drilled men was a lord's strength itself."
+   },
+   "year": 1553,
+   "people": [
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "teppo"
+   ]
+  }
+ }
 }
