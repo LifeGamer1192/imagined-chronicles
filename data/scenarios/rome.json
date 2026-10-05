@@ -783,7 +783,28 @@
       "tr": [
        "brave"
       ],
-      "born": 260
+      "born": 260,
+      "co": {
+       "name": {
+        "ja": "ティベリウス・センプロニウス・ロングス",
+        "en": "Tiberius Sempronius Longus"
+       },
+       "house": {
+        "ja": "センプロニウス",
+        "en": "Sempronius"
+       },
+       "ab": [
+        5,
+        6,
+        5,
+        6
+       ],
+       "tr": [
+        "brave",
+        "ambitious"
+       ],
+       "born": 260
+      }
      }
     ],
     [
@@ -807,7 +828,18 @@
        "brave",
        "ambitious"
       ],
-      "born": 265
+      "born": 265,
+      "co": {
+       "name": {
+        "ja": "グナエウス・セルウィリウス・ゲミヌス",
+        "en": "Gnaeus Servilius Geminus"
+       },
+       "house": {
+        "ja": "セルウィリウス",
+        "en": "Servilius"
+       },
+       "born": 260
+      }
      }
     ],
     [
@@ -830,7 +862,28 @@
       "tr": [
        "just"
       ],
-      "born": 260
+      "born": 260,
+      "co": {
+       "name": {
+        "ja": "ガイウス・テレンティウス・ウァロ",
+        "en": "Gaius Terentius Varro"
+       },
+       "house": {
+        "ja": "テレンティウス",
+        "en": "Terentius"
+       },
+       "ab": [
+        5,
+        3,
+        5,
+        7
+       ],
+       "tr": [
+        "ambitious",
+        "brave"
+       ],
+       "born": 260
+      }
      }
     ],
     [
@@ -850,7 +903,17 @@
        6,
        7
       ],
-      "born": 260
+      "born": 260,
+      "co": {
+       "name": {
+        "ja": "クィントゥス・ファビウス・マクシムス",
+        "en": "Quintus Fabius Maximus"
+       },
+       "house": {
+        "ja": "ファビウス",
+        "en": "Fabius"
+       }
+      }
      }
     ],
     [
@@ -874,7 +937,17 @@
        "wise",
        "content"
       ],
-      "born": 280
+      "born": 280,
+      "co": {
+       "name": {
+        "ja": "マルクス・クラウディウス・マルケッルス",
+        "en": "Marcus Claudius Marcellus"
+       },
+       "house": {
+        "ja": "クラウディウス",
+        "en": "Claudius"
+       }
+      }
      }
     ],
     [
@@ -888,7 +961,17 @@
        "ja": "ファビウス",
        "en": "Fabius"
       },
-      "born": 250
+      "born": 250,
+      "co": {
+       "name": {
+        "ja": "ティベリウス・グラックス",
+        "en": "Tiberius Sempronius Gracchus"
+       },
+       "house": {
+        "ja": "センプロニウス",
+        "en": "Sempronius"
+       }
+      }
      }
     ],
     [
@@ -902,7 +985,27 @@
        "ja": "クラウディウス",
        "en": "Claudius"
       },
-      "born": 255
+      "born": 255,
+      "co": {
+       "name": {
+        "ja": "クィントゥス・フルウィウス・フラックス",
+        "en": "Quintus Fulvius Flaccus"
+       },
+       "house": {
+        "ja": "フルウィウス",
+        "en": "Fulvius"
+       },
+       "ab": [
+        6,
+        8,
+        5,
+        5
+       ],
+       "tr": [
+        "cruel"
+       ],
+       "born": 270
+      }
      }
     ],
     [
@@ -916,7 +1019,18 @@
        "ja": "フルウィウス",
        "en": "Fulvius"
       },
-      "born": 255
+      "born": 255,
+      "co": {
+       "name": {
+        "ja": "プブリウス・スルピキウス・ガルバ",
+        "en": "Publius Sulpicius Galba"
+       },
+       "house": {
+        "ja": "スルピキウス",
+        "en": "Sulpicius"
+       },
+       "born": 255
+      }
      }
     ],
     [
@@ -940,7 +1054,18 @@
        "brave",
        "warrior"
       ],
-      "born": 268
+      "born": 268,
+      "co": {
+       "name": {
+        "ja": "マルクス・ウァレリウス・ラエウィヌス",
+        "en": "Marcus Valerius Laevinus"
+       },
+       "house": {
+        "ja": "ウァレリウス",
+        "en": "Valerius"
+       },
+       "born": 255
+      }
      }
     ],
     [
@@ -953,6 +1078,16 @@
       "house": {
        "ja": "ファビウス",
        "en": "Fabius"
+      },
+      "co": {
+       "name": {
+        "ja": "クィントゥス・フルウィウス・フラックス",
+        "en": "Quintus Fulvius Flaccus"
+       },
+       "house": {
+        "ja": "フルウィウス",
+        "en": "Fulvius"
+       }
       }
      }
     ],
@@ -966,6 +1101,17 @@
       "house": {
        "ja": "クラウディウス",
        "en": "Claudius"
+      },
+      "co": {
+       "name": {
+        "ja": "ティトゥス・クィンクティウス・クリスピヌス",
+        "en": "Titus Quinctius Crispinus"
+       },
+       "house": {
+        "ja": "クィンクティウス",
+        "en": "Quinctius"
+       },
+       "born": 255
       }
      }
     ],
@@ -989,7 +1135,24 @@
       "tr": [
        "brave"
       ],
-      "born": 250
+      "born": 250,
+      "co": {
+       "name": {
+        "ja": "マルクス・リウィウス・サリナトル",
+        "en": "Marcus Livius Salinator"
+       },
+       "house": {
+        "ja": "リウィウス",
+        "en": "Livius"
+       },
+       "ab": [
+        6,
+        8,
+        5,
+        5
+       ],
+       "born": 254
+      }
      }
     ],
     [
@@ -1003,7 +1166,18 @@
        "ja": "ウェトゥリウス",
        "en": "Veturius"
       },
-      "born": 250
+      "born": 250,
+      "co": {
+       "name": {
+        "ja": "クィントゥス・カエキリウス・メテッルス",
+        "en": "Quintus Caecilius Metellus"
+       },
+       "house": {
+        "ja": "カエキリウス",
+        "en": "Caecilius"
+       },
+       "born": 250
+      }
      }
     ],
     [
@@ -1028,7 +1202,18 @@
        "charismatic",
        "ambitious"
       ],
-      "born": 236
+      "born": 236,
+      "co": {
+       "name": {
+        "ja": "プブリウス・リキニウス・クラッスス",
+        "en": "Publius Licinius Crassus"
+       },
+       "house": {
+        "ja": "リキニウス",
+        "en": "Licinius"
+       },
+       "born": 250
+      }
      }
     ],
     [
@@ -1042,7 +1227,18 @@
        "ja": "コルネリウス",
        "en": "Cornelius"
       },
-      "born": 250
+      "born": 250,
+      "co": {
+       "name": {
+        "ja": "プブリウス・センプロニウス・トゥディタヌス",
+        "en": "Publius Sempronius Tuditanus"
+       },
+       "house": {
+        "ja": "センプロニウス",
+        "en": "Sempronius"
+       },
+       "born": 250
+      }
      }
     ],
     [
@@ -1056,7 +1252,18 @@
        "ja": "セルウィリウス",
        "en": "Servilius"
       },
-      "born": 250
+      "born": 250,
+      "co": {
+       "name": {
+        "ja": "ガイウス・セルウィリウス・ゲミヌス",
+        "en": "Gaius Servilius Geminus"
+       },
+       "house": {
+        "ja": "セルウィリウス",
+        "en": "Servilius"
+       },
+       "born": 250
+      }
      }
     ],
     [
@@ -1070,7 +1277,18 @@
        "ja": "クラウディウス",
        "en": "Claudius"
       },
-      "born": 250
+      "born": 250,
+      "co": {
+       "name": {
+        "ja": "マルクス・セルウィリウス・ゲミヌス",
+        "en": "Marcus Servilius Pulex Geminus"
+       },
+       "house": {
+        "ja": "セルウィリウス",
+        "en": "Servilius"
+       },
+       "born": 250
+      }
      }
     ],
     [
@@ -1084,7 +1302,18 @@
        "ja": "コルネリウス",
        "en": "Cornelius"
       },
-      "born": 250
+      "born": 250,
+      "co": {
+       "name": {
+        "ja": "プブリウス・アエリウス・パエトゥス",
+        "en": "Publius Aelius Paetus"
+       },
+       "house": {
+        "ja": "アエリウス",
+        "en": "Aelius"
+       },
+       "born": 250
+      }
      }
     ]
    ],
@@ -1745,27 +1974,6 @@
   }
  ],
  "people": [
-  [
-   "ガイウス・テレンティウス・ウァロ",
-   "Gaius Terentius Varro",
-   "rome",
-   "general",
-   260,
-   200,
-   {
-    "from": 217,
-    "ab": [
-     5,
-     3,
-     5,
-     7
-    ],
-    "tr": [
-     "ambitious",
-     "brave"
-    ]
-   }
-  ],
   [
    "マルクス・ミヌキウス・ルフス",
    "Marcus Minucius Rufus",
