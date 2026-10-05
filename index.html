@@ -10,8 +10,8 @@
       href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Shippori+Mincho:wght@500;700&display=swap"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="./assets/index-72o7WfUv.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-SQfSq9FH.css">
+    <script type="module" crossorigin src="./assets/index-9NldAqbk.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CnC1xxSP.css">
   </head>
   <body>
     <canvas id="map"></canvas>
@@ -107,6 +107,19 @@
     <div id="start" class="dialog" hidden>
       <div class="dh"><h2 data-i18n="start.title">新しい世界</h2><button class="start primary" data-i18n="start.start">はじまり</button><button class="close" hidden>✕</button></div>
       <div class="sb">
+        <div class="modepick" role="radiogroup">
+          <label><input type="radio" name="mode" value="free" /><span data-i18n="start.mode_free">架空の世界</span></label>
+          <label><input type="radio" name="mode" value="hist" /><span data-i18n="start.mode_hist">史実のシナリオ</span></label>
+        </div>
+        <div class="hist-body" hidden>
+          <div class="scenario-list"></div>
+          <div class="fidelity-box">
+            <p class="fid-head"><b data-i18n="scn.fidelity">史実度</b></p>
+            <p class="fid-hint" data-i18n="scn.fidelity_hint">史実度で遊び方が大きく変わります。下の説明を読んで、好みの段階を選んでください。</p>
+            <div class="fidelity-list"></div>
+          </div>
+          <p class="disclaimer dim" data-i18n="scn.disclaimer">娯楽のための再現です。</p>
+        </div>
         <div class="row2">
           <label><span data-i18n="ui.seed">シード</span><input name="seed" maxlength="24" spellcheck="false" /></label>
           <button class="reroll" data-i18n="ui.random">ランダム</button>
@@ -114,12 +127,12 @@
         <div class="row2">
           <label><span data-i18n="ui.size">大きさ</span><select name="size">
             <option value="small" data-i18n="size.small">小</option><option value="medium" data-i18n="size.medium">中</option><option value="large" data-i18n="size.large">大</option></select></label>
-          <label><span data-i18n="ui.template">地形</span><select name="template">
+          <label class="free-only"><span data-i18n="ui.template">地形</span><select name="template">
             <option value="continents" data-i18n="template.continents">大陸</option><option value="archipelago" data-i18n="template.archipelago">群島</option>
             <option value="pangaea" data-i18n="template.pangaea">超大陸</option><option value="inland_sea" data-i18n="template.inland_sea">内海</option></select></label>
         </div>
-        <label class="check"><input type="checkbox" name="random" /><span data-i18n="start.random_mode">すべてをシードに任せる</span></label>
-        <details>
+        <label class="check free-only"><input type="checkbox" name="random" /><span data-i18n="start.random_mode">すべてをシードに任せる</span></label>
+        <details class="free-only">
           <summary data-i18n="start.advanced">詳細設定</summary>
           <div class="row2">
             <label><span data-i18n="start.naming">名前の様式</span><select name="naming">
