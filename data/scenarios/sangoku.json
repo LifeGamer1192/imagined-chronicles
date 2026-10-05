@@ -1904,6 +1904,1876 @@
    "parent": "cao"
   }
  ],
- "people": [],
+ "people": [
+  [
+   "何進",
+   "He Jin",
+   "han",
+   "minister",
+   135,
+   189,
+   {
+    "from": 184,
+    "ab": [
+     4,
+     5,
+     4,
+     5
+    ],
+    "tr": [
+     "ambitious",
+     "foolish"
+    ]
+   }
+  ],
+  [
+   "皇甫嵩",
+   "Huangfu Song",
+   "han",
+   "general",
+   130,
+   195,
+   {
+    "from": 184,
+    "ab": [
+     6,
+     9,
+     5,
+     7
+    ],
+    "tr": [
+     "just",
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "朱儁",
+   "Zhu Jun",
+   "han",
+   "general",
+   130,
+   195,
+   {
+    "from": 184,
+    "ab": [
+     5,
+     8,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "盧植",
+   "Lu Zhi",
+   "han",
+   "scholar",
+   139,
+   192,
+   {
+    "from": 184,
+    "ab": [
+     7,
+     7,
+     6,
+     7
+    ],
+    "tr": [
+     "scholar",
+     "just"
+    ]
+   }
+  ],
+  [
+   "董卓",
+   "Dong Zhuo",
+   "han",
+   "general",
+   139,
+   192,
+   {
+    "from": 184,
+    "ab": [
+     5,
+     8,
+     4,
+     6
+    ],
+    "tr": [
+     "cruel",
+     "ambitious",
+     "greedy"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "王允",
+   "Wang Yun",
+   "han",
+   "minister",
+   137,
+   192,
+   {
+    "from": 184,
+    "ab": [
+     7,
+     3,
+     7,
+     6
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "張宝",
+   "Zhang Bao",
+   "huangjin",
+   "general",
+   145,
+   184,
+   {
+    "from": 184,
+    "ab": [
+     4,
+     6,
+     4,
+     6
+    ]
+   }
+  ],
+  [
+   "張梁",
+   "Zhang Liang",
+   "huangjin",
+   "general",
+   145,
+   184,
+   {
+    "from": 184,
+    "ab": [
+     4,
+     6,
+     4,
+     6
+    ]
+   }
+  ],
+  [
+   "孔融",
+   "Kong Rong",
+   "han",
+   "scholar",
+   153,
+   208,
+   {
+    "from": 184,
+    "ab": [
+     5,
+     3,
+     6,
+     7
+    ],
+    "tr": [
+     "scholar",
+     "just"
+    ]
+   }
+  ],
+  [
+   "華佗",
+   "Hua Tuo",
+   "han",
+   "scholar",
+   145,
+   208,
+   {
+    "from": 184,
+    "tr": [
+     "genius",
+     "kind"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "蔡琰",
+   "Cai Yan",
+   "han",
+   "artist",
+   177,
+   249,
+   {
+    "from": 195,
+    "sex": "f",
+    "tr": [
+     "scholar"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "荀彧",
+   "Xun Yu",
+   "yuanshao",
+   "minister",
+   163,
+   212,
+   {
+    "from": 189,
+    "moves": [
+     [
+      191,
+      "cao"
+     ]
+    ],
+    "ab": [
+     10,
+     4,
+     9,
+     7
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "荀攸",
+   "Xun You",
+   "han",
+   "minister",
+   157,
+   214,
+   {
+    "from": 189,
+    "moves": [
+     [
+      196,
+      "cao"
+     ]
+    ],
+    "ab": [
+     9,
+     7,
+     8,
+     5
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "郭嘉",
+   "Guo Jia",
+   "yuanshao",
+   "minister",
+   170,
+   207,
+   {
+    "from": 190,
+    "moves": [
+     [
+      196,
+      "cao"
+     ]
+    ],
+    "ab": [
+     8,
+     8,
+     8,
+     6
+    ],
+    "tr": [
+     "genius",
+     "drunkard"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "程昱",
+   "Cheng Yu",
+   "cao",
+   "minister",
+   141,
+   220,
+   {
+    "from": 192,
+    "ab": [
+     8,
+     7,
+     7,
+     4
+    ],
+    "tr": [
+     "cruel"
+    ]
+   }
+  ],
+  [
+   "賈詡",
+   "Jia Xu",
+   "han",
+   "minister",
+   147,
+   223,
+   {
+    "from": 190,
+    "moves": [
+     [
+      197,
+      "cao"
+     ]
+    ],
+    "ab": [
+     8,
+     8,
+     9,
+     4
+    ],
+    "tr": [
+     "genius",
+     "paranoid"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "夏侯惇",
+   "Xiahou Dun",
+   "cao",
+   "general",
+   157,
+   220,
+   {
+    "from": 190,
+    "ab": [
+     6,
+     8,
+     5,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "夏侯淵",
+   "Xiahou Yuan",
+   "cao",
+   "general",
+   160,
+   219,
+   {
+    "from": 190,
+    "ab": [
+     4,
+     8,
+     3,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "曹仁",
+   "Cao Ren",
+   "cao",
+   "general",
+   168,
+   223,
+   {
+    "from": 190,
+    "ab": [
+     6,
+     9,
+     5,
+     7
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "典韋",
+   "Dian Wei",
+   "cao",
+   "general",
+   160,
+   197,
+   {
+    "from": 192,
+    "ab": [
+     1,
+     8,
+     1,
+     6
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "許褚",
+   "Xu Chu",
+   "cao",
+   "general",
+   170,
+   230,
+   {
+    "from": 196,
+    "ab": [
+     2,
+     8,
+     2,
+     6
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ]
+   }
+  ],
+  [
+   "張遼",
+   "Zhang Liao",
+   "taoqian",
+   "general",
+   169,
+   222,
+   {
+    "from": 196,
+    "moves": [
+     [
+      198,
+      "cao"
+     ]
+    ],
+    "ab": [
+     6,
+     10,
+     5,
+     8
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "徐晃",
+   "Xu Huang",
+   "han",
+   "general",
+   169,
+   227,
+   {
+    "from": 192,
+    "moves": [
+     [
+      196,
+      "cao"
+     ]
+    ],
+    "ab": [
+     5,
+     9,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "張郃",
+   "Zhang He",
+   "yuanshao",
+   "general",
+   167,
+   231,
+   {
+    "from": 191,
+    "moves": [
+     [
+      200,
+      "cao"
+     ]
+    ],
+    "ab": [
+     5,
+     9,
+     5,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "于禁",
+   "Yu Jin",
+   "cao",
+   "general",
+   160,
+   221,
+   {
+    "from": 192,
+    "ab": [
+     6,
+     8,
+     4,
+     5
+    ]
+   }
+  ],
+  [
+   "楽進",
+   "Yue Jin",
+   "cao",
+   "general",
+   160,
+   218,
+   {
+    "from": 190,
+    "ab": [
+     4,
+     8,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "司馬懿",
+   "Sima Yi",
+   "cao",
+   "minister",
+   179,
+   251,
+   {
+    "from": 208,
+    "ab": [
+     9,
+     9,
+     8,
+     7
+    ],
+    "tr": [
+     "genius",
+     "ambitious",
+     "paranoid"
+    ],
+    "fame": 9
+   }
+  ],
+  [
+   "曹植",
+   "Cao Zhi",
+   "cao",
+   "artist",
+   192,
+   232,
+   {
+    "from": 208,
+    "ab": [
+     5,
+     3,
+     5,
+     8
+    ],
+    "tr": [
+     "scholar",
+     "drunkard"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "曹真",
+   "Cao Zhen",
+   "cao",
+   "general",
+   185,
+   231,
+   {
+    "from": 215,
+    "ab": [
+     6,
+     8,
+     5,
+     6
+    ]
+   }
+  ],
+  [
+   "陳羣",
+   "Chen Qun",
+   "cao",
+   "minister",
+   175,
+   236,
+   {
+    "from": 198,
+    "ab": [
+     9,
+     3,
+     7,
+     5
+    ],
+    "tr": [
+     "reformer"
+    ]
+   }
+  ],
+  [
+   "鍾繇",
+   "Zhong Yao",
+   "cao",
+   "minister",
+   151,
+   230,
+   {
+    "from": 196,
+    "ab": [
+     8,
+     5,
+     7,
+     6
+    ],
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "満寵",
+   "Man Chong",
+   "cao",
+   "general",
+   170,
+   242,
+   {
+    "from": 192,
+    "ab": [
+     7,
+     8,
+     6,
+     5
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "郝昭",
+   "Hao Zhao",
+   "cao",
+   "general",
+   190,
+   229,
+   {
+    "from": 220,
+    "ab": [
+     5,
+     8,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "鄧艾",
+   "Deng Ai",
+   "cao",
+   "general",
+   197,
+   264,
+   {
+    "from": 235,
+    "ab": [
+     8,
+     10,
+     5,
+     5
+    ],
+    "tr": [
+     "genius"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "鍾会",
+   "Zhong Hui",
+   "cao",
+   "general",
+   225,
+   264,
+   {
+    "from": 245,
+    "ab": [
+     8,
+     8,
+     7,
+     6
+    ],
+    "tr": [
+     "ambitious",
+     "genius"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "司馬師",
+   "Sima Shi",
+   "cao",
+   "minister",
+   208,
+   255,
+   {
+    "from": 238,
+    "ab": [
+     8,
+     8,
+     6,
+     6
+    ],
+    "tr": [
+     "ambitious",
+     "cruel"
+    ]
+   }
+  ],
+  [
+   "司馬昭",
+   "Sima Zhao",
+   "cao",
+   "minister",
+   211,
+   265,
+   {
+    "from": 240,
+    "ab": [
+     8,
+     7,
+     7,
+     6
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "羊祜",
+   "Yang Hu",
+   "cao",
+   "general",
+   221,
+   278,
+   {
+    "from": 260,
+    "ab": [
+     8,
+     8,
+     8,
+     8
+    ],
+    "tr": [
+     "just",
+     "kind"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "杜預",
+   "Du Yu",
+   "cao",
+   "general",
+   222,
+   285,
+   {
+    "from": 265,
+    "ab": [
+     8,
+     8,
+     6,
+     6
+    ],
+    "tr": [
+     "scholar"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "嵆康",
+   "Ji Kang",
+   "cao",
+   "scholar",
+   223,
+   262,
+   {
+    "from": 245,
+    "tr": [
+     "scholar",
+     "content"
+    ],
+    "fame": 5
+   }
+  ],
+  [
+   "阮籍",
+   "Ruan Ji",
+   "cao",
+   "artist",
+   210,
+   263,
+   {
+    "from": 240,
+    "tr": [
+     "drunkard",
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "管輅",
+   "Guan Lu",
+   "cao",
+   "seer",
+   209,
+   256,
+   {
+    "from": 235,
+    "tr": [
+     "genius"
+    ]
+   }
+  ],
+  [
+   "田豊",
+   "Tian Feng",
+   "yuanshao",
+   "minister",
+   150,
+   200,
+   {
+    "from": 190,
+    "ab": [
+     8,
+     7,
+     8,
+     4
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ]
+   }
+  ],
+  [
+   "沮授",
+   "Ju Shou",
+   "yuanshao",
+   "minister",
+   150,
+   200,
+   {
+    "from": 191,
+    "ab": [
+     8,
+     8,
+     7,
+     6
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "審配",
+   "Shen Pei",
+   "yuanshao",
+   "minister",
+   155,
+   204,
+   {
+    "from": 191,
+    "ab": [
+     7,
+     6,
+     5,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "顔良",
+   "Yan Liang",
+   "yuanshao",
+   "general",
+   160,
+   200,
+   {
+    "from": 191,
+    "ab": [
+     2,
+     8,
+     2,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "文醜",
+   "Wen Chou",
+   "yuanshao",
+   "general",
+   160,
+   200,
+   {
+    "from": 191,
+    "ab": [
+     2,
+     8,
+     2,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "陳宮",
+   "Chen Gong",
+   "cao",
+   "minister",
+   160,
+   198,
+   {
+    "from": 190,
+    "moves": [
+     [
+      194,
+      "taoqian"
+     ]
+    ],
+    "ab": [
+     7,
+     7,
+     7,
+     5
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "高順",
+   "Gao Shun",
+   "taoqian",
+   "general",
+   160,
+   198,
+   {
+    "from": 196,
+    "ab": [
+     5,
+     8,
+     3,
+     6
+    ],
+    "tr": [
+     "just",
+     "brave"
+    ]
+   }
+  ],
+  [
+   "田疇",
+   "Tian Chou",
+   "gongsun",
+   "hero",
+   169,
+   214,
+   {
+    "from": 191,
+    "moves": [
+     [
+      207,
+      "cao"
+     ]
+    ],
+    "tr": [
+     "just"
+    ]
+   }
+  ],
+  [
+   "関羽",
+   "Guan Yu",
+   "gongsun",
+   "general",
+   160,
+   220,
+   {
+    "from": 191,
+    "moves": [
+     [
+      194,
+      "taoqian"
+     ],
+     [
+      198,
+      "cao"
+     ],
+     [
+      200,
+      "yuanshao"
+     ],
+     [
+      201,
+      "liubiao"
+     ],
+     [
+      209,
+      "shu"
+     ]
+    ],
+    "ab": [
+     5,
+     10,
+     4,
+     9
+    ],
+    "tr": [
+     "brave",
+     "just",
+     "warrior"
+    ],
+    "fame": 9
+   }
+  ],
+  [
+   "張飛",
+   "Zhang Fei",
+   "gongsun",
+   "general",
+   167,
+   221,
+   {
+    "from": 191,
+    "moves": [
+     [
+      194,
+      "taoqian"
+     ],
+     [
+      198,
+      "cao"
+     ],
+     [
+      200,
+      "yuanshao"
+     ],
+     [
+      201,
+      "liubiao"
+     ],
+     [
+      209,
+      "shu"
+     ]
+    ],
+    "ab": [
+     2,
+     9,
+     2,
+     7
+    ],
+    "tr": [
+     "brave",
+     "drunkard",
+     "cruel"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "趙雲",
+   "Zhao Yun",
+   "gongsun",
+   "general",
+   168,
+   229,
+   {
+    "from": 191,
+    "moves": [
+     [
+      200,
+      "yuanshao"
+     ],
+     [
+      201,
+      "liubiao"
+     ],
+     [
+      209,
+      "shu"
+     ]
+    ],
+    "ab": [
+     6,
+     9,
+     5,
+     8
+    ],
+    "tr": [
+     "brave",
+     "just"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "諸葛亮",
+   "Zhuge Liang",
+   "liubiao",
+   "minister",
+   181,
+   234,
+   {
+    "from": 207,
+    "moves": [
+     [
+      209,
+      "shu"
+     ]
+    ],
+    "ab": [
+     10,
+     8,
+     9,
+     9
+    ],
+    "tr": [
+     "genius",
+     "just"
+    ],
+    "fame": 10
+   }
+  ],
+  [
+   "龐統",
+   "Pang Tong",
+   "liubiao",
+   "minister",
+   179,
+   214,
+   {
+    "from": 207,
+    "moves": [
+     [
+      210,
+      "shu"
+     ]
+    ],
+    "ab": [
+     8,
+     8,
+     8,
+     5
+    ],
+    "tr": [
+     "genius"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "法正",
+   "Fa Zheng",
+   "liuyan",
+   "minister",
+   176,
+   220,
+   {
+    "from": 196,
+    "moves": [
+     [
+      214,
+      "shu"
+     ]
+    ],
+    "ab": [
+     8,
+     8,
+     7,
+     5
+    ],
+    "tr": [
+     "genius",
+     "cruel"
+    ]
+   }
+  ],
+  [
+   "黄忠",
+   "Huang Zhong",
+   "liubiao",
+   "general",
+   148,
+   220,
+   {
+    "from": 190,
+    "moves": [
+     [
+      209,
+      "shu"
+     ]
+    ],
+    "ab": [
+     3,
+     9,
+     3,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "魏延",
+   "Wei Yan",
+   "shu",
+   "general",
+   175,
+   234,
+   {
+    "from": 211,
+    "ab": [
+     4,
+     9,
+     3,
+     5
+    ],
+    "tr": [
+     "brave",
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "馬良",
+   "Ma Liang",
+   "liubiao",
+   "minister",
+   187,
+   222,
+   {
+    "from": 209,
+    "moves": [
+     [
+      210,
+      "shu"
+     ]
+    ],
+    "ab": [
+     7,
+     4,
+     7,
+     7
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "馬謖",
+   "Ma Su",
+   "shu",
+   "general",
+   190,
+   228,
+   {
+    "from": 211,
+    "ab": [
+     6,
+     5,
+     6,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "蒋琬",
+   "Jiang Wan",
+   "shu",
+   "minister",
+   188,
+   246,
+   {
+    "from": 214,
+    "ab": [
+     9,
+     5,
+     7,
+     7
+    ],
+    "tr": [
+     "wise",
+     "content"
+    ]
+   }
+  ],
+  [
+   "費禕",
+   "Fei Yi",
+   "shu",
+   "minister",
+   195,
+   253,
+   {
+    "from": 214,
+    "ab": [
+     9,
+     4,
+     8,
+     7
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "姜維",
+   "Jiang Wei",
+   "cao",
+   "general",
+   202,
+   264,
+   {
+    "from": 222,
+    "moves": [
+     [
+      228,
+      "shu"
+     ]
+    ],
+    "ab": [
+     6,
+     9,
+     5,
+     7
+    ],
+    "tr": [
+     "brave",
+     "ambitious"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "黄権",
+   "Huang Quan",
+   "liuyan",
+   "minister",
+   170,
+   240,
+   {
+    "from": 200,
+    "moves": [
+     [
+      214,
+      "shu"
+     ],
+     [
+      222,
+      "cao"
+     ]
+    ],
+    "ab": [
+     7,
+     7,
+     7,
+     6
+    ]
+   }
+  ],
+  [
+   "譙周",
+   "Qiao Zhou",
+   "shu",
+   "scholar",
+   201,
+   270,
+   {
+    "from": 230,
+    "tr": [
+     "scholar"
+    ]
+   }
+  ],
+  [
+   "程普",
+   "Cheng Pu",
+   "wu",
+   "general",
+   150,
+   215,
+   {
+    "from": 190,
+    "ab": [
+     5,
+     8,
+     5,
+     7
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "黄蓋",
+   "Huang Gai",
+   "wu",
+   "general",
+   155,
+   215,
+   {
+    "from": 190,
+    "ab": [
+     5,
+     8,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "周瑜",
+   "Zhou Yu",
+   "wu",
+   "general",
+   175,
+   210,
+   {
+    "from": 194,
+    "ab": [
+     8,
+     10,
+     8,
+     9
+    ],
+    "tr": [
+     "genius",
+     "charismatic"
+    ],
+    "fame": 9
+   }
+  ],
+  [
+   "張昭",
+   "Zhang Zhao",
+   "wu",
+   "minister",
+   156,
+   236,
+   {
+    "from": 194,
+    "ab": [
+     9,
+     3,
+     7,
+     6
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ]
+   }
+  ],
+  [
+   "太史慈",
+   "Taishi Ci",
+   "han",
+   "general",
+   166,
+   206,
+   {
+    "from": 190,
+    "moves": [
+     [
+      195,
+      "wu"
+     ]
+    ],
+    "ab": [
+     4,
+     9,
+     4,
+     7
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "魯粛",
+   "Lu Su",
+   "wu",
+   "minister",
+   172,
+   217,
+   {
+    "from": 200,
+    "ab": [
+     8,
+     7,
+     9,
+     7
+    ],
+    "tr": [
+     "wise",
+     "generous"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "甘寧",
+   "Gan Ning",
+   "liubiao",
+   "general",
+   175,
+   220,
+   {
+    "from": 200,
+    "moves": [
+     [
+      208,
+      "wu"
+     ]
+    ],
+    "ab": [
+     3,
+     9,
+     3,
+     6
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ]
+   }
+  ],
+  [
+   "呂蒙",
+   "Lü Meng",
+   "wu",
+   "general",
+   178,
+   220,
+   {
+    "from": 200,
+    "ab": [
+     7,
+     9,
+     7,
+     6
+    ],
+    "tr": [
+     "brave",
+     "scholar"
+    ],
+    "fame": 7
+   }
+  ],
+  [
+   "陸遜",
+   "Lu Xun",
+   "wu",
+   "general",
+   183,
+   245,
+   {
+    "from": 203,
+    "ab": [
+     9,
+     10,
+     8,
+     7
+    ],
+    "tr": [
+     "genius",
+     "wise"
+    ],
+    "fame": 8
+   }
+  ],
+  [
+   "諸葛瑾",
+   "Zhuge Jin",
+   "wu",
+   "minister",
+   174,
+   241,
+   {
+    "from": 200,
+    "ab": [
+     7,
+     5,
+     8,
+     7
+    ],
+    "tr": [
+     "kind"
+    ]
+   }
+  ],
+  [
+   "孫尚香",
+   "Lady Sun",
+   "wu",
+   "hero",
+   190,
+   230,
+   {
+    "from": 209,
+    "sex": "f",
+    "ab": [
+     3,
+     6,
+     4,
+     7
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "陸抗",
+   "Lu Kang",
+   "wu",
+   "general",
+   226,
+   274,
+   {
+    "from": 245,
+    "ab": [
+     8,
+     9,
+     7,
+     7
+    ],
+    "tr": [
+     "wise",
+     "just"
+    ],
+    "fame": 6
+   }
+  ],
+  [
+   "丁奉",
+   "Ding Feng",
+   "wu",
+   "general",
+   190,
+   271,
+   {
+    "from": 215,
+    "ab": [
+     4,
+     8,
+     3,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "虞翻",
+   "Yu Fan",
+   "wu",
+   "scholar",
+   164,
+   233,
+   {
+    "from": 196,
+    "tr": [
+     "scholar",
+     "just"
+    ]
+   }
+  ],
+  [
+   "孟達",
+   "Meng Da",
+   "liuyan",
+   "general",
+   170,
+   228,
+   {
+    "from": 200,
+    "moves": [
+     [
+      214,
+      "shu"
+     ],
+     [
+      220,
+      "cao"
+     ]
+    ],
+    "ab": [
+     5,
+     7,
+     5,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "龐徳",
+   "Pang De",
+   "liang",
+   "general",
+   170,
+   219,
+   {
+    "from": 200,
+    "moves": [
+     [
+      215,
+      "cao"
+     ]
+    ],
+    "ab": [
+     3,
+     8,
+     3,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "馬岱",
+   "Ma Dai",
+   "liang",
+   "general",
+   180,
+   240,
+   {
+    "from": 205,
+    "moves": [
+     [
+      214,
+      "shu"
+     ]
+    ],
+    "ab": [
+     4,
+     7,
+     4,
+     6
+    ]
+   }
+  ],
+  [
+   "士燮",
+   "Shi Xie",
+   "han",
+   "minister",
+   137,
+   226,
+   {
+    "from": 187,
+    "moves": [
+     [
+      210,
+      "wu"
+     ]
+    ],
+    "ab": [
+     8,
+     4,
+     8,
+     7
+    ],
+    "tr": [
+     "wise",
+     "content"
+    ]
+   }
+  ]
+ ],
  "events": []
 }
