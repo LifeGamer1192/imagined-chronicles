@@ -738,51 +738,9 @@
     "hongnong",
     "hedong",
     "henei",
-    "xu",
-    "chenliu",
-    "puyang",
-    "qiao",
-    "runan",
-    "xiapi",
-    "pengcheng",
-    "ye",
-    "nanpi",
-    "ji_you",
-    "pingyuan",
-    "linzi",
-    "jinyang",
-    "shangdang",
-    "wan",
-    "xiangyang",
-    "jiangling",
-    "changsha",
-    "lingling",
-    "wuling",
-    "shouchun",
-    "lujiang",
-    "jianye",
-    "wujun",
-    "kuaiji",
-    "yuzhang",
-    "chengdu",
-    "hanzhong",
-    "jiangzhou",
-    "tianshui",
-    "longxi",
-    "jincheng",
-    "wuwei",
-    "anding",
-    "beidi",
-    "yanmen",
-    "dai",
-    "zhongshan",
-    "beihai",
-    "langya",
-    "guangling",
-    "xiakou",
-    "zitong"
+    "wuzhang"
    ],
-   "reach": 420,
+   "reach": 1500,
    "house": {
     "ja": "劉",
     "en": "Liu"
@@ -3775,5 +3733,1768 @@
    }
   ]
  ],
- "events": []
+ "events": [
+  {
+   "id": "huangjin_rise",
+   "y": 184,
+   "m": 3,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "partition",
+     "han",
+     [
+      "huangjin"
+     ]
+    ],
+    [
+     "add",
+     "han",
+     "stability",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "julu",
+   "ja": "「蒼天すでに死す、黄天まさに立つべし」。張角の率いる黄巾の衆が各地で一斉に蜂起し、役所を焼き、官吏を殺した。",
+   "en": "\"The Blue Heaven is dead; the Yellow Heaven shall rise.\" Zhang Jue's Yellow Turbans rose everywhere at once, burning offices and killing officials."
+  },
+  {
+   "id": "liang_rise",
+   "y": 184,
+   "m": 11,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "partition",
+     "han",
+     [
+      "liang"
+     ]
+    ]
+   ],
+   "at": "jincheng",
+   "ja": "涼州で辺章・韓遂らが羌族と結んで漢に背いた。西方の乱はこの後三十年近く続く。",
+   "en": "In Liang, Bian Zhang, Han Sui and others joined the Qiang and rose against the Han; the west would not be quiet for nearly thirty years."
+  },
+  {
+   "id": "huangjin_end",
+   "y": 184,
+   "m": 12,
+   "need": [
+    "han",
+    "huangjin"
+   ],
+   "do": [
+    [
+     "annex",
+     "han",
+     "huangjin"
+    ],
+    [
+     "add",
+     "han",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "at": "julu",
+   "ja": "張角は病に倒れ、皇甫嵩らの官軍が弟の張梁・張宝を討って黄巾の本隊は滅んだ。だが残党は各地に散って暴れ続けた。",
+   "en": "Zhang Jue died of illness, and the imperial armies of Huangfu Song and others destroyed his brothers Zhang Liang and Zhang Bao. The remnants scattered and kept raiding everywhere."
+  },
+  {
+   "id": "selling_offices",
+   "y": 185,
+   "m": 4,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "han",
+     "treasury",
+     150
+    ],
+    [
+     "add",
+     "han",
+     "stability",
+     -0.1
+    ],
+    [
+     "add",
+     "han",
+     "legitimacy",
+     -0.1
+    ]
+   ],
+   "ja": "{r_han}は宮殿の修理のため官職を値をつけて売り出した。三公の位さえ金で買えた。",
+   "en": "To rebuild the palaces {r_han} put offices up for sale; even the three highest posts could be bought."
+  },
+  {
+   "id": "liuyan_rise",
+   "y": 188,
+   "m": 4,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "partition",
+     "han",
+     [
+      "liuyan"
+     ]
+    ]
+   ],
+   "at": "chengdu",
+   "ja": "劉焉の進言で州の長官に兵と民を治める大きな権限 (州牧) が与えられた。劉焉は自ら益州牧となって蜀に入り、道を閉ざして独立の構えをとった。",
+   "en": "On Liu Yan's advice the provincial governors were given great powers over troops and people. Liu Yan made himself governor of Yi, went into Shu, closed the roads and stood apart."
+  },
+  {
+   "id": "eunuchs",
+   "y": 189,
+   "m": 9,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "han",
+     "stability",
+     -0.3
+    ],
+    [
+     "add",
+     "han",
+     "legitimacy",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "luoyang",
+   "ja": "大将軍何進は宦官を除こうとして逆に宮中で殺された。怒った袁紹らは宮中に兵を入れ、宦官二千余人を皆殺しにした。混乱の中、西涼の董卓が軍を率いて洛陽に入った。",
+   "en": "The grand general He Jin, plotting against the eunuchs, was killed by them in the palace. Yuan Shao and others stormed in and killed more than two thousand eunuchs; in the chaos Dong Zhuo marched into Luoyang from the west."
+  },
+  {
+   "id": "dong_zhuo",
+   "y": 189,
+   "m": 10,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "han",
+     "legitimacy",
+     -0.2
+    ]
+   ],
+   "at": "luoyang",
+   "ja": "董卓は少帝を廃して陳留王を立てた (献帝)。洛陽の宮殿は董卓の兵がほしいままに荒らした。",
+   "en": "Dong Zhuo deposed the young emperor and set up the Prince of Chenliu (Emperor Xian). His soldiers plundered Luoyang as they pleased."
+  },
+  {
+   "id": "coalition",
+   "y": 190,
+   "m": 2,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "partition",
+     "han",
+     [
+      "yuanshao",
+      "yuanshu",
+      "cao",
+      "wu",
+      "liubiao",
+      "taoqian",
+      "gongsun"
+     ]
+    ],
+    [
+     "add",
+     "han",
+     "stability",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "chenliu",
+   "ja": "関東の諸侯が董卓討伐の兵を挙げ、袁紹を盟主に仰いだ。だが諸侯は互いに牽制して動かず、連合は自分の地盤を固める群雄の争いへと変わっていった。",
+   "en": "The lords east of the passes raised troops against Dong Zhuo with Yuan Shao as their leader. But they watched each other and would not move, and the alliance turned into a scramble of warlords building their own domains."
+  },
+  {
+   "id": "changan_move",
+   "y": 190,
+   "m": 4,
+   "need": [
+    "han"
+   ],
+   "owns": [
+    [
+     "han",
+     "changan"
+    ]
+   ],
+   "do": [
+    [
+     "capital",
+     "han",
+     "changan"
+    ],
+    [
+     "add",
+     "han",
+     "stability",
+     -0.1
+    ]
+   ],
+   "imp": 3,
+   "at": "luoyang",
+   "ja": "董卓は洛陽を焼き払い、皇帝と数百万の民を長安へ移した。道中で多くの者が死んだ。",
+   "en": "Dong Zhuo burned Luoyang and drove the emperor and millions of people to Chang'an; many died on the way."
+  },
+  {
+   "id": "sunjian_dies",
+   "y": 191,
+   "m": 5,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "wu",
+     "battle_wound"
+    ]
+   ],
+   "imp": 2,
+   "at": "xiangyang",
+   "ja": "孫堅は劉表を攻めて襄陽を囲んだが、峴山で伏兵の矢に当たって死んだ。",
+   "en": "Sun Jian besieged Liu Biao in Xiangyang and was killed by an ambusher's arrow on Mount Xian."
+  },
+  {
+   "id": "zhanglu_rise",
+   "y": 191,
+   "m": 6,
+   "need": [
+    "liuyan"
+   ],
+   "do": [
+    [
+     "partition",
+     "liuyan",
+     [
+      "zhanglu"
+     ]
+    ]
+   ],
+   "at": "hanzhong",
+   "ja": "劉焉に漢中へ遣わされた張魯は、その地で自立した。教えを奉じる者たちの互助で治め、三十年近く漢中を保つ。",
+   "en": "Sent to Hanzhong by Liu Yan, Zhang Lu made himself independent there; he governed through the mutual aid of his believers and held Hanzhong for nearly thirty years."
+  },
+  {
+   "id": "yuanshao_ji",
+   "y": 191,
+   "m": 8,
+   "need": [
+    "yuanshao"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "yuanshao",
+     [
+      "ye"
+     ]
+    ],
+    [
+     "capital",
+     "yuanshao",
+     "ye"
+    ]
+   ],
+   "at": "ye",
+   "ja": "{r_yuanshao}は冀州牧の韓馥を脅して州を譲らせ、鄴に入った。",
+   "en": "{r_yuanshao} pressed Han Fu, governor of Ji, into handing over the province and entered Ye."
+  },
+  {
+   "id": "gongsun_rise",
+   "y": 191,
+   "m": 11,
+   "need": [
+    "gongsun",
+    "yuanshao"
+   ],
+   "do": [
+    [
+     "war",
+     "gongsun",
+     "yuanshao"
+    ]
+   ],
+   "at": "yijing",
+   "ja": "界橋の戦い。白馬の騎兵を率いる{r_gongsun}が{n_yuanshao}に挑んだが、麴義の弩兵に破られた。",
+   "en": "At Jieqiao {r_gongsun} and his white-horse cavalry challenged {n_yuanshao} and were broken by Qu Yi's crossbowmen."
+  },
+  {
+   "id": "dong_dies",
+   "y": 192,
+   "m": 5,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "han",
+     "stability",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "changan",
+   "ja": "王允の計で、董卓は養子の呂布に刺し殺された。長安の人々は歌い踊って喜んだが、董卓の部将李傕・郭汜が長安を攻め落とし、王允を殺した。",
+   "en": "By Wang Yun's plan Dong Zhuo was stabbed to death by his adopted son Lü Bu. Chang'an danced in the streets — until Dong's captains Li Jue and Guo Si stormed the city and killed Wang Yun."
+  },
+  {
+   "id": "qingzhou",
+   "y": 192,
+   "m": 12,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "cao",
+     [
+      "puyang",
+      "dongping"
+     ]
+    ],
+    [
+     "army",
+     "cao",
+     1.3
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     10
+    ]
+   ],
+   "at": "puyang",
+   "ja": "{r_cao}は兗州に入った青州の黄巾三十万を降し、その精鋭を「青州兵」とした。",
+   "en": "{r_cao} brought to submission three hundred thousand Yellow Turbans of Qing who had come into Yan, and made the best of them his \"Qingzhou army\"."
+  },
+  {
+   "id": "xu_war",
+   "y": 193,
+   "m": 10,
+   "need": [
+    "cao",
+    "taoqian"
+   ],
+   "do": [
+    [
+     "war",
+     "cao",
+     "taoqian"
+    ]
+   ],
+   "at": "pengcheng",
+   "ja": "父曹嵩を陶謙の兵に殺された{r_cao}は徐州に攻め入り、多くの民を殺した。",
+   "en": "His father Cao Song killed by Tao Qian's men, {r_cao} invaded Xu and slaughtered many of its people."
+  },
+  {
+   "id": "lubu_yan",
+   "y": 194,
+   "m": 5,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "stability",
+     -0.2
+    ]
+   ],
+   "at": "puyang",
+   "ja": "{r_cao}が徐州に出ている隙に、陳宮らが呂布を迎え入れて兗州で背いた。曹操は濮陽で呂布と一年余り戦った。",
+   "en": "While {r_cao} was away in Xu, Chen Gong and others let Lü Bu into Yan and rose; Cao fought Lü Bu at Puyang for more than a year."
+  },
+  {
+   "id": "liubei_xu",
+   "y": 194,
+   "m": 12,
+   "need": [
+    "taoqian"
+   ],
+   "do": [],
+   "at": "xiapi",
+   "ja": "陶謙は死に臨み、徐州を客将の劉備に託した。",
+   "en": "On his deathbed Tao Qian left Xu to his guest commander Liu Bei."
+  },
+  {
+   "id": "sunce_jiangdong",
+   "y": 195,
+   "m": 6,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "wu",
+     [
+      "danyang",
+      "wujun"
+     ]
+    ],
+    [
+     "capital",
+     "wu",
+     "wujun"
+    ],
+    [
+     "add",
+     "wu",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "wujun",
+   "ja": "孫策は袁術から父の旧臣を返してもらって長江を渡り、劉繇を破って江東に地盤を築いた。「小覇王」と呼ばれた。",
+   "en": "Sun Ce got his father's old soldiers back from Yuan Shu, crossed the Yangtze, defeated Liu Yao and built his base east of the river — \"the Little Conqueror\"."
+  },
+  {
+   "id": "sunce_kuaiji",
+   "y": 196,
+   "m": 6,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "wu",
+     [
+      "kuaiji",
+      "jianye"
+     ]
+    ]
+   ],
+   "at": "kuaiji",
+   "ja": "孫策は会稽の王朗を降し、江東を平らげた。",
+   "en": "Sun Ce brought down Wang Lang of Kuaiji and pacified the land east of the river."
+  },
+  {
+   "id": "lubu_takes_xu",
+   "y": 196,
+   "m": 7,
+   "need": [
+    "taoqian"
+   ],
+   "do": [
+    [
+     "relabel",
+     "taoqian",
+     {
+      "ja": "呂布軍",
+      "en": "the forces of Lü Bu"
+     },
+     {
+      "ja": "呂",
+      "en": "Lü"
+     }
+    ]
+   ],
+   "at": "xiapi",
+   "ja": "劉備が袁術と戦っている隙に、身を寄せていた呂布が下邳を奪い、徐州の主となった。",
+   "en": "While Liu Bei fought Yuan Shu, Lü Bu, whom he had taken in, seized Xiapi and became master of Xu."
+  },
+  {
+   "id": "emperor_to_xu",
+   "y": 196,
+   "m": 9,
+   "need": [
+    "cao",
+    "han"
+   ],
+   "do": [
+    [
+     "cede",
+     "han",
+     "cao",
+     [
+      "xu",
+      "luoyang",
+      "henei",
+      "runan"
+     ]
+    ],
+    [
+     "capital",
+     "cao",
+     "xu"
+    ],
+    [
+     "vassal",
+     "cao",
+     "han"
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     20
+    ],
+    [
+     "add",
+     "cao",
+     "legitimacy",
+     0.3
+    ]
+   ],
+   "imp": 3,
+   "at": "xu",
+   "ja": "李傕らのもとを逃れて荒れ果てた洛陽に戻った献帝を、{r_cao}は許に迎えた。「天子を奉じて不臣を討つ」。以後、曹操は皇帝の名で諸侯に命じた。",
+   "en": "{r_cao} received at Xu the emperor, who had escaped Li Jue and come back to the ruins of Luoyang. \"Serving the Son of Heaven, punish the disloyal\": from now on Cao gave orders to the lords in the emperor's name."
+  },
+  {
+   "id": "wancheng",
+   "y": 197,
+   "m": 2,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "army",
+     "cao",
+     0.85
+    ]
+   ],
+   "at": "wan",
+   "ja": "宛城の戦い。降ったはずの張繍が夜襲をかけ、{r_cao}の長子曹昂と護衛の典韋が討死した。",
+   "en": "At Wancheng Zhang Xiu, who had surrendered, attacked by night; Cao's eldest son Cao Ang and his bodyguard Dian Wei were killed."
+  },
+  {
+   "id": "yuanshu_emperor",
+   "y": 197,
+   "m": 3,
+   "need": [
+    "yuanshu"
+   ],
+   "do": [
+    [
+     "relabel",
+     "yuanshu",
+     {
+      "ja": "仲 (袁術)",
+      "en": "the Zhong of Yuan Shu"
+     },
+     {
+      "ja": "仲",
+      "en": "Zhong"
+     }
+    ],
+    [
+     "gov",
+     "yuanshu",
+     "empire"
+    ],
+    [
+     "add",
+     "yuanshu",
+     "legitimacy",
+     -0.4
+    ]
+   ],
+   "imp": 3,
+   "at": "shouchun",
+   "ja": "{r_yuanshu}は寿春で皇帝を称し、国号を仲とした。群雄はこぞって背を向けた。",
+   "en": "{r_yuanshu} proclaimed himself emperor at Shouchun, calling his dynasty Zhong; the warlords turned their backs on him one and all."
+  },
+  {
+   "id": "xiapi",
+   "y": 199,
+   "m": 2,
+   "need": [
+    "cao",
+    "taoqian"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "taoqian"
+    ]
+   ],
+   "imp": 3,
+   "at": "xiapi",
+   "ja": "{r_cao}は下邳を水攻めにした。部下に縛り上げられて降った呂布は「縄がきつい」と言ったが、曹操は劉備の一言で呂布を斬った。",
+   "en": "{r_cao} flooded Xiapi. Lü Bu, bound and handed over by his own men, complained the ropes were too tight; at a word from Liu Bei, Cao had him executed."
+  },
+  {
+   "id": "yijing",
+   "y": 199,
+   "m": 4,
+   "need": [
+    "yuanshao",
+    "gongsun"
+   ],
+   "do": [
+    [
+     "annex",
+     "yuanshao",
+     "gongsun"
+    ]
+   ],
+   "imp": 3,
+   "at": "yijing",
+   "ja": "{r_yuanshao}は易京の楼閣を地下から掘り崩し、{r_gongsun}は妻子を殺して火の中で死んだ。袁紹は河北四州の主となった。",
+   "en": "{r_yuanshao} mined the towers of Yijing; {r_gongsun} killed his family and died in the flames. Yuan Shao was master of the four provinces north of the river."
+  },
+  {
+   "id": "yuanshu_end",
+   "y": 199,
+   "m": 7,
+   "need": [
+    "yuanshu"
+   ],
+   "do": [
+    [
+     "cede",
+     "yuanshu",
+     "wu",
+     [
+      "lujiang"
+     ]
+    ],
+    [
+     "annex",
+     "cao",
+     "yuanshu"
+    ]
+   ],
+   "at": "shouchun",
+   "ja": "落ちぶれた袁術は、蜜水を求めても得られず、「袁術ともあろう者がこのざまか」と叫んで血を吐いて死んだ。",
+   "en": "Fallen on hard times, Yuan Shu asked for honey water and there was none. \"Has Yuan Shu come to this?\" he cried, and died vomiting blood."
+  },
+  {
+   "id": "sunce_dies",
+   "y": 200,
+   "m": 5,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "wu",
+     "assassination"
+    ]
+   ],
+   "imp": 3,
+   "at": "wujun",
+   "ja": "孫策は狩りの途中で旧主の仇を狙う刺客に襲われ、その傷がもとで死んだ。弟の孫権が十九歳で後を継いだ。",
+   "en": "Sun Ce was attacked while hunting by men avenging their old master, and died of his wounds. His brother Sun Quan succeeded him at nineteen."
+  },
+  {
+   "id": "guandu",
+   "y": 200,
+   "m": 11,
+   "need": [
+    "cao",
+    "yuanshao"
+   ],
+   "do": [
+    [
+     "army",
+     "yuanshao",
+     0.35
+    ],
+    [
+     "add",
+     "yuanshao",
+     "prestige",
+     -20
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     25
+    ]
+   ],
+   "imp": 3,
+   "at": "guandu",
+   "ja": "官渡の戦い。兵糧の尽きかけた{r_cao}は、袁紹のもとから寝返った許攸の進言で烏巣の兵糧庫を夜襲して焼き、{n_yuanshao}の大軍を崩した。",
+   "en": "The battle of Guandu. Running short of food, {r_cao} took the advice of Xu You, a defector from Yuan Shao, raided the granary at Wuchao by night and burned it; the great host of {n_yuanshao} fell apart."
+  },
+  {
+   "id": "yuanshao_dies",
+   "y": 202,
+   "m": 6,
+   "min": 4,
+   "need": [
+    "yuanshao"
+   ],
+   "do": [
+    [
+     "add",
+     "yuanshao",
+     "stability",
+     -0.3
+    ]
+   ],
+   "at": "ye",
+   "ja": "袁紹は失意のうちに病死した。後継ぎを定めなかったため、長子袁譚と末子袁尚が争った。",
+   "en": "Yuan Shao died of illness and disappointment. He had named no heir, and his eldest son Yuan Tan and youngest Yuan Shang fought each other."
+  },
+  {
+   "id": "ye_falls",
+   "y": 204,
+   "m": 9,
+   "need": [
+    "cao",
+    "yuanshao"
+   ],
+   "do": [
+    [
+     "cede",
+     "yuanshao",
+     "cao",
+     [
+      "ye",
+      "julu",
+      "zhongshan"
+     ]
+    ],
+    [
+     "capital",
+     "cao",
+     "ye"
+    ]
+   ],
+   "imp": 3,
+   "at": "ye",
+   "ja": "{r_cao}は漳河の水を引いて鄴を落とした。袁氏の地盤は崩れた。",
+   "en": "{r_cao} diverted the Zhang river, took Ye, and the Yuan domain crumbled."
+  },
+  {
+   "id": "yuanshao_end",
+   "y": 205,
+   "m": 2,
+   "need": [
+    "cao",
+    "yuanshao"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "yuanshao"
+    ]
+   ],
+   "at": "nanpi",
+   "ja": "{r_cao}は南皮で袁譚を討ち、冀州・青州を平らげた。袁尚は烏桓のもとへ逃れた。",
+   "en": "{r_cao} killed Yuan Tan at Nanpi and pacified Ji and Qing; Yuan Shang fled to the Wuhuan."
+  },
+  {
+   "id": "wuhuan",
+   "y": 207,
+   "m": 9,
+   "need": [
+    "cao",
+    "wuhuan"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "wuhuan"
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "at": "wuhuan",
+   "ja": "白狼山の戦い。{r_cao}は険しい道を越えて{n_wuhuan}の単于蹋頓を討った。遠征に従った郭嘉は帰途に病で死んだ。",
+   "en": "The battle of White Wolf Mountain. Crossing rough country, {r_cao} defeated and killed Tadun, chief of {n_wuhuan}. Guo Jia, who had come on the campaign, died of illness on the way back."
+  },
+  {
+   "id": "three_visits",
+   "y": 207,
+   "m": 12,
+   "need": [
+    "liubiao"
+   ],
+   "do": [],
+   "imp": 3,
+   "at": "xinye",
+   "ja": "新野にいた劉備は、隆中の諸葛亮の庵を三度訪ねてようやく会えた。諸葛亮は荊州と益州を取って天下を三分する策を説いた (天下三分の計)。",
+   "en": "Liu Bei, at Xinye, called three times at Zhuge Liang's cottage in Longzhong before he was received. Zhuge Liang laid out his plan: take Jing and Yi and divide the realm in three."
+  },
+  {
+   "id": "liubiao_end",
+   "y": 208,
+   "m": 9,
+   "need": [
+    "cao",
+    "liubiao"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "liubiao"
+    ]
+   ],
+   "imp": 3,
+   "at": "xiangyang",
+   "ja": "劉表が病死すると、子の劉琮は戦わずに{n_cao}に降った。南へ逃れる劉備の一行は長坂で追いつかれ、趙雲は劉備の幼子を抱いて敵中を駆け抜けた。",
+   "en": "When Liu Biao died, his son Liu Cong surrendered to {n_cao} without a fight. Liu Bei's column fleeing south was overtaken at Changban; Zhao Yun rode through the enemy carrying Liu Bei's infant son."
+  },
+  {
+   "id": "chibi",
+   "y": 208,
+   "m": 12,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "do": [
+    [
+     "army",
+     "cao",
+     0.45
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     -20
+    ],
+    [
+     "add",
+     "wu",
+     "prestige",
+     25
+    ]
+   ],
+   "imp": 3,
+   "at": "chibi",
+   "ja": "赤壁の戦い。{r_wu}は周瑜に兵を預け、劉備と結んで{n_cao}の大軍を長江に迎えた。黄蓋の偽りの降伏とともに火を放った船が曹操の船団を焼き、疫病にも苦しんだ曹操軍は北へ退いた。",
+   "en": "The battle of the Red Cliffs. {r_wu} gave Zhou Yu command and, allied with Liu Bei, met the great host of {n_cao} on the Yangtze. Fire ships sent in with Huang Gai's false surrender burned Cao's fleet; plagued by sickness too, Cao's army withdrew north."
+  },
+  {
+   "id": "shu_rise",
+   "y": 209,
+   "m": 6,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "partition",
+     "cao",
+     [
+      "shu"
+     ]
+    ],
+    [
+     "ally",
+     "shu",
+     "wu"
+    ]
+   ],
+   "imp": 3,
+   "at": "changsha",
+   "ja": "劉備は荊州南部の長沙・零陵・桂陽・武陵の四郡を平らげ、ついに自らの地盤を得た。孫権は妹を劉備に嫁がせて同盟を固めた。",
+   "en": "Liu Bei took the four southern commanderies of Jing — Changsha, Lingling, Guiyang and Wuling — and had at last a base of his own. Sun Quan sealed the alliance by marrying his sister to him."
+  },
+  {
+   "id": "jiangling",
+   "y": 209,
+   "m": 12,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "do": [
+    [
+     "cede",
+     "cao",
+     "wu",
+     [
+      "jiangling"
+     ]
+    ]
+   ],
+   "at": "jiangling",
+   "ja": "周瑜は一年余り曹仁と戦い、江陵を落とした。",
+   "en": "After more than a year against Cao Ren, Zhou Yu took Jiangling."
+  },
+  {
+   "id": "lend_jing",
+   "y": 210,
+   "m": 12,
+   "need": [
+    "wu",
+    "shu"
+   ],
+   "do": [
+    [
+     "cede",
+     "wu",
+     "shu",
+     [
+      "jiangling"
+     ]
+    ]
+   ],
+   "at": "jiangling",
+   "ja": "周瑜が病死すると、魯粛の勧めで{r_wu}は江陵を劉備に貸し与え、曹操への備えとした。",
+   "en": "When Zhou Yu died of illness, {r_wu}, on Lu Su's advice, lent Jiangling to Liu Bei as a bulwark against Cao."
+  },
+  {
+   "id": "tongguan",
+   "y": 211,
+   "m": 9,
+   "need": [
+    "cao",
+    "liang"
+   ],
+   "do": [
+    [
+     "cede",
+     "liang",
+     "cao",
+     [
+      "anding",
+      "beidi"
+     ]
+    ],
+    [
+     "cede",
+     "han",
+     "cao",
+     [
+      "changan",
+      "hongnong",
+      "hedong"
+     ]
+    ],
+    [
+     "army",
+     "liang",
+     0.6
+    ]
+   ],
+   "imp": 3,
+   "at": "changan",
+   "ja": "潼関の戦い。{r_cao}は賈詡の離間の計で馬超と韓遂を仲違いさせ、関中の軍閥を破った。",
+   "en": "The battle of Tong Pass. Using Jia Xu's ploy to set Ma Chao and Han Sui at odds, {r_cao} broke the warlords of the land within the passes."
+  },
+  {
+   "id": "jianye",
+   "y": 212,
+   "m": 6,
+   "need": [
+    "wu"
+   ],
+   "owns": [
+    [
+     "wu",
+     "jianye"
+    ]
+   ],
+   "do": [
+    [
+     "capital",
+     "wu",
+     "jianye"
+    ]
+   ],
+   "at": "jianye",
+   "ja": "{r_wu}は都を秣陵に移し、建業と改めた。",
+   "en": "{r_wu} moved his seat to Moling and renamed it Jianye."
+  },
+  {
+   "id": "ruxu",
+   "y": 213,
+   "m": 2,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "do": [
+    [
+     "truce",
+     "cao",
+     "wu",
+     3
+    ]
+   ],
+   "at": "ruxu",
+   "ja": "濡須口の戦い。孫権の軍の整然とした様子を見た曹操は「子を生まば孫仲謀の如くなるべし」と嘆じて兵を引いた。",
+   "en": "At the Ruxu estuary Cao Cao saw the order of Sun Quan's army, sighed \"a son should be like Sun Zhongmou,\" and withdrew."
+  },
+  {
+   "id": "liang_end",
+   "y": 214,
+   "m": 2,
+   "need": [
+    "cao",
+    "liang"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "liang"
+    ]
+   ],
+   "at": "jincheng",
+   "ja": "馬超は西方で再起を図ったが敗れ、張魯のもとを経て劉備に降った。涼州は{n_cao}のものとなった。",
+   "en": "Ma Chao tried to rise again in the west, failed, and by way of Zhang Lu went over to Liu Bei; Liang fell to {n_cao}."
+  },
+  {
+   "id": "yi_falls",
+   "y": 214,
+   "m": 6,
+   "need": [
+    "shu",
+    "liuyan"
+   ],
+   "do": [
+    [
+     "annex",
+     "shu",
+     "liuyan"
+    ],
+    [
+     "capital",
+     "shu",
+     "chengdu"
+    ]
+   ],
+   "imp": 3,
+   "at": "chengdu",
+   "ja": "{r_shu}は益州に入り、成都を囲んだ。劉璋は「民を苦しめるに忍びない」と城を開いた。途中、軍師の龐統が流れ矢に当たって死んだ。",
+   "en": "{r_shu} entered Yi and besieged Chengdu. Liu Zhang opened the gates, \"unwilling to make the people suffer\". On the way the strategist Pang Tong was killed by a stray arrow."
+  },
+  {
+   "id": "jing_split",
+   "y": 215,
+   "m": 6,
+   "need": [
+    "shu",
+    "wu"
+   ],
+   "do": [
+    [
+     "cede",
+     "shu",
+     "wu",
+     [
+      "changsha",
+      "guiyang"
+     ]
+    ]
+   ],
+   "at": "changsha",
+   "ja": "荊州の返還をめぐって劉備と孫権が争い、湘水を境に荊州を分けることで和した。",
+   "en": "Liu Bei and Sun Quan quarrelled over the return of Jing, and settled by dividing it along the Xiang river."
+  },
+  {
+   "id": "xiaoyaojin",
+   "y": 215,
+   "m": 9,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "do": [
+    [
+     "add",
+     "wu",
+     "prestige",
+     -10
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "at": "hefei",
+   "ja": "合肥の戦い。張遼はわずか八百の兵で十万の{n_wu}軍に斬り込み、孫権をあと一歩まで追い詰めた。江東では泣く子も「張遼が来る」と聞くと泣きやんだという。",
+   "en": "The battle of Hefei. With just eight hundred men Zhang Liao charged the hundred thousand of {n_wu} and came within a step of Sun Quan. In the east, it is said, crying children fell silent at the words \"Zhang Liao is coming\"."
+  },
+  {
+   "id": "zhanglu_end",
+   "y": 215,
+   "m": 10,
+   "need": [
+    "cao",
+    "zhanglu"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "zhanglu"
+    ]
+   ],
+   "at": "hanzhong",
+   "ja": "{r_zhanglu}は{n_cao}に降った。倉を封じて「これは国家のもの」と言い残して去った張魯を、曹操は厚く遇した。",
+   "en": "{r_zhanglu} surrendered to {n_cao}. He had sealed his granaries — \"these belong to the state\" — and Cao treated him generously."
+  },
+  {
+   "id": "cao_king",
+   "y": 216,
+   "m": 6,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "relabel",
+     "cao",
+     {
+      "ja": "魏",
+      "en": "the Kingdom of Wei"
+     },
+     {
+      "ja": "魏",
+      "en": "Wei"
+     }
+    ],
+    [
+     "vassal",
+     "cao",
+     "xiongnu"
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "at": "ye",
+   "ja": "{r_cao}は魏王に封じられた。",
+   "en": "{r_cao} was made King of Wei."
+  },
+  {
+   "id": "dingjun",
+   "y": 219,
+   "m": 3,
+   "need": [
+    "cao",
+    "shu"
+   ],
+   "do": [
+    [
+     "cede",
+     "cao",
+     "shu",
+     [
+      "hanzhong",
+      "dingjun"
+     ]
+    ],
+    [
+     "add",
+     "shu",
+     "prestige",
+     15
+    ]
+   ],
+   "imp": 3,
+   "at": "dingjun",
+   "ja": "定軍山の戦い。老将黄忠が夏侯淵を討ち取り、{r_shu}は漢中を手に入れた。曹操は漢中を「鶏肋」と呼んで兵を引いた。",
+   "en": "The battle of Mount Dingjun. The old general Huang Zhong killed Xiahou Yuan, and {r_shu} won Hanzhong. Cao Cao called it \"a chicken rib\" — not much meat, a pity to throw away — and withdrew."
+  },
+  {
+   "id": "hanzhong_king",
+   "y": 219,
+   "m": 8,
+   "need": [
+    "shu"
+   ],
+   "do": [
+    [
+     "add",
+     "shu",
+     "prestige",
+     15
+    ],
+    [
+     "add",
+     "shu",
+     "legitimacy",
+     0.2
+    ]
+   ],
+   "ja": "{r_shu}は漢中王を称した。",
+   "en": "{r_shu} took the title King of Hanzhong."
+  },
+  {
+   "id": "fan",
+   "y": 219,
+   "m": 10,
+   "need": [
+    "cao",
+    "shu"
+   ],
+   "do": [
+    [
+     "army",
+     "cao",
+     0.8
+    ],
+    [
+     "add",
+     "shu",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "at": "xiangyang",
+   "ja": "関羽は樊城を囲み、長雨で漢水があふれた機に于禁の七軍を水没させて降した。関羽の威名は中原を震わせ、曹操は都を移すことさえ考えた。",
+   "en": "Guan Yu besieged Fancheng; when long rains flooded the Han river, he drowned Yu Jin's seven armies and took his surrender. His name shook the Central Plain, and Cao Cao even thought of moving the capital."
+  },
+  {
+   "id": "jing_lost",
+   "y": 220,
+   "m": 1,
+   "need": [
+    "shu",
+    "wu"
+   ],
+   "do": [
+    [
+     "cede",
+     "shu",
+     "wu",
+     [
+      "jiangling",
+      "lingling",
+      "wuling",
+      "xiakou"
+     ]
+    ]
+   ],
+   "imp": 3,
+   "at": "jiangling",
+   "ja": "呂蒙は兵を商人に変装させて長江を渡り、関羽の留守の荊州を奪った。退路を断たれた関羽は捕らえられて斬られた。",
+   "en": "Lü Meng disguised his soldiers as merchants, crossed the Yangtze and took Jing behind Guan Yu's back. Cut off, Guan Yu was captured and executed."
+  },
+  {
+   "id": "cao_cao_dies",
+   "y": 220,
+   "m": 3,
+   "min": 4,
+   "need": [
+    "cao"
+   ],
+   "do": [],
+   "imp": 3,
+   "at": "luoyang",
+   "ja": "曹操は洛陽で世を去った。遺言で、自らの墓に金銀の宝を納めることを禁じた。",
+   "en": "Cao Cao died at Luoyang. He ordered that no gold or silver be laid in his tomb."
+  },
+  {
+   "id": "shanrang",
+   "y": 220,
+   "m": 12,
+   "need": [
+    "cao",
+    "han"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "han"
+    ],
+    [
+     "gov",
+     "cao",
+     "empire"
+    ],
+    [
+     "add",
+     "cao",
+     "legitimacy",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "xu",
+   "ja": "献帝は帝位を{r_cao}に譲った。四百年続いた漢は終わり、魏の世が始まった。",
+   "en": "Emperor Xian yielded the throne to {r_cao}. The Han, four hundred years old, was at an end, and the age of Wei began."
+  },
+  {
+   "id": "shu_emperor",
+   "y": 221,
+   "m": 5,
+   "need": [
+    "shu"
+   ],
+   "do": [
+    [
+     "relabel",
+     "shu",
+     {
+      "ja": "漢 (蜀漢)",
+      "en": "the Han of Shu"
+     },
+     {
+      "ja": "蜀",
+      "en": "Shu"
+     }
+    ],
+    [
+     "gov",
+     "shu",
+     "empire"
+    ],
+    [
+     "add",
+     "shu",
+     "legitimacy",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "chengdu",
+   "ja": "{r_shu}は成都で皇帝の位に即き、漢の後継を名のった (蜀漢)。まもなく張飛が部下に殺された。",
+   "en": "{r_shu} took the throne at Chengdu as heir of the Han (the \"Shu Han\"). Soon after, Zhang Fei was murdered by his own men."
+  },
+  {
+   "id": "yiling",
+   "y": 222,
+   "m": 8,
+   "need": [
+    "shu",
+    "wu"
+   ],
+   "do": [
+    [
+     "army",
+     "shu",
+     0.4
+    ],
+    [
+     "add",
+     "shu",
+     "stability",
+     -0.2
+    ],
+    [
+     "add",
+     "wu",
+     "prestige",
+     20
+    ]
+   ],
+   "imp": 3,
+   "at": "yiling",
+   "ja": "夷陵の戦い。関羽の仇を討とうと攻め込んだ{r_shu}の大軍を、{n_wu}の陸遜は長く守って疲れさせ、夏の暑さの中、連なる陣に火を放って大破した。劉備は白帝城へ逃れた。",
+   "en": "The battle of Yiling. {r_shu} invaded to avenge Guan Yu; Lu Xun of {n_wu} held off until the great army was worn out, then in the summer heat set fire to its long line of camps and broke it. Liu Bei fled to Baidi."
+  },
+  {
+   "id": "wu_king",
+   "y": 222,
+   "m": 11,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "relabel",
+     "wu",
+     {
+      "ja": "呉",
+      "en": "the Kingdom of Wu"
+     },
+     {
+      "ja": "呉",
+      "en": "Wu"
+     }
+    ]
+   ],
+   "ja": "{r_wu}は年号を立て、呉の国を名のった。",
+   "en": "{r_wu} proclaimed his own era and named his realm Wu."
+  },
+  {
+   "id": "baidi",
+   "y": 223,
+   "m": 6,
+   "need": [
+    "shu",
+    "wu"
+   ],
+   "do": [
+    [
+     "ally",
+     "shu",
+     "wu"
+    ]
+   ],
+   "imp": 3,
+   "at": "baidi",
+   "ja": "劉備は白帝城で世を去った。死に臨んで諸葛亮に「子が補佐に足る者なら補佐せよ。才がなければ、君が国を取れ」と言った。諸葛亮は呉と和を結び直した。",
+   "en": "Liu Bei died at Baidi. On his deathbed he told Zhuge Liang: \"If my son is worth helping, help him; if not, take the realm yourself.\" Zhuge Liang renewed the alliance with Wu."
+  },
+  {
+   "id": "nanzheng",
+   "y": 225,
+   "m": 10,
+   "need": [
+    "shu",
+    "nanman"
+   ],
+   "do": [
+    [
+     "vassal",
+     "shu",
+     "nanman"
+    ],
+    [
+     "add",
+     "shu",
+     "stability",
+     0.1
+    ]
+   ],
+   "imp": 3,
+   "at": "nanzhong",
+   "ja": "諸葛亮は南中に兵を進め、孟獲を七度捕らえて七度放ち、心から服させたと伝えられる。",
+   "en": "Zhuge Liang marched into Nanzhong; he captured Meng Huo seven times and seven times let him go, so the tale goes, until he submitted from the heart."
+  },
+  {
+   "id": "chushibiao",
+   "y": 227,
+   "m": 4,
+   "need": [
+    "shu"
+   ],
+   "do": [
+    [
+     "add",
+     "shu",
+     "prestige",
+     5
+    ]
+   ],
+   "ja": "諸葛亮は北伐に先立って「出師の表」を奉り、劉禅に国の行く末を説いた。",
+   "en": "Before marching north Zhuge Liang presented his memorial on going to war, setting out for Liu Shan the course of the realm."
+  },
+  {
+   "id": "jieting",
+   "y": 228,
+   "m": 6,
+   "need": [
+    "shu",
+    "cao"
+   ],
+   "do": [
+    [
+     "army",
+     "shu",
+     0.85
+    ]
+   ],
+   "imp": 3,
+   "at": "jieting",
+   "ja": "第一次北伐。街亭を任された馬謖は命に背いて山上に陣を張り、張郃に水を断たれて大敗した。諸葛亮は泣いて馬謖を斬った。天水の姜維が蜀に降った。",
+   "en": "The first northern campaign. Ma Su, left to hold Jieting, disobeyed orders, camped on a hill, was cut off from water by Zhang He and routed. Weeping, Zhuge Liang had him executed. Jiang Wei of Tianshui went over to Shu."
+  },
+  {
+   "id": "wu_emperor",
+   "y": 229,
+   "m": 6,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "gov",
+     "wu",
+     "empire"
+    ],
+    [
+     "capital",
+     "wu",
+     "jianye"
+    ],
+    [
+     "add",
+     "wu",
+     "legitimacy",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "jianye",
+   "ja": "{r_wu}は皇帝の位に即いた。天下に三人の皇帝が並び立つ三国の世となった。",
+   "en": "{r_wu} took the imperial throne. Three emperors now stood side by side — the age of the Three Kingdoms."
+  },
+  {
+   "id": "wuzhang",
+   "y": 234,
+   "m": 10,
+   "need": [
+    "shu",
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "shu",
+     "stability",
+     -0.1
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     5
+    ]
+   ],
+   "imp": 3,
+   "at": "wuzhang",
+   "ja": "五丈原で司馬懿と対陣中、諸葛亮は陣中で病死した。蜀軍が退くとき、追ってきた司馬懿は蜀軍が反撃の構えを見せると慌てて退き、人々は「死せる孔明、生ける仲達を走らす」と笑った。",
+   "en": "Facing Sima Yi at Wuzhangyuan, Zhuge Liang died of illness in camp. As the Shu army withdrew, Sima Yi pursued — and fled when it turned as if to fight. \"The dead Kongming put the living Zhongda to flight,\" people laughed."
+  },
+  {
+   "id": "shanyue",
+   "y": 237,
+   "need": [
+    "wu",
+    "shanyue"
+   ],
+   "do": [
+    [
+     "annex",
+     "wu",
+     "shanyue"
+    ]
+   ],
+   "at": "shanyue",
+   "ja": "諸葛恪は丹陽の山越を三年かけて山から降ろし、四万の兵を得た。",
+   "en": "Over three years Zhuge Ke brought the Shanyue of Danyang down from the hills, and gained forty thousand soldiers."
+  },
+  {
+   "id": "liaodong",
+   "y": 238,
+   "m": 9,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "prestige",
+     10
+    ]
+   ],
+   "ja": "司馬懿は遼東の公孫淵を討ち滅ぼした。",
+   "en": "Sima Yi destroyed Gongsun Yuan of Liaodong."
+  },
+  {
+   "id": "gaopingling",
+   "y": 249,
+   "m": 2,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "legitimacy",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "luoyang",
+   "ja": "高平陵の変。皇帝が陵墓に詣でて都を空けた隙に、司馬懿は兵を挙げて実権を握る曹爽を除いた。魏の政は司馬氏のものとなった。",
+   "en": "The Gaoping Tombs incident. While the emperor was away at the tombs, Sima Yi took up arms and removed Cao Shuang from power. The government of Wei belonged to the Sima."
+  },
+  {
+   "id": "two_palaces",
+   "y": 250,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "add",
+     "wu",
+     "stability",
+     -0.2
+    ]
+   ],
+   "ja": "{r_wu}の晩年、太子と魯王の跡目争い (二宮の変) で多くの重臣が罰せられ、陸遜も憤死した。",
+   "en": "In the last years of {r_wu} the quarrel between the crown prince and the Prince of Lu over the succession cost many great ministers their places; Lu Xun died of grief and anger."
+  },
+  {
+   "id": "cao_mao",
+   "y": 260,
+   "m": 6,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "cao",
+     "assassination"
+    ],
+    [
+     "add",
+     "cao",
+     "legitimacy",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "luoyang",
+   "ja": "「司馬昭の心は路人も知る所なり」。皇帝曹髦は宮中の兵を率いて司馬昭を討とうとし、返り討ちにあって殺された。",
+   "en": "\"The heart of Sima Zhao is known to every passer-by.\" The emperor Cao Mao led the palace guards against Sima Zhao and was killed."
+  },
+  {
+   "id": "shu_end",
+   "y": 263,
+   "m": 12,
+   "need": [
+    "cao",
+    "shu"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "shu"
+    ]
+   ],
+   "imp": 3,
+   "at": "chengdu",
+   "ja": "鄧艾は陰平の険しい山道を毛氈にくるまって転がり降り、成都に迫った。{r_shu}は降伏した。劉禅はのちに洛陽で「ここは楽しく、蜀を思い出しません」と答えたという。",
+   "en": "Deng Ai went down the precipices of Yinping wrapped in felt, rolling, and appeared before Chengdu; {r_shu} surrendered. Later at Luoyang, asked if he missed Shu, Liu Shan is said to have answered: \"I am so happy here I never think of it.\""
+  },
+  {
+   "id": "jin",
+   "y": 266,
+   "m": 2,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "relabel",
+     "cao",
+     {
+      "ja": "晋",
+      "en": "the Jin empire"
+     },
+     {
+      "ja": "晋",
+      "en": "Jin"
+     }
+    ],
+    [
+     "add",
+     "cao",
+     "legitimacy",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "at": "luoyang",
+   "ja": "司馬炎は魏の元帝から位を譲られ、晋を建てた。",
+   "en": "Sima Yan received the throne from the last emperor of Wei and founded the Jin."
+  },
+  {
+   "id": "yang_lu",
+   "y": 274,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "do": [
+    [
+     "truce",
+     "cao",
+     "wu",
+     5
+    ]
+   ],
+   "ja": "国境を挟んで対峙した晋の羊祜と呉の陸抗は、互いに酒と薬を贈り合い、敵ながら信を通わせた。",
+   "en": "Across the border, Yang Hu of Jin and Lu Kang of Wu sent each other wine and medicine, and trusted each other though enemies."
+  },
+  {
+   "id": "jin_wu",
+   "y": 280,
+   "m": 4,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "do": [
+    [
+     "annex",
+     "cao",
+     "wu"
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     30
+    ]
+   ],
+   "imp": 3,
+   "at": "jianye",
+   "ja": "晋の大軍が長江の上流と北から攻め下り、王濬の水軍が建業に入った。{r_wu}は降伏し、百年近く分かれていた天下は再び一つになった。",
+   "en": "The armies of Jin came down the Yangtze and from the north, and Wang Jun's fleet entered Jianye. {r_wu} surrendered, and the realm, divided for nearly a century, was one again."
+  }
+ ]
 }
