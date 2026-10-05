@@ -8741,8 +8741,8 @@
   },
   "komaki": {
    "name": {
-    "ja": "小牧・長久手の戦い",
-    "en": "the battle of Komaki and Nagakute"
+    "ja": "長久手の戦い",
+    "en": "the battle of Nagakute"
    },
    "at": "kiyosu",
    "sides": [
@@ -8775,8 +8775,8 @@
     "en": "Allied with Oda Nobukatsu, Ieyasu fortified Mount Komaki; Hideyoshi faced him with a far larger army, and both sides dug in behind their forts."
    },
    "plan": {
-    "ja": "[[p:池田恒興]]らは手薄な家康の本国三河を突く「中入り」を進言し、二万の別働隊が動いた。家康はこれを察してひそかに追い、長久手で別働隊を破って池田恒興と森長可を討ち取った。",
-    "en": "[[p:池田恒興|Ikeda Tsuneoki]] proposed a raid deep into Ieyasu's home province of Mikawa, and a detachment of twenty thousand set out. Ieyasu saw it, followed in secret, and destroyed it at Nagakute, killing Ikeda Tsuneoki and Mori Nagayoshi."
+    "ja": "[[p:池田恒興]]らは手薄な家康の本国三河を突く「中入り」を進言し、二万の別働隊が動いた。家康はこれを察してひそかに追い、長久手で別働隊を破って[[p:池田恒興]]と森長可を討ち取った。",
+    "en": "[[p:池田恒興|Ikeda Tsuneoki]] proposed a raid deep into Ieyasu's home province of Mikawa, and a detachment of twenty thousand set out. Ieyasu saw it, followed in secret, and destroyed it at Nagakute, killing [[p:池田恒興|Ikeda Tsuneoki]] and Mori Nagayoshi."
    },
    "tales": [
     {
@@ -8960,5 +8960,230 @@
     "sanada_maru"
    ]
   }
- }
+ },
+ "wars": [
+  {
+   "name": {
+    "ja": "今川義元の尾張侵攻",
+    "en": "Imagawa Yoshimoto's invasion of Owari"
+   },
+   "end": [
+    1560,
+    6
+   ],
+   "terms": {
+    "ja": "今川軍は駿河へ引き揚げ、尾張の今川方の城も次々と織田に下った。",
+    "en": "The Imagawa army went home to Suruga, and the Imagawa castles in Owari went over to Oda one by one."
+   },
+   "battles": [
+    "okehazama"
+   ]
+  },
+  {
+   "name": {
+    "ja": "川中島の戦い",
+    "en": "the Kawanakajima wars"
+   },
+   "end": [
+    1561,
+    11
+   ],
+   "terms": {
+    "ja": "両軍とも兵を引いた。上杉・武田の対陣はこの後も続くが、北信濃は武田のものとして落ち着いた。",
+    "en": "Both armies drew off. Uesugi and Takeda would face each other again, but northern Shinano settled as Takeda land."
+   },
+   "battles": [
+    "kawanakajima"
+   ]
+  },
+  {
+   "name": {
+    "ja": "越前攻め",
+    "en": "the Echizen campaign"
+   },
+   "end": [
+    1573,
+    8
+   ],
+   "terms": {
+    "ja": "刀根坂で敗れた[[p:朝倉義景]]は一乗谷を焼かれ、一族の景鏡に背かれて自害した。朝倉家は滅んだ。",
+    "en": "Beaten at Tonezaka, [[p:朝倉義景|Asakura Yoshikage]] saw Ichijōdani burned, was betrayed by his kinsman Kageakira and killed himself. The Asakura house was gone."
+   }
+  },
+  {
+   "name": {
+    "ja": "元亀の争乱",
+    "en": "the Genki wars"
+   },
+   "end": [
+    1573,
+    9
+   ],
+   "terms": {
+    "ja": "小谷城は落ち、[[p:浅井長政]]は自害した。妻の[[p:お市]]と三人の娘は織田の陣へ送り届けられた。",
+    "en": "Odani castle fell and [[p:浅井長政|Azai Nagamasa]] took his life; his wife [[p:お市|Oichi]] and their three daughters were sent safely to the Oda camp."
+   }
+  },
+  {
+   "name": {
+    "ja": "武田信玄の西上作戦",
+    "en": "Takeda Shingen's western campaign"
+   },
+   "end": [
+    1573,
+    5
+   ],
+   "terms": {
+    "ja": "信玄は三河の野田城を落とした後に病が重くなり、甲斐へ帰る途中、信濃の駒場で没した。死は三年秘すよう遺言された。",
+    "en": "After taking Noda castle in Mikawa Shingen fell gravely ill and died at Komaba in Shinano on the way home; he left word that his death be kept secret three years."
+   },
+   "battles": [
+    "mikatagahara"
+   ]
+  },
+  {
+   "name": {
+    "ja": "長島一向一揆",
+    "en": "the Nagashima believers' rising"
+   },
+   "end": [
+    1574,
+    10
+   ],
+   "terms": {
+    "ja": "長島の砦は兵糧攻めで次々と落ち、降伏を申し出た門徒も許されなかった。",
+    "en": "The Nagashima forts fell one by one to starvation, and even the believers who offered to surrender were not spared."
+   }
+  },
+  {
+   "name": {
+    "ja": "武田勝頼の三河侵攻",
+    "en": "Takeda Katsuyori's invasion of Mikawa"
+   },
+   "end": [
+    1575,
+    7
+   ],
+   "terms": {
+    "ja": "武田軍は甲斐へ退いた。徳川は奥三河と遠江の城を次々に取り返していく。",
+    "en": "The Takeda army went back to Kai, and Tokugawa won back the castles of Okumikawa and Tōtōmi one after another."
+   },
+   "battles": [
+    "nagashino"
+   ]
+  },
+  {
+   "name": {
+    "ja": "大友・島津の日向の戦い",
+    "en": "the Hyūga war of Ōtomo and Shimazu"
+   },
+   "end": [
+    1578,
+    12
+   ],
+   "terms": {
+    "ja": "大友軍は豊後へ逃げ帰り、日向は島津のものとなった。",
+    "en": "The Ōtomo army fled back to Bungo and Hyūga became Shimazu land."
+   },
+   "battles": [
+    "mimikawa"
+   ]
+  },
+  {
+   "name": {
+    "ja": "石山合戦",
+    "en": "the Ishiyama war"
+   },
+   "end": [
+    1580,
+    4
+   ],
+   "terms": {
+    "ja": "天皇の仲立ちで和が結ばれ、[[p:顕如]]は石山を出て紀伊の鷺森へ移った。石山はやがて炎上した。",
+    "en": "Peace was made through the emperor's good offices; [[p:顕如|Kennyo]] left Ishiyama for Saginomori in Kii, and Ishiyama later went up in flames."
+   }
+  },
+  {
+   "name": {
+    "ja": "島原の戦い (島津・龍造寺)",
+    "en": "the Shimabara war (Shimazu and Ryūzōji)"
+   },
+   "end": [
+    1584,
+    6
+   ],
+   "terms": {
+    "ja": "当主を失った龍造寺家は島津に従い、[[p:鍋島直茂]]が家を支えた。",
+    "en": "Its lord dead, the Ryūzōji house bowed to the Shimazu, with [[p:鍋島直茂|Nabeshima Naoshige]] holding it together."
+   },
+   "battles": [
+    "okitanawate"
+   ]
+  },
+  {
+   "name": {
+    "ja": "小牧・長久手の戦い",
+    "en": "the Komaki and Nagakute war"
+   },
+   "end": [
+    1584,
+    12
+   ],
+   "terms": {
+    "ja": "秀吉は織田信雄と単独で和を結び、戦う名分を失った家康も兵を引いた。家康は次男の於義丸 (結城秀康) を秀吉の養子として送った。",
+    "en": "Hideyoshi made a separate peace with Oda Nobukatsu, and Ieyasu, his cause gone, withdrew too. He sent his second son Ogimaru (Yūki Hideyasu) to be Hideyoshi's adopted son."
+   },
+   "battles": [
+    "komaki"
+   ]
+  },
+  {
+   "name": {
+    "ja": "伊達政宗の会津攻め",
+    "en": "Date Masamune's Aizu campaign"
+   },
+   "end": [
+    1589,
+    7
+   ],
+   "terms": {
+    "ja": "[[p:蘆名義広]]は常陸の実家佐竹へ逃れ、蘆名家は滅んだ。政宗は黒川城 (会津若松) に入った。",
+    "en": "[[p:蘆名義広|Ashina Yoshihiro]] fled to his birth house, the Satake of Hitachi, and the Ashina were finished; Masamune moved into Kurokawa castle (Aizu-Wakamatsu)."
+   },
+   "battles": [
+    "suriagehara"
+   ]
+  },
+  {
+   "name": {
+    "ja": "慶長五年の東西の争乱",
+    "en": "the war of east and west (1600)"
+   },
+   "end": [
+    1600,
+    10
+   ],
+   "terms": {
+    "ja": "[[p:石田三成]]・[[p:小西行長]]・[[p:安国寺恵瓊]]は京の六条河原で斬られた。西軍の大名は領地を取り上げられ、あるいは大きく削られた。毛利は百二十万石から三十七万石となった。",
+    "en": "[[p:石田三成|Ishida Mitsunari]], [[p:小西行長|Konishi Yukinaga]] and [[p:安国寺恵瓊|Ankokuji Ekei]] were beheaded at the Rokujō riverbed in Kyoto. The western daimyo lost their lands or saw them cut down; the Mōri fell from 1.2 million koku to 370,000."
+   },
+   "battles": [
+    "sekigahara"
+   ]
+  },
+  {
+   "name": {
+    "ja": "大坂の陣",
+    "en": "the Osaka campaigns"
+   },
+   "end": [
+    1615,
+    6
+   ],
+   "terms": {
+    "ja": "豊臣家は滅び、大坂城は焼け落ちた。翌月、幕府は一国一城令と武家諸法度を出し、元号は元和と改められた。",
+    "en": "The Toyotomi house was gone and Osaka castle burned. The next month the shogunate issued the one-castle-per-province edict and the laws for military houses, and the era was renamed Genna."
+   }
+  }
+ ]
 }

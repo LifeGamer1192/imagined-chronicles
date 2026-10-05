@@ -3355,7 +3355,7 @@
     }
    ],
    "after": {
-    "ja": "[[p:章邯]]は二十万とともに降ったが、[[p:項羽]]は新安でその兵を夜のうちに穴埋めにしたと伝わる。項羽は諸侯の上将軍となった。",
+    "ja": "[[p:章邯]]は二十万とともに降ったが、[[p:項羽]]は新安でその兵を夜のうちに穴埋めにしたと伝わる。[[p:項羽]]は諸侯の上将軍となった。",
     "en": "[[p:章邯|Zhang Han]] surrendered with two hundred thousand men; at Xin'an, the records say, [[p:項羽|Xiang Yu]] had them buried alive in a night. He became supreme general of the lords."
    },
    "read": [
@@ -3396,7 +3396,7 @@
    "winner": 0,
    "months": 1,
    "deploy": {
-    "ja": "[[p:項羽]]が斉で[[p:田栄]]と戦っている間に、[[p:劉邦]]は五諸侯の兵五十六万を率いて楚の都彭城に入った。劉邦は財宝と美女を収め、毎日酒宴を開いた。",
+    "ja": "[[p:項羽]]が斉で[[p:田栄]]と戦っている間に、[[p:劉邦]]は五諸侯の兵五十六万を率いて楚の都彭城に入った。[[p:劉邦]]は財宝と美女を収め、毎日酒宴を開いた。",
     "en": "While [[p:項羽|Xiang Yu]] fought [[p:田栄|Tian Rong]] in Qi, [[p:劉邦|Liu Bang]] led the armies of five lords, five hundred and sixty thousand men, into the Chu capital Pengcheng, took its treasure and its women, and feasted every day."
    },
    "plan": {
@@ -3405,7 +3405,7 @@
    },
    "tales": [
     {
-     "ja": "楚軍に三重に囲まれた[[p:劉邦]]を、西北から吹いた大風が救った。木を折り家を倒し、砂を巻き上げて昼を夜のように暗くしたため、劉邦は数十騎で囲みを抜けた。",
+     "ja": "楚軍に三重に囲まれた[[p:劉邦]]を、西北から吹いた大風が救った。木を折り家を倒し、砂を巻き上げて昼を夜のように暗くしたため、[[p:劉邦]]は数十騎で囲みを抜けた。",
      "en": "Surrounded three deep, [[p:劉邦|Liu Bang]] was saved by a great wind from the northwest that broke trees and flattened houses and filled the day with sand like night; he slipped away with a few dozen horsemen."
     },
     {
@@ -3414,8 +3414,8 @@
     }
    ],
    "after": {
-    "ja": "[[p:劉邦]]の父と妻[[p:呂雉]]は楚の捕虜となり、諸侯の多くは楚へ寝返った。劉邦は滎陽で長い持久戦に入る。",
-    "en": "[[p:劉邦|Liu Bang]]'s father and his wife [[p:呂雉|Lü Zhi]] were taken by Chu, and most of the lords went over to [[p:項羽|Xiang Yu]]. Liu Bang dug in at Xingyang for a long war."
+    "ja": "[[p:劉邦]]の父と妻[[p:呂雉]]は楚の捕虜となり、諸侯の多くは楚へ寝返った。[[p:劉邦]]は滎陽で長い持久戦に入る。",
+    "en": "[[p:劉邦|Liu Bang]]'s father and his wife [[p:呂雉|Lü Zhi]] were taken by Chu, and most of the lords went over to [[p:項羽|Xiang Yu]]. [[p:劉邦|Liu Bang]] dug in at Xingyang for a long war."
    }
   },
   "jingxing": {
@@ -3449,11 +3449,11 @@
    "winner": 0,
    "months": 1,
    "deploy": {
-    "ja": "[[p:韓信]]は数万で太行山の狭い井陘口を越えて趙へ向かった。趙は二十万と号する兵を口の出口に集めた。趙の李左車は「道は狭く兵糧は後ろに残る。三万で退路を断てば十日で韓信の首を取れる」と説いたが、[[p:陳余]]は「義兵は詐謀を用いない」と退けた。",
-    "en": "[[p:韓信|Han Xin]] crossed the narrow Jingxing pass in the Taihang mountains with a few tens of thousands. Zhao gathered a host said to be two hundred thousand at its mouth. Li Zuoju urged [[p:陳余|Chen Yu]] to send thirty thousand to cut the road behind — \"the pass is narrow, his grain is in the rear; in ten days I will bring you his head\" — but Chen Yu replied that a righteous army does not use tricks."
+    "ja": "[[p:韓信]]は数万で太行山の狭い井陘口を越えて趙へ向かった。趙は二十万と号する兵を口の出口に集めた。趙の李左車は「道は狭く兵糧は後ろに残る。三万で退路を断てば十日で[[p:韓信]]の首を取れる」と説いたが、[[p:陳余]]は「義兵は詐謀を用いない」と退けた。",
+    "en": "[[p:韓信|Han Xin]] crossed the narrow Jingxing pass in the Taihang mountains with a few tens of thousands. Zhao gathered a host said to be two hundred thousand at its mouth. Li Zuoju urged [[p:陳余|Chen Yu]] to send thirty thousand to cut the road behind — \"the pass is narrow, his grain is in the rear; in ten days I will bring you his head\" — but [[p:陳余|Chen Yu]] replied that a righteous army does not use tricks."
    },
    "plan": {
-    "ja": "[[p:韓信]]は夜のうちに二千の騎兵にそれぞれ漢の赤い旗を持たせて山に潜ませた。朝、一万の兵に川を背にして陣を敷かせると、趙兵は兵法を知らぬと笑った。韓信は大将の旗を立てて打って出、わざと負けて川辺の陣へ逃げ込んだ。逃げ場のない兵は死に物狂いで戦った。その間に伏兵が空になった趙の砦に入り、漢の旗二千本を立てた。振り返った趙兵は砦が落ちたと思い込み、総崩れとなった。",
+    "ja": "[[p:韓信]]は夜のうちに二千の騎兵にそれぞれ漢の赤い旗を持たせて山に潜ませた。朝、一万の兵に川を背にして陣を敷かせると、趙兵は兵法を知らぬと笑った。[[p:韓信]]は大将の旗を立てて打って出、わざと負けて川辺の陣へ逃げ込んだ。逃げ場のない兵は死に物狂いで戦った。その間に伏兵が空になった趙の砦に入り、漢の旗二千本を立てた。振り返った趙兵は砦が落ちたと思い込み、総崩れとなった。",
     "en": "By night [[p:韓信|Han Xin]] hid two thousand horsemen in the hills, each with a red Han flag. In the morning he set ten thousand men with their backs to the river; the Zhao soldiers laughed at a general who knew nothing of war. He came out under his own standard, gave way on purpose and fell back into the river camp, where men with nowhere to run fought for their lives. Meanwhile the hidden horsemen rode into the emptied Zhao forts and raised two thousand Han flags. Looking back, the Zhao army thought its camp had fallen and broke."
    },
    "tales": [
@@ -3505,17 +3505,17 @@
    "winner": 0,
    "months": 1,
    "plan": {
-    "ja": "[[p:韓信]]は夜のうちに一万余りの土嚢で濰水の上流をせき止めさせた。翌朝、兵を率いて半ば川を渡って打ちかかり、すぐに負けたふりをして退いた。[[p:龍且]]は「韓信が臆病なのは知っている」と追って渡り始めた。そこで土嚢を切ると水がどっと流れ下り、楚軍の大半は渡れずに分断された。渡った龍且は討たれた。",
-    "en": "By night [[p:韓信|Han Xin]] had the Wei river dammed upstream with more than ten thousand sandbags. In the morning he led his men half across, attacked, and soon fell back as if beaten. \"I always knew Han Xin was a coward,\" said [[p:龍且|Long Ju]], and followed him into the river. Then the sandbags were cut; the water came down and split the Chu army, most of it unable to cross. Long Ju, on the near bank, was killed."
+    "ja": "[[p:韓信]]は夜のうちに一万余りの土嚢で濰水の上流をせき止めさせた。翌朝、兵を率いて半ば川を渡って打ちかかり、すぐに負けたふりをして退いた。[[p:龍且]]は「[[p:韓信]]が臆病なのは知っている」と追って渡り始めた。そこで土嚢を切ると水がどっと流れ下り、楚軍の大半は渡れずに分断された。渡った[[p:龍且]]は討たれた。",
+    "en": "By night [[p:韓信|Han Xin]] had the Wei river dammed upstream with more than ten thousand sandbags. In the morning he led his men half across, attacked, and soon fell back as if beaten. \"I always knew [[p:韓信|Han Xin]] was a coward,\" said [[p:龍且|Long Ju]], and followed him into the river. Then the sandbags were cut; the water came down and split the Chu army, most of it unable to cross. [[p:龍且|Long Ju]], on the near bank, was killed."
    },
    "tales": [
     {
-     "ja": "この勝利の後、[[p:韓信]]は[[p:劉邦]]に「斉は偽りの多い国、仮の王を置かねば治まりません」と斉王の位を求めた。劉邦は怒りかけたが、[[p:張良]]と[[p:陳平]]に足を踏まれて気づき、「どうせなら本当の王になれ」と言い直した。",
-     "en": "After the victory [[p:韓信|Han Xin]] asked [[p:劉邦|Liu Bang]] to make him \"acting king\" of Qi, a treacherous land. Liu Bang began to rage — until [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]] trod on his foot — and said instead: \"Why acting? Be a real king.\""
+     "ja": "この勝利の後、[[p:韓信]]は[[p:劉邦]]に「斉は偽りの多い国、仮の王を置かねば治まりません」と斉王の位を求めた。[[p:劉邦]]は怒りかけたが、[[p:張良]]と[[p:陳平]]に足を踏まれて気づき、「どうせなら本当の王になれ」と言い直した。",
+     "en": "After the victory [[p:韓信|Han Xin]] asked [[p:劉邦|Liu Bang]] to make him \"acting king\" of Qi, a treacherous land. [[p:劉邦|Liu Bang]] began to rage — until [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]] trod on his foot — and said instead: \"Why acting? Be a real king.\""
     },
     {
-     "ja": "[[p:蒯通]]は[[p:韓信]]に「天下を三分して、漢・楚と鼎の足のように立て」と説いたが、韓信は[[p:劉邦]]の恩を思って従わなかった。",
-     "en": "[[p:蒯通|Kuai Tong]] urged [[p:韓信|Han Xin]] to split the realm in three and stand with Han and Chu like the legs of a tripod; remembering what he owed [[p:劉邦|Liu Bang]], Han Xin refused."
+     "ja": "[[p:蒯通]]は[[p:韓信]]に「天下を三分して、漢・楚と鼎の足のように立て」と説いたが、[[p:韓信]]は[[p:劉邦]]の恩を思って従わなかった。",
+     "en": "[[p:蒯通|Kuai Tong]] urged [[p:韓信|Han Xin]] to split the realm in three and stand with Han and Chu like the legs of a tripod; remembering what he owed [[p:劉邦|Liu Bang]], [[p:韓信|Han Xin]] refused."
     }
    ],
    "after": {
@@ -3560,8 +3560,8 @@
    "winner": 0,
    "months": 1,
    "deploy": {
-    "ja": "鴻溝の約を破った[[p:劉邦]]は[[p:項羽]]を追い、[[p:韓信]]・[[p:彭越]]・[[p:英布]]の軍が合流した。韓信が三十万で中央に立ち、孔将軍・費将軍が左右を固め、劉邦がその後ろにいた。",
-    "en": "Breaking the treaty of the Hong canal, [[p:劉邦|Liu Bang]] went after [[p:項羽|Xiang Yu]] and was joined by the armies of [[p:韓信|Han Xin]], [[p:彭越|Peng Yue]] and [[p:英布|Ying Bu]]. Han Xin stood in the centre with three hundred thousand, Generals Kong and Fei on his wings, Liu Bang behind."
+    "ja": "鴻溝の約を破った[[p:劉邦]]は[[p:項羽]]を追い、[[p:韓信]]・[[p:彭越]]・[[p:英布]]の軍が合流した。[[p:韓信]]が三十万で中央に立ち、孔将軍・費将軍が左右を固め、[[p:劉邦]]がその後ろにいた。",
+    "en": "Breaking the treaty of the Hong canal, [[p:劉邦|Liu Bang]] went after [[p:項羽|Xiang Yu]] and was joined by the armies of [[p:韓信|Han Xin]], [[p:彭越|Peng Yue]] and [[p:英布|Ying Bu]]. [[p:韓信|Han Xin]] stood in the centre with three hundred thousand, Generals Kong and Fei on his wings, [[p:劉邦|Liu Bang]] behind."
    },
    "plan": {
     "ja": "[[p:韓信]]は中央を退かせて楚軍を誘い込み、左右の軍に挟ませた。楚軍は垓下の塁に追い込まれ、兵は少なく、食糧も尽きた。夜、四方を囲む漢軍の中から楚の歌が聞こえてきた。",
@@ -3589,5 +3589,69 @@
     "simian"
    ]
   }
- }
+ },
+ "wars": [
+  {
+   "name": {
+    "ja": "反秦の戦い (鉅鹿の救援)",
+    "en": "the war against Qin (the relief of Julu)"
+   },
+   "end": [
+    207,
+    7
+   ],
+   "terms": {
+    "ja": "[[p:章邯]]は殷墟で二十万とともに[[p:項羽]]に降り、雍王に封じられた。",
+    "en": "At the ruins of Yin [[p:章邯|Zhang Han]] surrendered to [[p:項羽|Xiang Yu]] with two hundred thousand men and was made King of Yong."
+   },
+   "battles": [
+    "julu"
+   ]
+  },
+  {
+   "name": {
+    "ja": "田栄の乱",
+    "en": "the rising of Tian Rong"
+   },
+   "end": [
+    205,
+    4
+   ],
+   "terms": {
+    "ja": "[[p:田栄]]は平原で敗れて殺されたが、弟の[[p:田横]]が斉を立て直し、[[p:劉邦]]の彭城入りを聞いた[[p:項羽]]は斉を離れた。",
+    "en": "[[p:田栄|Tian Rong]] was beaten at Pingyuan and killed, but his brother [[p:田横|Tian Heng]] rebuilt Qi, and [[p:項羽|Xiang Yu]], hearing that [[p:劉邦|Liu Bang]] had taken Pengcheng, left Qi."
+   }
+  },
+  {
+   "name": {
+    "ja": "韓信の趙攻め",
+    "en": "Han Xin's Zhao campaign"
+   },
+   "end": [
+    205,
+    12
+   ],
+   "terms": {
+    "ja": "[[p:陳余]]は斬られ、趙王歇は捕らえられた。[[p:張耳]]が趙王となり、燕は戦わずに降った。",
+    "en": "[[p:陳余|Chen Yu]] was beheaded and King Xie of Zhao captured; [[p:張耳|Zhang Er]] became King of Zhao, and Yan surrendered without a fight."
+   },
+   "battles": [
+    "jingxing"
+   ]
+  },
+  {
+   "name": {
+    "ja": "楚漢戦争",
+    "en": "the Chu–Han war"
+   },
+   "end": [
+    202,
+    12
+   ],
+   "terms": {
+    "ja": "[[p:項羽]]は烏江で自害し、楚の地はすべて漢に下った。最後まで降らなかった魯も、項羽の首を見せられて門を開いた。[[p:劉邦]]は項羽を魯公の礼で葬った。",
+    "en": "[[p:項羽|Xiang Yu]] took his life at the Wu river and all Chu submitted to Han. Lu, the last to hold out, opened its gates when shown his head; [[p:劉邦|Liu Bang]] buried him with the rites of a Duke of Lu."
+   }
+  }
+ ]
 }

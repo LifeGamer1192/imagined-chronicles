@@ -3415,8 +3415,8 @@
    "winner": 0,
    "months": 1,
    "deploy": {
-    "ja": "[[p:ハンニバル]]は沼地を四日間歩き通してエトルリアに入り (このとき片目を失った)、執政官フラミニウスの領地を焼いて挑発した。湖の北岸は丘と水に挟まれた細道で、ハンニバルは丘の陰に全軍を伏せた。",
-    "en": "[[p:ハンニバル|Hannibal]] marched four days through flooded marshes into Etruria — losing an eye on the way — and burned the country to goad the consul Flaminius. On the north shore of the lake the road ran narrow between hills and water; Hannibal hid his whole army behind the hills."
+    "ja": "[[p:ハンニバル]]は沼地を四日間歩き通してエトルリアに入り (このとき片目を失った)、執政官フラミニウスの領地を焼いて挑発した。湖の北岸は丘と水に挟まれた細道で、[[p:ハンニバル]]は丘の陰に全軍を伏せた。",
+    "en": "[[p:ハンニバル|Hannibal]] marched four days through flooded marshes into Etruria — losing an eye on the way — and burned the country to goad the consul Flaminius. On the north shore of the lake the road ran narrow between hills and water; [[p:ハンニバル|Hannibal]] hid his whole army behind the hills."
    },
    "plan": {
     "ja": "朝霧の中、偵察もせずに細道へ入ったローマ軍に、三方から一斉に襲いかかった。隊列を組む暇もなかったローマ兵は湖に追い落とされ、三時間でほぼ全滅した。フラミニウスはガリア人の騎兵に討たれた。",
@@ -3481,7 +3481,7 @@
    "tales": [
     {
      "ja": "勝った夜、騎兵隊長[[p:マハルバル]]は「五日後にはカピトリウムで食事ができる」と言ってローマへの進撃を迫った。[[p:ハンニバル]]がためらうと「あなたは勝つことを知っているが、勝利を使うことを知らない」と言ったという。",
-     "en": "That night the cavalry commander [[p:マハルバル|Maharbal]] urged an immediate march: \"In five days you will dine on the Capitol.\" When [[p:ハンニバル|Hannibal]] hesitated, he said: \"You know how to win a victory, Hannibal, but not how to use one.\""
+     "en": "That night the cavalry commander [[p:マハルバル|Maharbal]] urged an immediate march: \"In five days you will dine on the Capitol.\" When [[p:ハンニバル|Hannibal]] hesitated, he said: \"You know how to win a victory, [[p:ハンニバル|Hannibal]], but not how to use one.\""
     },
     {
      "ja": "戦死したローマの騎士の指から集めた金の指輪は、カルタゴの元老院の床に枡で量るほどあったと伝わる。",
@@ -3529,13 +3529,13 @@
    "winner": 0,
    "months": 1,
    "plan": {
-    "ja": "兄[[p:ハンニバル]]のもとへ向かうハスドルバルの使者が捕らえられ、合流の地が知れた。南でハンニバルと向き合っていた執政官ネロは、陣を残したままひそかに七千の精兵を連れて北へ駆け、同僚リウィウスの陣に夜のうちに入った。ラッパが二度鳴るのを聞いたハスドルバルは執政官が二人いると悟って退こうとしたが、道に迷い、メタウルス川の岸で追いつかれた。ネロは戦列の右端から兵を回り込ませて側面を突いた。",
+    "ja": "兄[[p:ハンニバル]]のもとへ向かうハスドルバルの使者が捕らえられ、合流の地が知れた。南で[[p:ハンニバル]]と向き合っていた執政官ネロは、陣を残したままひそかに七千の精兵を連れて北へ駆け、同僚リウィウスの陣に夜のうちに入った。ラッパが二度鳴るのを聞いたハスドルバルは執政官が二人いると悟って退こうとしたが、道に迷い、メタウルス川の岸で追いつかれた。ネロは戦列の右端から兵を回り込ませて側面を突いた。",
     "en": "Hasdrubal's messengers to his brother were caught and the meeting place was known. The consul Nero, facing [[p:ハンニバル|Hannibal]] in the south, left his camp standing and rode north in secret with seven thousand picked men, slipping into his colleague Livius's camp by night. Hasdrubal heard the trumpet sound twice, knew both consuls were there and tried to withdraw, but lost his way and was caught on the bank of the Metaurus. Nero swung his men around from the far right and struck the flank."
    },
    "tales": [
     {
-     "ja": "ネロは討ち取ったハスドルバルの首を[[p:ハンニバル]]の陣に投げ込ませた。弟の首を見たハンニバルは「カルタゴの運命が見えた」と言ったという。",
-     "en": "Nero had Hasdrubal's head thrown into [[p:ハンニバル|Hannibal]]'s camp. Seeing his brother's face, Hannibal said, so the story goes: \"I see the fate of Carthage.\""
+     "ja": "ネロは討ち取ったハスドルバルの首を[[p:ハンニバル]]の陣に投げ込ませた。弟の首を見た[[p:ハンニバル]]は「カルタゴの運命が見えた」と言ったという。",
+     "en": "Nero had Hasdrubal's head thrown into [[p:ハンニバル|Hannibal]]'s camp. Seeing his brother's face, [[p:ハンニバル|Hannibal]] said, so the story goes: \"I see the fate of Carthage.\""
     }
    ],
    "after": {
@@ -3628,7 +3628,7 @@
    },
    "tales": [
     {
-     "ja": "戦いの前、[[p:ハンニバル]]とスキピオは両軍の間で通訳だけを伴って会見した。後年、二人がエフェソスで再会したとき、スキピオが「史上最高の将は誰か」と問うと、ハンニバルは「アレクサンドロス、ピュロス、そして自分」と答え、「もしわたしを破っていなかったら?」と問われて「ならばわたしが一番だ」と答えたという (後世の逸話)。",
+     "ja": "戦いの前、[[p:ハンニバル]]とスキピオは両軍の間で通訳だけを伴って会見した。後年、二人がエフェソスで再会したとき、スキピオが「史上最高の将は誰か」と問うと、[[p:ハンニバル]]は「アレクサンドロス、ピュロス、そして自分」と答え、「もしわたしを破っていなかったら?」と問われて「ならばわたしが一番だ」と答えたという (後世の逸話)。",
      "en": "Before the battle the two generals met between the armies with only interpreters. Years later, the story goes, they met again at Ephesus; asked who was the greatest general, [[p:ハンニバル|Hannibal]] said Alexander, Pyrrhus, and himself. \"And if you had beaten me?\" \"Then I would be first.\""
     },
     {
@@ -3645,5 +3645,49 @@
     "numidian"
    ]
   }
- }
+ },
+ "wars": [
+  {
+   "name": {
+    "ja": "第二次ポエニ戦争",
+    "en": "the Second Punic War"
+   },
+   "end": [
+    201,
+    3
+   ],
+   "terms": {
+    "ja": "カルタゴは十隻を残して艦隊を引き渡し、アフリカの外の領土をすべて失い、五十年で一万タラントンを払い、ローマの許しなくアフリカの外で戦争をしないと誓った。[[p:マシニッサ]]がヌミディアの王と認められた。",
+    "en": "Carthage handed over its fleet but ten ships, lost everything outside Africa, agreed to pay ten thousand talents over fifty years and swore to make no war outside Africa without Rome's leave. [[p:マシニッサ|Masinissa]] was recognised king of Numidia."
+   }
+  },
+  {
+   "name": {
+    "ja": "第一次マケドニア戦争",
+    "en": "the First Macedonian War"
+   },
+   "end": [
+    205,
+    9
+   ],
+   "terms": {
+    "ja": "フォイニケの和約: 双方がおおむね占領地を保ち、イリュリアの一部はマケドニアに残った。ローマはカルタゴとの戦いに専念する。",
+    "en": "The Peace of Phoenice: each side kept most of what it held, and part of Illyria stayed with Macedon. Rome turned its whole strength on Carthage."
+   }
+  },
+  {
+   "name": {
+    "ja": "シュラクサイ包囲戦",
+    "en": "the siege of Syracuse"
+   },
+   "end": [
+    212,
+    10
+   ],
+   "terms": {
+    "ja": "祭りの夜に城壁の一部が落ち、シュラクサイは陥落した。砂の上に図を描いていた[[p:アルキメデス]]は「図を乱すな」と言って兵に殺されたという。",
+    "en": "On a festival night part of the walls was taken and Syracuse fell. [[p:アルキメデス|Archimedes]], drawing figures in the sand, told a soldier not to disturb his circles, and was killed, the story goes."
+   }
+  }
+ ]
 }
