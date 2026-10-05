@@ -7624,8 +7624,8 @@
      10
     ]
    ],
-   "ja": "{r_qi}は{n_yan}の求めに応じて{n_shanrong}を討った。帰路、道に迷った軍は老馬を放ち、その後について道を見出したという。",
-   "en": "{r_qi} answered {n_yan}'s call and marched against {n_shanrong}. Lost on the way home, the army let an old horse go ahead and followed it back to the road."
+   "ja": "{r_qi}は{n_yan}の求めに応じて{n_shanrong}を討った。帰路、道に迷った軍は[[a:laoma|老馬]]を放ち、その後について道を見出したという。",
+   "en": "{r_qi} answered {n_yan}'s call and marched against {n_shanrong}. Lost on the way home, the army let [[a:laoma|an old horse]] go ahead and followed it back to the road."
   },
   {
    "id": "shaoling",
@@ -7892,8 +7892,8 @@
     ]
    ],
    "imp": 3,
-   "ja": "城濮の戦い。{r_jin}は流浪の頃に楚王と交わした約束を守って「三舎」(九十里)退き、そのうえで{n_chu}の将子玉の軍を破った。続く践土の会盟で晋は覇者となった。",
-   "en": "At Chengpu {r_jin} kept the promise made to the King of Chu in his wandering years and fell back three days' march before he fought — then broke the army of {n_chu}'s general Ziyu. At the covenant of Jiantu that followed, Jin became hegemon."
+   "ja": "城濮の戦い。{r_jin}は流浪の頃に楚王と交わした約束を守って[[a:tuisan|「三舎」]](九十里)退き、そのうえで{n_chu}の将子玉の軍を破った。続く践土の会盟で晋は覇者となった。",
+   "en": "At Chengpu {r_jin} kept the promise made to the King of Chu in his wandering years and [[a:tuisan|fell back three days' march]] before he fought — then broke the army of {n_chu}'s general Ziyu. At the covenant of Jiantu that followed, Jin became hegemon."
   },
   {
    "id": "xiao",
@@ -8357,8 +8357,8 @@
    ],
    "imp": 3,
    "at": "ying",
-   "ja": "柏挙の戦い。[[p:孫武]]と[[p:伍子胥]]に率いられた{n_wu}の軍が{n_chu}を破り、都の郢に入った。[[p:伍子胥]]は平王の墓をあばき、その屍を三百回鞭打ったという。",
-   "en": "At Boju the army of {n_wu}, led by [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], broke {n_chu} and entered its capital Ying. [[p:伍子胥|Wu Zixu]], it is said, dug up King Ping's body and flogged it three hundred times."
+   "ja": "柏挙の戦い。[[p:孫武]]と[[p:伍子胥]]に率いられた{n_wu}の軍が{n_chu}を破り、都の郢に入った。[[p:伍子胥]]は平王の墓をあばき、その[[a:wuzixu_whip|屍を三百回鞭打]]ったという。",
+   "en": "At Boju the army of {n_wu}, led by [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], broke {n_chu} and entered its capital Ying. [[p:伍子胥|Wu Zixu]], it is said, dug up King Ping's body and [[a:wuzixu_whip|flogged it three hundred times]]."
   },
   {
    "id": "shen_baoxu",
@@ -8462,8 +8462,8 @@
    ],
    "imp": 3,
    "at": "kuaiji",
-   "ja": "夫椒の戦い。父の仇を忘れぬよう薪の上に臥した{r_wu}は{n_yue}を破り、会稽山に追い詰められた[[p:句践]]は臣従を誓った。[[p:句践]]は苦い肝を嘗めて恥を忘れまいとしたという (臥薪嘗胆)。",
-   "en": "At Fujiao the King of Wu — who had slept on firewood so as never to forget his father's death — broke {n_yue}. Cornered on Mount Kuaiji, [[p:句践|Goujian]] swore submission, and tasted gall every day so as never to forget the shame."
+   "ja": "夫椒の戦い。父の仇を忘れぬよう[[a:woxin|薪の上に臥した]]{r_wu}は{n_yue}を破り、会稽山に追い詰められた[[p:句践]]は臣従を誓った。[[p:句践]]は苦い肝を嘗めて恥を忘れまいとしたという (臥薪嘗胆)。",
+   "en": "At Fujiao the King of Wu — who had [[a:woxin|slept on firewood]] so as never to forget his father's death — broke {n_yue}. Cornered on Mount Kuaiji, [[p:句践|Goujian]] swore submission, and tasted gall every day so as never to forget the shame."
   },
   {
    "id": "ailing",
@@ -9629,8 +9629,8 @@
      0.2
     ]
    ],
-   "ja": "{r_yan}は「まず隗より始めよ」との[[p:郭隗]]の言を容れ、黄金台を築いて天下の賢者を招いた。[[p:楽毅]]・[[p:鄒衍]]らが燕に集まった。",
-   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"begin with me, Wei\" — and built the Golden Terrace to welcome the able men of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan."
+   "ja": "{r_yan}は[[a:xianwei|「まず隗より始めよ」]]との[[p:郭隗]]の言を容れ、黄金台を築いて天下の賢者を招いた。[[p:楽毅]]・[[p:鄒衍]]らが燕に集まった。",
+   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"[[a:xianwei|begin with me, Wei]]\" — and built the Golden Terrace to welcome the able men of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan."
   },
   {
    "id": "danyang",
@@ -9839,8 +9839,8 @@
    ],
    "imp": 3,
    "at": "jimo",
-   "ja": "即墨の[[p:田単]]は、角に刃を縛り尾に火をつけた千頭の牛を夜に放って燕の陣を突き崩し、失った城をすべて取り戻した (火牛の計)。",
-   "en": "At Jimo [[p:田単|Tian Dan]] loosed a thousand oxen in the night, blades tied to their horns and fire to their tails, broke the Yan camp, and won back every lost town."
+   "ja": "即墨の[[p:田単]]は、角に刃を縛り尾に火をつけた千頭の牛を夜に放って燕の陣を突き崩し、失った城をすべて取り戻した ([[a:huoniu|火牛の計]])。",
+   "en": "At Jimo [[p:田単|Tian Dan]] [[a:huoniu|loosed a thousand oxen in the night]], blades tied to their horns and fire to their tails, broke the Yan camp, and won back every lost town."
   },
   {
    "id": "mianchi",
@@ -9858,8 +9858,8 @@
      10
     ]
    ],
-   "ja": "澠池の会。{r_qin}は{r_zhao}に瑟を弾かせて辱めたが、[[p:藺相如]]は秦王に缶を打たせて返した。和氏の璧を完うして帰った[[p:藺相如]]は上卿となり、[[p:廉頗]]とは「刎頸の交わり」を結んだ。",
-   "en": "At Mianchi {r_qin} shamed {r_zhao} by making him play the zither; [[p:藺相如|Lin Xiangru]] made the King of Qin beat a clay pot in return. Lin, who had brought the jade of He home whole, became first minister and swore with [[p:廉頗|Lian Po]] a friendship \"unto the cutting of throats\"."
+   "ja": "澠池の会。{r_qin}は{r_zhao}に瑟を弾かせて辱めたが、[[p:藺相如]]は秦王に缶を打たせて返した。[[a:wanbi|和氏の璧を完うして帰った]][[p:藺相如]]は上卿となり、[[p:廉頗]]とは「刎頸の交わり」を結んだ。",
+   "en": "At Mianchi {r_qin} shamed {r_zhao} by making him play the zither; [[p:藺相如|Lin Xiangru]] made the King of Qin beat a clay pot in return. Lin, who had [[a:wanbi|brought the jade of He home whole]], became first minister and swore with [[p:廉頗|Lian Po]] a friendship \"unto the cutting of throats\"."
   },
   {
    "id": "yan_ying",
@@ -11355,6 +11355,350 @@
    "related": [
     "dujiangyan",
     "qin_unify"
+   ]
+  },
+  "battle_chengpu": {
+   "kind": "battle",
+   "title": {
+    "ja": "城濮の戦い",
+    "en": "the battle of Chengpu"
+   },
+   "body": {
+    "ja": "晋は三軍に分かれた。中軍を[[p:先軫]]、上軍を狐毛と[[p:狐偃]]、下軍を欒枝と胥臣が率い、宋・斉・秦の兵が加わった。楚は子玉 ([[p:成得臣]]) が中軍に座し、左軍を子西、右軍を子上が率い、右軍の主力は従属する陳・蔡の兵であった。\n\n晋の文公は、流浪の頃に楚の成王から受けた恩を返すとして「三舎」(九十里) を退いた。退いたことで晋は約束を守る者となり、楚は追う者となった。戦いが始まると、胥臣は馬に虎の皮をかぶせて陳・蔡の兵に突っ込み、楚の右軍はたちまち崩れた。欒枝は車の後ろに柴を引きずって土煙を上げ、敗走するように見せかけて楚の左軍を誘い出し、[[p:先軫]]と郤溱の中軍が横から突いた。中軍の子玉だけが兵を収めて退いた。\n\n戦いの前夜、文公は楚王と組み合って押し倒され、脳を吸われる夢を見て恐れた。[[p:狐偃]]は「天を仰いだ我らは天を得、地に伏した楚は罪に伏したのです」と解いて励ました。\n\n敗れた子玉は、楚王から「申と息の父老にどう顔向けするのか」と問われ、帰る途中で自ら命を絶った。それを聞いた文公は「これで私を害する者はいなくなった」と喜びを隠さなかったという。\n\n戦いの後、晋は践土に王宮を築いて周の襄王を迎え、諸侯の盟を主宰した。王は文公を「侯伯」(諸侯の長) に任じ、晋はこの後百年近く中原の覇権を握る。\n\n兵力 (目安): 52,000 対 60,000。損害: 3,000 対 15,000。",
+    "en": "Jin stood in three armies: [[p:先軫|Xian Zhen]] led the centre, Hu Mao and [[p:狐偃|Hu Yan]] the upper army, Luan Zhi and Xu Chen the lower, with troops of Song, Qi and Qin beside them. Ziyu ([[p:成得臣|Cheng Dechen]]) held the Chu centre, Zixi the left, Zishang the right — whose strength was the levies of the subject states Chen and Cai.\n\nDuke Wen of Jin fell back three days' march, to repay the kindness the King of Chu had shown him in his wandering years: Jin became the one who kept faith, Chu the one who pursued. When the fighting began, Xu Chen covered his horses with tiger skins and drove into the levies of Chen and Cai, and the Chu right collapsed. Luan Zhi dragged brushwood behind his chariots to raise dust, as if in flight, drew the Chu left out after him, and the centre under [[p:先軫|Xian Zhen]] struck it in the flank. Only Ziyu in the centre gathered his men and withdrew.\n\nOn the eve of battle Duke Wen dreamed the King of Chu wrestled him down and sucked his brains, and was afraid. [[p:狐偃|Hu Yan]] read it for him: \"We lay facing heaven and have heaven; Chu bent over the earth, bowed down to its guilt.\"\n\nBeaten, Ziyu was asked by his king how he would face the elders of Shen and Xi, and took his own life on the way home. Hearing it, Duke Wen made no secret of his joy: \"Now there is no one left to harm me.\"\n\nAfter the battle Jin built a palace at Jiantu, welcomed [[p:燕王喜|King Xi]]ang of Zhou there and presided over the covenant of the lords. The king named Duke Wen \"elder of the lords\", and Jin would hold the hegemony of the Central Plain for most of a century.\n\nTroops (rough): 52,000 against 60,000. Losses: 3,000 against 15,000."
+   },
+   "people": [
+    "先軫|Xian Zhen",
+    "狐偃|Hu Yan",
+    "趙衰|Zhao Cui",
+    "成得臣|Cheng Dechen"
+   ],
+   "related": [
+    "chariot",
+    "tuisan",
+    "chariot"
+   ]
+  },
+  "battle_bi": {
+   "kind": "battle",
+   "title": {
+    "ja": "邲の戦い",
+    "en": "the battle of Bi"
+   },
+   "body": {
+    "ja": "鄭を救いに来た晋の中軍は[[p:荀林父]]が率いたが、鄭が既に楚に降ったと知って帰るか戦うかで将たちが割れた。副将の[[p:先縠]]は勝手に兵を渡河させた。楚は荘王自ら陣頭に立った。\n\n将が割れたまま戦いに引き込まれた晋軍に、楚軍は不意に押し寄せた。[[p:荀林父]]は「先に河を渡った者に賞を与える」と太鼓を打たせ、晋兵は舟に殺到した。上軍の[[p:士会]]だけが陣を崩さず退いた。\n\n舟べりにすがる味方の指を斬り落として舟を出したため、舟の中の指は掬えるほどであったという。\n\n楚兵は戦車の溝にはまって進めない晋兵に「横木を外せ」「旗を抜け」と教えてやった。晋兵は逃げながら「我らは大国 (楚) ほど逃げ慣れていない」と言い返した。\n\n臣下が晋兵の屍を積んで「京観」(戦勝の塚) を築くよう勧めると、荘王は「武の字は戈を止めると書く」と退けた。\n\n楚の荘王は覇者となり、鄭・宋も楚に従った。\n\n兵力 (目安): 60,000 対 60,000。損害: 5,000 対 20,000。",
+    "en": "Jin had come to save Zheng, but when [[p:荀林父|Xun Linfu]], leading its centre, learned that Zheng had already gone over to Chu, his generals split over whether to fight or turn back; his deputy [[p:先縠|Xian Hu]] took troops across the river on his own.\n\nWith its generals divided Jin was drawn into battle, and the Chu army came on suddenly. [[p:荀林父|Xun Linfu]] beat the drums and promised a reward to the first back across the river; his men stampeded for the boats. Only [[p:士会|Shi Hui]] of the upper army withdrew in order.\n\nMen in the boats cut off the fingers of comrades clinging to the sides; the fingers in the bottoms, it is said, could be scooped up by the handful.\n\nChu soldiers called out to Jin charioteers stuck in a rut how to pull out the crossbar and take down the flag; escaping, the men of Jin shouted back that they were not as practised at running as the great state of Chu.\n\nWhen his ministers urged him to heap up the Jin dead into a victory mound, King Zhuang refused: the character for \"martial\", he said, is written \"to stop the spear\".\n\nKing Zhuang of Chu became hegemon, and Zheng and Song followed Chu.\n\nTroops (rough): 60,000 against 60,000. Losses: 5,000 against 20,000."
+   },
+   "people": [
+    "孫叔敖|Sunshu Ao",
+    "伍挙|Wu Ju",
+    "荀林父|Xun Linfu",
+    "先縠|Xian Hu",
+    "士会|Shi Hui"
+   ],
+   "related": [
+    "chariot",
+    "chariot"
+   ]
+  },
+  "battle_boju": {
+   "kind": "battle",
+   "title": {
+    "ja": "柏挙の戦い",
+    "en": "the battle of Boju"
+   },
+   "body": {
+    "ja": "呉は精兵三万で、淮水をさかのぼった舟を捨て、一気に陸路で漢水へ出た。楚は令尹の[[p:囊瓦]] (子常) が二十万と号する大軍で漢水の西に陣した。\n\n楚の[[p:沈尹戌]]は、自分が呉の舟を焼いて退路を断つ間、[[p:囊瓦]]に川を挟んで守るよう説いた。だが功を独り占めしたい[[p:囊瓦]]は川を渡って攻め、呉は三度戦って三度破った。柏挙では呉王の弟夫概が王の許しを待たず五千で突っ込み、楚軍を崩した。呉軍は五度戦って五度勝ち、郢に入った。\n\n[[p:孫武]]は呉王[[p:闔閭]]に兵法を説いたとき、宮中の女官百八十人を二隊に分けて調練し、笑って命に従わない隊長の寵姫二人を王の制止も聞かず斬った。以後、女官たちは一糸乱れず動いたという。\n\n郢に入った[[p:伍子胥]]は、父と兄を殺した平王の墓をあばいて屍に鞭打った。友の[[p:申包胥]]が「天理に背く」と責めると、「日暮れて道遠し、ゆえに倒行逆施す」と答えた。\n\n楚の昭王は逃れ、[[p:申包胥]]の嘆願で秦の援軍が来ると、呉は郢を去った。この勝利で呉は南方の強国となった。\n\n兵力 (目安): 30,000 対 200,000。損害: 3,000 対 60,000。",
+    "en": "Wu came with thirty thousand picked men; it left its boats on the Huai and struck overland to the Han river. Chu's chief minister [[p:囊瓦|Nang Wa]] ([[p:子産|Zichan]]g) faced it west of the Han with a host said to number two hundred thousand.\n\n[[p:沈尹戌|Shen Yin Xu]] of Chu proposed that [[p:囊瓦|Nang Wa]] hold the river while he burned the Wu boats behind them. [[p:囊瓦|Nang Wa]], wanting the glory for himself, crossed and attacked; Wu beat him three times. At Boju the king's brother Fugai charged with five thousand without waiting for leave and broke the Chu army. Fighting five battles and winning all five, Wu entered Ying.\n\nWhen [[p:孫武|Sun Wu]] laid out the art of war for King [[p:闔閭|Helü]], he drilled a hundred and eighty palace women in two companies and, over the king's protests, beheaded the two favourites who led them for laughing at his orders. After that the women moved as one.\n\nIn Ying [[p:伍子胥|Wu Zixu]] dug up the body of King Ping, who had killed his father and brother, and flogged it. When his old friend [[p:申包胥|Shen Baoxu]] called it an outrage against heaven, he answered: \"The day is late and the road is long; so I walk backwards and act against the grain.\"\n\nKing Zhao of Chu fled; when [[p:申包胥|Shen Baoxu]] brought a Qin army with his pleading, Wu left Ying. The victory made Wu a great power of the south.\n\nTroops (rough): 30,000 against 200,000. Losses: 3,000 against 60,000."
+   },
+   "people": [
+    "孫武|Sun Wu",
+    "伍子胥|Wu Zixu",
+    "伯嚭|Bo Pi",
+    "囊瓦|Nang Wa",
+    "沈尹戌|Shen Yin Xu"
+   ],
+   "related": [
+    "chariot",
+    "sunzi",
+    "wuzixu_whip"
+   ]
+  },
+  "battle_maling": {
+   "kind": "battle",
+   "title": {
+    "ja": "馬陵の戦い",
+    "en": "the battle of Maling"
+   },
+   "body": {
+    "ja": "斉は[[p:田忌]]を将、[[p:孫臏]]を軍師として韓を救うため魏の都大梁を突いた。魏の[[p:龐涓]]は韓から兵を返し、太子申とともに斉軍を追った。\n\n[[p:孫臏]]は「魏の兵は斉を臆病と侮っている」と見て、初日は十万、翌日は五万、三日目は三万と、毎夜かまどの数を減らして見せた。[[p:龐涓]]は「斉兵は三日で半分以上逃げた」と喜び、歩兵を置いて騎兵だけで追った。[[p:孫臏]]は日暮れに着くと読んだ狭い馬陵の道に、一万の弩兵を伏せた。\n\n[[p:孫臏]]は大木の皮を削って「[[p:龐涓]]この樹の下に死す」と書かせ、「火が見えたら一斉に射よ」と命じた。夜、着いた[[p:龐涓]]が字を読もうと松明をともした瞬間、矢が降り注いだ。[[p:龐涓]]は「ついに豎子の名を成さしめたか」と言って自ら首を刎ねた。\n\nかつて二人は同じ師に学んだ。[[p:孫臏]]の才を妬んだ[[p:龐涓]]は、[[p:孫臏]]を罪に陥れて両足を断つ刑に処し、顔に入れ墨をさせた。[[p:孫臏]]は斉の使者の車にひそかに隠れて魏を逃れていた。\n\n魏の太子申は捕らえられ、魏は戦国の初めの覇権を失った。斉の威王は東方の最強国となった。\n\n兵力 (目安): 100,000 対 100,000。損害: 5,000 対 60,000。",
+    "en": "Qi sent [[p:田忌|Tian Ji]], with [[p:孫臏|Sun Bin]] as his strategist, to strike at the Wei capital Daliang and so relieve Han. [[p:龐涓|Pang Juan]] of Wei pulled back from Han and, with the crown prince Shen, went after the Qi army.\n\n[[p:孫臏|Sun Bin]] saw that Wei thought Qi's soldiers cowards. He had the army light a hundred thousand cooking fires the first night, fifty thousand the second, thirty thousand the third. \"Half the men of Qi have deserted in three days!\" [[p:龐涓|Pang Juan]] rejoiced, left his foot behind and pursued with the horse alone. [[p:孫臏|Sun Bin]] hid ten thousand crossbowmen along the narrow road at Maling, where he reckoned [[p:龐涓|Pang Juan]] would arrive at dusk.\n\n[[p:孫臏|Sun Bin]] had the bark stripped from a great tree and wrote on it: \"[[p:龐涓|Pang Juan]] dies beneath this tree\", and told his archers to shoot as one when they saw a light. [[p:龐涓|Pang Juan]] arrived in the dark and lit a torch to read the words — and the arrows fell. \"So I have made that wretch famous,\" he said, and cut his own throat.\n\nThe two had studied under the same master. Jealous of [[p:孫臏|Sun Bin]]'s gifts, [[p:龐涓|Pang Juan]] had him falsely accused, his feet cut off and his face tattooed; [[p:孫臏|Sun Bin]] escaped Wei hidden in the carriage of a Qi envoy.\n\nThe Wei crown prince Shen was captured and Wei lost the primacy it had held since the Warring States began. King Wei of Qi was master of the east.\n\nTroops (rough): 100,000 against 100,000. Losses: 5,000 against 60,000."
+   },
+   "people": [
+    "孫臏|Sun Bin",
+    "田忌|Tian Ji",
+    "龐涓|Pang Juan"
+   ],
+   "related": [
+    "crossbow",
+    "wuzu",
+    "sunbin_stove",
+    "crossbow"
+   ]
+  },
+  "battle_changping": {
+   "kind": "battle",
+   "title": {
+    "ja": "長平の戦い",
+    "en": "the battle of Changping"
+   },
+   "body": {
+    "ja": "上党を受け入れた趙に、秦は[[p:王齕]]の大軍を向けた。趙の老将[[p:廉頗]]は塁を固めて三年近く戦わず、秦の兵站を消耗させた。\n\n秦の[[p:范雎]]は「秦が恐れるのは[[p:廉頗]]ではなく[[p:趙奢]]の子[[p:趙括]]だ」との噂を趙に流した。趙王は[[p:廉頗]]を退けて[[p:趙括]]を将とした。秦はひそかに[[p:白起]]を総大将に替え、偽って退いて[[p:趙括]]を塁の外へ誘い出し、二万五千の伏兵で退路を断ち、五千の騎兵で趙軍を二つに分けた。趙軍は四十六日間食を断たれ、互いに食らい合うほどになった。\n\n[[p:趙括]]は兵書をそらんじ、議論では父の[[p:趙奢]]も言い負かしたが、父は「戦は死地なのに、括は易々と口にする。趙を破るのは括だ」と言った。[[p:趙括]]の母も王に「あの子を将にしないでください」と願い出ていた。\n\n[[p:趙括]]は自ら突撃して射殺され、降った四十万の兵は、二百四十人の少年を除いて穴埋めにされたと伝わる。後に[[p:白起]]は「長平の降卒を欺いて殺した。わたしが死ぬのは当然だ」と言って自害した。\n\n趙は国の力のほとんどを失い、秦は邯鄲を囲んだが、[[p:信陵君]]らの救援で退いた。それでも戦国の力の均衡はここで決定的に秦へ傾いた。\n\n兵力 (目安): 600,000 対 450,000。損害: 250,000 対 450,000。",
+    "en": "Zhao accepted Shangdang, and Qin sent [[p:王齕|Wang He]] with a great army. The veteran [[p:廉頗|Lian Po]] built ramparts and would not fight for nearly three years, wearing down Qin's supply lines.\n\n[[p:范雎|Fan Ju]] of Qin spread the word in Zhao that what Qin feared was not [[p:廉頗|Lian Po]] but [[p:趙括|Zhao Kuo]], son of [[p:趙奢|Zhao She]]. The King of Zhao replaced [[p:廉頗|Lian Po]] with [[p:趙括|Zhao Kuo]]. Qin secretly made [[p:白起|Bai Qi]] its commander, feigned a retreat to draw [[p:趙括|Zhao Kuo]] out of his ramparts, cut his line of retreat with twenty-five thousand men and split the Zhao army in two with five thousand horse. Without food for forty-six days, the Zhao soldiers were reduced to eating one another.\n\n[[p:趙括|Zhao Kuo]] knew the books of war by heart and could outargue even his father, but [[p:趙奢|Zhao She]] said: \"War is a place of death, and Kuo talks of it lightly; if Zhao is ever broken, it will be by him.\" His mother too begged the king not to make him general.\n\n[[p:趙括|Zhao Kuo]] led a last charge and was shot down. The four hundred thousand who surrendered were buried alive, the records say, all but two hundred and forty boys. Years later, ordered to die, [[p:白起|Bai Qi]] said: \"I deceived and killed the men who surrendered at Changping. I deserve to die.\"\n\nZhao lost most of its strength. Qin besieged Handan, and was driven off by [[p:信陵君|Lord Xinling]] and others — but the balance of the Warring States had tipped to Qin for good.\n\nTroops (rough): 600,000 against 450,000. Losses: 250,000 against 450,000."
+   },
+   "people": [
+    "白起|Bai Qi",
+    "王齕|Wang He",
+    "趙括|Zhao Kuo",
+    "廉頗|Lian Po"
+   ],
+   "related": [
+    "qin_rank",
+    "crossbow",
+    "zhao_kuo_books"
+   ]
+  },
+  "tuisan": {
+   "kind": "saying",
+   "title": {
+    "ja": "退避三舎",
+    "en": "Falling back three days' march"
+   },
+   "body": {
+    "ja": "晋の公子重耳 (のちの文公) は、国を追われて十九年も諸国をさまよった。楚に立ち寄ったとき、楚の成王は彼を手厚くもてなし、「国に帰れたら、何で報いてくれるか」と問うた。重耳は答えた。「もし晋と楚が戦場で出会うことがあれば、私は三舎 (一舎は軍の一日の行程、三十里) 退きましょう。それでもお許しがなければ、弓を取ってお相手します」。\n\n前632年、城濮で晋と楚は本当に向き合った。文公は約束どおり軍を九十里退かせた。楚の将子玉はそれを晋の弱さと見て追い、晋は約束を守った側、楚は追った側として戦うことになった。結果は晋の大勝であった。\n\n「退避三舎」は、相手に一歩も二歩も譲る、相手を恐れてはばかる、という意味の言葉となった。",
+    "en": "Chong'er, a prince of Jin (later Duke Wen), wandered the states for nineteen years in exile. In Chu King Cheng entertained him lavishly and asked how he would repay it if he ever went home. \"If Jin and Chu should ever meet in battle,\" Chong'er said, \"I will fall back three marches — three days' march of thirty li each. If you still will not let me be, then I will take up my bow.\"\n\nIn 632 BC Jin and Chu did meet, at Chengpu. Duke Wen fell back ninety li as he had promised. The Chu general Ziyu took it for weakness and followed — so Jin fought as the side that kept faith and Chu as the pursuer. Jin won a great victory.\n\n\"Falling back three marches\" came to mean giving ground generously to another — or keeping well clear of someone one fears."
+   },
+   "year": 632,
+   "related": [
+    "battle_chengpu",
+    "chariot"
+   ],
+   "people": []
+  },
+  "wuzixu_whip": {
+   "kind": "story",
+   "title": {
+    "ja": "屍に鞭打つ、日暮れて道遠し",
+    "en": "Flogging the corpse; the day is late, the road long"
+   },
+   "body": {
+    "ja": "楚の重臣の家に生まれた[[p:伍子胥]]は、父の伍奢と兄の伍尚を、讒言を信じた楚の平王に殺された。伍子胥だけが逃れ、追っ手に追われながら呉へ向かった。昭関では一夜にして髪が白くなったと伝わる。\n\n十六年後の前506年、伍子胥は呉軍とともに楚の都郢に入った。平王はすでに死んでいた。伍子胥はその墓をあばき、屍を三百回鞭打った。友の[[p:申包胥]]が「あまりにひどい、天の道に背く」と責めると、伍子胥は答えた。「日暮れて道遠し。ゆえに倒行してこれを逆施す」——私の人生の日は暮れかかっているのに、行く道はまだ遠い。だから道理に逆らうことをするのだ。\n\n「屍に鞭打つ」は死んだ者まで責め立てること、「日暮れて道遠し」は年をとったのに目的がまだ遠いことのたとえとして残った。",
+    "en": "[[p:伍子胥|Wu Zixu]], born to a great house of Chu, saw his father Wu She and his brother Wu Shang put to death by King Ping, who believed a slander. Only he escaped, fleeing towards Wu with pursuers at his heels; at the Zhao pass, the story goes, his hair turned white in a night.\n\nSixteen years later, in 506 BC, he entered Ying, the capital of Chu, with the army of Wu. King Ping was already dead. Wu Zixu opened his tomb and flogged the corpse three hundred times. When his friend [[p:申包胥|Shen Baoxu]] called it monstrous, against the way of heaven, he answered: \"The day is late and the road is long; so I walk backwards and act against the grain.\"\n\n\"To flog the corpse\" lives on for hounding even the dead; \"the day is late and the road long\" for an old man whose goal is still far off."
+   },
+   "year": 506,
+   "people": [
+    "伍子胥|Wu Zixu",
+    "申包胥|Shen Baoxu"
+   ],
+   "related": [
+    "battle_boju",
+    "gusu"
+   ]
+  },
+  "sunbin_stove": {
+   "kind": "saying",
+   "title": {
+    "ja": "減竈の計",
+    "en": "The ruse of the dwindling stoves"
+   },
+   "body": {
+    "ja": "馬陵の戦いで、斉の軍師[[p:孫臏]]は、魏の[[p:龐涓]]が斉の兵を臆病者と見くびっていることを利用した。斉軍に、一日目は十万、二日目は五万、三日目は三万と、夜ごとに炊事のかまどを減らして作らせたのである。\n\n後を追う龐涓は、かまどの跡を数えて喜んだ。「斉の兵が臆病なのは知っていた。わが地に入って三日で、逃げた者が半分を越えた」。龐涓は歩兵を置き去りにして、騎兵だけで夜を日に継いで追った——孫臏が弩兵を伏せた馬陵の狭い道へ。\n\n「減竈」は、わざと弱く見せて敵を誘う策のたとえとなった。のちの後漢の将虞詡は、逆にかまどを増やして見せ、兵が増えていると敵に思わせて退かせている (増竈)。",
+    "en": "At Maling [[p:孫臏|Sun Bin]], Qi's strategist, used [[p:龐涓|Pang Juan]]'s contempt for the soldiers of Qi. He had the army light a hundred thousand cooking fires the first night, fifty thousand the second, thirty thousand the third.\n\nPursuing, Pang Juan counted the fire pits and rejoiced: \"I always knew the men of Qi were cowards. Three days in our land, and more than half have deserted.\" He left his infantry behind and drove on night and day with his horse alone — into the narrow road at Maling, where Sun Bin's crossbowmen waited.\n\n\"Dwindling stoves\" became the byword for looking weak to lure an enemy on. Later, the Han general Yu Xu did the opposite — adding stoves to make the enemy think his army was growing — and drove them off."
+   },
+   "year": 342,
+   "people": [
+    "孫臏|Sun Bin",
+    "龐涓|Pang Juan"
+   ],
+   "related": [
+    "battle_maling",
+    "crossbow"
+   ]
+  },
+  "zhao_kuo_books": {
+   "kind": "saying",
+   "title": {
+    "ja": "紙上に兵を談ず",
+    "en": "Talking war on paper"
+   },
+   "body": {
+    "ja": "趙の名将[[p:趙奢]]の子[[p:趙括]]は、幼い頃から兵法を学び、天下に自分にかなう者はないと思っていた。兵法を論じ合えば、父の趙奢さえ言い負かした。だが趙奢は彼を褒めず、妻に言った。「戦は死地である。それなのに括は易々と口にする。趙が括を将にすれば、趙軍を破るのは必ず括だ」。\n\n前260年、長平で秦と向き合った趙王は、守りを固める老将[[p:廉頗]]に代えて趙括を将にした。宰相の[[p:藺相如]]は「括はただ父の書を読んだだけで、臨機応変を知りません」と止め、趙括の母も王に願い出たが、聞き入れられなかった。趙括は着任するとすぐ軍の決まりを改め、打って出て、[[p:白起]]の罠にはまった。\n\n書物の上だけで戦を論じ、実際には役に立たない理屈を「紙上に兵を談ず」と言うようになった (もとは竹簡や絹に書かれていたが、のちの言い回し)。",
+    "en": "[[p:趙括|Zhao Kuo]], son of the great Zhao general [[p:趙奢|Zhao She]], studied war from childhood and thought no one under heaven his match; in debate he could outargue even his father. But Zhao She would not praise him, and told his wife: \"War is a place of death, and Kuo speaks of it lightly. If Zhao ever makes him general, it is he who will destroy Zhao's army.\"\n\nIn 260 BC, facing Qin at Changping, the King of Zhao replaced the old general [[p:廉頗|Lian Po]], who held his ramparts, with Zhao Kuo. The minister [[p:藺相如|Lin Xiangru]] warned that Kuo had only read his father's books and knew nothing of adapting; his mother too begged the king. Neither was heard. Zhao Kuo changed the army's rules at once, marched out, and fell into [[p:白起|Bai Qi]]'s trap.\n\nArguing war from books, with theory that fails in practice, became \"talking war on paper\" — a later phrase, since books then were bamboo and silk."
+   },
+   "year": 260,
+   "people": [
+    "趙括|Zhao Kuo",
+    "趙奢|Zhao She",
+    "廉頗|Lian Po",
+    "藺相如|Lin Xiangru",
+    "白起|Bai Qi"
+   ],
+   "related": [
+    "battle_changping",
+    "qin_rank"
+   ]
+  },
+  "woxin": {
+   "kind": "saying",
+   "title": {
+    "ja": "臥薪嘗胆",
+    "en": "Sleeping on brushwood, tasting gall"
+   },
+   "body": {
+    "ja": "前496年、呉王[[p:闔閭]]は越王[[p:句践]]と戦って傷を負い、死の床で子の[[p:夫差]]に「越が父を殺したことを忘れるな」と言い残した。夫差は薪の上に寝て (臥薪) その痛みで恨みを忘れず、門を出入りする家来に「夫差、越が父を殺したことを忘れたか」と言わせたという。\n\n二年後、夫差は夫椒で越を破り、句践は会稽山に追い詰められて降った。句践は夫差の召し使いとして仕え、許されて国に帰ると、座る所に苦い熊の胆を吊るし、飲み食いのたびにそれを嘗めて (嘗胆)「お前は会稽の恥を忘れたか」と自分に言い聞かせた。\n\n二十年の後、句践は呉を滅ぼした。「臥薪嘗胆」は、目的のために長く苦しみに耐えることのたとえとなった (薪の上に寝たのを句践とする言い伝えもある)。",
+    "en": "In 496 BC King [[p:闔閭|Helü]] of Wu was wounded fighting [[p:句践|Goujian]] of Yue, and on his deathbed told his son [[p:夫差|Fuchai]]: \"Never forget that Yue killed your father.\" Fuchai slept on brushwood so the pain would keep his hatred fresh, and had a servant at the gate call out each time he passed: \"Fuchai, have you forgotten that Yue killed your father?\"\n\nTwo years later Fuchai crushed Yue at Fujiao, and Goujian, cornered on Mount Kuaiji, surrendered. He served Fuchai as a servant; allowed home, he hung a bitter gall where he sat and tasted it at every meal: \"Have you forgotten the shame of Kuaiji?\"\n\nTwenty years later Goujian destroyed Wu. \"Sleeping on brushwood and tasting gall\" became the byword for enduring hardship long for a purpose — some tellings give the brushwood to Goujian too."
+   },
+   "year": 494,
+   "people": [
+    "闔閭|Helü",
+    "夫差|Fuchai",
+    "句践|Goujian",
+    "范蠡|Fan Li"
+   ],
+   "related": [
+    "gusu",
+    "wuyue_swords"
+   ]
+  },
+  "wanbi": {
+   "kind": "story",
+   "title": {
+    "ja": "和氏の璧 (完璧)",
+    "en": "The jade of He — \"returned whole\""
+   },
+   "body": {
+    "ja": "楚の卞和は山で玉の原石を見つけて王に献じたが、ただの石だとされて左足を斬られた。次の王にも献じて右足を斬られた。三代目の文王が石を磨かせると、見事な宝玉が現れた。これが「和氏の璧」である。卞和は「足を斬られたことが悲しいのではない。宝を石と言われ、正直者を嘘つきと言われたことが悲しい」と泣いたという。\n\n璧はやがて趙の宝となった。秦の[[p:昭襄王]]は十五の城と引き換えに璧を求めた。趙の使者[[p:藺相如]]は璧を持って秦に入ったが、秦王に城を渡す気がないと見るや、「璧に傷があります。お見せしましょう」と言って取り戻し、柱の前に立って「城を渡さないなら、私の頭と璧をこの柱で砕く」と迫った。そしてひそかに従者に璧を持たせて趙へ帰した。\n\n璧を傷一つなく持ち帰った——「完璧」の言葉はここから生まれた。のちに璧は秦の手に渡り、始皇帝の玉璽 (国の印) になったとも伝わる。",
+    "en": "Bian He of Chu found an uncut jade in the hills and offered it to his king, who was told it was a common stone and had Bian He's left foot cut off. He offered it to the next king, and lost his right. The third king had it polished, and a wonderful jade appeared: \"the jade of He\". Bian He wept, not for his feet, he said, but because a treasure had been called a stone and an honest man a liar.\n\nThe jade came to Zhao. [[p:昭襄王|King Zhaoxiang]] of Qin offered fifteen cities for it. Zhao's envoy [[p:藺相如|Lin Xiangru]] took it to Qin; seeing the king had no intention of giving the cities, he said there was a flaw he would show, took the jade back, stood by a pillar and declared he would smash both his head and the jade against it if the cities were not given — and quietly sent the jade home with a servant.\n\nHe brought it back \"whole and flawless\" — the phrase that became the word for perfection. Later, it is said, the jade passed to Qin and was carved into the First Emperor's imperial seal."
+   },
+   "year": 283,
+   "people": [
+    "藺相如|Lin Xiangru",
+    "廉頗|Lian Po"
+   ],
+   "related": [
+    "zongheng"
+   ]
+  },
+  "xianwei": {
+   "kind": "saying",
+   "title": {
+    "ja": "先ず隗より始めよ",
+    "en": "Begin with me, Wei"
+   },
+   "body": {
+    "ja": "斉に国を荒らされた燕の昭王は、賢者を集めて国を立て直そうと、[[p:郭隗]]に相談した。郭隗は話をした。「昔ある王が千金で一日千里を走る馬を求めたが、三年たっても手に入らない。家来が出かけて行き、死んだ名馬の骨を五百金で買って帰った。王が怒ると、家来は言った。死んだ馬さえ五百金で買うのです。生きた馬ならなおさらと、人は思うでしょう。一年もたたずに、千里の馬が三頭も集まりました」。\n\n「王が本当に賢者を招きたいなら、まずこの隗から始めてください。隗のような者でさえ重く用いられるなら、隗より賢い者は千里を遠しとせずにやって来るでしょう」。\n\n昭王は郭隗のために宮殿を建てて師として仕え、黄金台を築いて天下の士を招いた。[[p:楽毅]]・[[p:鄒衍]]・劇辛らが燕に集まり、燕はやがて楽毅のもとで斉を破った。「隗より始めよ」は、大きなことはまず手近なことから、また言い出した者から始めよ、という意味で使われる。",
+    "en": "Ravaged by Qi, King Zhao of Yan wanted able men to rebuild his state, and asked [[p:郭隗|Guo Wei]] how to find them. Guo Wei told a story: \"A king once offered a thousand gold for a horse that could run a thousand li a day, and after three years had none. A servant went out and came back with the bones of a dead one, bought for five hundred. The king was furious. If he will pay five hundred for a dead horse, said the servant, what will he pay for a live one? Within a year three such horses were brought to him.\"\n\n\"If you truly want able men, begin with me, Wei. If even I am honoured, better men than I will think nothing of a thousand li.\"\n\nThe king built Guo Wei a palace and served him as a teacher, and raised the Golden Terrace to welcome the talents of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and Ju Xin came to Yan, and under Yue Yi Yan later crushed Qi. \"Begin with Wei\" now means: start great things with what is at hand — or with the one who proposes them."
+   },
+   "year": 311,
+   "people": [
+    "郭隗|Guo Wei",
+    "楽毅|Yue Yi",
+    "鄒衍|Zou Yan"
+   ],
+   "related": [
+    "jixia"
+   ]
+  },
+  "jiming": {
+   "kind": "saying",
+   "title": {
+    "ja": "鶏鳴狗盗",
+    "en": "Cock-crowers and dog-thieves"
+   },
+   "body": {
+    "ja": "斉の[[p:孟嘗君]]は、三千人の食客を養っていたことで名高い。中には、どんな取り柄があるのか分からない者もいた。\n\n秦の[[p:昭襄王]]に招かれた孟嘗君は、秦で捕らえられ、殺されそうになった。王の寵姫に助けを頼むと、狐の白い毛皮の衣が欲しいと言う。だがそれはすでに王に献上してしまっていた。そのとき、犬のまねをして盗みをするのがうまい食客が、夜、王の蔵に忍び込んで衣を盗み出し、寵姫に贈った。孟嘗君は許された。\n\n一行は夜中に函谷関まで逃げた。関の門は鶏が鳴くまで開かない決まりである。追っ手が迫る。そのとき、鶏の鳴きまねがうまい食客が鳴くと、あたりの鶏が一斉に鳴き出し、門が開いた。孟嘗君は逃げ延びた。「鶏鳴狗盗」はつまらない技能の持ち主、また、どんな技能もいつか役に立つことのたとえとなった。",
+    "en": "[[p:孟嘗君|Lord Mengchang]] of Qi was famous for keeping three thousand retainers — some of them with no obvious talent at all.\n\nInvited to Qin by [[p:昭襄王|King Zhaoxiang]], he was seized there and in danger of his life. He begged the king's favourite for help; she wanted a white fox-fur robe — but he had already given it to the king. One of his retainers, an expert thief who could sneak like a dog, crept into the king's storehouse by night and stole it back for her, and Lord Mengchang was released.\n\nThey fled through the night to the Hangu pass, whose gate did not open until cockcrow. Pursuers were close. Another retainer, who could crow like a cock, crowed; every rooster around joined in, the gate was opened, and they escaped. \"Cock-crowers and dog-thieves\" means people of petty skills — and that any skill may serve one day."
+   },
+   "year": 298,
+   "people": [
+    "孟嘗君|Lord Mengchang"
+   ],
+   "related": [
+    "zongheng"
+   ]
+  },
+  "wushibu": {
+   "kind": "saying",
+   "title": {
+    "ja": "五十歩百歩",
+    "en": "Fifty paces and a hundred"
+   },
+   "body": {
+    "ja": "魏の恵王は[[p:孟子]]に言った。「私は国のために心を尽くしている。凶作の地があれば民を豊かな地に移し、穀物を送っている。隣の国にはそこまでする王はいないのに、隣の民は減らず、私の民も増えないのはなぜか」。\n\n孟子は答えた。「王は戦がお好きですから、戦でたとえましょう。太鼓が鳴って刃が交わったとき、鎧を捨てて逃げた者がいた。ある者は百歩逃げて止まり、ある者は五十歩逃げて止まった。五十歩の者が百歩の者を臆病だと笑ったら、どうでしょう」。王は言った。「いけない。百歩でないだけで、逃げたことに変わりはない」。\n\n「それが分かるなら、民が隣の国より増えることを望んではなりません」。孟子は、戦をやめ、田を耕させ、民を養う「王道」を説いた。「五十歩百歩」は、少しの違いはあっても本質は同じ、という意味で使われる。",
+    "en": "King Hui of Wei said to [[p:孟子|Mencius]]: \"I do my utmost for my state. When a district has a bad harvest I move the people to a better one and send grain. No neighbouring king does as much — yet their people do not dwindle, nor do mine increase. Why?\"\n\n\"Your Majesty loves war,\" said Mencius, \"so let me take an example from war. The drums roll, the blades cross, and some men throw down their armour and run. One stops after a hundred paces, another after fifty. What if the fifty-pace man laughs at the hundred-pace man for a coward?\" \"He may not,\" said the king. \"He did not run a hundred, but he ran all the same.\"\n\n\"If you understand that, do not hope for more people than your neighbours.\" Mencius urged him to stop his wars, let the people farm and feed them — the kingly way. \"Fifty paces and a hundred\" means a difference of degree, not of kind."
+   },
+   "year": 320,
+   "people": [
+    "孟子|Mencius"
+   ],
+   "related": [
+    "ru"
+   ]
+  },
+  "maodun": {
+   "kind": "saying",
+   "title": {
+    "ja": "矛盾",
+    "en": "The spear and the shield"
+   },
+   "body": {
+    "ja": "[[p:韓非]]の書『韓非子』にこんな話がある。楚の人で、盾と矛を売る者がいた。盾を褒めて「この盾の堅いことといったら、どんなものも突き通せない」と言い、また矛を褒めて「この矛の鋭いことといったら、どんなものでも突き通す」と言った。\n\nある人が尋ねた。「では、あなたの矛であなたの盾を突いたらどうなるのか」。商人は答えられなかった。\n\n韓非はこの話で、儒家が古の聖王をどちらも褒めるのは、互いに両立しないことを同時に言っているのだと批判した。「矛盾」は、前後のつじつまが合わないことを言う言葉として、今も日本語と中国語に生きている。",
+    "en": "[[p:韓非|Han Fei]] tells this story. A man of Chu sold shields and spears. Praising his shield, he said: \"It is so strong nothing can pierce it.\" Praising his spear: \"It is so sharp it pierces anything.\"\n\nSomeone asked: \"Then what happens if your spear strikes your shield?\" The man had no answer.\n\nHan Fei used it to mock the Confucians, who praised two ancient sage kings for things that could not both be true. The word for \"spear-shield\", mujun, still means a contradiction in Japanese and Chinese."
+   },
+   "people": [
+    "韓非|Han Fei"
+   ],
+   "related": [
+    "shen_buhai",
+    "ru"
+   ]
+  },
+  "huoniu": {
+   "kind": "story",
+   "title": {
+    "ja": "火牛の計",
+    "en": "The fire oxen"
+   },
+   "body": {
+    "ja": "前284年、燕の[[p:楽毅]]は五か国の兵で斉を破り、七十余りの城を落とした。残ったのは莒と即墨の二つだけであった。即墨を守る[[p:田単]]は、まず反間の計で、楽毅が自ら斉王になろうとしているという噂を燕に流し、燕の新しい王に楽毅を将から外させた。\n\n次に田単は、城中の牛千頭余りを集め、赤い絹に竜の模様を描いて着せ、角には刃を縛りつけ、尾には油をしみ込ませた葦を結んだ。夜、城壁に開けた数十の穴から牛を放ち、尾に火をつけた。熱さに狂った牛は燕の陣に突っ込み、その後ろから五千の決死の兵が続き、城の老人や子どもは銅の器を打ち鳴らして天地を揺るがした。\n\n燕軍は総崩れとなり、田単は失った七十余りの城をすべて取り戻した。",
+    "en": "In 284 BC [[p:楽毅|Yue Yi]] of Yan crushed Qi with the armies of five states and took more than seventy cities; only Ju and Jimo held out. [[p:田単|Tian Dan]], holding Jimo, first spread a rumour in Yan that Yue Yi meant to make himself king of Qi, and Yan's new king removed him.\n\nThen Tian Dan gathered a thousand oxen, dressed them in red silk painted with dragons, tied blades to their horns and oil-soaked reeds to their tails. At night he drove them out through dozens of holes in the wall and set the reeds alight. Maddened by the fire, the oxen stampeded into the Yan camp; five thousand picked men followed, and the old people and children in the city beat on bronze vessels until heaven and earth shook.\n\nThe Yan army broke, and Tian Dan won back all seventy-odd cities."
+   },
+   "year": 279,
+   "people": [
+    "田単|Tian Dan",
+    "楽毅|Yue Yi"
+   ],
+   "related": [
+    "xianwei"
+   ]
+  },
+  "laoma": {
+   "kind": "saying",
+   "title": {
+    "ja": "老馬の智",
+    "en": "The wisdom of the old horse"
+   },
+   "body": {
+    "ja": "斉の桓公は燕を助けて北の山戎と孤竹を討った。春に出て冬に帰る長い遠征で、帰り道、軍は道に迷ってしまった。\n\n[[p:管仲]]は言った。「老いた馬の智恵を使いましょう」。年老いた馬を放してその後についていくと、やがて道に出た。山中で水がなくなったときには、隰朋が「蟻は冬は山の南に、夏は北に住む。蟻塚の高さ一寸の下、八尺に水がある」と言い、掘ると水が出た。\n\n[[p:韓非]]はこの話を記して言う。「管仲の賢さ、隰朋の智恵をもってしても、知らないことは老馬や蟻を師とするのをためらわなかった。今の人は愚かな心で聖人の知恵に学ぶことを知らない。誤りではないか」。経験を積んだ者の知恵を尊ぶたとえである。",
+    "en": "Duke Huan of Qi went to the help of Yan against the Mountain Rong and Guzhu in the north — a long campaign, out in spring and home in winter. On the way back the army lost its way.\n\n\"Let us use the wisdom of an old horse,\" said [[p:管仲|Guan Zhong]]. They let an old horse go ahead and followed it, and found the road. When they ran out of water in the mountains, Xi Peng said: \"Ants live on the south side of a hill in winter and the north in summer; dig eight feet beneath an anthill one inch high and you will find water.\" They dug, and found it.\n\n[[p:韓非|Han Fei]], who told the story, added: wise as Guan Zhong and Xi Peng were, they were not ashamed to learn from an old horse and ants in what they did not know; people today, foolish as they are, will not learn from the sages — is that not wrong? It is the byword for honouring the wisdom of experience."
+   },
+   "year": 663,
+   "people": [
+    "管仲|Guan Zhong",
+    "韓非|Han Fei"
+   ],
+   "related": [
+    "guanzhong_reform"
    ]
   }
  },

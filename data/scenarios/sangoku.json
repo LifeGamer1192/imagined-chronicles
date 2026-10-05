@@ -4659,8 +4659,8 @@
    ],
    "imp": 3,
    "at": "guandu",
-   "ja": "官渡の戦い。兵糧の尽きかけた{r_cao}は、[[p:袁紹]]のもとから寝返った許攸の進言で烏巣の兵糧庫を夜襲して焼き、{n_yuanshao}の大軍を崩した。",
-   "en": "The battle of Guandu. Running short of food, {r_cao} took the advice of Xu You, a defector from [[p:袁紹|Yuan Shao]], raided the granary at Wuchao by night and burned it; the great host of {n_yuanshao} fell apart."
+   "ja": "官渡の戦い。兵糧の尽きかけた{r_cao}は、[[p:袁紹]]のもとから寝返った許攸の進言で[[a:wuchao|烏巣の兵糧庫を夜襲して焼き]]、{n_yuanshao}の大軍を崩した。",
+   "en": "The battle of Guandu. Running short of food, {r_cao} took the advice of Xu You, a defector from [[p:袁紹|Yuan Shao]], [[a:wuchao|raided the granary at Wuchao by night and burned it]]; the great host of {n_yuanshao} fell apart."
   },
   {
    "id": "yuanshao_dies",
@@ -5173,8 +5173,8 @@
    ],
    "imp": 3,
    "at": "dingjun",
-   "ja": "定軍山の戦い。老将[[p:黄忠]]が[[p:夏侯淵]]を討ち取り、{r_shu}は漢中を手に入れた。[[p:曹操]]は漢中を「鶏肋」と呼んで兵を引いた。",
-   "en": "The battle of Mount Dingjun. The old general [[p:黄忠|Huang Zhong]] killed [[p:夏侯淵|Xiahou Yuan]], and {r_shu} won Hanzhong. [[p:曹操|Cao Cao]] called it \"a chicken rib\" — not much meat, a pity to throw away — and withdrew."
+   "ja": "定軍山の戦い。老将[[p:黄忠]]が[[p:夏侯淵]]を討ち取り、{r_shu}は漢中を手に入れた。[[p:曹操]]は漢中を[[a:jilei|「鶏肋」]]と呼んで兵を引いた。",
+   "en": "The battle of Mount Dingjun. The old general [[p:黄忠|Huang Zhong]] killed [[p:夏侯淵|Xiahou Yuan]], and {r_shu} won Hanzhong. [[p:曹操|Cao Cao]] called it \"[[a:jilei|a chicken rib]]\" — not much meat, a pity to throw away — and withdrew."
   },
   {
    "id": "hanzhong_king",
@@ -5532,8 +5532,8 @@
    ],
    "imp": 3,
    "at": "wuzhang",
-   "ja": "五丈原で[[p:司馬懿]]と対陣中、[[p:諸葛亮]]は陣中で病死した。蜀軍が退くとき、追ってきた[[p:司馬懿]]は蜀軍が反撃の構えを見せると慌てて退き、人々は「死せる孔明、生ける仲達を走らす」と笑った。",
-   "en": "Facing [[p:司馬懿|Sima Yi]] at Wuzhangyuan, [[p:諸葛亮|Zhuge Liang]] died of illness in camp. As the Shu army withdrew, [[p:司馬懿|Sima Yi]] pursued — and fled when it turned as if to fight. \"The dead Kongming put the living Zhongda to flight,\" people laughed."
+   "ja": "五丈原で[[p:司馬懿]]と対陣中、[[p:諸葛亮]]は陣中で病死した。蜀軍が退くとき、追ってきた[[p:司馬懿]]は蜀軍が反撃の構えを見せると慌てて退き、人々は「[[a:sishi_kongming|死せる孔明]]、生ける仲達を走らす」と笑った。",
+   "en": "Facing [[p:司馬懿|Sima Yi]] at Wuzhangyuan, [[p:諸葛亮|Zhuge Liang]] died of illness in camp. As the Shu army withdrew, [[p:司馬懿|Sima Yi]] pursued — and fled when it turned as if to fight. \"[[a:sishi_kongming|The dead Kongming put the living Zhongda to flight]],\" people laughed."
   },
   {
    "id": "shanyue",
@@ -6606,6 +6606,298 @@
    ],
    "related": [
     "tongquetai"
+   ]
+  },
+  "battle_guandu": {
+   "kind": "battle",
+   "title": {
+    "ja": "官渡の戦い",
+    "en": "the battle of Guandu"
+   },
+   "body": {
+    "ja": "河北四州を従えた[[p:袁紹]]は十万を超える兵で南下し、黄河を渡った。[[p:曹操]]は兵力で大きく劣り、官渡に砦を築いて守りに入った。前哨戦の白馬では[[p:関羽]]が[[p:顔良]]を斬り、延津では[[p:文醜]]も討たれた。\n\n[[p:袁紹]]は土山や櫓を築いて[[p:曹操]]の陣に矢を降らせ、[[p:曹操]]は「霹靂車」(投石機) で櫓を砕いた。地下道を掘れば堀で防いだ。数か月のにらみ合いで[[p:曹操]]の兵糧は尽きかけ、[[p:荀彧]]に「退きたい」と書き送るほどであった。そこへ[[p:袁紹]]の参謀許攸が寝返り、兵糧の集積地烏巣の場所を告げた。[[p:曹操]]は自ら五千の兵を率い、袁軍の旗を掲げて夜道を進み、烏巣を焼いた。[[p:袁紹]]が送った[[p:張郃]]・高覧は[[p:曹操]]の本陣を落とせず、そのまま[[p:曹操]]に降った。\n\n許攸が来たと聞いた[[p:曹操]]は、裸足のまま飛び出して迎えた。許攸が「兵糧はいかほどか」と問うと[[p:曹操]]は「一年分はある」「いや半年」と言を濁し、ついに「実はひと月分だ」と打ち明けたという。\n\n勝った[[p:曹操]]は、[[p:袁紹]]の陣から自軍の者が[[p:袁紹]]に送った内通の手紙の束を見つけたが、読まずにすべて焼かせた。「[[p:袁紹]]が強かったときは、わたしでさえ身を守れるか分からなかった」と言って。\n\n[[p:沮授]]は持久戦を説いて退けられ、捕らえられても降らず、[[p:袁紹]]のもとへ逃げ帰ろうとして殺された。[[p:田豊]]は「戦うな」と諫めて獄につながれ、敗戦を恥じた[[p:袁紹]]に殺された。\n\n[[p:袁紹]]は二年後に病死し、子の袁譚と[[p:袁尚]]が争う間に、[[p:曹操]]は河北を平らげた。華北の覇者は[[p:曹操]]と決まった。\n\n兵力 (目安): 30,000 対 110,000。損害: 10,000 対 70,000。",
+    "en": "Master of the four provinces north of the river, [[p:袁紹|Yuan Shao]] came south across the Yellow River with more than a hundred thousand men. Far outnumbered, [[p:曹操|Cao Cao]] fortified Guandu and stood on the defensive. In the opening fights [[p:関羽|Guan Yu]] cut down [[p:顔良|Yan Liang]] at Baima, and [[p:文醜|Wen Chou]] was killed at Yanjin.\n\n[[p:袁紹|Yuan Shao]] raised earth mounds and towers to rain arrows into [[p:曹操|Cao Cao]]'s camp; [[p:曹操|Cao Cao]] smashed them with his \"thunderbolt carts\" — stone-throwers. Yuan dug tunnels; Cao dug trenches across them. Months passed; [[p:曹操|Cao Cao]]'s grain ran so low that he wrote to [[p:荀彧|Xun Yu]] of retreat. Then [[p:袁紹|Yuan Shao]]'s adviser Xu You came over and told him where the grain lay — at Wuchao. [[p:曹操|Cao Cao]] led five thousand himself by night under Yuan banners and burned it. [[p:張郃|Zhang He]] and Gao Lan, sent against Cao's camp, could not take it and went over to him.\n\nWhen he heard Xu You had come, [[p:曹操|Cao Cao]] ran out barefoot to greet him. Asked how much grain he had, he said a year's, then half a year's, and at last admitted: one month.\n\nIn [[p:袁紹|Yuan Shao]]'s camp [[p:曹操|Cao Cao]] found a bundle of letters his own men had written to the enemy. He had them burned unread: \"When [[p:袁紹|Yuan Shao]] was strong, even I did not know if I could save myself.\"\n\n[[p:沮授|Ju Shou]] had urged a slow war and was overruled; captured, he would not submit, and was killed trying to escape back to [[p:袁紹|Yuan Shao]]. [[p:田豊|Tian Feng]], jailed for advising against the battle, was put to death by [[p:袁紹|Yuan Shao]], ashamed of his defeat.\n\n[[p:袁紹|Yuan Shao]] died two years later, and while his sons Yuan Tan and [[p:袁尚|Yuan Shang]] fought each other [[p:曹操|Cao Cao]] took the north. The master of northern China was [[p:曹操|Cao Cao]].\n\nTroops (rough): 30,000 against 110,000. Losses: 10,000 against 70,000."
+   },
+   "people": [
+    "曹操|Cao Cao",
+    "荀攸|Xun You",
+    "許褚|Xu Chu",
+    "張遼|Zhang Liao",
+    "徐晃|Xu Huang",
+    "袁紹|Yuan Shao",
+    "沮授|Ju Shou",
+    "審配|Shen Pei",
+    "顔良|Yan Liang",
+    "文醜|Wen Chou",
+    "張郃|Zhang He"
+   ],
+   "related": [
+    "qingzhou",
+    "hubaoqi",
+    "wuchao",
+    "pilicche"
+   ]
+  },
+  "battle_chibi": {
+   "kind": "battle",
+   "title": {
+    "ja": "赤壁の戦い",
+    "en": "the battle of Red Cliffs"
+   },
+   "body": {
+    "ja": "荊州を降した[[p:曹操]]は、二十万 (号して八十万) と荊州の水軍を率いて長江を下った。[[p:孫権]]は[[p:周瑜]]・[[p:程普]]に三万を与え、[[p:劉備]]の二万と合わせて赤壁で迎え撃った。\n\n北方の兵は船に慣れず、疫病も広がっていた。[[p:曹操]]の船は鎖でつながれていたとも、ただ密集していたともいう。[[p:黄蓋]]は偽りの降伏状を送り、油をしみ込ませた柴草を積んだ十艘の船に幕をかけて東南の風に乗せた。間近で火を放つと、炎は[[p:曹操]]の船団から岸の陣営にまで燃え広がった。[[p:周瑜]]は精兵で追い討ち、[[p:曹操]]は華容道のぬかるみを、兵に草を敷かせて逃れた。\n\n「周郎 ([[p:周瑜]]) は曲を一つ間違えればすぐ振り返る」と歌われるほど音楽に通じた美男で、[[p:孫策]]とは同い年の義兄弟、妻はそれぞれ「二喬」と呼ばれた美人姉妹であった。\n\n開戦をためらう家臣たちの前で、[[p:孫権]]は剣を抜いて机の角を斬り落とし、「なお降伏を言う者はこの机と同じになる」と言い放った。\n\n[[p:諸葛亮]]が風を祈ったり、藁人形の船で矢を集めたりする話は、後の物語の創作である。\n\n[[p:曹操]]は北へ退き、天下統一の機を失った。荊州南部は[[p:劉備]]が取り、天下三分の形が生まれる。\n\n兵力 (目安): 50,000 対 200,000。損害: 5,000 対 80,000。",
+    "en": "With Jing province in hand, [[p:曹操|Cao Cao]] came down the Yangzi with two hundred thousand men — he claimed eight hundred thousand — and the Jing fleet. [[p:孫権|Sun Quan]] gave [[p:周瑜|Zhou Yu]] and [[p:程普|Cheng Pu]] thirty thousand, and with [[p:劉備|Liu Bei]]'s twenty thousand they met him at the Red Cliffs.\n\nThe northern soldiers were no sailors, and plague was in their camp. [[p:曹操|Cao Cao]]'s ships were chained together, some say — or simply crowded. [[p:黄蓋|Huang Gai]] sent a false letter of surrender, filled ten ships with brushwood soaked in oil, covered them with curtains and sailed on the southeast wind. Fired close in, they set the whole fleet ablaze, and the flames ran up into the camps on shore. [[p:周瑜|Zhou Yu]] followed with his best men; [[p:曹操|Cao Cao]] escaped along the swampy Huarong road, his soldiers laying grass so the horses could pass.\n\n\"If a note is wrong, young Master Zhou turns his head,\" went the song: [[p:周瑜|Zhou Yu]] was a handsome man with a fine ear, the sworn brother of [[p:孫策|Sun Ce]], born the same year; their wives were the two Qiao sisters, famed beauties.\n\nBefore ministers who wanted to surrender, [[p:孫権|Sun Quan]] drew his sword and cut off a corner of his desk: \"Anyone who speaks of surrender again will be like this desk.\"\n\n[[p:諸葛亮|Zhuge Liang]] praying for the wind, or gathering arrows with straw-man boats, are inventions of later fiction.\n\n[[p:曹操|Cao Cao]] went back north and the chance to unite the realm was gone. [[p:劉備|Liu Bei]] took southern Jing, and the three-way split of the realm took shape.\n\nTroops (rough): 50,000 against 200,000. Losses: 5,000 against 80,000."
+   },
+   "people": [
+    "周瑜|Zhou Yu",
+    "程普|Cheng Pu",
+    "黄蓋|Huang Gai",
+    "魯粛|Lu Su",
+    "甘寧|Gan Ning",
+    "劉備|Liu Bei",
+    "諸葛亮|Zhuge Liang",
+    "曹操|Cao Cao",
+    "曹仁|Cao Ren"
+   ],
+   "related": [
+    "wu_ships",
+    "fire_attack"
+   ]
+  },
+  "battle_hefei": {
+   "kind": "battle",
+   "title": {
+    "ja": "合肥の戦い (逍遥津)",
+    "en": "the battle of Hefei (Xiaoyao Ford)"
+   },
+   "body": {
+    "ja": "[[p:曹操]]が漢中へ出ている隙に、[[p:孫権]]は十万で合肥を囲んだ。守るのは[[p:張遼]]・[[p:楽進]]・李典の七千であった。\n\n[[p:曹操]]が残した手紙には「敵が来たら[[p:張遼]]と李典は出て戦え、[[p:楽進]]は守れ」とあった。[[p:張遼]]は決死の兵八百を募り、夜明けに自ら先頭に立って[[p:孫権]]の本陣へ斬り込んだ。[[p:孫権]]は丘に逃れ、呉軍の士気はくじけた。十数日の後に[[p:孫権]]が退くと、[[p:張遼]]は逍遥津の橋で追い討ち、[[p:孫権]]は橋の壊れた所を馬に跳ばせてようやく逃れた。\n\n江東では泣く子に「遼来々 ([[p:張遼]]が来るぞ)」と言うと泣きやんだという (後の言い伝え)。\n\n合肥は呉の北上を阻む壁であり続け、[[p:孫権]]はこの後も何度も攻めて落とせなかった。\n\n兵力 (目安): 7,000 対 100,000。損害: 1,000 対 8,000。",
+    "en": "With [[p:曹操|Cao Cao]] away in Hanzhong, [[p:孫権|Sun Quan]] besieged Hefei with a hundred thousand. Inside were [[p:張遼|Zhang Liao]], [[p:楽進|Yue Jin]] and Li Dian with seven thousand.\n\nThe letter [[p:曹操|Cao Cao]] had left read: \"If the enemy comes, [[p:張遼|Zhang Liao]] and Li Dian go out to fight; [[p:楽進|Yue Jin]] holds the walls.\" [[p:張遼|Zhang Liao]] picked eight hundred men ready to die, and at dawn led them himself into [[p:孫権|Sun Quan]]'s camp. [[p:孫権|Sun Quan]] fled to a hill and the heart went out of the Wu army. When it fell back some days later, [[p:張遼|Zhang Liao]] struck again at the Xiaoyao ford, and [[p:孫権|Sun Quan]] escaped only by making his horse leap a broken span of the bridge.\n\nIn the lands south of the river, the story goes, a crying child would hush at \"[[p:張遼|Zhang Liao]] is coming!\" — a later tale.\n\nHefei remained the wall against Wu's advance north; [[p:孫権|Sun Quan]] attacked it again and again and never took it.\n\nTroops (rough): 7,000 against 100,000. Losses: 1,000 against 8,000."
+   },
+   "people": [
+    "張遼|Zhang Liao",
+    "楽進|Yue Jin",
+    "孫権|Sun Quan",
+    "甘寧|Gan Ning",
+    "呂蒙|Lü Meng"
+   ],
+   "related": []
+  },
+  "battle_dingjun": {
+   "kind": "battle",
+   "title": {
+    "ja": "定軍山の戦い",
+    "en": "the battle of Mount Dingjun"
+   },
+   "body": {
+    "ja": "漢中を争って、[[p:劉備]]は陽平関から定軍山へ陣を移した。[[p:夏侯淵]]と[[p:張郃]]が山の下に陣を敷いた。\n\n[[p:劉備]]は夜、[[p:夏侯淵]]の陣の柵 (鹿角) に火を放った。[[p:夏侯淵]]が自ら兵を割いて柵を直しに出たところを、[[p:法正]]の「今こそ撃つべし」の言葉で[[p:黄忠]]が山上から太鼓を鳴らして駆け下り、[[p:夏侯淵]]を斬った。\n\n[[p:曹操]]はかねて[[p:夏侯淵]]に「将には臆病なときもなければならない。勇気だけに頼るな」と戒めていた。\n\n漢中に来た[[p:曹操]]は「鶏肋 (鶏の肋骨) だ」とだけ言った。捨てるには惜しいが食べるところがない。楊修はそれを聞いて撤退を悟り、荷造りを始めた。\n\n[[p:曹操]]は漢中を捨て、[[p:劉備]]は漢中王を称した。蜀の勢いはここで頂点に達する。\n\n兵力 (目安): 40,000 対 30,000。損害: 3,000 対 8,000。",
+    "en": "Fighting for Hanzhong, [[p:劉備|Liu Bei]] moved his camp from Yangping pass up onto Mount Dingjun; [[p:夏侯淵|Xiahou Yuan]] and [[p:張郃|Zhang He]] camped below.\n\nAt night [[p:劉備|Liu Bei]] set fire to the stakes around [[p:夏侯淵|Xiahou Yuan]]'s camp. When [[p:夏侯淵|Xiahou Yuan]] went out himself with part of his men to mend them, [[p:法正|Fa Zheng]] said: now. [[p:黄忠|Huang Zhong]] charged down the mountain to the sound of drums and killed him.\n\n[[p:曹操|Cao Cao]] had warned [[p:夏侯淵|Xiahou Yuan]]: \"A general must sometimes be timid; do not trust in courage alone.\"\n\nIn Hanzhong [[p:曹操|Cao Cao]] would say only: \"Chicken ribs.\" Too good to throw away, nothing to eat. Yang Xiu understood that they would retreat, and began to pack.\n\n[[p:曹操|Cao Cao]] gave up Hanzhong and [[p:劉備|Liu Bei]] named himself King of Hanzhong — the high point of Shu's fortunes.\n\nTroops (rough): 40,000 against 30,000. Losses: 3,000 against 8,000."
+   },
+   "people": [
+    "劉備|Liu Bei",
+    "黄忠|Huang Zhong",
+    "法正|Fa Zheng",
+    "趙雲|Zhao Yun",
+    "夏侯淵|Xiahou Yuan",
+    "張郃|Zhang He",
+    "徐晃|Xu Huang"
+   ],
+   "related": [
+    "jilei"
+   ]
+  },
+  "battle_yiling": {
+   "kind": "battle",
+   "title": {
+    "ja": "夷陵の戦い",
+    "en": "the battle of Yiling"
+   },
+   "body": {
+    "ja": "[[p:関羽]]の仇を討とうと[[p:劉備]]は呉に攻め込み、長江沿いの山あい数百里に四十余りの陣を連ねた。呉は若い[[p:陸遜]]を大都督に任じた。\n\n[[p:陸遜]]は戦わず、老将たちの不満を抑えて半年以上守り続けた。夏の暑さで蜀軍が林の中に陣を移し、疲れが見えたとき、[[p:陸遜]]は兵に茅を一束ずつ持たせて火を放ち、四十余りの陣を一気に焼き払った。\n\n白帝城に逃れた[[p:劉備]]は、死の床で[[p:諸葛亮]]に「子 ([[p:劉禅]]) が補佐するに足りなければ、君が自ら取れ」と告げた。[[p:諸葛亮]]は涙を流して、死ぬまで忠を尽くすと誓った。\n\n退路を断たれた[[p:黄権]]は、呉ではなく魏に降った。[[p:劉備]]は「わたしが[[p:黄権]]を裏切ったのであって、[[p:黄権]]がわたしを裏切ったのではない」と言い、その家族を罪に問わなかった。\n\n[[p:劉備]]は翌年白帝城で世を去り、蜀は[[p:諸葛亮]]のもとで呉と和を結び直した。\n\n兵力 (目安): 50,000 対 70,000。損害: 5,000 対 40,000。",
+    "en": "To avenge [[p:関羽|Guan Yu]] [[p:劉備|Liu Bei]] invaded Wu and strung more than forty camps along hundreds of li of the Yangzi gorges. Wu made the young [[p:陸遜|Lu Xun]] its commander-in-chief.\n\n[[p:陸遜|Lu Xun]] would not fight, and held for more than half a year against the grumbling of older generals. When the summer heat drove the Shu army into the woods and it began to tire, he had each man carry a bundle of reeds, set fire to the camps and burned forty of them at a stroke.\n\nFled to Baidi, [[p:劉備|Liu Bei]] on his deathbed told [[p:諸葛亮|Zhuge Liang]]: \"If my son is worth helping, help him; if not, take the throne yourself.\" Weeping, [[p:諸葛亮|Zhuge Liang]] swore to serve to his death.\n\nCut off, [[p:黄権|Huang Quan]] surrendered — to Wei, not Wu. [[p:劉備|Liu Bei]] said: \"I failed [[p:黄権|Huang Quan]]; he did not fail me,\" and left his family unharmed.\n\n[[p:劉備|Liu Bei]] died at Baidi the next year; under [[p:諸葛亮|Zhuge Liang]] Shu made peace with Wu again.\n\nTroops (rough): 50,000 against 70,000. Losses: 5,000 against 40,000."
+   },
+   "people": [
+    "陸遜|Lu Xun",
+    "丁奉|Ding Feng",
+    "劉備|Liu Bei",
+    "黄権|Huang Quan",
+    "馬良|Ma Liang"
+   ],
+   "related": [
+    "fire_attack"
+   ]
+  },
+  "wuchao": {
+   "kind": "story",
+   "title": {
+    "ja": "烏巣の焼き討ち",
+    "en": "The burning of Wuchao"
+   },
+   "body": {
+    "ja": "官渡で[[p:袁紹]]と向き合って半年。[[p:曹操]]の兵糧は尽きかけ、兵は疲れ、寝返る者も出ていた。そこへ、袁紹の参謀許攸が寝返ってきた。許攸は、家族が罪を問われたのを恨んでいたという。\n\n許攸は告げた。「袁紹の兵糧一万余台は烏巣に集められ、守りは淳于瓊ら一万ほど、備えは手薄です」。家臣の多くは罠を疑ったが、[[p:荀攸]]と[[p:賈詡]]は信じよと勧めた。曹操は曹洪に本陣を任せ、自ら歩兵と騎兵五千を率い、袁軍の旗を掲げ、兵には枚 (声を出さないよう口にくわえる木片) をくわえさせ、馬の口を縛って夜道を進んだ。「袁公が烏巣の守りを増やすために送った兵だ」と言って通り抜けたという。\n\n夜明け、烏巣を囲んで火を放つと、袁軍の救援が迫っても曹操は振り返らず、「敵が背後に来てから言え」と叱咤して攻め続けた。兵糧は灰となり、淳于瓊は斬られた。この知らせで袁軍は崩れ、[[p:張郃]]と高覧は曹操に降った。",
+    "en": "Half a year facing [[p:袁紹|Yuan Shao]] at Guandu, and [[p:曹操|Cao Cao]]'s grain was almost gone; his men were weary and some were deserting. Then Yuan Shao's adviser Xu You came over — embittered, they say, because his family had been punished.\n\nXu You told him: \"Yuan Shao's ten thousand wagons of grain are gathered at Wuchao, guarded by Chunyu Qiong with some ten thousand men, and carelessly.\" Most of Cao Cao's officers suspected a trap; [[p:荀攸|Xun You]] and [[p:賈詡|Jia Xu]] urged him to trust it. Leaving Cao Hong in the camp, Cao Cao led five thousand foot and horse himself under Yuan banners, gags in the men's mouths and the horses' muzzles bound, along the night roads — passing the pickets as \"reinforcements Lord Yuan is sending to Wuchao\".\n\nAt dawn they ringed Wuchao and set it alight. When Yuan relief came up behind, Cao Cao would not turn — \"tell me when they are at our backs\" — and kept attacking. The grain went up in smoke and Chunyu Qiong was beheaded. At the news the Yuan army broke, and [[p:張郃|Zhang He]] and Gao Lan came over to Cao Cao."
+   },
+   "year": 200,
+   "people": [
+    "曹操|Cao Cao",
+    "袁紹|Yuan Shao",
+    "荀攸|Xun You",
+    "賈詡|Jia Xu",
+    "張郃|Zhang He"
+   ],
+   "related": [
+    "battle_guandu",
+    "pilicche",
+    "tuntian"
+   ]
+  },
+  "pilicche": {
+   "kind": "story",
+   "title": {
+    "ja": "霹靂車",
+    "en": "The thunderbolt carts"
+   },
+   "body": {
+    "ja": "官渡で、[[p:袁紹]]は[[p:曹操]]の陣の前に土の山を築き、その上に櫓を建てて、陣の中へ雨のように矢を射込ませた。曹操の兵は盾をかざして歩かねばならなかった。\n\n曹操は「発石車」を作らせた。てこの仕組みで大きな石を投げる投石機で、袁軍の櫓を次々と打ち砕いた。その音の凄まじさから、兵たちはこれを「霹靂車 (雷の車)」と呼んだ。\n\n袁紹が地下道を掘って陣の下から攻めようとすると、曹操は陣の内側に長い堀を掘ってこれを防いだ。官渡は、兵力の少ない曹操が工夫で持ちこたえた戦いでもあった。",
+    "en": "At Guandu [[p:袁紹|Yuan Shao]] raised earth mounds before [[p:曹操|Cao Cao]]'s camp and built towers on them, raining arrows into the camp; Cao Cao's men had to walk under their shields.\n\nCao Cao had stone-throwing carts built — levered catapults hurling great stones — and smashed the towers one after another. From the crash they made, the soldiers called them \"thunderbolt carts\".\n\nWhen Yuan Shao dug tunnels to come up under the camp, Cao Cao dug a long trench inside his lines to cut them. Guandu was also the battle in which the smaller army held on by ingenuity."
+   },
+   "year": 200,
+   "people": [
+    "曹操|Cao Cao",
+    "袁紹|Yuan Shao"
+   ],
+   "related": [
+    "battle_guandu",
+    "wuchao"
+   ]
+  },
+  "fire_attack": {
+   "kind": "story",
+   "title": {
+    "ja": "火攻め (赤壁と夷陵)",
+    "en": "Attack by fire (Red Cliffs and Yiling)"
+   },
+   "body": {
+    "ja": "三国の大きな戦いのうち二つが、火で決まった。赤壁では、呉の老将[[p:黄蓋]]が「[[p:曹操]]の船は舳先と艫がつながっている。焼けば逃げられない」と[[p:周瑜]]に説き、偽りの降伏の手紙を送った上で、柴と油を積んだ船に火を放って突っ込ませた。\n\n夷陵では、呉の[[p:陸遜]]が半年以上守りを固めて蜀軍を疲れさせ、夏の暑さで蜀軍が林の中に陣を移すのを待った。兵一人一人に茅を一束ずつ持たせ、一斉に火をつけさせると、七百里に連なる四十余りの陣が燃え上がった。\n\n『孫子』にも「火攻篇」があり、火を放つには天気と日を選べ、乾いた時期、風の起こる日を、と書かれている。赤壁の東南の風を[[p:諸葛亮]]が祈って呼んだという話は、後の物語の創作である。",
+    "en": "Two of the great battles of the Three Kingdoms were decided by fire. At Red Cliffs the veteran [[p:黄蓋|Huang Gai]] told [[p:周瑜|Zhou Yu]] that [[p:曹操|Cao Cao]]'s ships were joined bow to stern and could not escape a fire; he sent a false letter of surrender, then drove in ships loaded with brushwood and oil, set alight.\n\nAt Yiling [[p:陸遜|Lu Xun]] of Wu held his ground for more than half a year until the summer heat drove the Shu army into the woods. Each soldier carried a bundle of reeds; lit all at once, they set ablaze forty camps strung over seven hundred li.\n\nThe Sunzi has a chapter on attack by fire: choose the season and the day — dry weather, a day when the wind rises. That [[p:諸葛亮|Zhuge Liang]] prayed up the southeast wind at Red Cliffs is an invention of the later novel."
+   },
+   "year": 208,
+   "people": [
+    "黄蓋|Huang Gai",
+    "周瑜|Zhou Yu",
+    "陸遜|Lu Xun",
+    "劉備|Liu Bei",
+    "曹操|Cao Cao",
+    "諸葛亮|Zhuge Liang"
+   ],
+   "related": [
+    "battle_chibi",
+    "battle_yiling",
+    "wu_ships"
+   ]
+  },
+  "jilei": {
+   "kind": "saying",
+   "title": {
+    "ja": "鶏肋",
+    "en": "Chicken ribs"
+   },
+   "body": {
+    "ja": "219年、漢中で[[p:劉備]]と戦う[[p:曹操]]は、攻めるにも守るにも決め手がなかった。ある夜、夜の合言葉を尋ねられた曹操は、ちょうど食べていた鶏のスープを見ながら「鶏肋」(鶏のあばら骨) と答えた。\n\n主簿の楊修はそれを聞くと、すぐに荷物をまとめ始めた。わけを問われて答えた。「鶏のあばら骨は、捨てるには惜しいが、食べても肉がない。王は漢中をそう見ておられる。もうすぐ引き揚げるだろう」。曹操は実際にまもなく兵を引いた。\n\n楊修はその才気がかえって曹操に疎まれ、のちに処刑された。「鶏肋」は、大して役に立たないが捨てるには惜しいもののたとえとなった。",
+    "en": "In 219 [[p:曹操|Cao Cao]], fighting [[p:劉備|Liu Bei]] in Hanzhong, could neither win nor hold. One night, asked for the password, he was looking at the chicken soup he was eating, and said: \"Chicken ribs.\"\n\nHis secretary Yang Xiu at once began to pack. Asked why, he said: \"Chicken ribs are a pity to throw away but have no meat on them. That is how the king sees Hanzhong. We will soon withdraw.\" Before long Cao Cao did.\n\nYang Xiu's cleverness only made Cao Cao dislike him, and he was later executed. \"Chicken ribs\" means something of little use that one is reluctant to discard."
+   },
+   "year": 219,
+   "people": [
+    "曹操|Cao Cao",
+    "劉備|Liu Bei"
+   ],
+   "related": [
+    "battle_dingjun",
+    "wudang"
+   ]
+  },
+  "sangu": {
+   "kind": "saying",
+   "title": {
+    "ja": "三顧の礼",
+    "en": "Three visits to the thatched cottage"
+   },
+   "body": {
+    "ja": "207年頃、荊州の新野にいた[[p:劉備]]は、[[p:徐庶]]から「臥竜」[[p:諸葛亮]]のことを聞いた。「この人は呼びつけても来ません。将軍が自ら会いに行くべきです」。劉備は隆中の草庵を訪ね、三度目にしてようやく会えた。\n\n諸葛亮は劉備に天下の形勢を説いた。北の[[p:曹操]]とは今は争えない。江東の[[p:孫権]]とは手を結ぶべきだ。荊州と益州を取って足場とし、天下に変事が起これば北へ攻め上る——「天下三分の計」(隆中対) である。\n\n劉備は「私に孔明がいるのは、魚に水があるようなものだ」と言った (水魚の交わり)。のちに諸葛亮は「出師の表」に、先帝が身分の低い自分を三度も草庵に訪ねてくれたことを書き、その恩に報いるために北伐に出ると誓った。",
+    "en": "Around 207 [[p:劉備|Liu Bei]], at Xinye in Jing, heard from [[p:徐庶|Xu Shu]] of [[p:諸葛亮|Zhuge Liang]], \"the Sleeping Dragon\": \"Such a man will not come at a summons; you must go to him yourself.\" Liu Bei went to the thatched cottage at Longzhong, and only on the third visit met him.\n\nZhuge Liang laid out the state of the realm: [[p:曹操|Cao Cao]] in the north could not be fought yet; [[p:孫権|Sun Quan]] in the south should be made an ally; take Jing and Yi provinces as a base, and when the realm was shaken, march north — the \"plan to divide the realm in three\".\n\n\"Having Kongming is like a fish having water,\" said Liu Bei. Years later, in his memorial on taking the field, Zhuge Liang wrote that the late emperor had three times visited him in his cottage, humble as he was, and swore to repay it with the northern campaigns."
+   },
+   "year": 207,
+   "people": [
+    "劉備|Liu Bei",
+    "諸葛亮|Zhuge Liang",
+    "徐庶|Xu Shu"
+   ],
+   "related": [
+    "shu_brocade",
+    "battle_chibi"
+   ]
+  },
+  "amou": {
+   "kind": "saying",
+   "title": {
+    "ja": "呉下の阿蒙にあらず",
+    "en": "No longer the Ameng of Wu"
+   },
+   "body": {
+    "ja": "呉の[[p:呂蒙]]は、兵を率いれば勇猛だったが、書物は読まなかった。[[p:孫権]]は彼に言った。「学者になれと言うのではない。昔のことを知っておけと言うのだ。わしでさえ忙しい中、書を読んでいる」。呂蒙はそれから学問に励んだ。\n\nしばらくして[[p:魯粛]]が呂蒙と語り合うと、その見識に驚いた。「君はもう呉にいた頃の蒙ちゃん (阿蒙) ではないな」。呂蒙は答えた。「士別れて三日、即ち更に刮目して相待すべし」——士たる者は、三日会わなければ、目をこすってよく見直さなければならない。\n\nのちに呂蒙は、魯粛の後を継いで荊州の[[p:関羽]]に当たり、病と偽って油断させ、荊州を奪った。人は学べば変わる、というたとえである。",
+    "en": "[[p:呂蒙|Lü Meng]] of Wu was a bold commander but no reader. [[p:孫権|Sun Quan]] told him: \"I don't ask you to be a scholar — only to know something of the past. Even I, busy as I am, read.\" Lü Meng set himself to study.\n\nSome time later [[p:魯粛|Lu Su]] talked with him and was astonished: \"You are no longer the little Meng of Wu.\" Lü Meng answered: \"When a gentleman has been away three days, you must rub your eyes and look at him anew.\"\n\nHe later succeeded Lu Su against [[p:関羽|Guan Yu]] in Jing, lulled him by feigning illness, and took the province. People change when they learn."
+   },
+   "year": 215,
+   "people": [
+    "呂蒙|Lü Meng",
+    "孫権|Sun Quan",
+    "魯粛|Lu Su",
+    "関羽|Guan Yu"
+   ],
+   "related": [
+    "battle_hefei"
+   ]
+  },
+  "sishi_kongming": {
+   "kind": "saying",
+   "title": {
+    "ja": "死せる孔明、生ける仲達を走らす",
+    "en": "The dead Kongming put the living Zhongda to flight"
+   },
+   "body": {
+    "ja": "234年、五度目の北伐。[[p:諸葛亮]]は五丈原で魏の[[p:司馬懿]] (字は仲達) と百日余り向き合った。司馬懿は守りを固めて戦わない。諸葛亮が女物の頭巾と衣を贈って臆病者とからかっても、動かなかった。\n\n使者から諸葛亮の暮らしぶりを聞いた司馬懿は言った。「食は少なく、仕事は多い。長くはないだろう」。その秋、諸葛亮は陣中で病に倒れた。\n\n蜀軍が退くと、司馬懿は追った。ところが蜀軍が旗を返し太鼓を鳴らして向き直ると、司馬懿は慌てて兵を引いた。人々は「死せる孔明、生ける仲達を走らす」と笑った。それを聞いた司馬懿は「わしは生きている者のことは測れるが、死んだ者のことは測れぬ」と言ったという。",
+    "en": "In 234, on his fifth northern campaign, [[p:諸葛亮|Zhuge Liang]] faced [[p:司馬懿|Sima Yi]] (styled Zhongda) at Wuzhangyuan for more than a hundred days. Sima Yi held his ramparts and would not fight; not even a gift of women's headdress and clothes, mocking him as a coward, would move him.\n\nHearing from an envoy how Zhuge Liang lived, Sima Yi said: \"He eats little and works much; he will not last.\" That autumn Zhuge Liang fell ill in camp and died.\n\nAs the Shu army withdrew Sima Yi pursued — but when it turned its banners and beat its drums as if to fight, he hastily drew back. \"The dead Kongming put the living Zhongda to flight,\" people laughed. Sima Yi replied: \"I can reckon with the living; I cannot reckon with the dead.\""
+   },
+   "year": 234,
+   "people": [
+    "諸葛亮|Zhuge Liang",
+    "司馬懿|Sima Yi",
+    "姜維|Jiang Wei"
+   ],
+   "related": [
+    "jiange_road",
+    "tuntian"
+   ]
+  },
+  "baimei": {
+   "kind": "saying",
+   "title": {
+    "ja": "白眉",
+    "en": "The white eyebrows"
+   },
+   "body": {
+    "ja": "荊州の馬氏の五人兄弟は、皆それぞれ才があり、字に「常」の字がついていたので「馬氏の五常」と呼ばれた。中でも最も優れていたのが、眉に白い毛のまじった[[p:馬良]]であった。郷里の人々は「馬氏の五常、白眉最も良し」と言った。\n\n馬良は[[p:劉備]]に仕え、呉への使者も務めた。弟が、街亭で敗れて[[p:諸葛亮]]に斬られた[[p:馬謖]]である。\n\n馬良は夷陵の戦いで命を落とした。「白眉」は、多くの中で最も優れた人や物のたとえとして今も使われる。",
+    "en": "The five Ma brothers of Jing were all gifted, and since each had \"Chang\" in his courtesy name they were called \"the five Changs of the Ma\". The best of them was [[p:馬良|Ma Liang]], whose eyebrows had white hairs in them. \"Of the five Changs of the Ma,\" the people of his home said, \"White Eyebrows is best.\"\n\nMa Liang served [[p:劉備|Liu Bei]] and went as his envoy to Wu. His younger brother was [[p:馬謖|Ma Su]], who lost Jieting and was beheaded by [[p:諸葛亮|Zhuge Liang]].\n\nMa Liang died in the Yiling campaign. \"White eyebrows\" still means the best of many."
+   },
+   "people": [
+    "馬良|Ma Liang",
+    "馬謖|Ma Su",
+    "劉備|Liu Bei",
+    "諸葛亮|Zhuge Liang"
+   ],
+   "related": [
+    "battle_yiling",
+    "shu_law"
    ]
   }
  },

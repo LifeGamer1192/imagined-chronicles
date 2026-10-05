@@ -2509,8 +2509,8 @@
    ],
    "imp": 3,
    "at": "allobroges",
-   "ja": "アルプス越え。雪と崖と山の民の襲撃のなか十五日で山を越えた[[p:ハンニバル]]の軍は、イタリアに着いたとき歩兵二万、騎兵六千に減っていた。道をふさぐ岩は火で焼き、酢をかけて砕いたと伝えられる。",
-   "en": "The crossing of the Alps. Through snow, cliffs and the attacks of the mountain peoples, [[p:ハンニバル|Hannibal]] crossed in fifteen days; when he came down into Italy, twenty thousand foot and six thousand horse were left. A rock that blocked the way, the story goes, was heated with fire and split with vinegar."
+   "ja": "[[a:alps|アルプス越え]]。雪と崖と山の民の襲撃のなか十五日で山を越えた[[p:ハンニバル]]の軍は、イタリアに着いたとき歩兵二万、騎兵六千に減っていた。道をふさぐ岩は火で焼き、酢をかけて砕いたと伝えられる。",
+   "en": "[[a:alps|The crossing of the Alps]]. Through snow, cliffs and the attacks of the mountain peoples, [[p:ハンニバル|Hannibal]] crossed in fifteen days; when he came down into Italy, twenty thousand foot and six thousand horse were left. A rock that blocked the way, the story goes, was heated with fire and split with vinegar."
   },
   {
    "id": "gauls_rise",
@@ -2649,8 +2649,8 @@
    ],
    "imp": 3,
    "at": "roma",
-   "ja": "ローマは[[a:dictator|独裁官]]に[[p:クィントゥス・ファビウス・マクシムス]]を選んだ。ファビウスは決戦を避けて[[p:ハンニバル]]の後を追い、補給を断つ持久の策をとった。人々は彼を「ぐずぐず男 (クンクタトル)」と嘲ったが、のちにはその名は誉れとなった。",
-   "en": "Rome named [[p:クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus]] [[a:dictator|dictator]]. He refused battle, shadowed [[p:ハンニバル|Hannibal]] and cut his supplies; people mocked him as \"the Delayer\" — a name that later became an honour."
+   "ja": "ローマは[[a:dictator|独裁官]]に[[p:クィントゥス・ファビウス・マクシムス]]を選んだ。ファビウスは決戦を避けて[[p:ハンニバル]]の後を追い、補給を断つ持久の策をとった。人々は彼を[[a:cunctator|「ぐずぐず男 (クンクタトル)」]]と嘲ったが、のちにはその名は誉れとなった。",
+   "en": "Rome named [[p:クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus]] [[a:dictator|dictator]]. He refused battle, shadowed [[p:ハンニバル|Hannibal]] and cut his supplies; people mocked him as \"[[a:cunctator|the Delayer]]\" — a name that later became an honour."
   },
   {
    "id": "cannae",
@@ -2685,8 +2685,8 @@
    ],
    "imp": 3,
    "at": "cannae",
-   "ja": "カンナエの戦い。[[p:ハンニバル]]はわざと中央を弓なりに張り出して退かせ、押し込んだ八万のローマ軍を両翼のアフリカ歩兵と背後に回った騎兵で包み込んだ。執政官パウッルスをはじめ五万以上が一日で死んだ。[[p:マハルバル]]は「あなたは勝つことを知っているが、勝利を使うことを知らない」と言ったという。",
-   "en": "The battle of Cannae. [[p:ハンニバル|Hannibal]] let his bowed centre fall back, drew in eighty thousand Romans, and closed them in with his African foot on the wings and his cavalry behind. More than fifty thousand died in a single day, the consul Paullus among them. \"You know how to win a victory,\" [[p:マハルバル|Maharbal]] is said to have told him, \"but not how to use one.\""
+   "ja": "カンナエの戦い。[[p:ハンニバル]]は[[a:double_envelopment|わざと中央を弓なりに張り出して退かせ]]、押し込んだ八万のローマ軍を両翼のアフリカ歩兵と背後に回った騎兵で包み込んだ。執政官パウッルスをはじめ五万以上が一日で死んだ。[[p:マハルバル]]は「あなたは勝つことを知っているが、勝利を使うことを知らない」と言ったという。",
+   "en": "The battle of Cannae. [[p:ハンニバル|Hannibal]] [[a:double_envelopment|let his bowed centre fall back]], drew in eighty thousand Romans, and closed them in with his African foot on the wings and his cavalry behind. More than fifty thousand died in a single day, the consul Paullus among them. \"You know how to win a victory,\" [[p:マハルバル|Maharbal]] is said to have told him, \"but not how to use one.\""
   },
   {
    "id": "capua_defects",
@@ -2899,8 +2899,8 @@
    ],
    "imp": 3,
    "at": "roma",
-   "ja": "カプアの包囲を解かせようと、[[p:ハンニバル]]はローマの城壁の三マイル手前まで迫った (「[[p:ハンニバル]]が門前に」)。ローマは動じず、[[p:ハンニバル]]の陣のある土地が競売にかけられ、相場どおりの値で売れたという。",
-   "en": "To draw the Romans off Capua, [[p:ハンニバル|Hannibal]] marched to within three miles of Rome's walls — \"[[p:ハンニバル|Hannibal]] at the gates\". Rome did not stir; the very land his camp stood on was put up for auction, they say, and sold at the usual price."
+   "ja": "カプアの包囲を解かせようと、[[p:ハンニバル]]はローマの城壁の三マイル手前まで迫った (「[[p:ハンニバル]]が[[a:ad_portas|門前に]]」)。ローマは動じず、[[p:ハンニバル]]の陣のある土地が競売にかけられ、相場どおりの値で売れたという。",
+   "en": "To draw the Romans off Capua, [[p:ハンニバル|Hannibal]] marched to within three miles of Rome's walls — \"[[p:ハンニバル|Hannibal]] [[a:ad_portas|at the gates]]\". Rome did not stir; the very land his camp stood on was put up for auction, they say, and sold at the usual price."
   },
   {
    "id": "scipios_fall",
@@ -4210,6 +4210,259 @@
     "punic_purple"
    ],
    "people": []
+  },
+  "battle_trebia": {
+   "kind": "battle",
+   "title": {
+    "ja": "トレビア川の戦い",
+    "en": "the battle of the Trebia"
+   },
+   "body": {
+    "ja": "アルプスを越えた[[p:ハンニバル]]は、ガリア人を加えて四万となった。ローマは二人の執政官の軍を合わせ、センプロニウス・ロングスが指揮をとった (ティキヌスで傷を負った同僚スキピオは自重を説いた)。\n\n[[p:ハンニバル]]は前夜、弟マゴと二千の兵を川岸の茂みに伏せた。雪の朝、ヌミディア騎兵が川を渡ってローマの陣を挑発すると、センプロニウスは朝食もとらせずに全軍で追わせた。凍える川を胸まで浸かって渡ったローマ兵の前に、火を焚いて食事をとり体に油を塗ったカルタゴ軍が待っていた。両翼の騎兵と象がローマの両翼を崩し、マゴの伏兵が背後から襲った。\n\nローマの中央の一万は敵中を突き抜けてプラケンティアへ逃れた。カルタゴ側の損害の多くは、寒さで死んだ象と兵であったという。\n\n北イタリアのガリア人はこぞって[[p:ハンニバル]]につき、ローマは翌年の執政官に望みを託した。\n\n兵力 (目安): 40,000 対 42,000。損害: 5,000 対 26,000。",
+    "en": "Over the Alps, [[p:ハンニバル|Hannibal]] had forty thousand with his Gallic recruits. Rome joined both consular armies under Sempronius Longus — his colleague Scipio, wounded at the Ticinus, urged caution.\n\nThe night before, [[p:ハンニバル|Hannibal]] hid his brother Mago with two thousand men in the brush along a stream. On a snowy morning his Numidian horse crossed the river to taunt the Roman camp, and Sempronius sent his whole army after them without breakfast. The Romans waded the freezing river chest-deep — and found the Carthaginians waiting, fed, warmed by fires and oiled against the cold. Cavalry and elephants broke the Roman wings, and Mago's men came out of hiding behind them.\n\nTen thousand Romans in the centre cut their way through and reached Placentia. Most of Carthage's losses, they say, were to the cold — men and elephants.\n\nThe Gauls of northern Italy flocked to [[p:ハンニバル|Hannibal]], and Rome pinned its hopes on the next year's consuls.\n\nTroops (rough): 40,000 against 42,000. Losses: 5,000 against 26,000."
+   },
+   "people": [
+    "ハンニバル|Hannibal",
+    "マゴ・バルカ|Mago Barca",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
+   ],
+   "related": [
+    "numidian",
+    "war_elephants",
+    "balearic",
+    "numidian",
+    "war_elephants"
+   ]
+  },
+  "battle_trasimene": {
+   "kind": "battle",
+   "title": {
+    "ja": "トラシメヌス湖畔の戦い",
+    "en": "the battle of Lake Trasimene"
+   },
+   "body": {
+    "ja": "[[p:ハンニバル]]は沼地を四日間歩き通してエトルリアに入り (このとき片目を失った)、執政官フラミニウスの領地を焼いて挑発した。湖の北岸は丘と水に挟まれた細道で、[[p:ハンニバル]]は丘の陰に全軍を伏せた。\n\n朝霧の中、偵察もせずに細道へ入ったローマ軍に、三方から一斉に襲いかかった。隊列を組む暇もなかったローマ兵は湖に追い落とされ、三時間でほぼ全滅した。フラミニウスはガリア人の騎兵に討たれた。\n\n戦いのさなかに地震が起き、町を崩し川の流れを変えたが、戦っていた兵は誰も気づかなかったとリウィウスは書く。\n\n知らせを聞いたローマでは、法務官が広場で「我らは大きな戦いに敗れた」とだけ告げた。ローマは独裁官にファビウスを選ぶ。\n\n独裁官ファビウスは決戦を避けて[[p:ハンニバル]]につきまとう「遅延戦術」をとり、「クンクタトル (ぐずぐず屋)」と呼ばれた。\n\n兵力 (目安): 50,000 対 25,000。損害: 2,500 対 15,000。",
+    "en": "[[p:ハンニバル|Hannibal]] marched four days through flooded marshes into Etruria — losing an eye on the way — and burned the country to goad the consul Flaminius. On the north shore of the lake the road ran narrow between hills and water; [[p:ハンニバル|Hannibal]] hid his whole army behind the hills.\n\nIn the morning mist the Roman column entered the road without scouting, and the attack came from three sides at once. With no time to form up, the Romans were driven into the lake; in three hours the army was all but destroyed. Flaminius was killed by a Gallic horseman.\n\nAn earthquake struck during the battle, toppling towns and turning rivers, and none of the fighting men noticed, Livy writes.\n\nIn Rome a praetor told the crowd in the forum only this: \"We have been beaten in a great battle.\" Rome named Fabius dictator.\n\nThe dictator Fabius would not give battle and shadowed [[p:ハンニバル|Hannibal]] instead, and was nicknamed Cunctator — the Delayer.\n\nTroops (rough): 50,000 against 25,000. Losses: 2,500 against 15,000."
+   },
+   "people": [
+    "ハンニバル|Hannibal",
+    "マハルバル|Maharbal",
+    "ガイウス・フラミニウス|Gaius Flaminius"
+   ],
+   "related": [
+    "numidian",
+    "cunctator"
+   ]
+  },
+  "battle_cannae": {
+   "kind": "battle",
+   "title": {
+    "ja": "カンナエの戦い",
+    "en": "the battle of Cannae"
+   },
+   "body": {
+    "ja": "ローマは史上最大の八万を集め、二人の執政官パウッルスとウァッロが一日交代で指揮をとった。ローマは歩兵を厚く深く並べて中央突破をねらった。[[p:ハンニバル]]は中央にガリア人とイベリア人を弓なりに前へ張り出させ、その両端の後ろにアフリカの重装歩兵を、両翼に騎兵を置いた。\n\nウァッロの指揮の日に戦いが始まった。ローマ歩兵が押し込むと、カルタゴの中央は崩れず少しずつ下がり、弓なりはいつしか逆向きの袋になった。その左右からアフリカ兵が向き直って挟み、ローマ騎兵を追い散らしたハスドルバルの騎兵が背後をふさいだ。包まれたローマ兵は身動きもできないまま、日が暮れるまで討たれ続けた。\n\n勝った夜、騎兵隊長[[p:マハルバル]]は「五日後にはカピトリウムで食事ができる」と言ってローマへの進撃を迫った。[[p:ハンニバル]]がためらうと「あなたは勝つことを知っているが、勝利を使うことを知らない」と言ったという。\n\n戦死したローマの騎士の指から集めた金の指輪は、カルタゴの元老院の床に枡で量るほどあったと伝わる。\n\nパウッルスは戦場で傷つき、逃げるよう勧める若い将校に「ローマに城壁を固めよと伝えよ」と言い残して死んだ。ウァッロは生き延び、ローマに戻ると元老院は「国家に絶望しなかったこと」を感謝して迎えた。\n\n南イタリアの多くの都市とカプア、そしてシラクサやマケドニアがカルタゴについた。それでもローマは講和に応じず、新たな軍団を作り直した。\n\n兵力 (目安): 50,000 対 86,000。損害: 6,000 対 50,000。",
+    "en": "Rome raised its largest army ever, eighty thousand, under two consuls, Paullus and Varro, commanding on alternate days. The Romans massed their foot deep and narrow to break the centre. [[p:ハンニバル|Hannibal]] set his Gauls and Iberians in the middle, bowed out towards the enemy, with African heavy infantry behind each end and cavalry on the wings.\n\nThe battle came on Varro's day. The Roman foot pushed in; the Carthaginian centre gave way without breaking, step by step, until the bow had become a bag. The Africans on either side turned inwards, and Hasdrubal's horse, having routed the Roman cavalry, closed the back. Packed too tight to fight, the Romans were cut down until nightfall.\n\nThat night the cavalry commander [[p:マハルバル|Maharbal]] urged an immediate march: \"In five days you will dine on the Capitol.\" When [[p:ハンニバル|Hannibal]] hesitated, he said: \"You know how to win a victory, [[p:ハンニバル|Hannibal]], but not how to use one.\"\n\nThe gold rings taken from the fingers of dead Roman knights, it is said, were poured out on the floor of the Carthaginian senate by the bushel.\n\nWounded, Paullus refused a young officer's horse: \"Tell Rome to look to its walls.\" Varro escaped; when he came home the senate went out to thank him \"for not despairing of the Republic\".\n\nMuch of southern Italy, Capua among it, went over to Carthage, followed by Syracuse and Macedon. Rome still would not treat, and built new legions.\n\nTroops (rough): 50,000 against 86,000. Losses: 6,000 against 50,000."
+   },
+   "people": [
+    "ハンニバル|Hannibal",
+    "ハスドルバル・バルカ|Hasdrubal Barca",
+    "マハルバル|Maharbal",
+    "ルキウス・アエミリウス・パウッルス|Lucius Aemilius Paullus"
+   ],
+   "related": [
+    "numidian",
+    "legion",
+    "balearic",
+    "gladius",
+    "double_envelopment"
+   ]
+  },
+  "battle_metaurus": {
+   "kind": "battle",
+   "title": {
+    "ja": "メタウルス川の戦い",
+    "en": "the battle of the Metaurus"
+   },
+   "body": {
+    "ja": "兄[[p:ハンニバル]]のもとへ向かうハスドルバルの使者が捕らえられ、合流の地が知れた。南で[[p:ハンニバル]]と向き合っていた執政官ネロは、陣を残したままひそかに七千の精兵を連れて北へ駆け、同僚リウィウスの陣に夜のうちに入った。ラッパが二度鳴るのを聞いたハスドルバルは執政官が二人いると悟って退こうとしたが、道に迷い、メタウルス川の岸で追いつかれた。ネロは戦列の右端から兵を回り込ませて側面を突いた。\n\nネロは討ち取ったハスドルバルの首を[[p:ハンニバル]]の陣に投げ込ませた。弟の首を見た[[p:ハンニバル]]は「カルタゴの運命が見えた」と言ったという。\n\n[[p:ハンニバル]]は援軍の望みを絶たれ、イタリアの南の端ブルッティウムに籠もった。\n\n兵力 (目安): 40,000 対 30,000。損害: 2,000 対 10,000。",
+    "en": "Hasdrubal's messengers to his brother were caught and the meeting place was known. The consul Nero, facing [[p:ハンニバル|Hannibal]] in the south, left his camp standing and rode north in secret with seven thousand picked men, slipping into his colleague Livius's camp by night. Hasdrubal heard the trumpet sound twice, knew both consuls were there and tried to withdraw, but lost his way and was caught on the bank of the Metaurus. Nero swung his men around from the far right and struck the flank.\n\nNero had Hasdrubal's head thrown into [[p:ハンニバル|Hannibal]]'s camp. Seeing his brother's face, [[p:ハンニバル|Hannibal]] said, so the story goes: \"I see the fate of Carthage.\"\n\nWith no hope of help, [[p:ハンニバル|Hannibal]] withdrew to Bruttium in the toe of Italy.\n\nTroops (rough): 40,000 against 30,000. Losses: 2,000 against 10,000."
+   },
+   "people": [
+    "ガイウス・クラウディウス・ネロ|Gaius Claudius Nero",
+    "ハスドルバル・バルカ|Hasdrubal Barca"
+   ],
+   "related": [
+    "war_elephants",
+    "legion"
+   ]
+  },
+  "battle_ilipa": {
+   "kind": "battle",
+   "title": {
+    "ja": "イリパの戦い",
+    "en": "the battle of Ilipa"
+   },
+   "body": {
+    "ja": "数日の間、スキピオは毎日遅くに陣を出て、ローマ兵を中央、スペイン兵を両翼に並べた。カルタゴも毎日同じ並びで応じた。決戦の日、スキピオは夜明け前に兵に食事をとらせて出撃し、並びを逆にした。精鋭のローマ兵が両翼でカルタゴの弱いスペイン兵に当たり、中央の強いアフリカ兵は弱いスペイン兵と向き合ったまま動けなかった。朝食もとれずに出たカルタゴ兵は昼過ぎには飢えと暑さで崩れた。\n\nカルタゴ・ノウァを落としたとき、スキピオは捕らえた美しい娘を許婚の若者のもとへ返し、身代金として贈られた金をそのまま結婚祝いに渡したという (スキピオの寛容)。\n\nカルタゴはイベリア半島を失った。スキピオはローマへ戻って執政官となり、アフリカへ渡る。\n\n兵力 (目安): 48,000 対 54,000。損害: 1,000 対 30,000。",
+    "en": "For days Scipio came out late, Romans in the centre, Spaniards on the wings, and the Carthaginians formed up the same way. On the day of battle he fed his men before dawn, came out early and reversed the order: his best Roman troops on the wings fell on Carthage's weaker Spaniards, while its strong African centre faced his Spaniards and could not move. The Carthaginians, out without breakfast, gave way to hunger and heat by early afternoon.\n\nWhen he took New Carthage, Scipio returned a beautiful captive to the young man she was betrothed to, and gave him the ransom gold as a wedding present — \"the continence of Scipio\".\n\nCarthage lost Iberia. Scipio went home, was elected consul and crossed to Africa.\n\nTroops (rough): 48,000 against 54,000. Losses: 1,000 against 30,000."
+   },
+   "people": [
+    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "ガイウス・ラエリウス|Gaius Laelius",
+    "ハスドルバル・ギスコ|Hasdrubal Gisco",
+    "マゴ・バルカ|Mago Barca"
+   ],
+   "related": [
+    "legion",
+    "war_elephants"
+   ]
+  },
+  "battle_zama": {
+   "kind": "battle",
+   "title": {
+    "ja": "ザマの戦い",
+    "en": "the battle of Zama"
+   },
+   "body": {
+    "ja": "[[p:ハンニバル]]は八十頭の象を先頭に、傭兵、カルタゴ市民兵、イタリアから連れ帰った古参兵の三列に並べた。スキピオは歩兵の中隊をいつもの市松模様ではなく、縦にまっすぐ並べて隙間に通り道を空け、軽装兵を置いた。両翼はラエリウスと[[p:マシニッサ]]の騎兵であった。\n\nラッパと角笛が一斉に鳴らされると、驚いた象は暴れ、多くは空けられた通り道を駆け抜けるか、自軍の騎兵に向かって逃げた。ラエリウスと[[p:マシニッサ]]は乱れたカルタゴ騎兵を戦場から追い出した。歩兵どうしの長い押し合いの末、戻ってきたローマとヌミディアの騎兵が[[p:ハンニバル]]の古参兵を背後から襲い、勝敗が決した。\n\n戦いの前、[[p:ハンニバル]]とスキピオは両軍の間で通訳だけを伴って会見した。後年、二人がエフェソスで再会したとき、スキピオが「史上最高の将は誰か」と問うと、[[p:ハンニバル]]は「アレクサンドロス、ピュロス、そして自分」と答え、「もしわたしを破っていなかったら?」と問われて「ならばわたしが一番だ」と答えたという (後世の逸話)。\n\nスキピオはこの勝利で「アフリカヌス」の名を贈られた。\n\nカルタゴは翌年講和し、海外の領土と艦隊を失って、ローマの許しなく戦争をしないと誓った。[[p:ハンニバル]]は国に残り、改革に取り組む。\n\n兵力 (目安): 35,000 対 40,000。損害: 2,500 対 20,000。",
+    "en": "[[p:ハンニバル|Hannibal]] put eighty elephants in front of three lines: mercenaries, Carthaginian citizens, and the veterans he had brought home from Italy. Scipio lined his maniples up straight one behind another instead of in the usual chequer, leaving lanes between them filled with light troops; Laelius and [[p:マシニッサ|Masinissa]] held the cavalry wings.\n\nTrumpets and horns blared all together; the frightened elephants ran wild, many down the open lanes, others back into their own cavalry. Laelius and [[p:マシニッサ|Masinissa]] drove the disordered Carthaginian horse from the field. After a long struggle of infantry against infantry the Roman and Numidian cavalry came back and fell on [[p:ハンニバル|Hannibal]]'s veterans from behind, and the day was decided.\n\nBefore the battle the two generals met between the armies with only interpreters. Years later, the story goes, they met again at Ephesus; asked who was the greatest general, [[p:ハンニバル|Hannibal]] said Alexander, Pyrrhus, and himself. \"And if you had beaten me?\" \"Then I would be first.\"\n\nScipio was given the name Africanus for this victory.\n\nCarthage made peace the next year, gave up its lands overseas and its fleet, and swore to make no war without Rome's leave. [[p:ハンニバル|Hannibal]] stayed and set about reform.\n\nTroops (rough): 35,000 against 40,000. Losses: 2,500 against 20,000."
+   },
+   "people": [
+    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "マシニッサ|Masinissa",
+    "ガイウス・ラエリウス|Gaius Laelius",
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "war_elephants",
+    "numidian",
+    "legion",
+    "war_elephants",
+    "numidian"
+   ]
+  },
+  "cunctator": {
+   "kind": "saying",
+   "title": {
+    "ja": "クンクタトル (ぐずぐず男)",
+    "en": "Cunctator — the Delayer"
+   },
+   "body": {
+    "ja": "トラシメヌスの大敗の後、独裁官となったファビウス・マクシムスは、ハンニバルとの決戦を避け続けた。山の上に陣を取ってハンニバルの後をつけ回し、食糧を集めに散った兵を討ち、補給を断つ。\n\nローマの人々は、敵が畑を焼くのを見ているだけの彼を「クンクタトル (ぐずぐず男)」と嘲った。ハンニバルはわざとファビウスの領地だけを焼かずに残し、彼が敵と通じているかのように見せかけた。ファビウスはその土地を売って、敵に捕らわれたローマ兵の身代金に充てたという。\n\nカンナエの大敗で、人々はファビウスが正しかったことを知った。詩人エンニウスは「ひとりの人がためらうことによって、我らに国を取り戻した」と歌い、「クンクタトル」は誉れの名となった。持久によって強敵を消耗させる戦い方は、今も「ファビウス戦略」と呼ばれる。",
+    "en": "After the disaster at Lake Trasimene, Fabius Maximus, now dictator, refused battle with Hannibal again and again — camping on the heights, dogging his steps, cutting down foragers, starving his supplies.\n\nThe Romans, watching him look on while the enemy burned their fields, mocked him as Cunctator, \"the Delayer\". Hannibal pointedly spared Fabius's own estates to make him look like a traitor; Fabius sold the land and used the money to ransom Roman prisoners, it is said.\n\nAfter Cannae the people knew he had been right. \"One man by delaying restored the state to us,\" sang the poet Ennius, and Cunctator became a name of honour. Wearing a stronger enemy down by refusing battle is still called a \"Fabian strategy\"."
+   },
+   "year": 217,
+   "people": [
+    "クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus",
+    "ハンニバル|Hannibal",
+    "エンニウス|Ennius"
+   ],
+   "related": [
+    "battle_trasimene",
+    "dictator",
+    "falernian"
+   ]
+  },
+  "double_envelopment": {
+   "kind": "story",
+   "title": {
+    "ja": "カンナエの包囲殲滅",
+    "en": "The encirclement at Cannae"
+   },
+   "body": {
+    "ja": "カンナエでハンニバルが見せた戦い方は、のちに「包囲殲滅」の手本となった。弱い中央を前に弓なりに張り出させ、わざとゆっくり押し込ませる。両端の強い歩兵が向き直って挟み、勝った騎兵が背後を閉じる。数で勝る敵が、その数ゆえに身動きできなくなる。\n\nこの形は二千年の間、軍人たちの研究の的となった。十九世紀のドイツの参謀シュリーフェンは『カンナエ』という研究書を書き、二十世紀の戦争でも「カンナエのような勝利」が目標として語られた。\n\nだがハンニバル自身は、この大勝利の後もローマを降らせることはできなかった。戦場での完全な勝利が、戦争の勝利と同じではないことも、カンナエは教えている。",
+    "en": "Hannibal's battle at Cannae became the model of encirclement: let a weak centre bow forward and give way slowly; let the strong infantry at its ends turn inward; let the victorious horse close the rear. A larger enemy is trapped by its own numbers.\n\nFor two thousand years soldiers studied it. The German staff officer Schlieffen wrote a book called Cannae, and twentieth-century wars spoke of \"a Cannae\" as the goal.\n\nYet Hannibal could not make Rome yield even after it. Cannae teaches too that a perfect victory on the field is not the same as winning the war."
+   },
+   "year": 216,
+   "people": [
+    "ハンニバル|Hannibal",
+    "ルキウス・アエミリウス・パウッルス|Lucius Aemilius Paullus",
+    "マハルバル|Maharbal"
+   ],
+   "related": [
+    "battle_cannae",
+    "legion",
+    "numidian"
+   ]
+  },
+  "hannibal_oath": {
+   "kind": "story",
+   "title": {
+    "ja": "ハンニバルの誓い",
+    "en": "Hannibal's oath"
+   },
+   "body": {
+    "ja": "ハンニバルが九歳のとき、父ハミルカル・バルカはイベリアへ渡る前に神々に犠牲を捧げた。父は幼い息子に一緒に行きたいかと尋ね、ハンニバルがせがむと、祭壇に手を置かせて「決してローマの友とならない」と誓わせた——ハンニバル自身が晩年、シリアの王アンティオコスにそう語ったと、ポリュビオスは書いている。\n\nその誓いのとおり、ハンニバルは生涯ローマと戦い続けた。ザマの敗戦の後もカルタゴの改革に取り組み、ローマに追われて東方へ逃れ、各地の王のもとでローマに抗った。\n\n前183年頃、小アジアのビテュニアに身を寄せていたハンニバルは、ローマへの引き渡しが迫ると、指輪に隠していた毒を仰いで命を絶った。「ローマ人を長い心配から解き放ってやろう。彼らは老人の死を待つのが待ちきれないらしい」と言い残したという。",
+    "en": "When Hannibal was nine, his father Hamilcar Barca sacrificed to the gods before crossing to Iberia. He asked the boy if he wanted to come, and when Hannibal begged to, made him lay his hand on the altar and swear never to be a friend to Rome — so Hannibal himself told King Antiochus of Syria in old age, Polybius writes.\n\nHe kept that oath all his life. After Zama he set about reforming Carthage; driven out by Rome he fled east, and opposed Rome at the courts of one king after another.\n\nAround 183 BC, sheltering in Bithynia in Asia Minor and about to be handed over, he took the poison he kept in his ring. \"Let us free the Romans from their long anxiety,\" he said, \"since they cannot wait for an old man's death.\""
+   },
+   "year": 237,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "spanish_silver",
+    "battle_zama"
+   ]
+  },
+  "ad_portas": {
+   "kind": "saying",
+   "title": {
+    "ja": "ハンニバルが門前に",
+    "en": "Hannibal ad portas"
+   },
+   "body": {
+    "ja": "前211年、ローマ軍はカンナエの後にカルタゴについたカプアを囲んでいた。カプアを救うため、ハンニバルは囲みを解かせようと、ローマそのものに向けて兵を進め、城壁から三マイルのアニオ川のほとりに陣を張った。\n\nローマの町は震え上がった。だがローマは、カプアを囲む軍を一兵も呼び戻さなかった。リウィウスによれば、ちょうどその頃、ハンニバルの陣が建っている土地が売りに出され、ふだんと変わらない値で買い手がついた。それを聞いたハンニバルは、逆にカルタゴの両替商の店のあるローマの広場の土地を売りに出させたという。\n\nハンニバルは引き揚げ、カプアは落ちた。「ハンニバルが門前に (ハンニバル・アド・ポルタス)」は、ローマで長く、子どもを叱るときや、危機が迫ったときの決まり文句として使われた。",
+    "en": "In 211 BC the Romans were besieging Capua, which had gone over to Carthage after Cannae. To draw them off, Hannibal marched on Rome itself and camped on the Anio, three miles from the walls.\n\nThe city trembled — but Rome did not recall a single soldier from Capua. At that very time, says Livy, the ground on which Hannibal's camp stood was put up for sale and fetched its ordinary price. Hearing it, Hannibal had the bankers' shops in the Roman Forum put up for sale in return.\n\nHe withdrew, and Capua fell. \"Hannibal at the gates\" long remained a Roman catchphrase — to scold children, or when danger loomed."
+   },
+   "year": 211,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "legion",
+    "coloniae"
+   ]
+  },
+  "alps": {
+   "kind": "story",
+   "title": {
+    "ja": "アルプス越え",
+    "en": "The crossing of the Alps"
+   },
+   "body": {
+    "ja": "前218年秋、ハンニバルは歩兵・騎兵と三十七頭の象を率いてアルプスに入った。山の民は崖の上から石を落とし、狭い道で荷を奪った。九日目に峠に着いたとき、雪が降り始めていた。\n\n下りはさらに過酷だった。崖崩れで道がふさがっていた。リウィウスは、ハンニバルが大木を切り倒して岩の上で燃やし、熱くなった岩に酢を注いで砕き、道を開いたと書く (本当かどうかは疑われている)。峠の上でハンニバルは兵たちに、眼下に広がるイタリアの平野を指し示し、「あれがローマの城壁だ」と励ましたという。\n\n十五日でアルプスを越えたとき、軍は歩兵二万、騎兵六千に減っていた。どの峠を越えたのかは今もはっきりせず、学者たちの議論が続いている。",
+    "en": "In the autumn of 218 BC Hannibal led his foot, his horse and thirty-seven elephants into the Alps. The mountain peoples rolled rocks down from the cliffs and plundered the baggage on the narrow paths. When he reached the pass on the ninth day, snow had begun to fall.\n\nThe descent was worse: a landslide had blocked the road. Livy writes that Hannibal felled great trees, burned them on the rock, poured vinegar on the hot stone and split it to open the way — a story much doubted. From the pass, they say, he pointed his men to the plains of Italy below: \"There are the walls of Rome.\"\n\nFifteen days after entering the Alps the army had shrunk to twenty thousand foot and six thousand horse. Which pass he crossed is still argued over."
+   },
+   "year": 218,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "war_elephants",
+    "battle_trebia",
+    "numidian"
+   ]
+  },
+  "carthago_delenda": {
+   "kind": "saying",
+   "title": {
+    "ja": "カルタゴは滅ぼされねばならない",
+    "en": "Carthage must be destroyed"
+   },
+   "body": {
+    "ja": "ザマの後、カルタゴは重い賠償を課されたが、商いで見る間に豊かさを取り戻した。五十年かけて払うはずの賠償金を、十年ほどで払い終えると申し出たほどであった。\n\n老いたカトは、使節としてカルタゴを訪れ、その繁栄を目にして危機を感じた。元老院で、カトは何の話をしていても、演説の終わりを必ずこう結んだという。「そしてやはり、カルタゴは滅ぼされねばならないと私は考える」。ある日は、カルタゴから持ち帰った見事ないちじくを議場で落として見せ、「これほどの果物の採れる国が、わずか三日の船旅の所にある」と言った。\n\n前149年、第三次ポエニ戦争が始まり、前146年、カルタゴは三年の包囲の末に落ち、町は焼かれた。最後の指揮をとったのは、ザマの勝者の孫 (養孫) スキピオ・アエミリアヌスであった。",
+    "en": "After Zama Carthage was burdened with a heavy indemnity, yet its trade restored its wealth astonishingly fast — it even offered to pay off in ten years what it owed over fifty.\n\nOld Cato, visiting Carthage as an envoy, saw its prosperity and feared it. In the senate, whatever the subject, he ended every speech the same way, it is said: \"And moreover, I think that Carthage must be destroyed.\" Once he let fall in the chamber some splendid figs brought back from Carthage: a land that grew such fruit lay only three days' sail away.\n\nThe Third Punic War began in 149 BC; in 146, after a three-year siege, Carthage fell and burned. The last commander was Scipio Aemilianus, adoptive grandson of the victor of Zama."
+   },
+   "year": 150,
+   "people": [
+    "マルクス・ポルキウス・カト|Marcus Porcius Cato",
+    "プブリウス・スキピオ|Publius Cornelius Scipio"
+   ],
+   "related": [
+    "punic_purple",
+    "battle_zama"
+   ]
   }
  },
  "goods": [

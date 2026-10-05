@@ -2515,8 +2515,8 @@
    ],
    "imp": 3,
    "at": "julu",
-   "ja": "鉅鹿の戦い。[[p:項羽]]は渡河すると船を沈め、釜を壊し、三日分の食糧だけを持たせて退路を断ち (破釜沈舟)、[[p:王離]]の秦軍を九度戦って破った。諸侯の将は膝で進んで[[p:項羽]]の陣に入り、顔を上げられなかったという。",
-   "en": "The battle of Julu. Once across the river [[p:項羽|Xiang Yu]] sank the boats and broke the cooking pots, leaving three days' food and no way back; he fought [[p:王離|Wang Li]]'s Qin army nine times and broke it. The other lords' generals came into his camp on their knees, it is said, and dared not look up."
+   "ja": "鉅鹿の戦い。[[p:項羽]]は渡河すると船を沈め、釜を壊し、三日分の食糧だけを持たせて退路を断ち ([[a:pofu|破釜沈舟]])、[[p:王離]]の秦軍を九度戦って破った。諸侯の将は膝で進んで[[p:項羽]]の陣に入り、顔を上げられなかったという。",
+   "en": "The battle of Julu. Once across the river [[p:項羽|Xiang Yu]] [[a:pofu|sank the boats and broke the cooking pots]], leaving three days' food and no way back; he fought [[p:王離|Wang Li]]'s Qin army nine times and broke it. The other lords' generals came into his camp on their knees, it is said, and dared not look up."
   },
   {
    "id": "zhang_han_surrenders",
@@ -2566,8 +2566,8 @@
    ],
    "imp": 3,
    "at": "xianyang",
-   "ja": "[[p:趙高]]は[[p:二世皇帝]]に鹿を献じて「馬です」と言い、鹿と答えた臣を陥れた (指鹿為馬)。やがて[[p:趙高]]は望夷宮で[[p:二世皇帝]]を自害させ、[[p:子嬰]]を立てた。[[p:子嬰]]は帝号を捨てて秦王と称し、[[p:趙高]]を誅した。",
-   "en": "[[p:趙高|Zhao Gao]] presented a deer to [[p:二世皇帝|the Second Emperor]] and called it a horse, and ruined those who said \"deer\". Soon he forced the emperor to kill himself in the Wangyi palace and set up [[p:子嬰|Ziying]], who gave up the imperial title for \"King of Qin\" — and had [[p:趙高|Zhao Gao]] put to death."
+   "ja": "[[p:趙高]]は[[p:二世皇帝]]に鹿を献じて「馬です」と言い、鹿と答えた臣を陥れた ([[a:zhilu|指鹿為馬]])。やがて[[p:趙高]]は望夷宮で[[p:二世皇帝]]を自害させ、[[p:子嬰]]を立てた。[[p:子嬰]]は帝号を捨てて秦王と称し、[[p:趙高]]を誅した。",
+   "en": "[[p:趙高|Zhao Gao]] presented a deer to [[p:二世皇帝|the Second Emperor]] and [[a:zhilu|called it a horse]], and ruined those who said \"deer\". Soon he forced the emperor to kill himself in the Wangyi palace and set up [[p:子嬰|Ziying]], who gave up the imperial title for \"King of Qin\" — and had [[p:趙高|Zhao Gao]] put to death."
   },
   {
    "id": "pei_enters",
@@ -2624,8 +2624,8 @@
    ],
    "imp": 3,
    "at": "hongmen",
-   "ja": "鴻門の会。関中を先に取られて怒る[[p:項羽]]のもとへ、[[p:劉邦]]は自ら謝罪に赴いた。[[p:范増]]は項荘に剣舞をさせて[[p:劉邦]]を討たせようとしたが、[[p:項伯]]が共に舞って庇い、[[p:樊噲]]が盾を持って乱入した。[[p:劉邦]]は厠に立つふりをして逃れた。[[p:范増]]は「豎子ともに謀るに足らず」と玉斗を砕いた。",
-   "en": "The feast at Hongmen. [[p:劉邦|Liu Bang]] came in person to apologise to [[p:項羽|Xiang Yu]], furious that Liu had reached the passes first. [[p:范増|Fan Zeng]] had Xiang Zhuang perform a sword dance to kill him; [[p:項伯|Xiang Bo]] danced too and shielded him, and [[p:樊噲|Fan Kuai]] burst in with his shield. [[p:劉邦|Liu Bang]] slipped away as if to the privy. \"The boy is not worth plotting with,\" [[p:范増|Fan Zeng]] said, and smashed his jade cup."
+   "ja": "[[a:hongmen|鴻門の会]]。関中を先に取られて怒る[[p:項羽]]のもとへ、[[p:劉邦]]は自ら謝罪に赴いた。[[p:范増]]は項荘に剣舞をさせて[[p:劉邦]]を討たせようとしたが、[[p:項伯]]が共に舞って庇い、[[p:樊噲]]が盾を持って乱入した。[[p:劉邦]]は厠に立つふりをして逃れた。[[p:范増]]は「豎子ともに謀るに足らず」と玉斗を砕いた。",
+   "en": "[[a:hongmen|The feast at Hongmen]]. [[p:劉邦|Liu Bang]] came in person to apologise to [[p:項羽|Xiang Yu]], furious that Liu had reached the passes first. [[p:范増|Fan Zeng]] had Xiang Zhuang perform a sword dance to kill him; [[p:項伯|Xiang Bo]] danced too and shielded him, and [[p:樊噲|Fan Kuai]] burst in with his shield. [[p:劉邦|Liu Bang]] slipped away as if to the privy. \"The boy is not worth plotting with,\" [[p:范増|Fan Zeng]] said, and smashed his jade cup."
   },
   {
    "id": "qin_end",
@@ -3074,8 +3074,8 @@
    ],
    "imp": 3,
    "at": "jingxing",
-   "ja": "井陘の戦い。[[p:韓信]]は川を背に陣を敷き (背水の陣)、退けない兵を死に物狂いで戦わせる間に、別働隊に趙の城の旗を漢の赤旗に変えさせた。趙軍は総崩れとなり、[[p:陳余]]は討たれ、趙王歇は捕らえられた。",
-   "en": "The battle of Jingxing. [[p:韓信|Han Xin]] drew up with a river at his back, so his men could not retreat and fought like the desperate, while a detachment swapped the flags on the Zhao fortress for the red flags of Han. The Zhao army fell apart; [[p:陳余|Chen Yu]] was killed and [[p:趙歇|Zhao Xie]], King of Zhao, captured."
+   "ja": "井陘の戦い。[[p:韓信]]は川を背に陣を敷き ([[a:beishui|背水の陣]])、退けない兵を死に物狂いで戦わせる間に、別働隊に趙の城の旗を漢の赤旗に変えさせた。趙軍は総崩れとなり、[[p:陳余]]は討たれ、趙王歇は捕らえられた。",
+   "en": "The battle of Jingxing. [[p:韓信|Han Xin]] drew up [[a:beishui|with a river at his back]], so his men could not retreat and fought like the desperate, while a detachment swapped the flags on the Zhao fortress for the red flags of Han. The Zhao army fell apart; [[p:陳余|Chen Yu]] was killed and [[p:趙歇|Zhao Xie]], King of Zhao, captured."
   },
   {
    "id": "ying_bu",
@@ -3240,8 +3240,8 @@
    ],
    "imp": 3,
    "at": "gaixia",
-   "ja": "垓下の戦い。和約を破って追撃した漢軍と[[p:韓信]]・[[p:彭越]]の軍に囲まれた[[p:項羽]]は、夜、四方の漢軍から楚の歌が聞こえるのを聞き (四面楚歌)、「力は山を抜き気は世を蓋う」と歌って[[p:虞美人]]と別れた。烏江のほとりで、渡しを勧める亭長に「[[a:jiangdong|江東]]の父兄に合わせる顔がない」と答え、自ら首を刎ねた。",
-   "en": "Gaixia. Breaking the peace, the Han army, with [[p:韓信|Han Xin]] and [[p:彭越|Peng Yue]], surrounded [[p:項羽|Xiang Yu]]. At night he heard Chu songs from every side of the Han camp, sang \"My strength could uproot mountains, my spirit overtopped the world,\" and parted from [[p:虞美人|Lady Yu]]. On the bank of the Wu river he refused the ferryman's boat — \"I cannot face the elders [[a:jiangdong|east of the river]]\" — and cut his own throat."
+   "ja": "垓下の戦い。和約を破って追撃した漢軍と[[p:韓信]]・[[p:彭越]]の軍に囲まれた[[p:項羽]]は、夜、四方の漢軍から楚の歌が聞こえるのを聞き ([[a:simian|四面楚歌]])、「力は山を抜き気は世を蓋う」と歌って[[p:虞美人]]と別れた。烏江のほとりで、渡しを勧める亭長に「[[a:jiangdong|江東]]の父兄に合わせる顔がない」と答え、自ら首を刎ねた。",
+   "en": "Gaixia. Breaking the peace, the Han army, with [[p:韓信|Han Xin]] and [[p:彭越|Peng Yue]], surrounded [[p:項羽|Xiang Yu]]. At night he [[a:simian|heard Chu songs from every side]] of the Han camp, sang \"My strength could uproot mountains, my spirit overtopped the world,\" and parted from [[p:虞美人|Lady Yu]]. On the bank of the Wu river he refused the ferryman's boat — \"I cannot face the elders [[a:jiangdong|east of the river]]\" — and cut his own throat."
   },
   {
    "id": "emperor",
@@ -4056,6 +4056,288 @@
    ],
    "related": [
     "lishan"
+   ]
+  },
+  "battle_julu": {
+   "kind": "battle",
+   "title": {
+    "ja": "鉅鹿の戦い",
+    "en": "the battle of Julu"
+   },
+   "body": {
+    "ja": "秦の[[p:王離]]は二十万で鉅鹿の趙を囲み、[[p:章邯]]が甬道 (壁で囲った補給路) で兵糧を送っていた。救援の諸侯の軍は十余りの陣を並べながら、誰も動かなかった。楚の将[[p:宋義]]も四十六日間進まなかった。\n\n[[p:項羽]]は[[p:宋義]]を斬って全軍を握ると、[[p:英布]]らに河を渡らせて甬道を断たせ、自らも全軍で渡河した。渡り終えると船を沈め、釜と甑を壊し、宿営を焼き、三日分の食糧だけを持たせた (破釜沈舟)。楚兵は「一人で十人に当たり」、九度戦って秦軍を破り、[[p:王離]]を捕らえた。\n\n戦いの間、諸侯の将たちは自陣の塁の上から見物するばかりであった。戦いの後、[[p:項羽]]の陣に呼ばれた彼らは、膝で這って進み、顔を上げることもできなかった。\n\n[[p:章邯]]は二十万とともに降ったが、[[p:項羽]]は新安でその兵を夜のうちに穴埋めにしたと伝わる。[[p:項羽]]は諸侯の上将軍となった。\n\n兵力 (目安): 50,000 対 300,000。損害: 10,000 対 100,000。",
+    "en": "[[p:王離|Wang Li]] of Qin had Julu and the King of Zhao besieged with two hundred thousand, fed by [[p:章邯|Zhang Han]] along a walled supply road. More than ten armies of the lords had come to help and sat in their camps; the Chu general [[p:宋義|Song Yi]] waited forty-six days without moving.\n\n[[p:項羽|Xiang Yu]] killed [[p:宋義|Song Yi]], took the army, sent [[p:英布|Ying Bu]] ahead across the river to cut the supply road, and crossed with everyone. Then he sank the boats, smashed the cooking pots, burned the huts, and gave each man three days' food. \"Each man of Chu fought ten,\" and in nine fights they broke the Qin army and took [[p:王離|Wang Li]] prisoner.\n\nAll through the battle the generals of the lords only watched from their ramparts. Afterwards, summoned to [[p:項羽|Xiang Yu]]'s camp, they came in on their knees and dared not look up.\n\n[[p:章邯|Zhang Han]] surrendered with two hundred thousand men; at Xin'an, the records say, [[p:項羽|Xiang Yu]] had them buried alive in a night. He became supreme general of the lords.\n\nTroops (rough): 50,000 against 300,000. Losses: 10,000 against 100,000."
+   },
+   "people": [
+    "項羽|Xiang Yu",
+    "英布|Ying Bu",
+    "范増|Fan Zeng",
+    "章邯|Zhang Han",
+    "王離|Wang Li"
+   ],
+   "related": [
+    "jiangdong",
+    "pofu"
+   ]
+  },
+  "battle_pengcheng": {
+   "kind": "battle",
+   "title": {
+    "ja": "彭城の戦い",
+    "en": "the battle of Pengcheng"
+   },
+   "body": {
+    "ja": "[[p:項羽]]が斉で[[p:田栄]]と戦っている間に、[[p:劉邦]]は五諸侯の兵五十六万を率いて楚の都彭城に入った。[[p:劉邦]]は財宝と美女を収め、毎日酒宴を開いた。\n\n[[p:項羽]]は精鋭三万騎だけを率いて引き返し、夜明けに西から奇襲した。昼までに漢軍は崩れ、穀水・泗水と睢水に追い落とされた十万余りの屍で、睢水の流れがせき止められたという。\n\n楚軍に三重に囲まれた[[p:劉邦]]を、西北から吹いた大風が救った。木を折り家を倒し、砂を巻き上げて昼を夜のように暗くしたため、[[p:劉邦]]は数十騎で囲みを抜けた。\n\n逃げる車が重いと、[[p:劉邦]]は自分の子 (のちの恵帝と魯元公主) を三度も車から突き落とし、そのたびに御者の[[p:夏侯嬰]]が拾い上げた。\n\n[[p:劉邦]]の父と妻[[p:呂雉]]は楚の捕虜となり、諸侯の多くは楚へ寝返った。[[p:劉邦]]は滎陽で長い持久戦に入る。\n\n兵力 (目安): 30,000 対 560,000。損害: 2,000 対 200,000。",
+    "en": "While [[p:項羽|Xiang Yu]] fought [[p:田栄|Tian Rong]] in Qi, [[p:劉邦|Liu Bang]] led the armies of five lords, five hundred and sixty thousand men, into the Chu capital Pengcheng, took its treasure and its women, and feasted every day.\n\n[[p:項羽|Xiang Yu]] came back with only thirty thousand picked horse and struck from the west at dawn. By noon the Han army had broken; driven into the Gu, the Si and the Sui, more than a hundred thousand drowned, and the Sui, they say, was dammed with bodies.\n\nSurrounded three deep, [[p:劉邦|Liu Bang]] was saved by a great wind from the northwest that broke trees and flattened houses and filled the day with sand like night; he slipped away with a few dozen horsemen.\n\nTo lighten his carriage [[p:劉邦|Liu Bang]] three times pushed his own children — the future Emperor Hui and Princess Luyuan — out of it, and three times the driver [[p:夏侯嬰|Xiahou Ying]] picked them up.\n\n[[p:劉邦|Liu Bang]]'s father and his wife [[p:呂雉|Lü Zhi]] were taken by Chu, and most of the lords went over to [[p:項羽|Xiang Yu]]. [[p:劉邦|Liu Bang]] dug in at Xingyang for a long war.\n\nTroops (rough): 30,000 against 560,000. Losses: 2,000 against 200,000."
+   },
+   "people": [
+    "項羽|Xiang Yu",
+    "龍且|Long Ju",
+    "鍾離眜|Zhongli Mo",
+    "劉邦|Liu Bang",
+    "張良|Zhang Liang",
+    "樊噲|Fan Kuai",
+    "夏侯嬰|Xiahou Ying"
+   ],
+   "related": [
+    "jiangdong"
+   ]
+  },
+  "battle_jingxing": {
+   "kind": "battle",
+   "title": {
+    "ja": "井陘の戦い",
+    "en": "the battle of Jingxing"
+   },
+   "body": {
+    "ja": "[[p:韓信]]は数万で太行山の狭い井陘口を越えて趙へ向かった。趙は二十万と号する兵を口の出口に集めた。趙の李左車は「道は狭く兵糧は後ろに残る。三万で退路を断てば十日で[[p:韓信]]の首を取れる」と説いたが、[[p:陳余]]は「義兵は詐謀を用いない」と退けた。\n\n[[p:韓信]]は夜のうちに二千の騎兵にそれぞれ漢の赤い旗を持たせて山に潜ませた。朝、一万の兵に川を背にして陣を敷かせると、趙兵は兵法を知らぬと笑った。[[p:韓信]]は大将の旗を立てて打って出、わざと負けて川辺の陣へ逃げ込んだ。逃げ場のない兵は死に物狂いで戦った。その間に伏兵が空になった趙の砦に入り、漢の旗二千本を立てた。振り返った趙兵は砦が落ちたと思い込み、総崩れとなった。\n\n勝った後、将たちが「兵法では山を背にし水を前にせよと言うのに」と尋ねると、[[p:韓信]]は「兵法に『死地に陥れて後に生く』とあるではないか。寄せ集めの兵は、死地に置かねば逃げ散るのだ」と答えた (背水の陣)。\n\n[[p:韓信]]は捕らえた李左車の縄を自ら解いて師の礼で迎え、燕を攻める策を問うた。李左車は「敗軍の将は兵を語らず」と一度は断ったが、のちに戦わずして燕を降す策を授けた。\n\n[[p:陳余]]は泜水のほとりで斬られ、趙王歇は捕らえられた。燕は使者一人で降った。\n\n兵力 (目安): 30,000 対 200,000。損害: 2,000 対 100,000。",
+    "en": "[[p:韓信|Han Xin]] crossed the narrow Jingxing pass in the Taihang mountains with a few tens of thousands. Zhao gathered a host said to be two hundred thousand at its mouth. Li Zuoju urged [[p:陳余|Chen Yu]] to send thirty thousand to cut the road behind — \"the pass is narrow, his grain is in the rear; in ten days I will bring you his head\" — but [[p:陳余|Chen Yu]] replied that a righteous army does not use tricks.\n\nBy night [[p:韓信|Han Xin]] hid two thousand horsemen in the hills, each with a red Han flag. In the morning he set ten thousand men with their backs to the river; the Zhao soldiers laughed at a general who knew nothing of war. He came out under his own standard, gave way on purpose and fell back into the river camp, where men with nowhere to run fought for their lives. Meanwhile the hidden horsemen rode into the emptied Zhao forts and raised two thousand Han flags. Looking back, the Zhao army thought its camp had fallen and broke.\n\nAfterwards his officers asked why he had broken the rule of keeping hills behind and water in front. \"Does the art of war not say: put them on deadly ground, and they will live? My men were a rabble; anywhere else they would have run.\" — the origin of \"back to the water\".\n\n[[p:韓信|Han Xin]] untied the captive Li Zuoju with his own hands, sat him as a teacher and asked how to take Yan. \"A beaten general does not talk of war,\" Li said at first — then gave him a plan that won Yan without a fight.\n\n[[p:陳余|Chen Yu]] was beheaded by the Zhi river and King Xie of Zhao captured; Yan surrendered to a single envoy.\n\nTroops (rough): 30,000 against 200,000. Losses: 2,000 against 100,000."
+   },
+   "people": [
+    "韓信|Han Xin",
+    "張耳|Zhang Er",
+    "陳余|Chen Yu",
+    "趙歇|Zhao Xie"
+   ],
+   "related": [
+    "beishui"
+   ]
+  },
+  "battle_weishui": {
+   "kind": "battle",
+   "title": {
+    "ja": "濰水の戦い",
+    "en": "the battle of the Wei river"
+   },
+   "body": {
+    "ja": "[[p:韓信]]は夜のうちに一万余りの土嚢で濰水の上流をせき止めさせた。翌朝、兵を率いて半ば川を渡って打ちかかり、すぐに負けたふりをして退いた。[[p:龍且]]は「[[p:韓信]]が臆病なのは知っている」と追って渡り始めた。そこで土嚢を切ると水がどっと流れ下り、楚軍の大半は渡れずに分断された。渡った[[p:龍且]]は討たれた。\n\nこの勝利の後、[[p:韓信]]は[[p:劉邦]]に「斉は偽りの多い国、仮の王を置かねば治まりません」と斉王の位を求めた。[[p:劉邦]]は怒りかけたが、[[p:張良]]と[[p:陳平]]に足を踏まれて気づき、「どうせなら本当の王になれ」と言い直した。\n\n[[p:蒯通]]は[[p:韓信]]に「天下を三分して、漢・楚と鼎の足のように立て」と説いたが、[[p:韓信]]は[[p:劉邦]]の恩を思って従わなかった。\n\n斉は[[p:韓信]]のものとなり、楚は東の守りを失った。[[p:項羽]]は和を求め、天下を鴻溝で二分する約が結ばれる。\n\n兵力 (目安): 50,000 対 200,000。損害: 2,000 対 100,000。",
+    "en": "By night [[p:韓信|Han Xin]] had the Wei river dammed upstream with more than ten thousand sandbags. In the morning he led his men half across, attacked, and soon fell back as if beaten. \"I always knew [[p:韓信|Han Xin]] was a coward,\" said [[p:龍且|Long Ju]], and followed him into the river. Then the sandbags were cut; the water came down and split the Chu army, most of it unable to cross. [[p:龍且|Long Ju]], on the near bank, was killed.\n\nAfter the victory [[p:韓信|Han Xin]] asked [[p:劉邦|Liu Bang]] to make him \"acting king\" of Qi, a treacherous land. [[p:劉邦|Liu Bang]] began to rage — until [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]] trod on his foot — and said instead: \"Why acting? Be a real king.\"\n\n[[p:蒯通|Kuai Tong]] urged [[p:韓信|Han Xin]] to split the realm in three and stand with Han and Chu like the legs of a tripod; remembering what he owed [[p:劉邦|Liu Bang]], [[p:韓信|Han Xin]] refused.\n\nQi fell to [[p:韓信|Han Xin]] and Chu lost its eastern shield. [[p:項羽|Xiang Yu]] sought peace, and the realm was divided at the Hong canal.\n\nTroops (rough): 50,000 against 200,000. Losses: 2,000 against 100,000."
+   },
+   "people": [
+    "韓信|Han Xin",
+    "曹参|Cao Shen",
+    "灌嬰|Guan Ying",
+    "龍且|Long Ju"
+   ],
+   "related": []
+  },
+  "battle_gaixia": {
+   "kind": "battle",
+   "title": {
+    "ja": "垓下の戦い",
+    "en": "the battle of Gaixia"
+   },
+   "body": {
+    "ja": "鴻溝の約を破った[[p:劉邦]]は[[p:項羽]]を追い、[[p:韓信]]・[[p:彭越]]・[[p:英布]]の軍が合流した。[[p:韓信]]が三十万で中央に立ち、孔将軍・費将軍が左右を固め、[[p:劉邦]]がその後ろにいた。\n\n[[p:韓信]]は中央を退かせて楚軍を誘い込み、左右の軍に挟ませた。楚軍は垓下の塁に追い込まれ、兵は少なく、食糧も尽きた。夜、四方を囲む漢軍の中から楚の歌が聞こえてきた。\n\n「漢はもう楚を取ったのか、なんと楚人の多いことか」。四面楚歌を聞いた[[p:項羽]]は帳の中で酒を飲み、「力は山を抜き、気は世を蓋う……虞や虞や汝を如何せん」と歌った。左右の者はみな泣いた。\n\n[[p:項羽]]は八百騎で囲みを破って南へ逃れたが、田の老人に道を偽られて沼地に迷い込んだ。東城で二十八騎になると「天が我を亡ぼすのであって、戦が拙いのではない」と言い、三度囲みを破って証を見せた。\n\n烏江の亭長は舟を用意して江東へ渡るよう勧めたが、[[p:項羽]]は「江東の子弟八千と渡ったのに、今一人も還らない。何の面目があって父兄に会えようか」と笑って断り、愛馬の騅を亭長に贈り、自ら首を刎ねた。\n\n楚は滅び、[[p:劉邦]]は皇帝の位についた。漢の四百年が始まる。\n\n兵力 (目安): 300,000 対 100,000。損害: 20,000 対 80,000。",
+    "en": "Breaking the treaty of the Hong canal, [[p:劉邦|Liu Bang]] went after [[p:項羽|Xiang Yu]] and was joined by the armies of [[p:韓信|Han Xin]], [[p:彭越|Peng Yue]] and [[p:英布|Ying Bu]]. [[p:韓信|Han Xin]] stood in the centre with three hundred thousand, Generals Kong and Fei on his wings, [[p:劉邦|Liu Bang]] behind.\n\n[[p:韓信|Han Xin]] let his centre give ground, drew the Chu army in and closed the wings on it. Driven back into its ramparts at Gaixia, Chu had few men and no food. At night, from the Han army all around, came the songs of Chu.\n\n\"Has Han taken Chu already? How many men of Chu there are!\" Hearing Chu songs on every side, [[p:項羽|Xiang Yu]] drank in his tent and sang: \"My strength could uproot mountains, my spirit overtop the world… Yu, my Yu, what will become of you?\" Everyone around him wept.\n\n[[p:項羽|Xiang Yu]] broke out with eight hundred horse and fled south, but an old farmer misled him into a marsh. Down to twenty-eight riders at Dongcheng, he said: \"It is heaven that destroys me, not my skill at war,\" and broke the ring three times to prove it.\n\nAt the Wu river the ferry master had a boat ready to take him home. [[p:項羽|Xiang Yu]] laughed: \"Eight thousand young men of the south crossed with me, and not one returns; how could I face their fathers?\" He gave his horse Zhui to the ferryman, and cut his own throat.\n\nChu was gone and [[p:劉邦|Liu Bang]] took the imperial throne; four hundred years of Han began.\n\nTroops (rough): 300,000 against 100,000. Losses: 20,000 against 80,000."
+   },
+   "people": [
+    "韓信|Han Xin",
+    "劉邦|Liu Bang",
+    "周勃|Zhou Bo",
+    "灌嬰|Guan Ying",
+    "彭越|Peng Yue",
+    "英布|Ying Bu",
+    "項羽|Xiang Yu",
+    "鍾離眜|Zhongli Mo",
+    "季布|Ji Bu",
+    "虞美人|Lady Yu"
+   ],
+   "related": [
+    "jiangdong",
+    "loufan",
+    "simian"
+   ]
+  },
+  "pofu": {
+   "kind": "saying",
+   "title": {
+    "ja": "破釜沈舟",
+    "en": "Smash the pots, sink the boats"
+   },
+   "body": {
+    "ja": "前207年、鉅鹿の救援に向かった項羽は、全軍で漳河を渡り終えると、乗ってきた船をすべて沈め、飯を炊く釜と甑を叩き壊し、宿営の小屋を焼き払い、兵には三日分の食糧だけを持たせた。\n\n退く道も、長く留まる手立てもない。兵たちは、勝つか死ぬかしかないと知った。楚兵は「一人で十人に当たり」、叫び声は天を震わせた。九度の戦いで秦軍を破り、王離を捕らえた。\n\n「破釜沈舟」は、退路を断って決死の覚悟で事に当たることのたとえとなった。同じく韓信の「背水の陣」と並んで語られる。",
+    "en": "In 207 BC, marching to relieve Julu, Xiang Yu took his whole army across the Zhang river — and then sank every boat, smashed the cooking pots and steamers, burned the huts and gave each man three days' food.\n\nThere was no way back and no means to stay long; the soldiers knew it was win or die. The men of Chu \"each fought ten\" and their shouts shook heaven. In nine fights they broke the Qin army and took Wang Li.\n\n\"Smash the pots and sink the boats\" became the byword for cutting off retreat and staking everything — told together with Han Xin's \"back to the water\"."
+   },
+   "year": 207,
+   "people": [
+    "項羽|Xiang Yu",
+    "王離|Wang Li",
+    "英布|Ying Bu"
+   ],
+   "related": [
+    "battle_julu",
+    "beishui",
+    "jiangdong"
+   ]
+  },
+  "beishui": {
+   "kind": "saying",
+   "title": {
+    "ja": "背水の陣",
+    "en": "Back to the water"
+   },
+   "body": {
+    "ja": "前205年、井陘で趙の大軍と向き合った韓信は、一万の兵に川を背にして陣を敷かせた。兵法では「山を背にし、水を前にせよ」と教える。趙の将たちはそれを見て、韓信は兵法を知らないと大笑いした。\n\nだが逃げ場のない兵は死に物狂いで戦い、その間に伏せていた二千騎が空になった趙の砦を奪って漢の赤旗を立てた。趙軍は崩れた。\n\n将たちに理由を問われた韓信は答えた。「兵法に『これを死地に陥れて而る後に生き、これを亡地に置きて而る後に存す』とあるではないか。私の兵は訓練を積んだ兵ではない。市場の人々を駆り立てて戦わせたようなものだ。死地に置かなければ、みな逃げてしまう」。「背水の陣」は、もう後がない覚悟で臨むことのたとえとなった。",
+    "en": "In 205 BC, facing the great army of Zhao at Jingxing, Han Xin drew up ten thousand men with a river at their backs. The art of war says: hills behind, water before. The Zhao generals laughed at a man who knew nothing of war.\n\nBut men with nowhere to run fought like madmen, and meanwhile two thousand hidden horsemen took the emptied Zhao forts and raised the red flags of Han. The Zhao army broke.\n\nAsked why, Han Xin answered: \"Does the art of war not say: put them on deadly ground and they will live, place them where they must perish and they will survive? My men were not trained soldiers; it was like driving the people of a market to battle. Anywhere but deadly ground, they would all have run.\" \"Back to the water\" means facing a thing with no way back."
+   },
+   "year": 205,
+   "people": [
+    "韓信|Han Xin",
+    "張耳|Zhang Er",
+    "陳余|Chen Yu"
+   ],
+   "related": [
+    "battle_jingxing",
+    "pofu",
+    "kuaxia"
+   ]
+  },
+  "simian": {
+   "kind": "saying",
+   "title": {
+    "ja": "四面楚歌",
+    "en": "Songs of Chu on every side"
+   },
+   "body": {
+    "ja": "前202年、垓下の塁に追い込まれた項羽の軍は、兵は少なく食糧も尽きた。夜、四方を囲む漢軍の中から、楚の国の歌が聞こえてきた。\n\n項羽は大いに驚いた。「漢はもう楚を取ってしまったのか。なんと楚の人の多いことか」。項羽は起きて帳の中で酒を飲み、愛する虞美人と名馬の騅を前に、歌った。「力は山を抜き、気は世を蓋う。時に利あらず、騅逝かず。騅の逝かざる奈何すべき、虞や虞や汝を奈何せん」。虞美人も唱和し、項羽の頬を涙が流れ、左右の者もみな泣いた。\n\n漢軍が楚の歌を歌ったのは、降った楚兵が多かったからとも、張良の策で楚兵の心を挫くためだったとも言われる。「四面楚歌」は、まわりが敵ばかりで孤立することのたとえとなった。",
+    "en": "In 202 BC Xiang Yu's army, driven back into its ramparts at Gaixia, had few men and no food. At night, from the Han army all around, came the songs of Chu.\n\nXiang Yu was dismayed: \"Has Han taken all Chu? How many men of Chu there are!\" He rose and drank in his tent with Lady Yu, whom he loved, and his great horse Zhui before him, and sang: \"My strength could uproot mountains, my spirit overtopped the world; but the times are against me and Zhui will not go on. If Zhui will not go on, what can I do? Yu, my Yu, what will become of you?\" Lady Yu sang with him; tears ran down his face, and everyone around him wept.\n\nHan sang the songs of Chu because so many Chu soldiers had surrendered, some say, or on Zhang Liang's plan to break their hearts. \"Songs of Chu on every side\" means being alone among enemies."
+   },
+   "year": 202,
+   "people": [
+    "項羽|Xiang Yu",
+    "虞美人|Lady Yu",
+    "張良|Zhang Liang",
+    "韓信|Han Xin"
+   ],
+   "related": [
+    "battle_gaixia",
+    "jiangdong"
+   ]
+  },
+  "hongmen": {
+   "kind": "story",
+   "title": {
+    "ja": "鴻門の会",
+    "en": "The feast at Hongmen"
+   },
+   "body": {
+    "ja": "前206年、先に関中に入った劉邦に、項羽は激怒した。四十万の項羽軍に対し、劉邦は十万。項羽の叔父項伯から知らせを受けた張良の勧めで、劉邦は自ら鴻門の項羽の陣へ謝りに行った。\n\n宴の席で、軍師の范増は何度も玉玦 (腰の玉) を挙げて項羽に「決めよ」と合図したが、項羽は応じない。范増は項羽のいとこ項荘に剣舞をさせて劉邦を斬らせようとした。「項荘剣を抜いて舞うは、意沛公に在り」。すると項伯も剣を抜いて舞い、身をもって劉邦をかばった。\n\n張良の知らせで、樊噲が盾を持って宴に押し入り、目をむいて項羽をにらみつけた。項羽は「壮士なり」と酒と生の豚の肩肉を与え、樊噲は盾の上で肉を切って食べ尽くした。劉邦は厠に立つふりをして抜け出し、近道を駆けて自陣に帰った。贈り物の玉の杯を受け取った范増はそれを地に投げて剣で砕き、「小僧とは共に謀るに足りぬ。天下を奪う者は必ず沛公だ」と言った。",
+    "en": "In 206 BC Xiang Yu was furious that Liu Bang had entered Guanzhong first. Xiang Yu had four hundred thousand men, Liu Bang a hundred thousand. Warned by Xiang Yu's uncle Xiang Bo, Zhang Liang advised Liu Bang to go in person to Xiang Yu's camp at Hongmen and apologise.\n\nAt the feast Fan Zeng raised his jade ring again and again as a signal — decide! — but Xiang Yu would not. Fan Zeng had Xiang Yu's cousin Xiang Zhuang perform a sword dance to cut Liu Bang down: \"Xiang Zhuang dances with his sword, but his mind is on the Lord of Pei.\" Then Xiang Bo drew his sword too and danced, shielding Liu Bang with his body.\n\nCalled by Zhang Liang, Fan Kuai burst in with his shield and glared at Xiang Yu. \"A hero!\" said Xiang Yu, and gave him wine and a raw shoulder of pork; Fan Kuai carved it on his shield and ate it all. Liu Bang slipped out as if to the privy and ran back to his camp by a short path. Given a jade cup as a parting gift, Fan Zeng threw it down and smashed it with his sword: \"The boy is not worth plotting with. The one who takes the realm from him will be the Lord of Pei.\""
+   },
+   "year": 206,
+   "people": [
+    "劉邦|Liu Bang",
+    "項羽|Xiang Yu",
+    "范増|Fan Zeng",
+    "項伯|Xiang Bo",
+    "張良|Zhang Liang",
+    "樊噲|Fan Kuai"
+   ],
+   "related": [
+    "afang",
+    "simian"
+   ]
+  },
+  "zhilu": {
+   "kind": "saying",
+   "title": {
+    "ja": "鹿を指して馬と為す",
+    "en": "Calling a deer a horse"
+   },
+   "body": {
+    "ja": "始皇帝の死後、宦官の趙高は李斯と組んで遺詔を偽り、胡亥を二世皇帝に立て、やがて李斯をも陥れて丞相となった。\n\nある日、趙高は二世皇帝に一頭の鹿を献じて「馬でございます」と言った。皇帝は笑って「丞相の間違いだろう。鹿を馬と言うとは」と左右に問うた。黙る者、趙高にこびて「馬です」と言う者、正直に「鹿です」と答える者がいた。趙高は「鹿」と答えた者をのちにひそかに罪に陥れた。それ以来、群臣は皆趙高を恐れた。\n\n「指鹿為馬」は、権力で人に間違いを押しつけること、また白を黒と言いくるめることのたとえとなった。日本語の「馬鹿」の語源をこの話とする説もあるが、確かではない。",
+    "en": "After the First Emperor's death the eunuch Zhao Gao, with Li Si, forged his will, made Huhai the Second Emperor, and then brought down Li Si too and became chancellor.\n\nOne day Zhao Gao presented the emperor with a deer and said: \"A horse.\" The emperor laughed — surely the chancellor was mistaken, calling a deer a horse — and asked those around him. Some kept silent; some, to please Zhao Gao, said \"a horse\"; some honestly said \"a deer\". Zhao Gao later had those who said \"deer\" quietly ruined, and from then on every minister feared him.\n\n\"Pointing at a deer and calling it a horse\" means forcing a falsehood on others by power, or passing off black as white. Some trace the Japanese word for \"fool\", baka (horse-deer), to this story — uncertainly."
+   },
+   "year": 207,
+   "people": [
+    "趙高|Zhao Gao",
+    "李斯|Li Si",
+    "二世皇帝|the Second Emperor",
+    "子嬰|Ziying"
+   ],
+   "related": [
+    "qin_law",
+    "great_wall"
+   ]
+  },
+  "yanque": {
+   "kind": "saying",
+   "title": {
+    "ja": "燕雀安んぞ鴻鵠の志を知らんや",
+    "en": "How can sparrows know the swan's ambition?"
+   },
+   "body": {
+    "ja": "若い頃の陳勝は、人に雇われて畑を耕す身であった。ある日、仕事の手を休めて畦に上がり、しばらく嘆いてから仲間に言った。「もし富貴になっても、互いに忘れまいな」。仲間は笑った。「雇われて耕しているくせに、何が富貴だ」。\n\n陳勝はため息をついて言った。「ああ、燕や雀に、どうして大鳥の志が分かろうか」。\n\n前209年、辺境の守りに向かう途中、大雨で期日に遅れた陳勝と呉広は、「王侯将相いずくんぞ種あらんや」(王も諸侯も将軍も宰相も、生まれで決まっているものか) と叫んで兵を挙げた。秦を倒す戦乱は、こうして一人の農夫から始まった。",
+    "en": "As a young man Chen Sheng was a hired hand in the fields. One day he stopped work, climbed onto a ridge between the paddies, sighed a while, and said to his fellows: \"If any of us becomes rich and great, let us not forget each other.\" They laughed: \"You, a hired ploughman — rich and great?\"\n\nChen Sheng sighed: \"Ah — how can sparrows know the ambitions of the swan?\"\n\nIn 209 BC, on the way to frontier duty and delayed by rain, Chen Sheng and Wu Guang rose crying: \"Are kings, lords, generals and ministers born to it?\" So the wars that brought down Qin began with one farm labourer."
+   },
+   "year": 209,
+   "people": [
+    "陳勝|Chen Sheng",
+    "呉広|Wu Guang"
+   ],
+   "related": [
+    "qin_law"
+   ]
+  },
+  "kuaxia": {
+   "kind": "saying",
+   "title": {
+    "ja": "韓信の股くぐり",
+    "en": "Han Xin crawls between the butcher's legs"
+   },
+   "body": {
+    "ja": "淮陰の町で、貧しい若者の韓信は、いつも剣を帯びていた。ある日、肉屋の若者が韓信を侮って言った。「でかい図体で剣なんか下げているが、本当は臆病者だろう。死ぬ気があるならその剣で刺してみろ。できないなら、おれの股の下をくぐれ」。\n\n韓信はしばらく相手を見つめていたが、身をかがめて股の下をはってくぐった。町じゅうの人が韓信を臆病者と笑った。\n\nのちに楚王となって故郷に帰った韓信は、その若者を呼び出して中尉 (役人) に取り立て、「あのとき殺そうと思えば殺せた。だが殺しても名は上がらない。だから耐えて、今日がある」と言った。大きな志のために一時の恥を忍ぶことのたとえとして語られる。",
+    "en": "In the town of Huaiyin the poor young Han Xin always wore a sword. One day a young butcher jeered at him: \"Big as you are and wearing a sword, you're a coward at heart. If you're not afraid to die, stab me. If you are — crawl between my legs.\"\n\nHan Xin looked at him for a long moment, then got down and crawled between his legs. The whole market laughed at him for a coward.\n\nLater, returning home as King of Chu, Han Xin sent for the man and made him an officer: \"I could have killed you then. But killing you would have won me no name. So I bore it — and so I am here today.\" It is told of swallowing a moment's shame for a great ambition."
+   },
+   "people": [
+    "韓信|Han Xin"
+   ],
+   "related": [
+    "beishui",
+    "guoshi"
+   ]
+  },
+  "guoshi": {
+   "kind": "saying",
+   "title": {
+    "ja": "国士無双",
+    "en": "The peerless man of the realm"
+   },
+   "body": {
+    "ja": "項羽のもとで用いられなかった韓信は、劉邦の漢に移ったが、ここでも小さな役にしか就けなかった。蕭何だけが韓信の才を見抜いていた。\n\n漢中へ向かう途中、多くの将が逃げ出した。韓信もまた去った。蕭何はそれを聞くと、劉邦に告げる暇もなく、月の下を馬で追いかけた。劉邦は、蕭何まで逃げたと思って、左右の手を失ったように怒り嘆いた。\n\n二日後に戻った蕭何は言った。「逃げた将たちは得やすい者ばかりです。ですが韓信は国士無双、天下にただ一人の人物です。王が漢中だけで満足されるなら韓信は要りません。天下を争われるなら、韓信のほかに共に事を計る者はいません」。劉邦は壇を築いて韓信を大将に任じた。",
+    "en": "Unused under Xiang Yu, Han Xin went over to Liu Bang's Han, where again he got only a small post. Only Xiao He saw what he was.\n\nOn the road to Hanzhong many officers deserted, and Han Xin left too. Hearing it, Xiao He rode after him under the moon without even stopping to tell Liu Bang — who, thinking Xiao He had deserted too, raged and grieved as if he had lost both hands.\n\nBack two days later, Xiao He said: \"The officers who ran off are easy to replace. But Han Xin is the peerless man of the realm. If Your Majesty is content with Hanzhong, you have no need of him; if you mean to contend for the realm, there is no one else to plan it with.\" Liu Bang built an altar and made Han Xin supreme general."
+   },
+   "year": 206,
+   "people": [
+    "韓信|Han Xin",
+    "蕭何|Xiao He",
+    "劉邦|Liu Bang"
+   ],
+   "related": [
+    "kuaxia",
+    "beishui",
+    "bashu_rice"
    ]
   }
  },
