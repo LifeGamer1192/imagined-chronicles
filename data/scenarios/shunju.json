@@ -8516,7 +8516,10 @@
    "imp": 3,
    "at": "jing_zheng",
    "ja": "{r_zheng}は鄢で弟の共叔段の乱を討った。母の武姜に「黄泉に至らずんば相見ること無し」と誓ったが、のちに地下に道を掘って母と再会したという。",
-   "en": "{r_zheng} crushed the revolt of his younger brother Duan at Yan. He swore never to see their mother again \"until the Yellow Springs\" — and later had a tunnel dug so that he might meet her underground."
+   "en": "{r_zheng} crushed the revolt of his younger brother Duan at Yan. He swore never to see their mother again \"until the Yellow Springs\" — and later had a tunnel dug so that he might meet her underground.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhou_zheng_hostages",
@@ -8535,7 +8538,10 @@
     ]
    ],
    "ja": "周と{n_zheng}は互いに人質を交わした。天子と諸侯が人質を取り交わすのは前代未聞のことで、王室の威信は地に落ちた。",
-   "en": "The Zhou court and {n_zheng} exchanged hostages. That the Son of Heaven should trade hostages with a lord was unheard of, and the royal house lost face."
+   "en": "The Zhou court and {n_zheng} exchanged hostages. That the Son of Heaven should trade hostages with a lord was unheard of, and the royal house lost face.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "eclipse_720",
@@ -8547,7 +8553,11 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の史官は「日、これを食する有り」と記した。年代の確かめられる日食の記録としては、たいへん古いものである。",
-   "en": "The scribes of {n_lu} wrote: \"The sun was eaten.\" It is among the oldest records of an eclipse whose day can be fixed."
+   "en": "The scribes of {n_lu} wrote: \"The sun was eaten.\" It is among the oldest records of an eclipse whose day can be fixed.",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "zhou_zheng_grain",
@@ -8568,7 +8578,10 @@
    "at": "luoyi",
    "imp": 1,
    "ja": "{n_zheng}の祭足は兵を率いて、周の温の麦と成周の稲を刈り取らせた。周と鄭の仲は決定的に悪くなった。",
-   "en": "Zhai Zu of {n_zheng} led soldiers to reap the wheat of Wen and the grain of Chengzhou. Zhou and Zheng were now open enemies."
+   "en": "Zhai Zu of {n_zheng} led soldiers to reap the wheat of Wen and the grain of Chengzhou. Zhou and Zheng were now open enemies.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wey_zhouyu",
@@ -8588,7 +8601,10 @@
    "at": "zhaoge",
    "imp": 2,
    "ja": "{n_wey}の公子[[p:州吁]]が兄の桓公を殺して自ら立った。君を殺して位を奪った、春秋で最初の例である。",
-   "en": "Prince [[p:州吁|Zhouyu]] of {n_wey} killed his brother Duke Huan and took his seat — the first lord of the Spring and Autumn to be murdered for his throne."
+   "en": "Prince [[p:州吁|Zhouyu]] of {n_wey} killed his brother Duke Huan and took his seat — the first lord of the Spring and Autumn to be murdered for his throne.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "dongmen",
@@ -8613,6 +8629,9 @@
       "en": "the campaign of the East Gate"
      }
     ]
+   ],
+   "src": [
+    "zuo"
    ]
   },
   {
@@ -8633,7 +8652,10 @@
    "at": "zhaoge",
    "imp": 2,
    "ja": "{n_wey}の老臣[[p:石碏]]は陳と謀って[[p:州吁]]を討たせ、州吁に仕えた我が子石厚も斬らせた。人々は「大義、親を滅す」と称えた。",
-   "en": "[[p:石碏|Shi Que]], an old minister of {n_wey}, had [[p:州吁|Zhouyu]] killed with the help of Chen — and his own son Shi Hou, who had served him, too. \"For the great cause he did not spare his kin,\" people said."
+   "en": "[[p:石碏|Shi Que]], an old minister of {n_wey}, had [[p:州吁|Zhouyu]] killed with the help of Chen — and his own son Shi Hou, who had served him, too. \"For the great cause he did not spare his kin,\" people said.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_yin_fish",
@@ -8645,7 +8667,10 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の隠公は棠へ漁を見物に出かけようとし、臧僖伯に「君は民の手本となるべき方」と諫められたが、聞かずに出かけた。",
-   "en": "Duke Yin of {n_lu} went to watch the fishing at Tang; Zang Xibo told him a lord must be an example to his people, but he went."
+   "en": "Duke Yin of {n_lu} went to watch the fishing at Tang; Zang Xibo told him a lord must be an example to his people, but he went.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_beirong",
@@ -8664,7 +8689,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "北戎が{n_zheng}に攻め入った。公子突は伏兵を三か所に置いて戎を誘い込み、これを大いに破った。",
-   "en": "The Northern Rong raided {n_zheng}. Prince Tu laid three ambushes, drew them in and routed them."
+   "en": "The Northern Rong raided {n_zheng}. Prince Tu laid three ambushes, drew them in and routed them.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_takes_xu",
@@ -8685,7 +8713,10 @@
    "at": "xu_city",
    "imp": 2,
    "ja": "{n_zheng}は斉・魯とともに{n_xu}を攻めて城を落とした。先頭で城壁に登った潁考叔は、手柄を妬んだ味方の子都に射落とされたという。",
-   "en": "{n_zheng}, with Qi and Lu, stormed the city of {n_xu}. Ying Kaoshu, first on the wall, was shot down — by Zidu of his own side, jealous of the glory."
+   "en": "{n_zheng}, with Qi and Lu, stormed the city of {n_xu}. Ying Kaoshu, first on the wall, was shot down — by Zidu of his own side, jealous of the glory.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_yin_killed",
@@ -8697,7 +8728,10 @@
    "at": "qufu",
    "imp": 2,
    "ja": "{n_lu}の羽父は隠公に弟の殺害を勧めて退けられると、逆に弟の公子允 (桓公) に取り入り、隠公を寪氏の家で殺させた。",
-   "en": "Yu Fu of {n_lu} urged Duke Yin to kill his younger brother; refused, he went to the brother (Duke Huan) instead, and had Duke Yin killed at the house of the Wei clan."
+   "en": "Yu Fu of {n_lu} urged Duke Yin to kill his younger brother; refused, he went to the brother (Duke Huan) instead, and had Duke Yin killed at the house of the Wei clan.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "song_huadu",
@@ -8717,7 +8751,10 @@
    "at": "shangqiu",
    "imp": 2,
    "ja": "{n_song}の太宰華督は道で見かけた司馬孔父嘉の妻に心を奪われ、孔父嘉を攻め殺してその妻を奪った。怒った殤公も殺し、鄭にいた公子馮 (荘公) を迎えて立てた。",
-   "en": "Hua Du, chief minister of {n_song}, saw the wife of the marshal Kong Fujia on the road, killed Kong and took her; then he killed the angry Duke Shang as well, and brought back Prince Feng from Zheng as Duke Zhuang."
+   "en": "Hua Du, chief minister of {n_song}, saw the wife of the marshal Kong Fujia on the road, killed Kong and took her; then he killed the angry Duke Shang as well, and brought back Prince Feng from Zheng as Duke Zhuang.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "gao_ding",
@@ -8730,7 +8767,10 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の桓公は宋から贈られた郜の大鼎を祖廟に納めた。臧哀伯は「賄賂の鼎を廟に置くとは、百官に何を示すのか」と諫めた。",
-   "en": "Duke Huan of {n_lu} placed the great cauldron of Gao, a gift from Song, in the ancestral temple. Zang Aibo protested: what does a bribe in the temple teach the officers?"
+   "en": "Duke Huan of {n_lu} placed the great cauldron of Gao, a gift from Song, in the ancestral temple. Zang Aibo protested: what does a bribe in the temple teach the officers?",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "quwo_aihou",
@@ -8751,7 +8791,10 @@
    "at": "yi",
    "imp": 2,
    "ja": "曲沃の武公は翼を攻め、翼の哀侯を汾水のほとりで捕らえた。哀侯はのちに殺された。",
-   "en": "Duke Wu of Quwo attacked Yi and took Marquis Ai of Yi by the River Fen; the marquis was later put to death."
+   "en": "Duke Wu of Quwo attacked Yi and took Marquis Ai of Yi by the River Fen; the marquis was later put to death.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "eclipse_709",
@@ -8763,7 +8806,11 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の史官は日食を記し、「既 (つ) く」と書き添えた。太陽がすっかり隠れる皆既日食であった。",
-   "en": "The scribes of {n_lu} recorded an eclipse and added \"complete\": the sun was wholly covered."
+   "en": "The scribes of {n_lu} recorded an eclipse and added \"complete\": the sun was wholly covered.",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "xuge",
@@ -8794,7 +8841,10 @@
    "imp": 3,
    "at": "xinzheng",
    "ja": "繻葛の戦い。周の桓王は諸侯を率いて{n_zheng}を討ったが大敗し、鄭の将[[p:祝聃]]の矢が王の肩を射た。天子の権威はこの日に尽きたといわれる。",
-   "en": "At Xuge the Zhou king led the lords against {n_zheng} and was routed; an arrow of the Zheng captain [[p:祝聃|Zhu Dan]] struck the king in the shoulder. The majesty of the Son of Heaven, it is said, ended that day."
+   "en": "At Xuge the Zhou king led the lords against {n_zheng} and was routed; an arrow of the Zheng captain [[p:祝聃|Zhu Dan]] struck the king in the shoulder. The majesty of the Son of Heaven, it is said, ended that day.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_rong_zheng",
@@ -8807,7 +8857,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "北戎が{n_qi}を攻め、{n_zheng}の太子忽が救いに来て戎を破った。斉の僖公は娘を嫁がせようとしたが、忽は「斉は大国、我が釣り合う相手ではない」と辞退した。",
-   "en": "The Northern Rong attacked {n_qi}; Crown Prince Hu of {n_zheng} came to its aid and beat them. Duke Xi of Qi offered him a daughter; Hu declined: \"Qi is great — no match for me.\""
+   "en": "The Northern Rong attacked {n_qi}; Crown Prince Hu of {n_zheng} came to its aid and beat them. Duke Xi of Qi offered him a daughter; Hu declined: \"Qi is great — no match for me.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_sui_706",
@@ -8819,7 +8872,10 @@
    "at": "sui",
    "imp": 1,
    "ja": "{n_chu}の武王が{n_sui}に迫ると、随の季梁は「民は神の主なり。まず民を治めてから神に仕えよ」と君に説いた。楚はしばらく随に手を出せなかった。",
-   "en": "When King Wu of {n_chu} pressed on {n_sui}, Ji Liang of Sui told his lord: \"The people are the masters of the gods; govern the people first, then serve the gods.\" Chu left Sui alone for a time."
+   "en": "When King Wu of {n_chu} pressed on {n_sui}, Ji Liang of Sui told his lord: \"The people are the masters of the gods; govern the people first, then serve the gods.\" Chu left Sui alone for a time.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "quwo_xiaozi",
@@ -8832,7 +8888,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "曲沃の武公は翼の[[p:小子侯]]を誘い出して殺した。周の桓王は曲沃を討たせ、翼には[[p:晋侯緡]]を立てた。",
-   "en": "Duke Wu of Quwo lured the young Marquis of Yi out and killed him. King Huan of Zhou had Quwo punished and set up [[p:晋侯緡|Marquis Min]] in Yi."
+   "en": "Duke Wu of Quwo lured the young Marquis of Yi out and killed him. King Huan of Zhou had Quwo punished and set up [[p:晋侯緡|Marquis Min]] in Yi.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_king",
@@ -8857,7 +8916,10 @@
     ]
    ],
    "ja": "{r_chu}は「我は蛮夷なり」と言い放ち、周の許しを待たず自ら王を称した。諸侯の中で王号を名乗った最初の者である。",
-   "en": "{r_chu} declared \"I am a barbarian\" and, without waiting for Zhou leave, took the title of king — the first of the lords to do so."
+   "en": "{r_chu} declared \"I am a barbarian\" and, without waiting for Zhou leave, took the title of king — the first of the lords to do so.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wey_two_sons",
@@ -8876,7 +8938,10 @@
    "at": "zhaoge",
    "imp": 2,
    "ja": "{n_wey}の宣公は太子伋の妻に迎えた斉の娘を自分の夫人とし、のちに伋を殺させようとした。異母弟の寿は伋の身代わりに殺され、追いついた伋も「我こそ求める者だ」と名乗って殺された。",
-   "en": "Duke Xuan of {n_wey} took for himself the Qi bride meant for his heir Ji, and later sent men to kill Ji. Ji's half-brother Shou went ahead in his place and was killed; Ji, coming after, cried \"I am the one you want,\" and was killed too."
+   "en": "Duke Xuan of {n_wey} took for himself the Qi bride meant for his heir Ji, and later sent men to kill Ji. Ji's half-brother Shou went ahead in his place and was killed; Ji, coming after, cried \"I am the one you want,\" and was killed too.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_quxia",
@@ -8896,7 +8961,10 @@
    "at": "danyang",
    "imp": 1,
    "ja": "{n_chu}の莫敖屈瑕は驕って備えを怠り、羅と盧戎に大敗した。屈瑕は荒谷で自ら首をくくった。",
-   "en": "Qu Xia of {n_chu}, proud and careless, was crushed by Luo and the Lu Rong, and hanged himself in the Huang valley."
+   "en": "Qu Xia of {n_chu}, proud and careless, was crushed by Luo and the Lu Rong, and hanged himself in the Huang valley.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_yongji",
@@ -8908,7 +8976,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_zheng}の[[p:祭仲]]の娘雍姫は、夫の雍糾が父を殺そうとしていると知り、母に「父と夫はどちらが親しいか」と尋ねた。母は「夫は誰でもなれるが、父は一人だけ」と答え、雍姫は父に告げた。雍糾は殺され、厲公は国を逃れた。",
-   "en": "Yong Ji learned that her husband meant to kill her father [[p:祭仲|Zhai Zhong]] of {n_zheng}. \"Who is closer, a father or a husband?\" she asked her mother. \"Any man may be a husband; a father is only one.\" She told her father; her husband was killed and Duke Li fled."
+   "en": "Yong Ji learned that her husband meant to kill her father [[p:祭仲|Zhai Zhong]] of {n_zheng}. \"Who is closer, a father or a husband?\" she asked her mother. \"Any man may be a husband; a father is only one.\" She told her father; her husband was killed and Duke Li fled.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_gaoqumi",
@@ -8920,7 +8991,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_zheng}の高渠弥は、かねて自分を嫌っていた昭公を狩りの場で射殺し、公[[p:子亹]]を立てた。",
-   "en": "Gao Qumi of {n_zheng}, long hated by Duke Zhao, shot him dead on a hunt and set up Prince Wei."
+   "en": "Gao Qumi of {n_zheng}, long hated by Duke Zhao, shot him dead on a hunt and set up Prince Wei.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_huan_qi",
@@ -8939,7 +9013,10 @@
     ]
    ],
    "ja": "{n_lu}の桓公は夫人を伴って{n_qi}を訪れ、宴の帰りに車中で殺された。斉の襄公が公子彭生に命じたものという。",
-   "en": "Duke Huan of Lu visited {n_qi} with his consort and was killed in his carriage on the way back from a feast — at the order, it was said, of Duke Xiang of Qi."
+   "en": "Duke Huan of Lu visited {n_qi} with his consort and was killed in his carriage on the way back from a feast — at the order, it was said, of Duke Xiang of Qi.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_ziwei",
@@ -8952,7 +9029,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_qi}の襄公は首止に諸侯を集め、やって来た{n_zheng}の[[p:子亹]]を殺し、高渠弥を車裂きにした。",
-   "en": "Duke Xiang of {n_qi} called the lords to Shouzhi, killed [[p:子亹|Ziwei]] of {n_zheng} when he came, and had Gao Qumi torn apart by chariots."
+   "en": "Duke Xiang of {n_qi} called the lords to Shouzhi, killed [[p:子亹|Ziwei]] of {n_zheng} when he came, and had Gao Qumi torn apart by chariots.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_wu_dies",
@@ -8965,7 +9045,10 @@
    "at": "sui",
    "imp": 1,
    "ja": "{n_chu}の武王は{n_sui}を討つ途中、木の下で没した。令尹たちは喪を秘して軍を進め、随と盟を結んでから帰って喪を発した。",
-   "en": "King Wu of {n_chu} died under a tree on the march against {n_sui}. His ministers kept the death secret, pressed on, made Sui swear a covenant, and only then announced it."
+   "en": "King Wu of {n_chu} died under a tree on the march against {n_sui}. His ministers kept the death secret, pressed on, made Sui swear a covenant, and only then announced it.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_annex_ji",
@@ -8984,7 +9067,10 @@
    "imp": 3,
    "at": "ji_state",
    "ja": "紀侯は国を弟に託して去り、{n_ji_state}は{n_qi}に併せられた。九代前の祖先の仇を討ったと{r_qi}は称した。",
-   "en": "The Marquis of Ji left his realm and {n_ji_state} was absorbed by {n_qi}; {r_qi} claimed to have avenged an ancestor nine generations back."
+   "en": "The Marquis of Ji left his realm and {n_ji_state} was absorbed by {n_qi}; {r_qi} claimed to have avenged an ancestor nine generations back.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_ying",
@@ -9001,7 +9087,10 @@
    ],
    "at": "ying",
    "ja": "{r_chu}は都を郢に移した。郢はのちに四百年、楚の都であり続ける。",
-   "en": "{r_chu} moved the capital to Ying, which would remain the seat of Chu for four centuries."
+   "en": "{r_chu} moved the capital to Ying, which would remain the seat of Chu for four centuries.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_annex_shen",
@@ -9020,7 +9109,10 @@
    "imp": 3,
    "at": "shen_state",
    "ja": "{r_chu}は北へ兵を進めて{n_shen}を滅ぼし、県とした。楚が中原へ向かう扉が開いた。",
-   "en": "{r_chu} marched north and destroyed {n_shen}, making it a county. The door from Chu to the Central Plain stood open."
+   "en": "{r_chu} marched north and destroyed {n_shen}, making it a county. The door from Chu to the Central Plain stood open.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_xiang_killed",
@@ -9040,7 +9132,10 @@
    "at": "linzi",
    "imp": 2,
    "ja": "{n_qi}の襄公は貝丘の狩りで大きな猪に驚き、車から落ちて足を傷めた。その夜、交代を約束されながら一年待たされた連称・管至父の兵が宮に入り、襄公を殺して公孫[[p:無知]]を立てた。",
-   "en": "Hunting at Beiqiu, Duke Xiang of {n_qi} was frightened by a great boar, fell from his chariot and hurt his foot. That night the men of Lian Cheng and Guan Zhifu — kept at the frontier a year past their promised relief — broke in, killed him and set up [[p:無知|Wuzhi]]."
+   "en": "Hunting at Beiqiu, Duke Xiang of {n_qi} was frightened by a great boar, fell from his chariot and hurt his foot. That night the men of Lian Cheng and Guan Zhifu — kept at the frontier a year past their promised relief — broke in, killed him and set up [[p:無知|Wuzhi]].",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_wuzhi",
@@ -9052,7 +9147,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_qi}の[[p:無知]]は、かつて辱めた雍廩に殺された。公子小白 (桓公) と公子糾は斉の位を争って急ぎ帰国した。",
-   "en": "[[p:無知|Wuzhi]] of {n_qi} was killed by Yong Lin, whom he had once wronged. Prince Xiaobai (Duke Huan) and Prince Jiu raced home for the seat."
+   "en": "[[p:無知|Wuzhi]] of {n_qi} was killed by Yong Lin, whom he had once wronged. Prince Xiaobai (Duke Huan) and Prince Jiu raced home for the seat.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "guan_zhong",
@@ -9078,7 +9176,11 @@
    "imp": 3,
    "at": "linzi",
    "ja": "{r_qi}はかつて自分を射た[[p:管仲]]を、[[p:鮑叔牙]]の推挙によって[[a:guanzhong_reform|宰相に迎えた]]。「我を生む者は父母、我を知る者は鮑子なり」と[[p:管仲]]は語ったという。",
-   "en": "{r_qi} made [[p:管仲|Guan Zhong]] — the man who had once shot an arrow at him — [[a:guanzhong_reform|chief minister]], on [[p:鮑叔牙|Bao Shuya]]'s word. \"My parents gave me life,\" [[p:管仲|Guan Zhong]] said, \"but it is Bao who knows me.\""
+   "en": "{r_qi} made [[p:管仲|Guan Zhong]] — the man who had once shot an arrow at him — [[a:guanzhong_reform|chief minister]], on [[p:鮑叔牙|Bao Shuya]]'s word. \"My parents gave me life,\" [[p:管仲|Guan Zhong]] said, \"but it is Bao who knows me.\"",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "changshao",
@@ -9108,7 +9210,10 @@
    ],
    "at": "qufu",
    "ja": "長勺の戦い。[[p:曹劌]]は{n_qi}の軍が三度太鼓を打つまで動かず、敵の気が尽きたところで討って出て大勝した。「一鼓して気を作し、再びして衰え、三たびして竭く」。",
-   "en": "At Changshao [[p:曹劌|Cao Gui]] held {n_lu}'s men until {n_qi} had beaten the drums three times, then struck and won. \"The first drum rouses the spirit, the second dulls it, the third exhausts it.\""
+   "en": "At Changshao [[p:曹劌|Cao Gui]] held {n_lu}'s men until {n_qi} had beaten the drums three times, then struck and won. \"The first drum rouses the spirit, the second dulls it, the third exhausts it.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "song_flood",
@@ -9121,7 +9226,10 @@
    "at": "shangqiu",
    "imp": 1,
    "ja": "{n_song}に大水があった。見舞いの使者に閔公が「天の咎めは私の不徳のため」と答えると、魯の[[p:臧文仲]]は「禹・湯は己を責めて興った。宋は興るだろう」と言った。",
-   "en": "A great flood struck {n_song}. To the envoy who came with condolences Duke Min said Heaven blamed him for his failings. \"Yu and Tang rose by blaming themselves,\" said [[p:臧文仲|Zang Wenzhong]] of Lu; \"Song will rise.\""
+   "en": "A great flood struck {n_song}. To the envoy who came with condolences Duke Min said Heaven blamed him for his failings. \"Yu and Tang rose by blaming themselves,\" said [[p:臧文仲|Zang Wenzhong]] of Lu; \"Song will rise.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "song_nangong",
@@ -9141,7 +9249,10 @@
    "at": "shangqiu",
    "imp": 2,
    "ja": "{n_song}の南宮長万は、捕虜にされたことを閔公にからかわれ、博戯の盤で閔公を打ち殺した。長万は陳へ逃れたが、引き渡されて塩漬けにされた。",
-   "en": "Nangong Changwan of {n_song}, mocked by Duke Min for once being taken prisoner, struck him dead with a gaming board. He fled to Chen, was handed back, and pickled."
+   "en": "Nangong Changwan of {n_song}, mocked by Duke Min for once being taken prisoner, struck him dead with a gaming board. He fled to Chen, was handed back, and pickled.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "beixing",
@@ -9161,7 +9272,10 @@
    "at": "linzi",
    "imp": 2,
    "ja": "{n_qi}の桓公は北杏に宋・陳・蔡・邾の君を集めて会した。周王の名のもとに諸侯を集める、桓公の会盟の始まりである。",
-   "en": "Duke Huan of {n_qi} met the lords of Song, Chen, Cai and Zhu at Beixing: the first of his gatherings of the lords in the king's name."
+   "en": "Duke Huan of {n_qi} met the lords of Song, Chen, Cai and Zhu at Beixing: the first of his gatherings of the lords in the king's name.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "ke_covenant",
@@ -9182,7 +9296,11 @@
    "at": "ea",
    "imp": 2,
    "ja": "柯の盟の壇上で、{n_lu}の曹沫が短剣を突きつけて奪われた地の返還を迫った。脅されての約束であったが、桓公は[[p:管仲]]の言を容れて約束を守り、諸侯の信を得た。",
-   "en": "At the covenant of Ke, Cao Mo of {n_lu} held a dagger to Duke Huan and demanded the lost land back. The promise was forced; yet on [[p:管仲|Guan Zhong]]'s advice the duke kept it — and won the trust of the lords."
+   "en": "At the covenant of Ke, Cao Mo of {n_lu} held a dagger to Duke Huan and demanded the lost land back. The promise was forced; yet on [[p:管仲|Guan Zhong]]'s advice the duke kept it — and won the trust of the lords.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "chu_annex_xi",
@@ -9200,7 +9318,10 @@
    ],
    "at": "xi_state",
    "ja": "{r_chu}は{n_xi}を滅ぼし、その夫人息嬀を妻とした。夫人は二人の子を産んだが、ついに楚王に言葉をかけなかったという。",
-   "en": "{r_chu} destroyed {n_xi} and took its lady, Xi Gui, as his wife. She bore him two sons, but it is said she never spoke a word to him."
+   "en": "{r_chu} destroyed {n_xi} and took its lady, Xi Gui, as his wife. She bore him two sons, but it is said she never spoke a word to him.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_li_returns",
@@ -9212,7 +9333,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "十七年を櫟で過ごした{n_zheng}の厲公は、捕らえた傅瑕に君の[[p:子嬰]]を殺させて国に帰った。帰ると厲公は「二心ある者」として傅瑕も殺した。",
-   "en": "After seventeen years at Li, Duke Li of {n_zheng} had his captive Fu Xia kill the ruling lord [[p:子嬰|Ziying]], and came home — then killed Fu Xia too, for a man of two hearts."
+   "en": "After seventeen years at Li, Duke Li of {n_zheng} had his captive Fu Xia kill the ruling lord [[p:子嬰|Ziying]], and came home — then killed Fu Xia too, for a man of two hearts.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_hegemon",
@@ -9231,7 +9355,10 @@
    "imp": 3,
    "at": "linzi",
    "ja": "{r_qi}は鄄に諸侯を集めて盟を主宰した。諸侯の長「[[a:five_hegemons|覇者]]」の始まりである。",
-   "en": "{r_qi} gathered the lords at Juan and presided over their covenant — the first of the [[a:five_hegemons|hegemon]]s, the \"elders of the lords\"."
+   "en": "{r_qi} gathered the lords at Juan and presided over their covenant — the first of the [[a:five_hegemons|hegemon]]s, the \"elders of the lords\".",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "quwo_takes_jin",
@@ -9250,7 +9377,10 @@
    "imp": 3,
    "at": "yi",
    "ja": "{r_jin}は翼を攻めて[[p:晋侯緡]]を滅ぼし、宝器を周の釐王に献じて晋の君と認められた。分家の曲沃が本家を呑み込んだのである。",
-   "en": "{r_jin} took Yi, destroyed [[p:晋侯緡|Marquis Min]] of Jin, and bought recognition as lord of Jin with treasures sent to the Zhou king. The cadet branch of Quwo had swallowed the main line."
+   "en": "{r_jin} took Yi, destroyed [[p:晋侯緡|Marquis Min]] of Jin, and bought recognition as lord of Jin with treasures sent to the Zhou king. The cadet branch of Quwo had swallowed the main line.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "quwo_is_jin",
@@ -9288,7 +9418,10 @@
     ]
    ],
    "ja": "これより曲沃の君は晋公と称した。",
-   "en": "From now on the lords of Quwo styled themselves Dukes of Jin."
+   "en": "From now on the lords of Quwo styled themselves Dukes of Jin.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_annex_deng",
@@ -9306,7 +9439,10 @@
    ],
    "at": "deng",
    "ja": "{r_chu}は{n_deng}を滅ぼした。かつて鄧の人々は「楚を滅ぼすのは今のうち」と諫めたが、鄧侯は耳を貸さなかった。",
-   "en": "{r_chu} destroyed {n_deng}. Its ministers had once begged their lord to strike Chu while he could; he had not listened."
+   "en": "{r_chu} destroyed {n_deng}. Its ministers had once begged their lord to strike Chu while he could; he had not listened.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qin_yong",
@@ -9323,7 +9459,10 @@
    ],
    "at": "yong",
    "ja": "{r_qin}は都を雍に移した。以後三百年、雍は秦の都であった。",
-   "en": "{r_qin} moved the capital to Yong, the seat of Qin for the next three centuries."
+   "en": "{r_qin} moved the capital to Yong, the seat of Qin for the next three centuries.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhou_zitui",
@@ -9343,7 +9482,10 @@
    "at": "luoyi",
    "imp": 2,
    "ja": "園や田を王に取り上げられた周の五人の大夫が、衛・燕の兵を引き入れて恵王を追い、王子頽を立てた。",
-   "en": "Five great officers of Zhou, their gardens and fields taken by the king, brought in troops of Wey and Yan, drove out King Hui and set up Prince Tui."
+   "en": "Five great officers of Zhou, their gardens and fields taken by the king, brought in troops of Wey and Yan, drove out King Hui and set up Prince Tui.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhou_restored",
@@ -9364,7 +9506,10 @@
    "at": "luoyi",
    "imp": 1,
    "ja": "{n_zheng}の厲公と虢公は王子頽を討ち、周の恵王を王城に帰した。",
-   "en": "Duke Li of {n_zheng} and the Duke of Guo killed Prince Tui and brought King Hui of Zhou back to his city."
+   "en": "Duke Li of {n_zheng} and the Duke of Guo killed Prince Tui and brought King Hui of Zhou back to his city.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chen_wan",
@@ -9377,7 +9522,11 @@
    "at": "linzi",
    "imp": 2,
    "ja": "{n_chen}の内紛を逃れて、公子完が{n_qi}に身を寄せた。桓公は卿にしようとしたが、完は工正 (工人の長) の職だけを受けた。完の子孫の田氏は、のちに斉の国を奪うことになる。",
-   "en": "Fleeing strife in {n_chen}, Prince Wan came to {n_qi}. Duke Huan would have made him a minister; he took only the post of master of craftsmen. His descendants, the Tian, would one day take Qi itself."
+   "en": "Fleeing strife in {n_chen}, Prince Wan came to {n_qi}. Duke Huan would have made him a minister; he took only the post of master of craftsmen. His descendants, the Tian, would one day take Qi itself.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "jin_lirong",
@@ -9394,7 +9543,10 @@
     ]
    ],
    "ja": "{r_jin}は驪戎を討ち、その娘[[p:驪姫]]を連れ帰った。のちの晋の内乱の種となる。",
-   "en": "{r_jin} subdued the Li Rong and brought home their daughter [[p:驪姫|Li Ji]] — the seed of a later civil strife in Jin."
+   "en": "{r_jin} subdued the Li Rong and brought home their daughter [[p:驪姫|Li Ji]] — the seed of a later civil strife in Jin.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_cheng_rises",
@@ -9405,7 +9557,10 @@
    "at": "ying",
    "imp": 1,
    "ja": "{n_chu}の公子惲は兄の[[p:堵敖]]を殺して位につき (成王)、周に貢ぎ物を送って好を通じた。周王は胙肉を賜い、「南方の夷越の乱を鎮めよ、中国を侵すなかれ」と命じた。",
-   "en": "Prince Yun of {n_chu} killed his brother the king and took the seat (King Cheng); he sent tribute to Zhou, and the king sent back sacrificial meat: \"Keep order among the southern peoples, and do not trouble the central states.\""
+   "en": "Prince Yun of {n_chu} killed his brother the king and took the seat (King Cheng); he sent tribute to Zhou, and the king sent back sacrificial meat: \"Keep order among the southern peoples, and do not trouble the central states.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_purge",
@@ -9424,7 +9579,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{n_jin}の献公は士蔿の策を用いて、一族の公子たちを聚に集めて皆殺しにした。晋では以後、公子を国内に置かない習いとなった。",
-   "en": "On the advice of Shi Wei, Duke Xian of {n_jin} gathered the princes of his house at Ju and killed them all. Thereafter Jin kept no princes at home."
+   "en": "On the advice of Shi Wei, Duke Xian of {n_jin} gathered the princes of his house at Ju and killed them all. Thereafter Jin kept no princes at home.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_jiang",
@@ -9443,7 +9601,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{r_jin}は絳に新しい都の城を築いて移った。",
-   "en": "{r_jin} walled a new capital at Jiang and moved the court there."
+   "en": "{r_jin} walled a new capital at Jiang and moved the court there.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_ziwen",
@@ -9468,7 +9629,10 @@
    "at": "ying",
    "imp": 1,
    "ja": "{n_chu}の[[p:闘穀於菟]] (子文) が令尹となり、自分の家の財を投げ出して国の難を救った。三度令尹となって喜ばず、三度退いて怨まなかったと称えられる。",
-   "en": "[[p:闘穀於菟|Dou Gouwutu (Ziwen)]] became chief minister of {n_chu} and gave his family's wealth to relieve the realm. Three times made minister he showed no joy, three times dismissed no resentment, it was said."
+   "en": "[[p:闘穀於菟|Dou Gouwutu (Ziwen)]] became chief minister of {n_chu} and gave his family's wealth to relieve the realm. Three times made minister he showed no joy, three times dismissed no resentment, it was said.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_saves_yan",
@@ -9495,7 +9659,10 @@
     ]
    ],
    "ja": "{r_qi}は{n_yan}の求めに応じて{n_shanrong}を討った。帰路、道に迷った軍は[[a:laoma|老馬]]を放ち、その後について道を見出したという。",
-   "en": "{r_qi} answered {n_yan}'s call and marched against {n_shanrong}. Lost on the way home, the army let [[a:laoma|an old horse]] go ahead and followed it back to the road."
+   "en": "{r_qi} answered {n_yan}'s call and marched against {n_shanrong}. Lost on the way home, the army let [[a:laoma|an old horse]] go ahead and followed it back to the road.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_bi_wan",
@@ -9514,7 +9681,10 @@
    "at": "anyi",
    "imp": 2,
    "ja": "{n_jin}の献公は二軍を設けて耿・霍・魏を滅ぼし、耿を趙夙に、魏を畢万に与えた。のちの趙・魏の二国は、ここに始まる。",
-   "en": "Duke Xian of {n_jin} raised a second army, destroyed Geng, Huo and Wei, and gave Geng to Zhao Su and Wei to Bi Wan — the beginnings of the later states of Zhao and Wei."
+   "en": "Duke Xian of {n_jin} raised a second army, destroyed Geng, Huo and Wei, and gave Geng to Zhao Su and Wei to Bi Wan — the beginnings of the later states of Zhao and Wei.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_qingfu",
@@ -9535,7 +9705,10 @@
    "at": "qufu",
    "imp": 2,
    "ja": "{n_lu}の慶父は先に[[p:子般]]を、いままた閔公を殺させた。斉の仲孫湫は「慶父を除かなければ、魯の難は終わらない」と言った。慶父は莒へ逃れ、のちに自ら命を絶った。",
-   "en": "Qingfu of {n_lu} had now killed a second lord, Duke Min, after [[p:子般|Ziban]]. \"Until Qingfu is gone Lu's troubles will not end,\" said Zhongsun Qiu of Qi. Qingfu fled to Ju and later took his own life."
+   "en": "Qingfu of {n_lu} had now killed a second lord, Duke Min, after [[p:子般|Ziban]]. \"Until Qingfu is gone Lu's troubles will not end,\" said Zhongsun Qiu of Qi. Qingfu fled to Ju and later took his own life.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wey_cranes",
@@ -9569,7 +9742,10 @@
    "imp": 3,
    "at": "zhaoge",
    "ja": "{n_chidi}が{n_wey}に攻め入った。鶴を好み、鶴を大夫の車に乗せていた懿公に兵たちは「鶴に戦わせよ」と言い放ち、衛は大敗、都朝歌は落ちた。",
-   "en": "{n_chidi} invaded {n_wey}. Duke Yi had loved cranes so well he gave them officials' carriages; now his soldiers told him to send the cranes to fight. Wey was routed and its capital Zhaoge fell."
+   "en": "{n_chidi} invaded {n_wey}. Duke Yi had loved cranes so well he gave them officials' carriages; now his soldiers told him to send the cranes to fight. Wey was routed and its capital Zhaoge fell.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_chuqiu",
@@ -9590,7 +9766,10 @@
    "at": "diqiu",
    "imp": 2,
    "ja": "{n_qi}の桓公は諸侯とともに、狄に追われた邢のために夷儀に城を築き、また衛のために楚丘に城を築いた。「邢は帰るが如く遷り、衛は国の亡びたことを忘れた」と人々は言った。",
-   "en": "Duke Huan of {n_qi} and the lords built new walls at Yiyi for Xing and at Chuqiu for Wey, both driven out by the Di. \"Xing moved as if going home; Wey forgot it had ever fallen,\" people said."
+   "en": "Duke Huan of {n_qi} and the lords built new walls at Yiyi for Xing and at Chuqiu for Wey, both driven out by the Di. \"Xing moved as if going home; Wey forgot it had ever fallen,\" people said.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_xiayang",
@@ -9603,7 +9782,10 @@
    "at": "shangyang",
    "imp": 1,
    "ja": "{n_jin}の献公は名馬と璧玉を{n_yu}に贈って道を借り、{n_guo}の下陽を取った。",
-   "en": "Duke Xian of {n_jin} sent fine horses and jade to {n_yu} for passage, and took Xiayang from {n_guo}."
+   "en": "Duke Xian of {n_jin} sent fine horses and jade to {n_yu} for passage, and took Xiayang from {n_guo}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_cai_656",
@@ -9628,6 +9810,9 @@
       "en": "the Zhaoling campaign"
      }
     ]
+   ],
+   "src": [
+    "zuo"
    ]
   },
   {
@@ -9652,7 +9837,10 @@
     ]
    ],
    "ja": "召陵の盟。{r_qi}は諸侯の軍を率いて{n_chu}に迫り、周への貢ぎ物を怠った罪を問うた。両国は戦わずに盟を結んだ。",
-   "en": "The covenant of Shaoling. {r_qi} led the lords' armies to {n_chu}'s border and charged it with failing its tribute to Zhou; the two made a covenant without a battle."
+   "en": "The covenant of Shaoling. {r_qi} led the lords' armies to {n_chu}'s border and charged it with failing its tribute to Zhou; the two made a covenant without a battle.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "shensheng",
@@ -9670,7 +9858,10 @@
     ]
    ],
    "ja": "[[p:驪姫]]の讒言により、{n_jin}の太子申生は自ら命を絶った。公子重耳と夷吾は国外へ逃れた。",
-   "en": "Slandered by [[p:驪姫|Li Ji]], Shensheng, heir of {n_jin}, took his own life. The princes Chong'er and Yiwu fled abroad."
+   "en": "Slandered by [[p:驪姫|Li Ji]], Shensheng, heir of {n_jin}, took his own life. The princes Chong'er and Yiwu fled abroad.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "shouzhi",
@@ -9691,7 +9882,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_qi}の桓公は首止に諸侯を集め、恵王が退けようとしていた太子鄭 (のちの襄王) と会って、その位を守ることを示した。",
-   "en": "Duke Huan of {n_qi} gathered the lords at Shouzhi to meet Crown Prince Zheng of Zhou, whom King Hui meant to set aside, and so made his succession sure."
+   "en": "Duke Huan of {n_qi} gathered the lords at Shouzhi to meet Crown Prince Zheng of Zhou, whom King Hui meant to set aside, and so made his succession sure.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_guo_yu",
@@ -9711,7 +9905,10 @@
    "imp": 3,
    "at": "shangyang",
    "ja": "{r_jin}は{n_yu}に道を借りて{n_guo}を滅ぼした。「唇亡びて歯寒し」との諫めを聞かなかった虞公は、帰り道に軍を返した晋に国を奪われた。",
-   "en": "{r_jin} borrowed the road through {n_yu} to destroy {n_guo}. The Duke of Yu had ignored the warning that \"when the lips are gone, the teeth are cold\" — the returning army took his realm too."
+   "en": "{r_jin} borrowed the road through {n_yu} to destroy {n_guo}. The Duke of Yu had ignored the warning that \"when the lips are gone, the teeth are cold\" — the returning army took his realm too.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_yu",
@@ -9730,7 +9927,10 @@
    ],
    "at": "yu_state",
    "ja": "帰路の晋軍は{n_yu}を滅ぼした。道を貸した礼に受け取った名馬と玉は、晋に戻った。",
-   "en": "On its way home the army of Jin destroyed {n_yu}. The fine horses and jade it had paid for passage came back to Jin."
+   "en": "On its way home the army of Jin destroyed {n_yu}. The fine horses and jade it had paid for passage came back to Jin.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "xu_surrender",
@@ -9743,7 +9943,10 @@
    "at": "xu_city",
    "imp": 1,
    "ja": "{n_chu}に囲まれた{n_xu}の僖公は、両手を後ろ手に縛り、玉を口に含み、棺を担がせて楚王の前に降った。楚王は縛めを解き、棺を焼いて許した。",
-   "en": "Besieged by {n_chu}, Duke Xi of {n_xu} came out with his hands tied behind him, jade in his mouth and a coffin carried behind; the king loosed his bonds, burned the coffin and forgave him."
+   "en": "Besieged by {n_chu}, Duke Xi of {n_xu} came out with his hands tied behind him, jade in his mouth and a coffin carried behind; the king loosed his bonds, burned the coffin and forgave him.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "kuiqiu",
@@ -9763,7 +9966,10 @@
    "imp": 3,
    "at": "linzi",
    "ja": "葵丘の会盟。{r_qi}は諸侯を集め、周王の使者から胙肉を賜った。斉の覇業はここに極まった。",
-   "en": "The covenant of Kuiqiu. {r_qi} gathered the lords and received sacrificial meat from the Zhou king's envoy — the height of Qi's hegemony."
+   "en": "The covenant of Kuiqiu. {r_qi} gathered the lords and received sacrificial meat from the Zhou king's envoy — the height of Qi's hegemony.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_like",
@@ -9783,7 +9989,10 @@
    "at": "yi",
    "imp": 2,
    "ja": "{n_jin}の献公が没すると、[[p:里克]]は[[p:驪姫]]の子[[p:奚斉]]を喪の場で殺し、続いて立てられた卓子と驪姫も殺した。",
-   "en": "When Duke Xian of {n_jin} died, [[p:里克|Li Ke]] killed Lady Li's son [[p:奚斉|Xiqi]] at the mourning, and then Zhuozi, set up in his place, and Lady Li herself."
+   "en": "When Duke Xian of {n_jin} died, [[p:里克|Li Ke]] killed Lady Li's son [[p:奚斉|Xiqi]] at the mourning, and then Zhuozi, set up in his place, and Lady Li herself.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_like_dies",
@@ -9795,7 +10004,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{n_jin}の恵公は[[p:里克]]に死を命じた。里克は「罪を加えようとするなら、口実に困ることはありますまい」と言って剣に伏した。",
-   "en": "Duke Hui of {n_jin} ordered [[p:里克|Li Ke]] to die. \"A man who wants to find a crime will never lack a reason,\" said Li Ke, and fell on his sword."
+   "en": "Duke Hui of {n_jin} ordered [[p:里克|Li Ke]] to die. \"A man who wants to find a crime will never lack a reason,\" said Li Ke, and fell on his sword.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhou_shudai",
@@ -9808,7 +10020,10 @@
    "at": "luoyi",
    "imp": 1,
    "ja": "周の王子帯が戎を引き入れて王城を攻め、東門を焼いた。{n_qin}と{n_jin}が兵を出して王を救った。",
-   "en": "Prince Dai of Zhou brought the Rong against the royal city and burned its east gate. {n_qin} and {n_jin} sent troops to save the king."
+   "en": "Prince Dai of Zhou brought the Rong against the royal city and burned its east gate. {n_qin} and {n_jin} sent troops to save the king.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_huang",
@@ -9827,7 +10042,10 @@
    "imp": 1,
    "at": "huang",
    "ja": "{r_chu}は{n_huang}を滅ぼした。",
-   "en": "{r_chu} destroyed {n_huang}."
+   "en": "{r_chu} destroyed {n_huang}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "fanzhou",
@@ -9854,7 +10072,10 @@
    "at": "yong",
    "imp": 2,
    "ja": "飢饉に苦しむ{n_jin}が穀物を求めると、{n_qin}の穆公は「その君は悪くとも、その民に何の罪があろう」と言って、雍から絳まで船を連ねて穀物を送った (泛舟の役)。",
-   "en": "When famine-struck {n_jin} asked for grain, Duke Mu of {n_qin} said: \"Its lord is bad, but what crime have its people done?\" — and sent it by boat in an unbroken line from Yong to Jiang."
+   "en": "When famine-struck {n_jin} asked for grain, Duke Mu of {n_qin} said: \"Its lord is bad, but what crime have its people done?\" — and sent it by boat in an unbroken line from Yong to Jiang.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "hanyuan",
@@ -9883,7 +10104,11 @@
     ]
    ],
    "ja": "韓原の戦い。{r_qin}は{n_jin}の恵公を捕らえたが、のちに許して帰した。",
-   "en": "At Hanyuan {r_qin} captured Duke Hui of {n_jin}, then let him go home."
+   "en": "At Hanyuan {r_qin} captured Duke Hui of {n_jin}, then let him go home.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "song_meteors",
@@ -9895,7 +10120,11 @@
    "at": "shangqiu",
    "imp": 1,
    "ja": "{n_song}に五つの石が降った (隕石である)。同じ月、六羽の鷁 (みずどり) が風に押されて後ろ向きに都の上を飛んでいった。",
-   "en": "Five stones fell from the sky in {n_song}. The same month, six water-birds were seen flying backwards over the city, driven by the wind."
+   "en": "Five stones fell from the sky in {n_song}. The same month, six water-birds were seen flying backwards over the city, driven by the wind.",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "qi_huan_dies",
@@ -9914,7 +10143,11 @@
     ]
    ],
    "ja": "{n_qi}の桓公が没すると公子たちは位を争い、桓公の亡骸は六十七日も放置され、蛆が戸口から這い出たという。",
-   "en": "When Duke Huan of {n_qi} died, his sons fought over the throne; his body lay unburied for sixty-seven days, and maggots crawled out under the door."
+   "en": "When Duke Huan of {n_qi} died, his sons fought over the throne; his body lay unburied for sixty-seven days, and maggots crawled out under the door.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "song_xiang_qi",
@@ -9935,7 +10168,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_song}の襄公は諸侯を率いて{n_qi}に入り、公子たちの争いを収めて太子昭 (孝公) を立てた。襄公は桓公に代わる覇者を志した。",
-   "en": "Duke Xiang of {n_song} led the lords into {n_qi}, ended the princes' quarrel and set up Crown Prince Zhao. He meant to be hegemon after Duke Huan."
+   "en": "Duke Xiang of {n_song} led the lords into {n_qi}, ended the princes' quarrel and set up Crown Prince Zhao. He meant to be hegemon after Duke Huan.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "song_cengzi",
@@ -9955,7 +10191,10 @@
    "at": "shangqiu",
    "imp": 1,
    "ja": "{n_song}の襄公は東夷を従わせようと、鄫の君を社の祭りの犠牲にさせた。司馬子魚は「祭りは人のためにある。人を犠牲にして、どの神が受けようか」と嘆いた。",
-   "en": "To win over the Eastern Yi, Duke Xiang of {n_song} had the lord of Zeng offered at an altar. \"Rites are for the people,\" lamented the marshal Ziyu; \"what god would accept a man as an offering?\""
+   "en": "To win over the Eastern Yi, Duke Xiang of {n_song} had the lord of Zeng offered at an altar. \"Rites are for the people,\" lamented the marshal Ziyu; \"what god would accept a man as an offering?\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qin_annex_rui",
@@ -9973,7 +10212,10 @@
    ],
    "at": "rui",
    "ja": "{r_qin}は{n_rui}を滅ぼした。",
-   "en": "{r_qin} destroyed {n_rui}."
+   "en": "{r_qin} destroyed {n_rui}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "yu_meeting",
@@ -9994,7 +10236,10 @@
    "at": "shangqiu",
    "imp": 1,
    "ja": "盂の会で、兵を連れずに来た{n_song}の襄公は{n_chu}に捕らえられ、冬になってようやく帰された。",
-   "en": "At the meeting of Yu, Duke Xiang of {n_song}, come without troops, was seized by {n_chu}; he was let go only in winter."
+   "en": "At the meeting of Yu, Duke Xiang of {n_song}, come without troops, was seized by {n_chu}; he was let go only in winter.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "hongshui",
@@ -10024,7 +10269,10 @@
    ],
    "imp": 3,
    "ja": "泓水の戦い。{r_song}は「人の困窮に乗じず」と、{n_chu}の軍が川を渡り陣を整えるのを待ってから戦い、大敗して股に傷を負った。後世これを「宋襄の仁」と笑う。",
-   "en": "At the Hong River {r_song} would not \"take advantage of another's distress\" and waited until {n_chu} had crossed and formed up. He lost, and was wounded in the thigh. Later ages laughed at \"the benevolence of Duke Xiang of Song\"."
+   "en": "At the Hong River {r_song} would not \"take advantage of another's distress\" and waited until {n_chu} had crossed and formed up. He lost, and was wounded in the thigh. Later ages laughed at \"the benevolence of Duke Xiang of Song\".",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chonger_chu",
@@ -10035,7 +10283,10 @@
    "at": "ying",
    "imp": 1,
    "ja": "流浪の晋の公子重耳は{n_chu}の成王にもてなされ、「もし晋と楚が戦場で会えば、軍を三舎 (九十里) 退こう」と約した。",
-   "en": "The wandering Prince Chong'er of Jin was feasted by King Cheng of {n_chu}, and promised: should Jin and Chu meet in battle, he would fall back three days' march."
+   "en": "The wandering Prince Chong'er of Jin was feasted by King Cheng of {n_chu}, and promised: should Jin and Chu meet in battle, he would fall back three days' march.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_huai_killed",
@@ -10047,7 +10298,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "秦の兵に送られた重耳が{n_jin}に入ると、懐公は高梁へ逃れ、そこで殺された。",
-   "en": "As Chong'er came into {n_jin} with the men of Qin, Duke Huai fled to Gaoliang and was killed there."
+   "en": "As Chong'er came into {n_jin} with the men of Qin, Duke Huai fled to Gaoliang and was killed there.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chonger_returns",
@@ -10072,7 +10326,10 @@
    ],
    "imp": 3,
    "ja": "十九年の流浪の末、公子重耳は{r_qin}の兵に送られて{n_jin}に帰り、位に即いた。従者の[[p:介子推]]は恩賞を求めず、母と山に隠れた。",
-   "en": "After nineteen years of wandering, Prince Chong'er returned to {n_jin} escorted by {r_qin}'s soldiers and took the throne. His follower [[p:介子推|Jie Zitui]] asked no reward and hid in the mountains with his mother."
+   "en": "After nineteen years of wandering, Prince Chong'er returned to {n_jin} escorted by {r_qin}'s soldiers and took the throne. His follower [[p:介子推|Jie Zitui]] asked no reward and hid in the mountains with his mother.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_restores_zhou",
@@ -10093,7 +10350,10 @@
    "at": "luoyi",
    "imp": 2,
    "ja": "{n_jin}の文公は王子帯を討ち、狄に追われていた周の襄王を王城に帰した。王は陽樊・温など四邑を晋に与えた。",
-   "en": "Duke Wen of {n_jin} killed Prince Dai and brought [[p:燕王喜|King Xi]]ang of Zhou, driven out by the Di, back to his city. The king gave Jin four towns, Yangfan and Wen among them."
+   "en": "Duke Wen of {n_jin} killed Prince Dai and brought [[p:燕王喜|King Xi]]ang of Zhou, driven out by the Di, back to his city. The king gave Jin four towns, Yangfan and Wen among them.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wey_annex_xing",
@@ -10111,7 +10371,10 @@
    ],
    "at": "xing",
    "ja": "{r_wey}は同姓の{n_xing}を滅ぼした。",
-   "en": "{r_wey} destroyed {n_xing}, a house of its own clan."
+   "en": "{r_wey} destroyed {n_xing}, a house of its own clan.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_beilu",
@@ -10130,7 +10393,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{n_jin}の文公は被廬で大閲兵を行って三軍を設け、郤縠を中軍の将とした。",
-   "en": "Duke Wen of {n_jin} held a great review at Beilu, raised three armies and put Xi Hu at the head of the central one."
+   "en": "Duke Wen of {n_jin} held a great review at Beilu, raised three armies and put Xi Hu at the head of the central one.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chengpu",
@@ -10166,7 +10432,10 @@
    ],
    "imp": 3,
    "ja": "城濮の戦い。{r_jin}は流浪の頃に楚王と交わした約束を守って[[a:tuisan|「三舎」]](九十里)退き、そのうえで{n_chu}の将子玉の軍を破った。続く践土の会盟で晋は覇者となった。",
-   "en": "At Chengpu {r_jin} kept the promise made to the King of Chu in his wandering years and [[a:tuisan|fell back three days' march]] before he fought — then broke the army of {n_chu}'s general Ziyu. At the covenant of Jiantu that followed, Jin became hegemon."
+   "en": "At Chengpu {r_jin} kept the promise made to the King of Chu in his wandering years and [[a:tuisan|fell back three days' march]] before he fought — then broke the army of {n_chu}'s general Ziyu. At the covenant of Jiantu that followed, Jin became hegemon.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhu_zhiwu",
@@ -10180,7 +10449,10 @@
    "at": "xinzheng",
    "imp": 2,
    "ja": "{n_jin}と{n_qin}に囲まれた{n_zheng}の老臣[[p:燭之武]]は、夜に縄で城を下り、秦の穆公に「鄭が滅べば晋が肥えるだけ」と説いた。秦は兵を引き、鄭に守りの兵を残して帰った。",
-   "en": "Besieged by {n_jin} and {n_qin}, old [[p:燭之武|Zhu Zhiwu]] of {n_zheng} was let down the wall on a rope by night and told Duke Mu of Qin that Zheng's fall would only fatten Jin. Qin withdrew, leaving men to guard Zheng."
+   "en": "Besieged by {n_jin} and {n_qin}, old [[p:燭之武|Zhu Zhiwu]] of {n_zheng} was let down the wall on a rope by night and told Duke Mu of Qin that Zheng's fall would only fatten Jin. Qin withdrew, leaving men to guard Zheng.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "xiao",
@@ -10215,7 +10487,10 @@
    ],
    "imp": 3,
    "ja": "殽の戦い。{n_zheng}を襲おうとした{n_qin}の軍は、牛を献じて時を稼いだ鄭の商人[[p:弦高]]に企てを見抜かれて引き返し、帰路の殽山で{n_jin}に待ち伏せされ全滅した。",
-   "en": "The battle of Xiao. Qin's army, sent to take {n_zheng} by surprise, was found out by the Zheng merchant [[p:弦高|Xian Gao]], who offered it oxen to buy time; on the way home it was ambushed by {n_jin} in the Xiao hills and destroyed."
+   "en": "The battle of Xiao. Qin's army, sent to take {n_zheng} by surprise, was found out by the Zheng merchant [[p:弦高|Xian Gao]], who offered it oxen to buy time; on the way home it was ambushed by {n_jin} in the Xiao hills and destroyed.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qin_wangguan",
@@ -10236,7 +10511,10 @@
    "at": "yong",
    "imp": 1,
    "ja": "{n_qin}の穆公は黄河を渡ると舟を焼いて退路を断ち、{n_jin}の王官を取った。殽に寄って三年前の戦死者の骨を葬り、喪に服して帰った。",
-   "en": "Duke Mu of {n_qin} crossed the Yellow River, burned his boats and took Wangguan from {n_jin}; at Xiao he buried the bones of the dead of three years before, mourned them, and went home."
+   "en": "Duke Mu of {n_qin} crossed the Yellow River, burned his boats and took Wangguan from {n_jin}; at Xiao he buried the bones of the dead of three years before, mourned them, and went home.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qin_rong",
@@ -10260,7 +10538,10 @@
    ],
    "imp": 3,
    "ja": "{r_qin}は[[p:由余]]の策を用いて西戎を討ち、十二の国を併せ千里の地を開いた。周王は金鼓を贈って祝った。",
-   "en": "On [[p:由余|You Yu]]'s counsel {r_qin} subdued the western Rong, adding twelve realms and a thousand li of land. The Zhou king sent bronze drums in congratulation."
+   "en": "On [[p:由余|You Yu]]'s counsel {r_qin} subdued the western Rong, adding twelve realms and a thousand li of land. The Zhou king sent bronze drums in congratulation.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qin_three_good",
@@ -10279,7 +10560,10 @@
    "at": "yong",
    "imp": 1,
    "ja": "{n_qin}の穆公が没し、百七十七人が殉葬された。その中に子車氏の三人の良臣がいた。秦の人々は哀れんで「黄鳥」の歌を作った。",
-   "en": "Duke Mu of {n_qin} died, and a hundred and seventy-seven went into the grave with him — among them three fine men of the Ziju clan. The people of Qin mourned them in the song \"The Yellow Birds\"."
+   "en": "Duke Mu of {n_qin} died, and a hundred and seventy-seven went into the grave with him — among them three fine men of the Ziju clan. The people of Qin mourned them in the song \"The Yellow Birds\".",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_zhaodun",
@@ -10291,7 +10575,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{n_jin}の襄公が没すると、[[p:趙盾]]は年長の君を秦から迎えようとしたが、太子の母に朝堂で泣きつかれて幼い太子 (霊公) を立て、迎えに来た秦の兵を令狐で討った。",
-   "en": "When Duke Xiang of {n_jin} died, [[p:趙盾|Zhao Dun]] meant to fetch an older prince from Qin; but the heir's mother wept before the court, so he set up the child (Duke Ling), and fought off the Qin escort at Linghu."
+   "en": "When Duke Xiang of {n_jin} died, [[p:趙盾|Zhao Dun]] meant to fetch an older prince from Qin; but the heir's mother wept before the court, so he set up the child (Duke Ling), and fought off the Qin escort at Linghu.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "comet_613",
@@ -10303,7 +10590,11 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の史官は「星孛 (ほうきぼし) 有り、北斗に入る」と記した。",
-   "en": "The scribes of {n_lu} wrote: \"A broom-star entered the Northern Dipper.\""
+   "en": "The scribes of {n_lu} wrote: \"A broom-star entered the Northern Dipper.\"",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "chu_annex_yong",
@@ -10321,7 +10612,11 @@
    ],
    "at": "shangyong",
    "ja": "{r_chu}は三年鳴かず飛ばずと言われた日々を終え、{n_yong}を滅ぼした。「一たび鳴けば人を驚かす」。",
-   "en": "After three years in which, people said, he \"neither sang nor flew\", {r_chu} destroyed {n_yong}. \"Once it sings, it will astonish the world.\""
+   "en": "After three years in which, people said, he \"neither sang nor flew\", {r_chu} destroyed {n_yong}. \"Once it sings, it will astonish the world.\"",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "chu_qunman",
@@ -10341,7 +10636,10 @@
    "imp": 1,
    "at": "qunman",
    "ja": "{n_yong}を滅ぼした{r_chu}に、群蛮の諸族も従った。",
-   "en": "With {n_yong} destroyed, the Man peoples too submitted to {r_chu}."
+   "en": "With {n_yong} destroyed, the Man peoples too submitted to {r_chu}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "song_zhao_killed",
@@ -10353,7 +10651,10 @@
    "at": "shangqiu",
    "imp": 1,
    "ja": "{n_song}の昭公は狩りに出たところを、祖母の襄夫人の差し向けた者に殺された。昭公は逃れられぬと知りながら、宝を従者に分け与えてから出かけたという。",
-   "en": "Duke Zhao of {n_song} was killed on a hunt by men his grandmother Lady Xiang sent. Knowing he could not escape, it is said, he gave his treasures to his followers before he set out."
+   "en": "Duke Zhao of {n_song} was killed on a hunt by men his grandmother Lady Xiang sent. Knowing he could not escape, it is said, he gave his treasures to his followers before he set out.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_yi_killed",
@@ -10365,7 +10666,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_qi}の懿公は、父を辱めた邴歜と妻を奪った閻職を側近にしていた。二人は池で水浴びしながら互いの恨みを語り合い、竹林で懿公を殺した。",
-   "en": "Duke Yi of {n_qi} kept close Bing Chu, whose father he had shamed, and Yan Zhi, whose wife he had taken. Bathing in a pond the two spoke of their grudges, and killed him in a bamboo grove."
+   "en": "Duke Yi of {n_qi} kept close Bing Chu, whose father he had shamed, and Yan Zhi, whose wife he had taken. Bathing in a pond the two spoke of their grudges, and killed him in a bamboo grove.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_xiangzhong",
@@ -10385,7 +10689,10 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の襄仲は太子悪とその弟を殺して、宣公を立てた。太子の母は市を泣きながら歩き、「襄仲は道に背いた」と叫んだ。",
-   "en": "Xiangzhong of {n_lu} killed the heir and his brother and set up Duke Xuan. The heir's mother walked weeping through the market, crying that Xiangzhong had gone against the Way."
+   "en": "Xiangzhong of {n_lu} killed the heir and his brother and set up Duke Xuan. The heir's mother walked weeping through the market, crying that Xiangzhong had gone against the Way.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "ling_of_jin",
@@ -10403,7 +10710,10 @@
     ]
    ],
    "ja": "暴君と呼ばれた{n_jin}の霊公が趙穿に殺された。史官董狐は「[[p:趙盾]]その君を弑す」と書き、筆を曲げなかった。",
-   "en": "Duke Ling of {n_jin}, called a tyrant, was killed by Zhao Chuan. The scribe Dong Hu wrote \"[[p:趙盾|Zhao Dun]] killed his lord\" and would not change a word."
+   "en": "Duke Ling of {n_jin}, called a tyrant, was killed by Zhao Chuan. The scribe Dong Hu wrote \"[[p:趙盾|Zhao Dun]] killed his lord\" and would not change a word.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "cauldrons",
@@ -10429,7 +10739,10 @@
    "imp": 3,
    "at": "luoyi",
    "ja": "{r_chu}は兵を洛水のほとりに進め、周の使者に九鼎の大小と重さを尋ねた。使者王孫満は「徳に在りて鼎に在らず」と答えた。",
-   "en": "{r_chu} brought his army to the banks of the Luo and asked the Zhou envoy how large and heavy the Nine Cauldrons were. \"It lies in virtue, not in the cauldrons,\" answered Wangsun Man."
+   "en": "{r_chu} brought his army to the banks of the Luo and asked the Zhou envoy how large and heavy the Nine Cauldrons were. \"It lies in virtue, not in the cauldrons,\" answered Wangsun Man.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_turtle",
@@ -10441,7 +10754,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_zheng}の公子宋は人差し指が動くのを見て「ご馳走にありつける前触れ」と笑った。霊公はすっぽんの羹を彼にだけ与えず、公子宋は鍋に指を入れて舐めて去った (食指が動く)。恥じた公子宋は霊公を殺した。",
-   "en": "Prince Song of {n_zheng} laughed that his twitching forefinger meant a treat was coming. Duke Ling served turtle soup to all but him; Song dipped his finger in the pot, licked it and walked out. Shamed, he killed the duke."
+   "en": "Prince Song of {n_zheng} laughed that his twitching forefinger meant a treat was coming. Duke Ling served turtle soup to all but him; Song dipped his finger in the pot, licked it and walked out. Shamed, he killed the duke.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_ruoao",
@@ -10461,7 +10777,10 @@
    "at": "ying",
    "imp": 2,
    "ja": "{n_chu}の令尹闘越椒 (若敖氏) が背いた。荘王は皐滸で迎え撃ち、越椒の放った矢が王の車をかすめるなか、若敖氏を滅ぼした。",
-   "en": "Dou Yuejiao of the Ruo'ao clan, chief minister of {n_chu}, rose in revolt. King Zhuang met him at Gaohu — Yuejiao's arrows grazed the king's chariot — and destroyed the clan."
+   "en": "Dou Yuejiao of the Ruo'ao clan, chief minister of {n_chu}, rose in revolt. King Zhuang met him at Gaohu — Yuejiao's arrows grazed the king's chariot — and destroyed the clan.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_shu",
@@ -10480,7 +10799,10 @@
    "imp": 1,
    "at": "shu_huai",
    "ja": "{r_chu}は群舒を討ち、その地を併せた。",
-   "en": "{r_chu} subdued the Shu peoples and took their land."
+   "en": "{r_chu} subdued the Shu peoples and took their land.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "xia_ji",
@@ -10498,7 +10820,10 @@
     ]
    ],
    "ja": "{n_chen}の霊公は[[p:夏姫]]のもとに通い、その[[p:子夏]]徴舒に射殺された。",
-   "en": "Duke Ling of {n_chen}, a frequent guest of the lady [[p:夏姫|Xia Ji]], was shot dead by her son Xia Zhengshu."
+   "en": "Duke Ling of {n_chen}, a frequent guest of the lady [[p:夏姫|Xia Ji]], was shot dead by her son Xia Zhengshu.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_chen_598",
@@ -10519,7 +10844,10 @@
    "at": "wanqiu",
    "imp": 2,
    "ja": "{n_chu}の荘王は夏徴舒を討って{n_chen}を県としたが、申叔時に「牛が田を踏み荒らしたからといって、牛を取り上げるのは罰が重すぎる」と諫められ、陳を元に戻した。",
-   "en": "King Zhuang of {n_chu} punished Xia Zhengshu and made {n_chen} a county — then Shen Shushi told him: \"If a man's ox tramples your field, to take the ox is too heavy a fine.\" The king restored Chen."
+   "en": "King Zhuang of {n_chu} punished Xia Zhengshu and made {n_chen} a county — then Shen Shushi told him: \"If a man's ox tramples your field, to take the ox is too heavy a fine.\" The king restored Chen.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_submits",
@@ -10532,7 +10860,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_chu}に三か月囲まれた{n_zheng}の襄公は、肌脱ぎになって羊を牽いて王を迎えた。荘王は「その君がよく人にへりくだる。その民も必ず信を守るだろう」と言って兵を退いた。",
-   "en": "After three months of siege by {n_chu}, Duke Xiang of {n_zheng} came out bare-shouldered leading a sheep. \"A lord who can humble himself so will have a people who keep faith,\" said King Zhuang, and drew back."
+   "en": "After three months of siege by {n_chu}, Duke Xiang of {n_zheng} came out bare-shouldered leading a sheep. \"A lord who can humble himself so will have a people who keep faith,\" said King Zhuang, and drew back.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "bi",
@@ -10562,7 +10893,10 @@
    ],
    "imp": 3,
    "ja": "邲の戦い。{r_chu}は黄河のほとりで{n_jin}の大軍を破った。晋兵は舟の縁にすがる味方の指を切り落として逃れ、舟の中の指は掬えるほどであったという。",
-   "en": "At Bi {r_chu} defeated the great host of {n_jin} by the Yellow River. Jin's men in the boats cut off the fingers of comrades clinging to the sides, and the fingers in the boats could be scooped up by the handful."
+   "en": "At Bi {r_chu} defeated the great host of {n_jin} by the Yellow River. Jin's men in the boats cut off the fingers of comrades clinging to the sides, and the fingers in the boats could be scooped up by the handful.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "song_siege_begins",
@@ -10586,6 +10920,9 @@
       "en": "Chu's siege of Song"
      }
     ]
+   ],
+   "src": [
+    "zuo"
    ]
   },
   {
@@ -10607,7 +10944,10 @@
    "at": "shangqiu",
    "imp": 2,
    "ja": "{n_chu}に九か月囲まれた{n_song}では、子を取り替えて食い、骨を割いて薪にしたという。[[p:華元]]は夜に楚の陣の[[p:子反]]の寝床に忍び込んで実情を明かし、両国は「爾は我を詐かず、我は爾を虞らず」と盟を結んだ。",
-   "en": "Besieged nine months by {n_chu}, the people of {n_song} exchanged children to eat and split bones for firewood, it is said. [[p:華元|Hua Yuan]] crept into the Chu commander [[p:子反|Zifan]]'s bed by night and told him the truth; the two swore: \"You do not deceive us, we do not fear you.\""
+   "en": "Besieged nine months by {n_chu}, the people of {n_song} exchanged children to eat and split bones for firewood, it is said. [[p:華元|Hua Yuan]] crept into the Chu commander [[p:子反|Zifan]]'s bed by night and told him the truth; the two swore: \"You do not deceive us, we do not fear you.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_land_tax",
@@ -10624,7 +10964,11 @@
     ]
    ],
    "ja": "{n_lu}は初めて田の広さに応じて税を取った ([[a:chushuimu|初税畝]])。",
-   "en": "{n_lu} for the first time [[a:chushuimu|taxed land by its area]]."
+   "en": "{n_lu} for the first time [[a:chushuimu|taxed land by its area]].",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "jin_chidi",
@@ -10643,7 +10987,10 @@
    "imp": 3,
    "at": "lu_di",
    "ja": "{n_jin}の[[p:荀林父]]は{n_chidi}の潞氏を滅ぼし、晋は太行山の東西にまたがる大国となった。",
-   "en": "[[p:荀林父|Xun Linfu]] of {n_jin} destroyed the Lu clan of {n_chidi}, and Jin spread across both sides of the Taihang mountains."
+   "en": "[[p:荀林父|Xun Linfu]] of {n_jin} destroyed the Lu clan of {n_chidi}, and Jin spread across both sides of the Taihang mountains.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_shihui",
@@ -10662,7 +11009,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{n_jin}の[[p:士会]]が中軍の将となって法を正すと、国中の盗賊は秦へ逃げ出したという。",
-   "en": "When [[p:士会|Shi Hui]] became commander of the central army of {n_jin} and set the laws straight, the thieves of the realm all fled to Qin, it was said."
+   "en": "When [[p:士会|Shi Hui]] became commander of the central army of {n_jin} and set the laws straight, the thieves of the realm all fled to Qin, it was said.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "xi_ke_qi",
@@ -10675,7 +11025,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "使者として{n_qi}に来た{n_jin}の[[p:郤克]]は足が不自由で、帷の陰からそれを見た斉の頃公の母に笑われた。郤克は「この恥を雪がずには黄河を渡るまい」と誓った。",
-   "en": "[[p:郤克|Xi Ke]] of {n_jin}, sent to {n_qi}, walked with a limp, and Duke Qing's mother laughed at him from behind a curtain. Xi Ke swore not to cross the Yellow River again until the shame was avenged."
+   "en": "[[p:郤克|Xi Ke]] of {n_jin}, sent to {n_qi}, walked with a limp, and Duke Qing's mother laughed at him from behind a curtain. Xi Ke swore not to cross the Yellow River again until the shame was avenged.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_qiujia",
@@ -10693,7 +11046,11 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}は「丘甲を作る」。丘ごとに甲冑と兵を出させる新しい賦の取り方であった。",
-   "en": "{n_lu} \"made the qiu-armour\": every rural district now owed soldiers and their armour."
+   "en": "{n_lu} \"made the qiu-armour\": every rural district now owed soldiers and their armour.",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "an",
@@ -10722,7 +11079,10 @@
     ]
    ],
    "ja": "鞍の戦い。{n_jin}の軍が{n_qi}を破った。斉の頃公は御者と衣を取り替えて逃れた。",
-   "en": "At An {n_jin} defeated {n_qi}. Duke Qing of Qi escaped by changing clothes with his charioteer."
+   "en": "At An {n_jin} defeated {n_qi}. Duke Qing of Qi escaped by changing clothes with his charioteer.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_six_armies",
@@ -10741,7 +11101,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{n_jin}は軍を六軍に増やし、[[p:韓厥]]・[[p:趙括]]・鞏朔らを卿とした。",
-   "en": "{n_jin} enlarged its forces to six armies, making [[p:韓厥|Han Jue]], [[p:趙括|Zhao Kuo]], Gong Shuo and others ministers."
+   "en": "{n_jin} enlarged its forces to six armies, making [[p:韓厥|Han Jue]], [[p:趙括|Zhao Kuo]], Gong Shuo and others ministers.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "liangshan",
@@ -10752,7 +11115,10 @@
    "at": "yi",
    "imp": 1,
    "ja": "{n_jin}の梁山が崩れた。人々は君に食を減らし、服を改め、祈りを捧げることを勧めた。",
-   "en": "Mount Liang in {n_jin} collapsed. The lord was urged to eat less, change his dress and offer prayers."
+   "en": "Mount Liang in {n_jin} collapsed. The lord was urged to eat less, change his dress and offer prayers.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_xintian",
@@ -10771,7 +11137,10 @@
    "at": "xintian",
    "imp": 2,
    "ja": "{r_jin}は、土地が肥えて水の便のよい新田に都を移し、これを新絳と呼んだ。",
-   "en": "{r_jin} moved the capital to Xintian, rich land with good water, and called it New Jiang."
+   "en": "{r_jin} moved the capital to Xintian, rich land with good water, and called it New Jiang.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wu_chariots",
@@ -10795,7 +11164,10 @@
    "imp": 3,
    "at": "meili",
    "ja": "楚から亡命した[[p:巫臣]]が{n_wu}に[[a:chariot|戦車]]と弓射の術を伝えた。呉は中原の国々と通じ、楚を背後から脅かし始めた。",
-   "en": "Wuchen, an exile from Chu, taught {n_wu} to fight with [[a:chariot|chariots]] and bows. Wu opened ties with the Central Plain and began to threaten Chu from behind."
+   "en": "Wuchen, an exile from Chu, taught {n_wu} to fight with [[a:chariot|chariots]] and bows. Wu opened ties with the Central Plain and began to threaten Chu from behind.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "xiagong",
@@ -10807,7 +11179,10 @@
    "at": "xintian",
    "imp": 2,
    "ja": "{n_jin}の趙同・[[p:趙括]]が討たれ、趙氏は一時絶えかけた (下宮の難)。[[p:韓厥]]が[[p:趙衰]]・[[p:趙盾]]の功を説いて、幼い[[p:趙武]]に家を継がせた。のちの「趙氏孤児」の物語のもとである。",
-   "en": "Zhao Tong and [[p:趙括|Zhao Kuo]] of {n_jin} were put to death and the Zhao clan nearly ended. [[p:韓厥|Han Jue]] spoke of the deeds of [[p:趙衰|Zhao Cui]] and [[p:趙盾|Zhao Dun]], and the boy [[p:趙武|Zhao Wu]] was allowed to carry on the house — the seed of the later tale of \"the Orphan of Zhao\"."
+   "en": "Zhao Tong and [[p:趙括|Zhao Kuo]] of {n_jin} were put to death and the Zhao clan nearly ended. [[p:韓厥|Han Jue]] spoke of the deeds of [[p:趙衰|Zhao Cui]] and [[p:趙盾|Zhao Dun]], and the boy [[p:趙武|Zhao Wu]] was allowed to carry on the house — the seed of the later tale of \"the Orphan of Zhao\".",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhong_yi",
@@ -10819,7 +11194,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "{n_jin}に捕らわれていた楚の鍾儀は、南方の冠を着け続け、琴を与えられると楚の調べを弾いた。范文子は「故郷を忘れぬ君子だ」と称え、晋は鍾儀を帰して楚と和を求めた。",
-   "en": "Zhong Yi of Chu, a captive in {n_jin}, still wore a southern cap, and given a zither played the tunes of Chu. \"A gentleman who does not forget his home,\" said Fan Wenzi; Jin sent him back to seek peace with Chu."
+   "en": "Zhong Yi of Chu, a captive in {n_jin}, still wore a southern cap, and given a zither played the tunes of Chu. \"A gentleman who does not forget his home,\" said Fan Wenzi; Jin sent him back to seek peace with Chu.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "first_truce",
@@ -10837,7 +11215,10 @@
     ]
    ],
    "ja": "宋の[[p:華元]]の仲立ちで、{n_jin}と{n_chu}は兵を収める盟を結んだ。",
-   "en": "Through the mediation of [[p:華元|Hua Yuan]] of Song, {n_jin} and {n_chu} swore to lay down arms."
+   "en": "Through the mediation of [[p:華元|Hua Yuan]] of Song, {n_jin} and {n_chu} swore to lay down arms.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "maqiu",
@@ -10873,7 +11254,10 @@
    "at": "yong",
    "imp": 2,
    "ja": "{n_jin}は呂相を遣わして{n_qin}に絶交の書を送り、諸侯の兵とともに麻隧で秦を破った。",
-   "en": "{n_jin} sent Lü Xiang with a letter breaking off with {n_qin}, and with the lords' armies beat Qin at Masui."
+   "en": "{n_jin} sent Lü Xiang with a letter breaking off with {n_qin}, and with the lords' armies beat Qin at Masui.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "yanling",
@@ -10903,7 +11287,10 @@
    ],
    "imp": 3,
    "ja": "鄢陵の戦い。{n_jin}は{n_chu}を破り、楚の共王は目に矢を受けた。",
-   "en": "At Yanling {n_jin} defeated {n_chu}; King Gong of Chu was struck in the eye by an arrow."
+   "en": "At Yanling {n_jin} defeated {n_chu}; King Gong of Chu was struck in the eye by an arrow.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_li_killed",
@@ -10923,7 +11310,10 @@
    "at": "xintian",
    "imp": 2,
    "ja": "三郤を殺して権臣を除こうとした{n_jin}の厲公は、逆に[[p:欒書]]と中行偃に捕らえられて殺された。十四歳の悼公が周から迎えられた。",
-   "en": "Duke Li of {n_jin}, who had killed the three Xi to break the great ministers, was seized and killed by [[p:欒書|Luan Shu]] and Zhonghang Yan. Duke Dao, fourteen years old, was fetched from Zhou."
+   "en": "Duke Li of {n_jin}, who had killed the three Xi to break the great ministers, was seized and killed by [[p:欒書|Luan Shu]] and Zhonghang Yan. Duke Dao, fourteen years old, was fetched from Zhou.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_dao_order",
@@ -10949,7 +11339,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "{n_jin}の悼公は位につくと、滞った負債を免じ、寡婦や老人を助け、才ある者を官につけた。晋の覇業は再び盛んになった。",
-   "en": "On taking the seat Duke Dao of {n_jin} forgave old debts, cared for widows and the old and put able men in office. Jin's leadership of the lords revived."
+   "en": "On taking the seat Duke Dao of {n_jin} forgave old debts, cared for widows and the old and put able men in office. Jin's leadership of the lords revived.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wei_jiang_yanggan",
@@ -10961,7 +11354,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "鶏沢の会で、{n_jin}の司馬[[p:魏絳]]は軍の列を乱した悼公の弟楊干の御者を斬った。悼公は怒ったが、魏絳の書を読むと裸足で駆け出して詫びた。",
-   "en": "At the meeting of Jize, [[p:魏絳|Wei Jiang]], marshal of {n_jin}, beheaded the driver of Yang Gan, the duke's brother, for breaking the ranks. Duke Dao was furious — until he read Wei Jiang's letter, and ran out barefoot to apologise."
+   "en": "At the meeting of Jize, [[p:魏絳|Wei Jiang]], marshal of {n_jin}, beheaded the driver of Yang Gan, the duke's brother, for breaking the ranks. Duke Dao was furious — until he read Wei Jiang's letter, and ran out barefoot to apologise.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "he_rong",
@@ -10980,7 +11376,10 @@
    "at": "xintian",
    "imp": 2,
    "ja": "{n_jin}の[[p:魏絳]]は戎狄と和すことの五つの利を説き、悼公はこれを容れて諸戎と盟を結んだ。晋は北の憂いなく中原に力を注げるようになった。",
-   "en": "[[p:魏絳|Wei Jiang]] of {n_jin} set out the five gains of peace with the Rong and Di; Duke Dao agreed and made covenants with them. Jin could turn its strength to the central plain without fear for the north."
+   "en": "[[p:魏絳|Wei Jiang]] of {n_jin} set out the five gains of peace with the Rong and Di; Duke Dao agreed and made covenants with them. Jin could turn its strength to the central plain without fear for the north.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_annex_lai",
@@ -10998,7 +11397,10 @@
    ],
    "at": "lai",
    "ja": "{r_qi}は東方の{n_lai}を滅ぼし、海辺の地を手に入れた。",
-   "en": "{r_qi} destroyed {n_lai} in the east and won the coast."
+   "en": "{r_qi} destroyed {n_lai} in the east and won the coast.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_xi_killed",
@@ -11010,7 +11412,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_zheng}の僖公は、礼を欠いたことで恨みを買っていた子駟に殺された。子駟は病死と偽って告げた。",
-   "en": "Duke Xi of {n_zheng}, who had given offence to Zisi, was killed by him; Zisi gave out that the duke had died of illness."
+   "en": "Duke Xi of {n_zheng}, who had given offence to Zisi, was killed by him; Zisi gave out that the duke had died of illness.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "biyang",
@@ -11022,7 +11427,10 @@
    "at": "pengcheng",
    "imp": 1,
    "ja": "諸侯の軍が偪陽を攻めたとき、城門の落とし戸が下りて味方が閉じ込められかけると、魯の叔梁紇が両手で戸を支え上げて兵を逃した。叔梁紇は[[p:孔子]]の父である。",
-   "en": "When the lords' armies stormed Biyang and the portcullis dropped to trap the men inside, Shuliang He of Lu held it up with his hands until they got out. He was the father of [[p:孔子|Confucius]]."
+   "en": "When the lords' armies stormed Biyang and the portcullis dropped to trap the men inside, Shuliang He of Lu held it up with his hands until they got out. He was the father of [[p:孔子|Confucius]].",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_xigong",
@@ -11042,7 +11450,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_zheng}で尉止らが乱を起こし、執政の子駟・子国らを殺した (西宮の難)。子国の子[[p:子産]]は、門を固め兵を整えてから父の仇を討った。",
-   "en": "Wei Zhi and others rose in {n_zheng} and killed the ministers Zisi and Ziguo. Ziguo's son [[p:子産|Zichan]] first secured the gates and drew up his men, then avenged his father."
+   "en": "Wei Zhi and others rose in {n_zheng} and killed the ministers Zisi and Ziguo. Ziguo's son [[p:子産|Zichan]] first secured the gates and drew up his men, then avenged his father.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_three_armies",
@@ -11062,7 +11473,10 @@
    "at": "qufu",
    "imp": 2,
    "ja": "{n_lu}は三軍を作り、季孫・叔孫・孟孫の三家 (三桓) がそれぞれ一軍を取って、公室の民を分け合った。",
-   "en": "{n_lu} raised three armies, and the three great houses — the Jisun, Shusun and Mengsun — each took one, dividing the duke's people among themselves."
+   "en": "{n_lu} raised three armies, and the three great houses — the Jisun, Shusun and Mengsun — each took one, dividing the duke's people among themselves.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "xiaoyu",
@@ -11083,7 +11497,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "蕭魚の会で{n_zheng}はついに{n_jin}に従い、楽師と歌鐘、女楽を献じた。悼公はその半ばを「和戎の功」として[[p:魏絳]]に与えた。",
-   "en": "At the meeting of Xiaoyu {n_zheng} at last submitted to {n_jin}, sending musicians, a set of bells and dancing girls. Duke Dao gave half to [[p:魏絳|Wei Jiang]] for his peace with the Rong."
+   "en": "At the meeting of Xiaoyu {n_zheng} at last submitted to {n_jin}, sending musicians, a set of bells and dancing girls. Duke Dao gave half to [[p:魏絳|Wei Jiang]] for his peace with the Rong.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wey_xian_exile",
@@ -11103,7 +11520,10 @@
    "at": "diqiu",
    "imp": 1,
    "ja": "{n_wey}の献公は、食事に招いた孫林父と甯殖を待たせたまま園で雁を射て、二人を怒らせた。献公は追われて斉へ逃れた。",
-   "en": "Duke Xian of {n_wey} invited Sun Linfu and Ning Zhi to dine, then left them waiting while he shot geese in his park. They drove him out; he fled to Qi."
+   "en": "Duke Xian of {n_wey} invited Sun Linfu and Ning Zhi to dine, then left them waiting while he shot geese in his park. They drove him out; he fled to Qi.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qianyan",
@@ -11116,7 +11536,10 @@
    "at": "yong",
    "imp": 1,
    "ja": "{n_jin}は諸侯の軍を率いて{n_qin}を討ったが、将たちの足並みが揃わず、得るところなく引き返した。人々はこれを「遷延の役」と呼んで笑った。",
-   "en": "{n_jin} led the lords' armies against {n_qin}, but the commanders could not agree and they turned back with nothing — \"the campaign of dawdling\", people called it."
+   "en": "{n_jin} led the lords' armies against {n_qin}, but the commanders could not agree and they turned back with nothing — \"the campaign of dawdling\", people called it.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "pingyin",
@@ -11146,7 +11569,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_jin}は諸侯の軍とともに{n_qi}を攻め、平陰で破って臨淄の城門を焼いた。晋軍は山に旗を立て、車に柴を引かせて土煙を上げ、大軍に見せかけたという。",
-   "en": "{n_jin} and the lords attacked {n_qi}, won at Pingyin and burned the gates of Linzi. They had set flags on the hills and dragged brushwood behind chariots to raise dust like a great host."
+   "en": "{n_jin} and the lords attacked {n_qi}, won at Pingyin and burned the gates of Linzi. They had set flags on the hills and dragged brushwood behind chariots to raise dust like a great host.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "luan_ying",
@@ -11166,7 +11592,10 @@
    "at": "quwo",
    "imp": 1,
    "ja": "{n_jin}を追われた欒盈は斉の助けで曲沃に入り、都の絳に攻め込んだが敗れた。欒氏は滅ぼされた。",
-   "en": "Luan Ying, driven out of {n_jin}, slipped into Quwo with Qi's help and attacked the capital, but was beaten; the Luan clan was destroyed."
+   "en": "Luan Ying, driven out of {n_jin}, slipped into Quwo with Qi's help and attacked the capital, but was beaten; the Luan clan was destroyed.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "cui_zhu",
@@ -11184,7 +11613,10 @@
     ]
    ],
    "ja": "{n_qi}の重臣[[p:崔杼]]が荘公を殺した。太史が「崔杼その君を弑す」と書くと崔杼は太史を殺し、その弟たちも同じく書いて殺され、なお末の弟が同じ文を書いたので、崔杼はついに諦めた。",
-   "en": "[[p:崔杼|Cui Zhu]], a great minister of {n_qi}, killed Duke Zhuang. The court scribe wrote \"Cui Zhu killed his lord\"; Cui killed him, then his brothers who wrote the same — and when the youngest wrote it again, Cui gave up."
+   "en": "[[p:崔杼|Cui Zhu]], a great minister of {n_qi}, killed Duke Zhuang. The court scribe wrote \"Cui Zhu killed his lord\"; Cui killed him, then his brothers who wrote the same — and when the youngest wrote it again, Cui gave up.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_wei_yan",
@@ -11204,7 +11636,10 @@
    "at": "ying",
    "imp": 1,
    "ja": "{n_chu}の司馬蔿掩は国中の土地を山林・沼沢・丘陵・平地などに分けて調べ上げ、それぞれに応じた車馬と兵を出させた。",
-   "en": "Wei Yan, marshal of {n_chu}, surveyed the whole realm — forest, marsh, hills and plain — and set the chariots, horses and men each kind of land owed."
+   "en": "Wei Yan, marshal of {n_chu}, surveyed the whole realm — forest, marsh, hills and plain — and set the chariots, horses and men each kind of land owed.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wey_xian_returns",
@@ -11216,7 +11651,10 @@
    "at": "diqiu",
    "imp": 1,
    "ja": "{n_wey}の甯喜は殤公を殺し、十二年を斉で過ごした献公を迎え入れた。翌年、甯喜も献公に殺された。",
-   "en": "Ning Xi of {n_wey} killed Duke Shang and brought back Duke Xian after twelve years in Qi; the next year Duke Xian had Ning Xi killed too."
+   "en": "Ning Xi of {n_wey} killed Duke Shang and brought back Duke Xian after twelve years in Qi; the next year Duke Xian had Ning Xi killed too.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "mibing",
@@ -11242,7 +11680,10 @@
    ],
    "imp": 3,
    "ja": "弭兵の会。宋の向戌の呼びかけで、{n_jin}と{n_chu}をはじめ諸侯が宋に集まり、兵を収めることを誓った。以後四十年、中原の大戦は途絶えた。",
-   "en": "The covenant to end war. At the call of Xiang Xu of Song, {n_jin}, {n_chu} and the lords met in Song and swore to lay down arms; for forty years the great wars of the Central Plain ceased."
+   "en": "The covenant to end war. At the call of Xiang Xu of Song, {n_jin}, {n_chu} and the lords met in Song and swore to lay down arms; for forty years the great wars of the Central Plain ceased.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_qingfeng",
@@ -11255,7 +11696,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "[[p:崔杼]]を滅ぼして{n_qi}の国政を握った慶封は、酒と狩りにふけるうちに諸氏に攻められ、{n_wu}へ逃れた。",
-   "en": "Qing Feng, who had destroyed [[p:崔杼|Cui Zhu]] and held power in {n_qi}, gave himself to wine and hunting until the clans turned on him; he fled to {n_wu}."
+   "en": "Qing Feng, who had destroyed [[p:崔杼|Cui Zhu]] and held power in {n_qi}, gave himself to wine and hunting until the clans turned on him; he fled to {n_wu}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jizha_music",
@@ -11276,7 +11720,10 @@
    "at": "qufu",
    "imp": 2,
    "ja": "{n_wu}の公子[[p:季札]]は使者として北の諸国を巡り、{n_lu}で周の楽をすべて聴いて、国ごとの歌からその国の行く末を言い当てた。晋では「この国の政はいずれ三家に帰する」と言った。",
-   "en": "Prince Jizha of {n_wu} toured the northern states as envoy; in {n_lu} he heard all the music of Zhou and read each land's future from its songs. In Jin he said its rule would pass to three houses."
+   "en": "Prince Jizha of {n_wu} toured the northern states as envoy; in {n_lu} he heard all the music of Zhou and read each land's future from its songs. In Jin he said its rule would pass to three houses.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zichan_rules",
@@ -11295,7 +11742,10 @@
    "at": "xinzheng",
    "imp": 2,
    "ja": "{n_zheng}の[[p:子産]]が国政を執り、田の境と用水路を正した。はじめ人々は「子産を殺す者があれば手を貸そう」と歌ったが、三年後には「子産が死んだら誰が後を継ぐのか」と歌った。",
-   "en": "[[p:子産|Zichan]] took charge of {n_zheng} and set field boundaries and ditches right. At first people sang, \"Whoever kills Zichan, we will help\"; three years on, \"If Zichan dies, who will follow him?\""
+   "en": "[[p:子産|Zichan]] took charge of {n_zheng} and set field boundaries and ditches right. At first people sang, \"Whoever kills Zichan, we will help\"; three years on, \"If Zichan dies, who will follow him?\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "xiangxiao",
@@ -11306,7 +11756,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_zheng}の人々は郷校に集まって政を論じた。郷校を取り壊そうと言う者に[[p:子産]]は「人々の善しとするものは行い、悪しとするものは改める。郷校は我が師だ」と答えた。",
-   "en": "The people of {n_zheng} met in the village schools to talk over the government. When someone proposed tearing them down, [[p:子産|Zichan]] said: \"What they praise I do, what they blame I change. The schools are my teachers.\""
+   "en": "The people of {n_zheng} met in the village schools to talk over the government. When someone proposed tearing them down, [[p:子産|Zichan]] said: \"What they praise I do, what they blame I change. The schools are my teachers.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_taiyuan",
@@ -11326,7 +11779,10 @@
    ],
    "at": "jinyang",
    "ja": "{n_jin}の荀呉は[[a:chariot|戦車]]を降りて歩兵の隊列を組み、大原で狄を破った。",
-   "en": "Xun Wu of {n_jin} had his men leave their [[a:chariot|chariots]] and fight on foot, and beat the Di at Dayuan."
+   "en": "Xun Wu of {n_jin} had his men leave their [[a:chariot|chariots]] and fight on foot, and beat the Di at Dayuan.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_jiaao",
@@ -11346,7 +11802,10 @@
    "at": "ying",
    "imp": 2,
    "ja": "{n_chu}の令尹公子囲は、病を見舞うと称して王 ([[p:郟敖]]) の寝室に入り、冠の紐で絞め殺して自ら立った (霊王)。",
-   "en": "Prince Wei, chief minister of {n_chu}, came to the king's sickroom as if to visit him, strangled him with the cords of his cap and took the throne himself (King Ling)."
+   "en": "Prince Wei, chief minister of {n_chu}, came to the king's sickroom as if to visit him, strangled him with the cords of his cap and took the throne himself (King Ling).",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zichan_qiufu",
@@ -11365,7 +11824,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "{n_zheng}の[[p:子産]]は「丘賦」を作り、丘ごとに軍の費用を負わせた。そしる者に子産は「国のためなら生死も構わぬ」と答えた。",
-   "en": "[[p:子産|Zichan]] of {n_zheng} set the \"district levy\" for the army's costs. To those who reviled him he said: \"For the good of the realm, I care not whether I live or die.\""
+   "en": "[[p:子産|Zichan]] of {n_zheng} set the \"district levy\" for the army's costs. To those who reviled him he said: \"For the good of the realm, I care not whether I live or die.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "shen_meeting",
@@ -11385,7 +11847,10 @@
    "at": "shen_state",
    "imp": 1,
    "ja": "{n_chu}の霊王は申に諸侯を集めて会し、続いて呉を討って、斉から逃れていた慶封を捕らえて殺した。",
-   "en": "King Ling of {n_chu} called the lords to Shen, then struck at Wu, captured Qing Feng — the exile from Qi — and put him to death."
+   "en": "King Ling of {n_chu} called the lords to Shen, then struck at Wu, captured Qing Feng — the exile from Qi — and put him to death.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zichan_code",
@@ -11409,7 +11874,10 @@
     ]
    ],
    "ja": "{n_zheng}の[[p:子産]]は[[a:written_law|刑法を鼎に鋳込んで]]民に示した。晋の[[p:叔向]]は「民が法を知れば争いの元になる」と非難した。",
-   "en": "[[p:子産|Zichan]] of {n_zheng} [[a:written_law|cast the laws on bronze cauldrons]] for all to see. [[p:叔向|Shuxiang]] of Jin objected that a people who know the law will quarrel over it."
+   "en": "[[p:子産|Zichan]] of {n_zheng} [[a:written_law|cast the laws on bronze cauldrons]] for all to see. [[p:叔向|Shuxiang]] of Jin objected that a people who know the law will quarrel over it.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhanghua",
@@ -11432,7 +11900,11 @@
     ]
    ],
    "ja": "{r_chu}は[[a:zhanghuatai|章華台]]を築いた。細い腰の者を好んだので、宮中には食を断って痩せる者が相次いだという。",
-   "en": "{r_chu} built the [[a:zhanghuatai|Zhanghua terrace]]. Because he liked slender waists, people at court starved themselves thin."
+   "en": "{r_chu} built the [[a:zhanghuatai|Zhanghua terrace]]. Because he liked slender waists, people at court starved themselves thin.",
+   "src": [
+    "zuo",
+    "hanfeizi"
+   ]
   },
   {
    "id": "chen_534",
@@ -11445,7 +11917,10 @@
    "at": "wanqiu",
    "imp": 1,
    "ja": "{n_chu}の霊王は{n_chen}の内乱に乗じてこれを滅ぼし、公子棄疾を陳の公とした (陳は五年後に再び立てられる)。",
-   "en": "King Ling of {n_chu} used the strife in {n_chen} to destroy it, and made Prince Qiji lord of Chen (Chen would be set up again five years later)."
+   "en": "King Ling of {n_chu} used the strife in {n_chen} to destroy it, and made Prince Qiji lord of Chen (Chen would be set up again five years later).",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "cai_531",
@@ -11458,7 +11933,10 @@
    "at": "shangcai",
    "imp": 2,
    "ja": "{n_chu}の霊王は{n_cai}の霊侯を申に招いて酒に酔わせ、捕らえて殺した。続いて蔡を囲んで滅ぼし、その太子を犠牲にささげた (蔡は二年後に再び立てられる)。",
-   "en": "King Ling of {n_chu} invited Marquis Ling of {n_cai} to Shen, made him drunk, seized and killed him; then besieged and took Cai, and offered its heir as a sacrifice (Cai would be set up again two years later)."
+   "en": "King Ling of {n_chu} invited Marquis Ling of {n_cai} to Shen, made him drunk, seized and killed him; then besieged and took Cai, and offered its heir as a sacrifice (Cai would be set up again two years later).",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_ling_falls",
@@ -11478,7 +11956,10 @@
    "at": "ying",
    "imp": 2,
    "ja": "乾谿に出陣していた{n_chu}の霊王のもとから兵が逃げ散った。公子比・棄疾らが都で立ち、霊王は山中をさまよった末に芋尹申亥の家で自ら首をくくった。公子比も自害し、棄疾が立った (平王)。",
-   "en": "King Ling of {n_chu}, camped at Qianxi, saw his army melt away while Princes Bi and Qiji rose in the capital. He wandered the hills and hanged himself at the house of Shen Hai. Prince Bi killed himself too, and Qiji took the throne (King Ping)."
+   "en": "King Ling of {n_chu}, camped at Qianxi, saw his army melt away while Princes Bi and Qiji rose in the capital. He wandered the hills and hanged himself at the house of Shen Hai. Prince Bi killed himself too, and Qiji took the throne (King Ping).",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "pingqiu",
@@ -11498,7 +11979,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "{n_jin}は平丘に諸侯を集め、兵車四千乗を並べて威を示した。[[p:子産]]は貢ぎ物の重さを日が暮れるまで争い、軽くさせた。",
-   "en": "{n_jin} gathered the lords at Pingqiu and paraded four thousand chariots. [[p:子産|Zichan]] argued over the tribute until nightfall, and got it lowered."
+   "en": "{n_jin} gathered the lords at Pingqiu and paraded four thousand chariots. [[p:子産|Zichan]] argued over the tribute until nightfall, and got it lowered.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "fei_wuji",
@@ -11510,7 +11994,10 @@
    "at": "ying",
    "imp": 1,
    "ja": "{n_chu}の[[p:費無極]]は、太子建の妃として迎えた秦の娘を平王自身が娶るよう勧めた。王はこれに従い、太子との間に溝ができた。",
-   "en": "[[p:費無極|Fei Wuji]] of {n_chu} urged King Ping to take for himself the Qin princess fetched as bride for Crown Prince Jian. The king did, and a rift opened between father and son."
+   "en": "[[p:費無極|Fei Wuji]] of {n_chu} urged King Ping to take for himself the Qin princess fetched as bride for Crown Prince Jian. The king did, and a rift opened between father and son.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "comet_525",
@@ -11522,7 +12009,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "ほうき星が大辰 (さそり座の心宿) のあたりに現れた。鄭の裨竈は「宋・衛・陳・鄭に火事が起こる」と予言した。",
-   "en": "A broom-star appeared by the Great Fire star. Pi Zao of Zheng foretold fires in Song, Wey, Chen and Zheng."
+   "en": "A broom-star appeared by the Great Fire star. Pi Zao of Zheng foretold fires in Song, Wey, Chen and Zheng.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "fires_524",
@@ -11542,7 +12032,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "宋・衛・陳・鄭で同じ日に大火があった。裨竈は「玉を祭れば次の火事は防げる」と言ったが、[[p:子産]]は「天の道は遠く、人の道は近い」と言って退け、火の備えと被災者の救済を急いだ。",
-   "en": "Great fires broke out on the same day in Song, Wey, Chen and Zheng. Pi Zao said an offering of jade would prevent the next; [[p:子産|Zichan]] refused — \"The Way of Heaven is far, the way of men is near\" — and saw to fire-watch and relief."
+   "en": "Great fires broke out on the same day in Song, Wey, Chen and Zheng. Pi Zao said an offering of jade would prevent the next; [[p:子産|Zichan]] refused — \"The Way of Heaven is far, the way of men is near\" — and saw to fire-watch and relief.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wu_she",
@@ -11554,7 +12047,11 @@
    "at": "ying",
    "imp": 2,
    "ja": "{n_chu}の平王は[[p:費無極]]の讒言を信じて太子の師[[p:伍奢]]とその子伍尚を殺した。次男の伍員 ([[p:伍子胥]]) は国を逃れ、のちに{n_wu}に身を寄せた。",
-   "en": "King Ping of {n_chu}, believing [[p:費無極|Fei Wuji]]'s slanders, killed the tutor [[p:伍奢|Wu She]] and his elder son Wu Shang. The younger son, Wu Yuan ([[p:伍子胥|Wu Zixu]]), escaped, and in time came to {n_wu}."
+   "en": "King Ping of {n_chu}, believing [[p:費無極|Fei Wuji]]'s slanders, killed the tutor [[p:伍奢|Wu She]] and his elder son Wu Shang. The younger son, Wu Yuan ([[p:伍子胥|Wu Zixu]]), escaped, and in time came to {n_wu}.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "wangzichao",
@@ -11580,7 +12077,10 @@
    "at": "luoyi",
    "imp": 2,
    "ja": "周の景王が没すると、王子朝と王子猛・王子匄 (敬王) が位を争い、王城は長い戦乱に落ちた (王子朝の乱)。",
-   "en": "When King Jing of Zhou died, Prince Zhao fought Prince Meng and Prince Gai (King Jing the younger) for the throne; the royal city sank into years of war."
+   "en": "When King Jing of Zhou died, Prince Zhao fought Prince Meng and Prince Gai (King Jing the younger) for the throne; the royal city sank into years of war.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_baidi",
@@ -11599,7 +12099,10 @@
    "imp": 1,
    "at": "baidi",
    "ja": "{r_jin}は白狄の諸邑 (肥・鼓など) を次々に滅ぼした。",
-   "en": "{r_jin} destroyed one White Di town after another."
+   "en": "{r_jin} destroyed one White Di town after another.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_zhao_exile",
@@ -11617,7 +12120,10 @@
     ]
    ],
    "ja": "{n_lu}の昭公は三桓 (季孫・叔孫・孟孫の三家) を除こうとして敗れ、斉へ逃れた。",
-   "en": "Duke Zhao of {n_lu} tried to break the Three Huan families (Jisun, Shusun and Mengsun), failed, and fled to Qi."
+   "en": "Duke Zhao of {n_lu} tried to break the Three Huan families (Jisun, Shusun and Mengsun), failed, and fled to Qi.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wangzichao_flees",
@@ -11630,7 +12136,10 @@
    "at": "luoyi",
    "imp": 1,
    "ja": "晋の助けを得た敬王に敗れた王子朝は、周の典籍を携えて{n_chu}へ逃れた。",
-   "en": "Beaten by King Jing, whom Jin backed, Prince Zhao fled to {n_chu} carrying the records and books of Zhou."
+   "en": "Beaten by King Jing, whom Jin backed, Prince Zhao fled to {n_chu} carrying the records and books of Zhou.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhuan_zhu",
@@ -11650,7 +12159,11 @@
    "at": "meili",
    "imp": 2,
    "ja": "{n_wu}の公子光は宴に王僚を招き、料理人に扮した[[p:専諸]]に、焼き魚の腹に隠した短剣で王を刺させた。専諸もその場で斬られた。公子光は立って[[p:闔閭]]と名乗った。",
-   "en": "Prince Guang of {n_wu} invited [[p:呉王僚|King Liao]] to a feast; [[p:専諸|Zhuan Zhu]], dressed as a cook, drew a dagger from the belly of a roast fish and stabbed the king, and was cut down there. Prince Guang took the throne as [[p:闔閭|Helü]]."
+   "en": "Prince Guang of {n_wu} invited [[p:呉王僚|King Liao]] to a feast; [[p:専諸|Zhuan Zhu]], dressed as a cook, drew a dagger from the belly of a roast fish and stabbed the king, and was cut down there. Prince Guang took the throne as [[p:闔閭|Helü]].",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "wu_gusu",
@@ -11667,7 +12180,10 @@
    ],
    "at": "gusu",
    "ja": "{r_wu}は[[p:伍子胥]]に[[a:gusu|大きな城]]を築かせ、都を姑蘇に定めた。",
-   "en": "{r_wu} had [[p:伍子胥|Wu Zixu]] build a [[a:gusu|great walled city]] and made Gusu the capital."
+   "en": "{r_wu} had [[p:伍子胥|Wu Zixu]] build a [[a:gusu|great walled city]] and made Gusu the capital.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_ten_counties",
@@ -11686,7 +12202,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "{n_jin}の六卿は公族の祁氏と羊舌氏を滅ぼし、その地を十の県に分けて自分たちの一族に治めさせた。晋の公室はいよいよ弱まった。",
-   "en": "The six ministers of {n_jin} destroyed the Qi and Yangshe clans of the duke's kin, cut their land into ten counties and gave them to their own men. The ducal house grew weaker still."
+   "en": "The six ministers of {n_jin} destroyed the Qi and Yangshe clans of the duke's kin, cut their land into ten counties and gave them to their own men. The ducal house grew weaker still.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jin_xingding",
@@ -11698,7 +12217,10 @@
    "at": "xintian",
    "imp": 2,
    "ja": "{n_jin}の趙鞅らは鉄を集めて鼎を鋳、范宣子の定めた刑法を刻んだ。[[p:孔子]]は「晋はこれで亡びよう。民は鼎を見て、貴人を尊ばなくなる」と嘆いたという。",
-   "en": "Zhao Yang and others of {n_jin} gathered iron, cast a cauldron and inscribed on it the laws made by Fan Xuanzi. \"Jin will fall,\" [[p:孔子|Confucius]] lamented, it is said; \"the people will look to the cauldron, not to their betters.\""
+   "en": "Zhao Yang and others of {n_jin} gathered iron, cast a cauldron and inscribed on it the laws made by Fan Xuanzi. \"Jin will fall,\" [[p:孔子|Confucius]] lamented, it is said; \"the people will look to the cauldron, not to their betters.\"",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wu_annex_xu",
@@ -11716,7 +12238,10 @@
    ],
    "at": "xu_huai",
    "ja": "{r_wu}は川をせき止めて{n_xu_h}の都を水攻めにし、これを滅ぼした。",
-   "en": "{r_wu} dammed a river to flood the capital of {n_xu_h}, and destroyed it."
+   "en": "{r_wu} dammed a river to flood the capital of {n_xu_h}, and destroyed it.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "wu_huaiyi",
@@ -11736,7 +12261,10 @@
    "imp": 1,
    "at": "huaiyi",
    "ja": "淮水の下流の夷の諸族は{n_wu}に従った。",
-   "en": "The Yi peoples of the lower Huai came under {n_wu}."
+   "en": "The Yi peoples of the lower Huai came under {n_wu}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chengzhou_wall",
@@ -11749,7 +12277,10 @@
    "at": "luoyi",
    "imp": 1,
    "ja": "{n_jin}の呼びかけで、諸侯の大夫たちが周の成周の城壁を築いた。",
-   "en": "At {n_jin}'s call the officers of the lords built the walls of Chengzhou for the king."
+   "en": "At {n_jin}'s call the officers of the lords built the walls of Chengzhou for the king.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhaoling",
@@ -11762,7 +12293,10 @@
    "at": "shangcai",
    "imp": 1,
    "ja": "{n_jin}は召陵に十八国を集めて楚を討とうとしたが、賄賂を求めた晋の大夫を蔡侯が拒み、話はまとまらなかった。怒った蔡は呉と結んだ。",
-   "en": "{n_jin} gathered eighteen states at Zhaoling against Chu, but a Jin officer asked the Marquis of Cai for a bribe, was refused, and nothing came of it. Angry, Cai turned to Wu."
+   "en": "{n_jin} gathered eighteen states at Zhaoling against Chu, but a Jin officer asked the Marquis of Cai for a bribe, was refused, and nothing came of it. Angry, Cai turned to Wu.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "cai_shen",
@@ -11781,7 +12315,10 @@
    "imp": 1,
    "at": "shen_cai",
    "ja": "{r_cai}は{n_shen_c}を滅ぼした。",
-   "en": "{r_cai} destroyed {n_shen_c}."
+   "en": "{r_cai} destroyed {n_shen_c}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "boju",
@@ -11826,7 +12363,11 @@
    "imp": 3,
    "at": "ying",
    "ja": "柏挙の戦い。[[p:孫武]]と[[p:伍子胥]]に率いられた{n_wu}の軍が{n_chu}を破り、都の郢に入った。[[p:伍子胥]]は平王の墓をあばき、その[[a:wuzixu_whip|屍を三百回鞭打]]ったという。",
-   "en": "At Boju the army of {n_wu}, led by [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], broke {n_chu} and entered its capital Ying. [[p:伍子胥|Wu Zixu]], it is said, dug up King Ping's body and [[a:wuzixu_whip|flogged it three hundred times]]."
+   "en": "At Boju the army of {n_wu}, led by [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], broke {n_chu} and entered its capital Ying. [[p:伍子胥|Wu Zixu]], it is said, dug up King Ping's body and [[a:wuzixu_whip|flogged it three hundred times]].",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "shen_baoxu",
@@ -11861,7 +12402,10 @@
    "imp": 3,
    "at": "ying",
    "ja": "楚の[[p:申包胥]]は{n_qin}の宮廷の庭で七日七晩泣き続け、ついに援軍を得た。秦の兵に追われて{n_wu}は郢から引き揚げた。",
-   "en": "[[p:申包胥|Shen Baoxu]] of Chu wept in the courtyard of {n_qin} for seven days and nights until he was given an army. Pressed by Qin, {n_wu} withdrew from Ying."
+   "en": "[[p:申包胥|Shen Baoxu]] of Chu wept in the courtyard of {n_qin} for seven days and nights until he was given an army. Pressed by Qin, {n_wu} withdrew from Ying.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_yanghu",
@@ -11881,7 +12425,10 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の季孫氏の家臣陽虎が主の季桓子を捕らえて盟を誓わせ、国政を握った。「陪臣、国命を執る」と言われた。",
-   "en": "Yang Hu, a retainer of the Jisun house of {n_lu}, seized his master Ji Huanzi, made him swear an oath and took the realm's affairs into his own hands."
+   "en": "Yang Hu, a retainer of the Jisun house of {n_lu}, seized his master Ji Huanzi, made him swear an oath and took the realm's affairs into his own hands.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zheng_xu",
@@ -11900,7 +12447,10 @@
    "imp": 1,
    "at": "xu_city",
    "ja": "{r_zheng}は{n_xu}を滅ぼした。",
-   "en": "{r_zheng} destroyed {n_xu}."
+   "en": "{r_zheng} destroyed {n_xu}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_yanghu_fails",
@@ -11913,7 +12463,10 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の陽虎は三桓を除こうとして敗れ、{n_qi}、ついで晋の趙氏のもとへ逃れた。",
-   "en": "Yang Hu of {n_lu} tried to destroy the three houses, failed, and fled to {n_qi} and then to the Zhao of Jin."
+   "en": "Yang Hu of {n_lu} tried to destroy the three houses, failed, and fled to {n_qi} and then to the Zhao of Jin.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "jiagu",
@@ -11932,7 +12485,11 @@
     ]
    ],
    "ja": "夾谷の会。[[p:孔子]]は{n_lu}の[[a:ru|定公の相として]]{n_qi}との会盟に臨み、斉の企てを退けて奪われていた土地を返させた。",
-   "en": "At the meeting of Jiagu [[p:孔子|Confucius]] [[a:ru|attended Duke Ding]] of {n_lu} and thwarted a plot of {n_qi}, winning back land Qi had taken."
+   "en": "At the meeting of Jiagu [[p:孔子|Confucius]] [[a:ru|attended Duke Ding]] of {n_lu} and thwarted a plot of {n_qi}, winning back land Qi had taken.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "jin_handan",
@@ -11952,7 +12509,10 @@
    ],
    "at": "handan",
    "ja": "邯鄲は{n_jin}の趙氏一族の邑となった。",
-   "en": "Handan became a town of the Zhao clan of {n_jin}."
+   "en": "Handan became a town of the Zhao clan of {n_jin}.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "duo_sandu",
@@ -11971,7 +12531,11 @@
    "at": "fei",
    "imp": 2,
    "ja": "{n_lu}の[[p:孔子]]と[[p:子路]]は、三桓の城 (費・郈・成) を壊して公室の力を取り戻そうとした。費と郈は壊されたが、成は守りを固めて応じなかった。",
-   "en": "[[p:孔子|Confucius]] and [[p:子路|Zilu]] of {n_lu} set out to pull down the walls of the three houses' towns, Bi, Hou and Cheng, to restore the duke's power. Bi and Hou fell; Cheng held out."
+   "en": "[[p:孔子|Confucius]] and [[p:子路|Zilu]] of {n_lu} set out to pull down the walls of the three houses' towns, Bi, Hou and Cheng, to restore the duke's power. Bi and Hou fell; Cheng held out.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "confucius_leaves",
@@ -11982,7 +12546,11 @@
    "at": "qufu",
    "imp": 2,
    "ja": "[[p:孔子]]は{n_lu}を去り、衛・陳・宋などの諸国を巡る十四年の旅に出た。",
-   "en": "[[p:孔子|Confucius]] left {n_lu} on fourteen years of wandering through Wey, Chen, Song and other lands."
+   "en": "[[p:孔子|Confucius]] left {n_lu} on fourteen years of wandering through Wey, Chen, Song and other lands.",
+   "src": [
+    "shiji",
+    "lunyu"
+   ]
   },
   {
    "id": "jin_fan_zhonghang",
@@ -12002,7 +12570,10 @@
    "at": "jinyang",
    "imp": 2,
    "ja": "{n_jin}の趙鞅が邯鄲の趙午を殺すと、范氏と中行氏が趙鞅を攻め、趙鞅は晋陽に立てこもった。韓・魏・智が趙について、晋の六卿の争いは八年に及んだ。",
-   "en": "When Zhao Yang of {n_jin} killed [[p:趙武|Zhao Wu]] of Handan, the Fan and Zhonghang houses attacked him and he held out in Jinyang. The Han, Wei and Zhi took Zhao's side, and the ministers' war lasted eight years."
+   "en": "When Zhao Yang of {n_jin} killed [[p:趙武|Zhao Wu]] of Handan, the Fan and Zhonghang houses attacked him and he held out in Jinyang. The Han, Wei and Zhi took Zhao's side, and the ministers' war lasted eight years.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zuili",
@@ -12031,7 +12602,10 @@
     ]
    ],
    "ja": "檇李の戦い。{n_yue}の[[p:句践]]は罪人を陣の前に並ばせて自ら首を刎ねさせ、呉兵が呆然とする隙を突いて大勝した。呉王[[p:闔閭]]は足の指を射られ、その傷がもとで没した。",
-   "en": "At Zuili [[p:句践|Goujian]] of {n_yue} had condemned men march out before his lines and cut their own throats; while the men of Wu stared, Yue struck and won. King [[p:闔閭|Helü]] of Wu, hit in the toe, died of the wound."
+   "en": "At Zuili [[p:句践|Goujian]] of {n_yue} had condemned men march out before his lines and cut their own throats; while the men of Wu stared, Yue struck and won. King [[p:闔閭|Helü]] of Wu, hit in the toe, died of the wound.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "fujiao",
@@ -12061,7 +12635,11 @@
    "imp": 3,
    "at": "kuaiji",
    "ja": "夫椒の戦い。父の仇を忘れぬよう[[a:woxin|薪の上に臥した]]{r_wu}は{n_yue}を破り、会稽山に追い詰められた[[p:句践]]は臣従を誓った。[[p:句践]]は苦い肝を嘗めて恥を忘れまいとしたという (臥薪嘗胆)。",
-   "en": "At Fujiao the King of Wu — who had [[a:woxin|slept on firewood]] so as never to forget his father's death — broke {n_yue}. Cornered on Mount Kuaiji, [[p:句践|Goujian]] swore submission, and tasted gall every day so as never to forget the shame."
+   "en": "At Fujiao the King of Wu — who had [[a:woxin|slept on firewood]] so as never to forget his father's death — broke {n_yue}. Cornered on Mount Kuaiji, [[p:句践|Goujian]] swore submission, and tasted gall every day so as never to forget the shame.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "tie",
@@ -12081,7 +12659,10 @@
    "at": "handan",
    "imp": 1,
    "ja": "鉄の戦い。{n_jin}の趙鞅は「敵に勝てば、上大夫は県を、下大夫は郡を受け、士は田十万畝、庶人や工商は官に仕え、奴隷は解き放たれる」と誓って兵を励まし、范氏・中行氏に糧を送る鄭の軍を破った。",
-   "en": "At Tie, Zhao Yang of {n_jin} promised his men: counties for great officers, commanderies for lesser ones, land for knights, office for commoners and merchants, freedom for slaves — and beat the Zheng force carrying grain to his enemies."
+   "en": "At Tie, Zhao Yang of {n_jin} promised his men: counties for great officers, commanderies for lesser ones, land for knights, office for commoners and merchants, freedom for slaves — and beat the Zheng force carrying grain to his enemies.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chen_cai_hunger",
@@ -12093,7 +12674,11 @@
    "at": "wanqiu",
    "imp": 1,
    "ja": "陳と蔡の間で、[[p:孔子]]の一行は囲まれて食が絶えた。弟子たちが病み伏すなか、孔子は琴を弾き歌い続けた (陳蔡の厄)。",
-   "en": "Between Chen and Cai [[p:孔子|Confucius]] and his followers were surrounded and ran out of food. His disciples lay sick; he went on playing his zither and singing."
+   "en": "Between Chen and Cai [[p:孔子|Confucius]] and his followers were surrounded and ran out of food. His disciples lay sick; he went on playing his zither and singing.",
+   "src": [
+    "shiji",
+    "lunyu"
+   ]
   },
   {
    "id": "qi_yanruzi",
@@ -12113,7 +12698,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_qi}の景公が没して幼い[[p:晏孺子]]が立つと、陳乞 (田乞) は国氏・高氏を追い、公子陽生 (悼公) を迎えて立てた。晏孺子は殺された。",
-   "en": "When Duke Jing of {n_qi} died and the child Yan Ruzi was set up, Chen Qi (Tian Qi) drove out the Guo and Gao houses and brought in Prince Yangsheng (Duke Dao). The child was killed."
+   "en": "When Duke Jing of {n_qi} died and the child Yan Ruzi was set up, Chen Qi (Tian Qi) drove out the Guo and Gao houses and brought in Prince Yangsheng (Duke Dao). The child was killed.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "song_cao",
@@ -12132,7 +12720,10 @@
    "imp": 2,
    "at": "taoqiu",
    "ja": "{r_song}は{n_cao}を滅ぼし、[[p:曹伯陽]]を捕らえた。",
-   "en": "{r_song} destroyed {n_cao} and captured its lord, [[p:曹伯陽|Earl Yang]]."
+   "en": "{r_song} destroyed {n_cao} and captured its lord, [[p:曹伯陽|Earl Yang]].",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "hangou",
@@ -12152,7 +12743,10 @@
    "at": "gusu",
    "imp": 2,
    "ja": "{n_wu}の[[p:夫差]]は邗に城を築き、長江と淮水を結ぶ運河 (邗溝) を開いた。北へ兵を送る道である。",
-   "en": "[[p:夫差|Fuchai]] of {n_wu} walled Han and cut a canal joining the Yangzi to the Huai — a road north for his armies."
+   "en": "[[p:夫差|Fuchai]] of {n_wu} walled Han and cut a canal joining the Yangzi to the Huai — a road north for his armies.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qi_dao_killed",
@@ -12176,6 +12770,9 @@
       "en": "Wu's war on Qi"
      }
     ]
+   ],
+   "src": [
+    "zuo"
    ]
   },
   {
@@ -12205,7 +12802,11 @@
     ]
    ],
    "ja": "艾陵の戦い。{n_wu}が{n_qi}の大軍を破った。同じ年、諫め続けた[[p:伍子胥]]は剣を賜って自害し、「我が目を東門に懸けよ、越の軍が呉に入るのを見よう」と言い残した。",
-   "en": "At Ailing {n_wu} crushed the army of {n_qi}. The same year [[p:伍子胥|Wu Zixu]], who would not stop warning his king, was handed a sword to kill himself: \"Hang my eyes on the east gate, so they may watch the army of Yue march in.\""
+   "en": "At Ailing {n_wu} crushed the army of {n_qi}. The same year [[p:伍子胥|Wu Zixu]], who would not stop warning his king, was handed a sword to kill himself: \"Hang my eyes on the east gate, so they may watch the army of Yue march in.\"",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "confucius_returns",
@@ -12216,7 +12817,10 @@
    "at": "qufu",
    "imp": 1,
    "ja": "[[p:孔子]]は十四年の旅を終えて{n_lu}に帰り、弟子を教え、詩と書を整えて晩年を過ごした。",
-   "en": "[[p:孔子|Confucius]] came home to {n_lu} after fourteen years, and spent his last years teaching and putting the Odes and Documents in order."
+   "en": "[[p:孔子|Confucius]] came home to {n_lu} after fourteen years, and spent his last years teaching and putting the Odes and Documents in order.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "lu_tianfu",
@@ -12236,7 +12840,11 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の季孫氏は田の広さに応じて軍賦を取る「田賦」を始めた。[[p:孔子]]は弟子の冉求が手を貸したことを責めた。",
-   "en": "The Jisun house of {n_lu} began to levy the army tax by the area of fields. [[p:孔子|Confucius]] rebuked his disciple Ran Qiu for helping."
+   "en": "The Jisun house of {n_lu} began to levy the army tax by the area of fields. [[p:孔子|Confucius]] rebuked his disciple Ran Qiu for helping.",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "huangchi",
@@ -12266,7 +12874,10 @@
    "imp": 3,
    "at": "gusu",
    "ja": "黄池の会で{r_wu}が晋と覇を争っている間に、{n_yue}は呉の都を襲った。",
-   "en": "While {r_wu} contended with Jin for the hegemony at Huangchi, {n_yue} fell upon Wu's capital."
+   "en": "While {r_wu} contended with Jin for the hegemony at Huangchi, {n_yue} fell upon Wu's capital.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "qilin",
@@ -12277,7 +12888,11 @@
    ],
    "do": [],
    "ja": "{n_lu}の西の狩りで麒麟が捕らえられた。[[p:孔子]]は「吾が道窮まれり」と嘆き、『春秋』の筆を擱いたという。",
-   "en": "A qilin was caught in a hunt west of {n_lu}. \"My way has come to its end,\" [[p:孔子|Confucius]] lamented, and laid down the brush of the Spring and Autumn Annals."
+   "en": "A qilin was caught in a hunt west of {n_lu}. \"My way has come to its end,\" [[p:孔子|Confucius]] lamented, and laid down the brush of the Spring and Autumn Annals.",
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   {
    "id": "chen_heng",
@@ -12295,7 +12910,11 @@
     ]
    ],
    "ja": "{n_qi}の[[p:田常]] (陳恒) が簡公を殺し、国政を握った。田氏が斉を奪う日が近づいた。",
-   "en": "Tian Chang of {n_qi} killed Duke Jian and took the government in hand. The day the Tian would take Qi drew near."
+   "en": "Tian Chang of {n_qi} killed Duke Jian and took the government in hand. The day the Tian would take Qi drew near.",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "baigong",
@@ -12315,7 +12934,10 @@
    "at": "ying",
    "imp": 1,
    "ja": "{n_chu}の[[p:白公勝]]は令尹子西・司馬子期を殺し、恵王を捕らえた (白公の乱)。[[p:葉公子高]]が兵を率いて来ると白公は山に逃れて自ら縊れ、恵王は位に戻った。",
-   "en": "[[p:白公勝|Sheng, Duke of Bai]], killed the ministers Zixi and Ziqi of {n_chu} and seized King Hui. When the Duke of She marched in, Bai fled to the hills and hanged himself, and the king was restored."
+   "en": "[[p:白公勝|Sheng, Duke of Bai]], killed the ministers Zixi and Ziqi of {n_chu} and seized King Hui. When the Duke of She marched in, Bai fled to the hills and hanged himself, and the king was restored.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "chu_annex_chen",
@@ -12333,7 +12955,10 @@
    ],
    "at": "wanqiu",
    "ja": "{r_chu}は{n_chen}を滅ぼし、県とした。",
-   "en": "{r_chu} destroyed {n_chen} and made it a county."
+   "en": "{r_chu} destroyed {n_chen} and made it a county.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "yue_annex_wu",
@@ -12364,7 +12989,11 @@
    "imp": 3,
    "at": "gusu",
    "ja": "{r_yue}は{n_wu}を滅ぼした。[[p:夫差]]は「[[p:伍子胥]]に合わせる顔がない」と言って顔を覆い、自害した。功臣[[p:范蠡]]は「狡兎死して走狗烹らる」と書き残して去った。",
-   "en": "{r_yue} destroyed {n_wu}. [[p:夫差|Fuchai]] covered his face — \"I cannot look [[p:伍子胥|Wu Zixu]] in the eye\" — and killed himself. The minister [[p:范蠡|Fan Li]] left, writing that \"when the cunning hare is dead, the hound is cooked\"."
+   "en": "{r_yue} destroyed {n_wu}. [[p:夫差|Fuchai]] covered his face — \"I cannot look [[p:伍子胥|Wu Zixu]] in the eye\" — and killed himself. The minister [[p:范蠡|Fan Li]] left, writing that \"when the cunning hare is dead, the hound is cooked\".",
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   {
    "id": "yue_langya",
@@ -12382,7 +13011,10 @@
    "at": "jimo_e",
    "imp": 2,
    "ja": "呉を滅ぼした{n_yue}は都を北の琅邪に移し、斉・晋の諸侯と会盟して覇者を称した。",
-   "en": "Having destroyed Wu, {n_yue} moved its capital north to Langya and met the lords of Qi and Jin in covenant as hegemon."
+   "en": "Having destroyed Wu, {n_yue} moved its capital north to Langya and met the lords of Qi and Jin in covenant as hegemon.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "lu_ai_flees",
@@ -12402,7 +13034,10 @@
    "at": "qufu",
    "imp": 1,
    "ja": "{n_lu}の哀公は越の力を借りて三桓を除こうとしたが果たせず、三桓に攻められて国を出た。哀公は越に客死した。",
-   "en": "Duke Ai of {n_lu} hoped to break the three houses with Yue's help; it came to nothing, they turned on him and he left the realm, to die abroad."
+   "en": "Duke Ai of {n_lu} hoped to break the three houses with Yue's help; it came to nothing, they turned on him and he left the realm, to die abroad.",
+   "src": [
+    "zuo"
+   ]
   },
   {
    "id": "zhi_demands",
@@ -12413,7 +13048,11 @@
    "at": "jinyang",
    "imp": 2,
    "ja": "{n_jin}の[[p:智伯]]は韓・魏・趙の三家に土地を差し出すよう求めた。韓と魏は与えたが、趙の無恤 (襄子) は拒み、晋陽にこもった。",
-   "en": "Zhibo of {n_jin} demanded land from the Han, Wei and Zhao houses. Han and Wei gave it; [[p:趙武|Zhao Wu]]xu refused and shut himself in Jinyang."
+   "en": "Zhibo of {n_jin} demanded land from the Han, Wei and Zhao houses. Han and Wei gave it; [[p:趙武|Zhao Wu]]xu refused and shut himself in Jinyang.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "jinyang",
@@ -12433,7 +13072,11 @@
    "imp": 3,
    "at": "jinyang",
    "ja": "晋陽の戦い。{n_jin}の重臣[[p:智伯]]は趙氏の晋陽を水攻めにしたが、韓・魏が寝返り、趙・韓・魏の三家に滅ぼされた。[[p:豫譲]]は主君智伯の仇を討とうと、身に漆を塗り炭を呑んで[[p:趙襄子]]を狙った。",
-   "en": "The battle of Jinyang. Zhi Bo, first minister of {n_jin}, flooded Jinyang, the Zhao stronghold — but Han and Wei turned on him and the three houses destroyed him. [[p:豫譲|Yu Rang]] lacquered his skin and swallowed coals to stalk [[p:趙襄子|Zhao Xiangzi]] for his lord's sake."
+   "en": "The battle of Jinyang. Zhi Bo, first minister of {n_jin}, flooded Jinyang, the Zhao stronghold — but Han and Wei turned on him and the three houses destroyed him. [[p:豫譲|Yu Rang]] lacquered his skin and swallowed coals to stalk [[p:趙襄子|Zhao Xiangzi]] for his lord's sake.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "chu_sui",
@@ -12452,7 +13095,10 @@
    "imp": 1,
    "at": "sui",
    "ja": "長く楚に従ってきた{n_sui}は、楚の県となった。",
-   "en": "{n_sui}, long a follower of Chu, became a county of Chu."
+   "en": "{n_sui}, long a follower of Chu, became a county of Chu.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chu_annex_cai",
@@ -12470,7 +13116,10 @@
    ],
    "at": "shangcai",
    "ja": "{r_chu}は{n_cai}を滅ぼした。",
-   "en": "{r_chu} destroyed {n_cai}."
+   "en": "{r_chu} destroyed {n_cai}.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chu_annex_qi",
@@ -12487,7 +13136,10 @@
     ]
    ],
    "ja": "{r_chu}は{n_qi_state}を滅ぼした。「杞憂」の言葉だけが後に残った。",
-   "en": "{r_chu} destroyed {n_qi_state}, of which only a saying remained: the man of Qǐ who feared the sky would fall."
+   "en": "{r_chu} destroyed {n_qi_state}, of which only a saying remained: the man of Qǐ who feared the sky would fall.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "mozi_song",
@@ -12499,7 +13151,10 @@
    "at": "shangqiu",
    "imp": 2,
    "ja": "このころ[[p:公輸盤]]が{n_chu}のために雲梯 (城攻めのはしご) を作り、宋を攻めようとした。[[p:墨子]]は十日十夜歩いて郢に至り、帯を城に見立てた机上の攻防で公輸盤の九つの攻め手をすべて退け、楚王に宋攻めを思いとどまらせた。",
-   "en": "About now [[p:公輸盤|Gongshu Ban]] built cloud-ladders for {n_chu} to attack Song. [[p:墨子|Mozi]] walked ten days and nights to Ying, and with his belt for a wall beat all nine of Gongshu Ban's attacks on the table, so that the king gave up the war."
+   "en": "About now [[p:公輸盤|Gongshu Ban]] built cloud-ladders for {n_chu} to attack Song. [[p:墨子|Mozi]] walked ten days and nights to Ying, and with his belt for a wall beat all nine of Gongshu Ban's attacks on the table, so that the king gave up the war.",
+   "src": [
+    "mozi"
+   ]
   },
   {
    "id": "jin_partition_land",
@@ -12518,7 +13173,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "{n_jin}の公室に残ったのは絳と曲沃だけとなり、晋公はかえって三家に朝する有様であった。",
-   "en": "All that was left to the dukes of {n_jin} was Jiang and Quwo; the duke now went to pay court to the three houses rather than they to him."
+   "en": "All that was left to the dukes of {n_jin} was Jiang and Quwo; the duke now went to pay court to the three houses rather than they to him.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chu_annex_ju",
@@ -12536,7 +13194,10 @@
    ],
    "at": "ju",
    "ja": "{r_chu}は東の{n_ju}を滅ぼした。",
-   "en": "{r_chu} destroyed {n_ju} in the east."
+   "en": "{r_chu} destroyed {n_ju} in the east.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "yiqu_430",
@@ -12556,7 +13217,10 @@
    "at": "yong",
    "imp": 1,
    "ja": "{n_yiqu}が{n_qin}を攻め、渭水の南まで迫った。",
-   "en": "{n_yiqu} attacked {n_qin} and reached south of the River Wei."
+   "en": "{n_yiqu} attacked {n_qin} and reached south of the River Wei.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "wei_wenhou_scholars",
@@ -12567,7 +13231,11 @@
    "at": "anyi",
    "imp": 1,
    "ja": "このころ魏の文侯は[[p:孔子]]の弟子[[p:子夏]]を師とし、田子方・段干木を礼をもって遇した。文侯が段干木の家の前を通るたびに車上で礼をしたので、秦は「魏の君は賢者を敬う」として兵を控えたという。",
-   "en": "About now Marquis Wen of Wei took [[p:孔子|Confucius]]' disciple [[p:子夏|Zixia]] as his teacher and honoured Tian [[p:子反|Zifan]]g and Duangan Mu. He bowed from his chariot each time he passed Duangan Mu's gate — and Qin, it is said, held back its troops from a lord who so honoured the wise."
+   "en": "About now Marquis Wen of Wei took [[p:孔子|Confucius]]' disciple [[p:子夏|Zixia]] as his teacher and honoured Tian [[p:子反|Zifan]]g and Duangan Mu. He bowed from his chariot each time he passed Duangan Mu's gate — and Qin, it is said, held back its troops from a lord who so honoured the wise.",
+   "src": [
+    "shiji",
+    "lushi"
+   ]
   },
   {
    "id": "wei_hexi_408",
@@ -12587,7 +13255,10 @@
    "at": "yueyang",
    "imp": 2,
    "ja": "魏は{n_qin}の河西の地を奪い、[[p:呉起]]を西河の守とした。秦は洛水まで退いた。",
-   "en": "Wei took the land west of the Yellow River from {n_qin} and made [[p:呉起|Wu Qi]] its governor; Qin fell back to the Luo."
+   "en": "Wei took the land west of the Yellow River from {n_qin} and made [[p:呉起|Wu Qi]] its governor; Qin fell back to the Luo.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "wei_zhongshan",
@@ -12607,7 +13278,10 @@
    "at": "xianyu",
    "imp": 1,
    "ja": "魏の[[p:楽羊]]は三年をかけて中山 ({n_xianyu}) を下した。中山にいた我が子を煮た羹を送られても、楽羊はそれを飲み干して攻めを緩めなかったという。",
-   "en": "[[p:楽羊|Yue Yang]] of Wei took Zhongshan ({n_xianyu}) after three years. When Zhongshan sent him soup made from his own son, he drank it and pressed on, it is said."
+   "en": "[[p:楽羊|Yue Yang]] of Wei took Zhongshan ({n_xianyu}) after three years. When Zhongshan sent him soup made from his own son, he drank it and pressed on, it is said.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "ximen_bao",
@@ -12618,7 +13292,10 @@
    "at": "handan",
    "imp": 1,
    "ja": "魏の[[p:西門豹]]は鄴の令となり、河の神に娘を嫁がせると称して民から財を搾り取っていた巫女と三老を、自ら河に投げ込んだ。そのうえで十二の水路を開いて田を潤した。",
-   "en": "[[p:西門豹|Ximen Bao]] of Wei, governor of Ye, threw into the river the shamans and elders who had squeezed the people for \"brides for the river god\" — then dug twelve canals to water the fields."
+   "en": "[[p:西門豹|Ximen Bao]] of Wei, governor of Ye, threw into the river the shamans and elders who had squeezed the people for \"brides for the river god\" — then dug twelve canals to water the fields.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "three_jin",
@@ -12640,7 +13317,10 @@
    "imp": 3,
    "at": "xintian",
    "ja": "周の[[p:威烈王]]は晋の三卿、韓・趙・魏を諸侯と認めた。{n_jin}は三つに分かれ、戦国の世が始まる。",
-   "en": "[[p:威烈王|King Weilie]] of Zhou recognised the three great ministers of Jin — Han, Zhao and Wei — as lords. {n_jin} split in three, and the age of the Warring States began."
+   "en": "[[p:威烈王|King Weilie]] of Zhou recognised the three great ministers of Jin — Han, Zhao and Wei — as lords. {n_jin} split in three, and the age of the Warring States began.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "wei_reform",
@@ -12669,7 +13349,10 @@
     ]
    ],
    "ja": "{r_wei}は[[p:李悝]]を用いて田を尽くす教えと[[a:li_kui_reform|『法経』]]を定め、[[p:呉起]]に精兵「[[a:wuzu|武卒]]」を鍛えさせた。魏は戦国の初めの最強国となった。",
-   "en": "{r_wei} put [[p:李悝|Li Kui]] in charge — farming to the utmost and [[a:li_kui_reform|a code of law]] — and had [[p:呉起|Wu Qi]] train [[a:wuzu|picked soldiers]]. Wei became the first great power of the Warring States."
+   "en": "{r_wei} put [[p:李悝|Li Kui]] in charge — farming to the utmost and [[a:li_kui_reform|a code of law]] — and had [[p:呉起|Wu Qi]] train [[a:wuzu|picked soldiers]]. Wei became the first great power of the Warring States.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "seven_states",
@@ -12687,7 +13370,10 @@
    "imp": 2,
    "at": "luoyi",
    "ja": "韓・趙・魏が諸侯となり、秦・楚・斉・燕とあわせて七つの大国が並び立った。のちに「[[a:seven_states|戦国七雄]]」と呼ばれる。",
-   "en": "With Han, Zhao and Wei now lords, seven great states stood side by side with Qin, Chu, Qi and Yan: the [[a:seven_states|Seven Warring States]], as they would be called."
+   "en": "With Han, Zhao and Wei now lords, seven great states stood side by side with Qin, Chu, Qi and Yan: the [[a:seven_states|Seven Warring States]], as they would be called.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "tian_he_391",
@@ -12706,7 +13392,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_qi}の田和は康公を海辺の城に移して一城だけを食ませ、国をすべて手中にした。",
-   "en": "Tian He of {n_qi} moved Duke Kang to a town by the sea with one city for his keep, and held the whole realm himself."
+   "en": "Tian He of {n_qi} moved Duke Kang to a town by the sea with one city for his keep, and held the whole realm himself.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "zhao_handan",
@@ -12723,7 +13412,10 @@
    ],
    "at": "handan",
    "ja": "{r_zhao}は都を邯鄲に移した。",
-   "en": "{r_zhao} moved the capital to Handan."
+   "en": "{r_zhao} moved the capital to Handan.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "tian_qi",
@@ -12742,7 +13434,10 @@
    "imp": 3,
    "at": "linzi",
    "ja": "田和が周王から斉侯と認められた。太公望以来の姜氏の斉は終わり、{n_qi}は田氏の国となった。",
-   "en": "Tian He was recognised by the Zhou king as Marquis of Qi. The Qi of the Jiang house, descended from the Grand Duke, ended; {n_qi} now belonged to the Tian."
+   "en": "Tian He was recognised by the Zhou king as Marquis of Qi. The Qi of the Jiang house, descended from the Grand Duke, ended; {n_qi} now belonged to the Tian.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_xian_burials",
@@ -12761,7 +13456,10 @@
    "at": "yong",
    "imp": 1,
    "ja": "{n_qin}の献公は殉死の習いを止めさせた。",
-   "en": "Duke Xian of {n_qin} ended the custom of burying the living with the dead."
+   "en": "Duke Xian of {n_qin} ended the custom of burying the living with the dead.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_yueyang",
@@ -12778,7 +13476,10 @@
    ],
    "at": "yueyang",
    "ja": "{r_qin}は東へ進むため都を櫟陽に移した。",
-   "en": "{r_qin} moved the capital east to Yueyang."
+   "en": "{r_qin} moved the capital east to Yueyang.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "wu_qi_chu",
@@ -12800,7 +13501,10 @@
     ]
    ],
    "ja": "{r_chu}は[[p:呉起]]を令尹とし、[[a:wu_qi_reform|貴族の特権を削って]]兵を強めた。翌年、悼王の死とともに[[p:呉起]]は貴族たちに射殺された。王の亡骸に覆い被さった[[p:呉起]]を射た者たちは、のちに罪を問われた。",
-   "en": "{r_chu} made [[p:呉起|Wu Qi]] chief minister, and [[p:呉起|Wu Qi]] [[a:wu_qi_reform|cut the nobles' privileges]] to strengthen the army. When the king died the next year the nobles shot [[p:呉起|Wu Qi]] down — he had thrown himself over the king's body, and those whose arrows struck the corpse were punished for it."
+   "en": "{r_chu} made [[p:呉起|Wu Qi]] chief minister, and [[p:呉起|Wu Qi]] [[a:wu_qi_reform|cut the nobles' privileges]] to strengthen the army. When the king died the next year the nobles shot [[p:呉起|Wu Qi]] down — he had thrown himself over the king's body, and those whose arrows struck the corpse were punished for it.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "yue_back_wu",
@@ -12818,7 +13522,10 @@
    "at": "gusu",
    "imp": 1,
    "ja": "{r_yue}は都を琅邪から呉に戻した。",
-   "en": "{r_yue} moved the capital back from Langya to Wu."
+   "en": "{r_yue} moved the capital back from Langya to Wu.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "jin_376",
@@ -12832,7 +13539,10 @@
    "at": "xintian",
    "imp": 1,
    "ja": "{n_wei}・{n_zhao}・{n_han}は晋公に残った地をさらに分け取った。",
-   "en": "{n_wei}, {n_zhao} and {n_han} shared out what land the Duke of Jin still had."
+   "en": "{n_wei}, {n_zhao} and {n_han} shared out what land the Duke of Jin still had.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "han_annex_zheng",
@@ -12856,7 +13566,10 @@
    "imp": 3,
    "at": "xinzheng",
    "ja": "{r_han}は{n_zheng}を滅ぼし、都を新鄭に移した。",
-   "en": "{r_han} destroyed {n_zheng} and moved its capital to Xinzheng."
+   "en": "{r_han} destroyed {n_zheng} and moved its capital to Xinzheng.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "zhuoze",
@@ -12869,7 +13582,10 @@
    "at": "anyi",
    "imp": 1,
    "ja": "{n_wei}の武侯が没すると後継ぎ争いが起こり、韓・趙は濁沢で魏を破った。魏を二つに分ける案は両国の意見が合わず、公子罃 (恵王) が立った。",
-   "en": "When Marquis Wu of {n_wei} died his sons fought for the seat; Han and Zhao beat Wei at Zhuoze. They could not agree on cutting Wei in two, and Prince Ying (King Hui) took the throne."
+   "en": "When Marquis Wu of {n_wei} died his sons fought for the seat; Han and Zhao beat Wei at Zhuoze. They could not agree on cutting Wei in two, and Prince Ying (King Hui) took the throne.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "shimen",
@@ -12904,7 +13620,10 @@
    "at": "anyi",
    "imp": 2,
    "ja": "石門の戦い。{n_qin}の献公は{n_wei}を破り、首を斬ること六万。周の顕王は献公に祝いの礼服を贈った。秦が東へ巻き返す始まりである。",
-   "en": "At Shimen Duke Xian of {n_qin} beat {n_wei}, taking sixty thousand heads; [[p:燕王喜|King Xi]]an of Zhou sent him robes of honour. Qin's push back east had begun."
+   "en": "At Shimen Duke Xian of {n_qin} beat {n_wei}, taking sixty thousand heads; [[p:燕王喜|King Xi]]an of Zhou sent him robes of honour. Qin's push back east had begun.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "wei_daliang",
@@ -12921,7 +13640,10 @@
    ],
    "at": "daliang",
    "ja": "{r_wei}は秦の圧力を避けて都を大梁に移した。以後、魏は「梁」とも呼ばれる。",
-   "en": "{r_wei}, pressed by Qin, moved the capital to Daliang; Wei was called \"Liang\" from then on."
+   "en": "{r_wei}, pressed by Qin, moved the capital to Daliang; Wei was called \"Liang\" from then on.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_xiao_edict",
@@ -12932,7 +13654,10 @@
    "at": "yueyang",
    "imp": 2,
    "ja": "{n_qin}の孝公は「秦を強くする策を出す者には、官を与え、土地を分け与えよう」と天下に賢者を求めた。この求めに応じて、衛の公孫鞅 (のちの[[p:商鞅]]) が秦に来た。",
-   "en": "Duke Xiao of {n_qin} called on all under Heaven: whoever could show him how to make Qin strong would have office and land. [[p:公孫衍|Gongsun Yan]]g of Wey — later Lord Shang — came in answer."
+   "en": "Duke Xiao of {n_qin} called on all under Heaven: whoever could show him how to make Qin strong would have office and land. [[p:公孫衍|Gongsun Yan]]g of Wey — later Lord Shang — came in answer.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "shang_yang_1",
@@ -12962,7 +13687,10 @@
    "imp": 3,
    "at": "yong",
    "ja": "{r_qin}は[[p:商鞅]]を用いて[[a:shang_yang_reform|変法]]を行った。五家・十家を組にして互いに監視させ、[[a:qin_rank|戦の手柄で爵位を与えた]]。法を信じさせるため、都の南門の木を北門に移した者に五十金を与えたという。",
-   "en": "{r_qin} carried out [[p:商鞅|Shang Yang]]'s [[a:shang_yang_reform|reforms]]: households grouped in fives and tens to watch each other, [[a:qin_rank|ranks given for heads taken in battle]]. To make the people trust the law, he paid fifty gold to the man who carried a pole from the south gate to the north."
+   "en": "{r_qin} carried out [[p:商鞅|Shang Yang]]'s [[a:shang_yang_reform|reforms]]: households grouped in fives and tens to watch each other, [[a:qin_rank|ranks given for heads taken in battle]]. To make the people trust the law, he paid fifty gold to the man who carried a pole from the south gate to the north.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qi_wei_treasure",
@@ -12982,7 +13710,10 @@
    "at": "linzi",
    "imp": 1,
    "ja": "{n_wei}の恵王が「わが国には車十二乗を照らす玉がある」と誇ると、{n_qi}の威王は「わが国の宝は臣下だ。国境を守る者、盗賊を絶やす者がいて、千里を照らす」と答えた。",
-   "en": "King Hui of {n_wei} boasted of pearls that lit twelve chariots. King Wei of {n_qi} answered that his treasures were his ministers — men who held the borders and rid the land of thieves, and lit a thousand li."
+   "en": "King Hui of {n_wei} boasted of pearls that lit twelve chariots. King Wei of {n_qi} answered that his treasures were his ministers — men who held the borders and rid the land of thieves, and lit a thousand li.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "guiling",
@@ -13012,7 +13743,10 @@
     ]
    ],
    "ja": "桂陵の戦い。{n_wei}の[[p:龐涓]]が趙の邯鄲を囲むと、{n_qi}の[[p:孫臏]]は邯鄲ではなく魏の都を突き、引き返す魏軍を待ち伏せて破った (囲魏救趙)。",
-   "en": "At Guiling, when [[p:龐涓|Pang Juan]] of {n_wei} besieged Handan, [[p:孫臏|Sun Bin]] of {n_qi} struck not Handan but Wei's own capital, and ambushed the Wei army as it hurried home (\"besiege Wei to save Zhao\")."
+   "en": "At Guiling, when [[p:龐涓|Pang Juan]] of {n_wei} besieged Handan, [[p:孫臏|Sun Bin]] of {n_qi} struck not Handan but Wei's own capital, and ambushed the Wei army as it hurried home (\"besiege Wei to save Zhao\").",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "shen_buhai",
@@ -13031,7 +13765,10 @@
    "at": "xinzheng",
    "imp": 2,
    "ja": "{n_han}の昭侯は[[p:申不害]]を相とし、臣下を術によって操る政を行った。十五年のあいだ、韓を攻める国はなかったという。",
-   "en": "Marquis Zhao of {n_han} made [[p:申不害|Shen Buhai]] his chancellor, ruling his ministers by technique. For fifteen years no one attacked Han, it is said."
+   "en": "Marquis Zhao of {n_han} made [[p:申不害|Shen Buhai]] his chancellor, ruling his ministers by technique. For fifteen years no one attacked Han, it is said.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "shang_yang_2",
@@ -13061,7 +13798,10 @@
    "imp": 2,
    "at": "xianyang",
    "ja": "{r_qin}は都を咸陽に移し、県を置き、田の区画を改めた ([[a:shang_yang_reform|第二次変法]])。",
-   "en": "{r_qin} moved the capital to Xianyang, set up counties and redrew the fields ([[a:shang_yang_reform|the second reform]])."
+   "en": "{r_qin} moved the capital to Xianyang, set up counties and redrew the fields ([[a:shang_yang_reform|the second reform]]).",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "jin_ends",
@@ -13078,7 +13818,10 @@
     ]
    ],
    "ja": "最後の晋公が廃され、{n_jin}の祀りは絶えた。",
-   "en": "The last Duke of Jin was deposed, and the sacrifices of {n_jin} ceased."
+   "en": "The last Duke of Jin was deposed, and the sacrifices of {n_jin} ceased.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "fengze",
@@ -13097,7 +13840,10 @@
    "at": "daliang",
    "imp": 1,
    "ja": "{n_wei}の恵王は逢沢に諸侯を集め、天子の服をまとって会した。魏の盛りを示す会であったが、諸国の反感も買った。",
-   "en": "King Hui of {n_wei} gathered the lords at Fengze dressed as the Son of Heaven: Wei at its height — and the lords resented it."
+   "en": "King Hui of {n_wei} gathered the lords at Fengze dressed as the Son of Heaven: Wei at its height — and the lords resented it.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "maling",
@@ -13132,7 +13878,10 @@
    ],
    "imp": 3,
    "ja": "馬陵の戦い。[[p:孫臏]]は毎日かまどの数を減らして逃げるふりをし、追う[[p:龐涓]]を馬陵の狭い道に誘い込んだ。「[[p:龐涓]]この樹の下に死す」と記した木の下で[[p:龐涓]]は自害した。",
-   "en": "At Maling [[p:孫臏|Sun Bin]] made fewer cooking fires each night, as if his men were deserting, and drew [[p:龐涓|Pang Juan]] into a narrow pass. Under a tree on which [[p:孫臏|Sun Bin]] had written \"[[p:龐涓|Pang Juan]] dies beneath this tree\", [[p:龐涓|Pang Juan]] killed himself."
+   "en": "At Maling [[p:孫臏|Sun Bin]] made fewer cooking fires each night, as if his men were deserting, and drew [[p:龐涓|Pang Juan]] into a narrow pass. Under a tree on which [[p:孫臏|Sun Bin]] had written \"[[p:龐涓|Pang Juan]] dies beneath this tree\", [[p:龐涓|Pang Juan]] killed himself.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "hexi",
@@ -13159,7 +13908,10 @@
     ]
    ],
    "ja": "[[p:商鞅]]は旧友の魏の公子卬を会盟に招いて捕らえ、{n_wei}から河西の地を奪った。",
-   "en": "[[p:商鞅|Shang Yang]] invited his old friend Prince Ang of {n_wei} to a parley, seized him, and took the lands west of the Yellow River."
+   "en": "[[p:商鞅|Shang Yang]] invited his old friend Prince Ang of {n_wei} to a parley, seized him, and took the lands west of the Yellow River.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "shang_yang_dies",
@@ -13171,7 +13923,10 @@
    ],
    "do": [],
    "ja": "後ろ盾の孝公が没すると[[p:商鞅]]は謀反の罪に問われた。逃れて宿を求めたが「商君の法で、証のない客は泊められぬ」と断られ、捕らえられて車裂きにされた。",
-   "en": "When his patron Duke Xiao died, [[p:商鞅|Shang Yang]] was accused of treason. Fleeing, he sought a bed at an inn and was turned away — \"by Lord Shang's law, no guest without papers\" — and was caught and torn apart by chariots."
+   "en": "When his patron Duke Xiao died, [[p:商鞅|Shang Yang]] was accused of treason. Fleeing, he sought a bed at an inn and was turned away — \"by Lord Shang's law, no guest without papers\" — and was caught and torn apart by chariots.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "xuzhou",
@@ -13211,7 +13966,10 @@
     ]
    ],
    "ja": "徐州で{r_qi}と{r_wei}は互いを王と認め合った (徐州相王)。",
-   "en": "At Xuzhou {r_qi} and {r_wei} acknowledged each other as kings."
+   "en": "At Xuzhou {r_qi} and {r_wei} acknowledged each other as kings.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chu_annex_yue",
@@ -13230,7 +13988,10 @@
    "imp": 3,
    "at": "kuaiji",
    "ja": "{r_chu}は{n_yue}を破り、呉の故地を併せた。越の王族は海辺に散って小さな君長となった。",
-   "en": "{r_chu} defeated {n_yue} and took the old lands of Wu; the house of Yue scattered along the coast as petty chiefs."
+   "en": "{r_chu} defeated {n_yue} and took the old lands of Wu; the house of Yue scattered along the coast as petty chiefs.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "hezong",
@@ -13269,7 +14030,11 @@
    ],
    "imp": 3,
    "ja": "[[p:蘇秦]]は六国を説いて回り、秦に対する[[a:zongheng|「合従」]]の盟を結ばせ、六国の相の印を帯びたという。",
-   "en": "[[p:蘇秦|Su Qin]] went from court to court and won the six realms to an alliance against Qin — [[a:zongheng|the Vertical Alliance]] — and carried, it is said, the seals of chief minister of all six."
+   "en": "[[p:蘇秦|Su Qin]] went from court to court and won the six realms to an alliance against Qin — [[a:zongheng|the Vertical Alliance]] — and carried, it is said, the seals of chief minister of all six.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "zhang_yi_xiang",
@@ -13280,7 +14045,10 @@
    "at": "xianyang",
    "imp": 1,
    "ja": "{n_qin}の[[p:恵文王]]は[[p:張儀]]を相とした。舌が残っていれば十分と言い放った弁舌の士である。",
-   "en": "[[p:恵文王|King Huiwen]] of {n_qin} made [[p:張儀|Zhang Yi]] his chancellor — the talker who once said that as long as he had his tongue he had enough."
+   "en": "[[p:恵文王|King Huiwen]] of {n_qin} made [[p:張儀|Zhang Yi]] his chancellor — the talker who once said that as long as he had his tongue he had enough.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_king",
@@ -13305,7 +14073,10 @@
     ]
    ],
    "ja": "{r_qin}は王を称した。",
-   "en": "{r_qin} took the title of king."
+   "en": "{r_qin} took the title of king.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "five_kings",
@@ -13342,7 +14113,10 @@
     ]
    ],
    "ja": "韓・趙・燕などの君も相次いで王を称した (五国相王)。",
-   "en": "The lords of Han, Zhao, Yan and others took the title of king in turn."
+   "en": "The lords of Han, Zhao, Yan and others took the title of king in turn.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "hangu_318",
@@ -13373,7 +14147,10 @@
    "at": "xianyang",
    "imp": 2,
    "ja": "韓・趙・魏・燕・楚の五国が合従して{n_qin}を攻めたが、函谷関で撃退された。",
-   "en": "Han, Zhao, Wei, Yan and Chu joined against {n_qin} and were thrown back at the Hangu Pass."
+   "en": "Han, Zhao, Wei, Yan and Chu joined against {n_qin} and were thrown back at the Hangu Pass.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "xiuyu",
@@ -13400,7 +14177,10 @@
    "at": "xinzheng",
    "imp": 1,
    "ja": "修魚の戦い。{n_qin}は{n_han}・{n_zhao}の軍を破り、首を斬ること八万。",
-   "en": "At Xiuyu {n_qin} beat the armies of {n_han} and {n_zhao}, taking eighty thousand heads."
+   "en": "At Xiuyu {n_qin} beat the armies of {n_han} and {n_zhao}, taking eighty thousand heads.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_shu",
@@ -13425,7 +14205,10 @@
    "imp": 3,
    "at": "chengdu",
    "ja": "{r_qin}は[[p:司馬錯]]を遣わして{n_shu}を滅ぼした。豊かな蜀の地は秦の米蔵となった。",
-   "en": "{r_qin} sent [[p:司馬錯|Sima Cuo]] to destroy {n_shu}. The rich Shu basin became Qin's granary."
+   "en": "{r_qin} sent [[p:司馬錯|Sima Cuo]] to destroy {n_shu}. The rich Shu basin became Qin's granary.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_ba",
@@ -13444,7 +14227,10 @@
    ],
    "at": "jiangzhou",
    "ja": "続いて{r_qin}は{n_ba}も併せた。",
-   "en": "Next {r_qin} took {n_ba} as well."
+   "en": "Next {r_qin} took {n_ba} as well.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "zizhi",
@@ -13473,7 +14259,11 @@
    "imp": 3,
    "at": "ji_yan",
    "ja": "{n_yan}の王噲は堯舜にならって宰相[[p:子之]]に国を譲り、国は乱れた。{n_qi}はこれに乗じて燕に攻め入った。",
-   "en": "[[p:燕王噲|King Kuai]] of {n_yan}, copying the sage kings, gave his realm to his minister [[p:子之|Zizhi]], and the country fell into chaos. {n_qi} seized the moment and invaded Yan."
+   "en": "[[p:燕王噲|King Kuai]] of {n_yan}, copying the sage kings, gave his realm to his minister [[p:子之|Zizhi]], and the country fell into chaos. {n_qi} seized the moment and invaded Yan.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "zhang_yi_chu",
@@ -13485,7 +14275,11 @@
    "at": "ying",
    "imp": 1,
    "ja": "[[p:張儀]]は{n_chu}の懐王に「斉と手を切れば商於の地六百里を献じよう」と持ちかけた。楚が斉と絶つと、張儀は「約束したのは六里だ」と言った。",
-   "en": "[[p:張儀|Zhang Yi]] offered King Huai of {n_chu} six hundred li of Shang-Yu if Chu broke with Qi. When Chu had done so, Zhang Yi said he had promised six li."
+   "en": "[[p:張儀|Zhang Yi]] offered King Huai of {n_chu} six hundred li of Shang-Yu if Chu broke with Qi. When Chu had done so, Zhang Yi said he had promised six li.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "danyang",
@@ -13526,7 +14320,10 @@
    ],
    "imp": 3,
    "ja": "{r_chu}は[[p:張儀]]に「斉と絶てば商於の地六百里を献ずる」と欺かれ、怒って{n_qin}と戦ったが、丹陽で大敗して漢中を失った。",
-   "en": "{r_chu}, tricked by [[p:張儀|Zhang Yi]]'s promise of six hundred li if he broke with Qi, made war on {n_qin} in anger — and lost at Danyang, and with it Hanzhong."
+   "en": "{r_chu}, tricked by [[p:張儀|Zhang Yi]]'s promise of six hundred li if he broke with Qi, made war on {n_qin} in anger — and lost at Danyang, and with it Hanzhong.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "lantian",
@@ -13546,7 +14343,10 @@
    "at": "xianyang",
    "imp": 1,
    "ja": "丹陽で敗れた{n_chu}の懐王は国中の兵を挙げて{n_qin}を攻め、藍田まで迫ったが、韓・魏に背後を襲われて再び敗れた。",
-   "en": "Beaten at Danyang, King Huai of {n_chu} threw the whole realm's strength at {n_qin} and reached Lantian, but Han and Wei fell on his rear and he was beaten again."
+   "en": "Beaten at Danyang, King Huai of {n_chu} threw the whole realm's strength at {n_qin} and reached Lantian, but Han and Wei fell on his rear and he was beaten again.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "golden_terrace",
@@ -13569,7 +14369,11 @@
     ]
    ],
    "ja": "{r_yan}は[[a:xianwei|「まず隗より始めよ」]]との[[p:郭隗]]の言を容れ、黄金台を築いて天下の賢者を招いた。[[p:楽毅]]・[[p:鄒衍]]らが燕に集まった。",
-   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"[[a:xianwei|begin with me, Wei]]\" — and built the Golden Terrace to welcome the able men of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan."
+   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"[[a:xianwei|begin with me, Wei]]\" — and built the Golden Terrace to welcome the able men of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan.",
+   "src": [
+    "zhanguoce",
+    "shiji"
+   ]
   },
   {
    "id": "hufu",
@@ -13593,7 +14397,10 @@
    "imp": 3,
    "at": "handan",
    "ja": "{r_zhao}は「[[a:hufu|胡服騎射]]」を命じ、遊牧の民の服を着て馬上から弓を射る騎兵を育てた。反対する重臣たちを王は自ら説き伏せた。",
-   "en": "{r_zhao} ordered \"[[a:hufu|barbarian dress and mounted archery]]\": trousers instead of robes, and bowmen on horseback. He talked round the elders who objected himself."
+   "en": "{r_zhao} ordered \"[[a:hufu|barbarian dress and mounted archery]]\": trousers instead of robes, and bowmen on horseback. He talked round the elders who objected himself.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "yiyang_307",
@@ -13615,7 +14422,10 @@
    "at": "yiyang",
    "imp": 2,
    "ja": "{n_qin}の[[p:甘茂]]は五か月をかけて{n_han}の大きな県宜陽を落とし、首を斬ること六万。秦は周の都への道を開いた。",
-   "en": "[[p:甘茂|Gan Mao]] of {n_qin} took the great county of Yiyang from {n_han} after five months, with sixty thousand heads; Qin now had a road to the Zhou capital."
+   "en": "[[p:甘茂|Gan Mao]] of {n_qin} took the great county of Yiyang from {n_han} after five months, with sixty thousand heads; Qin now had a road to the Zhou capital.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_wu_cauldron",
@@ -13628,7 +14438,10 @@
    "at": "luoyi",
    "imp": 1,
    "ja": "{n_qin}の武王は周の都に入り、力士の孟説と鼎を持ち上げる力比べをして、すねの骨を折った。武王はこの傷がもとで没した。",
-   "en": "King Wu of {n_qin} entered the Zhou capital and matched strength with the strongman Meng Yue at lifting a sacred cauldron; it broke his shin, and he died of the wound."
+   "en": "King Wu of {n_qin} entered the Zhou capital and matched strength with the strongman Meng Yue at lifting a sacred cauldron; it broke his shin, and he died of the wound.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "zhao_linhu",
@@ -13647,7 +14460,10 @@
    "imp": 2,
    "at": "linhu",
    "ja": "[[a:hufu|胡服騎射]]の騎兵を得た{r_zhao}は、北の林胡・楼煩を討って雲中・雁門の地を開いた。",
-   "en": "With his new [[a:hufu|horse archers]] {r_zhao} struck the Linhu and Loufan in the north and opened the lands of Yunzhong and Yanmen."
+   "en": "With his new [[a:hufu|horse archers]] {r_zhao} struck the Linhu and Loufan in the north and opened the lands of Yunzhong and Yanmen.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chuisha",
@@ -13669,7 +14485,10 @@
    "at": "wan",
    "imp": 1,
    "ja": "垂沙の戦い。{n_qi}・{n_han}・{n_wei}の軍が{n_chu}を破り、楚の将唐眛は討たれた。楚の国内では荘蹻が乱を起こした。",
-   "en": "At Chuisha the armies of {n_qi}, {n_han} and {n_wei} beat {n_chu}, and the Chu general Tang Mie was killed; at home Zhuang Qiao rose in revolt."
+   "en": "At Chuisha the armies of {n_qi}, {n_han} and {n_wei} beat {n_chu}, and the Chu general Tang Mie was killed; at home Zhuang Qiao rose in revolt.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "yan_shanrong",
@@ -13688,7 +14507,10 @@
    "imp": 1,
    "at": "shanrong",
    "ja": "{n_yan}の将秦開は東胡を千里のかなたへ退け、[[a:changcheng|長城]]を築いた。",
-   "en": "Qin Kai, a general of {n_yan}, drove the Donghu back a thousand li and built a [[a:changcheng|long wall]]."
+   "en": "Qin Kai, a general of {n_yan}, drove the Donghu back a thousand li and built a [[a:changcheng|long wall]].",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "huai_detained",
@@ -13706,7 +14528,10 @@
     ]
    ],
    "ja": "{n_chu}の懐王は会盟に招かれて{n_qin}に入り、そのまま捕らわれた。三年後、懐王は秦で没した。楚の人々は哀れみ、[[p:屈原]]はその死を悼んだ。",
-   "en": "King Huai of {n_chu} went to a meeting in {n_qin} and was held there. He died in Qin three years later, mourned by the people of Chu — and by [[p:屈原|Qu Yuan]]."
+   "en": "King Huai of {n_chu} went to a meeting in {n_qin} and was held there. He died in Qin three years later, mourned by the people of Chu — and by [[p:屈原|Qu Yuan]].",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "mengchang_escape",
@@ -13718,7 +14543,10 @@
    "at": "xianyang",
    "imp": 2,
    "ja": "{n_qin}に留め置かれた{n_qi}の[[p:孟嘗君]]は、狗の真似の巧みな食客に秦の宝の狐白裘を盗み出させて王の寵姫に贈り、釈放された。夜半に函谷関に着くと、鶏の鳴き真似の巧みな食客が鳴いて関を開かせ、追っ手を逃れた (鶏鳴狗盗)。",
-   "en": "Held in {n_qin}, [[p:孟嘗君|Lord Mengchang]] of {n_qi} had a retainer who could pass for a dog steal back a white fox coat for the king's favourite, and was let go. At the Hangu Pass at midnight a retainer who could crow like a cock set all the cocks crowing, the gate opened, and he escaped."
+   "en": "Held in {n_qin}, [[p:孟嘗君|Lord Mengchang]] of {n_qi} had a retainer who could pass for a dog steal back a white fox coat for the king's favourite, and was let go. At the Hangu Pass at midnight a retainer who could crow like a cock set all the cocks crowing, the gate opened, and he escaped.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "hangu_298",
@@ -13749,7 +14577,10 @@
    "at": "xianyang",
    "imp": 1,
    "ja": "[[p:孟嘗君]]の率いる{n_qi}・{n_han}・{n_wei}の軍は三年をかけて函谷関を破った。{n_qin}は地を返して和を求めた。",
-   "en": "The armies of {n_qi}, {n_han} and {n_wei} under [[p:孟嘗君|Lord Mengchang]] broke through the Hangu Pass after three years; {n_qin} gave back land for peace."
+   "en": "The armies of {n_qi}, {n_han} and {n_wei} under [[p:孟嘗君|Lord Mengchang]] broke through the Hangu Pass after three years; {n_qin} gave back land for peace.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "song_teng",
@@ -13768,7 +14599,10 @@
    "imp": 1,
    "at": "teng",
    "ja": "{r_song}は{n_teng}を滅ぼした。",
-   "en": "{r_song} destroyed {n_teng}."
+   "en": "{r_song} destroyed {n_teng}.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "zhao_zhongshan",
@@ -13785,7 +14619,10 @@
     ]
    ],
    "ja": "{r_zhao}は中山 ({n_xianyu}) を滅ぼした。",
-   "en": "{r_zhao} destroyed Zhongshan ({n_xianyu})."
+   "en": "{r_zhao} destroyed Zhongshan ({n_xianyu}).",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "shaqiu",
@@ -13804,7 +14641,10 @@
    "at": "handan",
    "imp": 2,
    "ja": "{n_zhao}で、位を譲った主父 ([[p:武霊王]]) の長子章が乱を起こして敗れ、主父の宮に逃げ込んだ。[[p:公子成]]と李兌は宮を三か月囲み、主父は雀の雛を食べて飢えをしのいだが、沙丘の宮で餓死した。",
-   "en": "In {n_zhao} the eldest son of the retired Father of the Lord ([[p:武霊王|King Wuling]]) rose, failed and fled into his father's palace at Shaqiu. [[p:公子成|Prince Cheng]] and Li Dui kept the palace shut for three months; the old king ate fledgling sparrows, and starved to death."
+   "en": "In {n_zhao} the eldest son of the retired Father of the Lord ([[p:武霊王|King Wuling]]) rose, failed and fled into his father's palace at Shaqiu. [[p:公子成|Prince Cheng]] and Li Dui kept the palace shut for three months; the old king ate fledgling sparrows, and starved to death.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "yique",
@@ -13838,7 +14678,10 @@
    ],
    "imp": 3,
    "ja": "伊闕の戦い。秦将[[p:白起]]は{n_han}・{n_wei}の連合軍を破り、首を斬ること二十四万と伝えられる。",
-   "en": "At Yique the Qin general [[p:白起|Bai Qi]] broke the allied armies of {n_han} and {n_wei}; two hundred and forty thousand heads were taken, the records say."
+   "en": "At Yique the Qin general [[p:白起|Bai Qi]] broke the allied armies of {n_han} and {n_wei}; two hundred and forty thousand heads were taken, the records say.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "two_emperors",
@@ -13851,7 +14694,11 @@
    "at": "xianyang",
    "imp": 2,
    "ja": "{n_qin}の昭王は西帝、{n_qi}の湣王は東帝を称した。蘇代の説得で、湣王は二か月で帝号を取り下げ、昭王もこれに続いた。",
-   "en": "King Zhao of {n_qin} called himself Emperor of the West, and King Min of {n_qi} Emperor of the East. Talked round by Su Dai, King Min dropped the title within two months, and King Zhao followed."
+   "en": "King Zhao of {n_qin} called himself Emperor of the West, and King Min of {n_qi} Emperor of the East. Talked round by Su Dai, King Min dropped the title within two months, and King Zhao followed.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "qi_annex_song",
@@ -13870,7 +14717,10 @@
    "imp": 3,
    "at": "shangqiu",
    "ja": "{r_qi}は「桀宋」と呼ばれた{n_song}の王偃を討ち、宋を滅ぼした。だが斉の強大化は諸国を恐れさせた。",
-   "en": "{r_qi} struck down [[p:宋王偃|King Yan]] of {n_song} — \"the Jie of Song\" — and destroyed Song. Qi's new might frightened every court."
+   "en": "{r_qi} struck down [[p:宋王偃|King Yan]] of {n_song} — \"the Jie of Song\" — and destroyed Song. Qi's new might frightened every court.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "jixi",
@@ -13909,7 +14759,10 @@
    "imp": 3,
    "at": "linzi",
    "ja": "済西の戦い。燕の[[p:楽毅]]は秦・韓・趙・魏の兵をあわせて{n_qi}を破り、都臨淄を落として七十余城を取った。残ったのは莒と即墨だけであった。",
-   "en": "At Jixi [[p:楽毅|Yue Yi]] of Yan, with Qin, Han, Zhao and Wei, broke {n_qi}, took Linzi and seventy towns. Only Ju and Jimo held out."
+   "en": "At Jixi [[p:楽毅|Yue Yi]] of Yan, with Qin, Han, Zhao and Wei, broke {n_qi}, took Linzi and seventy towns. Only Ju and Jimo held out.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qi_min_dies",
@@ -13921,7 +14774,10 @@
    "at": "ju",
    "imp": 1,
    "ja": "莒に逃れた{n_qi}の湣王は、救援に来た{n_chu}の将淖歯に捕らえられ、殺された。",
-   "en": "King Min of {n_qi}, fled to Ju, was seized and killed by Nao Chi, the general {n_chu} had sent to help him."
+   "en": "King Min of {n_qi}, fled to Ju, was seized and killed by Nao Chi, the general {n_chu} had sent to help him.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "he_bi",
@@ -13941,7 +14797,10 @@
    "at": "handan",
    "imp": 2,
    "ja": "{n_qin}の昭王は十五の城と引き換えに{n_zhao}の名玉「和氏の璧」を求めた。使者の[[p:藺相如]]は秦王に城を渡す気がないと見るや、璧を柱に打ち砕くと迫って取り戻し、無傷のまま趙に持ち帰らせた (完璧)。",
-   "en": "King Zhao of {n_qin} offered fifteen cities for {n_zhao}'s famous jade disc. The envoy [[p:藺相如|Lin Xiangru]] saw that no cities would come, threatened to smash the jade against a pillar, took it back and sent it home unharmed."
+   "en": "King Zhao of {n_qin} offered fifteen cities for {n_zhao}'s famous jade disc. The envoy [[p:藺相如|Lin Xiangru]] saw that no cities would come, threatened to smash the jade against a pillar, took it back and sent it home unharmed.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "fire_oxen",
@@ -13980,7 +14839,10 @@
    "imp": 3,
    "at": "jimo",
    "ja": "即墨の[[p:田単]]は、角に刃を縛り尾に火をつけた千頭の牛を夜に放って燕の陣を突き崩し、失った城をすべて取り戻した ([[a:huoniu|火牛の計]])。",
-   "en": "At Jimo [[p:田単|Tian Dan]] [[a:huoniu|loosed a thousand oxen in the night]], blades tied to their horns and fire to their tails, broke the Yan camp, and won back every lost town."
+   "en": "At Jimo [[p:田単|Tian Dan]] [[a:huoniu|loosed a thousand oxen in the night]], blades tied to their horns and fire to their tails, broke the Yan camp, and won back every lost town.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "mianchi",
@@ -13999,7 +14861,10 @@
     ]
    ],
    "ja": "澠池の会。{r_qin}は{r_zhao}に瑟を弾かせて辱めたが、[[p:藺相如]]は秦王に缶を打たせて返した。[[a:wanbi|和氏の璧を完うして帰った]][[p:藺相如]]は上卿となり、[[p:廉頗]]とは「刎頸の交わり」を結んだ。",
-   "en": "At Mianchi {r_qin} shamed {r_zhao} by making him play the zither; [[p:藺相如|Lin Xiangru]] made the King of Qin beat a clay pot in return. Lin, who had [[a:wanbi|brought the jade of He home whole]], became first minister and swore with [[p:廉頗|Lian Po]] a friendship \"unto the cutting of throats\"."
+   "en": "At Mianchi {r_qin} shamed {r_zhao} by making him play the zither; [[p:藺相如|Lin Xiangru]] made the King of Qin beat a clay pot in return. Lin, who had [[a:wanbi|brought the jade of He home whole]], became first minister and swore with [[p:廉頗|Lian Po]] a friendship \"unto the cutting of throats\".",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "yan_ying",
@@ -14039,7 +14904,10 @@
    "imp": 3,
    "at": "ying",
    "ja": "秦将[[p:白起]]は{n_chu}の都郢を落とし、歴代の王墓を焼いた。楚は東の陳へ都を移した。[[p:屈原]]はこの報を聞いて汨羅に身を投げた。",
-   "en": "[[p:白起|Bai Qi]] of Qin took Ying, the capital of {n_chu}, and burned the royal tombs. Chu moved east to Chen. Hearing the news, [[p:屈原|Qu Yuan]] drowned himself in the Miluo."
+   "en": "[[p:白起|Bai Qi]] of Qin took Ying, the capital of {n_chu}, and burned the royal tombs. Chu moved east to Chen. Hearing the news, [[p:屈原|Qu Yuan]] drowned himself in the Miluo.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "huayang",
@@ -14060,7 +14928,10 @@
    "at": "daliang",
    "imp": 1,
    "ja": "華陽の戦い。{n_qin}の[[p:白起]]は{n_wei}・{n_zhao}の軍を破り、首を斬ること十三万。趙兵二万を黄河に沈めた。",
-   "en": "At Huayang [[p:白起|Bai Qi]] of {n_qin} beat {n_wei} and {n_zhao}, taking a hundred and thirty thousand heads, and drowned twenty thousand Zhao soldiers in the Yellow River."
+   "en": "At Huayang [[p:白起|Bai Qi]] of {n_qin} beat {n_wei} and {n_zhao}, taking a hundred and thirty thousand heads, and drowned twenty thousand Zhao soldiers in the Yellow River.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_yiqu",
@@ -14079,7 +14950,10 @@
    "imp": 2,
    "at": "yiqu",
    "ja": "{r_qin}の母[[p:宣太后]]は義渠王を甘泉宮に誘って殺し、秦は義渠を滅ぼした。",
-   "en": "The [[p:宣太后|Queen Dowager Xuan]] of {n_qin} lured the King of Yiqu to the Ganquan palace and had him killed; Qin destroyed Yiqu."
+   "en": "The [[p:宣太后|Queen Dowager Xuan]] of {n_qin} lured the King of Yiqu to the Ganquan palace and had him killed; Qin destroyed Yiqu.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "fan_ju",
@@ -14102,7 +14976,10 @@
     ]
    ],
    "ja": "{r_qin}は[[p:范雎]]の「遠交近攻」の策を用い、遠い斉と結んで近い韓・魏を攻めることにした。",
-   "en": "{r_qin} took up [[p:范雎|Fan Ju]]'s policy of \"befriend the far, strike the near\": peace with distant Qi, war on neighbouring Han and Wei."
+   "en": "{r_qin} took up [[p:范雎|Fan Ju]]'s policy of \"befriend the far, strike the near\": peace with distant Qi, war on neighbouring Han and Wei.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "eyu",
@@ -14132,7 +15009,10 @@
    "at": "handan",
    "imp": 2,
    "ja": "閼与の戦い。{n_zhao}の[[p:趙奢]]は都を出て三十里で陣を止め、二十八日のあいだ動かずに{n_qin}を油断させ、二日二晩で駆けつけて北の山を取り、秦軍を大いに破った。「狭い道で戦うのは、鼠が穴の中で闘うようなもの。勇ましい方が勝つ」。",
-   "en": "At Eyu [[p:趙奢|Zhao She]] of {n_zhao} camped thirty li out of the capital and did not stir for twenty-eight days; then he marched two days and nights, seized the northern hill and routed {n_qin}. \"Fighting in a narrow pass is like two rats in a hole — the braver wins.\""
+   "en": "At Eyu [[p:趙奢|Zhao She]] of {n_zhao} camped thirty li out of the capital and did not stir for twenty-eight days; then he marched two days and nights, seized the northern hill and routed {n_qin}. \"Fighting in a narrow pass is like two rats in a hole — the braver wins.\"",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "fan_ju_xiang",
@@ -14151,7 +15031,10 @@
    "at": "xianyang",
    "imp": 1,
    "ja": "{n_qin}の昭王は[[p:范雎]]を相とし、母[[p:宣太后]]の一族の穣侯[[p:魏冄]]らを都から退けた。",
-   "en": "King Zhao of {n_qin} made [[p:范雎|Fan Ju]] chancellor and sent the queen mother's kin — the Marquis of Rang, [[p:魏冄|Wei Ran]], and the rest — away from the capital."
+   "en": "King Zhao of {n_qin} made [[p:范雎|Fan Ju]] chancellor and sent the queen mother's kin — the Marquis of Rang, [[p:魏冄|Wei Ran]], and the rest — away from the capital.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chulong",
@@ -14163,7 +15046,11 @@
    "at": "handan",
    "imp": 1,
    "ja": "{n_zhao}の太后は、斉の援軍の条件として末子の長安君を人質に出すことを拒んでいたが、老臣触竜に「子を愛するなら、国に功を立てさせてやるべき」と説かれて承知した。",
-   "en": "The Queen Dowager of {n_zhao} refused to send her youngest son, Lord Chang'an, as hostage for Qi's help — until the old minister Chu Long told her that to love a son is to let him earn merit for the realm."
+   "en": "The Queen Dowager of {n_zhao} refused to send her youngest son, Lord Chang'an, as hostage for Qi's help — until the old minister Chu Long told her that to love a son is to let him earn merit for the realm.",
+   "src": [
+    "zhanguoce",
+    "shiji"
+   ]
   },
   {
    "id": "shangdang",
@@ -14192,7 +15079,10 @@
     ]
    ],
    "ja": "秦に攻められた{n_han}の上党は、秦に降るより趙につくことを選んだ。趙は上党を受け入れ、秦との大戦が避けられなくなった。",
-   "en": "Rather than yield to Qin, the Shangdang commandery of {n_han} gave itself to Zhao. Zhao accepted, and a great war with Qin became certain."
+   "en": "Rather than yield to Qin, the Shangdang commandery of {n_han} gave itself to Zhao. Zhao accepted, and a great war with Qin became certain.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chu_zhu",
@@ -14211,7 +15101,10 @@
    "imp": 1,
    "at": "zhu",
    "ja": "{r_chu}は[[p:孟子]]の故郷{n_zhu}を併せた。",
-   "en": "{r_chu} absorbed {n_zhu}, the home of [[p:孟子|Mencius]]."
+   "en": "{r_chu} absorbed {n_zhu}, the home of [[p:孟子|Mencius]].",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "changping",
@@ -14255,7 +15148,10 @@
    "imp": 3,
    "at": "lu_di",
    "ja": "長平の戦い。{n_zhao}は老将[[p:廉頗]]を退け、兵書には通じるが戦を知らぬ[[p:趙括]]を将とした。[[p:白起]]は趙軍を包囲して兵糧を断ち、降った四十万を穴埋めにしたと伝えられる。",
-   "en": "Changping. {n_zhao} replaced the old general [[p:廉頗|Lian Po]] with [[p:趙括|Zhao Kuo]], who knew the books but not war. [[p:白起|Bai Qi]] surrounded and starved the Zhao army, and buried alive the four hundred thousand who surrendered, it is said."
+   "en": "Changping. {n_zhao} replaced the old general [[p:廉頗|Lian Po]] with [[p:趙括|Zhao Kuo]], who knew the books but not war. [[p:白起|Bai Qi]] surrounded and starved the Zhao army, and buried alive the four hundred thousand who surrendered, it is said.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "handan_saved",
@@ -14288,7 +15184,10 @@
    "imp": 3,
    "at": "handan",
    "ja": "秦軍が邯鄲を囲んだ。[[p:平原君]]は自ら売り込んだ[[p:毛遂]]を伴って楚の援軍を得、魏の[[p:信陵君]]は王の兵符を盗み出して出兵し、ついに秦軍を退けた。[[p:白起]]は出陣を拒んで死を賜った。",
-   "en": "Qin besieged Handan. [[p:平原君|Lord Pingyuan]] won Chu's help with [[p:毛遂|Mao Sui]], who had put himself forward; [[p:信陵君|Lord Xinling]] of Wei stole his king's tally to march his army — and Qin was driven off. [[p:白起|Bai Qi]], who had refused the command, was ordered to die."
+   "en": "Qin besieged Handan. [[p:平原君|Lord Pingyuan]] won Chu's help with [[p:毛遂|Mao Sui]], who had put himself forward; [[p:信陵君|Lord Xinling]] of Wei stole his king's tally to march his army — and Qin was driven off. [[p:白起|Bai Qi]], who had refused the command, was ordered to die.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_zhou",
@@ -14307,7 +15206,10 @@
    "imp": 3,
    "at": "luoyi",
    "ja": "{r_qin}は{n_zhou}を滅ぼし、九鼎を咸陽へ移した。八百年続いた周の王統はここに絶えた。",
-   "en": "{r_qin} put an end to {n_zhou} and carried off the Nine Cauldrons to Xianyang. The royal line of Zhou, eight centuries old, was gone."
+   "en": "{r_qin} put an end to {n_zhou} and carried off the Nine Cauldrons to Xianyang. The royal line of Zhou, eight centuries old, was gone.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "hao_251",
@@ -14336,7 +15238,10 @@
    "at": "handan",
    "imp": 1,
    "ja": "長平の痛手を見て{n_yan}は{n_zhao}を攻めたが、趙の[[p:廉頗]]に鄗で大敗し、逆に都を囲まれた。",
-   "en": "Seeing Zhao bled white at Changping, {n_yan} attacked {n_zhao} — and was crushed by [[p:廉頗|Lian Po]] at Hao, and its own capital besieged."
+   "en": "Seeing Zhao bled white at Changping, {n_yan} attacked {n_zhao} — and was crushed by [[p:廉頗|Lian Po]] at Hao, and its own capital besieged.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chu_lu",
@@ -14354,7 +15259,10 @@
    ],
    "at": "qufu",
    "ja": "{r_chu}は{n_lu}を滅ぼした。周公旦以来の魯の祀りは絶えた。",
-   "en": "{r_chu} destroyed {n_lu}; the line of the Duke of Zhou was gone."
+   "en": "{r_chu} destroyed {n_lu}; the line of the Duke of Zhou was gone.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "lv_buwei_xiang",
@@ -14365,7 +15273,10 @@
    "at": "xianyang",
    "imp": 2,
    "ja": "{n_qin}の[[p:荘襄王]]は、趙で人質であった自分を助けた商人[[p:呂不韋]]を相国とし、文信侯に封じた。",
-   "en": "[[p:荘襄王|King Zhuangxiang]] of {n_qin} made [[p:呂不韋|Lü Buwei]] — the merchant who had helped him when he was a hostage in Zhao — his chancellor, and Marquis Wenxin."
+   "en": "[[p:荘襄王|King Zhuangxiang]] of {n_qin} made [[p:呂不韋|Lü Buwei]] — the merchant who had helped him when he was a hostage in Zhao — his chancellor, and Marquis Wenxin.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "dongzhou",
@@ -14376,7 +15287,10 @@
    "at": "gong",
    "imp": 1,
    "ja": "{n_qin}は東周君を滅ぼした。周の名を負う最後の小さな国も絶えた。",
-   "en": "{n_qin} put an end to the Lord of Eastern Zhou: the last little state to bear the name of Zhou was gone."
+   "en": "{n_qin} put an end to the Lord of Eastern Zhou: the last little state to bear the name of Zhou was gone.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "xinling_247",
@@ -14408,7 +15322,10 @@
     ]
    ],
    "ja": "魏の[[p:信陵君]]は五国の兵を率いて河外で{n_qin}を破り、函谷関まで追った。",
-   "en": "[[p:信陵君|Lord Xinling]] of Wei led the armies of five realms, defeated {n_qin} beyond the River and chased it to the Hangu pass."
+   "en": "[[p:信陵君|Lord Xinling]] of Wei led the armies of five realms, defeated {n_qin} beyond the River and chased it to the Hangu pass.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "zheng_guo_canal",
@@ -14427,7 +15344,10 @@
    "at": "xianyang",
    "imp": 2,
    "ja": "{n_qin}は韓の水工鄭国に、涇水から洛水へ三百余里の水路を掘らせた。韓が秦の力を土木に費やさせるための策と露見したが、鄭国は「秦のためにもなる」と説いて工事は続き、のちに関中は沃野となった (鄭国渠)。",
-   "en": "{n_qin} set the Han water-engineer Zheng Guo to dig a canal of three hundred li from the Jing to the Luo. It came out that Han meant it to drain Qin's strength; but Zheng Guo argued it would serve Qin too, the work went on, and the land within the passes became rich."
+   "en": "{n_qin} set the Han water-engineer Zheng Guo to dig a canal of three hundred li from the Jing to the Luo. It came out that Han meant it to drain Qin's strength; but Zheng Guo argued it would serve Qin too, the work went on, and the land within the passes became rich.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "chu_shouchun",
@@ -14444,7 +15364,10 @@
    ],
    "at": "shouchun",
    "ja": "最後の合従が函谷関で敗れると、{r_chu}は都を寿春へ移した。",
-   "en": "When the last alliance against Qin failed at the Hangu pass, {r_chu} moved the capital to Shouchun."
+   "en": "When the last alliance against Qin failed at the Hangu pass, {r_chu} moved the capital to Shouchun.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "zui_241",
@@ -14476,7 +15399,10 @@
    "at": "xianyang",
    "imp": 1,
    "ja": "楚・趙・魏・韓・燕の五国は最後の合従を結んで{n_qin}を攻め、蕞まで迫ったが敗れて散った。",
-   "en": "Chu, Zhao, Wei, Han and Yan joined for the last time against {n_qin} and reached Zui, but were beaten and scattered."
+   "en": "Chu, Zhao, Wei, Han and Yan joined for the last time against {n_qin} and reached Zui, but were beaten and scattered.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "lao_ai",
@@ -14496,7 +15422,10 @@
    "at": "yong",
    "imp": 2,
    "ja": "{n_qin}の太后に寵愛されていた[[p:嫪毐]]が、[[p:秦王政]]の冠礼のために王が雍にいる隙に兵を挙げたが、敗れて車裂きにされた。",
-   "en": "[[p:嫪毐|Lao Ai]], favourite of the Queen Dowager of {n_qin}, raised troops while [[p:秦王政|King Zheng]] was at Yong for his coming-of-age; he was beaten and torn apart by chariots."
+   "en": "[[p:嫪毐|Lao Ai]], favourite of the Queen Dowager of {n_qin}, raised troops while [[p:秦王政|King Zheng]] was at Yong for his coming-of-age; he was beaten and torn apart by chariots.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "li_si_memorial",
@@ -14513,7 +15442,10 @@
     ]
    ],
    "ja": "{r_qin}は他国出身の客卿を追い出そうとしたが、[[p:李斯]]の「諫逐客書」を読んで命を撤回した。",
-   "en": "{r_qin} ordered all foreign-born officials out, but withdrew the order on reading [[p:李斯|Li Si]]'s memorial against it."
+   "en": "{r_qin} ordered all foreign-born officials out, but withdrew the order on reading [[p:李斯|Li Si]]'s memorial against it.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "lv_buwei_falls",
@@ -14524,7 +15456,10 @@
    "at": "xianyang",
    "imp": 1,
    "ja": "[[p:嫪毐]]の乱に連なるとして、{n_qin}の[[p:呂不韋]]は相国を免じられ、封地の河南へ退いた。",
-   "en": "Tied to [[p:嫪毐|Lao Ai]]'s rising, [[p:呂不韋|Lü Buwei]] of {n_qin} lost his office and went away to his fief in Henan."
+   "en": "Tied to [[p:嫪毐|Lao Ai]]'s rising, [[p:呂不韋|Lü Buwei]] of {n_qin} lost his office and went away to his fief in Henan.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "lv_buwei_dies",
@@ -14535,7 +15470,10 @@
    "at": "xianyang",
    "imp": 1,
    "ja": "蜀へ移れとの秦王の書を受けた[[p:呂不韋]]は、毒を仰いで死んだ。",
-   "en": "Ordered by the king to move to Shu, [[p:呂不韋|Lü Buwei]] took poison and died."
+   "en": "Ordered by the king to move to Shu, [[p:呂不韋|Lü Buwei]] took poison and died.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "han_fei_dies",
@@ -14546,7 +15484,10 @@
    ],
    "do": [],
    "ja": "秦王は[[p:韓非]]の書を読んで「この人と交われるなら死んでも恨まぬ」と言ったが、使者として来た[[p:韓非]]は[[p:李斯]]らに讒され、獄中で毒を仰いだ。",
-   "en": "Reading [[p:韓非|Han Fei]], the King of Qin said he would die content if he could meet the man. When [[p:韓非|Han Fei]] came as an envoy, [[p:李斯|Li Si]] slandered him, and he took poison in prison."
+   "en": "Reading [[p:韓非|Han Fei]], the King of Qin said he would die content if he could meet the man. When [[p:韓非|Han Fei]] came as an envoy, [[p:李斯|Li Si]] slandered him, and he took poison in prison.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_han",
@@ -14565,7 +15506,10 @@
    "imp": 3,
    "at": "xinzheng",
    "ja": "秦の内史騰が{n_han}を攻め、[[p:韓王安]]を捕らえた。六国のうち最初に滅んだのは韓であった。",
-   "en": "The Qin official Teng attacked {n_han} and captured [[p:韓王安|King An]]. Han was the first of the six to fall."
+   "en": "The Qin official Teng attacked {n_han} and captured [[p:韓王安|King An]]. Han was the first of the six to fall.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "li_mu_dies",
@@ -14594,7 +15538,11 @@
    "at": "handan",
    "imp": 2,
    "ja": "{n_qin}は{n_zhao}の寵臣[[p:郭開]]に金を贈って、名将[[p:李牧]]が謀反を企てていると讒言させた。趙王は李牧を退け、従わない李牧を捕らえて斬った。",
-   "en": "{n_qin} paid [[p:郭開|Guo Kai]], favourite of the King of {n_zhao}, to say the great general [[p:李牧|Li Mu]] meant to rebel. The king dismissed Li Mu, and when he would not go, had him seized and beheaded."
+   "en": "{n_qin} paid [[p:郭開|Guo Kai]], favourite of the King of {n_zhao}, to say the great general [[p:李牧|Li Mu]] meant to rebel. The king dismissed Li Mu, and when he would not go, had him seized and beheaded.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "qin_zhao",
@@ -14614,7 +15562,10 @@
    "imp": 3,
    "at": "handan",
    "ja": "名将[[p:李牧]]が讒言で殺されると、[[p:王翦]]は邯鄲を落とし、{n_zhao}の[[p:幽繆王]]を捕らえた。",
-   "en": "Once the great general [[p:李牧|Li Mu]] had been slandered and killed, [[p:王翦|Wang Jian]] took Handan and captured the King of {n_zhao}."
+   "en": "Once the great general [[p:李牧|Li Mu]] had been slandered and killed, [[p:王翦|Wang Jian]] took Handan and captured the King of {n_zhao}.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "jing_ke",
@@ -14637,7 +15588,11 @@
    "imp": 3,
    "at": "xianyang",
    "ja": "[[p:荊軻]]は易水のほとりで「風蕭蕭として易水寒し、壮士一たび去りて復た還らず」と歌って旅立ち、地図に匕首を隠して秦王に迫ったが、柱をめぐって逃げる王を刺し損ねて斬られた。",
-   "en": "By the River Yi [[p:荊軻|Jing Ke]] sang \"The wind sighs, the Yi is cold; the hero goes, and does not return,\" set out, and came before the King of Qin with a dagger rolled in a map. The king fled round a pillar; [[p:荊軻|Jing Ke]] missed, and was cut down."
+   "en": "By the River Yi [[p:荊軻|Jing Ke]] sang \"The wind sighs, the Yi is cold; the hero goes, and does not return,\" set out, and came before the King of Qin with a dagger rolled in a map. The king fled round a pillar; [[p:荊軻|Jing Ke]] missed, and was cut down.",
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   {
    "id": "qin_ji",
@@ -14658,7 +15613,10 @@
    "at": "ji_yan",
    "imp": 2,
    "ja": "{n_qin}の[[p:王翦]]は易水の西で燕・代の軍を破り、{n_yan}の都薊を落とした。[[p:燕王喜]]は遼東へ逃れ、秦に差し出すため[[p:太子丹]]の首を斬った。",
-   "en": "[[p:王翦|Wang Jian]] of {n_qin} beat Yan and Dai west of the River Yi and took Ji, capital of {n_yan}. [[p:燕王喜|King Xi]] fled to Liaodong and cut off [[p:太子丹|Crown Prince Dan]]'s head to send to Qin."
+   "en": "[[p:王翦|Wang Jian]] of {n_qin} beat Yan and Dai west of the River Yi and took Ji, capital of {n_yan}. [[p:燕王喜|King Xi]] fled to Liaodong and cut off [[p:太子丹|Crown Prince Dan]]'s head to send to Qin.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_wei",
@@ -14677,7 +15635,10 @@
    "imp": 3,
    "at": "daliang",
    "ja": "[[p:王賁]]は黄河の水を引いて大梁を三か月水攻めにし、{n_wei}を滅ぼした。",
-   "en": "[[p:王賁|Wang Ben]] flooded Daliang with the Yellow River for three months and destroyed {n_wei}."
+   "en": "[[p:王賁|Wang Ben]] flooded Daliang with the Yellow River for three months and destroyed {n_wei}.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "li_xin",
@@ -14707,7 +15668,10 @@
    "at": "shouchun",
    "imp": 2,
    "ja": "{n_qin}の若い将[[p:李信]]は「二十万で楚は足りる」と言い、六十万を求めた老将[[p:王翦]]は退けられた。李信は{n_chu}の[[p:項燕]]に追われて大敗し、秦王は自ら王翦を訪ねて詫びた。",
-   "en": "Young [[p:李信|Li Xin]] of {n_qin} said two hundred thousand would do for Chu; old [[p:王翦|Wang Jian]], who asked for six hundred thousand, was sent home. Li Xin was chased down and routed by [[p:項燕|Xiang Yan]] of {n_chu}, and the king went to Wang Jian himself to apologise."
+   "en": "Young [[p:李信|Li Xin]] of {n_qin} said two hundred thousand would do for Chu; old [[p:王翦|Wang Jian]], who asked for six hundred thousand, was sent home. Li Xin was chased down and routed by [[p:項燕|Xiang Yan]] of {n_chu}, and the king went to Wang Jian himself to apologise.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_chu",
@@ -14730,7 +15694,10 @@
    "imp": 3,
    "at": "shouchun",
    "ja": "若い[[p:李信]]が二十万で敗れたのち、老将[[p:王翦]]は六十万を率いて{n_chu}を討ち、楚王[[p:負芻]]を捕らえた。「楚は三戸と雖も、秦を亡ぼすは必ず楚ならん」と人々は言った。",
-   "en": "After young [[p:李信|Li Xin]] failed with two hundred thousand, the old general [[p:王翦|Wang Jian]] led six hundred thousand against {n_chu} and captured its king. \"Though Chu be but three households,\" people said, \"it is Chu that will destroy Qin.\""
+   "en": "After young [[p:李信|Li Xin]] failed with two hundred thousand, the old general [[p:王翦|Wang Jian]] led six hundred thousand against {n_chu} and captured its king. \"Though Chu be but three households,\" people said, \"it is Chu that will destroy Qin.\"",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_yan",
@@ -14749,7 +15716,10 @@
    "imp": 3,
    "at": "ji_yan",
    "ja": "[[p:王賁]]は遼東に逃れた{n_yan}の王喜を捕らえ、燕を滅ぼした。",
-   "en": "[[p:王賁|Wang Ben]] captured [[p:燕王喜|King Xi]] of {n_yan}, who had fled to Liaodong, and Yan was no more."
+   "en": "[[p:王賁|Wang Ben]] captured [[p:燕王喜|King Xi]] of {n_yan}, who had fled to Liaodong, and Yan was no more.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "qin_qi",
@@ -14768,7 +15738,10 @@
    "imp": 3,
    "at": "linzi",
    "ja": "秦軍は戦わずして臨淄に入り、{n_qi}の[[p:王建]]は降った。",
-   "en": "Qin's army entered Linzi without a fight, and [[p:王建|King Jian]] of {n_qi} surrendered."
+   "en": "Qin's army entered Linzi without a fight, and [[p:王建|King Jian]] of {n_qi} surrendered.",
+   "src": [
+    "shiji"
+   ]
   },
   {
    "id": "emperor",
@@ -14793,7 +15766,10 @@
    "imp": 3,
    "at": "xianyang",
    "ja": "天下は一つになった。{r_qin}は王の名では足りないとして「皇帝」を称し、自らを始皇帝とした。[[a:qin_unify|度量衡・文字・車軸の幅が統一され]]、天下は三十六郡に分けられた。",
-   "en": "All under heaven was one. Finding \"king\" too small a word, {r_qin} took the title huangdi — emperor — and called himself the First Emperor. [[a:qin_unify|Weights, measures, script and axle widths were made one]], and the realm was divided into thirty-six commanderies."
+   "en": "All under heaven was one. Finding \"king\" too small a word, {r_qin} took the title huangdi — emperor — and called himself the First Emperor. [[a:qin_unify|Weights, measures, script and axle widths were made one]], and the realm was divided into thirty-six commanderies.",
+   "src": [
+    "shiji"
+   ]
   }
  ],
  "battles": {
@@ -16465,6 +17441,10 @@
    ],
    "related": [
     "chariot"
+   ],
+   "src": [
+    "shiji",
+    "zhanguoce"
    ]
   },
   "chariot": {
@@ -16482,7 +17462,10 @@
     "hufu",
     "crossbow"
    ],
-   "people": []
+   "people": [],
+   "src": [
+    "zuo"
+   ]
   },
   "crossbow": {
    "kind": "unit",
@@ -16501,6 +17484,9 @@
    ],
    "related": [
     "chariot"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "wuzu": {
@@ -16521,6 +17507,9 @@
    "related": [
     "crossbow",
     "qin_rank"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "qin_rank": {
@@ -16539,6 +17528,9 @@
    ],
    "related": [
     "wuzu"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "wuyue_swords": {
@@ -16558,6 +17550,10 @@
    ],
    "related": [
     "iron_tools"
+   ],
+   "src": [
+    "zuo",
+    "legend"
    ]
   },
   "qi_salt": {
@@ -16575,6 +17571,10 @@
    ],
    "related": [
     "qilu_silk"
+   ],
+   "src": [
+    "guoyu",
+    "shiji"
    ]
   },
   "qilu_silk": {
@@ -16593,6 +17593,9 @@
    "related": [
     "qi_salt",
     "crossbow"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "chu_lacquer": {
@@ -16608,7 +17611,10 @@
    "related": [
     "wuyue_swords"
    ],
-   "people": []
+   "people": [],
+   "src": [
+    "legend"
+   ]
   },
   "iron_tools": {
    "kind": "good",
@@ -16625,7 +17631,11 @@
     "wuyue_swords",
     "crossbow"
    ],
-   "people": []
+   "people": [],
+   "src": [
+    "zuo",
+    "guoyu"
+   ]
   },
   "guanzhong_reform": {
    "kind": "reform",
@@ -16651,7 +17661,11 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +40・安定 +5%",
     "en": "In the game, once for a realm that takes it up: treasury +40, stability +5%"
-   }
+   },
+   "src": [
+    "guoyu",
+    "shiji"
+   ]
   },
   "chushuimu": {
    "kind": "reform",
@@ -16674,7 +17688,11 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +30",
     "en": "In the game, once for a realm that takes it up: treasury +30"
-   }
+   },
+   "src": [
+    "chunqiu",
+    "zuo"
+   ]
   },
   "written_law": {
    "kind": "reform",
@@ -16699,7 +17717,10 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +4%",
     "en": "In the game, once for a realm that takes it up: stability +4%"
-   }
+   },
+   "src": [
+    "zuo"
+   ]
   },
   "li_kui_reform": {
    "kind": "reform",
@@ -16725,7 +17746,11 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 国庫 +30・技術 +0.02",
     "en": "In the game, once for a realm that takes it up: treasury +30, technology +0.02"
-   }
+   },
+   "src": [
+    "shiji",
+    "hanfeizi"
+   ]
   },
   "wu_qi_reform": {
    "kind": "reform",
@@ -16748,7 +17773,10 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 技術 +0.02・威信 +3",
     "en": "In the game, once for a realm that takes it up: technology +0.02, prestige +3"
-   }
+   },
+   "src": [
+    "shiji"
+   ]
   },
   "shang_yang_reform": {
    "kind": "reform",
@@ -16773,7 +17801,10 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 技術 +0.03・国庫 +40・安定 +3%",
     "en": "In the game, once for a realm that takes it up: technology +0.03, treasury +40, stability +3%"
-   }
+   },
+   "src": [
+    "shiji"
+   ]
   },
   "shen_buhai": {
    "kind": "reform",
@@ -16794,7 +17825,11 @@
     "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +4%",
     "en": "In the game, once for a realm that takes it up: stability +4%"
    },
-   "people": []
+   "people": [],
+   "src": [
+    "shiji",
+    "hanfeizi"
+   ]
   },
   "qin_unify": {
    "kind": "reform",
@@ -16816,7 +17851,10 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 安定 +5%・技術 +0.02",
     "en": "In the game, once for a realm that takes it up: stability +5%, technology +0.02"
-   }
+   },
+   "src": [
+    "shiji"
+   ]
   },
   "ru": {
    "kind": "school",
@@ -16845,7 +17883,11 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 文化 +4%・正統性 +3%",
     "en": "In the game, once for a realm that takes it up: arts +4%, legitimacy +3%"
-   }
+   },
+   "src": [
+    "lunyu",
+    "shiji"
+   ]
   },
   "mo": {
    "kind": "school",
@@ -16868,7 +17910,10 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 技術 +0.02・安定 +2%",
     "en": "In the game, once for a realm that takes it up: technology +0.02, stability +2%"
-   }
+   },
+   "src": [
+    "mozi"
+   ]
   },
   "sunzi": {
    "kind": "school",
@@ -16893,7 +17938,10 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 技術 +0.03",
     "en": "In the game, once for a realm that takes it up: technology +0.03"
-   }
+   },
+   "src": [
+    "shiji"
+   ]
   },
   "jixia": {
    "kind": "school",
@@ -16920,7 +17968,10 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 文化 +5%・威信 +3",
     "en": "In the game, once for a realm that takes it up: arts +5%, prestige +3"
-   }
+   },
+   "src": [
+    "shiji"
+   ]
   },
   "zongheng": {
    "kind": "school",
@@ -16944,7 +17995,11 @@
    "effect": {
     "ja": "ゲームの中では、取り入れた国に一度だけ: 威信 +3",
     "en": "In the game, once for a realm that takes it up: prestige +3"
-   }
+   },
+   "src": [
+    "shiji",
+    "zhanguoce"
+   ]
   },
   "dao": {
    "kind": "school",
@@ -16964,6 +18019,9 @@
    "related": [
     "ru",
     "chu_lacquer"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "zhanghuatai": {
@@ -16980,7 +18038,10 @@
    "related": [
     "chu_lacquer"
    ],
-   "people": []
+   "people": [],
+   "src": [
+    "zuo"
+   ]
   },
   "gusu": {
    "kind": "wonder",
@@ -17002,6 +18063,9 @@
    "related": [
     "hangou",
     "wuyue_swords"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "hangou": {
@@ -17021,6 +18085,9 @@
    ],
    "related": [
     "gusu"
+   ],
+   "src": [
+    "zuo"
    ]
   },
   "changcheng": {
@@ -17039,6 +18106,9 @@
    ],
    "related": [
     "hufu"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "dujiangyan": {
@@ -17056,7 +18126,10 @@
     "zhengguoqu",
     "iron_tools"
    ],
-   "people": []
+   "people": [],
+   "src": [
+    "shiji"
+   ]
   },
   "zhengguoqu": {
    "kind": "wonder",
@@ -17075,6 +18148,9 @@
    "related": [
     "dujiangyan",
     "qin_unify"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "battle_chengpu": {
@@ -17097,6 +18173,9 @@
     "chariot",
     "tuisan",
     "chariot"
+   ],
+   "src": [
+    "zuo"
    ]
   },
   "battle_bi": {
@@ -17119,6 +18198,9 @@
    "related": [
     "chariot",
     "chariot"
+   ],
+   "src": [
+    "zuo"
    ]
   },
   "battle_boju": {
@@ -17142,6 +18224,10 @@
     "chariot",
     "sunzi",
     "wuzixu_whip"
+   ],
+   "src": [
+    "zuo",
+    "shiji"
    ]
   },
   "battle_maling": {
@@ -17164,6 +18250,9 @@
     "wuzu",
     "sunbin_stove",
     "crossbow"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "battle_changping": {
@@ -17186,6 +18275,9 @@
     "qin_rank",
     "crossbow",
     "zhao_kuo_books"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "tuisan": {
@@ -17203,7 +18295,10 @@
     "battle_chengpu",
     "chariot"
    ],
-   "people": []
+   "people": [],
+   "src": [
+    "zuo"
+   ]
   },
   "wuzixu_whip": {
    "kind": "story",
@@ -17223,6 +18318,9 @@
    "related": [
     "battle_boju",
     "gusu"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "sunbin_stove": {
@@ -17243,6 +18341,9 @@
    "related": [
     "battle_maling",
     "crossbow"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "zhao_kuo_books": {
@@ -17266,6 +18367,9 @@
    "related": [
     "battle_changping",
     "qin_rank"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "woxin": {
@@ -17288,6 +18392,10 @@
    "related": [
     "gusu",
     "wuyue_swords"
+   ],
+   "src": [
+    "shiji",
+    "legend"
    ]
   },
   "wanbi": {
@@ -17307,6 +18415,9 @@
    ],
    "related": [
     "zongheng"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "xianwei": {
@@ -17327,6 +18438,9 @@
    ],
    "related": [
     "jixia"
+   ],
+   "src": [
+    "zhanguoce"
    ]
   },
   "jiming": {
@@ -17345,6 +18459,9 @@
    ],
    "related": [
     "zongheng"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "wushibu": {
@@ -17363,6 +18480,9 @@
    ],
    "related": [
     "ru"
+   ],
+   "src": [
+    "mengzi"
    ]
   },
   "maodun": {
@@ -17381,6 +18501,9 @@
    "related": [
     "shen_buhai",
     "ru"
+   ],
+   "src": [
+    "hanfeizi"
    ]
   },
   "huoniu": {
@@ -17400,6 +18523,9 @@
    ],
    "related": [
     "xianwei"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "laoma": {
@@ -17419,6 +18545,9 @@
    ],
    "related": [
     "guanzhong_reform"
+   ],
+   "src": [
+    "hanfeizi"
    ]
   },
   "ying_names": {
@@ -17438,6 +18567,9 @@
    "related": [
     "chu_lacquer",
     "zhanghuatai"
+   ],
+   "src": [
+    "shiji"
    ]
   },
   "battle_xuge": {
@@ -17456,7 +18588,10 @@
     "祝聃|Zhu Dan",
     "祭仲|Zhai Zhong"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo"
+   ]
   },
   "battle_changshao": {
    "kind": "battle",
@@ -17471,7 +18606,10 @@
    "people": [
     "曹劌|Cao Gui"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo"
+   ]
   },
   "battle_hanyuan": {
    "kind": "battle",
@@ -17484,7 +18622,11 @@
     "en": "Jin had taken Qin's grain in its own famine and refused grain in Qin's; Duke Mu of Qin marched. Duke Hui of Jin went out behind a team of small horses, a gift from Zheng.\n\nIn the melee Duke Hui's horses stuck fast in the mud. Qing Zheng, called to help, would not come; the Jin men who had surrounded Duke Mu broke off to save their own lord — so Duke Mu escaped, and Duke Hui was taken.\n\nThree hundred hill-men of Mount Qi, who had once eaten Duke Mu's lost horse and been forgiven, came running to repay him and saved him, it is told (Shiji).\n\nDuke Mu's wife — Duke Hui's sister — stood with her children on a pyre in mourning clothes to beg for her brother's life, and Duke Mu let him go home. Jin gave up the land west of the river and sent the heir Yu as hostage.\n\nTroops (rough): 30,000 against 35,000. Losses: 3,000 against 8,000."
    },
    "people": [],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   "battle_hongshui": {
    "kind": "battle",
@@ -17499,7 +18641,10 @@
    "people": [
     "公子目夷|Prince Muyi (Ziyu)"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo"
+   ]
   },
   "battle_xiao": {
    "kind": "battle",
@@ -17517,7 +18662,10 @@
     "西乞術|Xiqi Shu",
     "白乙丙|Baiyi Bing"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo"
+   ]
   },
   "battle_an": {
    "kind": "battle",
@@ -17533,7 +18681,10 @@
     "郤克|Xi Ke",
     "韓厥|Han Jue"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo"
+   ]
   },
   "battle_yanling": {
    "kind": "battle",
@@ -17549,7 +18700,10 @@
     "欒書|Luan Shu",
     "子反|Zifan"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo"
+   ]
   },
   "battle_zuili": {
    "kind": "battle",
@@ -17565,7 +18719,10 @@
     "闔閭|Helü",
     "句践|Goujian"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo"
+   ]
   },
   "battle_fujiao": {
    "kind": "battle",
@@ -17583,7 +18740,11 @@
     "伍子胥|Wu Zixu",
     "伯嚭|Bo Pi"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   "battle_ailing": {
    "kind": "battle",
@@ -17599,7 +18760,11 @@
     "夫差|Fuchai",
     "国書|Guo Shu"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "zuo",
+    "shiji"
+   ]
   },
   "battle_guiling": {
    "kind": "battle",
@@ -17616,7 +18781,10 @@
     "田忌|Tian Ji",
     "龐涓|Pang Juan"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "shiji"
+   ]
   },
   "battle_yique": {
    "kind": "battle",
@@ -17632,7 +18800,10 @@
     "白起|Bai Qi",
     "公孫喜|Gongsun Xi"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "shiji"
+   ]
   },
   "battle_jixi": {
    "kind": "battle",
@@ -17647,7 +18818,10 @@
    "people": [
     "楽毅|Yue Yi"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "shiji"
+   ]
   },
   "battle_jimo": {
    "kind": "battle",
@@ -17663,7 +18837,10 @@
     "田単|Tian Dan",
     "騎劫|Qi Jie"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "shiji"
+   ]
   },
   "battle_eyu": {
    "kind": "battle",
@@ -17679,7 +18856,10 @@
     "胡傷|Hu Shang",
     "趙奢|Zhao She"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "shiji"
+   ]
   },
   "battle_li_xin": {
    "kind": "battle",
@@ -17696,7 +18876,10 @@
     "蒙恬|Meng Tian",
     "項燕|Xiang Yan"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "shiji"
+   ]
   },
   "battle_qin_chu": {
    "kind": "battle",
@@ -17712,7 +18895,10 @@
     "王翦|Wang Jian",
     "項燕|Xiang Yan"
    ],
-   "related": []
+   "related": [],
+   "src": [
+    "shiji"
+   ]
   },
   "five_hegemons": {
    "kind": "story",
@@ -17731,6 +18917,10 @@
     "guanzhong_reform",
     "battle_chengpu",
     "battle_hongshui"
+   ],
+   "src": [
+    "mengzi",
+    "shiji"
    ]
   },
   "seven_states": {
@@ -17750,6 +18940,10 @@
    ],
    "related": [
     "battle_changping"
+   ],
+   "src": [
+    "shiji",
+    "zhanguoce"
    ]
   }
  },
