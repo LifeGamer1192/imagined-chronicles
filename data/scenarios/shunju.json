@@ -10024,6 +10024,13 @@
    "imp": 1,
    "ja": "{n_chu}に囲まれた{n_xu}の僖公は、両手を後ろ手に縛り、玉を口に含み、棺を担がせて楚王の前に降った。楚王は縛めを解き、棺を焼いて許した。",
    "en": "Besieged by {n_chu}, Duke Xi of {n_xu} came out with his hands tied behind him, jade in his mouth and a coffin carried behind; the king loosed his bonds, burned the coffin and forgave him.",
+   "do": [
+    [
+     "vassal",
+     "chu",
+     "xu"
+    ]
+   ],
    "src": [
     "zuo:僖公六年|Duke Xi 6"
    ]
@@ -10518,6 +10525,41 @@
    ]
   },
   {
+   "id": "jiantu",
+   "y": 632,
+   "m": 5,
+   "need": [
+    "jin",
+    "zheng",
+    "chen",
+    "cai"
+   ],
+   "do": [
+    [
+     "vassal",
+     "jin",
+     "zheng"
+    ],
+    [
+     "vassal",
+     "jin",
+     "chen"
+    ],
+    [
+     "vassal",
+     "jin",
+     "cai"
+    ]
+   ],
+   "at": "xinzheng",
+   "imp": 2,
+   "ja": "践土の盟。{n_jin}の文公は周の襄王を迎えて諸侯と盟を結んだ。かつて楚に従っていた{n_zheng}・{n_chen}・{n_cai}も、晋に従うことになった。",
+   "en": "The covenant of Jiantu. Duke Wen of {n_jin} received [[p:燕王喜|King Xi]]ang of Zhou and bound the lords in covenant; {n_zheng}, {n_chen} and {n_cai}, who had followed Chu, now followed Jin.",
+   "src": [
+    "zuo:僖公二十八年|Duke Xi 28"
+   ]
+  },
+  {
    "id": "zhu_zhiwu",
    "y": 630,
    "m": 9,
@@ -10943,6 +10985,11 @@
      "chu",
      "prestige",
      8
+    ],
+    [
+     "vassal",
+     "chu",
+     "chen"
     ]
    ],
    "at": "wanqiu",
@@ -10965,6 +11012,13 @@
    "imp": 1,
    "ja": "{n_chu}に三か月囲まれた{n_zheng}の襄公は、肌脱ぎになって羊を牽いて王を迎えた。荘王は「その君がよく人にへりくだる。その民も必ず信を守るだろう」と言って兵を退いた。",
    "en": "After three months of siege by {n_chu}, Duke Xiang of {n_zheng} came out bare-shouldered leading a sheep. \"A lord who can humble himself so will have a people who keep faith,\" said King Zhuang, and drew back.",
+   "do": [
+    [
+     "vassal",
+     "chu",
+     "zheng"
+    ]
+   ],
    "src": [
     "zuo:宣公十二年|Duke Xuan 12"
    ]
@@ -11043,6 +11097,11 @@
      "song",
      "treasury",
      -60
+    ],
+    [
+     "vassal",
+     "chu",
+     "song"
     ]
    ],
    "at": "shangqiu",
@@ -11250,7 +11309,8 @@
    "id": "wu_chariots",
    "y": 584,
    "need": [
-    "wu"
+    "wu",
+    "jin"
    ],
    "do": [
     [
@@ -11263,6 +11323,11 @@
      "wu",
      "prestige",
      10
+    ],
+    [
+     "ally",
+     "jin",
+     "wu"
     ]
    ],
    "imp": 3,
@@ -11649,6 +11714,11 @@
      "jin",
      "prestige",
      10
+    ],
+    [
+     "vassal",
+     "jin",
+     "zheng"
     ]
    ],
    "at": "xintian",
@@ -12100,7 +12170,9 @@
    "y": 529,
    "m": 4,
    "need": [
-    "chu"
+    "chu",
+    "chen",
+    "cai"
    ],
    "do": [
     [
@@ -12108,6 +12180,16 @@
      "chu",
      "stability",
      -0.15
+    ],
+    [
+     "vassal",
+     "chu",
+     "chen"
+    ],
+    [
+     "vassal",
+     "chu",
+     "cai"
     ]
    ],
    "at": "ying",
@@ -12152,6 +12234,13 @@
    "imp": 1,
    "ja": "{n_chu}の[[p:費無極]]は、太子建の妃として迎えた秦の娘を平王自身が娶るよう勧めた。王はこれに従い、太子との間に溝ができた。",
    "en": "[[p:費無極|Fei Wuji]] of {n_chu} urged King Ping to take for himself the Qin princess fetched as bride for Crown Prince Jian. The king did, and a rift opened between father and son.",
+   "do": [
+    [
+     "ally",
+     "chu",
+     "qin"
+    ]
+   ],
    "src": [
     "zuo:昭公十五年|Duke Zhao 15"
    ]
@@ -12445,12 +12534,20 @@
    "m": 3,
    "need": [
     "jin",
-    "cai"
+    "cai",
+    "wu"
    ],
    "at": "shangcai",
    "imp": 1,
    "ja": "{n_jin}は召陵に十八国を集めて楚を討とうとしたが、賄賂を求めた晋の大夫を蔡侯が拒み、話はまとまらなかった。怒った蔡は呉と結んだ。",
    "en": "{n_jin} gathered eighteen states at Zhaoling against Chu, but a Jin officer asked the Marquis of Cai for a bribe, was refused, and nothing came of it. Angry, Cai turned to Wu.",
+   "do": [
+    [
+     "vassal",
+     "wu",
+     "cai"
+    ]
+   ],
    "src": [
     "zuo:定公四年|Duke Ding 4"
    ]
@@ -13058,6 +13155,10 @@
       "ja": "越の呉侵攻",
       "en": "Yue's invasion of Wu"
      }
+    ],
+    [
+     "free",
+     "yue"
     ]
    ],
    "imp": 3,
@@ -14198,7 +14299,11 @@
    "m": 6,
    "need": [
     "zhao",
-    "yan"
+    "yan",
+    "qi",
+    "chu",
+    "han",
+    "wei"
    ],
    "do": [
     [
@@ -14225,6 +14330,76 @@
      "ally",
      "zhao",
      "chu"
+    ],
+    [
+     "ally",
+     "qi",
+     "chu"
+    ],
+    [
+     "ally",
+     "qi",
+     "yan"
+    ],
+    [
+     "ally",
+     "qi",
+     "han"
+    ],
+    [
+     "ally",
+     "qi",
+     "zhao"
+    ],
+    [
+     "ally",
+     "qi",
+     "wei"
+    ],
+    [
+     "ally",
+     "chu",
+     "yan"
+    ],
+    [
+     "ally",
+     "chu",
+     "han"
+    ],
+    [
+     "ally",
+     "chu",
+     "zhao"
+    ],
+    [
+     "ally",
+     "chu",
+     "wei"
+    ],
+    [
+     "ally",
+     "yan",
+     "han"
+    ],
+    [
+     "ally",
+     "yan",
+     "zhao"
+    ],
+    [
+     "ally",
+     "yan",
+     "wei"
+    ],
+    [
+     "ally",
+     "han",
+     "zhao"
+    ],
+    [
+     "ally",
+     "han",
+     "wei"
     ]
    ],
    "imp": 3,
@@ -14232,6 +14407,97 @@
    "en": "[[p:蘇秦|Su Qin]] went from court to court and won the six realms to an alliance against Qin — [[a:zongheng|the Vertical Alliance]] — and carried, it is said, the seals of chief minister of all six.",
    "src": [
     "shiji:蘇秦列伝|Biography of Su Qin"
+   ]
+  },
+  {
+   "id": "hezong_breaks",
+   "y": 332,
+   "need": [
+    "qi",
+    "chu",
+    "yan",
+    "han",
+    "zhao",
+    "wei"
+   ],
+   "do": [
+    [
+     "unally",
+     "qi",
+     "yan"
+    ],
+    [
+     "unally",
+     "qi",
+     "han"
+    ],
+    [
+     "unally",
+     "qi",
+     "zhao"
+    ],
+    [
+     "unally",
+     "qi",
+     "wei"
+    ],
+    [
+     "unally",
+     "chu",
+     "yan"
+    ],
+    [
+     "unally",
+     "chu",
+     "han"
+    ],
+    [
+     "unally",
+     "chu",
+     "zhao"
+    ],
+    [
+     "unally",
+     "chu",
+     "wei"
+    ],
+    [
+     "unally",
+     "yan",
+     "han"
+    ],
+    [
+     "unally",
+     "yan",
+     "zhao"
+    ],
+    [
+     "unally",
+     "yan",
+     "wei"
+    ],
+    [
+     "unally",
+     "han",
+     "zhao"
+    ],
+    [
+     "unally",
+     "han",
+     "wei"
+    ],
+    [
+     "unally",
+     "zhao",
+     "wei"
+    ]
+   ],
+   "at": "handan",
+   "imp": 1,
+   "ja": "{n_qi}と{n_wei}が{n_zhao}を攻め、[[p:蘇秦]]の結んだ六国の合従は一年で崩れた。蘇秦は趙を去った。",
+   "en": "{n_qi} and {n_wei} attacked {n_zhao}, and the six states' alliance [[p:蘇秦|Su Qin]] had made fell apart within a year; Su Qin left Zhao.",
+   "src": [
+    "shiji:田敬仲完世家|House of Tian of Qi"
    ]
   },
   {
@@ -14468,12 +14734,20 @@
    "y": 313,
    "need": [
     "qin",
-    "chu"
+    "chu",
+    "qi"
    ],
    "at": "ying",
    "imp": 1,
    "ja": "[[p:張儀]]は{n_chu}の懐王に「斉と手を切れば商於の地六百里を献じよう」と持ちかけた。楚が斉と絶つと、張儀は「約束したのは六里だ」と言った。",
    "en": "[[p:張儀|Zhang Yi]] offered King Huai of {n_chu} six hundred li of Shang-Yu if Chu broke with Qi. When Chu had done so, Zhang Yi said he had promised six li.",
+   "do": [
+    [
+     "unally",
+     "chu",
+     "qi"
+    ]
+   ],
    "src": [
     "shiji:張儀列伝|Biography of Zhang Yi"
    ]
@@ -15863,9 +16137,16 @@
    "y": 233,
    "min": 4,
    "need": [
-    "qin"
+    "qin",
+    "han"
    ],
-   "do": [],
+   "do": [
+    [
+     "vassal",
+     "qin",
+     "han"
+    ]
+   ],
    "ja": "秦王は[[p:韓非]]の書を読んで「この人と交われるなら死んでも恨まぬ」と言ったが、使者として来た[[p:韓非]]は[[p:李斯]]らに讒され、獄中で毒を仰いだ。",
    "en": "Reading [[p:韓非|Han Fei]], the King of Qin said he would die content if he could meet the man. When [[p:韓非|Han Fei]] came as an envoy, [[p:李斯|Li Si]] slandered him, and he took poison in prison.",
    "src": [
