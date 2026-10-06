@@ -18748,5 +18748,35 @@
    "ja": "{nation}の朝廷で、礼のしきたりに背いた振る舞いが咎められた。",
    "en": "At the court of {nation} conduct against the rites was rebuked."
   }
+ ],
+ "ages": [
+  [
+   722,
+   {
+    "ja": "春秋時代",
+    "en": "the Spring and Autumn period"
+   }
+  ],
+  [
+   403,
+   {
+    "ja": "戦国時代",
+    "en": "the Warring States period"
+   }
+  ]
+ ],
+ "reckon": [
+  [
+   722,
+   "lu"
+  ],
+  [
+   403,
+   "zhou"
+  ],
+  [
+   255,
+   "qin"
+  ]
  ]
 }
