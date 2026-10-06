@@ -791,7 +791,8 @@
       "tr": [
        "content"
       ],
-      "born": 790
+      "born": 790,
+      "dm": 3
      }
     ],
     [
@@ -800,7 +801,8 @@
      719,
      697,
      {
-      "rel": "other"
+      "rel": "other",
+      "dm": 3
      }
     ],
     [
@@ -825,7 +827,10 @@
      "襄王",
      "King Xiang",
      651,
-     619
+     619,
+     {
+      "dm": 8
+     }
     ],
     [
      "頃王",
@@ -867,7 +872,10 @@
      "景王",
      "King Jing",
      544,
-     520
+     520,
+     {
+      "dm": 4
+     }
     ],
     [
      "悼王",
@@ -1024,7 +1032,8 @@
        "content"
       ],
       "born": 748,
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 11
      }
     ],
     [
@@ -1035,7 +1044,8 @@
      {
       "rel": "brother",
       "born": 731,
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 4
      }
     ],
     [
@@ -1044,7 +1054,8 @@
      693,
      662,
      {
-      "born": 706
+      "born": 706,
+      "dm": 8
      }
     ],
     [
@@ -1053,7 +1064,8 @@
      662,
      662,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 10
      }
     ],
     [
@@ -1063,7 +1075,8 @@
      660,
      {
       "rel": "brother",
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 8
      }
     ],
     [
@@ -1072,20 +1085,27 @@
      659,
      627,
      {
-      "rel": "brother"
+      "rel": "brother",
+      "dm": 12
      }
     ],
     [
      "文公",
      "Duke Wen",
      626,
-     609
+     609,
+     {
+      "dm": 2
+     }
     ],
     [
      "宣公",
      "Duke Xuan",
      608,
-     591
+     591,
+     {
+      "dm": 10
+     }
     ],
     [
      "成公",
@@ -1099,14 +1119,18 @@
      572,
      542,
      {
-      "born": 575
+      "born": 575,
+      "dm": 6
      }
     ],
     [
      "昭公",
      "Duke Zhao",
      541,
-     510
+     510,
+     {
+      "dm": 12
+     }
     ],
     [
      "定公",
@@ -1114,7 +1138,8 @@
      509,
      495,
      {
-      "rel": "brother"
+      "rel": "brother",
+      "dm": 5
      }
     ],
     [
@@ -1248,7 +1273,8 @@
       "tr": [
        "ambitious"
       ],
-      "born": 760
+      "born": 760,
+      "dm": 12
      }
     ],
     [
@@ -1260,7 +1286,8 @@
       "tr": [
        "cruel"
       ],
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 11
      }
     ],
     [
@@ -1331,13 +1358,19 @@
      "頃公",
      "Duke Qing",
      598,
-     582
+     582,
+     {
+      "dm": 7
+     }
     ],
     [
      "霊公",
      "Duke Ling",
      581,
-     554
+     554,
+     {
+      "dm": 7
+     }
     ],
     [
      "荘公",
@@ -1345,7 +1378,8 @@
      553,
      548,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 5
      }
     ],
     [
@@ -1363,7 +1397,8 @@
       ],
       "tr": [
        "greedy"
-      ]
+      ],
+      "dm": 9
      }
     ],
     [
@@ -1382,7 +1417,8 @@
      485,
      {
       "rel": "brother",
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 3
      }
     ],
     [
@@ -1391,7 +1427,8 @@
      484,
      481,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 6
      }
     ],
     [
@@ -1655,7 +1692,8 @@
       "tr": [
        "ambitious",
        "paranoid"
-      ]
+      ],
+      "dm": 9
      }
     ],
     [
@@ -1715,14 +1753,18 @@
        "just",
        "charismatic"
       ],
-      "born": 697
+      "born": 697,
+      "dm": 12
      }
     ],
     [
      "襄公",
      "Duke Xiang",
      627,
-     621
+     621,
+     {
+      "dm": 8
+     }
     ],
     [
      "霊公",
@@ -1733,7 +1775,8 @@
       "tr": [
        "cruel"
       ],
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 9
      }
     ],
     [
@@ -1749,7 +1792,10 @@
      "景公",
      "Duke Jing",
      599,
-     581
+     581,
+     {
+      "dm": 6
+     }
     ],
     [
      "厲公",
@@ -1760,7 +1806,8 @@
       "tr": [
        "cruel"
       ],
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 1
      }
     ],
     [
@@ -1778,14 +1825,18 @@
       ],
       "tr": [
        "wise"
-      ]
+      ],
+      "dm": 11
      }
     ],
     [
      "平公",
      "Duke Ping",
      557,
-     532
+     532,
+     {
+      "dm": 7
+     }
     ],
     [
      "昭公",
@@ -2289,7 +2340,8 @@
        6,
        6
       ],
-      "end": "suicide"
+      "end": "suicide",
+      "dm": 10
      }
     ],
     [
@@ -2313,20 +2365,27 @@
       "tr": [
        "ambitious",
        "genius"
-      ]
+      ],
+      "dm": 7
      }
     ],
     [
      "共王",
      "King Gong",
      590,
-     560
+     560,
+     {
+      "dm": 9
+     }
     ],
     [
      "康王",
      "King Kang",
      559,
-     545
+     545,
+     {
+      "dm": 12
+     }
     ],
     [
      "郟敖",
@@ -2334,7 +2393,8 @@
      544,
      541,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 11
      }
     ],
     [
@@ -2354,7 +2414,8 @@
        "cruel",
        "ambitious"
       ],
-      "end": "suicide"
+      "end": "suicide",
+      "dm": 4
      }
     ],
     [
@@ -2373,7 +2434,8 @@
      528,
      516,
      {
-      "rel": "brother"
+      "rel": "brother",
+      "dm": 9
      }
     ],
     [
@@ -2576,7 +2638,8 @@
      691,
      682,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 8
      }
     ],
     [
@@ -2603,7 +2666,8 @@
       "tr": [
        "just",
        "ambitious"
-      ]
+      ],
+      "dm": 5
      }
     ],
     [
@@ -2618,7 +2682,8 @@
      619,
      611,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 11
      }
     ],
     [
@@ -2753,7 +2818,8 @@
      734,
      719,
      {
-      "born": 755
+      "born": 755,
+      "dm": 2
      }
     ],
     [
@@ -2767,7 +2833,8 @@
        "ambitious",
        "cruel"
       ],
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 9
      }
     ],
     [
@@ -2776,7 +2843,8 @@
      718,
      700,
      {
-      "rel": "brother"
+      "rel": "brother",
+      "dm": 11
      }
     ],
     [
@@ -3021,7 +3089,8 @@
        "ambitious",
        "genius"
       ],
-      "born": 757
+      "born": 757,
+      "dm": 5
      }
     ],
     [
@@ -3083,7 +3152,8 @@
      605,
      605,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 6
      }
     ],
     [
@@ -3116,7 +3186,8 @@
      570,
      566,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 12
      }
     ],
     [
@@ -3293,7 +3364,8 @@
       "tr": [
        "drunkard"
       ],
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 5
      }
     ],
     [
@@ -3306,7 +3378,10 @@
      "哀公",
      "Duke Ai",
      568,
-     534
+     534,
+     {
+      "dm": 4
+     }
     ],
     [
      "恵公",
@@ -3418,7 +3493,8 @@
      591,
      543,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 4
      }
     ],
     [
@@ -3427,7 +3503,8 @@
      542,
      531,
      {
-      "end": "executed"
+      "end": "executed",
+      "dm": 4
      }
     ],
     [
@@ -4417,7 +4494,8 @@
      526,
      515,
      {
-      "end": "assassination"
+      "end": "assassination",
+      "dm": 4
      }
     ],
     [
@@ -4437,7 +4515,8 @@
        "ambitious",
        "warrior"
       ],
-      "end": "battle_wound"
+      "end": "battle_wound",
+      "dm": 5
      }
     ],
     [
@@ -8586,7 +8665,7 @@
   {
    "id": "wey_zhouyu",
    "y": 719,
-   "m": 3,
+   "m": 2,
    "need": [
     "wey"
    ],
@@ -8637,7 +8716,7 @@
   {
    "id": "shi_que",
    "y": 719,
-   "m": 12,
+   "m": 9,
    "need": [
     "wey"
    ],
@@ -9117,7 +9196,7 @@
   {
    "id": "qi_xiang_killed",
    "y": 686,
-   "m": 12,
+   "m": 11,
    "need": [
     "qi"
    ],
@@ -11600,7 +11679,7 @@
   {
    "id": "cui_zhu",
    "y": 548,
-   "m": 4,
+   "m": 5,
    "need": [
     "qi"
    ],
@@ -11941,7 +12020,7 @@
   {
    "id": "chu_ling_falls",
    "y": 529,
-   "m": 5,
+   "m": 4,
    "need": [
     "chu"
    ],
