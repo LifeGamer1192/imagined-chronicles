@@ -1724,6 +1724,9 @@
       "rel": "brother",
       "tr": [
        "greedy"
+      ],
+      "parents": [
+       "jin:献公"
       ]
      }
     ],
@@ -1754,7 +1757,10 @@
        "charismatic"
       ],
       "born": 697,
-      "dm": 12
+      "dm": 12,
+      "parents": [
+       "jin:献公"
+      ]
      }
     ],
     [
@@ -1785,7 +1791,10 @@
      606,
      600,
      {
-      "rel": "other"
+      "rel": "other",
+      "parents": [
+       "jin:文公"
+      ]
      }
     ],
     [
@@ -2205,6 +2214,10 @@
       ],
       "tr": [
        "ambitious"
+      ],
+      "parents": [
+       "qin:恵文王",
+       "宣太后"
       ]
      }
     ],
@@ -2237,7 +2250,11 @@
        "unifier",
        "paranoid"
       ],
-      "born": 259
+      "born": 259,
+      "parents": [
+       "qin:荘襄王",
+       "趙姫"
+      ]
      }
     ]
    ]
@@ -5699,6 +5716,9 @@
      6,
      7,
      6
+    ],
+    "parents": [
+     "趙衰"
     ]
    }
   ],
@@ -5863,7 +5883,10 @@
      "wise",
      "content"
     ],
-    "fame": 5
+    "fame": 5,
+    "parents": [
+     "wu:寿夢"
+    ]
    }
   ],
   [
@@ -5946,7 +5969,10 @@
      "ambitious"
     ],
     "fame": 7,
-    "end": "suicide"
+    "end": "suicide",
+    "parents": [
+     "伍奢"
+    ]
    }
   ],
   [
@@ -6782,6 +6808,9 @@
     ],
     "tr": [
      "generous"
+    ],
+    "parents": [
+     "zhao:武霊王"
     ]
    }
   ],
@@ -6825,7 +6854,10 @@
      "generous",
      "charismatic"
     ],
-    "fame": 7
+    "fame": 7,
+    "parents": [
+     "wei:昭王"
+    ]
    }
   ],
   [
@@ -6867,7 +6899,10 @@
      "foolish"
     ],
     "fame": 4,
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "parents": [
+     "趙奢"
+    ]
    }
   ],
   [
@@ -7067,6 +7102,9 @@
      8,
      4,
      5
+    ],
+    "parents": [
+     "王翦"
     ]
    }
   ],
@@ -7344,6 +7382,9 @@
      3,
      5,
      6
+    ],
+    "parents": [
+     "yan:燕王喜"
     ]
    }
   ],
@@ -7415,6 +7456,9 @@
      5,
      6,
      5
+    ],
+    "parents": [
+     "zhao:成侯"
     ]
    }
   ],
@@ -7572,7 +7616,10 @@
     "tr": [
      "wise"
     ],
-    "fame": 4
+    "fame": 4,
+    "parents": [
+     "song:桓公"
+    ]
    }
   ],
   [
@@ -7593,7 +7640,10 @@
     "tr": [
      "brave"
     ],
-    "fame": 4
+    "fame": 4,
+    "parents": [
+     "百里奚"
+    ]
    }
   ],
   [
@@ -7610,6 +7660,9 @@
      6,
      4,
      4
+    ],
+    "parents": [
+     "蹇叔"
     ]
    }
   ],
@@ -7627,6 +7680,9 @@
      6,
      4,
      4
+    ],
+    "parents": [
+     "蹇叔"
     ]
    }
   ],
@@ -8039,6 +8095,9 @@
     ],
     "tr": [
      "charismatic"
+    ],
+    "parents": [
+     "zheng:穆公"
     ]
    }
   ],
