@@ -6604,12 +6604,8 @@
     "from": 283,
     "moves": [
      [
-      244,
+      245,
       "wei"
-     ],
-     [
-      241,
-      "chu"
      ]
     ],
     "ab": [
@@ -15958,6 +15954,57 @@
    ]
   },
   {
+   "id": "li_mu_xiongnu",
+   "y": 246,
+   "need": [
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "zhao",
+     "prestige",
+     8
+    ]
+   ],
+   "at": "jinyang",
+   "imp": 2,
+   "ja": "このころ{n_zhao}の北辺を守る[[p:李牧]]は、のろしを固め、匈奴が来ても城に籠もって戦わず、臆病者と笑われながら数年をかけて兵を養った。満を持して打って出ると、匈奴の十余万騎を討ち、以後十余年、匈奴は趙の辺境に近づかなかった。",
+   "en": "About now [[p:李牧|Li Mu]], guarding the northern frontier of {n_zhao}, kept to his walls and beacons whenever the Xiongnu came, laughed at as a coward, while he built up his men for years. When at last he struck, he destroyed more than a hundred thousand Xiongnu horsemen; for ten years after they did not come near the Zhao frontier.",
+   "src": [
+    "shiji:廉頗藺相如列伝|Biographies of Lian Po and Lin Xiangru"
+   ]
+  },
+  {
+   "id": "lianpo_flees",
+   "y": 245,
+   "need": [
+    "zhao",
+    "wei"
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "{n_zhao}の[[p:孝成王]]が没して[[p:悼襄王]]が立つと、王は老将[[p:廉頗]]に代えて楽乗を将にしようとした。怒った廉頗は楽乗を攻めて走らせ、そのまま魏の大梁へ奔った。",
+   "en": "When [[p:燕王喜|King Xi]]aocheng of {n_zhao} died and [[p:悼襄王|King Daoxiang]] took the throne, the king meant to replace the old general [[p:廉頗|Lian Po]] with Yue Cheng. Lian Po, furious, drove Yue Cheng off and fled to Daliang in Wei.",
+   "src": [
+    "shiji:廉頗藺相如列伝|Biographies of Lian Po and Lin Xiangru"
+   ]
+  },
+  {
+   "id": "lianpo_old",
+   "y": 244,
+   "need": [
+    "zhao"
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "秦に苦しむ{n_zhao}の王は、もう一度[[p:廉頗]]を用いようと使者を送った。廉頗は使者の前で一斗の飯と十斤の肉を平らげ、鎧を着て馬に跨がってみせた。だが廉頗を憎む[[p:郭開]]に金をつかまされた使者は「廉将軍はお元気ですが、私と座っている間に三度も厠に立たれました」と報告し、王は廉頗を老いたとして呼ばなかった。",
+   "en": "Hard pressed by Qin, the King of {n_zhao} sent to see whether [[p:廉頗|Lian Po]] could serve again. Before the envoy Lian Po ate a peck of rice and ten pounds of meat, put on his armour and mounted his horse. But [[p:郭開|Guo Kai]], who hated him, had bribed the envoy: \"General Lian is well,\" he reported, \"but he went to the privy three times while we sat.\" The king judged him too old and did not send for him.",
+   "src": [
+    "shiji:廉頗藺相如列伝|Biographies of Lian Po and Lin Xiangru"
+   ]
+  },
+  {
    "id": "qin_dongjun",
    "y": 242,
    "need": [
@@ -16119,6 +16166,29 @@
    ]
   },
   {
+   "id": "ye_236",
+   "y": 236,
+   "need": [
+    "qin",
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "zhao",
+     "prestige",
+     -10
+    ]
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "{n_qin}の[[p:王翦]]・桓齮・楊端和が{n_zhao}の鄴を攻め、九つの城を取った。この年、趙の[[p:悼襄王]]が没し、子の遷 ([[p:幽繆王]]) が立った。母は倡 (歌い女) の出で、王はもとから評判が悪かった。",
+   "en": "[[p:王翦|Wang Jian]], Huan Yi and Yang Duanhe of {n_qin} attacked Ye in {n_zhao} and took nine cities. That year [[p:悼襄王|King Daoxiang]] of Zhao died, and his son Qian took the throne — the son of a singing girl, with a poor name from the start.",
+   "src": [
+    "shiji:秦始皇本紀|Basic Annals of the First Emperor"
+   ]
+  },
+  {
    "id": "lv_buwei_dies",
    "y": 235,
    "need": [
@@ -16130,6 +16200,34 @@
    "en": "Ordered by the king to move to Shu, [[p:呂不韋|Lü Buwei]] took poison and died.",
    "src": [
     "shiji:呂不韋列伝|Biography of Lü Buwei"
+   ]
+  },
+  {
+   "id": "pingyang_234",
+   "y": 234,
+   "need": [
+    "qin",
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "zhao",
+     "prestige",
+     -10
+    ],
+    [
+     "army",
+     "zhao",
+     0.8
+    ]
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "{n_qin}の桓齮が{n_zhao}の平陽を攻め、趙の将扈輒を討ち取った。斬られた首は十万と伝えられる。",
+   "en": "Huan Yi of {n_qin} attacked Pingyang in {n_zhao} and killed the Zhao general Hu Zhe; a hundred thousand heads were taken, it is told.",
+   "src": [
+    "shiji:秦始皇本紀|Basic Annals of the First Emperor"
    ]
   },
   {
@@ -16154,6 +16252,86 @@
    ]
   },
   {
+   "id": "feili_233",
+   "y": 233,
+   "need": [
+    "qin",
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "zhao",
+     "prestige",
+     15
+    ],
+    [
+     "add",
+     "qin",
+     "prestige",
+     -10
+    ]
+   ],
+   "at": "handan",
+   "imp": 3,
+   "ja": "{n_qin}の桓齮が赤麗・宜安を攻めると、北辺から呼び戻された[[p:李牧]]が肥のほとりで秦軍を大いに破り、桓齮は逃れた。趙王は李牧を武安君に封じた。",
+   "en": "When Huan Yi of {n_qin} attacked Chili and Yi'an, [[p:李牧|Li Mu]], called back from the north, routed the Qin army by the River Fei; Huan Yi fled. The king made Li Mu Lord of Wu'an.",
+   "src": [
+    "shiji:趙世家|House of Zhao"
+   ]
+  },
+  {
+   "id": "fanwu_232",
+   "y": 232,
+   "need": [
+    "qin",
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "zhao",
+     "prestige",
+     8
+    ]
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "{n_qin}が番吾を攻め、[[p:李牧]]はこれを迎え撃って退けた。だが二度の戦いで趙の兵も多く失われた。",
+   "en": "{n_qin} attacked Fanwu, and [[p:李牧|Li Mu]] beat it off — but two years of fighting had cost Zhao many men too.",
+   "src": [
+    "shiji:趙世家|House of Zhao"
+   ]
+  },
+  {
+   "id": "dai_quake",
+   "y": 231,
+   "need": [
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "zhao",
+     "stability",
+     -0.1
+    ],
+    [
+     "add",
+     "zhao",
+     "treasury",
+     -50
+    ]
+   ],
+   "at": "jinyang",
+   "imp": 2,
+   "ja": "{n_zhao}の代の地で大地震があった。楽徐から西、北は平陰まで、建物や城壁の大半が崩れ、地面は東西百三十歩にわたって裂けた。",
+   "en": "A great earthquake struck Dai in {n_zhao}: from Lexu westward and north to Pingyin most houses and walls fell, and the ground split open for a hundred and thirty paces from east to west.",
+   "src": [
+    "shiji:趙世家|House of Zhao"
+   ]
+  },
+  {
    "id": "qin_han",
    "y": 230,
    "need": [
@@ -16173,6 +16351,34 @@
    "en": "The Qin official Teng attacked {n_han} and captured [[p:韓王安|King An]]. Han was the first of the six to fall.",
    "src": [
     "shiji:秦始皇本紀|Basic Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "zhao_famine",
+   "y": 230,
+   "need": [
+    "zhao"
+   ],
+   "do": [
+    [
+     "add",
+     "zhao",
+     "stability",
+     -0.15
+    ],
+    [
+     "add",
+     "zhao",
+     "treasury",
+     -50
+    ]
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "{n_zhao}に大飢饉が起こった。民の間には「趙は泣き叫び、秦は笑う。信じぬなら、地に生える草を見よ」というはやり歌が流れた。",
+   "en": "Great famine came to {n_zhao}. The people sang: \"Zhao wails, Qin laughs; if you do not believe it, look at what grows on the ground.\"",
+   "src": [
+    "shiji:趙世家|House of Zhao"
    ]
   },
   {
@@ -16226,6 +16432,36 @@
    "at": "handan",
    "ja": "名将[[p:李牧]]が讒言で殺されると、[[p:王翦]]は邯鄲を落とし、{n_zhao}の[[p:幽繆王]]を捕らえた。",
    "en": "Once the great general [[p:李牧|Li Mu]] had been slandered and killed, [[p:王翦|Wang Jian]] took Handan and captured the King of {n_zhao}.",
+   "src": [
+    "shiji:秦始皇本紀|Basic Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "zhao_falls",
+   "y": 228,
+   "m": 10,
+   "need": [
+    "qin"
+   ],
+   "at": "handan",
+   "imp": 3,
+   "ja": "趙の滅亡。邯鄲は落ち、[[p:幽繆王]]遷は捕らえられ、房陵に流されたと伝わる。趙氏が諸侯となってから百七十余年、[[p:武霊王]]が胡服騎射で国を強くしてから七十年余りで、趙は滅んだ。公子嘉は一族数百人を連れて北の代へ逃れ、代王を称して燕と結んだ。",
+   "en": "The fall of Zhao. Handan fell; King Qian was taken and, it is told, sent into exile at Fangling. A hundred and seventy-odd years after the house of Zhao became lords, and some seventy years after [[p:武霊王|King Wuling]] made it strong with nomad dress and mounted archers, Zhao was gone. Prince Jia fled north to Dai with a few hundred of his kin, called himself King of Dai, and joined with Yan.",
+   "src": [
+    "shiji:趙世家|House of Zhao"
+   ]
+  },
+  {
+   "id": "qin_king_handan",
+   "y": 228,
+   "m": 11,
+   "need": [
+    "qin"
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "{n_qin}の王政は邯鄲に赴き、かつて趙で人質の子として暮らした頃に母の家と恨みのあった者たちを、ことごとく穴埋めにした。",
+   "en": "[[p:秦王政|King Zheng]] of {n_qin} went to Handan and had buried alive everyone who had wronged his mother's family in the years he lived there as a hostage's son.",
    "src": [
     "shiji:秦始皇本紀|Basic Annals of the First Emperor"
    ]
@@ -16380,6 +16616,20 @@
    "at": "ji_yan",
    "ja": "[[p:王賁]]は遼東に逃れた{n_yan}の王喜を捕らえ、燕を滅ぼした。",
    "en": "[[p:王賁|Wang Ben]] captured [[p:燕王喜|King Xi]] of {n_yan}, who had fled to Liaodong, and Yan was no more.",
+   "src": [
+    "shiji:秦始皇本紀|Basic Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "dai_falls",
+   "y": 222,
+   "need": [
+    "qin"
+   ],
+   "at": "jinyang",
+   "imp": 2,
+   "ja": "{n_qin}の[[p:王賁]]は燕を滅ぼした帰りに代を攻め、[[p:代王嘉]]を捕らえた。趙の祀りはここに絶えた。",
+   "en": "[[p:王賁|Wang Ben]] of {n_qin}, on his way back from destroying Yan, attacked Dai and took Jia, King of Dai. The sacrifices of Zhao were ended.",
    "src": [
     "shiji:秦始皇本紀|Basic Annals of the First Emperor"
    ]
