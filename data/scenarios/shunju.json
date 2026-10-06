@@ -9230,8 +9230,8 @@
    ],
    "imp": 3,
    "at": "linzi",
-   "ja": "{r_qi}は鄄に諸侯を集めて盟を主宰した。諸侯の長「覇者」の始まりである。",
-   "en": "{r_qi} gathered the lords at Juan and presided over their covenant — the first of the hegemons, the \"elders of the lords\"."
+   "ja": "{r_qi}は鄄に諸侯を集めて盟を主宰した。諸侯の長「[[a:five_hegemons|覇者]]」の始まりである。",
+   "en": "{r_qi} gathered the lords at Juan and presided over their covenant — the first of the [[a:five_hegemons|hegemon]]s, the \"elders of the lords\"."
   },
   {
    "id": "quwo_takes_jin",
@@ -12670,6 +12670,24 @@
    ],
    "ja": "{r_wei}は[[p:李悝]]を用いて田を尽くす教えと[[a:li_kui_reform|『法経』]]を定め、[[p:呉起]]に精兵「[[a:wuzu|武卒]]」を鍛えさせた。魏は戦国の初めの最強国となった。",
    "en": "{r_wei} put [[p:李悝|Li Kui]] in charge — farming to the utmost and [[a:li_kui_reform|a code of law]] — and had [[p:呉起|Wu Qi]] train [[a:wuzu|picked soldiers]]. Wei became the first great power of the Warring States."
+  },
+  {
+   "id": "seven_states",
+   "y": 403,
+   "m": 8,
+   "need": [
+    "qin",
+    "chu",
+    "qi",
+    "yan",
+    "han",
+    "zhao",
+    "wei"
+   ],
+   "imp": 2,
+   "at": "luoyi",
+   "ja": "韓・趙・魏が諸侯となり、秦・楚・斉・燕とあわせて七つの大国が並び立った。のちに「[[a:seven_states|戦国七雄]]」と呼ばれる。",
+   "en": "With Han, Zhao and Wei now lords, seven great states stood side by side with Qin, Chu, Qi and Yan: the [[a:seven_states|Seven Warring States]], as they would be called."
   },
   {
    "id": "tian_he_391",
@@ -17695,6 +17713,44 @@
     "項燕|Xiang Yan"
    ],
    "related": []
+  },
+  "five_hegemons": {
+   "kind": "story",
+   "title": {
+    "ja": "春秋五覇",
+    "en": "The five hegemons"
+   },
+   "body": {
+    "ja": "周の王の力が衰えた春秋時代、諸侯の中で最も力のある者が「覇者」となって諸侯を会盟に集め、王に代わって秩序を保った。覇者は王を尊び (尊王)、異民族を退ける (攘夷) ことを掲げた。会盟では牛の耳を切ってその血をすすり合い、盟の主は「牛耳を執る」者と呼ばれた。\n\nその代表を「春秋五覇」と呼ぶが、誰を数えるかは書物によって違う。斉の桓公・晋の文公・秦の穆公・宋の襄公・楚の荘王とする数え方と、斉の桓公・晋の文公・楚の荘王・呉王[[p:闔閭]] (または[[p:夫差]])・越王[[p:句践]]とする数え方がよく知られている。\n\n最初の覇者は斉の桓公で、[[p:管仲]]を宰相として前679年に鄄で諸侯の長となり、葵丘の会盟 (前651年) で極まった。晋の文公は城濮で楚を破り (前632年)、践土で周王から「侯伯」に任じられた。以後、晋と楚が百年にわたって覇を争う。宋の襄公は泓水で敗れて覇業ならず、秦の穆公は西戎の覇者にとどまった。春秋の終わりには呉と越が相次いで中原の会盟に臨んだ。",
+    "en": "As the kings of Zhou grew weak, the strongest of the lords became \"hegemon\": he called the others to covenants and kept order in the king's place, under the banner of honouring the king and driving off the outer peoples. At a covenant an ox's ear was cut and its blood shared; the master of the covenant was the one who \"held the ox's ear\".\n\nThe best known are called the Five Hegemons, though the lists differ: Duke Huan of Qi, Duke Wen of Jin, Duke Mu of Qin, Duke Xiang of Song and King Zhuang of Chu in one; Duke Huan, Duke Wen, King Zhuang, [[p:闔閭|Helü]] (or [[p:夫差|Fuchai]]) of Wu and [[p:句践|Goujian]] of Yue in another.\n\nThe first was Duke Huan of Qi, who with [[p:管仲|Guan Zhong]] as his minister became elder of the lords at Juan in 679 BC and reached his height at the covenant of Kuiqiu (651 BC). Duke Wen of Jin beat Chu at Chengpu (632 BC) and was named elder of the lords by the king at Jiantu; for a century after, Jin and Chu contended for the leadership. Duke Xiang of Song failed at the Hong; Duke Mu of Qin was hegemon only of the western Rong. At the end of the age, Wu and then Yue came north to preside over covenants of the central states."
+   },
+   "people": [
+    "管仲|Guan Zhong"
+   ],
+   "related": [
+    "guanzhong_reform",
+    "battle_chengpu",
+    "battle_hongshui"
+   ]
+  },
+  "seven_states": {
+   "kind": "story",
+   "title": {
+    "ja": "戦国七雄",
+    "en": "The Seven Warring States"
+   },
+   "body": {
+    "ja": "前403年、周の[[p:威烈王]]は晋の三家、韓・趙・魏を諸侯と認めた。こうして秦・楚・斉・燕・韓・趙・魏の七つの大国が並び立ち、のちに「戦国七雄」と呼ばれる。宋・衛・中山などの小国もなお残ったが、天下の行方は七国の間で争われた。\n\n七国はそれぞれ改革を競った。魏は[[p:李悝]]と[[p:呉起]]、楚は呉起、韓は[[p:申不害]]、斉は[[p:鄒忌]]、趙は胡服騎射、そして秦は[[p:商鞅]]の変法によって強くなった。遊説の士は国から国へと渡り歩き、[[p:蘇秦]]は六国が結んで秦に当たる「合従」を、[[p:張儀]]は六国がそれぞれ秦と結ぶ「連衡」を説いた。\n\n最後に勝ったのは西の秦であった。前230年に韓が滅ぶと、趙 (前228年)・魏 (前225年)・楚 (前223年)・燕 (前222年) が続き、前221年に斉が降って、七雄の時代は終わった。",
+    "en": "In 403 BC [[p:威烈王|King Weilie]] of Zhou recognised the three houses of Jin — Han, Zhao and Wei — as lords. With Qin, Chu, Qi and Yan they made seven great states standing side by side: the Seven Warring States. Song, Wey, Zhongshan and other small states lived on, but the fate of the world was fought out among the seven.\n\nEach raced to reform: Wei with [[p:李悝|Li Kui]] and [[p:呉起|Wu Qi]], Chu with Wu Qi, Han with [[p:申不害|Shen Buhai]], Qi with [[p:鄒忌|Zou Ji]], Zhao with nomad dress and mounted archers, and Qin with the laws of Lord Shang. Persuaders went from court to court — [[p:蘇秦|Su Qin]] urging the six to stand together against Qin (the \"vertical alliance\"), [[p:張儀|Zhang Yi]] urging each to make its own peace with Qin (the \"horizontal\").\n\nIn the end the west won. Han fell to Qin in 230 BC, then Zhao (228), Wei (225), Chu (223) and Yan (222); in 221 Qi surrendered, and the age of the seven was over."
+   },
+   "people": [
+    "商鞅|Shang Yang",
+    "蘇秦|Su Qin",
+    "張儀|Zhang Yi"
+   ],
+   "related": [
+    "battle_changping"
+   ]
   }
  },
  "goods": [
@@ -18778,5 +18834,174 @@
    255,
    "qin"
   ]
+ ],
+ "honors": [
+  {
+   "title": {
+    "ja": "覇者",
+    "en": "hegemon"
+   },
+   "realm": "qi",
+   "ruler": {
+    "ja": "桓公",
+    "en": "Duke Huan"
+   },
+   "from": 679,
+   "to": 643,
+   "art": "five_hegemons"
+  },
+  {
+   "title": {
+    "ja": "覇者",
+    "en": "hegemon"
+   },
+   "realm": "song",
+   "ruler": {
+    "ja": "襄公",
+    "en": "Duke Xiang"
+   },
+   "from": 642,
+   "to": 638,
+   "art": "five_hegemons"
+  },
+  {
+   "title": {
+    "ja": "覇者",
+    "en": "hegemon"
+   },
+   "realm": "jin",
+   "ruler": {
+    "ja": "文公",
+    "en": "Duke Wen"
+   },
+   "from": 632,
+   "to": 628,
+   "art": "five_hegemons"
+  },
+  {
+   "title": {
+    "ja": "覇者",
+    "en": "hegemon"
+   },
+   "realm": "qin",
+   "ruler": {
+    "ja": "穆公",
+    "en": "Duke Mu"
+   },
+   "from": 623,
+   "to": 621,
+   "art": "five_hegemons"
+  },
+  {
+   "title": {
+    "ja": "覇者",
+    "en": "hegemon"
+   },
+   "realm": "chu",
+   "ruler": {
+    "ja": "荘王",
+    "en": "King Zhuang"
+   },
+   "from": 597,
+   "to": 591,
+   "art": "five_hegemons"
+  },
+  {
+   "title": {
+    "ja": "覇者",
+    "en": "hegemon"
+   },
+   "realm": "wu",
+   "ruler": {
+    "ja": "闔閭",
+    "en": "Helü"
+   },
+   "from": 506,
+   "to": 496,
+   "art": "five_hegemons"
+  },
+  {
+   "title": {
+    "ja": "覇者",
+    "en": "hegemon"
+   },
+   "realm": "yue",
+   "ruler": {
+    "ja": "句践",
+    "en": "Goujian"
+   },
+   "from": 473,
+   "to": 465,
+   "art": "five_hegemons"
+  },
+  {
+   "title": {
+    "ja": "戦国七雄",
+    "en": "one of the Seven Warring States"
+   },
+   "realm": "qin",
+   "from": 403,
+   "art": "seven_states"
+  },
+  {
+   "title": {
+    "ja": "戦国七雄",
+    "en": "one of the Seven Warring States"
+   },
+   "realm": "chu",
+   "from": 403,
+   "to": 223,
+   "art": "seven_states"
+  },
+  {
+   "title": {
+    "ja": "戦国七雄",
+    "en": "one of the Seven Warring States"
+   },
+   "realm": "qi",
+   "from": 403,
+   "to": 221,
+   "art": "seven_states"
+  },
+  {
+   "title": {
+    "ja": "戦国七雄",
+    "en": "one of the Seven Warring States"
+   },
+   "realm": "yan",
+   "from": 403,
+   "to": 222,
+   "art": "seven_states"
+  },
+  {
+   "title": {
+    "ja": "戦国七雄",
+    "en": "one of the Seven Warring States"
+   },
+   "realm": "han",
+   "from": 403,
+   "to": 230,
+   "art": "seven_states"
+  },
+  {
+   "title": {
+    "ja": "戦国七雄",
+    "en": "one of the Seven Warring States"
+   },
+   "realm": "zhao",
+   "from": 403,
+   "to": 228,
+   "art": "seven_states"
+  },
+  {
+   "title": {
+    "ja": "戦国七雄",
+    "en": "one of the Seven Warring States"
+   },
+   "realm": "wei",
+   "from": 403,
+   "to": 225,
+   "art": "seven_states"
+  }
  ]
 }
