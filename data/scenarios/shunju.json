@@ -4996,7 +4996,8 @@
    "culture": "hua",
    "capital": "anyi",
    "places": [
-    "daliang"
+    "daliang",
+    "rui"
    ],
    "reach": 120,
    "house": {
@@ -10623,6 +10624,30 @@
    ]
   },
   {
+   "id": "chu_liu",
+   "y": 622,
+   "need": [
+    "chu"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "chu",
+     [
+      "liu"
+     ]
+    ]
+   ],
+   "at": "liu",
+   "imp": 1,
+   "ja": "{n_chu}は六と蓼を滅ぼした。魯の[[p:臧文仲]]は、聖王皐陶と庭堅の祀りが絶えたことを嘆いた。",
+   "en": "{n_chu} destroyed Liu and Liao; [[p:臧文仲|Zang Wenzhong]] of Lu lamented that the sacrifices to the sage ministers Gao Yao and Ting Jian were now ended.",
+   "src": [
+    "zuo:文公五年|Duke Wen 5"
+   ]
+  },
+  {
    "id": "qin_three_good",
    "y": 621,
    "need": [
@@ -11392,6 +11417,59 @@
    "en": "Duke Li of {n_jin}, who had killed the three Xi to break the great ministers, was seized and killed by [[p:欒書|Luan Shu]] and Zhonghang Yan. Duke Dao, fourteen years old, was fetched from Zhou.",
    "src": [
     "zuo:成公十八年|Duke Cheng 18"
+   ]
+  },
+  {
+   "id": "chu_pengcheng",
+   "y": 573,
+   "m": 6,
+   "need": [
+    "chu",
+    "song"
+   ],
+   "do": [
+    [
+     "cede",
+     "song",
+     "chu",
+     [
+      "pengcheng"
+     ]
+    ]
+   ],
+   "at": "pengcheng",
+   "imp": 1,
+   "ja": "{n_chu}は{n_song}を攻めて彭城を取り、宋から逃れていた魚石らをそこに入れた。晋と呉の行き来を断つためである。",
+   "en": "{n_chu} attacked {n_song}, took Pengcheng and set the Song exiles of Yu Shi there — to cut the road between Jin and Wu.",
+   "src": [
+    "zuo:成公十八年|Duke Cheng 18"
+   ]
+  },
+  {
+   "id": "song_pengcheng",
+   "y": 572,
+   "m": 1,
+   "need": [
+    "jin",
+    "song",
+    "chu"
+   ],
+   "do": [
+    [
+     "cede",
+     "chu",
+     "song",
+     [
+      "pengcheng"
+     ]
+    ]
+   ],
+   "at": "pengcheng",
+   "imp": 1,
+   "ja": "{n_jin}の欒黶らが諸侯の軍と彭城を囲んで降し、彭城は{n_song}に返された。魚石らは晋に連れ去られた。",
+   "en": "Luan Yan of {n_jin} and the lords' armies besieged Pengcheng until it surrendered, and gave it back to {n_song}; Yu Shi and his men were taken off to Jin.",
+   "src": [
+    "zuo:襄公元年|Duke Xiang 1"
    ]
   },
   {
@@ -12744,6 +12822,38 @@
    ]
   },
   {
+   "id": "cai_zhoulai",
+   "y": 493,
+   "m": 11,
+   "need": [
+    "cai",
+    "chu",
+    "wu"
+   ],
+   "do": [
+    [
+     "capital",
+     "cai",
+     "shouchun"
+    ],
+    [
+     "cede",
+     "cai",
+     "chu",
+     [
+      "shangcai"
+     ]
+    ]
+   ],
+   "at": "shouchun",
+   "imp": 1,
+   "ja": "{n_chu}の圧迫を逃れて、{n_cai}は呉の助けで都を州来 (下蔡) に移した。旧都上蔡の地は楚のものとなった。",
+   "en": "Pressed by {n_chu}, {n_cai} moved its capital with Wu's help to Zhoulai (Lower Cai); its old capital Shangcai fell to Chu.",
+   "src": [
+    "zuo:哀公二年|Duke Ai 2"
+   ]
+  },
+  {
    "id": "chen_cai_hunger",
    "y": 489,
    "need": [
@@ -13329,6 +13439,14 @@
      "qin",
      "prestige",
      -10
+    ],
+    [
+     "cede",
+     "qin",
+     "jin",
+     [
+      "rui"
+     ]
     ]
    ],
    "at": "yueyang",
@@ -13974,19 +14092,18 @@
    ],
    "do": [
     [
-     "cede",
-     "wei",
-     "qin",
-     [
-      "rui",
-      "anyi"
-     ]
-    ],
-    [
      "add",
      "wei",
      "stability",
      -0.1
+    ],
+    [
+     "cede",
+     "*",
+     "qin",
+     [
+      "rui"
+     ]
     ]
    ],
    "ja": "[[p:商鞅]]は旧友の魏の公子卬を会盟に招いて捕らえ、{n_wei}から河西の地を奪った。",
@@ -14766,6 +14883,54 @@
    ]
   },
   {
+   "id": "qin_wan",
+   "y": 292,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "qin",
+     [
+      "wan"
+     ]
+    ]
+   ],
+   "at": "wan",
+   "imp": 1,
+   "ja": "{n_qin}の[[p:白起]]は楚を攻めて宛を取った。鉄と商いで栄えた南陽の要の町である。",
+   "en": "[[p:白起|Bai Qi]] of {n_qin} attacked Chu and took Wan, the key town of Nanyang, rich in iron and trade.",
+   "src": [
+    "shiji:秦本紀|Basic Annals of Qin"
+   ]
+  },
+  {
+   "id": "qin_deng",
+   "y": 291,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "qin",
+     [
+      "deng"
+     ]
+    ]
+   ],
+   "at": "deng",
+   "imp": 1,
+   "ja": "{n_qin}の[[p:司馬錯]]は軹と鄧を取った。",
+   "en": "[[p:司馬錯|Sima Cuo]] of {n_qin} took Zhi and Deng.",
+   "src": [
+    "shiji:秦本紀|Basic Annals of Qin"
+   ]
+  },
+  {
    "id": "two_emperors",
    "y": 288,
    "m": 10,
@@ -14801,6 +14966,31 @@
    "en": "{r_qi} struck down [[p:宋王偃|King Yan]] of {n_song} — \"the Jie of Song\" — and destroyed Song. Qi's new might frightened every court.",
    "src": [
     "shiji:田敬仲完世家|House of Tian of Qi"
+   ]
+  },
+  {
+   "id": "wei_anyi",
+   "y": 286,
+   "need": [
+    "qin",
+    "wei"
+   ],
+   "do": [
+    [
+     "cede",
+     "wei",
+     "qin",
+     [
+      "anyi"
+     ]
+    ]
+   ],
+   "at": "anyi",
+   "imp": 2,
+   "ja": "{n_wei}は秦に旧都安邑を差し出した。秦はその民を魏へ去らせ、自らの民を移して住まわせた。",
+   "en": "{n_wei} handed its old capital Anyi to Qin. Qin sent its people away to Wei and settled its own there.",
+   "src": [
+    "shiji:秦本紀|Basic Annals of Qin"
    ]
   },
   {
@@ -14858,6 +15048,31 @@
    "en": "King Min of {n_qi}, fled to Ju, was seized and killed by Nao Chi, the general {n_chu} had sent to help him.",
    "src": [
     "shiji:田敬仲完世家|House of Tian of Qi"
+   ]
+  },
+  {
+   "id": "qin_tao",
+   "y": 284,
+   "m": 10,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "qin",
+     [
+      "taoqiu"
+     ]
+    ]
+   ],
+   "at": "taoqiu",
+   "imp": 1,
+   "ja": "斉が敗れると、{n_qin}は天下の商いの中心であった陶を取り、穣侯[[p:魏冄]]の封地とした。",
+   "en": "With Qi broken, {n_qin} took Tao, the hub of the world's trade, and gave it to the Marquis of Rang, [[p:魏冄|Wei Ran]], as his fief.",
+   "src": [
+    "shiji:秦本紀|Basic Annals of Qin"
    ]
   },
   {
@@ -15371,6 +15586,42 @@
    "imp": 1,
    "ja": "{n_qin}は東周君を滅ぼした。周の名を負う最後の小さな国も絶えた。",
    "en": "{n_qin} put an end to the Lord of Eastern Zhou: the last little state to bear the name of Zhou was gone.",
+   "do": [
+    [
+     "cede",
+     "*",
+     "qin",
+     [
+      "gong",
+      "jing_zheng"
+     ]
+    ]
+   ],
+   "src": [
+    "shiji:秦本紀|Basic Annals of Qin"
+   ]
+  },
+  {
+   "id": "qin_taiyuan",
+   "y": 248,
+   "need": [
+    "qin",
+    "zhao"
+   ],
+   "do": [
+    [
+     "cede",
+     "zhao",
+     "qin",
+     [
+      "jinyang"
+     ]
+    ]
+   ],
+   "at": "jinyang",
+   "imp": 2,
+   "ja": "{n_qin}の[[p:蒙驁]]は{n_zhao}を攻めて太原を平らげ、晋陽を取った。趙氏が起こった地である。",
+   "en": "[[p:蒙驁|Meng Ao]] of {n_qin} attacked {n_zhao}, subdued Taiyuan and took Jinyang — the cradle of the house of Zhao.",
    "src": [
     "shiji:秦本紀|Basic Annals of Qin"
    ]
@@ -15433,6 +15684,31 @@
    ]
   },
   {
+   "id": "qin_dongjun",
+   "y": 242,
+   "need": [
+    "qin",
+    "wei"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "qin",
+     [
+      "yongqiu"
+     ]
+    ]
+   ],
+   "at": "yongqiu",
+   "imp": 2,
+   "ja": "{n_qin}の[[p:蒙驁]]は{n_wei}の酸棗・燕・虚・長平・雍丘・山陽など二十城を抜き、初めて東郡を置いた。秦の領土は斉と境を接した。",
+   "en": "[[p:蒙驁|Meng Ao]] of {n_qin} took twenty cities of {n_wei} — Suanzao, Yan, Xu, Changping, Yongqiu, Shanyang — and set up the Eastern Commandery. Qin now bordered Qi.",
+   "src": [
+    "shiji:秦本紀|Basic Annals of Qin"
+   ]
+  },
+  {
    "id": "chu_shouchun",
    "y": 241,
    "need": [
@@ -15483,6 +15759,30 @@
    "imp": 1,
    "ja": "楚・趙・魏・韓・燕の五国は最後の合従を結んで{n_qin}を攻め、蕞まで迫ったが敗れて散った。",
    "en": "Chu, Zhao, Wei, Han and Yan joined for the last time against {n_qin} and reached Zui, but were beaten and scattered.",
+   "src": [
+    "shiji:秦本紀|Basic Annals of Qin"
+   ]
+  },
+  {
+   "id": "qin_zhaoge",
+   "y": 241,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "qin",
+     [
+      "zhaoge"
+     ]
+    ]
+   ],
+   "at": "zhaoge",
+   "imp": 1,
+   "ja": "{n_qin}は朝歌を抜き、衛の[[p:君角]]を野王へ移した。",
+   "en": "{n_qin} took Zhaoge and moved Jue, Lord of Wey, to Yewang.",
    "src": [
     "shiji:秦本紀|Basic Annals of Qin"
    ]
