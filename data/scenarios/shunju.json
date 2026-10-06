@@ -16211,6 +16211,7 @@
     "tuisan",
     "chariot"
    ],
+   "site": "chengpu",
    "units": [
     "chariot"
    ]
@@ -16275,6 +16276,7 @@
    "read": [
     "chariot"
    ],
+   "site": "bi",
    "units": [
     "chariot"
    ]
@@ -16336,6 +16338,7 @@
     "sunzi",
     "wuzixu_whip"
    ],
+   "site": "boju",
    "units": [
     "chariot"
    ]
@@ -16395,6 +16398,7 @@
     "sunbin_stove",
     "crossbow"
    ],
+   "site": "maling",
    "units": [
     "crossbow",
     "wuzu"
@@ -16455,6 +16459,7 @@
    "read": [
     "zhao_kuo_books"
    ],
+   "site": "changping",
    "units": [
     "qin_rank",
     "crossbow"
@@ -16507,7 +16512,8 @@
    "after": {
     "ja": "王が諸侯の軍を率いて敗れたことで、周の権威は地に落ち、諸侯が自らの力で争う時代が始まった。",
     "en": "A king beaten at the head of the lords' armies: the authority of Zhou was broken, and an age of lords contending by their own strength began."
-   }
+   },
+   "site": "xuge"
   },
   "changshao": {
    "name": {
@@ -16552,7 +16558,8 @@
    "after": {
     "ja": "斉は同じ年の夏、宋とともに再び魯を攻めたが、乗丘でまた敗れた。",
     "en": "That summer Qi came again with Song, and was beaten again at Shengqiu."
-   }
+   },
+   "site": "changshao"
   },
   "hanyuan": {
    "name": {
@@ -16595,7 +16602,8 @@
    "after": {
     "ja": "恵公の姉である穆公の夫人が喪服で子らと薪の上に立って命乞いをし、穆公は恵公を帰した。晋は河西の地を秦に差し出し、太子圉を人質に送った。",
     "en": "Duke Mu's wife — Duke Hui's sister — stood with her children on a pyre in mourning clothes to beg for her brother's life, and Duke Mu let him go home. Jin gave up the land west of the river and sent the heir Yu as hostage."
-   }
+   },
+   "site": "hanyuan"
   },
   "hongshui": {
    "name": {
@@ -16640,7 +16648,8 @@
    "after": {
     "ja": "襄公は股に受けた傷がもとで翌年没し、宋の覇業の夢は消えた。",
     "en": "The duke died the next year of the wound in his thigh, and Song's dream of leading the lords died with him."
-   }
+   },
+   "site": "hongshui"
   },
   "xiao": {
    "name": {
@@ -16689,7 +16698,8 @@
    "after": {
     "ja": "捕らえられた三将は、文公の夫人 (秦の娘) のとりなしで帰された。穆公は喪服で郊外まで出迎え、「私が[[p:蹇叔]]の言葉を聞かなかったのが悪い」と自らを責め、[[p:孟明視]]を用い続けた。",
     "en": "At the plea of Duke Wen's widow, a daughter of Qin, the three were sent home. Duke Mu met them outside the city in mourning — \"The fault is mine, for not heeding [[p:蹇叔|Jian Shu]]\" — and kept [[p:孟明視|Meng Mingshi]] in command."
-   }
+   },
+   "site": "xiao"
   },
   "an": {
    "name": {
@@ -16735,7 +16745,8 @@
    "after": {
     "ja": "斉は袁婁で晋と盟を結び、奪っていた汶陽の田を魯に返した。",
     "en": "Qi swore peace with Jin at Yuanlou and gave back the fields of Wenyang it had taken from Lu."
-   }
+   },
+   "site": "an"
   },
   "yanling": {
    "name": {
@@ -16782,7 +16793,8 @@
    "after": {
     "ja": "[[p:子反]]は敗戦の責めを負って自ら命を絶った。勝った晋の厲公は驕り、のちに臣下に殺される。",
     "en": "[[p:子反|Zifan]] took the blame and killed himself. Duke Li of Jin, proud in victory, would later be killed by his own ministers."
-   }
+   },
+   "site": "yanling"
   },
   "zuili": {
    "name": {
@@ -16829,7 +16841,8 @@
    "after": {
     "ja": "子の[[p:夫差]]は庭に人を立たせ、出入りのたびに「夫差、越王が汝の父を殺したのを忘れたか」と言わせて、復讐を誓った。",
     "en": "His son [[p:夫差|Fuchai]] set a man in the courtyard to call out each time he passed: \"Fuchai, have you forgotten that the King of Yue killed your father?\""
-   }
+   },
+   "site": "zuili"
   },
   "fujiao": {
    "name": {
@@ -16878,7 +16891,8 @@
    "after": {
     "ja": "[[p:句践]]は呉に降って自ら[[p:夫差]]の臣となり、三年仕えて帰国を許された。",
     "en": "[[p:句践|Goujian]] surrendered, served [[p:夫差|Fuchai]] as his subject for three years, and was allowed home."
-   }
+   },
+   "site": "fujiao"
   },
   "ailing": {
    "name": {
@@ -16925,7 +16939,8 @@
    "after": {
     "ja": "呉は中原へ進む力を得たが、その背後で越が力を蓄えていた。",
     "en": "Wu had the strength to reach for the central plain — while behind it Yue gathered its own."
-   }
+   },
+   "site": "ailing"
   },
   "guiling": {
    "name": {
@@ -16967,7 +16982,8 @@
    "after": {
     "ja": "魏は邯鄲を落としたものの、二年後に趙へ返して漳水のほとりで盟を結んだ。",
     "en": "Wei had taken Handan, but two years later handed it back and swore peace with Zhao by the River Zhang."
-   }
+   },
+   "site": "guiling"
   },
   "yique": {
    "name": {
@@ -17008,7 +17024,8 @@
    "after": {
     "ja": "首を斬ること二十四万、魏の将[[p:公孫喜]]は捕らえられ、五つの城が落ちた。[[p:白起]]の名は天下に轟いた。",
     "en": "Two hundred and forty thousand heads were taken, the Wei general [[p:公孫喜|Gongsun Xi]] captured and five cities taken. [[p:白起|Bai Qi]]'s name rang through the world."
-   }
+   },
+   "site": "yique"
   },
   "jixi": {
    "name": {
@@ -17047,7 +17064,8 @@
    "after": {
     "ja": "[[p:楽毅]]は半年のうちに斉の七十余城を落とし、斉に残ったのは莒と即墨だけであった。",
     "en": "Within half a year [[p:楽毅|Yue Yi]] had taken over seventy cities of Qi; only Ju and Jimo held out."
-   }
+   },
+   "site": "jixi"
   },
   "jimo": {
    "name": {
@@ -17135,7 +17153,8 @@
    "after": {
     "ja": "趙の[[p:恵文王]]は[[p:趙奢]]を馬服君に封じ、[[p:廉頗]]・[[p:藺相如]]と並ぶ位につけた。",
     "en": "[[p:恵文王|King Huiwen]] of Zhao made [[p:趙奢|Zhao She]] Lord of Mafu, equal in rank to [[p:廉頗|Lian Po]] and [[p:藺相如|Lin Xiangru]]."
-   }
+   },
+   "site": "eyu"
   },
   "li_xin": {
    "name": {
@@ -17177,7 +17196,8 @@
    "after": {
     "ja": "秦王は自ら頻陽に退いていた[[p:王翦]]を訪ねて詫び、六十万の兵を委ねた。",
     "en": "The King of Qin went himself to [[p:王翦|Wang Jian]] in retirement at Pinyang, apologised, and gave him six hundred thousand men."
-   }
+   },
+   "site": "li_xin"
   },
   "qin_chu": {
    "name": {
@@ -17224,7 +17244,8 @@
    "after": {
     "ja": "[[p:項燕]]は敗れて死に、翌年楚王[[p:負芻]]は捕らえられて楚は滅んだ。",
     "en": "[[p:項燕|Xiang Yan]] was beaten and died, and the next year King [[p:負芻|Fuchu]] was taken and Chu was no more."
-   }
+   },
+   "site": "qin_chu"
   }
  },
  "wars": [
@@ -20579,5 +20600,154 @@
    "to": 225,
    "art": "seven_states"
   }
+ ],
+ "sites": [
+  [
+   "xuge",
+   "繻葛",
+   "Xuge",
+   34.22,
+   113.77
+  ],
+  [
+   "changshao",
+   "長勺",
+   "Changshao",
+   36.2,
+   117.66
+  ],
+  [
+   "hanyuan",
+   "韓原",
+   "Hanyuan",
+   35.6,
+   110.65
+  ],
+  [
+   "hongshui",
+   "泓水",
+   "the Hong",
+   34.1,
+   115.3
+  ],
+  [
+   "chengpu",
+   "城濮",
+   "Chengpu",
+   35.3,
+   115.45
+  ],
+  [
+   "xiao",
+   "殽",
+   "Xiao",
+   34.65,
+   111.6
+  ],
+  [
+   "bi",
+   "邲",
+   "Bi",
+   34.85,
+   113.55
+  ],
+  [
+   "an",
+   "鞍",
+   "An",
+   36.7,
+   117
+  ],
+  [
+   "yanling",
+   "鄢陵",
+   "Yanling",
+   34.1,
+   114.18
+  ],
+  [
+   "boju",
+   "柏挙",
+   "Boju",
+   31.18,
+   115
+  ],
+  [
+   "zuili",
+   "檇李",
+   "Zuili",
+   30.75,
+   120.75
+  ],
+  [
+   "fujiao",
+   "夫椒",
+   "Fujiao",
+   31.15,
+   120.2
+  ],
+  [
+   "ailing",
+   "艾陵",
+   "Ailing",
+   36.3,
+   117.9
+  ],
+  [
+   "guiling",
+   "桂陵",
+   "Guiling",
+   35.2,
+   114.7
+  ],
+  [
+   "maling",
+   "馬陵",
+   "Maling",
+   35.9,
+   115.5
+  ],
+  [
+   "yique",
+   "伊闕",
+   "Yique",
+   34.55,
+   112.47
+  ],
+  [
+   "jixi",
+   "済西",
+   "Jixi",
+   36.4,
+   116.5
+  ],
+  [
+   "eyu",
+   "閼与",
+   "Eyu",
+   37,
+   113.3
+  ],
+  [
+   "changping",
+   "長平",
+   "Changping",
+   35.8,
+   112.92
+  ],
+  [
+   "li_xin",
+   "城父",
+   "Chengfu",
+   33.6,
+   116
+  ],
+  [
+   "qin_chu",
+   "蘄",
+   "Qi (Ji)",
+   33.5,
+   117
+  ]
  ]
 }
