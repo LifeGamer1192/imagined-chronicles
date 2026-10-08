@@ -1438,7 +1438,8 @@
        "foolish",
        "cruel"
       ],
-      "born": 230
+      "born": 230,
+      "end": "assassination"
      }
     ]
    ]
@@ -1735,7 +1736,8 @@
       "tr": [
        "ambitious"
       ],
-      "born": 250
+      "born": 250,
+      "end": "deposed"
      }
     ]
    ]
@@ -1991,7 +1993,9 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "end": "battle_wound",
+    "dm": 7
    }
   ],
   [
@@ -2011,7 +2015,9 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "battle_wound",
+    "dm": 6
    }
   ],
   [
@@ -2133,7 +2139,9 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "battle_wound",
+    "dm": 6
    }
   ],
   [
@@ -2154,7 +2162,9 @@
     "tr": [
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "end": "battle_wound",
+    "dm": 9
    }
   ],
   [
@@ -2261,7 +2271,9 @@
      "charismatic",
      "ambitious"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "suicide",
+    "dm": 4
    }
   ],
   [
@@ -2340,7 +2352,8 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "end": "battle_wound"
    }
   ],
   [
@@ -2360,7 +2373,8 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "battle_wound"
    }
   ],
   [
@@ -2438,6 +2452,19 @@
   ]
  ],
  "events": [
+  {
+   "id": "embassy",
+   "y": 218,
+   "m": 3,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "at": "carthago",
+   "imp": 2,
+   "ja": "サグントゥムの陥落を受けて、{n_rome}の使節ファビウスはカルタゴの評議会に来た。ファビウスはトガの胸のひだをつまんで「ここに平和と戦争がある。好きな方を取れ」と言った。「どちらでも、そちらの好きな方をくれ」との答えに、「では戦争を」と言ってひだを振り落とした。",
+   "en": "After the fall of Saguntum the envoy Fabius of {n_rome} came before the council of Carthage. Gathering a fold of his toga he said: \"Here we bring you peace and war. Take which you please.\" \"Give us whichever you like,\" they answered. He shook out the fold: \"Then war.\""
+  },
   {
    "id": "ebro",
    "y": 218,
@@ -2521,6 +2548,10 @@
    ],
    "do": [
     [
+     "battle",
+     "cissa"
+    ],
+    [
      "cede",
      "*",
      "rome",
@@ -2578,6 +2609,10 @@
     "rome"
    ],
    "do": [
+    [
+     "battle",
+     "ticinus"
+    ],
     [
      "add",
      "rome",
@@ -2676,6 +2711,39 @@
    "en": "Rome named [[p:クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus]] [[a:dictator|dictator]]. He refused battle, shadowed [[p:ハンニバル|Hannibal]] and cut his supplies; people mocked him as \"[[a:cunctator|the Delayer]]\" — a name that later became an honour."
   },
   {
+   "id": "ager_falernus",
+   "y": 217,
+   "m": 10,
+   "need": [
+    "carthage",
+    "rome"
+   ],
+   "do": [
+    [
+     "add",
+     "carthage",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "capua",
+   "imp": 2,
+   "ja": "ファビウスにファレルヌスの野に閉じ込められた{r_carthage}は、二千頭の牛の角に薪を結びつけて火を放ち、夜の山へ追い上げた。峠を守るローマ兵が松明の群れに気を取られている間に、カルタゴ軍は峠を抜けた。",
+   "en": "Shut in the Falernian plain by Fabius, {r_carthage} had faggots tied to the horns of two thousand oxen, set them alight and drove the beasts up the hills by night. While the Romans guarding the pass chased the torches, the Carthaginian army slipped through."
+  },
+  {
+   "id": "minucius",
+   "y": 217,
+   "m": 12,
+   "need": [
+    "rome"
+   ],
+   "at": "arpi",
+   "imp": 1,
+   "ja": "独裁官ファビウスと同じ権限を与えられた騎兵長官ミヌキウスは、ゲルニウムで[[p:ハンニバル]]に挑んで罠にはまり、ファビウスの救援でようやく助かった。ミヌキウスは兵を連れてファビウスの陣に行き、彼を「父」と呼んで、同じ権限を返した。",
+   "en": "Minucius, master of horse, given power equal to the dictator Fabius, attacked [[p:ハンニバル|Hannibal]] near Gerunium, fell into his trap and was saved only by Fabius coming to his aid. He marched his men to Fabius's camp, called him \"father\", and gave up his equal command."
+  },
+  {
    "id": "cannae",
    "y": 216,
    "m": 7,
@@ -2770,6 +2838,114 @@
    "en": "After Cannae Capua, the second city of Italy, opened its gates to [[p:ハンニバル|Hannibal]], and the Bruttii in the south and part of Samnium left Rome."
   },
   {
+   "id": "nola",
+   "y": 216,
+   "m": 10,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "do": [
+    [
+     "battle",
+     "nola"
+    ],
+    [
+     "add",
+     "rome",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "nola",
+   "imp": 2,
+   "ja": "カンナエの後、[[p:ハンニバル]]はノラを取ろうとしたが、法務官マルケルスは城門から一斉に打って出て、これを退けた。カンナエ以来、ハンニバルが初めて退いた戦いであった。",
+   "en": "After Cannae [[p:ハンニバル|Hannibal]] tried for Nola, but the praetor Marcellus sallied from all the gates at once and drove him off — the first time since Cannae that Hannibal had been made to give way."
+  },
+  {
+   "id": "gold_rings",
+   "y": 216,
+   "m": 12,
+   "need": [
+    "carthage"
+   ],
+   "at": "carthago",
+   "imp": 1,
+   "ja": "カルタゴの評議会に勝利を報告したマゴは、カンナエで倒れたローマの騎士たちの指から取った金の指輪を、床に山と注いでみせた。[[p:大ハンノ]]はそれでも「ローマは一人も和を求めて来ていない」と援軍に反対した。",
+   "en": "Reporting the victory to the council of Carthage, Mago poured on the floor a heap of gold rings taken from the fingers of the Roman knights who fell at Cannae. [[p:大ハンノ|Hanno the Great]] still spoke against reinforcements: \"Not one Roman has come to ask for peace.\""
+  },
+  {
+   "id": "litana",
+   "y": 216,
+   "m": 12,
+   "need": [
+    "boii",
+    "rome"
+   ],
+   "do": [
+    [
+     "add",
+     "rome",
+     "stability",
+     -0.05
+    ],
+    [
+     "add",
+     "boii",
+     "prestige",
+     10
+    ]
+   ],
+   "at": "bononia",
+   "imp": 2,
+   "ja": "リタナの森の戦い。ガリアへ向かった執政官予定者ポストゥミウスの軍は、ボイイ族があらかじめ切れ込みを入れておいた森の木を倒されて押しつぶされ、全滅した。ボイイ族はポストゥミウスの頭蓋骨に金を張り、祭りの杯とした。",
+   "en": "The Litana forest. The army of Postumius, consul-elect, marching into Gaul, was crushed when the Boii pushed over the trees they had cut nearly through beforehand, and was destroyed. The Boii covered Postumius's skull in gold and used it as a cup for their rites."
+  },
+  {
+   "id": "capua_winter",
+   "y": 215,
+   "m": 2,
+   "need": [
+    "carthage",
+    "capua_r"
+   ],
+   "at": "capua",
+   "imp": 1,
+   "ja": "{r_carthage}はカプアで冬を越した。後の世の人々は、カプアの豊かさと楽しみがカルタゴ兵の心身をゆるめた、「カプアは[[p:ハンニバル]]のカンナエとなった」と言った。",
+   "en": "{r_carthage} wintered in Capua. Later writers said its riches and pleasures softened his soldiers: \"Capua was [[p:ハンニバル|Hannibal]]'s Cannae.\""
+  },
+  {
+   "id": "dertosa",
+   "y": 215,
+   "m": 5,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "do": [
+    [
+     "battle",
+     "dertosa"
+    ],
+    [
+     "add",
+     "rome",
+     "prestige",
+     8
+    ],
+    [
+     "add",
+     "carthage",
+     "prestige",
+     -5
+    ]
+   ],
+   "at": "saguntum",
+   "imp": 2,
+   "ja": "デルトサの戦い。エブロ川のほとりで、スキピオ兄弟はイタリアへ向かおうとするハスドルバルを破った。ハスドルバルの兄への援軍は、八年後まで果たせなかった。",
+   "en": "The battle of Dertosa. By the Ebro the Scipio brothers beat Hasdrubal as he set out for Italy; he would not bring his brother help for another eight years."
+  },
+  {
    "id": "hiero_dies",
    "y": 215,
    "m": 6,
@@ -2818,6 +2994,19 @@
    "en": "[[p:フィリッポス5世|Philip V]] of Macedon made an alliance with [[p:ハンニバル|Hannibal]], and Rome had a front across the Adriatic too (the First Macedonian War)."
   },
   {
+   "id": "sardinia",
+   "y": 215,
+   "m": 9,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "at": "carales",
+   "imp": 1,
+   "ja": "サルディニアではハンプシコラがローマに背き、カルタゴはハスドルバル (禿頭) を送った。法務官マンリウス・トルクァトゥスはカラレスの近くでこれを破り、ハスドルバルは捕らえられ、息子を失ったハンプシコラは自害した。",
+   "en": "In Sardinia Hampsicora rose against Rome and Carthage sent Hasdrubal the Bald. The praetor Manlius Torquatus beat them near Carales; Hasdrubal was taken, and Hampsicora, his son dead, killed himself."
+  },
+  {
    "id": "syracuse_turns",
    "y": 214,
    "m": 7,
@@ -2845,6 +3034,26 @@
    "at": "syracusae",
    "ja": "[[p:ヒエロニュモス]]が暗殺されると、シュラクサイでは[[p:ヒッポクラテス]]と[[p:エピキュデス]]が実権を握り、カルタゴについた。ローマはマルケッルスを送って町を囲んだ。",
    "en": "When [[p:ヒエロニュモス|Hieronymus]] was assassinated, Hippocrates and [[p:エピキュデス|Epicydes]] took power in Syracuse and went over to Carthage. Rome sent Marcellus to besiege the city."
+  },
+  {
+   "id": "volones",
+   "y": 214,
+   "m": 7,
+   "need": [
+    "rome"
+   ],
+   "do": [
+    [
+     "add",
+     "rome",
+     "stability",
+     0.05
+    ]
+   ],
+   "at": "beneventum",
+   "imp": 1,
+   "ja": "グラックスは、志願して兵となった奴隷たち (ウォロネス) に「敵の首を取った者は自由にする」と約し、ベネウェントゥムでハンノを破った。グラックスは全員を自由にし、ベネウェントゥムの人々は道で彼らをもてなした。",
+   "en": "Gracchus promised the slaves who had volunteered as soldiers that whoever brought back an enemy head would be free, and beat Hanno at Beneventum. He freed them all, and the people of Beneventum feasted them in the streets."
   },
   {
    "id": "agrigentum_punic",
@@ -2941,6 +3150,33 @@
    "en": "The young men of Tarentum opened a gate at night and [[p:ハンニバル|Hannibal]] entered the city; the Roman garrison held out in the citadel."
   },
   {
+   "id": "herdonia",
+   "y": 212,
+   "m": 9,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "do": [
+    [
+     "add",
+     "rome",
+     "prestige",
+     -5
+    ],
+    [
+     "add",
+     "carthage",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "arpi",
+   "imp": 1,
+   "ja": "ヘルドニアの戦い。アプリアで規律のゆるんだ法務官[[p:グナエウス・フルウィウス]]の軍を{r_carthage}が囲み、ほとんど全滅させた。",
+   "en": "The battle of Herdonia. In Apulia {r_carthage} surrounded the slack army of the praetor Gnaeus Fulvius and all but destroyed it."
+  },
+  {
    "id": "syracuse_falls",
    "y": 212,
    "m": 10,
@@ -2997,10 +3233,19 @@
    ],
    "do": [
     [
+     "battle",
+     "upper_baetis"
+    ],
+    [
      "add",
      "rome",
      "prestige",
      -10
+    ],
+    [
+     "dies",
+     "グナエウス・スキピオ",
+     "battle_wound"
     ]
    ],
    "imp": 3,
@@ -3142,6 +3387,10 @@
    ],
    "do": [
     [
+     "battle",
+     "baecula"
+    ],
+    [
      "add",
      "rome",
      "prestige",
@@ -3247,6 +3496,18 @@
    "en": "The battle of Ilipa. Scipio switched his battle order, caught the Carthaginians off guard and destroyed their army in Iberia; Iberia was Rome's."
   },
   {
+   "id": "syphax_feast",
+   "y": 206,
+   "m": 7,
+   "need": [
+    "masaesyli"
+   ],
+   "at": "siga",
+   "imp": 1,
+   "ja": "スキピオと[[p:ハスドルバル・ギスコ]]は、同じ日にマサエシュリ王{r_masaesyli}の宮廷に着いた。王の求めで二人は一つの寝椅子で食事をともにした。ハスドルバルは「スキピオは戦場より、会って話すときのほうが恐ろしい」と言ったという。",
+   "en": "Scipio and [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]] reached the court of {r_masaesyli}, king of the Masaesyli, on the same day, and at the king's wish dined on one couch. Hasdrubal said, it is told, that Scipio was more to be feared in conversation than in battle."
+  },
+  {
    "id": "masinissa",
    "y": 206,
    "m": 9,
@@ -3331,6 +3592,18 @@
    "en": "Scipio, in Sicily, took Locri back with the help of captured Locrian craftsmen. The legate Pleminius, left in charge, plundered its temple, and the Locrians took their complaint to the Senate in Rome."
   },
   {
+   "id": "mago_genua",
+   "y": 205,
+   "m": 6,
+   "need": [
+    "carthage"
+   ],
+   "at": "genua",
+   "imp": 2,
+   "ja": "[[p:マゴ・バルカ]]は艦隊でリグリアのゲヌアに上陸し、ガリア人とリグリア人を味方に集めて北イタリアでローマを脅かした。",
+   "en": "[[p:マゴ・バルカ|Mago Barca]] landed with a fleet at Genua in Liguria and gathered Gauls and Ligurians to threaten Rome in northern Italy."
+  },
+  {
    "id": "phoenice",
    "y": 205,
    "m": 9,
@@ -3349,6 +3622,26 @@
    "at": "phoenice",
    "ja": "フォイニケの和約。ローマとマケドニアは和を結び、第一次マケドニア戦争は終わった。",
    "en": "The peace of Phoenice ended the First Macedonian War between Rome and Macedon."
+  },
+  {
+   "id": "magna_mater",
+   "y": 204,
+   "m": 4,
+   "need": [
+    "rome"
+   ],
+   "do": [
+    [
+     "add",
+     "rome",
+     "stability",
+     0.05
+    ]
+   ],
+   "at": "ostia",
+   "imp": 1,
+   "ja": "予言の書に従って、大地母神の黒い石がフリュギアのペッシヌスからローマに迎えられた。「最も優れた人物」に選ばれた若いスキピオ・ナシカがオスティアで受け取った。",
+   "en": "As the prophetic books bade, the black stone of the Great Mother was brought to Rome from Pessinus in Phrygia. Young Scipio Nasica, chosen as the best man of Rome, received it at Ostia."
   },
   {
    "id": "scipio_africa",
@@ -3410,6 +3703,10 @@
    ],
    "do": [
     [
+     "battle",
+     "great_plains"
+    ],
+    [
      "army",
      "carthage",
      0.6
@@ -3424,12 +3721,36 @@
      "rome",
      "prestige",
      15
+    ],
+    [
+     "dies",
+     "ソフォニスバ",
+     "suicide"
     ]
    ],
    "imp": 3,
    "at": "great_plains",
    "ja": "スキピオはカルタゴと[[p:シュファクス]]の陣に夜襲をかけて焼き、続いて大平原の戦いで破った。シュファクスは捕らえられ、[[p:マシニッサ]]がヌミディアの王となった。[[p:ソフォニスバ]]はローマに引き渡されるより毒をあおることを選んだ。",
    "en": "Scipio burned the camps of Carthage and [[p:シュファクス|Syphax]] in a night attack, then beat them on the Great Plains. Syphax was captured and [[p:マシニッサ|Masinissa]] became king of Numidia. [[p:ソフォニスバ|Sophonisba]] chose poison over being handed to Rome."
+  },
+  {
+   "id": "mago_dies",
+   "y": 203,
+   "m": 9,
+   "need": [
+    "carthage"
+   ],
+   "do": [
+    [
+     "dies",
+     "マゴ・バルカ",
+     "battle_wound"
+    ]
+   ],
+   "at": "mediolanum",
+   "imp": 2,
+   "ja": "インスブレス族の地でローマ軍と戦って腿に深手を負った[[p:マゴ・バルカ]]は、カルタゴに呼び戻される途中、サルディニアの沖で傷がもとで死んだ。",
+   "en": "[[p:マゴ・バルカ|Mago Barca]], badly wounded in the thigh fighting the Romans in the land of the Insubres, was recalled to Carthage and died of the wound at sea off Sardinia."
   },
   {
    "id": "recall",
@@ -3597,6 +3918,7 @@
     "numidian",
     "war_elephants"
    ],
+   "site": "trebia",
    "units": [
     "numidian",
     "war_elephants",
@@ -3657,6 +3979,7 @@
    "read": [
     "cunctator"
    ],
+   "site": "trasimene",
    "units": [
     "numidian"
    ]
@@ -3720,6 +4043,7 @@
    "read": [
     "double_envelopment"
    ],
+   "site": "cannae",
    "units": [
     "numidian",
     "legion",
@@ -3769,6 +4093,7 @@
     "ja": "[[p:ハンニバル]]は援軍の望みを絶たれ、イタリアの南の端ブルッティウムに籠もった。",
     "en": "With no hope of help, [[p:ハンニバル|Hannibal]] withdrew to Bruttium in the toe of Italy."
    },
+   "site": "metaurus",
    "units": [
     "war_elephants",
     "legion"
@@ -3818,6 +4143,7 @@
     "ja": "カルタゴはイベリア半島を失った。スキピオはローマへ戻って執政官となり、アフリカへ渡る。",
     "en": "Carthage lost Iberia. Scipio went home, was elected consul and crossed to Africa."
    },
+   "site": "ilipa",
    "units": [
     "legion",
     "war_elephants"
@@ -3879,13 +4205,416 @@
     "war_elephants",
     "numidian"
    ],
+   "site": "zama",
    "units": [
     "war_elephants",
     "numidian",
     "legion"
    ]
+  },
+  "ticinus": {
+   "name": {
+    "ja": "ティキヌス川の戦い",
+    "en": "the battle of the Ticinus"
+   },
+   "at": "placentia",
+   "sides": [
+    {
+     "realm": "carthage",
+     "generals": [
+      "ハンニバル",
+      "マハルバル"
+     ],
+     "troops": 6000
+    },
+    {
+     "realm": "rome",
+     "generals": [
+      "プブリウス・スキピオ"
+     ],
+     "troops": 4000
+    }
+   ],
+   "losses": [
+    200,
+    1000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "アルプスを越えた[[p:ハンニバル]]を止めようと、執政官[[p:プブリウス・スキピオ]]は騎兵と軽装兵を率いてティキヌス川を渡り、自ら様子を探りに出た。ハンニバルも騎兵を率いて出てきた。",
+    "en": "To stop [[p:ハンニバル|Hannibal]], now over the Alps, the consul Publius Scipio crossed the Ticinus with his cavalry and light troops to scout in person. Hannibal came out with his horse too."
+   },
+   "plan": {
+    "ja": "ローマの軽装兵が最初の衝突で逃げ、騎兵同士が押し合ううちに、ヌミディア騎兵が両側から回り込んでローマ軍の背後を突いた。",
+    "en": "The Roman light troops fled at the first clash; while the horse struggled, the Numidian cavalry rode round both flanks and fell on the Roman rear."
+   },
+   "tales": [
+    {
+     "ja": "傷を負って囲まれた父を、十七歳の息子プブリウスが馬を駆って救い出したという。のちのスキピオ・アフリカヌスである。",
+     "en": "His seventeen-year-old son Publius rode in and saved his wounded, surrounded father, it is said — the later Scipio Africanus."
+    }
+   ],
+   "after": {
+    "ja": "スキピオはポー川の南へ退いた。ガリア人は次々と[[p:ハンニバル]]に付いた。",
+    "en": "Scipio fell back south of the Po, and the Gauls went over to [[p:ハンニバル|Hannibal]] one after another."
+   },
+   "site": "ticinus"
+  },
+  "cissa": {
+   "name": {
+    "ja": "キッサの戦い",
+    "en": "the battle of Cissa"
+   },
+   "at": "tarraco",
+   "sides": [
+    {
+     "realm": "rome",
+     "generals": [
+      "グナエウス・スキピオ"
+     ],
+     "troops": 25000
+    },
+    {
+     "realm": "carthage",
+     "generals": [
+      "インディビリス"
+     ],
+     "troops": 11000
+    }
+   ],
+   "losses": [
+    500,
+    6000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "エンポリアエに上陸した[[p:グナエウス・スキピオ]]に対し、エブロ川の北を任されていたカルタゴのハンノは、ハスドルバルの来援を待たずに戦いを挑んだ。イレルゲテス族の長[[p:インディビリス]]がハンノとともにいた。",
+    "en": "Against Gnaeus Scipio, landed at Emporiae, Hanno — left to hold the land north of the Ebro — gave battle without waiting for Hasdrubal. [[p:インディビリス|Indibilis]], chief of the Ilergetes, was with him."
+   },
+   "plan": {
+    "ja": "数に勝るローマ軍はカルタゴ軍を打ち破り、陣も奪った。",
+    "en": "The larger Roman army broke the Carthaginians and took their camp too."
+   },
+   "after": {
+    "ja": "ハンノと[[p:インディビリス]]は捕らえられ、陣にあった[[p:ハンニバル]]の軍の荷物はローマのものとなった。ローマはエブロ川の北に足場を築いた。",
+    "en": "Hanno and [[p:インディビリス|Indibilis]] were captured, and the baggage [[p:ハンニバル|Hannibal]]'s army had left in the camp fell to Rome. Rome had its foothold north of the Ebro."
+   },
+   "site": "cissa"
+  },
+  "nola": {
+   "name": {
+    "ja": "ノラの戦い",
+    "en": "the battle of Nola"
+   },
+   "at": "nola",
+   "sides": [
+    {
+     "realm": "rome",
+     "generals": [
+      "マルクス・クラウディウス・マルケッルス"
+     ],
+     "troops": 10000
+    },
+    {
+     "realm": "carthage",
+     "generals": [
+      "ハンニバル"
+     ],
+     "troops": 20000
+    }
+   ],
+   "losses": [
+    500,
+    2800
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "カンナエの後、[[p:ハンニバル]]はノラを取ろうと城の前に軍を並べた。町の民の中にはハンニバルに通じる者もいた。法務官マルケルスは門の内側に兵を三手に分けて待たせた。",
+    "en": "After Cannae [[p:ハンニバル|Hannibal]] drew up before Nola, where some of the townsfolk were in league with him. The praetor Marcellus waited inside with his men split three ways behind the gates."
+   },
+   "plan": {
+    "ja": "合図とともにローマ兵は三つの門から一斉に打って出て、不意を突かれたカルタゴ軍を退けた。",
+    "en": "At the signal the Romans burst out of three gates at once and drove back the surprised Carthaginians."
+   },
+   "after": {
+    "ja": "小さな勝ちだったが、カンナエ以来はじめて[[p:ハンニバル]]を退けた戦いとしてローマの人々を力づけた。マルケルスは「ローマの剣」と呼ばれる。",
+    "en": "A small victory, but the first time since Cannae that [[p:ハンニバル|Hannibal]] had been made to give way, and it heartened Rome. Marcellus came to be called the sword of Rome."
+   },
+   "site": "nola"
+  },
+  "dertosa": {
+   "name": {
+    "ja": "デルトサの戦い",
+    "en": "the battle of Dertosa"
+   },
+   "at": "saguntum",
+   "sides": [
+    {
+     "realm": "rome",
+     "generals": [
+      "グナエウス・スキピオ",
+      "プブリウス・スキピオ"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "carthage",
+     "generals": [
+      "ハスドルバル・バルカ"
+     ],
+     "troops": 29000
+    }
+   ],
+   "losses": [
+    1000,
+    15000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "兄のもとへ向かえとの命を受けたハスドルバルは、エブロ川を越えようとした。スキピオ兄弟はこれを止めるため、川のほとりのイベラの町の近くで陣を構えた。",
+    "en": "Ordered to join his brother, Hasdrubal set out to cross the Ebro. The Scipio brothers camped near the town of Ibera by the river to stop him."
+   },
+   "plan": {
+    "ja": "ハスドルバルは中央を弱いイベリア兵にしていたが、そこがローマ軍に破られて崩れ、両翼のアフリカ兵と騎兵も囲まれた。",
+    "en": "Hasdrubal had put his weaker Iberian troops in the centre; it broke under the Roman attack, and his African foot and cavalry on the wings were surrounded."
+   },
+   "after": {
+    "ja": "ハスドルバルのイタリア行きは阻まれ、イベリアの部族の多くがローマに付いた。カルタゴはイタリアに送るはずだった兵をイベリアに回した。",
+    "en": "Hasdrubal's march to Italy was stopped and many Iberian peoples went over to Rome. Carthage sent to Spain troops meant for Italy."
+   },
+   "site": "dertosa"
+  },
+  "upper_baetis": {
+   "name": {
+    "ja": "バエティス川上流の戦い",
+    "en": "the battles of the upper Baetis"
+   },
+   "at": "castulo",
+   "sides": [
+    {
+     "realm": "carthage",
+     "generals": [
+      "ハスドルバル・バルカ",
+      "マゴ・バルカ",
+      "ハスドルバル・ギスコ"
+     ],
+     "troops": 40000
+    },
+    {
+     "realm": "rome",
+     "generals": [
+      "グナエウス・スキピオ",
+      "プブリウス・スキピオ"
+     ],
+     "troops": 35000
+    }
+   ],
+   "losses": [
+    2000,
+    20000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "三人のカルタゴの将を一度に討とうと、スキピオ兄弟は軍を分けた。グナエウスは雇ったケルティベリ人の傭兵二万を頼みに[[p:ハスドルバル・バルカ]]に向かい、プブリウスはマゴと[[p:ハスドルバル・ギスコ]]に向かった。",
+    "en": "Hoping to beat all three Carthaginian generals at once, the Scipio brothers split their army. Gnaeus went against [[p:ハスドルバル・バルカ|Hasdrubal Barca]] counting on twenty thousand hired Celtiberians; Publius went against Mago and [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]]."
+   },
+   "plan": {
+    "ja": "ハスドルバルはひそかに金を渡してケルティベリ人を引き揚げさせた。プブリウスはヌミディア騎兵に悩まされたあげく囲まれて討たれ、ひと月足らずのうちに孤立したグナエウスも塔に追い詰められて討たれた。",
+    "en": "Hasdrubal quietly paid the Celtiberians to go home. Publius, harried by Numidian horse, was surrounded and killed; within the month Gnaeus, left alone, was cornered in a tower and killed too."
+   },
+   "after": {
+    "ja": "ローマはエブロ川の南の地をほとんど失った。騎士マルキウスが残兵をまとめ、エブロ川の線を守った。",
+    "en": "Rome lost nearly everything south of the Ebro. The knight Marcius gathered the survivors and held the line of the river."
+   },
+   "site": "upper_baetis"
+  },
+  "baecula": {
+   "name": {
+    "ja": "バエクラの戦い",
+    "en": "the battle of Baecula"
+   },
+   "at": "baecula",
+   "sides": [
+    {
+     "realm": "rome",
+     "generals": [
+      "プブリウス・スキピオ",
+      "ガイウス・ラエリウス"
+     ],
+     "troops": 35000
+    },
+    {
+     "realm": "carthage",
+     "generals": [
+      "ハスドルバル・バルカ"
+     ],
+     "troops": 25000
+    }
+   ],
+   "losses": [
+    1000,
+    8000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:ハスドルバル・バルカ]]は、バエクラの近くの、川を前にした高台の段に陣を敷いていた。",
+    "en": "[[p:ハスドルバル・バルカ|Hasdrubal Barca]] held a terraced height near Baecula with a river before it."
+   },
+   "plan": {
+    "ja": "スキピオは軽装兵で正面から登らせて敵を引きつけ、自らとラエリウスが本隊を左右に分けて回り込み、両側から高台に攻め上った。",
+    "en": "Scipio sent his light troops up the front to hold the enemy's eyes, while he and Laelius took the main army round both sides and stormed the height from the flanks."
+   },
+   "after": {
+    "ja": "ハスドルバルは負けを悟ると、金と象と軍の大半を連れて戦場を離れ、ピレネーを越えてイタリアの兄のもとへ向かった。翌年、メタウルス川で討たれる。",
+    "en": "Seeing the day lost, Hasdrubal left the field with his treasure, his elephants and most of his army, and crossed the Pyrenees for Italy and his brother. The next year he died on the Metaurus."
+   },
+   "site": "baecula"
+  },
+  "great_plains": {
+   "name": {
+    "ja": "大平原の戦い",
+    "en": "the battle of the Great Plains"
+   },
+   "at": "great_plains",
+   "sides": [
+    {
+     "realm": "rome",
+     "generals": [
+      "プブリウス・スキピオ",
+      "ガイウス・ラエリウス",
+      "マシニッサ"
+     ],
+     "troops": 20000
+    },
+    {
+     "realm": "carthage",
+     "generals": [
+      "ハスドルバル・ギスコ",
+      "シュファクス"
+     ],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    500,
+    10000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "冬のあいだ和の話し合いをしているように見せかけたスキピオは、葦と木でできた[[p:シュファクス]]と[[p:ハスドルバル・ギスコ]]の陣に夜襲をかけて焼き払った。二人は新しく兵を集め、バグラダス川のほとりの大平原に陣を構えた。",
+    "en": "Seeming to talk peace all winter, Scipio struck the camps of [[p:シュファクス|Syphax]] and [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]], built of reeds and timber, by night and burned them. The two raised new armies and drew up on the Great Plains by the Bagradas."
+   },
+   "plan": {
+    "ja": "ローマとヌミディアの騎兵が両翼を打ち破ると、中央に残ったケルティベリ人の傭兵は囲まれ、最後まで戦って倒れた。",
+    "en": "The Roman and Numidian cavalry broke both wings; the Celtiberian mercenaries left in the centre were surrounded and fought to the last man."
+   },
+   "after": {
+    "ja": "[[p:シュファクス]]は国へ逃げ帰ったが、ラエリウスと[[p:マシニッサ]]に追われて捕らえられた。カルタゴはイタリアの[[p:ハンニバル]]を呼び戻すことを決めた。",
+    "en": "[[p:シュファクス|Syphax]] fled home, was hunted down by Laelius and [[p:マシニッサ|Masinissa]] and taken. Carthage resolved to recall [[p:ハンニバル|Hannibal]] from Italy."
+   },
+   "site": "great_plains"
   }
  },
+ "sites": [
+  [
+   "trebia",
+   "トレビア川",
+   "the Trebia",
+   45,
+   9.6
+  ],
+  [
+   "trasimene",
+   "トラシメヌス湖",
+   "Lake Trasimene",
+   43.18,
+   12.08
+  ],
+  [
+   "cannae",
+   "カンナエ",
+   "Cannae",
+   41.3,
+   16.13
+  ],
+  [
+   "metaurus",
+   "メタウルス川",
+   "the Metaurus",
+   43.7,
+   12.9
+  ],
+  [
+   "ilipa",
+   "イリパ",
+   "Ilipa",
+   37.5,
+   -5.95
+  ],
+  [
+   "zama",
+   "ザマ",
+   "Zama",
+   36.3,
+   9.45
+  ],
+  [
+   "ticinus",
+   "ティキヌス川",
+   "the Ticinus",
+   45.2,
+   8.95
+  ],
+  [
+   "cissa",
+   "キッサ",
+   "Cissa",
+   41.15,
+   1.2
+  ],
+  [
+   "nola",
+   "ノラ",
+   "Nola",
+   40.93,
+   14.53
+  ],
+  [
+   "dertosa",
+   "デルトサ",
+   "Dertosa",
+   40.81,
+   0.52
+  ],
+  [
+   "upper_baetis",
+   "バエティス川上流",
+   "the upper Baetis",
+   38,
+   -3.6
+  ],
+  [
+   "baecula",
+   "バエクラ",
+   "Baecula",
+   38.1,
+   -3.75
+  ],
+  [
+   "great_plains",
+   "大平原",
+   "the Great Plains",
+   36.5,
+   9
+  ]
+ ],
  "wars": [
   {
    "name": {
@@ -3899,7 +4628,22 @@
    "terms": {
     "ja": "カルタゴは十隻を残して艦隊を引き渡し、アフリカの外の領土をすべて失い、五十年で一万タラントンを払い、ローマの許しなくアフリカの外で戦争をしないと誓った。[[p:マシニッサ]]がヌミディアの王と認められた。",
     "en": "Carthage handed over its fleet but ten ships, lost everything outside Africa, agreed to pay ten thousand talents over fifty years and swore to make no war outside Africa without Rome's leave. [[p:マシニッサ|Masinissa]] was recognised king of Numidia."
-   }
+   },
+   "battles": [
+    "cissa",
+    "ticinus",
+    "trebia",
+    "trasimene",
+    "cannae",
+    "nola",
+    "dertosa",
+    "upper_baetis",
+    "baecula",
+    "metaurus",
+    "ilipa",
+    "great_plains",
+    "zama"
+   ]
   },
   {
    "name": {
@@ -4515,6 +5259,127 @@
     "war_elephants",
     "numidian"
    ]
+  },
+  "battle_ticinus": {
+   "kind": "battle",
+   "title": {
+    "ja": "ティキヌス川の戦い",
+    "en": "the battle of the Ticinus"
+   },
+   "body": {
+    "ja": "アルプスを越えた[[p:ハンニバル]]を止めようと、執政官[[p:プブリウス・スキピオ]]は騎兵と軽装兵を率いてティキヌス川を渡り、自ら様子を探りに出た。ハンニバルも騎兵を率いて出てきた。\n\nローマの軽装兵が最初の衝突で逃げ、騎兵同士が押し合ううちに、ヌミディア騎兵が両側から回り込んでローマ軍の背後を突いた。\n\n傷を負って囲まれた父を、十七歳の息子プブリウスが馬を駆って救い出したという。のちのスキピオ・アフリカヌスである。\n\nスキピオはポー川の南へ退いた。ガリア人は次々とハンニバルに付いた。\n\n兵力 (目安): 6,000 対 4,000。損害: 200 対 1,000。",
+    "en": "To stop [[p:ハンニバル|Hannibal]], now over the Alps, the consul Publius Scipio crossed the Ticinus with his cavalry and light troops to scout in person. Hannibal came out with his horse too.\n\nThe Roman light troops fled at the first clash; while the horse struggled, the Numidian cavalry rode round both flanks and fell on the Roman rear.\n\nHis seventeen-year-old son Publius rode in and saved his wounded, surrounded father, it is said — the later Scipio Africanus.\n\nScipio fell back south of the Po, and the Gauls went over to Hannibal one after another.\n\nTroops (rough): 6,000 against 4,000. Losses: 200 against 1,000."
+   },
+   "people": [
+    "ハンニバル|Hannibal",
+    "マハルバル|Maharbal",
+    "プブリウス・スキピオ|Publius Cornelius Scipio"
+   ],
+   "related": []
+  },
+  "battle_cissa": {
+   "kind": "battle",
+   "title": {
+    "ja": "キッサの戦い",
+    "en": "the battle of Cissa"
+   },
+   "body": {
+    "ja": "エンポリアエに上陸した[[p:グナエウス・スキピオ]]に対し、エブロ川の北を任されていたカルタゴのハンノは、ハスドルバルの来援を待たずに戦いを挑んだ。イレルゲテス族の長[[p:インディビリス]]がハンノとともにいた。\n\n数に勝るローマ軍はカルタゴ軍を打ち破り、陣も奪った。\n\nハンノとインディビリスは捕らえられ、陣にあった[[p:ハンニバル]]の軍の荷物はローマのものとなった。ローマはエブロ川の北に足場を築いた。\n\n兵力 (目安): 25,000 対 11,000。損害: 500 対 6,000。",
+    "en": "Against Gnaeus Scipio, landed at Emporiae, Hanno — left to hold the land north of the Ebro — gave battle without waiting for Hasdrubal. [[p:インディビリス|Indibilis]], chief of the Ilergetes, was with him.\n\nThe larger Roman army broke the Carthaginians and took their camp too.\n\nHanno and Indibilis were captured, and the baggage [[p:ハンニバル|Hannibal]]'s army had left in the camp fell to Rome. Rome had its foothold north of the Ebro.\n\nTroops (rough): 25,000 against 11,000. Losses: 500 against 6,000."
+   },
+   "people": [
+    "グナエウス・スキピオ|Gnaeus Cornelius Scipio",
+    "インディビリス|Indibilis"
+   ],
+   "related": []
+  },
+  "battle_nola": {
+   "kind": "battle",
+   "title": {
+    "ja": "ノラの戦い",
+    "en": "the battle of Nola"
+   },
+   "body": {
+    "ja": "カンナエの後、[[p:ハンニバル]]はノラを取ろうと城の前に軍を並べた。町の民の中にはハンニバルに通じる者もいた。法務官マルケルスは門の内側に兵を三手に分けて待たせた。\n\n合図とともにローマ兵は三つの門から一斉に打って出て、不意を突かれたカルタゴ軍を退けた。\n\n小さな勝ちだったが、カンナエ以来はじめてハンニバルを退けた戦いとしてローマの人々を力づけた。マルケルスは「ローマの剣」と呼ばれる。\n\n兵力 (目安): 10,000 対 20,000。損害: 500 対 2,800。",
+    "en": "After Cannae [[p:ハンニバル|Hannibal]] drew up before Nola, where some of the townsfolk were in league with him. The praetor Marcellus waited inside with his men split three ways behind the gates.\n\nAt the signal the Romans burst out of three gates at once and drove back the surprised Carthaginians.\n\nA small victory, but the first time since Cannae that Hannibal had been made to give way, and it heartened Rome. Marcellus came to be called the sword of Rome.\n\nTroops (rough): 10,000 against 20,000. Losses: 500 against 2,800."
+   },
+   "people": [
+    "マルクス・クラウディウス・マルケッルス|Marcus Claudius Marcellus",
+    "ハンニバル|Hannibal"
+   ],
+   "related": []
+  },
+  "battle_dertosa": {
+   "kind": "battle",
+   "title": {
+    "ja": "デルトサの戦い",
+    "en": "the battle of Dertosa"
+   },
+   "body": {
+    "ja": "兄のもとへ向かえとの命を受けたハスドルバルは、エブロ川を越えようとした。スキピオ兄弟はこれを止めるため、川のほとりのイベラの町の近くで陣を構えた。\n\nハスドルバルは中央を弱いイベリア兵にしていたが、そこがローマ軍に破られて崩れ、両翼のアフリカ兵と騎兵も囲まれた。\n\nハスドルバルのイタリア行きは阻まれ、イベリアの部族の多くがローマに付いた。カルタゴはイタリアに送るはずだった兵をイベリアに回した。\n\n兵力 (目安): 30,000 対 29,000。損害: 1,000 対 15,000。",
+    "en": "Ordered to join his brother, Hasdrubal set out to cross the Ebro. The Scipio brothers camped near the town of Ibera by the river to stop him.\n\nHasdrubal had put his weaker Iberian troops in the centre; it broke under the Roman attack, and his African foot and cavalry on the wings were surrounded.\n\nHasdrubal's march to Italy was stopped and many Iberian peoples went over to Rome. Carthage sent to Spain troops meant for Italy.\n\nTroops (rough): 30,000 against 29,000. Losses: 1,000 against 15,000."
+   },
+   "people": [
+    "グナエウス・スキピオ|Gnaeus Cornelius Scipio",
+    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "ハスドルバル・バルカ|Hasdrubal Barca"
+   ],
+   "related": []
+  },
+  "battle_upper_baetis": {
+   "kind": "battle",
+   "title": {
+    "ja": "バエティス川上流の戦い",
+    "en": "the battles of the upper Baetis"
+   },
+   "body": {
+    "ja": "三人のカルタゴの将を一度に討とうと、スキピオ兄弟は軍を分けた。グナエウスは雇ったケルティベリ人の傭兵二万を頼みに[[p:ハスドルバル・バルカ]]に向かい、プブリウスはマゴと[[p:ハスドルバル・ギスコ]]に向かった。\n\nハスドルバルはひそかに金を渡してケルティベリ人を引き揚げさせた。プブリウスはヌミディア騎兵に悩まされたあげく囲まれて討たれ、ひと月足らずのうちに孤立したグナエウスも塔に追い詰められて討たれた。\n\nローマはエブロ川の南の地をほとんど失った。騎士マルキウスが残兵をまとめ、エブロ川の線を守った。\n\n兵力 (目安): 40,000 対 35,000。損害: 2,000 対 20,000。",
+    "en": "Hoping to beat all three Carthaginian generals at once, the Scipio brothers split their army. Gnaeus went against [[p:ハスドルバル・バルカ|Hasdrubal Barca]] counting on twenty thousand hired Celtiberians; Publius went against Mago and [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]].\n\nHasdrubal quietly paid the Celtiberians to go home. Publius, harried by Numidian horse, was surrounded and killed; within the month Gnaeus, left alone, was cornered in a tower and killed too.\n\nRome lost nearly everything south of the Ebro. The knight Marcius gathered the survivors and held the line of the river.\n\nTroops (rough): 40,000 against 35,000. Losses: 2,000 against 20,000."
+   },
+   "people": [
+    "ハスドルバル・バルカ|Hasdrubal Barca",
+    "マゴ・バルカ|Mago Barca",
+    "ハスドルバル・ギスコ|Hasdrubal Gisco",
+    "グナエウス・スキピオ|Gnaeus Cornelius Scipio",
+    "プブリウス・スキピオ|Publius Cornelius Scipio"
+   ],
+   "related": []
+  },
+  "battle_baecula": {
+   "kind": "battle",
+   "title": {
+    "ja": "バエクラの戦い",
+    "en": "the battle of Baecula"
+   },
+   "body": {
+    "ja": "[[p:ハスドルバル・バルカ]]は、バエクラの近くの、川を前にした高台の段に陣を敷いていた。\n\nスキピオは軽装兵で正面から登らせて敵を引きつけ、自らとラエリウスが本隊を左右に分けて回り込み、両側から高台に攻め上った。\n\nハスドルバルは負けを悟ると、金と象と軍の大半を連れて戦場を離れ、ピレネーを越えてイタリアの兄のもとへ向かった。翌年、メタウルス川で討たれる。\n\n兵力 (目安): 35,000 対 25,000。損害: 1,000 対 8,000。",
+    "en": "[[p:ハスドルバル・バルカ|Hasdrubal Barca]] held a terraced height near Baecula with a river before it.\n\nScipio sent his light troops up the front to hold the enemy's eyes, while he and Laelius took the main army round both sides and stormed the height from the flanks.\n\nSeeing the day lost, Hasdrubal left the field with his treasure, his elephants and most of his army, and crossed the Pyrenees for Italy and his brother. The next year he died on the Metaurus.\n\nTroops (rough): 35,000 against 25,000. Losses: 1,000 against 8,000."
+   },
+   "people": [
+    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "ガイウス・ラエリウス|Gaius Laelius",
+    "ハスドルバル・バルカ|Hasdrubal Barca"
+   ],
+   "related": []
+  },
+  "battle_great_plains": {
+   "kind": "battle",
+   "title": {
+    "ja": "大平原の戦い",
+    "en": "the battle of the Great Plains"
+   },
+   "body": {
+    "ja": "冬のあいだ和の話し合いをしているように見せかけたスキピオは、葦と木でできた[[p:シュファクス]]と[[p:ハスドルバル・ギスコ]]の陣に夜襲をかけて焼き払った。二人は新しく兵を集め、バグラダス川のほとりの大平原に陣を構えた。\n\nローマとヌミディアの騎兵が両翼を打ち破ると、中央に残ったケルティベリ人の傭兵は囲まれ、最後まで戦って倒れた。\n\nシュファクスは国へ逃げ帰ったが、ラエリウスと[[p:マシニッサ]]に追われて捕らえられた。カルタゴはイタリアの[[p:ハンニバル]]を呼び戻すことを決めた。\n\n兵力 (目安): 20,000 対 30,000。損害: 500 対 10,000。",
+    "en": "Seeming to talk peace all winter, Scipio struck the camps of [[p:シュファクス|Syphax]] and [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]], built of reeds and timber, by night and burned them. The two raised new armies and drew up on the Great Plains by the Bagradas.\n\nThe Roman and Numidian cavalry broke both wings; the Celtiberian mercenaries left in the centre were surrounded and fought to the last man.\n\nSyphax fled home, was hunted down by Laelius and [[p:マシニッサ|Masinissa]] and taken. Carthage resolved to recall [[p:ハンニバル|Hannibal]] from Italy.\n\nTroops (rough): 20,000 against 30,000. Losses: 500 against 10,000."
+   },
+   "people": [
+    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "ガイウス・ラエリウス|Gaius Laelius",
+    "マシニッサ|Masinissa",
+    "ハスドルバル・ギスコ|Hasdrubal Gisco",
+    "シュファクス|Syphax"
+   ],
+   "related": []
   },
   "cunctator": {
    "kind": "saying",
