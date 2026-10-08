@@ -2513,6 +2513,29 @@
    "en": "[[a:alps|The crossing of the Alps]]. Through snow, cliffs and the attacks of the mountain peoples, [[p:ハンニバル|Hannibal]] crossed in fifteen days; when he came down into Italy, twenty thousand foot and six thousand horse were left. A rock that blocked the way, the story goes, was heated with fire and split with vinegar."
   },
   {
+   "id": "scipio_tarraco",
+   "y": 218,
+   "m": 10,
+   "need": [
+    "rome"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "rome",
+     [
+      "emporiae",
+      "tarraco"
+     ]
+    ]
+   ],
+   "at": "tarraco",
+   "imp": 2,
+   "ja": "{n_rome}の執政官の兄[[p:グナエウス・スキピオ]]は艦隊でエンポリアエに上陸し、海沿いの人々を味方につけた。キッサでカルタゴのハンノを破って捕らえ、タラコを拠点とした。",
+   "en": "Gnaeus Scipio, brother of the consul, landed at Emporiae with a fleet for {n_rome} and won over the peoples of the coast. At Cissa he beat and captured the Carthaginian Hanno, and made Tarraco his base."
+  },
+  {
    "id": "gauls_rise",
    "y": 218,
    "m": 11,
@@ -2723,6 +2746,22 @@
      "ally",
      "carthage",
      "bruttii"
+    ],
+    [
+     "cede",
+     "*",
+     "rome",
+     [
+      "nola"
+     ]
+    ],
+    [
+     "cede",
+     "rome",
+     "carthage",
+     [
+      "arpi"
+     ]
     ]
    ],
    "imp": 3,
@@ -2808,6 +2847,29 @@
    "en": "When [[p:ヒエロニュモス|Hieronymus]] was assassinated, Hippocrates and [[p:エピキュデス|Epicydes]] took power in Syracuse and went over to Carthage. Rome sent Marcellus to besiege the city."
   },
   {
+   "id": "agrigentum_punic",
+   "y": 213,
+   "m": 5,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "do": [
+    [
+     "cede",
+     "rome",
+     "carthage",
+     [
+      "agrigentum"
+     ]
+    ]
+   ],
+   "at": "agrigentum",
+   "imp": 2,
+   "ja": "{n_carthage}のヒミルコは二万五千の兵でシチリアに上陸し、アグリゲントゥムを取った。シュラクサイを囲むローマ軍を背後から脅かすためである。",
+   "en": "Himilco of {n_carthage} landed in Sicily with twenty-five thousand men and took Agrigentum, to threaten the Romans besieging Syracuse from behind."
+  },
+  {
    "id": "archimedes",
    "y": 213,
    "m": 6,
@@ -2826,6 +2888,29 @@
    "at": "syracusae",
    "ja": "[[p:アルキメデス]]の工夫した[[a:archimedes_machines|投石機]]と、船を吊り上げてひっくり返す鉤爪の起重機が、海と陸からのローマ軍の攻撃を退けた。マルケッルスは包囲に切り替えた。",
    "en": "[[p:アルキメデス|Archimedes]]' [[a:archimedes_machines|catapults]] and the iron claw that lifted ships and overturned them beat off Rome's attacks by sea and land; Marcellus settled into a siege."
+  },
+  {
+   "id": "arpi_retaken",
+   "y": 213,
+   "m": 6,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "do": [
+    [
+     "cede",
+     "carthage",
+     "rome",
+     [
+      "arpi"
+     ]
+    ]
+   ],
+   "at": "arpi",
+   "imp": 1,
+   "ja": "執政官ファビウス (大ファビウスの子) は、雨の夜に城壁を越えてアルピを取り戻した。アルピの人々は、[[p:ハンニバル]]の守備兵を見捨ててローマに付いた。",
+   "en": "The consul Fabius, son of the great Fabius, got over the walls of Arpi on a night of rain and took it back; its people abandoned [[p:ハンニバル|Hannibal]]'s garrison and went over to Rome."
   },
   {
    "id": "tarentum_falls",
@@ -2967,6 +3052,29 @@
    "at": "tarraco",
    "ja": "父と伯父を失ったイベリアに、二十五歳の[[p:プブリウス・コルネリウス・スキピオ]]が総司令官として送られた。",
    "en": "[[p:プブリウス・スキピオ|Publius Cornelius Scipio]], twenty-five, was sent as commander to the Iberia where his father and uncle had fallen."
+  },
+  {
+   "id": "agrigentum_falls",
+   "y": 210,
+   "m": 10,
+   "need": [
+    "rome",
+    "carthage"
+   ],
+   "do": [
+    [
+     "cede",
+     "carthage",
+     "rome",
+     [
+      "agrigentum"
+     ]
+    ]
+   ],
+   "at": "agrigentum",
+   "imp": 2,
+   "ja": "執政官ラエウィヌスは、カルタゴ方の騎兵隊長ムッティネスの手引きでアグリゲントゥムに入った。町の主だった者たちは斬られ、民は売られた。シチリアはすべてローマのものとなった。",
+   "en": "The consul Laevinus got into Agrigentum when Muttines, captain of the Carthaginian horse, opened the way. Its leading men were beheaded and its people sold; all Sicily was Rome's."
   },
   {
    "id": "new_carthage",
@@ -3200,6 +3308,29 @@
    "en": "[[p:ハスドルバル・ギスコ|Hasdrubal Gisco]] of Carthage gave his daughter [[p:ソフォニスバ|Sophonisba]] to [[p:シュファクス|Syphax]], king of the Masaesyli, and won him to the Carthaginian side."
   },
   {
+   "id": "locri_retaken",
+   "y": 205,
+   "m": 4,
+   "need": [
+    "rome",
+    "bruttii"
+   ],
+   "do": [
+    [
+     "cede",
+     "bruttii",
+     "rome",
+     [
+      "locri"
+     ]
+    ]
+   ],
+   "at": "locri",
+   "imp": 1,
+   "ja": "シチリアにいたスキピオは、捕虜となったロクリの職人たちの手引きで、ロクリを取り戻した。守りを任された副官プレミニウスは町の神殿を荒らし、ロクリの人々はローマの元老院に訴え出た。",
+   "en": "Scipio, in Sicily, took Locri back with the help of captured Locrian craftsmen. The legate Pleminius, left in charge, plundered its temple, and the Locrians took their complaint to the Senate in Rome."
+  },
+  {
    "id": "phoenice",
    "y": 205,
    "m": 9,
@@ -3239,6 +3370,34 @@
    "at": "utica",
    "ja": "スキピオは元老院の反対を押し切ってシチリアからアフリカへ渡り、ウティカを囲んだ。",
    "en": "Overriding the doubts of the senate, Scipio crossed from Sicily to Africa and laid siege to Utica."
+  },
+  {
+   "id": "consentia_back",
+   "y": 204,
+   "m": 9,
+   "need": [
+    "rome",
+    "bruttii"
+   ],
+   "do": [
+    [
+     "cede",
+     "bruttii",
+     "rome",
+     [
+      "consentia"
+     ]
+    ],
+    [
+     "capital",
+     "bruttii",
+     "croton"
+    ]
+   ],
+   "at": "consentia",
+   "imp": 1,
+   "ja": "コンセンティアなどブルッティイの町々がローマに降った。[[p:ハンニバル]]はブルッティイの南の端に追い込まれ、クロトンを拠点とした。",
+   "en": "Consentia and other towns of the Bruttii went over to Rome. [[p:ハンニバル|Hannibal]] was pressed into the southern tip of Bruttium and made Croton his base."
   },
   {
    "id": "great_plains",
