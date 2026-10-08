@@ -4276,11 +4276,44 @@
      "cao",
      "prestige",
      10
+    ],
+    [
+     "capital",
+     "cao",
+     "puyang"
     ]
    ],
    "at": "puyang",
    "ja": "{r_cao}は兗州に入った青州の黄巾三十万を降し、その精鋭を「[[a:qingzhou|青州兵]]」とした。",
    "en": "{r_cao} brought to submission three hundred thousand Yellow Turbans of Qing who had come into Yan, and made the best of them his \"[[a:qingzhou|Qingzhou army]]\"."
+  },
+  {
+   "id": "yuanshu_shouchun",
+   "y": 193,
+   "m": 3,
+   "need": [
+    "yuanshu",
+    "liubiao"
+   ],
+   "do": [
+    [
+     "cede",
+     "yuanshu",
+     "liubiao",
+     [
+      "wan"
+     ]
+    ],
+    [
+     "capital",
+     "yuanshu",
+     "shouchun"
+    ]
+   ],
+   "at": "shouchun",
+   "imp": 2,
+   "ja": "{r_yuanshu}は兗州へ攻め入ったが匡亭で{r_cao}に大敗し、南陽を捨てて九江の寿春に移った。南陽は{n_liubiao}の手に帰した。",
+   "en": "{r_yuanshu} struck into Yan but was crushed by {r_cao} at Kuangting; he gave up Nanyang and moved to Shouchun in Jiujiang. Nanyang fell to {n_liubiao}."
   },
   {
    "id": "xu_war",
@@ -4607,6 +4640,29 @@
    "en": "Fallen on hard times, [[p:袁術|Yuan Shu]] asked for honey water and there was none. \"Has Yuan Shu come to this?\" he cried, and died vomiting blood."
   },
   {
+   "id": "zhangxiu_surrenders",
+   "y": 199,
+   "m": 11,
+   "need": [
+    "cao",
+    "liubiao"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "cao",
+     [
+      "wan"
+     ]
+    ]
+   ],
+   "at": "wan",
+   "imp": 1,
+   "ja": "宛の張繡は[[p:賈詡]]の勧めで{r_cao}に降った。かつて[[p:曹操]]の長子曹昂を討った仇であったが、曹操は手を取って迎え、息子に張繡の娘を娶らせた。",
+   "en": "Zhang Xiu of Wan, on [[p:賈詡|Jia Xu]]'s advice, went over to {r_cao}. He had killed Cao's eldest son Cao Ang; yet Cao took him by the hand, welcomed him, and married his son to Zhang Xiu's daughter."
+  },
+  {
    "id": "sunce_dies",
    "y": 200,
    "m": 5,
@@ -4899,6 +4955,11 @@
      [
       "jiangling"
      ]
+    ],
+    [
+     "capital",
+     "shu",
+     "jiangling"
     ]
    ],
    "at": "jiangling",
@@ -5177,6 +5238,29 @@
    "en": "The battle of Mount Dingjun. The old general [[p:黄忠|Huang Zhong]] killed [[p:夏侯淵|Xiahou Yuan]], and {r_shu} won Hanzhong. [[p:曹操|Cao Cao]] called it \"[[a:jilei|a chicken rib]]\" — not much meat, a pity to throw away — and withdrew."
   },
   {
+   "id": "shangyong_219",
+   "y": 219,
+   "m": 7,
+   "need": [
+    "shu",
+    "cao"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "shu",
+     [
+      "shangyong"
+     ]
+    ]
+   ],
+   "at": "shangyong",
+   "imp": 1,
+   "ja": "{r_shu}の養子劉封と[[p:孟達]]が上庸を攻め取り、太守の申耽は降った。",
+   "en": "Liu Feng, adopted son of {r_shu}, and [[p:孟達|Meng Da]] took Shangyong; its governor Shen Dan surrendered."
+  },
+  {
    "id": "hanzhong_king",
    "y": 219,
    "m": 8,
@@ -5267,6 +5351,29 @@
    "en": "[[p:曹操|Cao Cao]] died at Luoyang. He ordered that no gold or silver be laid in his tomb."
   },
   {
+   "id": "mengda_defects",
+   "y": 220,
+   "m": 7,
+   "need": [
+    "shu",
+    "cao"
+   ],
+   "do": [
+    [
+     "cede",
+     "shu",
+     "cao",
+     [
+      "shangyong"
+     ]
+    ]
+   ],
+   "at": "shangyong",
+   "imp": 2,
+   "ja": "[[p:関羽]]を救わなかったことを責められるのを恐れて、[[p:孟達]]は手勢を連れて魏に降り、上庸は再び魏のものとなった。劉封は成都に逃げ帰り、[[p:劉備]]に死を賜った。",
+   "en": "Fearing blame for not saving [[p:関羽|Guan Yu]], [[p:孟達|Meng Da]] went over to Wei with his men, and Shangyong was Wei's again. Liu Feng fled back to Chengdu, where [[p:劉備|Liu Bei]] ordered him to die."
+  },
+  {
    "id": "shanrang",
    "y": 220,
    "m": 12,
@@ -5290,12 +5397,36 @@
      "cao",
      "legitimacy",
      0.2
+    ],
+    [
+     "capital",
+     "cao",
+     "luoyang"
     ]
    ],
    "imp": 3,
    "at": "xu",
    "ja": "[[p:献帝]]は帝位を{r_cao}に譲った。四百年続いた漢は終わり、魏の世が始まった。",
    "en": "[[p:献帝|Emperor Xian]] yielded the throne to {r_cao}. The Han, four hundred years old, was at an end, and the age of Wei began."
+  },
+  {
+   "id": "wu_wuchang",
+   "y": 221,
+   "m": 4,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "capital",
+     "wu",
+     "wuchang"
+    ]
+   ],
+   "at": "wuchang",
+   "imp": 1,
+   "ja": "{r_wu}は都を公安から鄂に移し、武昌と名を改めた。荊州をうかがう[[p:劉備]]への備えである。",
+   "en": "{r_wu} moved his seat from Gong'an to E and renamed it Wuchang, to face [[p:劉備|Liu Bei]], who had his eyes on Jing."
   },
   {
    "id": "shu_emperor",
@@ -5459,6 +5590,30 @@
    "en": "Before marching north [[p:諸葛亮|Zhuge Liang]] presented his memorial on going to war, setting out for [[p:劉禅|Liu Shan]] the course of the realm."
   },
   {
+   "id": "tianshui_228",
+   "y": 228,
+   "m": 2,
+   "need": [
+    "shu",
+    "cao"
+   ],
+   "do": [
+    [
+     "cede",
+     "cao",
+     "shu",
+     [
+      "tianshui",
+      "anding"
+     ]
+    ]
+   ],
+   "at": "tianshui",
+   "imp": 2,
+   "ja": "[[p:諸葛亮]]が祁山に出ると、天水・南安・安定の三郡が魏に背いて蜀に応じた。関中は震え上がった。",
+   "en": "When [[p:諸葛亮|Zhuge Liang]] came out at Qishan, the three commanderies of Tianshui, Nan'an and Anding rose against Wei and went over to Shu. The land within the passes shook."
+  },
+  {
    "id": "jieting",
    "y": 228,
    "m": 6,
@@ -5471,6 +5626,15 @@
      "army",
      "shu",
      0.85
+    ],
+    [
+     "cede",
+     "shu",
+     "cao",
+     [
+      "tianshui",
+      "anding"
+     ]
     ]
    ],
    "imp": 3,
