@@ -507,7 +507,8 @@
        "foolish",
        "cruel"
       ],
-      "born": 230
+      "born": 230,
+      "end": "suicide"
      }
     ],
     [
@@ -526,7 +527,8 @@
       "tr": [
        "just"
       ],
-      "born": 230
+      "born": 230,
+      "end": "executed"
      }
     ]
    ],
@@ -668,7 +670,8 @@
        "ambitious",
        "charismatic"
       ],
-      "born": 240
+      "born": 240,
+      "end": "assassination"
      }
     ]
    ],
@@ -715,7 +718,8 @@
       "tr": [
        "ambitious"
       ],
-      "born": 250
+      "born": 250,
+      "end": "battle_wound"
      }
     ],
     [
@@ -736,7 +740,8 @@
        "warrior",
        "cruel"
       ],
-      "born": 232
+      "born": 232,
+      "end": "suicide"
      }
     ]
    ],
@@ -821,7 +826,8 @@
      208,
      {
       "rel": "other",
-      "born": 250
+      "born": 250,
+      "end": "assassination"
      }
     ],
     [
@@ -835,7 +841,8 @@
        "ja": "趙",
        "en": "Zhao"
       },
-      "born": 240
+      "born": 240,
+      "end": "executed"
      }
     ]
    ],
@@ -872,7 +879,8 @@
      206,
      {
       "rel": "other",
-      "born": 250
+      "born": 250,
+      "end": "assassination"
      }
     ],
     [
@@ -892,7 +900,8 @@
        5,
        5
       ],
-      "born": 245
+      "born": 245,
+      "end": "executed"
      }
     ]
    ],
@@ -936,7 +945,8 @@
        5,
        7
       ],
-      "born": 250
+      "born": 250,
+      "end": "battle_wound"
      }
     ],
     [
@@ -945,7 +955,8 @@
      208,
      206,
      {
-      "born": 225
+      "born": 225,
+      "end": "assassination"
      }
     ],
     [
@@ -964,7 +975,8 @@
       "tr": [
        "ambitious"
       ],
-      "born": 248
+      "born": 248,
+      "end": "assassination"
      }
     ],
     [
@@ -973,7 +985,8 @@
      205,
      203,
      {
-      "born": 225
+      "born": 225,
+      "end": "executed"
      }
     ]
    ],
@@ -1010,7 +1023,8 @@
      208,
      {
       "rel": "other",
-      "born": 250
+      "born": 250,
+      "end": "suicide"
      }
     ],
     [
@@ -1026,7 +1040,8 @@
        4,
        5
       ],
-      "born": 245
+      "born": 245,
+      "end": "executed"
      }
     ]
    ],
@@ -1061,7 +1076,8 @@
      206,
      {
       "rel": "other",
-      "born": 250
+      "born": 250,
+      "end": "executed"
      }
     ],
     [
@@ -1075,7 +1091,8 @@
        "ja": "鄭",
        "en": "Zheng"
       },
-      "born": 245
+      "born": 245,
+      "end": "deposed"
      }
     ],
     [
@@ -1141,7 +1158,8 @@
       "tr": [
        "brave"
       ],
-      "born": 250
+      "born": 250,
+      "end": "suicide"
      }
     ]
    ],
@@ -1176,7 +1194,8 @@
      204,
      {
       "rel": "other",
-      "born": 250
+      "born": 250,
+      "end": "suicide"
      }
     ]
    ],
@@ -1246,7 +1265,8 @@
      205,
      {
       "rel": "other",
-      "born": 250
+      "born": 250,
+      "end": "deposed"
      }
     ]
    ],
@@ -1281,7 +1301,8 @@
      205,
      {
       "rel": "other",
-      "born": 250
+      "born": 250,
+      "end": "battle_wound"
      }
     ]
    ],
@@ -1461,7 +1482,8 @@
      204,
      202,
      {
-      "born": 230
+      "born": 230,
+      "end": "executed"
      }
     ]
    ],
@@ -1490,7 +1512,9 @@
      "ambitious",
      "paranoid"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "assassination",
+    "dm": 10
    }
   ],
   [
@@ -1511,7 +1535,9 @@
     "tr": [
      "ambitious"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "executed",
+    "dm": 8
    }
   ],
   [
@@ -1549,7 +1575,9 @@
     "tr": [
      "brave"
     ],
-    "fame": 4
+    "fame": 4,
+    "end": "assassination",
+    "dm": 1
    }
   ],
   [
@@ -1558,7 +1586,7 @@
    "zhao",
    "general",
    250,
-   204,
+   205,
    {
     "from": 209,
     "ab": [
@@ -1569,7 +1597,9 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "end": "executed",
+    "dm": 11
    }
   ],
   [
@@ -1591,7 +1621,9 @@
      "just",
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "end": "suicide",
+    "dm": 10
    }
   ],
   [
@@ -1679,7 +1711,9 @@
     ],
     "tr": [
      "craven"
-    ]
+    ],
+    "end": "executed",
+    "dm": 1
    }
   ],
   [
@@ -1699,7 +1733,8 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "suicide"
    }
   ],
   [
@@ -1708,7 +1743,7 @@
    "chu",
    "general",
    250,
-   203,
+   204,
    {
     "from": 208,
     "ab": [
@@ -1719,7 +1754,9 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "battle_wound",
+    "dm": 12
    }
   ],
   [
@@ -1767,7 +1804,9 @@
     "tr": [
      "kind"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "suicide",
+    "dm": 1
    }
   ],
   [
@@ -1965,7 +2004,8 @@
      "genius",
      "ambitious"
     ],
-    "fame": 10
+    "fame": 10,
+    "end": "executed"
    }
   ],
   [
@@ -1974,7 +2014,7 @@
    "liu",
    "minister",
    268,
-   203,
+   204,
    {
     "from": 208,
     "ab": [
@@ -1986,7 +2026,9 @@
     "tr": [
      "drunkard"
     ],
-    "fame": 4
+    "fame": 4,
+    "end": "executed",
+    "dm": 11
    }
   ],
   [
@@ -2034,7 +2076,9 @@
      "brave",
      "just"
     ],
-    "fame": 4
+    "fame": 4,
+    "end": "executed",
+    "dm": 6
    }
   ],
   [
@@ -2061,7 +2105,8 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "executed"
    }
   ],
   [
@@ -2217,6 +2262,26 @@
    "en": "Modu, heir of the Xiongnu, trained his men to shoot wherever his [[a:mingdi|whistling arrow]] flew — and at last had them shoot his father, [[p:頭曼単于|Touman Chanyu]]. He became chanyu himself."
   },
   {
+   "id": "princes_purged",
+   "y": 209,
+   "m": 4,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.05
+    ]
+   ],
+   "at": "xianyang",
+   "imp": 1,
+   "ja": "{r_qin}は[[p:趙高]]の言に従って兄弟の公子十二人を咸陽の市で殺し、公主十人を杜で車裂きにした。群臣は罪を恐れ、諫める者はいなくなった。",
+   "en": "On [[p:趙高|Zhao Gao]]'s advice {r_qin} had twelve of his brothers put to death in the market of Xianyang and ten of his sisters torn apart by chariots at Du. The ministers feared for themselves, and no one spoke up any more."
+  },
+  {
    "id": "dazexiang",
    "y": 209,
    "m": 8,
@@ -2339,6 +2404,33 @@
    "en": "In Yan, [[p:韓広|Han Guang]] declared himself King of Yan; in Qi, [[p:田儋|Tian Dan]] of the old royal house killed the magistrate and declared himself King of Qi."
   },
   {
+   "id": "zhou_wen",
+   "y": 209,
+   "m": 11,
+   "need": [
+    "qin",
+    "zhangchu"
+   ],
+   "do": [
+    [
+     "add",
+     "qin",
+     "prestige",
+     5
+    ],
+    [
+     "add",
+     "zhangchu",
+     "prestige",
+     -5
+    ]
+   ],
+   "at": "hongmen",
+   "imp": 2,
+   "ja": "{n_zhangchu}の将の周文は数十万を率いて函谷関を破り、咸陽に近い戯まで迫った。少府の[[p:章邯]]は驪山の陵で働く囚人や奴隷を赦して兵とし、周文を打ち破った。",
+   "en": "Zhou Wen, a general of {n_zhangchu}, broke through the Hangu pass with hundreds of thousands and came as far as Xi, close to Xianyang. The treasurer [[p:章邯|Zhang Han]] freed the convicts and slaves at work on the Lishan tomb, made them an army and routed him."
+  },
+  {
    "id": "wei_rise",
    "y": 208,
    "m": 1,
@@ -2378,6 +2470,25 @@
    "at": "chen",
    "ja": "秦将[[p:章邯]]に敗れて逃げる[[p:陳勝]]は、御者の荘賈に殺された。蜂起からわずか半年であった。反乱の旗は楚の[[p:項梁]]へ移った。",
    "en": "Beaten by the Qin general [[p:章邯|Zhang Han]], [[p:陳勝|Chen Sheng]] was killed in flight by his own charioteer, barely half a year after the rising. The banner of revolt passed to [[p:項梁|Xiang Liang]] of Chu."
+  },
+  {
+   "id": "wu_guang",
+   "y": 208,
+   "m": 1,
+   "need": [
+    "zhangchu"
+   ],
+   "do": [
+    [
+     "dies",
+     "呉広",
+     "assassination"
+    ]
+   ],
+   "at": "xingyang",
+   "imp": 1,
+   "ja": "滎陽を囲んでいた[[p:呉広]]は、部将の田臧に「兵法を知らない」とされて殺された。田臧は[[p:陳勝]]に許しを得たが、まもなく[[p:章邯]]に敗れて死んだ。",
+   "en": "[[p:呉広|Wu Guang]], besieging Xingyang, was killed by his officer Tian Zang, who said he knew nothing of war. [[p:陳勝|Chen Sheng]] accepted it, but Tian Zang was soon beaten and killed by [[p:章邯|Zhang Han]]."
   },
   {
    "id": "zhao_xie",
@@ -2490,6 +2601,10 @@
    ],
    "do": [
     [
+     "battle",
+     "linji"
+    ],
+    [
      "rulerDies",
      "wei",
      "battle_wound",
@@ -2513,6 +2628,31 @@
    "en": "[[p:章邯|Zhang Han]] besieged Linji and killed [[p:田儋|Tian Dan]] of Qi, who had come to its aid; [[p:魏咎|Wei Jiu]] surrendered to save his people and threw himself into a fire."
   },
   {
+   "id": "li_si",
+   "y": 208,
+   "m": 8,
+   "need": [
+    "qin"
+   ],
+   "do": [
+    [
+     "dies",
+     "李斯",
+     "executed"
+    ],
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.05
+    ]
+   ],
+   "at": "xianyang",
+   "imp": 2,
+   "ja": "[[p:趙高]]に謀反の罪を着せられた丞相の[[p:李斯]]は、咸陽の市で腰斬にされた。刑場へ引かれる途中、李斯は息子に「お前とまた黄色い犬を連れて上蔡の東門を出て、兎を追いたかったが、もうかなわぬ」と言って泣いた。",
+   "en": "Falsely charged with treason by [[p:趙高|Zhao Gao]], the chancellor [[p:李斯|Li Si]] was cut in two in the market of Xianyang. On the way he said to his son, weeping: \"I wanted to go out once more with you and the brown dog by the east gate of Shangcai, hunting hares. It cannot be now.\""
+  },
+  {
    "id": "dingtao",
    "y": 208,
    "m": 10,
@@ -2521,6 +2661,10 @@
     "chu"
    ],
    "do": [
+    [
+     "battle",
+     "dingtao"
+    ],
     [
      "rulerDies",
      "chu",
@@ -2624,6 +2768,25 @@
    "at": "julu",
    "ja": "鉅鹿の戦い。[[p:項羽]]は渡河すると船を沈め、釜を壊し、三日分の食糧だけを持たせて退路を断ち ([[a:pofu|破釜沈舟]])、[[p:王離]]の秦軍を九度戦って破った。諸侯の将は膝で進んで項羽の陣に入り、顔を上げられなかったという。",
    "en": "The battle of Julu. Once across the river [[p:項羽|Xiang Yu]] [[a:pofu|sank the boats and broke the cooking pots]], leaving three days' food and no way back; he fought [[p:王離|Wang Li]]'s Qin army nine times and broke it. The other lords' generals came into his camp on their knees, it is said, and dared not look up."
+  },
+  {
+   "id": "song_yi",
+   "y": 207,
+   "m": 1,
+   "need": [
+    "chu"
+   ],
+   "do": [
+    [
+     "dies",
+     "宋義",
+     "executed"
+    ]
+   ],
+   "at": "julu",
+   "imp": 2,
+   "ja": "鉅鹿の救援に向かいながら安陽に四十六日もとどまって進まなかった上将軍の[[p:宋義]]を、[[p:項羽]]は朝の挨拶に入った帳の中で斬った。懐王はこれを追認し、項羽を上将軍とした。",
+   "en": "Sent to relieve Julu, the supreme general [[p:宋義|Song Yi]] sat forty-six days at Anyang without moving. [[p:項羽|Xiang Yu]] went into his tent at the morning audience and cut off his head; King Huai accepted it and made Xiang Yu supreme general."
   },
   {
    "id": "zhang_han_surrenders",
@@ -2735,6 +2898,18 @@
    "at": "xianyang",
    "ja": "武関から関中に入った{r_liu}に、秦王[[p:子嬰]]は首に紐をかけ、白馬の車で迎えて降った。[[p:劉邦]]は宝物に手をつけず、秦の苛法を廃して[[a:yuefa|「法三章」]]だけを約し、民の心をつかんだ。",
    "en": "{r_liu} came into the land within the passes by the Wu pass; [[p:子嬰|Ziying]], King of Qin, met him in a white-horse carriage with a cord round his neck and surrendered. [[p:劉邦|Liu Bang]] left the treasures alone, abolished the harsh Qin laws, and [[a:yuefa|promised just three]] — and won the people."
+  },
+  {
+   "id": "xin_an",
+   "y": 207,
+   "m": 12,
+   "need": [
+    "chu"
+   ],
+   "at": "luoyang",
+   "imp": 2,
+   "ja": "関中へ向かう途中、降った秦の兵たちが不穏だと聞いた{r_chu}は、新安の城の南で二十余万を夜のうちに穴埋めにした。のちに秦の人々は、[[p:章邯]]ら三人の降将を深く恨んだ。",
+   "en": "On the way to Guanzhong, told that the surrendered Qin soldiers were restless, {r_chu} had more than two hundred thousand of them buried alive by night south of Xin'an. The people of Qin never forgave [[p:章邯|Zhang Han]] and the two other generals who had surrendered them."
   },
   {
    "id": "hongmen",
@@ -3017,6 +3192,18 @@
    "en": "On his way into Hanzhong, [[p:劉邦|Liu Bang]] burned the plank roads behind him at [[p:張良|Zhang Liang]]'s advice, to show [[p:項羽|Xiang Yu]] he had no thought of coming back east."
   },
   {
+   "id": "han_xin_general",
+   "y": 206,
+   "m": 6,
+   "need": [
+    "liu"
+   ],
+   "at": "nanzheng",
+   "imp": 2,
+   "ja": "漢中で認められず逃げ出した[[p:韓信]]を、[[p:蕭何]]は夜を徹して追って連れ戻し、「天下を争うなら韓信のほかに計る者はいない」と{r_liu}に説いた。{r_liu}は壇を築き、韓信を大将に任じた。",
+   "en": "[[p:韓信|Han Xin]], unrecognised in Hanzhong, ran away; [[p:蕭何|Xiao He]] rode after him all night and brought him back. \"If you mean to contend for the realm, he is the only man to plan it with,\" he told {r_liu}, who built an altar and made Han Xin his great general."
+  },
+  {
    "id": "tian_rong",
    "y": 206,
    "m": 7,
@@ -3077,6 +3264,10 @@
       "ja": "楚漢戦争",
       "en": "the Chu-Han war"
      }
+    ],
+    [
+     "battle",
+     "chencang"
     ]
    ],
    "imp": 3,
@@ -3102,6 +3293,18 @@
    "at": "luoyang",
    "ja": "河南王[[p:申陽]]が漢に降った。",
    "en": "[[p:申陽|Shen Yang]], King of Henan, surrendered to Han."
+  },
+  {
+   "id": "yidi",
+   "y": 206,
+   "m": 11,
+   "need": [
+    "chu"
+   ],
+   "at": "changsha",
+   "imp": 2,
+   "ja": "{r_chu}は懐王を義帝と尊んで長沙の郴に移らせ、その途中、[[p:英布]]らに命じて江の中で殺させた。",
+   "en": "{r_chu}, who had honoured King Huai as the Righteous Emperor, sent him away to Chen in Changsha, and on the way had [[p:英布|Ying Bu]] and others kill him on the river."
   },
   {
    "id": "hank_xin",
@@ -3140,6 +3343,37 @@
    "en": "[[p:陳余|Chen Yu]], with troops borrowed from Qi, drove out [[p:張耳|Zhang Er]], King of Changshan, who fled to Han. The two who had once sworn friendship to the death were now enemies."
   },
   {
+   "id": "chengyang",
+   "y": 205,
+   "m": 2,
+   "need": [
+    "chu",
+    "qi"
+   ],
+   "do": [
+    [
+     "battle",
+     "chengyang"
+    ],
+    [
+     "rulerDies",
+     "qi",
+     "assassination",
+     "田栄"
+    ],
+    [
+     "add",
+     "chu",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "boyang",
+   "imp": 2,
+   "ja": "城陽の戦い。{r_chu}は城陽で{r_qi}を破った。平原に逃げた[[p:田栄]]は民に殺された。[[p:項羽]]は斉の城郭を焼き、降った兵を穴埋めにしたので、斉の人々はかえって集まって背き、田栄の弟の[[p:田横]]が田栄の子の[[p:田広]]を立てた。",
+   "en": "The battle of Chengyang. {r_chu} beat {r_qi} at Chengyang; [[p:田栄|Tian Rong]] fled to Pingyuan and was killed by its people. [[p:項羽|Xiang Yu]] burned the walls of Qi and buried the surrendered soldiers alive, so the people of Qi only gathered and rose against him, and Tian Rong's brother [[p:田横|Tian Heng]] set up Tian Rong's son [[p:田広|Tian Guang]]."
+  },
+  {
    "id": "yin_falls",
    "y": 205,
    "m": 4,
@@ -3157,6 +3391,26 @@
    "at": "zhaoge",
    "ja": "殷王[[p:司馬卬]]は漢に捕らえられた。洛陽で{r_liu}は義帝が[[p:項羽]]に殺されたことを天下に告げ、喪に服して諸侯に討伐を呼びかけた。",
    "en": "[[p:司馬卬|Sima Ang]], King of Yin, was taken by Han. At Luoyang {r_liu} announced that [[p:項羽|Xiang Yu]] had murdered the Righteous Emperor, put on mourning, and called the lords to war."
+  },
+  {
+   "id": "yidi_mourning",
+   "y": 205,
+   "m": 4,
+   "need": [
+    "liu"
+   ],
+   "do": [
+    [
+     "add",
+     "liu",
+     "legitimacy",
+     0.1
+    ]
+   ],
+   "at": "luoyang",
+   "imp": 2,
+   "ja": "洛陽の新城で三老の董公に義帝の死を告げられた{r_liu}は、袒いで声をあげて泣き、三日の喪を発した。諸侯に使いを送って「天下とともに義帝を殺した者を討とう」と呼びかけた。",
+   "en": "At Xincheng by Luoyang the elder Dong told {r_liu} of the Righteous Emperor's death. He bared his arm, wailed and mourned three days, then sent to the lords: let all the realm strike the man who killed the emperor."
   },
   {
    "id": "pengcheng",
@@ -3249,6 +3503,10 @@
     "wei"
    ],
    "do": [
+    [
+     "battle",
+     "anyi"
+    ],
     [
      "annex",
      "liu",
@@ -3347,6 +3605,11 @@
      "liu",
      "stability",
      0.05
+    ],
+    [
+     "dies",
+     "紀信",
+     "executed"
     ]
    ],
    "at": "xingyang",
@@ -3375,6 +3638,53 @@
    "imp": 2,
    "ja": "{n_chu}は滎陽を落とした。城を守っていた周苛は{r_chu}に降るよう勧められたが、罵って煮殺された。",
    "en": "{n_chu} took Xingyang. Zhou Ke, who had held it, was urged by {r_chu} to surrender; he cursed him instead and was boiled alive."
+  },
+  {
+   "id": "li_yiji",
+   "y": 204,
+   "m": 11,
+   "need": [
+    "qi",
+    "liu"
+   ],
+   "do": [
+    [
+     "dies",
+     "酈食其",
+     "executed"
+    ]
+   ],
+   "at": "linzi",
+   "imp": 2,
+   "ja": "[[p:酈食其]]の説得で斉王[[p:田広]]は漢と和を結び、守りを解いていた。そこへ[[p:韓信]]が攻め込んだため、欺かれたと怒った田広は酈食其を煮殺した。",
+   "en": "Talked round by [[p:酈食其|Li Yiji]], King [[p:田広|Tian Guang]] of Qi had made peace with Han and let down his guard. Then [[p:韓信|Han Xin]] attacked; Tian Guang, believing himself betrayed, had Li Yiji boiled alive."
+  },
+  {
+   "id": "sishui",
+   "y": 204,
+   "m": 11,
+   "need": [
+    "liu",
+    "chu"
+   ],
+   "do": [
+    [
+     "add",
+     "chu",
+     "prestige",
+     -10
+    ],
+    [
+     "add",
+     "liu",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "xingyang",
+   "imp": 2,
+   "ja": "成皋を守っていた楚の大司馬曹咎は、[[p:項羽]]に「守って戦うな」と言われていたが、漢の挑発に怒って汜水を渡り、渡りかけたところを撃たれて自ら首を刎ねた。漢は成皋を取り戻し、楚の財宝を得た。",
+   "en": "Cao Jiu, Chu's grand marshal at Chenggao, had been told by [[p:項羽|Xiang Yu]] to hold and not fight; goaded by Han, he lost his temper and crossed the Si river, was struck halfway over and cut his own throat. Han took back Chenggao and the treasure of Chu."
   },
   {
    "id": "weishui",
@@ -3423,6 +3733,19 @@
    "at": "linzi",
    "ja": "[[p:韓信]]は斉の仮の王になることを求めた。怒る[[p:劉邦]]の足を[[p:張良]]と[[p:陳平]]が踏み、劉邦は「大丈夫ならば仮ではなく真の王になれ」と言い直して韓信を斉王とした。[[p:蒯通]]は韓信に天下三分を説いたが、韓信は劉邦の恩を思って退けた。",
    "en": "[[p:韓信|Han Xin]] asked to be acting King of Qi. As [[p:劉邦|Liu Bang]] began to rage, [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]] trod on his foot, and he went on: \"A real man should be a real king, not an acting one,\" and made him King of Qi. [[p:蒯通|Kuai Tong]] urged Han Xin to divide the realm in three; remembering Liu Bang's kindness, Han Xin refused."
+  },
+  {
+   "id": "guangwu",
+   "y": 203,
+   "m": 4,
+   "need": [
+    "chu",
+    "liu"
+   ],
+   "at": "xingyang",
+   "imp": 2,
+   "ja": "広武の対陣。{r_chu}は捕らえていた[[p:劉邦]]の父を俎の上に載せ、「降らねば煮る」と脅した。{r_liu}は「われらはともに懐王に仕えて兄弟の約束をした。わが父はお前の父だ。煮るならわたしにも一杯分けてくれ」と答えた。[[p:項羽]]は一騎打ちを挑んだが劉邦は笑って退け、項羽の罪を十数えあげたところを弩で胸を射られた。劉邦は足をさすって「賊め、わしの足の指に当ておった」と言った。",
+   "en": "The standoff at Guangwu. {r_chu} set [[p:劉邦|Liu Bang]]'s captive father on a chopping block: surrender, or he would be boiled. {r_liu} answered: \"We swore brotherhood serving King Huai, so my father is your father. If you boil him, send me a cup of the soup.\" [[p:項羽|Xiang Yu]] challenged him to single combat; Liu laughed it off and was listing Xiang Yu's ten crimes when a crossbow bolt struck him in the chest. He rubbed his foot: \"The villain has hit my toe.\""
   },
   {
    "id": "huainan",
@@ -3481,6 +3804,31 @@
    "en": "The peace of Honggou. Short of food, Chu and Han divided the realm along the Hong canal, and [[p:項羽|Xiang Yu]] returned [[p:劉邦|Liu Bang]]'s father and wife."
   },
   {
+   "id": "guling",
+   "y": 203,
+   "m": 12,
+   "need": [
+    "liu",
+    "chu"
+   ],
+   "do": [
+    [
+     "battle",
+     "guling"
+    ],
+    [
+     "add",
+     "liu",
+     "prestige",
+     -5
+    ]
+   ],
+   "at": "chen",
+   "imp": 2,
+   "ja": "固陵の戦い。和約の後、[[p:張良]]と[[p:陳平]]の勧めで{r_liu}は東へ帰る楚軍を追ったが、固陵で反撃されて大敗した。約束した[[p:韓信]]と[[p:彭越]]が来なかったためで、張良の勧めで二人に広い領地を約すると、二人はすぐ兵を出した。",
+   "en": "The battle of Guling. After the treaty, on the advice of [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]], {r_liu} pursued the Chu army going home east, and was turned on and badly beaten at Guling: [[p:韓信|Han Xin]] and [[p:彭越|Peng Yue]] had not come as promised. On Zhang Liang's advice he promised them wide lands, and they marched at once."
+  },
+  {
    "id": "gaixia",
    "y": 202,
    "m": 1,
@@ -3513,6 +3861,18 @@
    "at": "gaixia",
    "ja": "垓下の戦い。和約を破って追撃した漢軍と[[p:韓信]]・[[p:彭越]]の軍に囲まれた[[p:項羽]]は、夜、四方の漢軍から楚の歌が聞こえるのを聞き ([[a:simian|四面楚歌]])、「力は山を抜き気は世を蓋う」と歌って[[p:虞美人]]と別れた。烏江のほとりで、渡しを勧める亭長に「[[a:jiangdong|江東]]の父兄に合わせる顔がない」と答え、自ら首を刎ねた。",
    "en": "Gaixia. Breaking the peace, the Han army, with [[p:韓信|Han Xin]] and [[p:彭越|Peng Yue]], surrounded [[p:項羽|Xiang Yu]]. At night he [[a:simian|heard Chu songs from every side]] of the Han camp, sang \"My strength could uproot mountains, my spirit overtopped the world,\" and parted from [[p:虞美人|Lady Yu]]. On the bank of the Wu river he refused the ferryman's boat — \"I cannot face the elders [[a:jiangdong|east of the river]]\" — and cut his own throat."
+  },
+  {
+   "id": "han_xin_chu",
+   "y": 202,
+   "m": 2,
+   "need": [
+    "liu"
+   ],
+   "at": "xiapi",
+   "imp": 1,
+   "ja": "{r_liu}は斉王の[[p:韓信]]を楚王に移して下邳を都とさせ、[[p:彭越]]を梁王とした。故郷に錦を飾った韓信は、若い頃に股をくぐらせた男を取り立てて中尉とした。",
+   "en": "{r_liu} moved [[p:韓信|Han Xin]] from King of Qi to King of Chu, with his seat at Xiapi, and made [[p:彭越|Peng Yue]] King of Liang. Home in glory, Han Xin gave an officer's post to the man who once made him crawl between his legs."
   },
   {
    "id": "emperor",
@@ -3585,6 +3945,18 @@
    "en": "[[p:劉邦|Liu Bang]] took the imperial throne north of the Si river at Dingtao — the first man to rise from the peasantry to emperor. [[p:呉芮|Wu Rui]] of Hengshan became King of Changsha, and [[p:英布|Ying Bu]] of Jiujiang King of Huainan."
   },
   {
+   "id": "three_heroes",
+   "y": 202,
+   "m": 5,
+   "need": [
+    "liu"
+   ],
+   "at": "luoyang",
+   "imp": 1,
+   "ja": "洛陽の南宮での酒宴で、{r_liu}は言った。「はかりごとを帳の中にめぐらし勝ちを千里の外に決するのは[[p:張良]]に、国を治め兵糧を絶やさぬのは[[p:蕭何]]に、百万の兵を率いて必ず勝つのは[[p:韓信]]に、わしは及ばぬ。だがこの三人を用いることができた。[[p:項羽]]には[[p:范増]]一人がいたが、それすら用いられなかった。」",
+   "en": "At a feast in the Southern Palace at Luoyang {r_liu} said: \"In laying plans in a tent that win battles a thousand li away I am no match for [[p:張良|Zhang Liang]]; in governing the land and keeping the army fed, none for [[p:蕭何|Xiao He]]; in leading a million men to sure victory, none for [[p:韓信|Han Xin]]. But I could use all three. [[p:項羽|Xiang Yu]] had one, [[p:范増|Fan Zeng]], and could not use him.\""
+  },
+  {
    "id": "linjiang_end",
    "y": 202,
    "m": 6,
@@ -3649,7 +4021,13 @@
    "need": [
     "liu"
    ],
-   "do": [],
+   "do": [
+    [
+     "dies",
+     "田横",
+     "suicide"
+    ]
+   ],
    "ja": "斉の[[p:田横]]は五百人の食客と海の島に逃れていたが、皇帝に召されて洛陽へ向かう途中、漢に仕えることを恥じて自ら命を絶った。島の五百人も後を追ったという。",
    "en": "[[p:田横|Tian Heng]] of Qi had fled to an island with five hundred followers. Summoned by the emperor, he killed himself on the road to Luoyang rather than serve Han; the five hundred on the island followed him in death, it is said."
   }
@@ -3708,6 +4086,7 @@
    "read": [
     "pofu"
    ],
+   "site": "julu",
    "units": [
     "jiangdong"
    ]
@@ -3767,6 +4146,7 @@
     "ja": "[[p:劉邦]]の父と妻[[p:呂雉]]は楚の捕虜となり、諸侯の多くは楚へ寝返った。劉邦は滎陽で長い持久戦に入る。",
     "en": "[[p:劉邦|Liu Bang]]'s father and his wife [[p:呂雉|Lü Zhi]] were taken by Chu, and most of the lords went over to [[p:項羽|Xiang Yu]]. Liu Bang dug in at Xingyang for a long war."
    },
+   "site": "pengcheng",
    "units": [
     "jiangdong"
    ]
@@ -3825,7 +4205,8 @@
    },
    "read": [
     "beishui"
-   ]
+   ],
+   "site": "jingxing"
   },
   "weishui": {
    "name": {
@@ -3874,7 +4255,8 @@
    "after": {
     "ja": "斉は[[p:韓信]]のものとなり、楚は東の守りを失った。[[p:項羽]]は和を求め、天下を鴻溝で二分する約が結ばれる。",
     "en": "Qi fell to [[p:韓信|Han Xin]] and Chu lost its eastern shield. [[p:項羽|Xiang Yu]] sought peace, and the realm was divided at the Hong canal."
-   }
+   },
+   "site": "weishui"
   },
   "gaixia": {
    "name": {
@@ -3941,12 +4323,350 @@
    "read": [
     "simian"
    ],
+   "site": "gaixia",
    "units": [
     "jiangdong",
     "loufan"
    ]
+  },
+  "linji": {
+   "name": {
+    "ja": "臨済の戦い",
+    "en": "the battle of Linji"
+   },
+   "at": "daliang",
+   "sides": [
+    {
+     "realm": "qin",
+     "generals": [
+      "章邯"
+     ],
+     "troops": 50000
+    },
+    {
+     "realm": "wei",
+     "generals": [
+      "魏咎"
+     ],
+     "troops": 20000
+    }
+   ],
+   "losses": [
+    2000,
+    10000
+   ],
+   "winner": 0,
+   "months": 2,
+   "deploy": {
+    "ja": "[[p:陳勝]]を破った[[p:章邯]]は魏の都の臨済を囲んだ。魏王の[[p:魏咎]]は斉と楚に救いを求め、斉王の[[p:田儋]]が自ら兵を率いて来た。",
+    "en": "Having crushed [[p:陳勝|Chen Sheng]], [[p:章邯|Zhang Han]] besieged Linji, the seat of Wei. King [[p:魏咎|Wei Jiu]] begged Qi and Chu for help, and King [[p:田儋|Tian Dan]] of Qi came with his army in person."
+   },
+   "plan": {
+    "ja": "[[p:章邯]]は兵に枚を銜ませて夜のうちに攻め寄せ、斉と魏の救援軍を城の下で大いに破った。[[p:田儋]]は討死した。",
+    "en": "[[p:章邯|Zhang Han]] had his men march gagged by night, fell on the Qi and Wei relief army beneath the walls and routed it. [[p:田儋|Tian Dan]] was killed."
+   },
+   "after": {
+    "ja": "[[p:魏咎]]は民の命と引き換えに降ることを約し、約束が結ばれると自ら火に入って死んだ。弟の[[p:魏豹]]は楚へ逃れた。",
+    "en": "[[p:魏咎|Wei Jiu]] agreed to surrender on condition that his people be spared; once it was sworn, he walked into the fire. His brother [[p:魏豹|Wei Bao]] fled to Chu."
+   },
+   "site": "linji"
+  },
+  "dingtao": {
+   "name": {
+    "ja": "定陶の戦い",
+    "en": "the battle of Dingtao"
+   },
+   "at": "dingtao",
+   "sides": [
+    {
+     "realm": "qin",
+     "generals": [
+      "章邯"
+     ],
+     "troops": 60000
+    },
+    {
+     "realm": "chu",
+     "generals": [
+      "項梁"
+     ],
+     "troops": 50000
+    }
+   ],
+   "losses": [
+    3000,
+    15000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "東阿と濮陽で[[p:章邯]]を破った[[p:項梁]]は、定陶でも秦軍を破り、秦を軽んじるようになった。[[p:宋義]]は「勝って将が驕り兵が怠けるのは負ける兆し」と諫めたが聞かれなかった。秦は章邯に大軍を送り足した。",
+    "en": "[[p:項梁|Xiang Liang]] had beaten [[p:章邯|Zhang Han]] at Dong'e and Puyang and again at Dingtao, and began to hold Qin cheap. \"When a winning general grows proud and his men slack, defeat is near,\" [[p:宋義|Song Yi]] warned, unheard. Qin sent Zhang Han large reinforcements."
+   },
+   "plan": {
+    "ja": "[[p:章邯]]は兵に枚を銜ませて夜襲をかけ、油断していた楚軍を大いに破った。",
+    "en": "[[p:章邯|Zhang Han]] attacked by night, his men gagged for silence, and broke the unwary Chu army."
+   },
+   "after": {
+    "ja": "[[p:項梁]]は戦死した。[[p:項羽]]と[[p:劉邦]]は兵を引いて彭城の近くに陣を移し、懐王は盱眙から彭城に移った。[[p:章邯]]は楚を恐れるに足らずとみて、北の趙へ向かった。",
+    "en": "[[p:項梁|Xiang Liang]] was killed. [[p:項羽|Xiang Yu]] and [[p:劉邦|Liu Bang]] pulled back near Pengcheng, and King Huai moved there from Xuyi. Thinking Chu no longer a threat, [[p:章邯|Zhang Han]] turned north against Zhao."
+   },
+   "site": "dingtao"
+  },
+  "chencang": {
+   "name": {
+    "ja": "陳倉の戦い",
+    "en": "the battle of Chencang"
+   },
+   "at": "feiqiu",
+   "sides": [
+    {
+     "realm": "liu",
+     "generals": [
+      "韓信",
+      "劉邦",
+      "樊噲"
+     ],
+     "troops": 50000
+    },
+    {
+     "realm": "yong",
+     "generals": [
+      "章邯"
+     ],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    2000,
+    8000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "焼いた桟道を直すと見せかけておいて、漢軍はひそかに故道を通って陳倉に出た。雍王の[[p:章邯]]は陳倉で迎え撃った。",
+    "en": "Making a show of repairing the burned plank roads, the Han army slipped out by the old road to Chencang. [[p:章邯|Zhang Han]], King of Yong, met it there."
+   },
+   "plan": {
+    "ja": "不意を突かれた雍の軍は陳倉で敗れ、好畤でも敗れて、[[p:章邯]]は廃丘に退いた。",
+    "en": "Caught off guard, the Yong army was beaten at Chencang and again at Haozhi, and [[p:章邯|Zhang Han]] fell back to Feiqiu."
+   },
+   "after": {
+    "ja": "塞王の[[p:司馬欣]]と翟王の[[p:董翳]]は戦わずに降った。[[p:章邯]]は廃丘に籠もり、漢はこれを十か月にわたって囲んだ。",
+    "en": "[[p:司馬欣|Sima Xin]], King of Sai, and [[p:董翳|Dong Yi]], King of Di, surrendered without a fight. [[p:章邯|Zhang Han]] held Feiqiu, and Han besieged it for ten months."
+   },
+   "site": "chencang"
+  },
+  "chengyang": {
+   "name": {
+    "ja": "城陽の戦い",
+    "en": "the battle of Chengyang"
+   },
+   "at": "boyang",
+   "sides": [
+    {
+     "realm": "chu",
+     "generals": [
+      "項羽"
+     ],
+     "troops": 50000
+    },
+    {
+     "realm": "qi",
+     "generals": [
+      "田栄"
+     ],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    2000,
+    10000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:項羽]]の立てた斉の王たちを攻め殺して斉を一つにした[[p:田栄]]は、[[p:彭越]]を使って梁の地でも楚を乱していた。項羽は自ら北へ兵を進めた。",
+    "en": "[[p:田栄|Tian Rong]] had killed the kings [[p:項羽|Xiang Yu]] set up in Qi, united it, and was using [[p:彭越|Peng Yue]] to make trouble for Chu in Liang. Xiang Yu marched north himself."
+   },
+   "plan": {
+    "ja": "両軍は城陽で戦い、[[p:田栄]]は敗れて平原へ逃げた。",
+    "en": "The armies met at Chengyang; [[p:田栄|Tian Rong]] was beaten and fled to Pingyuan."
+   },
+   "after": {
+    "ja": "[[p:田栄]]は平原の民に殺された。[[p:項羽]]は斉を焼き払い、降った兵を穴埋めにしたため、斉の人々はかえって集まって背いた。項羽が斉にかかりきりになっている間に、[[p:劉邦]]は彭城を突いた。",
+    "en": "The people of Pingyuan killed [[p:田栄|Tian Rong]]. [[p:項羽|Xiang Yu]] burned Qi and buried its surrendered soldiers alive, and the people of Qi only gathered and rose again. While he was tied down in Qi, [[p:劉邦|Liu Bang]] struck at Pengcheng."
+   },
+   "site": "chengyang"
+  },
+  "anyi": {
+   "name": {
+    "ja": "安邑の戦い",
+    "en": "the battle of Anyi"
+   },
+   "at": "anyi",
+   "sides": [
+    {
+     "realm": "liu",
+     "generals": [
+      "韓信",
+      "曹参",
+      "灌嬰"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "wei",
+     "generals": [
+      "魏豹"
+     ],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    1000,
+    8000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "彭城の敗戦の後に漢に背いた魏王の[[p:魏豹]]は、河の渡し場の臨晋を固めて漢軍を防いだ。",
+    "en": "[[p:魏豹|Wei Bao]], King of Wei, who had turned against Han after the defeat at Pengcheng, held the river crossing at Linjin against the Han army."
+   },
+   "plan": {
+    "ja": "[[p:韓信]]は臨晋の向かいに多くの船を並べて渡ると見せかけ、上流の夏陽から木の甕を連ねて兵を渡し、魏の都の安邑を突いた。",
+    "en": "[[p:韓信|Han Xin]] lined up boats opposite Linjin as though to cross there, then took his men over upstream at Xiayang on rafts of wooden jars and struck Anyi, the seat of Wei."
+   },
+   "after": {
+    "ja": "[[p:魏豹]]は捕らえられ、魏の地は漢の河東・太原・上党の郡となった。[[p:韓信]]はそのまま北の代と趙へ向かった。",
+    "en": "[[p:魏豹|Wei Bao]] was captured and Wei became the Han commanderies of Hedong, Taiyuan and Shangdang. [[p:韓信|Han Xin]] went straight on north against Dai and Zhao."
+   },
+   "site": "anyi"
+  },
+  "guling": {
+   "name": {
+    "ja": "固陵の戦い",
+    "en": "the battle of Guling"
+   },
+   "at": "chen",
+   "sides": [
+    {
+     "realm": "liu",
+     "generals": [
+      "劉邦",
+      "張良"
+     ],
+     "troops": 100000
+    },
+    {
+     "realm": "chu",
+     "generals": [
+      "項羽",
+      "鍾離眜"
+     ],
+     "troops": 100000
+    }
+   ],
+   "losses": [
+    10000,
+    2000
+   ],
+   "winner": 1,
+   "months": 1,
+   "deploy": {
+    "ja": "鴻溝の和約で東へ帰る楚軍を、[[p:張良]]と[[p:陳平]]は「楚の兵は疲れ兵糧も尽きている。今討たねば虎を養って患いを残す」と言って追わせた。[[p:劉邦]]は[[p:韓信]]・[[p:彭越]]と固陵で落ち合う約束をして追った。",
+    "en": "\"Chu's men are worn out and its food is gone,\" [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]] said as the Chu army went home east under the Hong canal treaty. \"Let it go now and you are rearing a tiger.\" [[p:劉邦|Liu Bang]] pursued, agreeing to meet [[p:韓信|Han Xin]] and [[p:彭越|Peng Yue]] at Guling."
+   },
+   "plan": {
+    "ja": "[[p:韓信]]と[[p:彭越]]は来なかった。楚軍は振り返って漢軍を打ち破り、[[p:劉邦]]は塁を深くして守った。",
+    "en": "[[p:韓信|Han Xin]] and [[p:彭越|Peng Yue]] did not come. The Chu army turned and broke the Han army, and [[p:劉邦|Liu Bang]] dug in deep behind his walls."
+   },
+   "after": {
+    "ja": "[[p:張良]]の勧めで、[[p:劉邦]]は[[p:韓信]]と[[p:彭越]]に陳より東の海までと睢陽より北の穀城までの地を約した。二人はすぐ兵を出し、楚軍は垓下へ追い込まれていく。",
+    "en": "On [[p:張良|Zhang Liang]]'s advice [[p:劉邦|Liu Bang]] promised [[p:韓信|Han Xin]] everything east of Chen to the sea, and [[p:彭越|Peng Yue]] everything north of Suiyang to Gucheng. They marched at once, and the Chu army was driven toward Gaixia."
+   },
+   "site": "guling"
   }
  },
+ "sites": [
+  [
+   "julu",
+   "鉅鹿",
+   "Julu",
+   37.22,
+   115.03
+  ],
+  [
+   "pengcheng",
+   "彭城・睢水",
+   "Pengcheng and the Sui river",
+   34.1,
+   117.3
+  ],
+  [
+   "jingxing",
+   "井陘",
+   "Jingxing",
+   38.03,
+   114.15
+  ],
+  [
+   "weishui",
+   "濰水",
+   "the Wei river",
+   36.4,
+   119.4
+  ],
+  [
+   "gaixia",
+   "垓下",
+   "Gaixia",
+   33.3,
+   117.4
+  ],
+  [
+   "linji",
+   "臨済",
+   "Linji",
+   35,
+   114.4
+  ],
+  [
+   "dingtao",
+   "定陶",
+   "Dingtao",
+   35.07,
+   115.57
+  ],
+  [
+   "chencang",
+   "陳倉",
+   "Chencang",
+   34.36,
+   107.15
+  ],
+  [
+   "chengyang",
+   "城陽",
+   "Chengyang",
+   35.58,
+   118.83
+  ],
+  [
+   "anyi",
+   "安邑",
+   "Anyi",
+   35.1,
+   111.2
+  ],
+  [
+   "guling",
+   "固陵",
+   "Guling",
+   33.95,
+   114.6
+  ]
+ ],
  "wars": [
   {
    "name": {
@@ -3962,6 +4682,8 @@
     "en": "At the ruins of Yin [[p:章邯|Zhang Han]] surrendered to [[p:項羽|Xiang Yu]] with two hundred thousand men and was made King of Yong."
    },
    "battles": [
+    "linji",
+    "dingtao",
     "julu"
    ]
   },
@@ -3977,7 +4699,44 @@
    "terms": {
     "ja": "[[p:田栄]]は平原で敗れて殺されたが、弟の[[p:田横]]が斉を立て直し、[[p:劉邦]]の彭城入りを聞いた[[p:項羽]]は斉を離れた。",
     "en": "[[p:田栄|Tian Rong]] was beaten at Pingyuan and killed, but his brother [[p:田横|Tian Heng]] rebuilt Qi, and [[p:項羽|Xiang Yu]], hearing that [[p:劉邦|Liu Bang]] had taken Pengcheng, left Qi."
-   }
+   },
+   "battles": [
+    "chengyang"
+   ]
+  },
+  {
+   "name": {
+    "ja": "劉邦の三秦平定",
+    "en": "Liu Bang's conquest of the Three Qins"
+   },
+   "end": [
+    205,
+    7
+   ],
+   "terms": {
+    "ja": "漢は廃丘に水を引き入れて落とし、[[p:章邯]]は自害した。雍の地は漢の郡となった。",
+    "en": "Han flooded Feiqiu and took it; [[p:章邯|Zhang Han]] killed himself, and Yong became Han commanderies."
+   },
+   "battles": [
+    "chencang"
+   ]
+  },
+  {
+   "name": {
+    "ja": "韓信の魏攻め",
+    "en": "Han Xin's Wei campaign"
+   },
+   "end": [
+    205,
+    10
+   ],
+   "terms": {
+    "ja": "[[p:魏豹]]は捕らえられて滎陽の守りに回され、魏の地は漢の郡となった。",
+    "en": "[[p:魏豹|Wei Bao]] was taken and set to guard Xingyang, and Wei became Han commanderies."
+   },
+   "battles": [
+    "anyi"
+   ]
   },
   {
    "name": {
@@ -4008,7 +4767,12 @@
    "terms": {
     "ja": "[[p:項羽]]は烏江で自害し、楚の地はすべて漢に下った。最後まで降らなかった魯も、項羽の首を見せられて門を開いた。[[p:劉邦]]は項羽を魯公の礼で葬った。",
     "en": "[[p:項羽|Xiang Yu]] took his life at the Wu river and all Chu submitted to Han. Lu, the last to hold out, opened its gates when shown his head; [[p:劉邦|Liu Bang]] buried him with the rites of a Duke of Lu."
-   }
+   },
+   "battles": [
+    "pengcheng",
+    "guling",
+    "gaixia"
+   ]
   }
  ],
  "articles": {
@@ -4477,6 +5241,108 @@
     "loufan",
     "simian"
    ]
+  },
+  "battle_linji": {
+   "kind": "battle",
+   "title": {
+    "ja": "臨済の戦い",
+    "en": "the battle of Linji"
+   },
+   "body": {
+    "ja": "[[p:陳勝]]を破った[[p:章邯]]は魏の都の臨済を囲んだ。魏王の[[p:魏咎]]は斉と楚に救いを求め、斉王の[[p:田儋]]が自ら兵を率いて来た。\n\n章邯は兵に枚を銜ませて夜のうちに攻め寄せ、斉と魏の救援軍を城の下で大いに破った。田儋は討死した。\n\n魏咎は民の命と引き換えに降ることを約し、約束が結ばれると自ら火に入って死んだ。弟の[[p:魏豹]]は楚へ逃れた。\n\n兵力 (目安): 50,000 対 20,000。損害: 2,000 対 10,000。",
+    "en": "Having crushed [[p:陳勝|Chen Sheng]], [[p:章邯|Zhang Han]] besieged Linji, the seat of Wei. King [[p:魏咎|Wei Jiu]] begged Qi and Chu for help, and King [[p:田儋|Tian Dan]] of Qi came with his army in person.\n\nZhang Han had his men march gagged by night, fell on the Qi and Wei relief army beneath the walls and routed it. Tian Dan was killed.\n\nWei Jiu agreed to surrender on condition that his people be spared; once it was sworn, he walked into the fire. His brother [[p:魏豹|Wei Bao]] fled to Chu.\n\nTroops (rough): 50,000 against 20,000. Losses: 2,000 against 10,000."
+   },
+   "people": [
+    "章邯|Zhang Han",
+    "魏咎|Wei Jiu"
+   ],
+   "related": []
+  },
+  "battle_dingtao": {
+   "kind": "battle",
+   "title": {
+    "ja": "定陶の戦い",
+    "en": "the battle of Dingtao"
+   },
+   "body": {
+    "ja": "東阿と濮陽で[[p:章邯]]を破った[[p:項梁]]は、定陶でも秦軍を破り、秦を軽んじるようになった。[[p:宋義]]は「勝って将が驕り兵が怠けるのは負ける兆し」と諫めたが聞かれなかった。秦は章邯に大軍を送り足した。\n\n章邯は兵に枚を銜ませて夜襲をかけ、油断していた楚軍を大いに破った。\n\n項梁は戦死した。[[p:項羽]]と[[p:劉邦]]は兵を引いて彭城の近くに陣を移し、懐王は盱眙から彭城に移った。章邯は楚を恐れるに足らずとみて、北の趙へ向かった。\n\n兵力 (目安): 60,000 対 50,000。損害: 3,000 対 15,000。",
+    "en": "[[p:項梁|Xiang Liang]] had beaten [[p:章邯|Zhang Han]] at Dong'e and Puyang and again at Dingtao, and began to hold Qin cheap. \"When a winning general grows proud and his men slack, defeat is near,\" [[p:宋義|Song Yi]] warned, unheard. Qin sent Zhang Han large reinforcements.\n\nZhang Han attacked by night, his men gagged for silence, and broke the unwary Chu army.\n\nXiang Liang was killed. [[p:項羽|Xiang Yu]] and [[p:劉邦|Liu Bang]] pulled back near Pengcheng, and King Huai moved there from Xuyi. Thinking Chu no longer a threat, Zhang Han turned north against Zhao.\n\nTroops (rough): 60,000 against 50,000. Losses: 3,000 against 15,000."
+   },
+   "people": [
+    "章邯|Zhang Han",
+    "項梁|Xiang Liang"
+   ],
+   "related": []
+  },
+  "battle_chencang": {
+   "kind": "battle",
+   "title": {
+    "ja": "陳倉の戦い",
+    "en": "the battle of Chencang"
+   },
+   "body": {
+    "ja": "焼いた桟道を直すと見せかけておいて、漢軍はひそかに故道を通って陳倉に出た。雍王の[[p:章邯]]は陳倉で迎え撃った。\n\n不意を突かれた雍の軍は陳倉で敗れ、好畤でも敗れて、章邯は廃丘に退いた。\n\n塞王の[[p:司馬欣]]と翟王の[[p:董翳]]は戦わずに降った。章邯は廃丘に籠もり、漢はこれを十か月にわたって囲んだ。\n\n兵力 (目安): 50,000 対 30,000。損害: 2,000 対 8,000。",
+    "en": "Making a show of repairing the burned plank roads, the Han army slipped out by the old road to Chencang. [[p:章邯|Zhang Han]], King of Yong, met it there.\n\nCaught off guard, the Yong army was beaten at Chencang and again at Haozhi, and Zhang Han fell back to Feiqiu.\n\n[[p:司馬欣|Sima Xin]], King of Sai, and [[p:董翳|Dong Yi]], King of Di, surrendered without a fight. Zhang Han held Feiqiu, and Han besieged it for ten months.\n\nTroops (rough): 50,000 against 30,000. Losses: 2,000 against 8,000."
+   },
+   "people": [
+    "韓信|Han Xin",
+    "劉邦|Liu Bang",
+    "樊噲|Fan Kuai",
+    "章邯|Zhang Han"
+   ],
+   "related": []
+  },
+  "battle_chengyang": {
+   "kind": "battle",
+   "title": {
+    "ja": "城陽の戦い",
+    "en": "the battle of Chengyang"
+   },
+   "body": {
+    "ja": "[[p:項羽]]の立てた斉の王たちを攻め殺して斉を一つにした[[p:田栄]]は、[[p:彭越]]を使って梁の地でも楚を乱していた。項羽は自ら北へ兵を進めた。\n\n両軍は城陽で戦い、田栄は敗れて平原へ逃げた。\n\n田栄は平原の民に殺された。項羽は斉を焼き払い、降った兵を穴埋めにしたため、斉の人々はかえって集まって背いた。項羽が斉にかかりきりになっている間に、[[p:劉邦]]は彭城を突いた。\n\n兵力 (目安): 50,000 対 30,000。損害: 2,000 対 10,000。",
+    "en": "[[p:田栄|Tian Rong]] had killed the kings [[p:項羽|Xiang Yu]] set up in Qi, united it, and was using [[p:彭越|Peng Yue]] to make trouble for Chu in Liang. Xiang Yu marched north himself.\n\nThe armies met at Chengyang; Tian Rong was beaten and fled to Pingyuan.\n\nThe people of Pingyuan killed Tian Rong. Xiang Yu burned Qi and buried its surrendered soldiers alive, and the people of Qi only gathered and rose again. While he was tied down in Qi, [[p:劉邦|Liu Bang]] struck at Pengcheng.\n\nTroops (rough): 50,000 against 30,000. Losses: 2,000 against 10,000."
+   },
+   "people": [
+    "項羽|Xiang Yu",
+    "田栄|Tian Rong"
+   ],
+   "related": []
+  },
+  "battle_anyi": {
+   "kind": "battle",
+   "title": {
+    "ja": "安邑の戦い",
+    "en": "the battle of Anyi"
+   },
+   "body": {
+    "ja": "彭城の敗戦の後に漢に背いた魏王の[[p:魏豹]]は、河の渡し場の臨晋を固めて漢軍を防いだ。\n\n[[p:韓信]]は臨晋の向かいに多くの船を並べて渡ると見せかけ、上流の夏陽から木の甕を連ねて兵を渡し、魏の都の安邑を突いた。\n\n魏豹は捕らえられ、魏の地は漢の河東・太原・上党の郡となった。韓信はそのまま北の代と趙へ向かった。\n\n兵力 (目安): 30,000 対 30,000。損害: 1,000 対 8,000。",
+    "en": "[[p:魏豹|Wei Bao]], King of Wei, who had turned against Han after the defeat at Pengcheng, held the river crossing at Linjin against the Han army.\n\n[[p:韓信|Han Xin]] lined up boats opposite Linjin as though to cross there, then took his men over upstream at Xiayang on rafts of wooden jars and struck Anyi, the seat of Wei.\n\nWei Bao was captured and Wei became the Han commanderies of Hedong, Taiyuan and Shangdang. Han Xin went straight on north against Dai and Zhao.\n\nTroops (rough): 30,000 against 30,000. Losses: 1,000 against 8,000."
+   },
+   "people": [
+    "韓信|Han Xin",
+    "曹参|Cao Shen",
+    "灌嬰|Guan Ying",
+    "魏豹|Wei Bao"
+   ],
+   "related": []
+  },
+  "battle_guling": {
+   "kind": "battle",
+   "title": {
+    "ja": "固陵の戦い",
+    "en": "the battle of Guling"
+   },
+   "body": {
+    "ja": "鴻溝の和約で東へ帰る楚軍を、[[p:張良]]と[[p:陳平]]は「楚の兵は疲れ兵糧も尽きている。今討たねば虎を養って患いを残す」と言って追わせた。[[p:劉邦]]は[[p:韓信]]・[[p:彭越]]と固陵で落ち合う約束をして追った。\n\n韓信と彭越は来なかった。楚軍は振り返って漢軍を打ち破り、劉邦は塁を深くして守った。\n\n張良の勧めで、劉邦は韓信と彭越に陳より東の海までと睢陽より北の穀城までの地を約した。二人はすぐ兵を出し、楚軍は垓下へ追い込まれていく。\n\n兵力 (目安): 100,000 対 100,000。損害: 10,000 対 2,000。",
+    "en": "\"Chu's men are worn out and its food is gone,\" [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]] said as the Chu army went home east under the Hong canal treaty. \"Let it go now and you are rearing a tiger.\" [[p:劉邦|Liu Bang]] pursued, agreeing to meet [[p:韓信|Han Xin]] and [[p:彭越|Peng Yue]] at Guling.\n\nHan Xin and Peng Yue did not come. The Chu army turned and broke the Han army, and Liu Bang dug in deep behind his walls.\n\nOn Zhang Liang's advice Liu Bang promised Han Xin everything east of Chen to the sea, and Peng Yue everything north of Suiyang to Gucheng. They marched at once, and the Chu army was driven toward Gaixia.\n\nTroops (rough): 100,000 against 100,000. Losses: 10,000 against 2,000."
+   },
+   "people": [
+    "劉邦|Liu Bang",
+    "張良|Zhang Liang",
+    "項羽|Xiang Yu",
+    "鍾離眜|Zhongli Mo"
+   ],
+   "related": []
   },
   "pofu": {
    "kind": "saying",
