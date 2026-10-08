@@ -771,7 +771,8 @@
      189,
      189,
      {
-      "born": 176
+      "born": 176,
+      "end": "deposed"
      }
     ],
     [
@@ -790,7 +791,8 @@
       "tr": [
        "content"
       ],
-      "born": 181
+      "born": 181,
+      "end": "deposed"
      }
     ]
    ],
@@ -1357,7 +1359,8 @@
        3,
        4
       ],
-      "born": 232
+      "born": 232,
+      "end": "deposed"
      }
     ],
     [
@@ -1396,7 +1399,8 @@
       "tr": [
        "content"
       ],
-      "born": 246
+      "born": 246,
+      "end": "deposed"
      }
     ],
     [
@@ -1517,7 +1521,8 @@
      252,
      258,
      {
-      "born": 243
+      "born": 243,
+      "end": "deposed"
      }
     ],
     [
@@ -1556,7 +1561,8 @@
        "cruel",
        "drunkard"
       ],
-      "born": 242
+      "born": 242,
+      "end": "deposed"
      }
     ]
    ],
@@ -1854,7 +1860,8 @@
       "tr": [
        "content"
       ],
-      "born": 207
+      "born": 207,
+      "end": "deposed"
      }
     ]
    ],
@@ -1881,7 +1888,8 @@
     "tr": [
      "ambitious",
      "foolish"
-    ]
+    ],
+    "end": "assassination"
    }
   ],
   [
@@ -1967,7 +1975,8 @@
      "ambitious",
      "greedy"
     ],
-    "fame": 7
+    "fame": 7,
+    "end": "assassination"
    }
   ],
   [
@@ -1987,7 +1996,8 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -2042,7 +2052,8 @@
     "tr": [
      "scholar",
      "just"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -2058,7 +2069,8 @@
      "genius",
      "kind"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "executed"
    }
   ],
   [
@@ -2246,7 +2258,8 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "battle_wound"
    }
   ],
   [
@@ -2289,7 +2302,8 @@
      "brave",
      "warrior"
     ],
-    "fame": 5
+    "fame": 5,
+    "end": "battle_wound"
    }
   ],
   [
@@ -2391,7 +2405,8 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "battle_wound"
    }
   ],
   [
@@ -2591,7 +2606,8 @@
     "tr": [
      "genius"
     ],
-    "fame": 7
+    "fame": 7,
+    "end": "assassination"
    }
   ],
   [
@@ -2613,7 +2629,8 @@
      "ambitious",
      "genius"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "assassination"
    }
   ],
   [
@@ -2714,7 +2731,8 @@
      "scholar",
      "content"
     ],
-    "fame": 5
+    "fame": 5,
+    "end": "executed"
    }
   ],
   [
@@ -2764,7 +2782,8 @@
     "tr": [
      "wise",
      "just"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -2784,7 +2803,8 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -2804,7 +2824,8 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -2824,7 +2845,8 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "battle_wound"
    }
   ],
   [
@@ -2844,7 +2866,8 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "battle_wound"
    }
   ],
   [
@@ -2956,7 +2979,8 @@
      "just",
      "warrior"
     ],
-    "fame": 9
+    "fame": 9,
+    "end": "executed"
    }
   ],
   [
@@ -3001,7 +3025,8 @@
      "drunkard",
      "cruel"
     ],
-    "fame": 8
+    "fame": 8,
+    "end": "assassination"
    }
   ],
   [
@@ -3092,7 +3117,8 @@
     "tr": [
      "genius"
     ],
-    "fame": 6
+    "fame": 6,
+    "end": "battle_wound"
    }
   ],
   [
@@ -3167,7 +3193,8 @@
     "tr": [
      "brave",
      "ambitious"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -3213,7 +3240,8 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -3254,7 +3282,8 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "end": "assassination"
    }
   ],
   [
@@ -3282,7 +3311,8 @@
      "brave",
      "ambitious"
     ],
-    "fame": 7
+    "fame": 7,
+    "end": "assassination"
    }
   ],
   [
@@ -3653,7 +3683,8 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -3679,7 +3710,8 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "end": "executed"
    }
   ],
   [
@@ -4141,6 +4173,31 @@
    "en": "[[p:董卓|Dong Zhuo]] burned Luoyang and drove the emperor and millions of people to Chang'an; many died on the way."
   },
   {
+   "id": "yangren",
+   "y": 191,
+   "m": 2,
+   "need": [
+    "wu",
+    "han"
+   ],
+   "do": [
+    [
+     "battle",
+     "yangren"
+    ],
+    [
+     "add",
+     "wu",
+     "prestige",
+     10
+    ]
+   ],
+   "at": "luoyang",
+   "imp": 2,
+   "ja": "{r_wu}は陽人で[[p:董卓]]の軍を破り、その将華雄を討ち取った。董卓は洛陽の宮殿と陵墓を焼き払い、長安へ退いた。",
+   "en": "{r_wu} broke [[p:董卓|Dong Zhuo]]'s army at Yangren and killed its general Hua Xiong. Dong Zhuo burned the palaces and tombs of Luoyang and fell back to Chang'an."
+  },
+  {
    "id": "sunjian_dies",
    "y": 191,
    "m": 5,
@@ -4228,6 +4285,37 @@
    "at": "yijing",
    "ja": "界橋の戦い。[[a:baima|白馬の騎兵]]を率いる{r_gongsun}が{n_yuanshao}に挑んだが、麴義の弩兵に破られた。",
    "en": "At Jieqiao {r_gongsun} and his [[a:baima|white-horse cavalry]] challenged {n_yuanshao} and were broken by Qu Yi's crossbowmen."
+  },
+  {
+   "id": "jieqiao",
+   "y": 192,
+   "m": 1,
+   "need": [
+    "yuanshao",
+    "gongsun"
+   ],
+   "do": [
+    [
+     "battle",
+     "jieqiao"
+    ],
+    [
+     "add",
+     "yuanshao",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "gongsun",
+     "prestige",
+     -10
+    ]
+   ],
+   "at": "julu",
+   "imp": 2,
+   "ja": "界橋の戦い。{r_yuanshao}の将麴義は精兵八百を盾の陰に伏せ、{r_gongsun}の白馬の騎兵「白馬義従」が迫ると一斉に弩を放って打ち破った。",
+   "en": "At Jieqiao, {r_yuanshao}'s general Qu Yi hid eight hundred picked men behind their shields; when the white-horse cavalry of {r_gongsun} charged, they loosed their crossbows all at once and broke it."
   },
   {
    "id": "dong_dies",
@@ -4404,6 +4492,26 @@
    "en": "[[p:孫策|Sun Ce]] got his father's old soldiers back from [[p:袁術|Yuan Shu]], crossed the Yangtze, defeated Liu Yao and built his base east of the river — \"the Little Conqueror\"."
   },
   {
+   "id": "xian_east",
+   "y": 195,
+   "m": 7,
+   "need": [
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "han",
+     "prestige",
+     -10
+    ]
+   ],
+   "at": "hongnong",
+   "imp": 2,
+   "ja": "李傕と郭汜が長安で争うなか、[[p:献帝]]はわずかな近臣と長安を脱け出し、追っ手を逃れながら東へ向かった。翌年、焼け野原の洛陽に帰り着いた。",
+   "en": "While Li Jue and Guo Si fought each other in Chang'an, [[p:献帝|Emperor Xian]] slipped away with a few followers and fled east, pursued all the way. The next year he reached Luoyang, a field of ashes."
+  },
+  {
    "id": "sunce_kuaiji",
    "y": 196,
    "m": 6,
@@ -4506,6 +4614,10 @@
     "cao"
    ],
    "do": [
+    [
+     "battle",
+     "wancheng"
+    ],
     [
      "army",
      "cao",
@@ -4663,6 +4775,52 @@
    "en": "Zhang Xiu of Wan, on [[p:賈詡|Jia Xu]]'s advice, went over to {r_cao}. He had killed Cao's eldest son Cao Ang; yet Cao took him by the hand, welcomed him, and married his son to Zhang Xiu's daughter."
   },
   {
+   "id": "yidaizhao",
+   "y": 200,
+   "m": 1,
+   "need": [
+    "cao",
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "han",
+     "legitimacy",
+     -0.1
+    ]
+   ],
+   "at": "xu",
+   "imp": 2,
+   "ja": "[[p:献帝]]の帯に縫い込まれた密詔を受けたとして董承らが{r_cao}を除こうとしたが、露見して一族ことごとく殺された。加わっていた[[p:劉備]]は徐州で[[p:曹操]]に背いたが、攻められて[[p:袁紹]]のもとへ逃れた。",
+   "en": "Dong Cheng and others, claiming a secret edict sewn into the emperor's girdle, plotted against {r_cao}; it came out and their families were put to death. [[p:劉備|Liu Bei]], who was in it, rose against Cao in Xu, was beaten, and fled to [[p:袁紹|Yuan Shao]]."
+  },
+  {
+   "id": "baima",
+   "y": 200,
+   "m": 4,
+   "need": [
+    "cao",
+    "yuanshao"
+   ],
+   "do": [
+    [
+     "battle",
+     "baima"
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     8
+    ]
+   ],
+   "at": "guandu",
+   "imp": 2,
+   "ja": "白馬の戦い。{r_cao}のもとに身を寄せていた[[p:関羽]]は、万軍の中で[[p:袁紹]]の猛将[[p:顔良]]を刺してその首を取り、白馬の囲みを解いた。関羽は[[p:曹操]]の厚遇に報いたのち、贈り物を封じて[[p:劉備]]のもとへ去った。",
+   "en": "At Baima [[p:関羽|Guan Yu]], then with {r_cao}, rode into the midst of the host, struck down [[p:袁紹|Yuan Shao]]'s champion [[p:顔良|Yan Liang]] and took his head, lifting the siege. Having repaid Cao's kindness, he sealed up the gifts he had been given and left to rejoin [[p:劉備|Liu Bei]]."
+  },
+  {
    "id": "sunce_dies",
    "y": 200,
    "m": 5,
@@ -4717,6 +4875,18 @@
    "at": "guandu",
    "ja": "官渡の戦い。兵糧の尽きかけた{r_cao}は、[[p:袁紹]]のもとから寝返った許攸の進言で[[a:wuchao|烏巣の兵糧庫を夜襲して焼き]]、{n_yuanshao}の大軍を崩した。",
    "en": "The battle of Guandu. Running short of food, {r_cao} took the advice of Xu You, a defector from [[p:袁紹|Yuan Shao]], [[a:wuchao|raided the granary at Wuchao by night and burned it]]; the great host of {n_yuanshao} fell apart."
+  },
+  {
+   "id": "liubei_jing",
+   "y": 201,
+   "m": 9,
+   "need": [
+    "liubiao"
+   ],
+   "at": "xinye",
+   "imp": 1,
+   "ja": "[[p:劉備]]は{r_liubiao}のもとに身を寄せ、新野に置かれた。のちに劉備は、馬に乗らずに過ごすうち内股に肉がついたのを見て嘆いた (髀肉の嘆)。",
+   "en": "[[p:劉備|Liu Bei]] took refuge with {r_liubiao} and was stationed at Xinye. Years later, seeing his thighs grown fat from never riding, he wept for the time slipping by."
   },
   {
    "id": "yuanshao_dies",
@@ -4827,6 +4997,27 @@
    "en": "[[p:劉備|Liu Bei]], at Xinye, called three times at [[p:諸葛亮|Zhuge Liang]]'s cottage in Longzhong before he was received. Zhuge Liang laid out his plan: take Jing and Yi and divide the realm in three."
   },
   {
+   "id": "cao_chancellor",
+   "y": 208,
+   "m": 6,
+   "need": [
+    "cao",
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "legitimacy",
+     0.1
+    ]
+   ],
+   "at": "xu",
+   "imp": 1,
+   "ja": "三公の職が廃され、{r_cao}が丞相となって朝廷の実権を一手に握った。",
+   "en": "The three highest offices were abolished and {r_cao} became chancellor, holding all the power of the court."
+  },
+  {
    "id": "liubiao_end",
    "y": 208,
    "m": 9,
@@ -4854,6 +5045,18 @@
    "at": "xiangyang",
    "ja": "[[p:劉表]]が病死すると、子の[[p:劉琮]]は戦わずに{n_cao}に降った。南へ逃れる[[p:劉備]]の一行は長坂で追いつかれ、[[p:趙雲]]は劉備の幼子を抱いて敵中を駆け抜けた。",
    "en": "When [[p:劉表|Liu Biao]] died, his son [[p:劉琮|Liu Cong]] surrendered to {n_cao} without a fight. [[p:劉備|Liu Bei]]'s column fleeing south was overtaken at Changban; [[p:趙雲|Zhao Yun]] rode through the enemy carrying Liu Bei's infant son."
+  },
+  {
+   "id": "changban",
+   "y": 208,
+   "m": 9,
+   "need": [
+    "cao"
+   ],
+   "at": "xiangyang",
+   "imp": 2,
+   "ja": "長坂の戦い。{r_cao}は精鋭の騎兵で南へ逃れる[[p:劉備]]を追い、長坂で追いついた。[[p:張飛]]は橋を断って川を前に立ちはだかり、[[p:趙雲]]は劉備の子阿斗を抱いて囲みを破った。",
+   "en": "At Changban {r_cao}'s best horsemen overtook [[p:劉備|Liu Bei]] fleeing south. [[p:張飛|Zhang Fei]] broke the bridge and stood at the river; [[p:趙雲|Zhao Yun]] cut his way out holding Liu Bei's infant son."
   },
   {
    "id": "chibi",
@@ -4967,6 +5170,26 @@
    "en": "When [[p:周瑜|Zhou Yu]] died of illness, {r_wu}, on [[p:魯粛|Lu Su]]'s advice, lent Jiangling to [[p:劉備|Liu Bei]] as a bulwark against Cao."
   },
   {
+   "id": "tongquetai",
+   "y": 210,
+   "m": 12,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "ye",
+   "imp": 1,
+   "ja": "{r_cao}は鄴に銅雀台を築いた。[[p:曹植]]は「銅雀台の賦」を詠んだ。",
+   "en": "{r_cao} built the Bronze Sparrow Terrace at Ye; [[p:曹植|Cao Zhi]] wrote a rhapsody on it."
+  },
+  {
    "id": "tongguan",
    "y": 211,
    "m": 9,
@@ -4975,6 +5198,10 @@
     "liang"
    ],
    "do": [
+    [
+     "battle",
+     "tongguan"
+    ],
     [
      "cede",
      "liang",
@@ -5050,6 +5277,33 @@
    "en": "At the Ruxu estuary [[p:曹操|Cao Cao]] saw the order of [[p:孫権|Sun Quan]]'s army, sighed \"a son should be like Sun Zhongmou,\" and withdrew."
   },
   {
+   "id": "wei_gong",
+   "y": 213,
+   "m": 5,
+   "need": [
+    "cao",
+    "han"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "legitimacy",
+     0.1
+    ],
+    [
+     "add",
+     "han",
+     "legitimacy",
+     -0.1
+    ]
+   ],
+   "at": "ye",
+   "imp": 2,
+   "ja": "{r_cao}は魏公に封じられ、九錫を加えられた。鄴に魏の社稷と宗廟が建てられ、漢の中にもう一つの国ができた。",
+   "en": "{r_cao} was made Duke of Wei and given the Nine Bestowments; Wei's altars and ancestral temple went up at Ye — a state within the Han."
+  },
+  {
    "id": "liang_end",
    "y": 214,
    "m": 2,
@@ -5092,6 +5346,19 @@
    "at": "chengdu",
    "ja": "{r_shu}は益州に入り、成都を囲んだ。[[p:劉璋]]は「民を苦しめるに忍びない」と城を開いた。途中、軍師の[[p:龐統]]が流れ矢に当たって死んだ。",
    "en": "{r_shu} entered Yi and besieged Chengdu. [[p:劉璋|Liu Zhang]] opened the gates, \"unwilling to make the people suffer\". On the way the strategist [[p:龐統|Pang Tong]] was killed by a stray arrow."
+  },
+  {
+   "id": "fu_empress",
+   "y": 214,
+   "m": 11,
+   "need": [
+    "cao",
+    "han"
+   ],
+   "at": "xu",
+   "imp": 1,
+   "ja": "伏皇后が父に{r_cao}を除くよう頼んだ古い手紙が見つかり、皇后は引き出されて殺された。[[p:献帝]]は「朕もいつまで命があるか分からぬ」と嘆いた。",
+   "en": "An old letter in which Empress Fu had begged her father to rid the court of {r_cao} came to light; she was dragged out and put to death. \"I do not know how long I shall live myself,\" the emperor lamented."
   },
   {
    "id": "jing_split",
@@ -5204,6 +5471,26 @@
    "en": "{r_cao} was made King of Wei."
   },
   {
+   "id": "plague_217",
+   "y": 217,
+   "m": 6,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "stability",
+     -0.05
+    ]
+   ],
+   "at": "ye",
+   "imp": 1,
+   "ja": "大きな疫病がはやり、建安の文人たち (王粲・陳琳・劉楨・徐幹・応瑒) が相次いで世を去った。[[p:曹丕]]は「家々に骨肉の死を悼む声がある」と書いた。",
+   "en": "A great plague swept the land, and the poets of the Jian'an years — Wang Can, Chen Lin, Liu Zhen, Xu Gan and Ying Yang — died one after another. \"In every house there is mourning,\" wrote [[p:曹丕|Cao Pi]]."
+  },
+  {
    "id": "dingjun",
    "y": 219,
    "m": 3,
@@ -5293,6 +5580,10 @@
     "shu"
    ],
    "do": [
+    [
+     "battle",
+     "fancheng"
+    ],
     [
      "army",
      "cao",
@@ -5599,6 +5890,15 @@
    ],
    "do": [
     [
+     "war",
+     "shu",
+     "cao",
+     {
+      "ja": "諸葛亮の第一次北伐",
+      "en": "Zhuge Liang's first northern campaign"
+     }
+    ],
+    [
      "cede",
      "cao",
      "shu",
@@ -5623,6 +5923,10 @@
    ],
    "do": [
     [
+     "battle",
+     "jieting"
+    ],
+    [
      "army",
      "shu",
      0.85
@@ -5641,6 +5945,37 @@
    "at": "jieting",
    "ja": "第一次北伐。街亭を任された[[p:馬謖]]は命に背いて山上に陣を張り、[[p:張郃]]に水を断たれて大敗した。[[p:諸葛亮]]は泣いて馬謖を斬った。天水の[[p:姜維]]が蜀に降った。",
    "en": "The first northern campaign. [[p:馬謖|Ma Su]], left to hold Jieting, disobeyed orders, camped on a hill, was cut off from water by [[p:張郃|Zhang He]] and routed. Weeping, [[p:諸葛亮|Zhuge Liang]] had him executed. [[p:姜維|Jiang Wei]] of Tianshui went over to Shu."
+  },
+  {
+   "id": "shiting",
+   "y": 228,
+   "m": 8,
+   "need": [
+    "wu",
+    "cao"
+   ],
+   "do": [
+    [
+     "battle",
+     "shiting"
+    ],
+    [
+     "add",
+     "wu",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     -8
+    ]
+   ],
+   "at": "lujiang",
+   "imp": 2,
+   "ja": "石亭の戦い。{r_wu}の鄱陽太守周魴が偽りの降伏で魏の曹休を誘い込み、[[p:陸遜]]がこれを大いに破った。曹休は恥じて病み、まもなく死んだ。",
+   "en": "At Shiting, Zhou Fang of {r_wu} lured Wei's Cao Xiu in with a false surrender, and [[p:陸遜|Lu Xun]] crushed him. Cao Xiu sickened with shame and soon died."
   },
   {
    "id": "wu_emperor",
@@ -5671,6 +6006,39 @@
    "at": "jianye",
    "ja": "{r_wu}は皇帝の位に即いた。天下に三人の皇帝が並び立つ三国の世となった。",
    "en": "{r_wu} took the imperial throne. Three emperors now stood side by side — the age of the Three Kingdoms."
+  },
+  {
+   "id": "zhanghe_dies",
+   "y": 231,
+   "m": 6,
+   "need": [
+    "shu",
+    "cao"
+   ],
+   "at": "tianshui",
+   "imp": 2,
+   "ja": "祁山から退く{n_shu}の軍を追った魏の[[p:張郃]]は、木門道で伏兵の矢を膝に受けて死んだ。",
+   "en": "Pursuing the army of {n_shu} back from Qishan, Wei's [[p:張郃|Zhang He]] was struck in the knee by an arrow from an ambush at Mumen and died."
+  },
+  {
+   "id": "weiyan_dies",
+   "y": 234,
+   "m": 9,
+   "need": [
+    "shu"
+   ],
+   "do": [
+    [
+     "add",
+     "shu",
+     "stability",
+     -0.05
+    ]
+   ],
+   "at": "hanzhong",
+   "imp": 1,
+   "ja": "[[p:諸葛亮]]の死後、撤退をめぐって[[p:魏延]]と楊儀が争い、魏延は南鄭へ逃れたところを[[p:馬岱]]に斬られた。",
+   "en": "After [[p:諸葛亮|Zhuge Liang]] died, [[p:魏延|Wei Yan]] and Yang Yi fell out over the retreat; Wei Yan fled toward Nanzheng and was cut down by [[p:馬岱|Ma Dai]]."
   },
   {
    "id": "wuzhang",
@@ -5736,6 +6104,39 @@
    "en": "[[p:司馬懿|Sima Yi]] destroyed Gongsun Yuan of Liaodong."
   },
   {
+   "id": "regency_239",
+   "y": 239,
+   "m": 1,
+   "need": [
+    "cao"
+   ],
+   "at": "luoyang",
+   "imp": 1,
+   "ja": "{n_cao}の明帝 ([[p:曹叡]]) は死に臨み、八歳の[[p:曹芳]]を曹爽と[[p:司馬懿]]に託した。",
+   "en": "Dying, Emperor Ming of {n_cao} left the eight-year-old [[p:曹芳|Cao Fang]] in the hands of Cao Shuang and [[p:司馬懿|Sima Yi]]."
+  },
+  {
+   "id": "xingshi",
+   "y": 244,
+   "m": 3,
+   "need": [
+    "cao",
+    "shu"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "prestige",
+     -8
+    ]
+   ],
+   "at": "hanzhong",
+   "imp": 1,
+   "ja": "興勢の役。名を上げようと漢中に攻め入った{n_cao}の曹爽は、王平・[[p:費禕]]に険しい山道で阻まれ、牛馬を多く失って退いた。",
+   "en": "Cao Shuang of {n_cao}, seeking glory, struck at Hanzhong, was held in the mountain passes by Wang Ping and [[p:費禕|Fei Yi]], and fell back having lost much of his baggage animals."
+  },
+  {
    "id": "gaopingling",
    "y": 249,
    "m": 2,
@@ -5773,6 +6174,165 @@
    "en": "In the last years of {r_wu} the quarrel between the crown prince and the Prince of Lu over the succession cost many great ministers their places; [[p:陸遜|Lu Xun]] died of grief and anger."
   },
   {
+   "id": "wangling",
+   "y": 251,
+   "m": 5,
+   "need": [
+    "cao"
+   ],
+   "at": "shouchun",
+   "imp": 1,
+   "ja": "寿春の王淩が[[p:司馬懿]]を除こうと謀ったが、司馬懿は軍を率いて急襲し、王淩は降って自ら命を絶った (寿春の三度の乱の一つ目)。",
+   "en": "Wang Ling at Shouchun plotted against [[p:司馬懿|Sima Yi]]; Sima Yi fell on him with an army, and Wang Ling surrendered and took his own life — the first of the three risings at Shouchun."
+  },
+  {
+   "id": "dongxing",
+   "y": 252,
+   "m": 12,
+   "need": [
+    "wu",
+    "cao"
+   ],
+   "do": [
+    [
+     "battle",
+     "dongxing"
+    ],
+    [
+     "add",
+     "wu",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "cao",
+     "prestige",
+     -10
+    ]
+   ],
+   "at": "ruxu",
+   "imp": 2,
+   "ja": "東興の戦い。[[p:孫権]]の死に乗じて攻め寄せた魏の大軍を、{n_wu}の諸葛恪が迎え撃った。雪の中、[[p:丁奉]]らは鎧を脱ぎ短い武器だけを持って魏の陣に斬り込み、魏軍は浮橋が落ちて多くが溺れた。",
+   "en": "At Dongxing, Zhuge Ke of {n_wu} met the great army Wei had sent on the death of [[p:孫権|Sun Quan]]. In the snow [[p:丁奉|Ding Feng]] and his men threw off their armour and went in with short blades; the pontoon bridge broke and many of the Wei soldiers drowned."
+  },
+  {
+   "id": "feiyi_killed",
+   "y": 253,
+   "m": 1,
+   "need": [
+    "shu"
+   ],
+   "do": [
+    [
+     "add",
+     "shu",
+     "stability",
+     -0.1
+    ]
+   ],
+   "at": "chengdu",
+   "imp": 1,
+   "ja": "{n_shu}の大将軍[[p:費禕]]は、正月の宴で魏から降った郭循に刺し殺された。",
+   "en": "[[p:費禕|Fei Yi]], grand general of {n_shu}, was stabbed to death at the New Year feast by Guo Xun, a defector from Wei."
+  },
+  {
+   "id": "xincheng_253",
+   "y": 253,
+   "m": 5,
+   "need": [
+    "wu",
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "wu",
+     "prestige",
+     -10
+    ]
+   ],
+   "at": "hefei",
+   "imp": 1,
+   "ja": "{n_wu}の諸葛恪は二十万の兵で合肥新城を囲んだが、守将張特の策に阻まれ、疫病で多くを失って退いた。冬、諸葛恪は孫峻に宴席で殺された。",
+   "en": "Zhuge Ke of {n_wu} besieged the new city of Hefei with two hundred thousand men, was held off by the defender Zhang Te's ruses, lost many to plague and withdrew. That winter Sun Jun killed him at a banquet."
+  },
+  {
+   "id": "guanqiujian",
+   "y": 255,
+   "m": 1,
+   "need": [
+    "cao"
+   ],
+   "at": "shouchun",
+   "imp": 1,
+   "ja": "寿春の毌丘倹と文欽が[[p:司馬師]]を除こうと兵を挙げたが敗れた (二度目の乱)。眼病を押して出陣した司馬師は、帰りに許昌で死んだ。",
+   "en": "Guanqiu Jian and Wen Qin rose at Shouchun against [[p:司馬師|Sima Shi]] and were beaten — the second rising. Sima Shi, who had taken the field despite a diseased eye, died at Xuchang on the way back."
+  },
+  {
+   "id": "duangu",
+   "y": 256,
+   "m": 7,
+   "need": [
+    "shu",
+    "cao"
+   ],
+   "do": [
+    [
+     "battle",
+     "duangu"
+    ],
+    [
+     "add",
+     "shu",
+     "prestige",
+     -10
+    ],
+    [
+     "army",
+     "shu",
+     0.8
+    ]
+   ],
+   "at": "tianshui",
+   "imp": 2,
+   "ja": "段谷の戦い。北伐に出た{n_shu}の[[p:姜維]]は、約束の援軍が来ないまま魏の[[p:鄧艾]]に大敗し、多くの兵を失った。蜀の人々は姜維の北伐をうらむようになった。",
+   "en": "At Duangu, [[p:姜維|Jiang Wei]] of {n_shu}, out on campaign, was crushed by Wei's [[p:鄧艾|Deng Ai]] when the promised reinforcements never came, and lost many men. Shu began to resent his campaigns."
+  },
+  {
+   "id": "zhugedan",
+   "y": 257,
+   "m": 5,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "at": "shouchun",
+   "imp": 2,
+   "ja": "寿春の諸葛誕が{n_wu}と結んで[[p:司馬昭]]に背いた (三度目の乱)。司馬昭は二十六万の大軍で寿春を囲み、翌年二月に城は落ちて諸葛誕は斬られた。その部下数百人は最後まで降らず、皆斬られた。",
+   "en": "Zhuge Dan at Shouchun joined with {n_wu} against [[p:司馬昭|Sima Zhao]] — the third rising. Sima Zhao surrounded Shouchun with two hundred and sixty thousand men; the next spring it fell and Zhuge Dan was beheaded. Hundreds of his men would not surrender to the end, and were killed to a man."
+  },
+  {
+   "id": "sunlin",
+   "y": 258,
+   "m": 12,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "add",
+     "wu",
+     "stability",
+     -0.1
+    ]
+   ],
+   "at": "jianye",
+   "imp": 1,
+   "ja": "{n_wu}の孫綝は[[p:孫亮]]を廃して[[p:孫休]]を立てたが、孫休は[[p:丁奉]]らと謀り、年の暮れの朝会で孫綝を捕らえて斬った。",
+   "en": "Sun Lin of {n_wu} deposed [[p:孫亮|Sun Liang]] and set up [[p:孫休|Sun Xiu]]; but Sun Xiu plotted with [[p:丁奉|Ding Feng]] and had Sun Lin seized and beheaded at the year-end court."
+  },
+  {
    "id": "cao_mao",
    "y": 260,
    "m": 6,
@@ -5799,6 +6359,42 @@
    "en": "\"The heart of [[p:司馬昭|Sima Zhao]] is known to every passer-by.\" The emperor [[p:曹髦|Cao Mao]] led the palace guards against Sima Zhao and was killed."
   },
   {
+   "id": "jikang",
+   "y": 262,
+   "need": [
+    "cao"
+   ],
+   "at": "luoyang",
+   "imp": 1,
+   "ja": "竹林の七賢の一人[[p:嵆康]]が、[[p:司馬昭]]に疎まれて刑場に引かれた。嵆康は日影を見て琴を求め、「広陵散」を弾き終えると「広陵散はここに絶える」と言って刑を受けた。",
+   "en": "[[p:嵆康|Ji Kang]], one of the Seven Sages of the Bamboo Grove, fell foul of [[p:司馬昭|Sima Zhao]] and was led to execution. Looking at the shadows, he asked for his zither, played \"Guangling san\" to the end — \"it dies with me\" — and met his death."
+  },
+  {
+   "id": "mianzhu",
+   "y": 263,
+   "m": 11,
+   "need": [
+    "cao",
+    "shu"
+   ],
+   "do": [
+    [
+     "battle",
+     "mianzhu"
+    ],
+    [
+     "add",
+     "shu",
+     "stability",
+     -0.3
+    ]
+   ],
+   "at": "chengdu",
+   "imp": 3,
+   "ja": "{n_cao}の[[p:鄧艾]]は陰平の山道七百里を、谷には橋を架け、崖では毛氈にくるまって転げ落ちながら越え、綿竹で[[p:諸葛亮]]の子諸葛瞻を討ち取った。成都は目の前であった。",
+   "en": "[[p:鄧艾|Deng Ai]] of {n_cao} crossed seven hundred li of mountain tracks from Yinping — bridging the gorges, rolling down the cliffs wrapped in felt — and killed [[p:諸葛亮|Zhuge Liang]]'s son Zhuge Zhan at Mianzhu. Chengdu lay before him."
+  },
+  {
    "id": "shu_end",
    "y": 263,
    "m": 12,
@@ -5817,6 +6413,26 @@
    "at": "chengdu",
    "ja": "[[p:鄧艾]]は陰平の険しい山道を毛氈にくるまって転がり降り、成都に迫った。{r_shu}は降伏した。[[p:劉禅]]はのちに洛陽で「ここは楽しく、蜀を思い出しません」と答えたという。",
    "en": "[[p:鄧艾|Deng Ai]] went down the precipices of Yinping wrapped in felt, rolling, and appeared before Chengdu; {r_shu} surrendered. Later at Luoyang, asked if he missed Shu, [[p:劉禅|Liu Shan]] is said to have answered: \"I am so happy here I never think of it.\""
+  },
+  {
+   "id": "zhonghui",
+   "y": 264,
+   "m": 1,
+   "need": [
+    "cao"
+   ],
+   "do": [
+    [
+     "add",
+     "cao",
+     "stability",
+     -0.05
+    ]
+   ],
+   "at": "chengdu",
+   "imp": 2,
+   "ja": "蜀を平らげた[[p:鍾会]]は、降った[[p:姜維]]と結んで成都で背こうとしたが、兵たちが騒ぎ立てて鍾会も姜維も殺された。[[p:鄧艾]]も護送の途中で殺された。",
+   "en": "[[p:鍾会|Zhong Hui]], Shu conquered, plotted with the surrendered [[p:姜維|Jiang Wei]] to rise at Chengdu; his soldiers mutinied and both were killed. [[p:鄧艾|Deng Ai]] was murdered on his way back under guard."
   },
   {
    "id": "jin",
@@ -5851,6 +6467,26 @@
    "en": "[[p:司馬炎|Sima Yan]] received the throne from the last emperor of Wei and founded the Jin."
   },
   {
+   "id": "buchan",
+   "y": 272,
+   "m": 9,
+   "need": [
+    "wu"
+   ],
+   "do": [
+    [
+     "add",
+     "wu",
+     "prestige",
+     5
+    ]
+   ],
+   "at": "yiling",
+   "imp": 1,
+   "ja": "{n_wu}の西陵の督歩闡が晋に降った。[[p:陸抗]]は長い囲いを築いて晋の援軍を退け、西陵を取り戻した。",
+   "en": "Bu Chan, commander of Xiling for {n_wu}, went over to Jin. [[p:陸抗|Lu Kang]] walled the city in, beat off the Jin relief and won Xiling back."
+  },
+  {
    "id": "yang_lu",
    "y": 274,
    "need": [
@@ -5867,6 +6503,19 @@
    ],
    "ja": "国境を挟んで対峙した晋の[[p:羊祜]]と呉の[[p:陸抗]]は、互いに酒と薬を贈り合い、敵ながら信を通わせた。",
    "en": "Across the border, [[p:羊祜|Yang Hu]] of Jin and [[p:陸抗|Lu Kang]] of Wu sent each other wine and medicine, and trusted each other though enemies."
+  },
+  {
+   "id": "jin_wu_campaign",
+   "y": 279,
+   "m": 11,
+   "need": [
+    "cao",
+    "wu"
+   ],
+   "at": "jianye",
+   "imp": 2,
+   "ja": "{n_cao}は二十万の兵を六つの道から{n_wu}へ進めた。益州からは王濬の大きな楼船の艦隊が長江を下り、呉が江に張った鉄の鎖を、松明の筏で焼き切って進んだ。",
+   "en": "{n_cao} sent two hundred thousand men against {n_wu} by six roads. From Yi, Wang Jun's fleet of great tower ships came down the Yangzi, burning through the iron chains Wu had strung across the river with blazing rafts."
   },
   {
    "id": "jin_wu",
@@ -5895,6 +6544,7 @@
    "en": "The armies of Jin came down the Yangtze and from the north, and Wang Jun's fleet entered Jianye. {r_wu} surrendered, and the realm, divided for nearly a century, was one again."
   }
  ],
+ "strict": true,
  "battles": {
   "guandu": {
    "name": {
@@ -6199,22 +6849,552 @@
    "read": [
     "fire_attack"
    ]
+  },
+  "yangren": {
+   "name": {
+    "ja": "陽人の戦い",
+    "en": "the battle of Yangren"
+   },
+   "at": "luoyang",
+   "sides": [
+    {
+     "realm": "wu",
+     "generals": [
+      "孫堅"
+     ],
+     "troops": 20000
+    },
+    {
+     "realm": "han",
+     "generals": [],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    2000,
+    6000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "反[[p:董卓]]の連合軍のうち、ただ一人まともに戦ったのが長沙太守の[[p:孫堅]]であった。孫堅は陽人に陣を進め、董卓は胡軫・[[p:呂布]]・華雄らを差し向けた。",
+    "en": "Of the allied lords against [[p:董卓|Dong Zhuo]], only [[p:孫堅|Sun Jian]] of Changsha truly fought. He advanced to Yangren, and Dong Zhuo sent Hu Zhen, [[p:呂布|Lü Bu]] and Hua Xiong against him."
+   },
+   "plan": {
+    "ja": "[[p:董卓]]軍の将たちは互いに仲が悪く、夜に[[p:孫堅]]の陣を襲おうとして足並みが乱れた。孫堅はその乱れを突いて大いに破り、華雄を斬った。",
+    "en": "[[p:董卓|Dong Zhuo]]'s generals were at odds; their night attack fell into confusion, and [[p:孫堅|Sun Jian]] struck into the disorder, routed them and beheaded Hua Xiong."
+   },
+   "after": {
+    "ja": "[[p:孫堅]]は洛陽に入り、[[p:董卓]]が荒らした陵墓を修めた。焼け跡の井戸から伝国の玉璽を得たとも伝わる。",
+    "en": "[[p:孫堅|Sun Jian]] entered Luoyang and restored the tombs [[p:董卓|Dong Zhuo]] had plundered; in a well among the ruins, it is said, he found the imperial seal."
+   },
+   "site": "yangren"
+  },
+  "jieqiao": {
+   "name": {
+    "ja": "界橋の戦い",
+    "en": "the battle of Jieqiao"
+   },
+   "at": "julu",
+   "sides": [
+    {
+     "realm": "yuanshao",
+     "generals": [
+      "袁紹"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "gongsun",
+     "generals": [
+      "公孫瓚"
+     ],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    2000,
+    8000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:公孫瓚]]は歩兵三万を方陣に組み、両翼に騎兵を置き、白馬に乗った精鋭「白馬義従」を中央に構えた。[[p:袁紹]]は麴義に精兵八百と強弩千張を先鋒として与えた。",
+    "en": "[[p:公孫瓚|Gongsun Zan]] drew up thirty thousand foot in a square with horse on both wings and his white-horse guard in the centre. [[p:袁紹|Yuan Shao]] gave Qu Yi eight hundred picked men and a thousand strong crossbows as his van."
+   },
+   "plan": {
+    "ja": "麴義の兵は盾の陰に伏せて動かず、白馬義従が数十歩まで迫ったところで一斉に立ち上がり、弩を放って斬り込んだ。騎兵は総崩れとなり、[[p:公孫瓚]]の陣は破れた。",
+    "en": "Qu Yi's men lay still behind their shields until the white horses were a few dozen paces off, then rose as one, loosed their crossbows and charged. The cavalry broke, and with it [[p:公孫瓚|Gongsun Zan]]'s army."
+   },
+   "after": {
+    "ja": "[[p:公孫瓚]]は北へ退き、[[p:袁紹]]は冀州を固めた。",
+    "en": "[[p:公孫瓚|Gongsun Zan]] fell back north, and [[p:袁紹|Yuan Shao]] held Ji firmly."
+   },
+   "site": "jieqiao"
+  },
+  "wancheng": {
+   "name": {
+    "ja": "宛城の戦い",
+    "en": "the battle of Wancheng"
+   },
+   "at": "wan",
+   "sides": [
+    {
+     "realm": "cao",
+     "generals": [
+      "曹操",
+      "典韋"
+     ],
+     "troops": 20000
+    },
+    {
+     "realm": "liubiao",
+     "generals": [
+      "賈詡"
+     ],
+     "troops": 10000
+    }
+   ],
+   "losses": [
+    5000,
+    500
+   ],
+   "winner": 1,
+   "months": 1,
+   "deploy": {
+    "ja": "宛の張繡は一度は[[p:曹操]]に降った。ところが曹操が張繡の叔父の未亡人を側に置いたため、張繡は恨みを抱き、[[p:賈詡]]の策で夜襲をかけた。",
+    "en": "Zhang Xiu of Wan had surrendered to [[p:曹操|Cao Cao]]; but Cao took Zhang Xiu's widowed aunt for himself, and Zhang Xiu, nursing his anger, attacked by night on [[p:賈詡|Jia Xu]]'s plan."
+   },
+   "plan": {
+    "ja": "不意を突かれた[[p:曹操]]の陣は崩れ、[[p:典韋]]は門を守って一人で戦い、全身に傷を負って死んだ。長子曹昂は自分の馬を父に譲って討たれ、甥の曹安民も死んだ。",
+    "en": "Cao's camp, taken by surprise, collapsed. [[p:典韋|Dian Wei]] held the gate alone until he died of his wounds; Cao's eldest son Cao Ang gave his father his own horse and was killed, and his nephew Cao Anmin with him."
+   },
+   "after": {
+    "ja": "[[p:曹操]]はのちに「子を失ったより[[p:典韋]]を失ったことが悲しい」と言ったという。張繡は二年後、[[p:賈詡]]の勧めで曹操に降った。",
+    "en": "Cao later said he grieved more for [[p:典韋|Dian Wei]] than for his son. Two years on Zhang Xiu, on [[p:賈詡|Jia Xu]]'s advice, went over to him."
+   }
+  },
+  "baima": {
+   "name": {
+    "ja": "白馬の戦い",
+    "en": "the battle of Baima"
+   },
+   "at": "guandu",
+   "sides": [
+    {
+     "realm": "cao",
+     "generals": [
+      "曹操",
+      "張遼",
+      "関羽"
+     ],
+     "troops": 10000
+    },
+    {
+     "realm": "yuanshao",
+     "generals": [
+      "顔良",
+      "文醜"
+     ],
+     "troops": 15000
+    }
+   ],
+   "losses": [
+    500,
+    4000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:袁紹]]は[[p:顔良]]に白馬を囲ませた。[[p:曹操]]は[[p:荀攸]]の策で西の延津へ向かうと見せかけ、袁紹の兵を西へ引きつけた。",
+    "en": "[[p:袁紹|Yuan Shao]] set [[p:顔良|Yan Liang]] to besiege Baima. On [[p:荀攸|Xun You]]'s plan Cao made as if to cross at Yanjin in the west, drawing Yuan's men that way."
+   },
+   "plan": {
+    "ja": "その隙に[[p:曹操]]は軽騎で白馬へ急行した。[[p:張遼]]と[[p:関羽]]が先鋒となり、関羽は[[p:顔良]]の旗印を見つけると馬を走らせて刺し、首を取って戻った。[[p:袁紹]]軍に当たる者はなかった。続いて延津で[[p:文醜]]も討たれた。",
+    "en": "Meanwhile Cao rode hard for Baima with light horse, [[p:張遼|Zhang Liao]] and [[p:関羽|Guan Yu]] in the van. Guan Yu saw [[p:顔良|Yan Liang]]'s banner, rode at him, struck him down and came back with his head; no one in Yuan's army could stop him. [[p:文醜|Wen Chou]] fell soon after at Yanjin."
+   },
+   "after": {
+    "ja": "[[p:袁紹]]は二人の猛将を失って士気が落ちたが、なお大軍で官渡へ迫った。",
+    "en": "[[p:袁紹|Yuan Shao]], his two champions lost, saw his army's spirits sink — yet still pressed on to Guandu with a great host."
+   },
+   "site": "baima"
+  },
+  "tongguan": {
+   "name": {
+    "ja": "潼関の戦い",
+    "en": "the battle of Tongguan"
+   },
+   "at": "hongnong",
+   "sides": [
+    {
+     "realm": "cao",
+     "generals": [
+      "曹操",
+      "徐晃"
+     ],
+     "troops": 50000
+    },
+    {
+     "realm": "liang",
+     "generals": [
+      "龐徳",
+      "馬岱"
+     ],
+     "troops": 100000
+    }
+   ],
+   "losses": [
+    3000,
+    20000
+   ],
+   "winner": 0,
+   "months": 3,
+   "deploy": {
+    "ja": "[[p:馬超]]・[[p:韓遂]]ら関西の軍閥十万が潼関に集まった。[[p:曹操]]は正面で睨み合いながら、[[p:徐晃]]らを北から黄河を渡らせて背後に回らせた。",
+    "en": "A hundred thousand men of the western warlords under [[p:馬超|Ma Chao]] and [[p:韓遂|Han Sui]] massed at Tongguan. Cao held them in front while [[p:徐晃|Xu Huang]] and others crossed the Yellow River to the north and got behind them."
+   },
+   "plan": {
+    "ja": "[[p:曹操]]は[[p:賈詡]]の策で、[[p:韓遂]]と馬上で親しげに昔話をし、さらに要所を墨で塗りつぶした手紙を韓遂に送った。[[p:馬超]]は韓遂を疑い、関西の軍は内輪もめを起こしたところを討たれた。",
+    "en": "On [[p:賈詡|Jia Xu]]'s plan Cao chatted with [[p:韓遂|Han Sui]] on horseback about old times, then sent him a letter with key words inked out. [[p:馬超|Ma Chao]] came to suspect Han Sui; the western armies fell out among themselves, and were struck down."
+   },
+   "after": {
+    "ja": "[[p:馬超]]と[[p:韓遂]]は涼州へ逃れ、関中は[[p:曹操]]のものとなった。",
+    "en": "[[p:馬超|Ma Chao]] and [[p:韓遂|Han Sui]] fled to Liang, and the land within the passes was Cao's."
+   },
+   "site": "tongguan"
+  },
+  "fancheng": {
+   "name": {
+    "ja": "樊城の戦い",
+    "en": "the battle of Fancheng"
+   },
+   "at": "xiangyang",
+   "sides": [
+    {
+     "realm": "shu",
+     "generals": [
+      "関羽"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "cao",
+     "generals": [
+      "曹仁",
+      "于禁",
+      "龐徳"
+     ],
+     "troops": 40000
+    }
+   ],
+   "losses": [
+    3000,
+    30000
+   ],
+   "winner": 0,
+   "months": 3,
+   "deploy": {
+    "ja": "[[p:関羽]]は荊州から北上して樊城の[[p:曹仁]]を囲み、魏は[[p:于禁]]に七軍を与えて救援に送った。[[p:龐徳]]は棺を担がせて出陣し、死を覚悟して関羽と戦った。",
+    "en": "[[p:関羽|Guan Yu]] marched north from Jing and besieged [[p:曹仁|Cao Ren]] in Fancheng; Wei sent [[p:于禁|Yu Jin]] with seven armies to the rescue. [[p:龐徳|Pang De]] went out with his coffin carried behind him, ready to die fighting Guan Yu."
+   },
+   "plan": {
+    "ja": "秋の長雨で漢水があふれ、低地に陣を張っていた[[p:于禁]]の七軍は水に沈んだ。[[p:関羽]]は船で攻め寄せ、于禁は降り、[[p:龐徳]]は降らずに斬られた。",
+    "en": "The autumn rains flooded the Han, and [[p:于禁|Yu Jin]]'s seven armies, camped on the low ground, were drowned out. [[p:関羽|Guan Yu]] came at them by boat; Yu Jin surrendered, and [[p:龐徳|Pang De]], who would not, was beheaded."
+   },
+   "after": {
+    "ja": "[[p:関羽]]の威名は中原を震わせ、[[p:曹操]]は都を移すことさえ考えた。だがその背後で、[[p:孫権]]の[[p:呂蒙]]が荊州を襲った。",
+    "en": "[[p:関羽|Guan Yu]]'s name shook the central plain, and Cao even thought of moving his capital. But behind him, [[p:孫権|Sun Quan]]'s [[p:呂蒙|Lü Meng]] fell on Jing."
+   },
+   "site": "fancheng"
+  },
+  "jieting": {
+   "name": {
+    "ja": "街亭の戦い",
+    "en": "the battle of Jieting"
+   },
+   "at": "jieting",
+   "sides": [
+    {
+     "realm": "shu",
+     "generals": [
+      "馬謖"
+     ],
+     "troops": 20000
+    },
+    {
+     "realm": "cao",
+     "generals": [
+      "張郃"
+     ],
+     "troops": 50000
+    }
+   ],
+   "losses": [
+    10000,
+    1000
+   ],
+   "winner": 1,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:諸葛亮]]は要の街亭を、老将たちを差し置いて若い[[p:馬謖]]に任せた。命じたのは「水のある道を押さえよ」であった。",
+    "en": "[[p:諸葛亮|Zhuge Liang]] gave the key post of Jieting to young [[p:馬謖|Ma Su]] over the veteran generals, with orders to hold the road where the water was."
+   },
+   "plan": {
+    "ja": "[[p:馬謖]]は命に背いて山の上に陣を張った。魏の[[p:張郃]]は水の手を断って山を囲み、渇いた蜀軍は崩れた。王平だけが兵をまとめて退いた。",
+    "en": "[[p:馬謖|Ma Su]] disobeyed and camped on the hilltop. Wei's [[p:張郃|Zhang He]] cut him off from the water and surrounded the hill; the thirsting Shu army broke. Only Wang Ping kept his men together."
+   },
+   "after": {
+    "ja": "[[p:諸葛亮]]は泣いて[[p:馬謖]]を斬り、自らも位を三等下げた。",
+    "en": "[[p:諸葛亮|Zhuge Liang]], weeping, had [[p:馬謖|Ma Su]] beheaded, and lowered his own rank three grades."
+   }
+  },
+  "shiting": {
+   "name": {
+    "ja": "石亭の戦い",
+    "en": "the battle of Shiting"
+   },
+   "at": "lujiang",
+   "sides": [
+    {
+     "realm": "wu",
+     "generals": [
+      "陸遜"
+     ],
+     "troops": 60000
+    },
+    {
+     "realm": "cao",
+     "generals": [],
+     "troops": 100000
+    }
+   ],
+   "losses": [
+    2000,
+    10000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "呉の周魴は髪を切って偽りの降伏を示し、魏の曹休を深く誘い込んだ。[[p:孫権]]は[[p:陸遜]]を大都督とし、朱桓・全琮を左右に置いた。",
+    "en": "Zhou Fang of Wu cut off his hair to prove a false surrender and lured Cao Xiu of Wei deep in. [[p:孫権|Sun Quan]] made [[p:陸遜|Lu Xun]] grand commander, with Zhu Huan and Quan Cong on either wing."
+   },
+   "plan": {
+    "ja": "欺かれたと知っても引かなかった曹休を、[[p:陸遜]]は正面から、朱桓・全琮が左右から攻め、魏軍は夾石まで追い崩された。",
+    "en": "Cao Xiu, though he knew he had been tricked, would not withdraw; [[p:陸遜|Lu Xun]] struck him in front while Zhu Huan and Quan Cong came in from the flanks, and the Wei army was chased back in rout to Jiashi."
+   },
+   "after": {
+    "ja": "曹休は恥じて背中に悪性の腫れ物ができ、まもなく死んだ。",
+    "en": "Cao Xiu, ashamed, broke out in a carbuncle on his back and soon died."
+   },
+   "site": "shiting"
+  },
+  "dongxing": {
+   "name": {
+    "ja": "東興の戦い",
+    "en": "the battle of Dongxing"
+   },
+   "at": "ruxu",
+   "sides": [
+    {
+     "realm": "wu",
+     "generals": [
+      "丁奉"
+     ],
+     "troops": 40000
+    },
+    {
+     "realm": "cao",
+     "generals": [
+      "司馬昭"
+     ],
+     "troops": 70000
+    }
+   ],
+   "losses": [
+    1000,
+    10000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:孫権]]の死に乗じて、魏は東興の堤を壊そうと大軍で攻め寄せた。呉の諸葛恪が四万で救援に向かい、[[p:丁奉]]が先鋒に立った。",
+    "en": "On [[p:孫権|Sun Quan]]'s death Wei came in force to break the dyke at Dongxing. Zhuge Ke of Wu went to its relief with forty thousand, [[p:丁奉|Ding Feng]] in the van."
+   },
+   "plan": {
+    "ja": "大雪の日、魏の将たちは酒を飲んで油断していた。[[p:丁奉]]は兵に鎧を脱がせ、兜と短い刀だけで堤を駆け上がらせた。魏の陣は崩れ、逃げる兵で浮橋が落ちた。",
+    "en": "It was a day of heavy snow and the Wei officers were drinking. [[p:丁奉|Ding Feng]] had his men strip off their armour and run up the dyke with helmets and short swords only. The Wei camp broke, and the pontoon bridge gave way under the fleeing men."
+   },
+   "after": {
+    "ja": "諸葛恪の名は大いに上がったが、驕った諸葛恪は翌年の合肥新城で大敗し、殺される。",
+    "en": "Zhuge Ke's name soared — and, grown proud, he was beaten at the new city of Hefei the next year and killed."
+   },
+   "site": "dongxing"
+  },
+  "duangu": {
+   "name": {
+    "ja": "段谷の戦い",
+    "en": "the battle of Duangu"
+   },
+   "at": "tianshui",
+   "sides": [
+    {
+     "realm": "shu",
+     "generals": [
+      "姜維"
+     ],
+     "troops": 30000
+    },
+    {
+     "realm": "cao",
+     "generals": [
+      "鄧艾"
+     ],
+     "troops": 30000
+    }
+   ],
+   "losses": [
+    10000,
+    2000
+   ],
+   "winner": 1,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:姜維]]は鎮西大将軍胡済と上邽で落ち合う約束で出陣したが、胡済は来なかった。魏の[[p:鄧艾]]は姜維の動きを読み、段谷で待ち構えた。",
+    "en": "[[p:姜維|Jiang Wei]] set out to meet Hu Ji at Shanggui, but Hu Ji never came. [[p:鄧艾|Deng Ai]] of Wei read his moves and waited for him at Duangu."
+   },
+   "plan": {
+    "ja": "孤立した[[p:姜維]]の軍は[[p:鄧艾]]に撃ち破られ、四散した。",
+    "en": "[[p:姜維|Jiang Wei]]'s army, alone, was broken by [[p:鄧艾|Deng Ai]] and scattered."
+   },
+   "after": {
+    "ja": "[[p:姜維]]は罪を請うて位を下げられた。蜀の国力はますます衰えた。",
+    "en": "[[p:姜維|Jiang Wei]] asked to be punished and was lowered in rank; Shu grew weaker still."
+   },
+   "site": "duangu"
+  },
+  "mianzhu": {
+   "name": {
+    "ja": "綿竹の戦い",
+    "en": "the battle of Mianzhu"
+   },
+   "at": "chengdu",
+   "sides": [
+    {
+     "realm": "cao",
+     "generals": [
+      "鄧艾"
+     ],
+     "troops": 20000
+    },
+    {
+     "realm": "shu",
+     "generals": [],
+     "troops": 20000
+    }
+   ],
+   "losses": [
+    3000,
+    10000
+   ],
+   "winner": 0,
+   "months": 1,
+   "deploy": {
+    "ja": "[[p:姜維]]が剣閣で[[p:鍾会]]の大軍を防いでいる間に、[[p:鄧艾]]は陰平から人の通わぬ山道を越えて蜀の奥へ出た。諸葛瞻 ([[p:諸葛亮]]の子) が綿竹で迎え撃った。",
+    "en": "While [[p:姜維|Jiang Wei]] held [[p:鍾会|Zhong Hui]]'s great army at Jiange, [[p:鄧艾|Deng Ai]] crossed the trackless mountains from Yinping into the heart of Shu. Zhuge Zhan, son of [[p:諸葛亮|Zhuge Liang]], met him at Mianzhu."
+   },
+   "plan": {
+    "ja": "[[p:鄧艾]]は「琅邪王にしよう」と降伏を誘ったが、諸葛瞻は使者を斬った。激戦の末、諸葛瞻とその子諸葛尚は戦死した。",
+    "en": "[[p:鄧艾|Deng Ai]] offered to make him Prince of Langya if he surrendered; Zhuge Zhan beheaded the envoy. After hard fighting Zhuge Zhan and his son Zhuge Shang fell."
+   },
+   "after": {
+    "ja": "成都は目の前となり、[[p:劉禅]]は降伏を決めた。",
+    "en": "Chengdu lay open, and [[p:劉禅|Liu Shan]] decided to surrender."
+   },
+   "site": "mianzhu"
   }
  },
+ "sites": [
+  [
+   "yangren",
+   "陽人",
+   "Yangren",
+   34.25,
+   112.85
+  ],
+  [
+   "jieqiao",
+   "界橋",
+   "Jieqiao",
+   37,
+   115.3
+  ],
+  [
+   "baima",
+   "白馬",
+   "Baima",
+   35.55,
+   114.65
+  ],
+  [
+   "tongguan",
+   "潼関",
+   "Tongguan",
+   34.55,
+   110.3
+  ],
+  [
+   "fancheng",
+   "樊城",
+   "Fancheng",
+   32.05,
+   112.16
+  ],
+  [
+   "shiting",
+   "石亭",
+   "Shiting",
+   30.65,
+   116.6
+  ],
+  [
+   "dongxing",
+   "東興",
+   "Dongxing",
+   31.6,
+   117.85
+  ],
+  [
+   "duangu",
+   "段谷",
+   "Duangu",
+   34.4,
+   105.6
+  ],
+  [
+   "mianzhu",
+   "綿竹",
+   "Mianzhu",
+   31.33,
+   104.2
+  ]
+ ],
  "wars": [
   {
    "name": {
-    "ja": "袁紹・公孫瓚の戦い",
-    "en": "the war of Yuan Shao and Gongsun Zan"
+    "ja": "孫堅の董卓討伐",
+    "en": "Sun Jian's war on Dong Zhuo"
    },
    "end": [
-    199,
-    3
+    191,
+    5
    ],
    "terms": {
-    "ja": "易京の楼に籠もった[[p:公孫瓚]]は、地下道を掘られて楼を崩され、妻子を殺して自ら火の中に身を投じた。河北は[[p:袁紹]]のものとなった。",
-    "en": "Holed up in the towers of Yijing, [[p:公孫瓚|Gongsun Zan]] saw them undermined and brought down; he killed his wife and children and threw himself into the fire. The north was [[p:袁紹|Yuan Shao]]'s."
-   }
+    "ja": "[[p:孫堅]]は洛陽に入り、[[p:董卓]]は長安へ退いた。",
+    "en": "[[p:孫堅|Sun Jian]] entered Luoyang; [[p:董卓|Dong Zhuo]] fell back to Chang'an."
+   },
+   "battles": [
+    "yangren"
+   ]
   },
   {
    "name": {
@@ -6232,6 +7412,40 @@
   },
   {
    "name": {
+    "ja": "袁紹・公孫瓚の戦い",
+    "en": "the war of Yuan Shao and Gongsun Zan"
+   },
+   "end": [
+    199,
+    3
+   ],
+   "terms": {
+    "ja": "易京の楼に籠もった[[p:公孫瓚]]は、地下道を掘られて楼を崩され、妻子を殺して自ら火の中に身を投じた。河北は[[p:袁紹]]のものとなった。",
+    "en": "Holed up in the towers of Yijing, [[p:公孫瓚|Gongsun Zan]] saw them undermined and brought down; he killed his wife and children and threw himself into the fire. The north was [[p:袁紹|Yuan Shao]]'s."
+   },
+   "battles": [
+    "jieqiao"
+   ]
+  },
+  {
+   "name": {
+    "ja": "曹操の張繡攻め",
+    "en": "Cao Cao's war on Zhang Xiu"
+   },
+   "end": [
+    199,
+    11
+   ],
+   "terms": {
+    "ja": "張繡は[[p:賈詡]]の勧めで[[p:曹操]]に降った。",
+    "en": "Zhang Xiu, on [[p:賈詡|Jia Xu]]'s advice, went over to [[p:曹操|Cao Cao]]."
+   },
+   "battles": [
+    "wancheng"
+   ]
+  },
+  {
+   "name": {
     "ja": "曹操・袁紹の戦い",
     "en": "the war of Cao Cao and Yuan Shao"
    },
@@ -6244,6 +7458,7 @@
     "en": "[[p:袁尚|Yuan Shang]] and Yuan Xi fled to Gongsun Kang in Liaodong, who cut off their heads and sent them to [[p:曹操|Cao Cao]]. The Yuan were finished."
    },
    "battles": [
+    "baima",
     "guandu"
    ]
   },
@@ -6260,6 +7475,23 @@
     "ja": "一年余りの攻防の末、[[p:曹仁]]は江陵を捨てて北へ退いた。[[p:周瑜]]は南郡太守となったが、翌年蜀を取る計画の途中で病没する。",
     "en": "After more than a year of fighting [[p:曹仁|Cao Ren]] abandoned Jiangling and withdrew north. [[p:周瑜|Zhou Yu]] became governor of Nan commandery — and died of illness the next year, in the midst of planning to take Shu."
    }
+  },
+  {
+   "name": {
+    "ja": "潼関の戦い",
+    "en": "the Tongguan campaign"
+   },
+   "end": [
+    211,
+    12
+   ],
+   "terms": {
+    "ja": "[[p:馬超]]と[[p:韓遂]]は涼州へ逃れ、関中は[[p:曹操]]のものとなった。",
+    "en": "[[p:馬超|Ma Chao]] and [[p:韓遂|Han Sui]] fled to Liang, and the land within the passes was Cao's."
+   },
+   "battles": [
+    "tongguan"
+   ]
   },
   {
    "name": {
@@ -6297,6 +7529,23 @@
   },
   {
    "name": {
+    "ja": "関羽の北伐",
+    "en": "Guan Yu's march north"
+   },
+   "end": [
+    220,
+    1
+   ],
+   "terms": {
+    "ja": "[[p:呂蒙]]が荊州を襲い、[[p:関羽]]は臨沮で捕らえられて斬られた。",
+    "en": "[[p:呂蒙|Lü Meng]] fell on Jing; [[p:関羽|Guan Yu]] was taken at Linju and beheaded."
+   },
+   "battles": [
+    "fancheng"
+   ]
+  },
+  {
+   "name": {
     "ja": "劉備の東征",
     "en": "Liu Bei's eastern campaign"
    },
@@ -6310,6 +7559,91 @@
    },
    "battles": [
     "yiling"
+   ]
+  },
+  {
+   "name": {
+    "ja": "諸葛亮の第一次北伐",
+    "en": "Zhuge Liang's first northern campaign"
+   },
+   "end": [
+    228,
+    7
+   ],
+   "terms": {
+    "ja": "蜀軍は漢中へ退き、離反した三郡は魏に戻った。",
+    "en": "The Shu army fell back to Hanzhong, and the three commanderies that had rebelled were Wei's again."
+   },
+   "battles": [
+    "jieting"
+   ]
+  },
+  {
+   "name": {
+    "ja": "石亭の戦い",
+    "en": "the Shiting campaign"
+   },
+   "end": [
+    228,
+    9
+   ],
+   "terms": {
+    "ja": "曹休は大敗して逃れ、まもなく死んだ。",
+    "en": "Cao Xiu fled in rout and soon died."
+   },
+   "battles": [
+    "shiting"
+   ]
+  },
+  {
+   "name": {
+    "ja": "東興の戦い",
+    "en": "the Dongxing campaign"
+   },
+   "end": [
+    253,
+    1
+   ],
+   "terms": {
+    "ja": "魏軍は退き、諸葛恪の名が上がった。",
+    "en": "The Wei army withdrew, and Zhuge Ke's name rose."
+   },
+   "battles": [
+    "dongxing"
+   ]
+  },
+  {
+   "name": {
+    "ja": "姜維の北伐 (段谷)",
+    "en": "Jiang Wei's campaign (Duangu)"
+   },
+   "end": [
+    256,
+    9
+   ],
+   "terms": {
+    "ja": "[[p:姜維]]は大敗して退き、位を下げられた。",
+    "en": "[[p:姜維|Jiang Wei]] fell back beaten and was lowered in rank."
+   },
+   "battles": [
+    "duangu"
+   ]
+  },
+  {
+   "name": {
+    "ja": "魏の蜀攻め",
+    "en": "Wei's conquest of Shu"
+   },
+   "end": [
+    263,
+    12
+   ],
+   "terms": {
+    "ja": "[[p:劉禅]]は降り、蜀は滅んだ。",
+    "en": "[[p:劉禅|Liu Shan]] surrendered, and Shu was no more."
+   },
+   "battles": [
+    "mianzhu"
    ]
   }
  ],
@@ -6890,6 +8224,187 @@
    "related": [
     "fire_attack"
    ]
+  },
+  "battle_yangren": {
+   "kind": "battle",
+   "title": {
+    "ja": "陽人の戦い",
+    "en": "the battle of Yangren"
+   },
+   "body": {
+    "ja": "反[[p:董卓]]の連合軍のうち、ただ一人まともに戦ったのが長沙太守の[[p:孫堅]]であった。孫堅は陽人に陣を進め、董卓は胡軫・[[p:呂布]]・華雄らを差し向けた。\n\n董卓軍の将たちは互いに仲が悪く、夜に孫堅の陣を襲おうとして足並みが乱れた。孫堅はその乱れを突いて大いに破り、華雄を斬った。\n\n孫堅は洛陽に入り、董卓が荒らした陵墓を修めた。焼け跡の井戸から伝国の玉璽を得たとも伝わる。\n\n兵力 (目安): 20,000 対 30,000。損害: 2,000 対 6,000。",
+    "en": "Of the allied lords against [[p:董卓|Dong Zhuo]], only [[p:孫堅|Sun Jian]] of Changsha truly fought. He advanced to Yangren, and Dong Zhuo sent Hu Zhen, [[p:呂布|Lü Bu]] and Hua Xiong against him.\n\nDong Zhuo's generals were at odds; their night attack fell into confusion, and Sun Jian struck into the disorder, routed them and beheaded Hua Xiong.\n\nSun Jian entered Luoyang and restored the tombs Dong Zhuo had plundered; in a well among the ruins, it is said, he found the imperial seal.\n\nTroops (rough): 20,000 against 30,000. Losses: 2,000 against 6,000."
+   },
+   "people": [
+    "孫堅|Sun Jian"
+   ],
+   "related": []
+  },
+  "battle_jieqiao": {
+   "kind": "battle",
+   "title": {
+    "ja": "界橋の戦い",
+    "en": "the battle of Jieqiao"
+   },
+   "body": {
+    "ja": "[[p:公孫瓚]]は歩兵三万を方陣に組み、両翼に騎兵を置き、白馬に乗った精鋭「白馬義従」を中央に構えた。[[p:袁紹]]は麴義に精兵八百と強弩千張を先鋒として与えた。\n\n麴義の兵は盾の陰に伏せて動かず、白馬義従が数十歩まで迫ったところで一斉に立ち上がり、弩を放って斬り込んだ。騎兵は総崩れとなり、公孫瓚の陣は破れた。\n\n公孫瓚は北へ退き、袁紹は冀州を固めた。\n\n兵力 (目安): 30,000 対 30,000。損害: 2,000 対 8,000。",
+    "en": "[[p:公孫瓚|Gongsun Zan]] drew up thirty thousand foot in a square with horse on both wings and his white-horse guard in the centre. [[p:袁紹|Yuan Shao]] gave Qu Yi eight hundred picked men and a thousand strong crossbows as his van.\n\nQu Yi's men lay still behind their shields until the white horses were a few dozen paces off, then rose as one, loosed their crossbows and charged. The cavalry broke, and with it Gongsun Zan's army.\n\nGongsun Zan fell back north, and Yuan Shao held Ji firmly.\n\nTroops (rough): 30,000 against 30,000. Losses: 2,000 against 8,000."
+   },
+   "people": [
+    "袁紹|Yuan Shao",
+    "公孫瓚|Gongsun Zan"
+   ],
+   "related": []
+  },
+  "battle_wancheng": {
+   "kind": "battle",
+   "title": {
+    "ja": "宛城の戦い",
+    "en": "the battle of Wancheng"
+   },
+   "body": {
+    "ja": "宛の張繡は一度は[[p:曹操]]に降った。ところが曹操が張繡の叔父の未亡人を側に置いたため、張繡は恨みを抱き、[[p:賈詡]]の策で夜襲をかけた。\n\n不意を突かれた曹操の陣は崩れ、[[p:典韋]]は門を守って一人で戦い、全身に傷を負って死んだ。長子曹昂は自分の馬を父に譲って討たれ、甥の曹安民も死んだ。\n\n曹操はのちに「子を失ったより典韋を失ったことが悲しい」と言ったという。張繡は二年後、賈詡の勧めで曹操に降った。\n\n兵力 (目安): 20,000 対 10,000。損害: 5,000 対 500。",
+    "en": "Zhang Xiu of Wan had surrendered to [[p:曹操|Cao Cao]]; but Cao took Zhang Xiu's widowed aunt for himself, and Zhang Xiu, nursing his anger, attacked by night on [[p:賈詡|Jia Xu]]'s plan.\n\nCao's camp, taken by surprise, collapsed. [[p:典韋|Dian Wei]] held the gate alone until he died of his wounds; Cao's eldest son Cao Ang gave his father his own horse and was killed, and his nephew Cao Anmin with him.\n\nCao later said he grieved more for Dian Wei than for his son. Two years on Zhang Xiu, on Jia Xu's advice, went over to him.\n\nTroops (rough): 20,000 against 10,000. Losses: 5,000 against 500."
+   },
+   "people": [
+    "曹操|Cao Cao",
+    "典韋|Dian Wei",
+    "賈詡|Jia Xu"
+   ],
+   "related": []
+  },
+  "battle_baima": {
+   "kind": "battle",
+   "title": {
+    "ja": "白馬の戦い",
+    "en": "the battle of Baima"
+   },
+   "body": {
+    "ja": "[[p:袁紹]]は[[p:顔良]]に白馬を囲ませた。[[p:曹操]]は[[p:荀攸]]の策で西の延津へ向かうと見せかけ、袁紹の兵を西へ引きつけた。\n\nその隙に曹操は軽騎で白馬へ急行した。[[p:張遼]]と[[p:関羽]]が先鋒となり、関羽は顔良の旗印を見つけると馬を走らせて刺し、首を取って戻った。袁紹軍に当たる者はなかった。続いて延津で[[p:文醜]]も討たれた。\n\n袁紹は二人の猛将を失って士気が落ちたが、なお大軍で官渡へ迫った。\n\n兵力 (目安): 10,000 対 15,000。損害: 500 対 4,000。",
+    "en": "[[p:袁紹|Yuan Shao]] set [[p:顔良|Yan Liang]] to besiege Baima. On [[p:荀攸|Xun You]]'s plan Cao made as if to cross at Yanjin in the west, drawing Yuan's men that way.\n\nMeanwhile Cao rode hard for Baima with light horse, [[p:張遼|Zhang Liao]] and [[p:関羽|Guan Yu]] in the van. Guan Yu saw Yan Liang's banner, rode at him, struck him down and came back with his head; no one in Yuan's army could stop him. [[p:文醜|Wen Chou]] fell soon after at Yanjin.\n\nYuan Shao, his two champions lost, saw his army's spirits sink — yet still pressed on to Guandu with a great host.\n\nTroops (rough): 10,000 against 15,000. Losses: 500 against 4,000."
+   },
+   "people": [
+    "曹操|Cao Cao",
+    "張遼|Zhang Liao",
+    "関羽|Guan Yu",
+    "顔良|Yan Liang",
+    "文醜|Wen Chou"
+   ],
+   "related": []
+  },
+  "battle_tongguan": {
+   "kind": "battle",
+   "title": {
+    "ja": "潼関の戦い",
+    "en": "the battle of Tongguan"
+   },
+   "body": {
+    "ja": "[[p:馬超]]・[[p:韓遂]]ら関西の軍閥十万が潼関に集まった。[[p:曹操]]は正面で睨み合いながら、[[p:徐晃]]らを北から黄河を渡らせて背後に回らせた。\n\n曹操は[[p:賈詡]]の策で、韓遂と馬上で親しげに昔話をし、さらに要所を墨で塗りつぶした手紙を韓遂に送った。馬超は韓遂を疑い、関西の軍は内輪もめを起こしたところを討たれた。\n\n馬超と韓遂は涼州へ逃れ、関中は曹操のものとなった。\n\n兵力 (目安): 50,000 対 100,000。損害: 3,000 対 20,000。",
+    "en": "A hundred thousand men of the western warlords under [[p:馬超|Ma Chao]] and [[p:韓遂|Han Sui]] massed at Tongguan. Cao held them in front while [[p:徐晃|Xu Huang]] and others crossed the Yellow River to the north and got behind them.\n\nOn [[p:賈詡|Jia Xu]]'s plan Cao chatted with Han Sui on horseback about old times, then sent him a letter with key words inked out. Ma Chao came to suspect Han Sui; the western armies fell out among themselves, and were struck down.\n\nMa Chao and Han Sui fled to Liang, and the land within the passes was Cao's.\n\nTroops (rough): 50,000 against 100,000. Losses: 3,000 against 20,000."
+   },
+   "people": [
+    "曹操|Cao Cao",
+    "徐晃|Xu Huang",
+    "龐徳|Pang De",
+    "馬岱|Ma Dai"
+   ],
+   "related": []
+  },
+  "battle_fancheng": {
+   "kind": "battle",
+   "title": {
+    "ja": "樊城の戦い",
+    "en": "the battle of Fancheng"
+   },
+   "body": {
+    "ja": "[[p:関羽]]は荊州から北上して樊城の[[p:曹仁]]を囲み、魏は[[p:于禁]]に七軍を与えて救援に送った。[[p:龐徳]]は棺を担がせて出陣し、死を覚悟して関羽と戦った。\n\n秋の長雨で漢水があふれ、低地に陣を張っていた于禁の七軍は水に沈んだ。関羽は船で攻め寄せ、于禁は降り、龐徳は降らずに斬られた。\n\n関羽の威名は中原を震わせ、[[p:曹操]]は都を移すことさえ考えた。だがその背後で、[[p:孫権]]の[[p:呂蒙]]が荊州を襲った。\n\n兵力 (目安): 30,000 対 40,000。損害: 3,000 対 30,000。",
+    "en": "[[p:関羽|Guan Yu]] marched north from Jing and besieged [[p:曹仁|Cao Ren]] in Fancheng; Wei sent [[p:于禁|Yu Jin]] with seven armies to the rescue. [[p:龐徳|Pang De]] went out with his coffin carried behind him, ready to die fighting Guan Yu.\n\nThe autumn rains flooded the Han, and Yu Jin's seven armies, camped on the low ground, were drowned out. Guan Yu came at them by boat; Yu Jin surrendered, and Pang De, who would not, was beheaded.\n\nGuan Yu's name shook the central plain, and Cao even thought of moving his capital. But behind him, [[p:孫権|Sun Quan]]'s [[p:呂蒙|Lü Meng]] fell on Jing.\n\nTroops (rough): 30,000 against 40,000. Losses: 3,000 against 30,000."
+   },
+   "people": [
+    "関羽|Guan Yu",
+    "曹仁|Cao Ren",
+    "于禁|Yu Jin",
+    "龐徳|Pang De"
+   ],
+   "related": []
+  },
+  "battle_jieting": {
+   "kind": "battle",
+   "title": {
+    "ja": "街亭の戦い",
+    "en": "the battle of Jieting"
+   },
+   "body": {
+    "ja": "[[p:諸葛亮]]は要の街亭を、老将たちを差し置いて若い[[p:馬謖]]に任せた。命じたのは「水のある道を押さえよ」であった。\n\n馬謖は命に背いて山の上に陣を張った。魏の[[p:張郃]]は水の手を断って山を囲み、渇いた蜀軍は崩れた。王平だけが兵をまとめて退いた。\n\n諸葛亮は泣いて馬謖を斬り、自らも位を三等下げた。\n\n兵力 (目安): 20,000 対 50,000。損害: 10,000 対 1,000。",
+    "en": "[[p:諸葛亮|Zhuge Liang]] gave the key post of Jieting to young [[p:馬謖|Ma Su]] over the veteran generals, with orders to hold the road where the water was.\n\nMa Su disobeyed and camped on the hilltop. Wei's [[p:張郃|Zhang He]] cut him off from the water and surrounded the hill; the thirsting Shu army broke. Only Wang Ping kept his men together.\n\nZhuge Liang, weeping, had Ma Su beheaded, and lowered his own rank three grades.\n\nTroops (rough): 20,000 against 50,000. Losses: 10,000 against 1,000."
+   },
+   "people": [
+    "馬謖|Ma Su",
+    "張郃|Zhang He"
+   ],
+   "related": []
+  },
+  "battle_shiting": {
+   "kind": "battle",
+   "title": {
+    "ja": "石亭の戦い",
+    "en": "the battle of Shiting"
+   },
+   "body": {
+    "ja": "呉の周魴は髪を切って偽りの降伏を示し、魏の曹休を深く誘い込んだ。[[p:孫権]]は[[p:陸遜]]を大都督とし、朱桓・全琮を左右に置いた。\n\n欺かれたと知っても引かなかった曹休を、陸遜は正面から、朱桓・全琮が左右から攻め、魏軍は夾石まで追い崩された。\n\n曹休は恥じて背中に悪性の腫れ物ができ、まもなく死んだ。\n\n兵力 (目安): 60,000 対 100,000。損害: 2,000 対 10,000。",
+    "en": "Zhou Fang of Wu cut off his hair to prove a false surrender and lured Cao Xiu of Wei deep in. [[p:孫権|Sun Quan]] made [[p:陸遜|Lu Xun]] grand commander, with Zhu Huan and Quan Cong on either wing.\n\nCao Xiu, though he knew he had been tricked, would not withdraw; Lu Xun struck him in front while Zhu Huan and Quan Cong came in from the flanks, and the Wei army was chased back in rout to Jiashi.\n\nCao Xiu, ashamed, broke out in a carbuncle on his back and soon died.\n\nTroops (rough): 60,000 against 100,000. Losses: 2,000 against 10,000."
+   },
+   "people": [
+    "陸遜|Lu Xun"
+   ],
+   "related": []
+  },
+  "battle_dongxing": {
+   "kind": "battle",
+   "title": {
+    "ja": "東興の戦い",
+    "en": "the battle of Dongxing"
+   },
+   "body": {
+    "ja": "[[p:孫権]]の死に乗じて、魏は東興の堤を壊そうと大軍で攻め寄せた。呉の諸葛恪が四万で救援に向かい、[[p:丁奉]]が先鋒に立った。\n\n大雪の日、魏の将たちは酒を飲んで油断していた。丁奉は兵に鎧を脱がせ、兜と短い刀だけで堤を駆け上がらせた。魏の陣は崩れ、逃げる兵で浮橋が落ちた。\n\n諸葛恪の名は大いに上がったが、驕った諸葛恪は翌年の合肥新城で大敗し、殺される。\n\n兵力 (目安): 40,000 対 70,000。損害: 1,000 対 10,000。",
+    "en": "On [[p:孫権|Sun Quan]]'s death Wei came in force to break the dyke at Dongxing. Zhuge Ke of Wu went to its relief with forty thousand, [[p:丁奉|Ding Feng]] in the van.\n\nIt was a day of heavy snow and the Wei officers were drinking. Ding Feng had his men strip off their armour and run up the dyke with helmets and short swords only. The Wei camp broke, and the pontoon bridge gave way under the fleeing men.\n\nZhuge Ke's name soared — and, grown proud, he was beaten at the new city of Hefei the next year and killed.\n\nTroops (rough): 40,000 against 70,000. Losses: 1,000 against 10,000."
+   },
+   "people": [
+    "丁奉|Ding Feng",
+    "司馬昭|Sima Zhao"
+   ],
+   "related": []
+  },
+  "battle_duangu": {
+   "kind": "battle",
+   "title": {
+    "ja": "段谷の戦い",
+    "en": "the battle of Duangu"
+   },
+   "body": {
+    "ja": "[[p:姜維]]は鎮西大将軍胡済と上邽で落ち合う約束で出陣したが、胡済は来なかった。魏の[[p:鄧艾]]は姜維の動きを読み、段谷で待ち構えた。\n\n孤立した姜維の軍は鄧艾に撃ち破られ、四散した。\n\n姜維は罪を請うて位を下げられた。蜀の国力はますます衰えた。\n\n兵力 (目安): 30,000 対 30,000。損害: 10,000 対 2,000。",
+    "en": "[[p:姜維|Jiang Wei]] set out to meet Hu Ji at Shanggui, but Hu Ji never came. [[p:鄧艾|Deng Ai]] of Wei read his moves and waited for him at Duangu.\n\nJiang Wei's army, alone, was broken by Deng Ai and scattered.\n\nJiang Wei asked to be punished and was lowered in rank; Shu grew weaker still.\n\nTroops (rough): 30,000 against 30,000. Losses: 10,000 against 2,000."
+   },
+   "people": [
+    "姜維|Jiang Wei",
+    "鄧艾|Deng Ai"
+   ],
+   "related": []
+  },
+  "battle_mianzhu": {
+   "kind": "battle",
+   "title": {
+    "ja": "綿竹の戦い",
+    "en": "the battle of Mianzhu"
+   },
+   "body": {
+    "ja": "[[p:姜維]]が剣閣で[[p:鍾会]]の大軍を防いでいる間に、[[p:鄧艾]]は陰平から人の通わぬ山道を越えて蜀の奥へ出た。諸葛瞻 ([[p:諸葛亮]]の子) が綿竹で迎え撃った。\n\n鄧艾は「琅邪王にしよう」と降伏を誘ったが、諸葛瞻は使者を斬った。激戦の末、諸葛瞻とその子諸葛尚は戦死した。\n\n成都は目の前となり、[[p:劉禅]]は降伏を決めた。\n\n兵力 (目安): 20,000 対 20,000。損害: 3,000 対 10,000。",
+    "en": "While [[p:姜維|Jiang Wei]] held [[p:鍾会|Zhong Hui]]'s great army at Jiange, [[p:鄧艾|Deng Ai]] crossed the trackless mountains from Yinping into the heart of Shu. Zhuge Zhan, son of [[p:諸葛亮|Zhuge Liang]], met him at Mianzhu.\n\nDeng Ai offered to make him Prince of Langya if he surrendered; Zhuge Zhan beheaded the envoy. After hard fighting Zhuge Zhan and his son Zhuge Shang fell.\n\nChengdu lay open, and [[p:劉禅|Liu Shan]] decided to surrender.\n\nTroops (rough): 20,000 against 20,000. Losses: 3,000 against 10,000."
+   },
+   "people": [
+    "鄧艾|Deng Ai"
+   ],
+   "related": []
   },
   "wuchao": {
    "kind": "story",
@@ -7762,6 +9277,5 @@
    "西陵",
    "Xiling"
   ]
- ],
- "strict": true
+ ]
 }
