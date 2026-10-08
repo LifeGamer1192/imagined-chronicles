@@ -6030,7 +6030,8 @@
    "m": 10,
    "need": [
     "oda",
-    "rokkaku"
+    "rokkaku",
+    "miyoshi"
    ],
    "do": [
     [
@@ -6052,6 +6053,11 @@
      "oda",
      "prestige",
      20
+    ],
+    [
+     "capital",
+     "miyoshi",
+     "shozui"
     ]
    ],
    "imp": 3,
@@ -6179,6 +6185,25 @@
    "at": "tsuruga",
    "ja": "{r_oda}は越前の{n_asakura}を攻めたが、妹[[p:お市]]の嫁ぎ先{n_azai}が背いて退路を断った。[[a:kanegasaki_nokiguchi|木下藤吉郎が殿を]]務め、信長はわずかな供と京へ逃れた (金ヶ崎の退き口)。",
    "en": "{r_oda} invaded {n_asakura} in Echizen, but {n_azai}, whose lord had married his sister [[p:お市|Oichi]], turned and cut the road home. [[a:kanegasaki_nokiguchi|Kinoshita Tōkichirō held the rear]] while Nobunaga fled to Kyoto with a handful of men."
+  },
+  {
+   "id": "hamamatsu",
+   "y": 1570,
+   "m": 6,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "capital",
+     "tokugawa",
+     "hikuma"
+    ]
+   ],
+   "at": "hikuma",
+   "imp": 1,
+   "ja": "{r_tokugawa}は居城を岡崎から遠江の引間に移し、浜松と名を改めた。岡崎は嫡男の信康に任せた。",
+   "en": "{r_tokugawa} moved his seat from Okazaki to Hikuma in Tōtōmi and renamed it Hamamatsu, leaving Okazaki to his heir Nobuyasu."
   },
   {
    "id": "anegawa",
@@ -7195,6 +7220,29 @@
    "en": "The conquest of Kai. As {n_oda} and {n_tokugawa} invaded, retainer after retainer went over; [[p:武田勝頼|Takeda Katsuyori]] killed himself at Tenmokuzan, and the great house of Takeda was no more."
   },
   {
+   "id": "suruga_to_ieyasu",
+   "y": 1582,
+   "m": 5,
+   "need": [
+    "oda",
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "cede",
+     "oda",
+     "tokugawa",
+     [
+      "sunpu"
+     ]
+    ]
+   ],
+   "at": "sunpu",
+   "imp": 1,
+   "ja": "武田攻めの功により、{r_oda}は駿河一国を{r_tokugawa}に与えた。家康は安土に礼に上り、信長は家康を手厚くもてなした。",
+   "en": "For his part in the fall of the Takeda, {r_oda} gave all of Suruga to {r_tokugawa}. Ieyasu went up to Azuchi to give thanks, and Nobunaga entertained him lavishly."
+  },
+  {
    "id": "takamatsu",
    "y": 1582,
    "m": 6,
@@ -7306,6 +7354,51 @@
    "at": "shozui",
    "ja": "中富川の戦い。{r_chosokabe}は阿波の三好の残党を破り、勝瑞城を落とした。",
    "en": "At the Nakatomi river {r_chosokabe} beat the last of the Miyoshi in Awa and took Shōzui."
+  },
+  {
+   "id": "tensho_jingo",
+   "y": 1582,
+   "m": 10,
+   "need": [
+    "oda",
+    "tokugawa",
+    "hojo",
+    "uesugi"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "tokugawa",
+     [
+      "kofu",
+      "fukashi",
+      "takato",
+      "iida",
+      "ueda"
+     ]
+    ],
+    [
+     "cede",
+     "*",
+     "hojo",
+     [
+      "minowa"
+     ]
+    ],
+    [
+     "cede",
+     "*",
+     "uesugi",
+     [
+      "kaizu"
+     ]
+    ]
+   ],
+   "at": "kofu",
+   "imp": 2,
+   "ja": "本能寺の変で主を失った旧武田領をめぐって、{r_tokugawa}・{r_hojo}・{r_uesugi}が争った (天正壬午の乱)。和議の末、甲斐と信濃の多くは徳川に、上野は北条に、北信濃は上杉に帰した。",
+   "en": "With Nobunaga dead, {r_tokugawa}, {r_hojo} and {r_uesugi} fought over the old Takeda lands. At the peace most of Kai and Shinano went to Tokugawa, Kōzuke to Hōjō and northern Shinano to Uesugi."
   },
   {
    "id": "shizugatake",
@@ -7683,6 +7776,25 @@
    "en": "[[p:羽柴秀吉|Hashiba Hideyoshi]] received the family name Toyotomi from the court and became chancellor of the realm."
   },
   {
+   "id": "tokugawa_sunpu",
+   "y": 1586,
+   "m": 12,
+   "need": [
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "capital",
+     "tokugawa",
+     "sunpu"
+    ]
+   ],
+   "at": "sunpu",
+   "imp": 1,
+   "ja": "{r_tokugawa}は居城を浜松から駿府に移した。五か国を治めるには、駿府の方が中ほどにあった。",
+   "en": "{r_tokugawa} moved his seat from Hamamatsu to Sunpu, nearer the middle of the five provinces he now ruled."
+  },
+  {
    "id": "kyushu",
    "y": 1587,
    "m": 6,
@@ -7978,6 +8090,25 @@
    "en": "{n_yuki} adopted Ieyasu's second son Hideyasu and joined the Tokugawa family."
   },
   {
+   "id": "mori_hiroshima",
+   "y": 1591,
+   "m": 1,
+   "need": [
+    "mori"
+   ],
+   "do": [
+    [
+     "capital",
+     "mori",
+     "hiroshima"
+    ]
+   ],
+   "at": "hiroshima",
+   "imp": 1,
+   "ja": "{r_mori}は山間の吉田郡山を出て、太田川の河口の三角州に築いた広島城に入った。",
+   "en": "{r_mori} left the hill castle of Yoshida-Kōriyama for Hiroshima, the new castle built on the delta at the mouth of the Ōta river."
+  },
+  {
    "id": "rikyu",
    "y": 1591,
    "m": 4,
@@ -7988,6 +8119,25 @@
    "do": [],
    "ja": "[[p:千利休]]は秀吉の怒りを買い、切腹を命じられた。その理由は今もはっきりしない。",
    "en": "[[p:千利休|Sen no Rikyū]] angered Hideyoshi and was ordered to take his own life; the reason is unclear to this day."
+  },
+  {
+   "id": "date_iwadeyama",
+   "y": 1591,
+   "m": 9,
+   "need": [
+    "date"
+   ],
+   "do": [
+    [
+     "capital",
+     "date",
+     "osaki"
+    ]
+   ],
+   "at": "osaki",
+   "imp": 1,
+   "ja": "一揆を扇動した疑いをかけられた{r_date}は、米沢など先祖伝来の地を召し上げられ、一揆の跡の大崎・葛西の地に移されて岩出山に入った。",
+   "en": "Suspected of stirring up the risings, {r_date} lost Yonezawa and his ancestral lands and was moved to the old Ōsaki and Kasai lands, taking up his seat at Iwadeyama."
   },
   {
    "id": "bunroku",
@@ -8280,6 +8430,25 @@
    "en": "{n_onodera}, which had sided with the west, lost its land to the Mogami."
   },
   {
+   "id": "date_sendai",
+   "y": 1601,
+   "m": 4,
+   "need": [
+    "date"
+   ],
+   "do": [
+    [
+     "capital",
+     "date",
+     "sendai"
+    ]
+   ],
+   "at": "sendai",
+   "imp": 1,
+   "ja": "{r_date}は千代の地に城を築き、仙台と名を改めて移った。",
+   "en": "{r_date} built a castle at Sendai — writing its name anew — and moved his seat there."
+  },
+  {
    "id": "sekigahara_uesugi",
    "y": 1601,
    "m": 8,
@@ -8330,6 +8499,56 @@
    "at": "iwaki",
    "ja": "関ヶ原で動かなかった{n_iwaki}は所領を取り上げられた。",
    "en": "{n_iwaki}, which had not moved at Sekigahara, lost its domain."
+  },
+  {
+   "id": "satake_akita",
+   "y": 1602,
+   "m": 7,
+   "need": [
+    "satake",
+    "ando",
+    "tokugawa"
+   ],
+   "do": [
+    [
+     "cede",
+     "ando",
+     "satake",
+     [
+      "hiyama"
+     ]
+    ],
+    [
+     "capital",
+     "satake",
+     "hiyama"
+    ],
+    [
+     "cede",
+     "satake",
+     "tokugawa",
+     [
+      "ota"
+     ]
+    ],
+    [
+     "cede",
+     "*",
+     "ando",
+     [
+      "oda_h"
+     ]
+    ],
+    [
+     "capital",
+     "ando",
+     "oda_h"
+    ]
+   ],
+   "at": "hiyama",
+   "imp": 2,
+   "ja": "関ヶ原で去就のはっきりしなかった{r_satake}は、常陸五十四万石から出羽秋田二十万石に移された。秋田の{r_ando}は、入れ替わりに常陸宍戸に移された。",
+   "en": "{r_satake}, who had not clearly taken a side at Sekigahara, was moved from 540,000 koku in Hitachi to 200,000 at Akita in Dewa; {r_ando} of Akita was moved to Shishido in Hitachi in exchange."
   },
   {
    "id": "shimazu_kept",
