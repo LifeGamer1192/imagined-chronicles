@@ -2380,6 +2380,54 @@
    "en": "Beaten by the Qin general [[p:章邯|Zhang Han]], [[p:陳勝|Chen Sheng]] was killed in flight by his own charioteer, barely half a year after the rising. The banner of revolt passed to [[p:項梁|Xiang Liang]] of Chu."
   },
   {
+   "id": "zhao_xie",
+   "y": 208,
+   "m": 2,
+   "need": [
+    "zhao"
+   ],
+   "do": [
+    [
+     "rulerDies",
+     "zhao",
+     "assassination",
+     "武臣"
+    ],
+    [
+     "capital",
+     "zhao",
+     "xiangguo"
+    ]
+   ],
+   "at": "xiangguo",
+   "imp": 2,
+   "ja": "趙の将の李良が背いて邯鄲を襲い、{r_zhao}を殺した。逃れた[[p:張耳]]と[[p:陳余]]は兵を集め、趙の王族の[[p:趙歇]]を王に立てて信都 (襄国) に拠った。",
+   "en": "Li Liang, a general of Zhao, turned on Handan and killed {r_zhao}. [[p:張耳|Zhang Er]] and [[p:陳余|Chen Yu]] escaped, gathered troops, and set up [[p:趙歇|Zhao Xie]] of the old royal house as king at Xindu (Xiangguo)."
+  },
+  {
+   "id": "xiang_liang_west",
+   "y": 208,
+   "m": 3,
+   "need": [
+    "chu"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "chu",
+     [
+      "xiapi",
+      "pengcheng"
+     ]
+    ]
+   ],
+   "at": "xiapi",
+   "imp": 2,
+   "ja": "{r_chu}は江東の子弟八千を率いて長江を渡り、陳嬰や[[p:英布]]らを加えて淮水を越え、下邳に入った。彭城の東では、[[p:陳勝]]の死後に景駒を王に立てていた秦嘉を破った。",
+   "en": "{r_chu} crossed the Yangzi with eight thousand young men of Jiangdong, gathered Chen Ying, [[p:英布|Ying Bu]] and others, crossed the Huai and entered Xiapi. East of Pengcheng he beat Qin Jia, who had made Jing Ju king after [[p:陳勝|Chen Sheng]]'s death."
+  },
+  {
    "id": "hank_rise",
    "y": 208,
    "m": 6,
@@ -2412,6 +2460,14 @@
      "chu",
      "legitimacy",
      0.3
+    ],
+    [
+     "cede",
+     "*",
+     "chu",
+     [
+      "xuyi"
+     ]
     ],
     [
      "capital",
@@ -2483,12 +2539,55 @@
    "en": "Grown proud with victory, [[p:項梁|Xiang Liang]] was caught by a night attack of [[p:章邯|Zhang Han]] at Dingtao and killed."
   },
   {
+   "id": "huai_pengcheng",
+   "y": 208,
+   "m": 11,
+   "need": [
+    "chu"
+   ],
+   "do": [
+    [
+     "capital",
+     "chu",
+     "pengcheng"
+    ]
+   ],
+   "at": "pengcheng",
+   "imp": 2,
+   "ja": "[[p:項梁]]の死を聞いた楚の懐王は盱眙から彭城に移り、[[p:項羽]]と呂臣の軍を自ら率いた。[[p:宋義]]を上将軍とし、項羽をその次将とした。",
+   "en": "Hearing of [[p:項梁|Xiang Liang]]'s death, King Huai of Chu moved from Xuyi to Pengcheng and took the armies of [[p:項羽|Xiang Yu]] and Lü Chen under his own command. He made [[p:宋義|Song Yi]] supreme general, with Xiang Yu second under him."
+  },
+  {
+   "id": "handan_razed",
+   "y": 208,
+   "m": 12,
+   "need": [
+    "zhao",
+    "qin"
+   ],
+   "do": [
+    [
+     "cede",
+     "zhao",
+     "qin",
+     [
+      "handan"
+     ]
+    ]
+   ],
+   "at": "handan",
+   "imp": 2,
+   "ja": "{n_qin}の[[p:章邯]]は邯鄲を落とし、城壁を壊して民を河内に移した。{r_zhao}と[[p:張耳]]は鉅鹿城に逃げ込み、秦の[[p:王離]]に囲まれた。",
+   "en": "[[p:章邯|Zhang Han]] of {n_qin} took Handan, pulled down its walls and moved its people to Henei. {r_zhao} and [[p:張耳|Zhang Er]] fled into Julu and were besieged there by [[p:王離|Wang Li]] of Qin."
+  },
+  {
    "id": "julu",
    "y": 207,
    "m": 1,
    "need": [
     "qin",
-    "chu"
+    "chu",
+    "zhao"
    ],
    "do": [
     [
@@ -2511,6 +2610,14 @@
      "qin",
      "stability",
      -0.2
+    ],
+    [
+     "cede",
+     "qin",
+     "zhao",
+     [
+      "handan"
+     ]
     ]
    ],
    "imp": 3,
@@ -2542,6 +2649,29 @@
    "at": "zhaoge",
    "ja": "[[p:趙高]]に疑われて行き場を失った[[p:章邯]]は、二十万の兵とともに[[p:項羽]]に降った。降った秦兵は新安で夜のうちに穴埋めにされたと伝わる。",
    "en": "Distrusted by [[p:趙高|Zhao Gao]] and with nowhere to turn, [[p:章邯|Zhang Han]] surrendered to [[p:項羽|Xiang Yu]] with two hundred thousand men; the surrendered Qin soldiers were buried alive at Xin'an in a single night, the records say."
+  },
+  {
+   "id": "wan_surrenders",
+   "y": 207,
+   "m": 8,
+   "need": [
+    "liu",
+    "qin"
+   ],
+   "do": [
+    [
+     "cede",
+     "qin",
+     "liu",
+     [
+      "wan"
+     ]
+    ]
+   ],
+   "at": "wan",
+   "imp": 1,
+   "ja": "西へ進む{r_liu}は南陽の宛を囲んだ。陳恢の勧めで{r_liu}は宛の太守を許して侯に封じ、その兵を連れて西へ進んだ。行く先々の城は戦わずに下った。",
+   "en": "Marching west, {r_liu} besieged Wan in Nanyang. On Chen Hui's advice he spared the governor, made him a marquis and took his troops along; the towns ahead surrendered without a fight."
   },
   {
    "id": "deer_horse",
@@ -2633,7 +2763,8 @@
    "m": 1,
    "need": [
     "chu",
-    "qin"
+    "qin",
+    "liu"
    ],
    "do": [
     [
@@ -2655,6 +2786,14 @@
       "yueyang",
       "feiqiu"
      ]
+    ],
+    [
+     "cede",
+     "liu",
+     "chu",
+     [
+      "wan"
+     ]
     ]
    ],
    "imp": 3,
@@ -2668,7 +2807,11 @@
    "m": 3,
    "need": [
     "chu",
-    "liu"
+    "liu",
+    "wei",
+    "zhao",
+    "changshan",
+    "sai"
    ],
    "do": [
     [
@@ -2684,11 +2827,6 @@
      }
     ],
     [
-     "capital",
-     "chu",
-     "pengcheng"
-    ],
-    [
      "cede",
      "*",
      "liu",
@@ -2697,11 +2835,6 @@
       "chengdu",
       "jiangzhou"
      ]
-    ],
-    [
-     "capital",
-     "liu",
-     "nanzheng"
     ],
     [
      "relabel",
@@ -2784,11 +2917,6 @@
      ]
     ],
     [
-     "capital",
-     "zhao",
-     "dai"
-    ],
-    [
      "relabel",
      "wei",
      {
@@ -2799,6 +2927,64 @@
       "ja": "西魏",
       "en": "Western Wei"
      }
+    ],
+    [
+     "cede",
+     "*",
+     "wei",
+     [
+      "pingyang",
+      "anyi"
+     ]
+    ],
+    [
+     "cede",
+     "*",
+     "zhao",
+     [
+      "dai"
+     ]
+    ],
+    [
+     "cede",
+     "*",
+     "chu",
+     [
+      "daliang",
+      "dingtao"
+     ]
+    ],
+    [
+     "cede",
+     "*",
+     "changshan",
+     [
+      "handan",
+      "julu"
+     ]
+    ],
+    [
+     "cede",
+     "*",
+     "sai",
+     [
+      "hongmen"
+     ]
+    ],
+    [
+     "capital",
+     "chu",
+     "pengcheng"
+    ],
+    [
+     "capital",
+     "liu",
+     "nanzheng"
+    ],
+    [
+     "capital",
+     "zhao",
+     "dai"
     ],
     [
      "capital",
@@ -2942,6 +3128,11 @@
      "annex",
      "zhao",
      "changshan"
+    ],
+    [
+     "capital",
+     "zhao",
+     "xiangguo"
     ]
    ],
    "at": "xiangguo",
@@ -3002,6 +3193,28 @@
    "at": "pengcheng",
    "ja": "彭城の戦い。五十六万の諸侯の軍を率いた{r_liu}は、[[p:項羽]]の留守の彭城を落として連日酒宴を開いた。斉から三万の精兵で取って返した項羽は、一朝にして漢軍を破り、睢水は屍で流れが止まったという。[[p:劉邦]]は父と妻を捕らえられ、わずかな供と逃れた。",
    "en": "The battle of Pengcheng. Leading five hundred and sixty thousand men of the lords, {r_liu} took Pengcheng while [[p:項羽|Xiang Yu]] was away and feasted for days. Xiang Yu came back from Qi with thirty thousand picked men and broke the Han army in a morning; the Sui river, they say, was dammed with bodies. [[p:劉邦|Liu Bang]]'s father and wife were taken, and he fled with a handful of men."
+  },
+  {
+   "id": "xingyang_hold",
+   "y": 205,
+   "m": 6,
+   "need": [
+    "liu"
+   ],
+   "do": [
+    [
+     "cede",
+     "*",
+     "liu",
+     [
+      "xingyang"
+     ]
+    ]
+   ],
+   "at": "xingyang",
+   "imp": 2,
+   "ja": "彭城で大敗した{r_liu}は滎陽に拠って敗兵を集めた。[[p:蕭何]]は関中の老人や若者まで送り出し、[[p:韓信]]は京と索の間で楚を破って、楚はそれより西へ進めなかった。",
+   "en": "Beaten at Pengcheng, {r_liu} held Xingyang and gathered his scattered men. [[p:蕭何|Xiao He]] sent even the old men and boys of Guanzhong, and [[p:韓信|Han Xin]] beat Chu between Jing and Suo; Chu could get no further west."
   },
   {
    "id": "feiqiu",
@@ -3141,6 +3354,29 @@
    "en": "With [[p:劉邦|Liu Bang]] trapped in Xingyang, [[p:紀信|Ji Xin]] rode out of the east gate in the king's carriage to offer surrender while Liu Bang escaped by the west gate. [[p:項羽|Xiang Yu]] burned Ji Xin alive."
   },
   {
+   "id": "xingyang_falls",
+   "y": 204,
+   "m": 8,
+   "need": [
+    "chu",
+    "liu"
+   ],
+   "do": [
+    [
+     "cede",
+     "liu",
+     "chu",
+     [
+      "xingyang"
+     ]
+    ]
+   ],
+   "at": "xingyang",
+   "imp": 2,
+   "ja": "{n_chu}は滎陽を落とした。城を守っていた周苛は{r_chu}に降るよう勧められたが、罵って煮殺された。",
+   "en": "{n_chu} took Xingyang. Zhou Ke, who had held it, was urged by {r_chu} to surrender; he cursed him instead and was boiled alive."
+  },
+  {
    "id": "weishui",
    "y": 204,
    "m": 12,
@@ -3189,6 +3425,33 @@
    "en": "[[p:韓信|Han Xin]] asked to be acting King of Qi. As [[p:劉邦|Liu Bang]] began to rage, [[p:張良|Zhang Liang]] and [[p:陳平|Chen Ping]] trod on his foot, and he went on: \"A real man should be a real king, not an acting one,\" and made him King of Qi. [[p:蒯通|Kuai Tong]] urged Han Xin to divide the realm in three; remembering Liu Bang's kindness, Han Xin refused."
   },
   {
+   "id": "huainan",
+   "y": 203,
+   "m": 8,
+   "need": [
+    "jiujiang",
+    "liu"
+   ],
+   "do": [
+    [
+     "relabel",
+     "jiujiang",
+     {
+      "ja": "淮南",
+      "en": "Huainan"
+     },
+     {
+      "ja": "淮南",
+      "en": "Huainan"
+     }
+    ]
+   ],
+   "at": "shouchun",
+   "imp": 1,
+   "ja": "漢に付いた{r_jiujiang}は、漢王によって淮南王に立てられた。",
+   "en": "{r_jiujiang}, now on Han's side, was made King of Huainan by the King of Han."
+  },
+  {
    "id": "honggou",
    "y": 203,
    "m": 10,
@@ -3202,6 +3465,14 @@
      "liu",
      "chu",
      1
+    ],
+    [
+     "cede",
+     "*",
+     "liu",
+     [
+      "xingyang"
+     ]
     ]
    ],
    "imp": 3,
@@ -3248,7 +3519,8 @@
    "y": 202,
    "m": 3,
    "need": [
-    "liu"
+    "liu",
+    "hengshan"
    ],
    "do": [
     [
@@ -3269,11 +3541,6 @@
      }
     ],
     [
-     "capital",
-     "liu",
-     "luoyang"
-    ],
-    [
      "vassal",
      "liu",
      "hengshan"
@@ -3288,6 +3555,28 @@
      "liu",
      "legitimacy",
      0.4
+    ],
+    [
+     "relabel",
+     "hengshan",
+     {
+      "ja": "長沙",
+      "en": "Changsha"
+     },
+     {
+      "ja": "長沙",
+      "en": "Changsha"
+     }
+    ],
+    [
+     "capital",
+     "liu",
+     "luoyang"
+    ],
+    [
+     "capital",
+     "hengshan",
+     "changsha"
     ]
    ],
    "imp": 3,
@@ -3313,6 +3602,25 @@
    "at": "jiangling",
    "ja": "[[p:項羽]]に従い続けた臨江王[[p:共尉]]は、漢に攻められて捕らえられた。",
    "en": "[[p:共尉|Gong Wei]], King of Linjiang, who had stayed loyal to [[p:項羽|Xiang Yu]], was attacked and taken by Han."
+  },
+  {
+   "id": "west_guanzhong",
+   "y": 202,
+   "m": 6,
+   "need": [
+    "liu"
+   ],
+   "do": [
+    [
+     "capital",
+     "liu",
+     "yueyang"
+    ]
+   ],
+   "at": "yueyang",
+   "imp": 2,
+   "ja": "斉の戍卒の婁敬が「関中に都すべし」と説き、[[p:張良]]もこれに賛成した。{r_liu}はその日のうちに車駕を西に向けて関中に入り、櫟陽に都した。のちに長安を都とする。",
+   "en": "Lou Jing, a garrison soldier from Qi, urged that the capital be in Guanzhong, and [[p:張良|Zhang Liang]] agreed. That same day {r_liu} turned his carriage west into Guanzhong and made Yueyang his capital; later Chang'an would be."
   },
   {
    "id": "zang_tu",
