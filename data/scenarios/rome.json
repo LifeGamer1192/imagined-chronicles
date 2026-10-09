@@ -2021,6 +2021,32 @@
    }
   ],
   [
+   "プブリウス・コルネリウス・スキピオ",
+   "Publius Cornelius Scipio (Africanus)",
+   "rome",
+   "general",
+   236,
+   183,
+   {
+    "from": 210,
+    "ab": [
+     8,
+     10,
+     8,
+     9
+    ],
+    "tr": [
+     "genius",
+     "charismatic",
+     "ambitious"
+    ],
+    "fame": 9,
+    "parents": [
+     "rome:プブリウス・スキピオ"
+    ]
+   }
+  ],
+  [
    "ガイウス・ラエリウス",
    "Gaius Laelius",
    "rome",
@@ -3246,6 +3272,11 @@
      "dies",
      "グナエウス・スキピオ",
      "battle_wound"
+    ],
+    [
+     "dies",
+     "プブリウス・スキピオ",
+     "battle_wound"
     ]
    ],
    "imp": 3,
@@ -3885,7 +3916,7 @@
     {
      "realm": "rome",
      "generals": [
-      "プブリウス・コルネリウス・スキピオ"
+      "プブリウス・スキピオ"
      ],
      "troops": 42000
     }
@@ -4109,7 +4140,7 @@
     {
      "realm": "rome",
      "generals": [
-      "プブリウス・スキピオ",
+      "プブリウス・コルネリウス・スキピオ",
       "ガイウス・ラエリウス"
      ],
      "troops": 48000
@@ -4159,7 +4190,7 @@
     {
      "realm": "rome",
      "generals": [
-      "プブリウス・スキピオ",
+      "プブリウス・コルネリウス・スキピオ",
       "マシニッサ",
       "ガイウス・ラエリウス"
      ],
@@ -4443,7 +4474,7 @@
     {
      "realm": "rome",
      "generals": [
-      "プブリウス・スキピオ",
+      "プブリウス・コルネリウス・スキピオ",
       "ガイウス・ラエリウス"
      ],
      "troops": 35000
@@ -4486,7 +4517,7 @@
     {
      "realm": "rome",
      "generals": [
-      "プブリウス・スキピオ",
+      "プブリウス・コルネリウス・スキピオ",
       "ガイウス・ラエリウス",
       "マシニッサ"
      ],
@@ -4725,6 +4756,7 @@
     "マシニッサ|Masinissa",
     "ハンニバル|Hannibal",
     "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
     "マハルバル|Maharbal"
    ],
    "related": [
@@ -4813,7 +4845,7 @@
    "people": [
     "ハンニバル|Hannibal",
     "ハスドルバル・バルカ|Hasdrubal Barca",
-    "プブリウス・スキピオ|Publius Cornelius Scipio"
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
    ],
    "related": [
     "punic_purple",
@@ -5142,7 +5174,7 @@
    "people": [
     "ハンニバル|Hannibal",
     "マゴ・バルカ|Mago Barca",
-    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
+    "プブリウス・スキピオ|Publius Cornelius Scipio"
    ],
    "related": [
     "numidian",
@@ -5226,7 +5258,7 @@
     "en": "For days Scipio came out late, Romans in the centre, Spaniards on the wings, and the Carthaginians formed up the same way. On the day of battle he fed his men before dawn, came out early and reversed the order: his best Roman troops on the wings fell on Carthage's weaker Spaniards, while its strong African centre faced his Spaniards and could not move. The Carthaginians, out without breakfast, gave way to hunger and heat by early afternoon.\n\nWhen he took New Carthage, Scipio returned a beautiful captive to the young man she was betrothed to, and gave him the ransom gold as a wedding present — \"the continence of Scipio\".\n\nCarthage lost Iberia. Scipio went home, was elected consul and crossed to Africa.\n\nTroops (rough): 48,000 against 54,000. Losses: 1,000 against 30,000."
    },
    "people": [
-    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
     "ガイウス・ラエリウス|Gaius Laelius",
     "ハスドルバル・ギスコ|Hasdrubal Gisco",
     "マゴ・バルカ|Mago Barca"
@@ -5247,7 +5279,7 @@
     "en": "[[p:ハンニバル|Hannibal]] put eighty elephants in front of three lines: mercenaries, Carthaginian citizens, and the veterans he had brought home from Italy. Scipio lined his maniples up straight one behind another instead of in the usual chequer, leaving lanes between them filled with light troops; Laelius and [[p:マシニッサ|Masinissa]] held the cavalry wings.\n\nTrumpets and horns blared all together; the frightened elephants ran wild, many down the open lanes, others back into their own cavalry. Laelius and Masinissa drove the disordered Carthaginian horse from the field. After a long struggle of infantry against infantry the Roman and Numidian cavalry came back and fell on Hannibal's veterans from behind, and the day was decided.\n\nBefore the battle the two generals met between the armies with only interpreters. Years later, the story goes, they met again at Ephesus; asked who was the greatest general, Hannibal said Alexander, Pyrrhus, and himself. \"And if you had beaten me?\" \"Then I would be first.\"\n\nScipio was given the name Africanus for this victory.\n\nCarthage made peace the next year, gave up its lands overseas and its fleet, and swore to make no war without Rome's leave. Hannibal stayed and set about reform.\n\nTroops (rough): 35,000 against 40,000. Losses: 2,500 against 20,000."
    },
    "people": [
-    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
     "マシニッサ|Masinissa",
     "ガイウス・ラエリウス|Gaius Laelius",
     "ハンニバル|Hannibal"
@@ -5356,7 +5388,7 @@
     "en": "[[p:ハスドルバル・バルカ|Hasdrubal Barca]] held a terraced height near Baecula with a river before it.\n\nScipio sent his light troops up the front to hold the enemy's eyes, while he and Laelius took the main army round both sides and stormed the height from the flanks.\n\nSeeing the day lost, Hasdrubal left the field with his treasure, his elephants and most of his army, and crossed the Pyrenees for Italy and his brother. The next year he died on the Metaurus.\n\nTroops (rough): 35,000 against 25,000. Losses: 1,000 against 8,000."
    },
    "people": [
-    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
     "ガイウス・ラエリウス|Gaius Laelius",
     "ハスドルバル・バルカ|Hasdrubal Barca"
    ],
@@ -5373,7 +5405,7 @@
     "en": "Seeming to talk peace all winter, Scipio struck the camps of [[p:シュファクス|Syphax]] and [[p:ハスドルバル・ギスコ|Hasdrubal Gisco]], built of reeds and timber, by night and burned them. The two raised new armies and drew up on the Great Plains by the Bagradas.\n\nThe Roman and Numidian cavalry broke both wings; the Celtiberian mercenaries left in the centre were surrounded and fought to the last man.\n\nSyphax fled home, was hunted down by Laelius and [[p:マシニッサ|Masinissa]] and taken. Carthage resolved to recall [[p:ハンニバル|Hannibal]] from Italy.\n\nTroops (rough): 20,000 against 30,000. Losses: 500 against 10,000."
    },
    "people": [
-    "プブリウス・スキピオ|Publius Cornelius Scipio",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
     "ガイウス・ラエリウス|Gaius Laelius",
     "マシニッサ|Masinissa",
     "ハスドルバル・ギスコ|Hasdrubal Gisco",
@@ -5495,8 +5527,7 @@
    },
    "year": 150,
    "people": [
-    "マルクス・ポルキウス・カト|Marcus Porcius Cato",
-    "プブリウス・スキピオ|Publius Cornelius Scipio"
+    "マルクス・ポルキウス・カト|Marcus Porcius Cato"
    ],
    "related": [
     "punic_purple",
@@ -5516,7 +5547,7 @@
    "year": 209,
    "people": [
     "ハスドルバル・バルカ|Hasdrubal Barca",
-    "プブリウス・スキピオ|Publius Cornelius Scipio"
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
    ],
    "related": [
     "spanish_silver",
@@ -5711,7 +5742,7 @@
  "ties": [
   [
    "ハンニバル",
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "rival",
    {
     "ja": "ザマの前に二人は両軍の間で会見した。後年エフェソスで再会したとも伝わる。",
@@ -5765,7 +5796,7 @@
    }
   ],
   [
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "ガイウス・ラエリウス",
    "friend",
    {
@@ -5774,7 +5805,7 @@
    }
   ],
   [
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "マシニッサ",
    "friend",
    {
@@ -5784,7 +5815,7 @@
   ],
   [
    "マルクス・ポルキウス・カト",
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "rival",
    {
     "ja": "シチリアでのスキピオのギリシア風の贅沢を、財務官のカトは厳しく批判した。二人の対立は生涯続いた。",
@@ -5793,7 +5824,7 @@
   ],
   [
    "クィントゥス・ファビウス・マクシムス",
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "rival",
    {
     "ja": "アフリカへ渡る若いスキピオの計画に、老ファビウスは元老院で強く反対した。",
@@ -5860,7 +5891,7 @@
    }
   ],
   [
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "エンニウス",
    "friend",
    {
@@ -5870,7 +5901,7 @@
   ],
   [
    "インディビリス",
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "betrayed",
    {
     "ja": "スキピオに味方したイレルゲテス族の長[[p:インディビリス]]は、スキピオが病と聞いて背いた。",
@@ -5898,7 +5929,7 @@
    221
   ],
   [
-   "プブリウス・スキピオ",
+   "プブリウス・コルネリウス・スキピオ",
    "アエミリア",
    {
     "ja": "[[p:アエミリア]]はカンナエで死んだ執政官パウッルスの娘。豪華な装いで知られ、その娘コルネリアはのちにグラックス兄弟の母となる。",
