@@ -5535,6 +5535,430 @@
     "afang",
     "aocang"
    ]
+  },
+  "sk_foot": {
+   "kind": "unit",
+   "title": {
+    "ja": "歩卒 (材官)",
+    "en": "The foot"
+   },
+   "body": {
+    "ja": "秦は、民を根こそぎ兵にする国であった。男は十七歳になると名簿に載せられ、郡で一年の訓練を受け、都か辺境で一年の守りに就き、そののちも毎年ひと月は郡で働いた。戦になれば、名簿に載る者はだれでも呼び出された。湖北の墓から出た竹簡には、喜という名の役人が十七歳で名簿に載り、前後三度も従軍したことが記されている。\n\n歩いて戦う兵を、漢の時代には「材官」と呼んだ。もとは力のある者を選んだ歩兵の意である。五人を「伍」、十人を「什」、五十人を「屯」、百人を「伯」とし、それぞれに長を置く。秦の法は細かく、戦場で仲間が逃げれば残りも罰せられ、伍のうち一人が死ねば残る四人は敵の首を一つ取らなければ罪となった。\n\n始皇帝の陵のそばに埋められた兵馬俑は、この軍の姿を等身大で伝える。一号坑には六千ほどの兵と戦車が、東を向いて長方形の陣を組んでいる。前の三列は甲を着けない弩兵。その後ろに、甲を着た歩卒が戦車を挟んで三十八の縦列をなす。左右と後ろの端の兵は外を向き、横と後ろからの攻めに備えている。顔は一つひとつ違う。\n\n武器は青銅の戟・矛・剣・鈹 (長い柄の付いた剣)。前3世紀の終わりでも秦の兵器の多くは青銅であった。刃は鋭く研がれ、矛や戈には作った工房と年、責任者の名が刻まれている。出来が悪ければ、名を刻んだ者が罰せられた。\n\nその秦の軍は、前209年に[[p:陳勝]]が立ってから三年で消えた。北の辺境と南の嶺南に大軍を置いたままで、中原には兵が少なかったのである。代わって現れたのは、秦の法のもとで兵の経験を持つ男たちが、それぞれの旗のもとに集まった軍であった。沛の[[p:劉邦]]の兵も、会稽の[[p:項梁]]の兵も、初めは数千の寄せ集めである。そこに将の才と兵の心がどう結びつくかが、楚と漢の五年を決めていく。",
+    "en": "Qin was a state that made soldiers of all its people. At seventeen a man was entered on the rolls, trained for a year in his commandery, served a year in the capital or on the frontier, and after that worked a month each year for his commandery. In war anyone on the rolls could be called. Bamboo slips from a tomb in Hubei record that an official named Xi was enrolled at seventeen and went on campaign three times.\n\nMen who fought on foot were called caiguan under the Han — at first, foot picked for strength. Five men made a squad, ten a section, fifty a platoon, a hundred a company, each with its leader. Qin law was exact: if a man ran in battle his fellows were punished too, and if one of a squad of five was killed the other four were guilty unless they took an enemy head.\n\nThe terracotta army buried by the First Emperor's tomb shows that army at life size. In pit one some six thousand men and their chariots stand in a rectangle facing east: three ranks of unarmoured crossbowmen in front, and behind them thirty-eight columns of armoured foot with the chariots among them. The men at the sides and rear face outward, against attack from flank or behind. No two faces are alike.\n\nTheir weapons were bronze: halberd, spear, sword, and the long-shafted blade called pi. Even at the end of the third century BC most Qin arms were bronze. The blades were ground sharp, and spears and dagger-axes are inscribed with the workshop, the year and the names of those responsible. If the work was bad, the men named were punished.\n\nThat army was gone within three years of [[p:陳勝|Chen Sheng]]'s rising in 209 BC. Its great forces were on the northern frontier and in the far south, and there were few soldiers in the central plain. In its place came armies of men who had been soldiers under Qin law, gathered now under one banner or another. [[p:劉邦|Liu Bang]]'s men of Pei and [[p:項梁|Xiang Liang]]'s of Kuaiji were at first a few thousand of all sorts. How a commander's gifts and his soldiers' hearts came together decided the five years of Chu and Han."
+   },
+   "year": 209,
+   "people": [
+    "劉邦|Liu Bang",
+    "項梁|Xiang Liang"
+   ],
+   "related": [
+    "sk_crossbow",
+    "sk_chariot",
+    "sk_cavalry",
+    "xingtu"
+   ],
+   "src": [
+    "finds:秦始皇帝陵の兵馬俑|the terracotta army",
+    "finds:睡虎地秦簡 編年記|the Shuihudi slips",
+    "shiji:秦始皇本紀|Basic Annals of the First Emperor"
+   ],
+   "keepSrc": true
+  },
+  "sk_crossbow": {
+   "kind": "unit",
+   "title": {
+    "ja": "弩兵 (材官蹶張)",
+    "en": "The crossbowmen"
+   },
+   "body": {
+    "ja": "弩は、引き金で放つ弓である。弦を引いて留め金に掛けておけば、狙いを定めてから放てる。弓のように引き絞ったまま耐える力は要らない。秦と漢の軍で、遠くの敵を倒す主な武器は弩であった。\n\n強い弩は腕では引けない。地面に置き、両足で弓の部分を踏み、腰と背の力で弦を引き上げる。これを「蹶張 (けっちょう)」という。漢の丞相となった申屠嘉は、若い頃「材官蹶張」として高祖に従い、[[p:項羽]]と戦った。足で弩を引く力自慢の歩兵、という意味である。[[p:周勃]]もまた、強い弓を引く材官であった。\n\n兵馬俑の二号坑には、弩兵だけの方陣がある。外側に立って射る兵が、内側に片膝をついて射る兵が並ぶ。立つ者と膝をつく者が交互に射て、矢の切れ目を作らない。一号坑でも、陣の最も前の三列は甲を着けない弩兵である。身軽な弩兵がまず射かけ、敵が近づけば後ろの歩卒に前を譲る。\n\n秦の弩の引き金は、青銅の部品三つを二本の軸で留めたものである。どの弩の部品も同じ大きさに作られ、取り替えが利いた。矢じりも三つの面を持つ同じ形で、数万個を測っても差がわずかしかない。大きな工房が、同じ型で大量に作っていたのである。\n\n楚と漢の戦いでも弩は働いた。前203年、広武の谷を挟んで向かい合ったとき、[[p:劉邦]]は項羽の罪を十数えあげた。怒った項羽が伏せておいた弩が放たれ、矢は劉邦の胸に当たった。劉邦は足をさすって「賊め、わしの足の指に当ておった」と言い、傷を隠して陣を巡ってみせた。兵の心が揺らぐのを恐れたのである。",
+    "en": "The crossbow is a bow loosed by a trigger. Draw the string, catch it on the lock, and you can take aim before you shoot; it does not need the strength to hold a bow at full draw. In the armies of Qin and Han it was the chief means of killing at a distance.\n\nA strong crossbow cannot be drawn by the arms. It is set on the ground, the bow trodden down with both feet, and the string hauled up with the back and loins. This was juezhang, \"treading to span\". Shentu Jia, later Chancellor of Han, followed the founder against [[p:項羽|Xiang Yu]] in his youth as a caiguan juezhang — a strong footman who spanned the crossbow with his feet. [[p:周勃|Zhou Bo]] too was a footman who could draw the strong bow.\n\nPit two of the terracotta army holds a square of crossbowmen alone: standing archers round the outside, kneeling archers within. Standing and kneeling men shot in turn, so that the bolts never stopped. In pit one the three front ranks are unarmoured crossbowmen: lightly equipped, they shot first, and gave place to the foot behind when the enemy closed.\n\nThe Qin trigger is three bronze parts held by two pins. The parts of every crossbow were made to one size and could be exchanged. Arrowheads too were of one three-edged form; measure tens of thousands and they hardly differ. Great workshops were turning them out to a single pattern.\n\nThe crossbow did its work in the war of Chu and Han. In 203 BC, facing Xiang Yu across the ravine at Guangwu, [[p:劉邦|Liu Bang]] recited his ten crimes. Xiang Yu, enraged, had a hidden crossbow loosed, and the bolt struck Liu Bang in the chest. He rubbed his foot — \"The villain has hit my toe\" — and, hiding the wound, made the round of his camp, for fear of what it would do to his soldiers' hearts."
+   },
+   "year": 203,
+   "people": [
+    "劉邦|Liu Bang",
+    "項羽|Xiang Yu",
+    "周勃|Zhou Bo"
+   ],
+   "related": [
+    "sk_foot",
+    "loufan"
+   ],
+   "src": [
+    "finds:秦始皇帝陵の兵馬俑|the terracotta army",
+    "shiji:張丞相列伝|Biographies of Chancellor Zhang and others",
+    "shiji:高祖本紀|Basic Annals of Gaozu"
+   ],
+   "keepSrc": true
+  },
+  "sk_chariot": {
+   "kind": "unit",
+   "title": {
+    "ja": "戦車 (軽車)",
+    "en": "The war chariots"
+   },
+   "body": {
+    "ja": "春秋の戦いの主役であった戦車は、秦の時代にもまだ陣の中にいた。四頭の馬が引き、三人が乗る。中央の御者、左の弓を持つ者、右の戟を持つ者。ただしその役目は変わっていた。\n\n兵馬俑の一号坑では、数十人の歩卒の列の間に戦車が一台ずつ置かれている。戦車は将や隊長の乗り物であり、太鼓と鐘で兵に進退を告げる場所であった。二号坑には、戦車だけを六十四台並べた陣と、戦車・歩卒・騎兵を組み合わせた陣がある。戦車の後ろに歩卒が八人、さらに後ろに騎兵が付く。平らな地で敵の陣を突き崩すための、速い打撃の隊である。\n\n楚と漢の戦いで、戦車で名を上げたのは[[p:夏侯嬰]]である。沛の県の馬屋で働いていた頃から[[p:劉邦]]と親しく、劉邦が兵を挙げると御者となり、最後まで劉邦の車を御した。『史記』は夏侯嬰の働きを語るたびに、「兵車をもって趣 (すみ) やかに攻め、戦うこと疾 (はや) し」とくり返す。戦車を速く走らせて敵に突き入ったのである。\n\n前205年、彭城で劉邦の五十六万が[[p:項羽]]の三万に破られたとき、劉邦は数十騎とともに逃げた。途中で息子 (のちの恵帝) と娘 (魯元公主) を見つけて車に乗せたが、楚の騎兵が迫る。馬が疲れると、劉邦は二人を車から蹴り落とした。夏侯嬰はそのたびに車を止めて拾い上げた。それが三度に及び、劉邦は十数度も夏侯嬰を斬ろうとした。夏侯嬰はゆっくり車を進め、ついに二人を連れて逃げおおせた。\n\n戦車は平地でしか使えず、馬四頭と人三人が要る。漢はこののち匈奴と戦うなかで騎兵を育て、戦車は荷を運び、陣を囲む壁となる車へと変わっていく。夏侯嬰の時代は、戦車が戦場を駆けた最後の時代であった。",
+    "en": "The chariot, lord of the Spring and Autumn battlefield, still had its place in the line under Qin: four horses and three men, the driver in the middle, an archer on the left, a halberdier on the right. But its work had changed.\n\nIn pit one of the terracotta army a chariot stands among each few dozen files of foot: the vehicle of a commander or captain, and the place from which drum and bell told the men to advance or fall back. Pit two holds a formation of sixty-four chariots alone, and another of chariots, foot and cavalry together — eight foot behind each chariot, and horsemen behind them. That was a fast striking force for breaking a line on level ground.\n\nThe man who made his name with chariots in the war of Chu and Han was [[p:夏侯嬰|Xiahou Ying]]. He had been a stable hand in Pei county and a friend of [[p:劉邦|Liu Bang]]; when Liu Bang rose he became his driver, and drove him to the end. Each time the Shiji tells of his deeds it repeats the phrase: \"with war chariots he attacked swiftly and fought fast.\"\n\nIn 205 BC, when Liu Bang's five hundred and sixty thousand were broken by [[p:項羽|Xiang Yu]]'s thirty thousand at Pengcheng, Liu Bang fled with a few dozen horsemen. On the road he found his son, the later Emperor Hui, and his daughter, and took them into the chariot. The Chu horse were close; the team was tiring; Liu Bang kicked the children out. Xiahou Ying stopped each time and picked them up. It happened three times, and Liu Bang was ready to cut him down a dozen times over. Xiahou Ying drove on steadily and got both of them away.\n\nA chariot is no use off level ground and takes four horses and three men. Fighting the Xiongnu in the years to come, Han raised cavalry, and the chariot turned into a wagon that carried baggage and made a wall round the camp. Xiahou Ying's was the last age in which chariots ran on the battlefield."
+   },
+   "year": 205,
+   "people": [
+    "劉邦|Liu Bang",
+    "夏侯嬰|Xiahou Ying",
+    "項羽|Xiang Yu"
+   ],
+   "related": [
+    "sk_cavalry",
+    "sk_foot",
+    "langzhong"
+   ],
+   "src": [
+    "finds:秦始皇帝陵の兵馬俑|the terracotta army",
+    "shiji:樊酈滕灌列伝|Biographies of Fan, Li, Teng and Guan",
+    "shiji:項羽本紀|Basic Annals of Xiang Yu"
+   ],
+   "keepSrc": true
+  },
+  "sk_cavalry": {
+   "kind": "unit",
+   "title": {
+    "ja": "騎兵",
+    "en": "The cavalry"
+   },
+   "body": {
+    "ja": "秦は馬の国であった。祖先は周の王のために馬を育てて土地を得たと伝えられ、領内には西と北の牧草地があった。戦国の終わり、秦の騎兵は一万を数えた。\n\n兵馬俑の二号坑には、百十六組の騎兵と馬が並ぶ。兵は短い上着に細いズボン、革の長靴、あご紐の付いた小さな帽子という、馬に乗りやすい姿である。馬の背には鋲を打った低い鞍が置かれ、腹帯で留めてある。鐙はない。兵は片手で手綱を、片手で弩を持つ。馬は肩までの高さが百三十センチあまり。選ばれる兵は背が高く、身が軽く、四十歳より若い者であった。\n\n騎兵は軍のごく一部である。だが[[p:項羽]]は、その使い方を知っていた。前205年、[[p:劉邦]]が五つの国の兵五十六万を連れて項羽の都の彭城に入ったとき、項羽は斉で戦っていた。項羽は主力を斉に残し、自ら精兵三万だけを率いて南へ駆けた。夜明けに西から彭城を突き、昼には漢軍を破った。逃げる漢の兵は穀水と泗水に追い落とされ、十万余りが死んだ。さらに南へ追われて睢水に落ち、十万余りが溺れ、川の流れが止まったという。\n\n最後もまた騎兵であった。前202年、垓下で囲まれた項羽は、夜のうちに八百騎を連れて囲みを破った。淮水を渡ったとき、従う者は百余り。道を尋ねた農夫に欺かれて沼地に迷い込み、東城に着いたときは二十八騎。追う漢の騎兵は数千であった。項羽は「天がわたしを亡ぼすのであって、戦い方が悪かったのではない」と言い、二十八騎を四つの隊に分けて四方へ駆け下らせ、漢の将を一人斬り、旗を倒し、百人近くを倒して、ふたたび集まったときに失っていたのは二騎だけであった。",
+    "en": "Qin was a land of horses. Its ancestors were said to have won their first lands by breeding horses for the Zhou king, and it held the pastures of the west and north. At the end of the Warring States its cavalry was counted at ten thousand.\n\nPit two of the terracotta army holds a hundred and sixteen riders with their horses. The men wear short coats, narrow trousers, leather boots and small caps with chin-straps — clothes for riding. The horses carry low studded saddles held by a girth. There are no stirrups. The rider held the reins in one hand and a crossbow in the other. The horses stand a little over a hundred and thirty centimetres at the shoulder. Riders were picked tall, light, and under forty.\n\nCavalry was a small part of an army. But [[p:項羽|Xiang Yu]] knew what to do with it. In 205 BC, when [[p:劉邦|Liu Bang]] brought five hundred and sixty thousand men of five states into Xiang Yu's capital, Pengcheng, Xiang Yu was fighting in Qi. He left his main force there and rode south himself with thirty thousand picked men. At dawn he struck Pengcheng from the west; by midday the Han army was broken. The fugitives were driven into the Gu and Si rivers, where more than a hundred thousand died; chased further south, more than a hundred thousand drowned in the Sui, and the river, it is said, stopped flowing.\n\nThe end too was a matter of horsemen. Surrounded at Gaixia in 202 BC, Xiang Yu broke out by night with eight hundred riders. A hundred or so were with him when he crossed the Huai. Misled by a farmer he asked for the road, he strayed into a marsh; at Dongcheng he had twenty-eight, and several thousand Han horse behind him. \"It is Heaven that destroys me, not any fault in my fighting,\" he said. He formed the twenty-eight in four groups and sent them down the hill four ways, cut down a Han commander, felled a banner, killed nearly a hundred men, and when they gathered again had lost two."
+   },
+   "year": 205,
+   "people": [
+    "項羽|Xiang Yu",
+    "劉邦|Liu Bang"
+   ],
+   "related": [
+    "langzhong",
+    "sk_chariot",
+    "jiangdong",
+    "mingdi"
+   ],
+   "src": [
+    "finds:秦始皇帝陵の兵馬俑|the terracotta army",
+    "shiji:項羽本紀|Basic Annals of Xiang Yu"
+   ],
+   "keepSrc": true
+  },
+  "sk_siege": {
+   "kind": "unit",
+   "title": {
+    "ja": "甬道と城攻め",
+    "en": "Walled roads and sieges"
+   },
+   "body": {
+    "ja": "大軍は食べなければ戦えない。数十万の兵と馬を養う穀物をどう運ぶか。秦と漢の将たちが頼ったのが「甬道 (ようどう)」である。道の両側に土の壁を築き、その間を荷車が通る。敵の騎兵に襲われても、壁が荷を守る。\n\n前207年、鉅鹿を囲んだ秦の[[p:王離]]の軍に、[[p:章邯]]は甬道を築いて黄河から穀物を送り続けた。趙を救いに来た[[p:項羽]]は、まず[[p:英布]]らに二万を付けて河を渡らせ、この甬道を断たせた。王離の軍は食が乏しくなった。そこへ項羽の本隊が船を沈め釜を壊して渡ってきたのである。\n\n前205年から、[[p:劉邦]]は滎陽に拠った。近くの敖倉には秦が蓄えた穀物の大きな倉がある。劉邦は滎陽から黄河まで甬道を築き、敖倉の穀物を運ばせた。項羽はこの甬道をたびたび襲って奪った。漢軍は食が足りなくなり、劉邦は和を請うた。[[p:酈食其]]は「王者は民を天とし、民は食を天とします。敖倉を固めなければなりません」と説いている。\n\n城を攻める手もさまざまであった。前205年、劉邦は章邯の籠もる廃丘に水を引き入れて落とした。前204年、楚に囲まれた滎陽では、[[p:紀信]]が劉邦の車に乗って東の門から「漢王が降る」と出て行き、楚の兵が万歳を叫ぶ間に、劉邦は西の門から逃げた。\n\n城を落としたあとの扱いも戦のうちであった。前203年、項羽は[[p:彭越]]に取られた外黄を数日かけて落とすと、十五歳以上の男をみな穴埋めにしようとした。十三歳の少年が項羽の前に出て言った。「外黄は彭越に脅されて降ったのです。大王を待っていました。ここで皆殺しにすれば、東の十余りの城はみな恐れて降らなくなります。」項羽は聞き入れた。東の城は争って降った。",
+    "en": "A great army that does not eat does not fight. How to move the grain for hundreds of thousands of men and horses? The generals of Qin and Han relied on the yongdao, the walled road: earth walls raised on both sides, the carts moving between them, so that enemy horse could not get at the loads.\n\nIn 207 BC [[p:章邯|Zhang Han]] built a walled road to feed grain from the Yellow River to [[p:王離|Wang Li]]'s Qin army besieging Julu. [[p:項羽|Xiang Yu]], coming to save Zhao, first sent [[p:英布|Ying Bu]] and others over the river with twenty thousand men to cut it, and Wang Li's army went short. Then Xiang Yu's main body crossed, sinking its boats and breaking its cooking pots.\n\nFrom 205 BC [[p:劉邦|Liu Bang]] held Xingyang. Nearby, at Ao, was the great granary Qin had filled. He built a walled road from Xingyang to the Yellow River to bring up the grain of Ao; Xiang Yu raided it again and again and took the grain. The Han army went hungry, and Liu Bang asked for terms. \"A king takes the people for his heaven,\" [[p:酈食其|Li Yiji]] told him, \"and the people take food for theirs. The granary of Ao must be held.\"\n\nThere were many ways to take a town. In 205 BC Liu Bang turned a river into Feiqiu, where Zhang Han was holding out, and took it. In 204, with Xingyang ringed by Chu, [[p:紀信|Ji Xin]] rode out of the east gate in Liu Bang's carriage announcing that the King of Han surrendered; while the men of Chu were cheering, Liu Bang slipped out of the west gate.\n\nWhat was done with a town once taken was part of the war. In 203 BC Xiang Yu took Waihuang, which [[p:彭越|Peng Yue]] had seized, after several days, and meant to bury alive every male over fifteen. A boy of thirteen came before him: \"Waihuang yielded to Peng Yue under threat and was waiting for Your Majesty. Kill everyone here, and the ten and more towns to the east will be too afraid ever to yield.\" Xiang Yu listened. The towns to the east hurried to submit."
+   },
+   "year": 205,
+   "people": [
+    "項羽|Xiang Yu",
+    "劉邦|Liu Bang",
+    "章邯|Zhang Han",
+    "王離|Wang Li",
+    "酈食其|Li Yiji",
+    "紀信|Ji Xin",
+    "彭越|Peng Yue"
+   ],
+   "related": [
+    "sk_foot",
+    "beibian",
+    "youbing"
+   ],
+   "src": [
+    "shiji:項羽本紀|Basic Annals of Xiang Yu",
+    "shiji:高祖本紀|Basic Annals of Gaozu",
+    "shiji:酈生陸賈列伝|Biographies of Master Li and Lu Jia"
+   ],
+   "keepSrc": true
+  },
+  "xingtu": {
+   "kind": "unit",
+   "title": {
+    "ja": "驪山の刑徒軍",
+    "en": "The convict army of Lishan"
+   },
+   "body": {
+    "ja": "前209年の秋、[[p:陳勝]]の将の周文は数十万の兵と千乗の戦車を率いて函谷関を破り、咸陽から百里あまりの戯まで迫った。秦の[[p:二世皇帝]]はうろたえ、群臣に「どうすればよいか」と尋ねた。\n\n少府 (帝室の財を司る役) の[[p:章邯]]が進み出た。「賊はすでに近く、数も多い。近くの県から兵を集めていては間に合いません。驪山には刑徒が大勢おります。どうか彼らを赦し、武器を与えて賊を撃たせてください。」驪山では、始皇帝の陵を築くために七十万人とも言われる刑徒が働かされていた。二世皇帝は天下に大赦を下し、章邯を将とした。\n\n章邯は刑徒と、奴隷の産んだ子らを兵とし、周文を破った。周文は関の外へ逃げ、追い詰められて自ら首をはねた。章邯はそのまま東へ進み、滎陽を囲んでいた田臧を討ち、陳勝を破った。陳勝は逃げる途中で御者に殺された。蜂起からわずか半年である。\n\n章邯はさらに魏の都を落とし、斉王の[[p:田儋]]を討ち、定陶で[[p:項梁]]を夜襲して殺した。寄せ集めであったはずの軍は、一年のうちに反乱の主だった者をほとんど倒したことになる。兵の多くは、法に触れて刑徒となる前には、秦の軍で戦った経験を持つ者であった。\n\nだが前207年、鉅鹿で[[p:王離]]の軍が[[p:項羽]]に滅ぼされると、章邯は退いた。都に援軍を求めると、宦官の[[p:趙高]]は使いに会おうともしない。勝てば功をねたまれ、負ければ罪を問われる。章邯は殷墟で項羽に降り、涙を流して趙高のことを語った。\n\n降った兵は二十万余り。関中へ向かう途中、諸侯の兵は、かつて自分たちを見下した秦の兵を奴隷のように扱った。秦の兵たちはひそかに言い合った。「章将軍はわれらを欺いて降らせた。関中に入れなければ、東へ連れて行かれ、秦に残した父母や妻子は殺される。」これを聞いた項羽は、新安の城の南で、夜のうちに二十余万を穴埋めにした。",
+    "en": "In the autumn of 209 BC Zhou Wen, a general of [[p:陳勝|Chen Sheng]], broke through the Hangu pass with hundreds of thousands of men and a thousand chariots and came to Xi, little more than a hundred li from Xianyang. The Second Emperor of Qin, aghast, asked his ministers what was to be done.\n\n[[p:章邯|Zhang Han]], the Privy Treasurer, came forward. \"The rebels are close and many. There is no time to call up troops from the nearby counties. There are great numbers of convicts at Lishan. I beg you to pardon them, arm them and let them strike.\" At Lishan convict labourers — seven hundred thousand, it was said — were building the First Emperor's tomb. The emperor proclaimed a general amnesty and made Zhang Han his general.\n\nWith the convicts and the sons born to slaves, Zhang Han beat Zhou Wen, who fled beyond the pass and, run to earth, cut his own throat. Zhang Han went on east, killed Tian Zang at the siege of Xingyang and broke Chen Sheng, who was murdered by his driver as he fled — barely half a year after the rising.\n\nHe went on to take the capital of Wei, kill King [[p:田儋|Tian Dan]] of Qi, and surprise and kill [[p:項梁|Xiang Liang]] at Dingtao by night. What should have been a scratch force had, within a year, brought down nearly every leader of the rebellion. Many of its men, before they fell foul of the law, had fought in the armies of Qin.\n\nBut in 207 BC, when [[p:王離|Wang Li]]'s army was destroyed by [[p:項羽|Xiang Yu]] at Julu, Zhang Han gave ground. He sent to the capital for help; the eunuch [[p:趙高|Zhao Gao]] would not so much as see the messenger. Victory would bring jealousy, defeat a charge. Zhang Han surrendered to Xiang Yu at the ruins of Yin, and wept as he spoke of Zhao Gao.\n\nMore than two hundred thousand men surrendered with him. On the march to Guanzhong the soldiers of the lords, once looked down on by Qin men, treated them like slaves. The Qin soldiers said among themselves: \"General Zhang tricked us into surrender. If we cannot get into Guanzhong they will carry us off east, and the parents, wives and children we left in Qin will be killed.\" Xiang Yu heard of it. South of the town of Xin'an, in one night, he had the two hundred thousand and more buried alive."
+   },
+   "year": 209,
+   "people": [
+    "章邯|Zhang Han",
+    "趙高|Zhao Gao",
+    "項羽|Xiang Yu",
+    "項梁|Xiang Liang",
+    "陳勝|Chen Sheng",
+    "二世皇帝|the Second Emperor"
+   ],
+   "related": [
+    "beibian",
+    "shuzu",
+    "sk_foot"
+   ],
+   "src": [
+    "shiji:秦始皇本紀|Basic Annals of the First Emperor",
+    "shiji:陳渉世家|House of Chen She",
+    "shiji:項羽本紀|Basic Annals of Xiang Yu"
+   ],
+   "keepSrc": true
+  },
+  "beibian": {
+   "kind": "unit",
+   "title": {
+    "ja": "北辺の秦軍 (王離の軍)",
+    "en": "The Qin army of the northern frontier"
+   },
+   "body": {
+    "ja": "前215年、始皇帝は将軍の蒙恬に三十万の兵を与えて北へ送った。蒙恬は匈奴を追って黄河の南の地 (オルドス) を取り、川に沿って四十四の県の城を築き、罪人を移して住まわせた。そして西の臨洮から東の遼東まで、戦国の国々の長城をつないで一万余里の壁とした。都の近くの雲陽から北の九原まで、山を削り谷を埋めて千八百里の「直道」も通した。\n\n蒙恬の軍は、秦でただ一つの、長く戦い続けてきた野戦の軍であった。始皇帝の長子の扶蘇は、父を諫めて怒りを買い、この軍の監督として北へ送られていた。\n\n前210年、始皇帝が旅の途中で死ぬと、[[p:趙高]]と[[p:李斯]]は遺詔を偽って末子の胡亥を立て、扶蘇と蒙恬に死を命じる書を送った。扶蘇は泣いて自害した。蒙恬は疑って従わず、獄に下され、のちに毒をあおいだ。「わたしは臨洮から遼東まで城と堀を築いた。その間に地の脈を断ったこともあったろう。それがわたしの罪だ。」軍は副将の[[p:王離]]に渡された。王離は、楚を滅ぼした名将王翦の孫である。\n\n前208年、反乱が広がると、王離の軍は南へ下って趙を攻め、鉅鹿の城を囲んだ。[[p:章邯]]がその南に陣を敷いて穀物を送った。趙を救いに来た諸侯の軍は十余りの砦を築いたが、だれも秦軍に向かって出ようとしなかった。\n\n前207年、[[p:項羽]]が河を渡った。九度戦って秦軍の甬道を断ち、王離を捕らえ、将の蘇角を斬り、渉間は降らずに自ら火に入って死んだ。楚の兵は一人で十人に当たり、叫び声は天を動かした。砦の上から見ていた諸侯の将たちは、恐れおののいた。項羽が彼らを呼ぶと、みな膝で進み、顔を上げる者はなかった。\n\n北の軍が南へ下ったあと、長城を守る者はいなくなった。匈奴の[[p:冒頓単于]]は、蒙恬に奪われた黄河の南の地をそっくり取り戻した。",
+    "en": "In 215 BC the First Emperor sent the general Meng Tian north with three hundred thousand men. He drove the Xiongnu out of the land south of the Yellow River, the Ordos, built forty-four walled county towns along the river and settled convicts in them. He joined the walls of the old states into one of more than ten thousand li, from Lintao in the west to Liaodong in the east, and cut the Straight Road, eighteen hundred li from Yunyang near the capital north to Jiuyuan, levelling hills and filling valleys.\n\nMeng Tian's was the one field army of Qin that had been fighting for years. The emperor's eldest son Fusu, who had angered his father by remonstrating with him, had been sent north to oversee it.\n\nWhen the emperor died on tour in 210 BC, [[p:趙高|Zhao Gao]] and [[p:李斯|Li Si]] forged his will, set up his youngest son Huhai, and sent Fusu and Meng Tian a letter ordering them to die. Fusu wept and killed himself. Meng Tian doubted and would not; he was imprisoned and later took poison. \"From Lintao to Liaodong I built walls and dug moats. Somewhere along the way I must have cut through the veins of the earth. That is my crime.\" The army passed to his deputy [[p:王離|Wang Li]], grandson of Wang Jian, the conqueror of Chu.\n\nIn 208 BC, as the rebellion spread, Wang Li's army came south, attacked Zhao and besieged Julu; [[p:章邯|Zhang Han]] camped to the south and fed it grain. The armies of the lords who came to save Zhao built a dozen and more forts, and not one dared come out against Qin.\n\nIn 207 [[p:項羽|Xiang Yu]] crossed the river. He fought nine times, cut the walled road, took Wang Li prisoner and killed the general Su Jue; She Jian would not surrender and burned himself to death. Every man of Chu was a match for ten, and their shouting shook the sky. The generals of the lords, watching from their ramparts, were terrified. When Xiang Yu summoned them they came forward on their knees, and none dared look up.\n\nOnce the northern army had gone south there was no one to hold the wall. Modu, chanyu of the Xiongnu, took back all the land south of the river that Meng Tian had seized."
+   },
+   "year": 207,
+   "people": [
+    "王離|Wang Li",
+    "章邯|Zhang Han",
+    "項羽|Xiang Yu",
+    "趙高|Zhao Gao",
+    "李斯|Li Si",
+    "冒頓単于|Modu Chanyu"
+   ],
+   "related": [
+    "xingtu",
+    "mingdi",
+    "sk_siege"
+   ],
+   "src": [
+    "shiji:蒙恬列伝|Biography of Meng Tian",
+    "shiji:項羽本紀|Basic Annals of Xiang Yu",
+    "shiji:匈奴列伝|Account of the Xiongnu"
+   ],
+   "keepSrc": true
+  },
+  "shuzu": {
+   "kind": "unit",
+   "title": {
+    "ja": "戍卒の軍",
+    "en": "The army of the frontier conscripts"
+   },
+   "body": {
+    "ja": "前209年の七月、秦は貧しい者たち九百人を北の漁陽の守りに送った。辺境の守りに就く兵を「戍卒 (じゅそつ)」という。[[p:陳勝]]と[[p:呉広]]は、その中の隊長であった。大沢郷まで来たとき大雨が降り、道が通れなくなった。もう期日には間に合わない。秦の法では、期日に遅れれば斬られる。\n\n二人は話し合った。「逃げても死ぬ。事を起こしても死ぬ。同じ死ぬなら、国のために死ぬほうがよいではないか。」二人は絹の切れに「陳勝が王となる」と朱で書いて魚の腹に入れ、夜には近くの祠で狐の声をまねて「大楚が興る、陳勝が王となる」と叫んだ。兵たちは恐れ、陳勝を指さして噂し合った。\n\n呉広が引率の役人をわざと怒らせて鞭打たれ、その剣を奪って斬った。陳勝は兵を集めて言った。「お前たちは期日に遅れた。みな斬られる。斬られなくとも、守りに就いた者は十人のうち六、七人が死ぬ。男は死なないならそれまでだが、死ぬなら大きな名を残そうではないか。王や諸侯、将軍や大臣に、生まれつきの種などあるものか。」\n\n彼らには武器がなかった。木を切って武器とし、竿を掲げて旗とした。右の肩を脱いで目印とし、「大楚」と名乗った。それでも大沢郷を取り、蘄を取り、進むたびに人が加わった。陳に着いたときには、戦車六、七百乗、騎兵千余り、歩卒数万になっていた。陳勝は陳で王となり、国の名を「張楚」とした。\n\n各地の若者たちが役人を殺して陳勝に応じた。だが寄せ集めの軍は長くは保たなかった。陳勝が四方へ送った将たちは、それぞれの土地で自ら王を名乗った。昔なじみの農夫が訪ねて来て昔話をすると、陳勝は恥じて斬らせ、古い仲間は去った。[[p:章邯]]の軍が来ると張楚は半年で崩れ、陳勝は御者の荘賈に殺された。\n\n司馬遷は陳勝を王侯と同じ「世家」に入れてこう書いた。「陳勝は死んだが、彼が立てて遣わした王侯将相が、ついに秦を滅ぼした。事は陳勝から始まったのである。」",
+    "en": "In the seventh month of 209 BC Qin sent nine hundred poor men to garrison Yuyang in the north. Men serving on the frontier were shuzu, garrison conscripts, and [[p:陳勝|Chen Sheng]] and [[p:呉広|Wu Guang]] were squad leaders among them. At Dazexiang heavy rain closed the road. They could not now arrive by the appointed day, and by Qin law to be late was to be beheaded.\n\nThe two talked it over. \"Run, and we die. Rise, and we die. If it is death either way, is it not better to die for a state?\" They wrote \"Chen Sheng will be king\" in red on a strip of silk and put it in a fish's belly, and at night, by a shrine nearby, cried in a fox's voice, \"Great Chu shall rise! Chen Sheng will be king!\" The men were frightened, and pointed at Chen Sheng and whispered.\n\nWu Guang provoked the officer in charge into flogging him, seized his sword and cut him down. Chen Sheng called the men together. \"You are late, and all of you will be beheaded. Even if you were not, six or seven in ten of those who serve on the frontier die. A man who is not to die, well and good; but if he must die, let him make a great name. Kings and lords, generals and ministers — are they born to it?\"\n\nThey had no weapons. They cut wood for weapons and raised poles for banners, bared the right shoulder as their sign and called themselves Great Chu. Even so they took Dazexiang and then Qi, and men joined them at every step. When they reached Chen they had six or seven hundred chariots, more than a thousand horse and tens of thousands of foot. Chen Sheng made himself king there and called his state Zhang Chu.\n\nYoung men everywhere killed their officials and answered him. But a scratch army does not last. The generals Chen Sheng sent out in all directions made themselves kings wherever they went. When an old farmhand friend came to see him and talked of old times, Chen Sheng, ashamed, had him beheaded, and his old comrades left. When [[p:章邯|Zhang Han]] came, Zhang Chu fell apart in half a year, and Chen Sheng was killed by his driver Zhuang Jia.\n\nSima Qian set Chen Sheng among the Hereditary Houses with kings and lords, and wrote: \"Chen Sheng died, but the kings, lords, generals and ministers he set up and sent out at last destroyed Qin. It began with him.\""
+   },
+   "year": 209,
+   "people": [
+    "陳勝|Chen Sheng",
+    "呉広|Wu Guang",
+    "章邯|Zhang Han"
+   ],
+   "related": [
+    "xingtu",
+    "cangtou",
+    "sk_foot"
+   ],
+   "src": [
+    "shiji:陳渉世家|House of Chen She"
+   ],
+   "keepSrc": true
+  },
+  "cangtou": {
+   "kind": "unit",
+   "title": {
+    "ja": "蒼頭軍",
+    "en": "The Blue-Headed Army"
+   },
+   "body": {
+    "ja": "蒼頭 (そうとう) とは、青い布で頭を包んだ者のことである。ほかの軍と見分けるための目印であった。秦の末の反乱の中で、二つの蒼頭軍が現れる。\n\n一つは東陽の陳嬰 (ちんえい) の軍である。陳嬰は東陽県の役人で、慎み深く、信用が厚かった。県の若者たちが県令を殺して数千人集まり、陳嬰を長に立てた。人が集まって二万になると、若者たちは陳嬰を王に立て、ほかとは違う「蒼頭」の姿で旗揚げしようとした。\n\n陳嬰の母は言った。「わたしがこの家に嫁いでから、先祖に貴い人がいたとは聞いたことがない。急に大きな名を得るのは不吉です。だれかの下に付きなさい。事が成れば侯になれる。破れても逃げやすい。世に名を知られた者ではないのだから。」陳嬰は王にならず、兵たちに言った。「項氏は代々楚の将の家で、名が知られている。大きな事を起こすなら、将はその人でなければならない。」前208年、陳嬰は二万の兵ごと、長江を渡ってきた[[p:項梁]]に従った。\n\nもう一つは呂臣 (りょしん) の軍である。呂臣は[[p:陳勝]]のそば近くに仕えた者であった。陳勝が御者の荘賈に殺され、陳の町が秦に降ると、呂臣は新陽で蒼頭軍を起こして陳を攻め落とし、荘賈を殺して、ふたたび陳を楚の町とした。秦軍に敗れて逃げたが、[[p:英布]]の軍と合わせてまた秦軍を破っている。呂臣ものちに項梁のもとに入り、懐王が彭城に移ると司徒に任じられた。\n\n項梁が会稽を出たとき、兵は八千であった。陳嬰の二万、英布と蒲将軍の兵が加わり、下邳に着いたときには六、七万になっていた。楚の軍の大半は、こうして途中で加わった者たちである。[[p:項羽]]がのちに頼りにしたのは江東から連れてきた八千であったが、数のうえで楚軍を支えたのは、陳嬰や呂臣のような男たちが連れてきた兵であった。",
+    "en": "Cangtou means men with their heads wrapped in blue cloth, a mark to tell them from other armies. Two \"blue-headed armies\" appear in the rebellions at the end of Qin.\n\nOne was Chen Ying's, of Dongyang. Chen Ying was a county clerk there, a careful man and much trusted. The young men of the county killed the magistrate, gathered in their thousands and made him their head. When they were twenty thousand they wanted to make him king and take the field as a force apart, in blue headcloths.\n\nHis mother said: \"Since I married into this house I have never heard that any of your forebears was a man of rank. To come suddenly into a great name is unlucky. Put yourself under someone. If the thing succeeds you will be a marquis; if it fails you can slip away easily, for the world does not know your name.\" Chen Ying would not be king. \"The Xiang have been generals of Chu for generations and their name is known,\" he told his men. \"If we mean to do great things, our general must be such a man.\" In 208 BC he took his twenty thousand over to [[p:項梁|Xiang Liang]], newly across the Yangzi.\n\nThe other was Lü Chen's. He had been an attendant close to [[p:陳勝|Chen Sheng]]. When Chen Sheng was murdered by his driver Zhuang Jia and the town of Chen went over to Qin, Lü Chen raised a blue-headed army at Xinyang, stormed Chen, killed Zhuang Jia and made Chen a town of Chu again. Beaten by the Qin army he fled, joined forces with [[p:英布|Ying Bu]] and beat it in turn. He too came under Xiang Liang, and was made Minister of the Masses when King Huai moved to Pengcheng.\n\nXiang Liang left Kuaiji with eight thousand men. With Chen Ying's twenty thousand and the troops of Ying Bu and General Pu, he had sixty or seventy thousand by the time he reached Xiapi. Most of the army of Chu was men who joined on the way like this. What [[p:項羽|Xiang Yu]] relied on later was the eight thousand from east of the river; what gave the army its numbers was the men that people like Chen Ying and Lü Chen brought in."
+   },
+   "year": 208,
+   "people": [
+    "項梁|Xiang Liang",
+    "項羽|Xiang Yu",
+    "陳勝|Chen Sheng",
+    "英布|Ying Bu"
+   ],
+   "related": [
+    "jiangdong",
+    "shuzu",
+    "qingbu"
+   ],
+   "src": [
+    "shiji:項羽本紀|Basic Annals of Xiang Yu",
+    "shiji:陳渉世家|House of Chen She"
+   ],
+   "keepSrc": true
+  },
+  "qingbu": {
+   "kind": "unit",
+   "title": {
+    "ja": "英布の兵",
+    "en": "Ying Bu's men"
+   },
+   "body": {
+    "ja": "[[p:英布]] (えいふ) は六 (今の安徽の六安) の人である。若い頃、人相見に「刑を受けてのち王になる」と言われた。やがて法に触れて顔に入れ墨の刑 (黥) を受けると、英布は笑って言った。「刑を受けて王になると言われた。そろそろだな。」それで黥布 (げいふ) とも呼ばれる。\n\n英布は驪山へ送られ、始皇帝の陵を築く数十万の刑徒の中に入った。そこで頭立った者や豪傑と交わり、仲間を連れて長江のほとりへ逃げ、群盗となった。[[p:陳勝]]が立つと、番陽の県令の[[p:呉芮]]を頼って兵を挙げた。呉芮は娘を英布に嫁がせた。集まった兵は数千。もとは刑徒と盗賊である。\n\n[[p:項梁]]が長江を渡ると、英布はその下に入った。『史記』は記す。「項梁が西へ進んで景駒・秦嘉らを撃つと、英布は常に軍の先頭に立った (常に軍に冠たり)。」項梁が死んで[[p:項羽]]の世になっても変わらない。鉅鹿では、まず英布が二万を率いて河を渡り、秦の甬道を断って勝ちのきっかけを作った。「楚の兵が諸侯に抜きん出たのは、英布がたびたび少ない兵で多くを破ったからである。」\n\n汚れ仕事も英布に回った。新安で秦の降兵二十余万を夜襲して穴埋めにしたのも、函谷関を間道から破ったのも、義帝を長江の上で殺させたのも英布である。項羽は英布を九江王とし、故郷の六を都とさせた。\n\nだが王になると、英布は動かなくなった。項羽が斉を攻めるとき兵を求めると、病と称して将に数千を付けて送っただけであった。彭城が[[p:劉邦]]に取られたときも動かない。項羽はたびたび使いを送って責め、英布はますます恐れた。\n\n前204年、劉邦は随何を九江へ送った。随何は、楚の使いが英布をせき立てている席に踏み込み、上座に座って言った。「九江王はすでに漢に付かれた。楚がどうして兵を求められようか。」英布は青ざめ、楚の使いは席を立った。随何は言った。「事は決まりました。楚の使いを殺し、漢と力を合わせるほかありません。」英布は使いを斬って兵を挙げた。項羽は[[p:龍且]]を送って九江を破り、英布は身一つで劉邦のもとへ逃げた。のちに淮南王となり、垓下で項羽を囲む軍に加わっている。",
+    "en": "[[p:英布|Ying Bu]] was a man of Liu, today's Lu'an in Anhui. When he was young a physiognomist told him he would \"be punished and then be a king\". In time he fell foul of the law and was tattooed on the face. He laughed: \"Punished, and then a king, the man said. It must be nearly time.\" So he is also called Qing Bu, Bu the Branded.\n\nHe was sent to Lishan, among the hundreds of thousands of convicts building the First Emperor's tomb. There he made friends with their ringleaders and bold men, got away with his band to the Yangzi and turned brigand. When [[p:陳勝|Chen Sheng]] rose he went to [[p:呉芮|Wu Rui]], magistrate of Poyang, and took up arms; Wu Rui gave him his daughter. He had a few thousand men — convicts and bandits to begin with.\n\nWhen [[p:項梁|Xiang Liang]] crossed the Yangzi, Ying Bu put himself under him. \"When Xiang Liang marched west against Jing Ju and Qin Jia,\" says the Shiji, \"Ying Bu was always at the head of the army.\" It was the same under [[p:項羽|Xiang Yu]]. At Julu it was Ying Bu who crossed the river first with twenty thousand men and cut the Qin supply road, opening the way to the victory. \"That the troops of Chu stood out among those of the lords was because Ying Bu had so often beaten many with few.\"\n\nThe dirty work came to him too. It was Ying Bu who fell by night on the two hundred thousand surrendered Qin soldiers at Xin'an and buried them, who forced the Hangu pass by a side road, who had the Righteous Emperor killed on the Yangzi. Xiang Yu made him King of Jiujiang, with his home town of Liu for a capital.\n\nOnce a king, he stopped moving. When Xiang Yu wanted troops for the attack on Qi, Ying Bu pleaded illness and sent a general with a few thousand. When [[p:劉邦|Liu Bang]] took Pengcheng he did not stir. Xiang Yu sent envoy after envoy to rebuke him, and Ying Bu grew more and more afraid.\n\nIn 204 BC Liu Bang sent Sui He to Jiujiang. Sui He walked in on a sitting where the envoy of Chu was pressing Ying Bu, took the seat of honour and said: \"The King of Jiujiang has already joined Han. How can Chu ask him for troops?\" Ying Bu went pale and the envoy rose to go. \"The thing is settled,\" said Sui He. \"Kill the envoy of Chu and join forces with Han. There is nothing else.\" Ying Bu cut the envoy down and took the field. Xiang Yu sent [[p:龍且|Long Ju]], who broke Jiujiang, and Ying Bu fled to Liu Bang alone. He was later made King of Huainan, and was in the army that closed round Xiang Yu at Gaixia."
+   },
+   "year": 206,
+   "people": [
+    "英布|Ying Bu",
+    "項羽|Xiang Yu",
+    "項梁|Xiang Liang",
+    "劉邦|Liu Bang",
+    "龍且|Long Ju",
+    "呉芮|Wu Rui"
+   ],
+   "related": [
+    "xingtu",
+    "cangtou",
+    "jiangdong",
+    "sk_siege"
+   ],
+   "src": [
+    "shiji:黥布列伝|Biography of Qing Bu",
+    "shiji:項羽本紀|Basic Annals of Xiang Yu"
+   ],
+   "keepSrc": true
+  },
+  "cong": {
+   "kind": "unit",
+   "title": {
+    "ja": "賨人 (板楯蛮)",
+    "en": "The Cong (the \"plank-shield\" people)"
+   },
+   "body": {
+    "ja": "巴の地、今の四川の東の閬中のあたりに、賨 (そう) と呼ばれる人々が住んでいた。木の板の楯を持って戦うので「板楯蛮 (ばんじゅんばん)」とも呼ばれる。巴の勇ましい兵の流れをくむ人々である。\n\n後の書物『華陽国志』と『後漢書』は、彼らについてこんな話を伝える。秦の昭襄王の時代、一頭の白い虎が秦・蜀・巴・漢の境を荒らし、千人あまりを殺した。王は「虎を殺した者には一万戸の領地と金を与える」と触れを出した。巴の人々が竹で弩を作り、高い楼に登って虎を射殺した。王は約束を惜しみ、代わりに石に盟いを刻んだ。「秦が夷を犯せば黄龍一対を償う。夷が秦を犯せば清い酒一鐘を償う。」田を耕しても税を取らず、妻を十人持っても数えない、という取り決めであった。\n\n前206年、漢王となった[[p:劉邦]]は、桟道を焼いて南鄭に入った。兵は故郷を思って日ごとに逃げた。[[p:韓信]]を大将に立て、関中へ攻め戻ることを決めたが、兵が要る。閬中の人の范目 (はんもく) が劉邦に説いて、賨の人々を募った。彼らは先鋒となって陳倉から関中へ攻め入り、[[p:章邯]]の軍を破った。\n\n関中が定まると、劉邦は范目を侯に封じ、賨の人々には故郷に帰ることを許して、七つの姓の者には税を免じた。ほかの者も、一人が年に四十銭を納めるだけでよいとされた。\n\n賨の人は歌と舞を好んだ。劉邦は彼らの戦いの舞を見て「これは武王が紂を伐ったときの歌だ」と言い、楽人に習わせた。これが「巴渝舞」である。矛を持って舞い、弩を持って舞い、太鼓に合わせて歌う。漢の宮廷で、天子の宴のたびに舞われ、魏と晋の時代まで伝えられた。\n\n板楯の人々はその後も漢の兵として働き、羌が漢中に攻め入るたびにこれを破って「神兵」と呼ばれた。だが役人が重い税を取り立てるようになると、後漢の末にはたびたび背いている。",
+    "en": "In the land of Ba, about Langzhong in the east of today's Sichuan, lived a people called the Cong, also known as the \"plank-shield\" people from the wooden shields they fought with: heirs of the bold soldiers of Ba.\n\nLater books, the Chronicles of Huayang and the History of the Later Han, tell this of them. In the time of King Zhaoxiang of Qin a white tiger ravaged the borders of Qin, Shu, Ba and Han and killed more than a thousand people. The king proclaimed that whoever killed it would have a fief of ten thousand households and gold. Men of Ba made crossbows of bamboo, climbed a high tower and shot it dead. The king grudged the reward and instead had a covenant cut in stone: \"If Qin wrongs the Yi, it shall pay a pair of yellow dragons; if the Yi wrong Qin, they shall pay a measure of clear wine.\" Their fields were not to be taxed, nor their wives counted, even to ten.\n\nIn 206 BC [[p:劉邦|Liu Bang]], made King of Han, burned the plank roads behind him and went down to Nanzheng. His soldiers, sick for home, deserted daily. He made [[p:韓信|Han Xin]] his general and resolved to strike back into Guanzhong, but he needed men. Fan Mu of Langzhong put it to him, and recruited the Cong. They went in the van through Chencang into Guanzhong and broke [[p:章邯|Zhang Han]]'s army.\n\nWhen Guanzhong was won Liu Bang made Fan Mu a marquis, let the Cong go home, and freed seven of their clans from tax; the rest were to pay forty cash a head each year and no more.\n\nThe Cong loved song and dance. Seeing their war dance, Liu Bang said, \"This is the song of King Wu's march on Zhou of Shang,\" and had his musicians learn it. This is the Bayu dance: danced with the spear, danced with the crossbow, sung to the drum. It was performed at the Han court whenever the Son of Heaven feasted, and handed down into Wei and Jin.\n\nThe plank-shield people went on serving as Han soldiers; each time the Qiang broke into Hanzhong they beat them, and were called \"spirit soldiers\". But when officials began to squeeze heavy taxes out of them, they rose more than once at the end of the Later Han."
+   },
+   "year": 206,
+   "people": [
+    "劉邦|Liu Bang",
+    "韓信|Han Xin",
+    "章邯|Zhang Han"
+   ],
+   "related": [
+    "sk_foot",
+    "sk_crossbow"
+   ],
+   "src": [
+    "legend:華陽国志 巴志|Chronicles of Huayang, Ba",
+    "houhanshu:南蛮西南夷列伝|Account of the Southern Man and South-western Yi"
+   ],
+   "keepSrc": true
+  },
+  "langzhong": {
+   "kind": "unit",
+   "title": {
+    "ja": "灌嬰の郎中騎兵",
+    "en": "Guan Ying's cavalry of the household"
+   },
+   "body": {
+    "ja": "前205年の夏、彭城で大敗した[[p:劉邦]]は、滎陽に退いて兵を立て直した。そこへ楚の騎兵が大勢で攻め寄せた。漢には、これに当たる騎兵がなかった。劉邦の兵は沛や碭の歩卒から始まっており、馬の戦いに慣れた者がいなかったのである。\n\n劉邦は軍の中から騎兵の将にふさわしい者を選ばせた。みなが推したのは、もと秦の騎士で、重泉の人の李必と駱甲であった。二人は騎兵の戦いをよく知り、いまは校尉である。劉邦が任じようとすると、二人は言った。「わたしどもはもと秦の民です。軍の者たちはわたしどもを信じないでしょう。どうか大王のおそばの、騎馬に巧みな方を将とし、わたしどもにその補佐をさせてください。」\n\nそこで劉邦は[[p:灌嬰]] (かんえい) を選んだ。灌嬰は睢陽で絹を売っていた商人で、劉邦が沛公であった頃から従い、若いがたびたび力戦していた。灌嬰は中大夫となり、李必と駱甲を左右の校尉として、郎中 (王のそば近くに仕える者) の騎兵を率いた。秦の騎兵の技と、劉邦の古くからの家臣の信用を組み合わせたのである。\n\nこの騎兵は滎陽の東で楚の騎兵を大いに破った。それからは別働隊として楚の後ろへ回り、兵糧の道を断った。[[p:韓信]]に従って斉を攻め、斉の将の[[p:田横]]の騎兵を破り、濰水では[[p:龍且]]の軍を討って副将を生け捕りにした。さらに南へ下って淮水を渡り、楚の本拠の彭城のまわりを荒らし、広陵まで達している。[[p:項羽]]は前から劉邦に、後ろから灌嬰に挟まれた。\n\n前202年、垓下の囲みを破って逃げた項羽を追ったのも灌嬰である。劉邦は灌嬰に五千の騎兵を与えて追わせた。東城で追いつき、烏江のほとりで、灌嬰の部下の五人が項羽の体を分け合った。五人はみな侯に封じられた。灌嬰はのちに漢の丞相となる。",
+    "en": "In the summer of 205 BC [[p:劉邦|Liu Bang]], routed at Pengcheng, fell back on Xingyang to rebuild his army. Chu cavalry came against him in strength, and Han had no cavalry to meet it. His men had begun as foot from Pei and Dang, and none of them was used to fighting on horseback.\n\nHe had the army pick out men fit to command cavalry. All named Li Bi and Luo Jia of Chongquan, former horsemen of Qin, now colonels, who knew mounted war well. When Liu Bang would have appointed them they said: \"We were people of Qin. The army will not trust us. We beg Your Majesty to make one of your own attendants who rides well the commander, and let us assist him.\"\n\nSo Liu Bang chose [[p:灌嬰|Guan Ying]]. He had been a silk seller in Suiyang, had followed Liu Bang since the days when he was Lord of Pei, and, though young, had fought hard many times. Guan Ying was made a Palace Grandee, with Li Bi and Luo Jia as his colonels of left and right, at the head of the cavalry of the langzhong, the king's own attendants. The skill of Qin's horsemen was joined to the trust owed an old retainer.\n\nThis cavalry beat the Chu horse soundly east of Xingyang. From then on it worked as a force apart, round the back of Chu, cutting its supply roads. It went with [[p:韓信|Han Xin]] against Qi, beat the horse of the Qi general [[p:田横|Tian Heng]], and on the Wei river struck [[p:龍且|Long Ju]]'s army and took his deputy alive. Then it rode south over the Huai, laid waste the country round Pengcheng, Chu's own base, and got as far as Guangling. [[p:項羽|Xiang Yu]] had Liu Bang before him and Guan Ying behind.\n\nIt was Guan Ying too who went after Xiang Yu when he broke out at Gaixia in 202 BC, with five thousand horse given him for the chase. He caught him at Dongcheng; and by the Wu river five of Guan Ying's men shared Xiang Yu's body among them. All five were made marquises. Guan Ying ended as Chancellor of Han."
+   },
+   "year": 205,
+   "people": [
+    "灌嬰|Guan Ying",
+    "劉邦|Liu Bang",
+    "韓信|Han Xin",
+    "項羽|Xiang Yu",
+    "田横|Tian Heng",
+    "龍且|Long Ju"
+   ],
+   "related": [
+    "sk_cavalry",
+    "sk_chariot",
+    "youbing"
+   ],
+   "src": [
+    "shiji:樊酈滕灌列伝|Biographies of Fan, Li, Teng and Guan",
+    "shiji:項羽本紀|Basic Annals of Xiang Yu"
+   ],
+   "keepSrc": true
+  },
+  "youbing": {
+   "kind": "unit",
+   "title": {
+    "ja": "彭越の遊兵",
+    "en": "Peng Yue's roving troops"
+   },
+   "body": {
+    "ja": "[[p:彭越]] (ほうえつ) は昌邑の人で、鉅野の沢で魚を捕って暮らし、仲間と盗みも働いた。[[p:陳勝]]が立つと、若者たちが「頭になってくれ」と頼んだ。彭越は「二匹の竜が戦っている。しばらく待て」と断った。\n\n一年あまりのち、百人ほどの若者がまた頼みに来た。彭越は引き受け、「明日の日の出に集まれ。遅れた者は斬る」と約束させた。翌朝、十数人が遅れ、最後の一人は昼に来た。彭越は言った。「わたしは年寄りだが、お前たちが無理に頭にした。約束しておきながら遅れる者が多い。みなは斬れない。最後に来た一人を斬る。」若者たちは笑って「そこまでしなくても」と言った。彭越は一人を引き出して斬り、壇を設けて祭った。みな震え上がり、顔を上げる者はなかった。\n\n彭越は千余りの兵で動き始め、散らばった諸侯の兵を集めて一万余りになった。だが[[p:項羽]]が諸侯を王に封じたとき、彭越には何も与えられなかった。前205年、[[p:劉邦]]は彭越を魏の相国とし、梁の地 (今の河南の東) を自由に切り取らせた。\n\n彭越の戦い方は、正面から戦わないことであった。項羽が西の滎陽で劉邦を攻めると、彭越は後ろの梁の地で楚の兵糧の道を断つ。項羽が引き返して来ると、北へ逃げて黄河のほとりに隠れる。項羽が西へ戻ると、また出て来る。「彭越はしばしば梁の地で背き、楚の兵糧を絶った」と『史記』はくり返す。\n\n前204年、彭越は下邳で楚軍を破った。前203年には睢陽・外黄など梁の十七の城を落とした。項羽は自ら東へ戻ってこれを取り返さねばならず、その留守に成皋を任された曹咎が漢に破られた。項羽は一人で東と西を走り回り、兵は疲れ、食は尽きた。\n\n前202年、劉邦は彭越に梁の地を与える約束をして兵を出させ、彭越は垓下に加わった。梁王となったが、前196年、謀反の疑いで捕らえられて殺された。[[p:韓信]]・[[p:英布]]と並んで、漢を勝たせた三人の将であり、三人とも劉邦に滅ぼされた。",
+    "en": "[[p:彭越|Peng Yue]] was a man of Changyi who fished in the Juye marsh and robbed with his band. When [[p:陳勝|Chen Sheng]] rose the young men asked him to lead them. \"Two dragons are fighting,\" he said. \"Wait a while.\"\n\nA year and more later a hundred or so young men came to ask again. He agreed, and made them promise to gather at sunrise next day: whoever was late would be beheaded. Next morning a dozen were late, the last arriving at noon. \"I am an old man,\" said Peng Yue, \"and you made me your leader against my will. You gave your word and many of you are late. I cannot behead you all. I shall behead the last to come.\" The young men laughed: surely there was no need for that. He had the man dragged out and beheaded, set up an altar and made offering. They were all terrified, and none dared look up.\n\nHe began with a thousand-odd men, gathered up the scattered soldiers of the lords and had over ten thousand. But when [[p:項羽|Xiang Yu]] parcelled out kingdoms, Peng Yue got nothing. In 205 BC [[p:劉邦|Liu Bang]] made him chancellor of Wei and left him free to carve out the land of Liang, in the east of today's Henan.\n\nHis way of fighting was never to fight head-on. When Xiang Yu attacked Liu Bang at Xingyang in the west, Peng Yue was in Liang behind him, cutting Chu's supply roads. When Xiang Yu came back, he fled north and hid along the Yellow River. When Xiang Yu went west again, out he came. \"Peng Yue rose again and again in Liang and cut off the grain of Chu,\" the Shiji says over and over.\n\nIn 204 BC he beat a Chu army at Xiapi. In 203 he took seventeen towns of Liang, Suiyang and Waihuang among them. Xiang Yu had to go back east himself to retake them, and while he was away Cao Jiu, left to hold Chenggao, was beaten by Han. One man ran east and west; his soldiers were worn out and his food was gone.\n\nIn 202 BC Liu Bang promised Peng Yue the land of Liang to bring his army out, and Peng Yue came to Gaixia. He was made King of Liang, and in 196 was arrested on suspicion of treason and put to death. With [[p:韓信|Han Xin]] and [[p:英布|Ying Bu]] he was one of the three generals who won the war for Han, and all three were destroyed by Liu Bang."
+   },
+   "year": 205,
+   "people": [
+    "彭越|Peng Yue",
+    "項羽|Xiang Yu",
+    "劉邦|Liu Bang",
+    "韓信|Han Xin",
+    "英布|Ying Bu",
+    "陳勝|Chen Sheng"
+   ],
+   "related": [
+    "langzhong",
+    "sk_siege",
+    "qingbu"
+   ],
+   "src": [
+    "shiji:魏豹彭越列伝|Biographies of Wei Bao and Peng Yue",
+    "shiji:項羽本紀|Basic Annals of Xiang Yu"
+   ],
+   "keepSrc": true
+  },
+  "donghu_riders": {
+   "kind": "unit",
+   "title": {
+    "ja": "東胡の騎兵",
+    "en": "The horsemen of the Donghu"
+   },
+   "body": {
+    "ja": "東胡 (とうこ) は匈奴の東、今の内モンゴルの東から遼寧にかけての草原に住んだ遊牧の民である。「東の胡」の意で、中原の人がそう呼んだ。戦国の時代には燕の北を脅かし、燕の将の秦開に千里あまり退けられて、燕は長城を築いた。\n\n秦の末、東胡は強く、西の月氏とともに匈奴を挟んで盛んであった。匈奴の[[p:頭曼単于]]は、太子の冒頓を月氏へ人質に出したほどである。\n\n前209年、冒頓が父を殺して単于に立つと、東胡の王はこれを侮った。使いを送って言う。「頭曼が持っていた千里を走る馬がほしい。」冒頓が家臣に尋ねると、みな「千里の馬は匈奴の宝です。与えてはなりません」と言った。冒頓は「隣り合う国なのに、馬一頭を惜しめようか」と言って与えた。\n\n東胡の王は、冒頓が自分を恐れていると思った。また使いを送る。「単于の妃を一人ほしい。」家臣たちは怒って「東胡は無道です。撃ちましょう」と言った。冒頓は「隣り合う国なのに、女一人を惜しめようか」と言って、愛する妃を与えた。\n\n東胡の王はますます驕り、西へ進んだ。匈奴と東胡のあいだには、だれも住まない千里あまりの荒れ地があった。「この捨て地は匈奴には用がなかろう。わたしがもらいたい。」家臣の中には「捨て地です。与えても与えなくてもよいでしょう」と言う者があった。冒頓は激しく怒った。「地は国の本である。どうして与えられようか。」与えてもよいと言った者をみな斬り、馬に乗って「遅れる者は斬る」と国じゅうに命じ、東へ駆けた。\n\n東胡は冒頓を侮って備えていなかった。冒頓は東胡を大いに破り、王を殺し、民と家畜を奪った。東胡はここで滅んだ。生き残った者たちは東の烏桓山と鮮卑山へ逃れ、それぞれ山の名を取って烏桓、鮮卑と呼ばれるようになる。四百年ののち、三国の時代に北の騎兵として現れるのは、その子孫である。",
+    "en": "The Donghu were a herding people east of the Xiongnu, on the grasslands from the east of today's Inner Mongolia into Liaoning. The name, \"eastern Hu\", was what the men of the central plain called them. In the Warring States they pressed on the north of Yan, until the Yan general Qin Kai drove them back more than a thousand li and Yan built its long wall.\n\nAt the end of Qin the Donghu were strong, and with the Yuezhi to the west flourished on either side of the Xiongnu — so much so that Touman, chanyu of the Xiongnu, sent his heir Modu to the Yuezhi as a hostage.\n\nWhen Modu killed his father and became chanyu in 209 BC, the king of the Donghu thought little of him. He sent word: \"I want the horse Touman had, the one that runs a thousand li.\" Modu asked his ministers. \"The thousand-li horse is the treasure of the Xiongnu. Do not give it.\" \"Shall I grudge a horse to a neighbouring state?\" said Modu, and gave it.\n\nThe king of the Donghu took it that Modu feared him, and sent again: \"I want one of the chanyu's consorts.\" The ministers were furious: \"The Donghu have no shame. Let us attack.\" \"Shall I grudge a woman to a neighbouring state?\" said Modu, and gave a consort he loved.\n\nThe king grew prouder still and pushed west. Between the Xiongnu and the Donghu lay more than a thousand li of empty waste. \"This abandoned land is no use to the Xiongnu. I should like to have it.\" Some of the ministers said, \"It is waste land. Give it or not, it is all one.\" Modu was enraged. \"Land is the root of the state. How can it be given away?\" He beheaded everyone who had said it might be given, mounted, ordered that any man in the country who came late be beheaded, and rode east.\n\nThe Donghu, despising him, were unprepared. Modu crushed them, killed their king and took their people and herds. That was the end of the Donghu. The survivors fled east to Mount Wuhuan and Mount Xianbei, and took the mountains' names: the Wuhuan and the Xianbei. Four hundred years later, in the Three Kingdoms, it is their descendants who appear as the horsemen of the north."
+   },
+   "year": 209,
+   "people": [
+    "冒頓単于|Modu Chanyu",
+    "頭曼単于|Touman Chanyu"
+   ],
+   "related": [
+    "mingdi",
+    "sk_cavalry",
+    "beibian"
+   ],
+   "src": [
+    "shiji:匈奴列伝|Account of the Xiongnu"
+   ],
+   "keepSrc": true
+  },
+  "yue_warriors": {
+   "kind": "unit",
+   "title": {
+    "ja": "百越の兵",
+    "en": "The fighting men of the Hundred Yue"
+   },
+   "body": {
+    "ja": "長江の南から今のベトナムの北まで、山と川と海辺に、中原の人が「越」と呼ぶ多くの人々が住んでいた。種類が多いので「百越」という。髪を短く切り、体に入れ墨をし、水にもぐり、舟を操る。一人の王はおらず、それぞれに君長がいた。\n\n六国を滅ぼした始皇帝は、南の犀の角、象牙、翡翠、真珠を求めたという。尉の屠睢 (としょ) に五十万の兵を与え、五つの軍に分けて五嶺の山を越えさせた。兵糧を運ぶため、監の史禄に命じて運河を掘らせた。湘水と漓水をつなぎ、長江の水系と南の珠江の水系を結ぶ「霊渠」である。\n\n『淮南子』はこの戦いをこう伝える。秦軍は三年のあいだ甲を解かず、弩の弦をゆるめなかった。西嘔の君の訳吁宋を殺したが、越の人々はみな深い藪に入り、獣とともに住んで、秦の捕虜になろうとしなかった。彼らは勇ましい者を将に立て、夜に秦軍を襲って大いに破り、屠睢を殺した。「屍は伏し、血は流れること数十万。」\n\n越の人々は正面から陣を組んで戦うことをしなかった。森と山に隠れ、夜に襲い、舟で現れては消える。暑さと湿気と病が、北から来た兵を倒した。\n\n秦は罪人や婿養子、商人を兵として送り足し、前214年にようやく桂林・象郡・南海の三つの郡を置いた。五十万人を移して越の人々と混ぜて住まわせたという。\n\n秦が倒れると、南海郡の尉の任囂は死の床で、龍川の県令の趙佗 (ちょうだ) を呼んで言った。「中原は乱れている。南海は山を背に海を前にし、東西数千里。ここなら一つの国が建てられる。」趙佗は北への道の関をすべて閉じ、秦の置いた役人を除いて自分の仲間に替え、桂林と象郡を併せて「南越の武王」を名乗った。漢が建つと、高祖は趙佗を討つ力がなく、[[p:陸賈]]を送って南越王と認めた。趙佗はそののち七十年近く国を保ち、越の人々の髪形と習わしで暮らしたという。",
+    "en": "From south of the Yangzi to the north of today's Vietnam, among mountains, rivers and coasts, lived many peoples the men of the central plain called Yue — so many kinds that they spoke of the Hundred Yue. They cut their hair short, tattooed their bodies, dived and handled boats. They had no one king; each had its chiefs.\n\nHaving destroyed the six states, the First Emperor wanted the rhinoceros horn, ivory, kingfisher feathers and pearls of the south, it is said. He gave the commandant Tu Sui five hundred thousand men in five armies to cross the Five Ranges. To carry their grain he had the overseer Shi Lu dig a canal joining the Xiang and the Li, and so the river system of the Yangzi to that of the Pearl: the Lingqu.\n\nThe Huainanzi tells of that war. For three years the men of Qin did not take off their armour or unstring their crossbows. They killed Yi Xusong, lord of the Western Ou, but the Yue all went into the deep thickets and lived with the beasts, and would not be Qin's captives. They chose their boldest for leaders, attacked the Qin army by night and routed it, and killed Tu Sui. \"The corpses lay and the blood ran, of several hundred thousand.\"\n\nThe Yue did not form a line and fight head-on. They hid in forest and hill, struck at night, appeared and vanished by boat. Heat, damp and sickness brought down the soldiers from the north.\n\nQin sent convicts, men who had married into their wives' families and merchants to fill the ranks, and at last in 214 BC set up three commanderies, Guilin, Xiang and Nanhai. Five hundred thousand people, it is said, were moved there to live among the Yue.\n\nWhen Qin fell, Ren Xiao, the commandant of Nanhai, on his deathbed called Zhao Tuo, magistrate of Longchuan. \"The central plain is in chaos. Nanhai has mountains at its back and the sea before it, and runs thousands of li east and west. A state could be founded here.\" Zhao Tuo shut every pass on the roads north, replaced the officials Qin had appointed with his own men, annexed Guilin and Xiang, and styled himself the Martial King of Southern Yue. When Han was founded its first emperor had not the strength to attack him, and sent [[p:陸賈|Lu Jia]] to recognise him as king. Zhao Tuo kept his state for nearly seventy years more, and lived, it is said, with the hairstyle and customs of the Yue."
+   },
+   "year": 214,
+   "people": [
+    "陸賈|Lu Jia"
+   ],
+   "related": [
+    "sk_foot",
+    "beibian"
+   ],
+   "src": [
+    "legend:淮南子 人間訓|Huainanzi, In the World of Men",
+    "shiji:南越列伝|Account of Southern Yue"
+   ],
+   "keepSrc": true
   }
  },
  "goods": [
@@ -5949,5 +6373,610 @@
    "Xincheng",
    "huaili_name"
   ]
+ ],
+ "arms": [
+  {
+   "art": "sk_crossbow",
+   "adopt": [
+    [
+     209,
+     "qin",
+     "q"
+    ],
+    [
+     209,
+     "chu",
+     "q"
+    ],
+    [
+     209,
+     "liu",
+     "q"
+    ],
+    [
+     209,
+     "zhao",
+     "q"
+    ],
+    [
+     209,
+     "yan",
+     "q"
+    ],
+    [
+     209,
+     "qi",
+     "q"
+    ],
+    [
+     209,
+     "wei",
+     "q"
+    ],
+    [
+     209,
+     "hank",
+     "q"
+    ],
+    [
+     209,
+     "yong",
+     "q"
+    ],
+    [
+     209,
+     "sai",
+     "q"
+    ],
+    [
+     209,
+     "di",
+     "q"
+    ],
+    [
+     209,
+     "henan",
+     "q"
+    ],
+    [
+     209,
+     "yin",
+     "q"
+    ],
+    [
+     209,
+     "changshan",
+     "q"
+    ],
+    [
+     209,
+     "jiujiang",
+     "q"
+    ],
+    [
+     209,
+     "hengshan",
+     "q"
+    ],
+    [
+     209,
+     "linjiang",
+     "q"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "crossbow",
+   "place": "front"
+  },
+  {
+   "art": "sk_chariot",
+   "adopt": [
+    [
+     209,
+     "qin",
+     "q"
+    ],
+    [
+     209,
+     "chu",
+     "q"
+    ],
+    [
+     209,
+     "liu",
+     "q"
+    ],
+    [
+     209,
+     "zhao",
+     "q"
+    ],
+    [
+     209,
+     "yan",
+     "q"
+    ],
+    [
+     209,
+     "qi",
+     "q"
+    ],
+    [
+     209,
+     "wei",
+     "q"
+    ],
+    [
+     209,
+     "hank",
+     "q"
+    ],
+    [
+     209,
+     "yong",
+     "q"
+    ],
+    [
+     209,
+     "sai",
+     "q"
+    ],
+    [
+     209,
+     "di",
+     "q"
+    ],
+    [
+     209,
+     "henan",
+     "q"
+    ],
+    [
+     209,
+     "yin",
+     "q"
+    ],
+    [
+     209,
+     "changshan",
+     "q"
+    ],
+    [
+     209,
+     "jiujiang",
+     "q"
+    ],
+    [
+     209,
+     "hengshan",
+     "q"
+    ],
+    [
+     209,
+     "linjiang",
+     "q"
+    ]
+   ],
+   "per": 400,
+   "crew": 3,
+   "unit": {
+    "ja": "乗",
+    "en": "chariots"
+   },
+   "glyph": "chariot",
+   "place": "wing"
+  },
+  {
+   "art": "sk_cavalry",
+   "adopt": [
+    [
+     209,
+     "qin",
+     "q"
+    ],
+    [
+     209,
+     "chu",
+     "q"
+    ],
+    [
+     209,
+     "zhao",
+     "q"
+    ],
+    [
+     209,
+     "yan",
+     "q"
+    ],
+    [
+     209,
+     "qi",
+     "q"
+    ],
+    [
+     206,
+     "yong",
+     "q"
+    ],
+    [
+     206,
+     "sai",
+     "q"
+    ],
+    [
+     206,
+     "di",
+     "q"
+    ]
+   ],
+   "share": 0.06,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "sk_siege",
+   "adopt": [
+    [
+     209,
+     "qin",
+     "q"
+    ],
+    [
+     209,
+     "chu",
+     "q"
+    ],
+    [
+     209,
+     "liu",
+     "q"
+    ],
+    [
+     209,
+     "zhao",
+     "q"
+    ],
+    [
+     209,
+     "yan",
+     "q"
+    ],
+    [
+     209,
+     "qi",
+     "q"
+    ],
+    [
+     209,
+     "wei",
+     "q"
+    ],
+    [
+     209,
+     "hank",
+     "q"
+    ],
+    [
+     209,
+     "yong",
+     "q"
+    ],
+    [
+     209,
+     "sai",
+     "q"
+    ],
+    [
+     209,
+     "di",
+     "q"
+    ],
+    [
+     209,
+     "henan",
+     "q"
+    ],
+    [
+     209,
+     "yin",
+     "q"
+    ],
+    [
+     209,
+     "changshan",
+     "q"
+    ],
+    [
+     209,
+     "jiujiang",
+     "q"
+    ],
+    [
+     209,
+     "hengshan",
+     "q"
+    ],
+    [
+     209,
+     "linjiang",
+     "q"
+    ]
+   ],
+   "per": 8000,
+   "crew": 50,
+   "unit": {
+    "ja": "基",
+    "en": "engines"
+   },
+   "glyph": "siege",
+   "place": "rear"
+  },
+  {
+   "art": "xingtu",
+   "adopt": [
+    [
+     209,
+     "qin",
+     "q"
+    ]
+   ],
+   "share": 0.35,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "beibian",
+   "adopt": [
+    [
+     209,
+     "qin",
+     "q"
+    ]
+   ],
+   "share": 0.25,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "jiangdong",
+   "adopt": [
+    [
+     209,
+     "chu",
+     "q"
+    ]
+   ],
+   "share": 0.08,
+   "max": 8000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "cangtou",
+   "adopt": [
+    [
+     208,
+     "chu"
+    ]
+   ],
+   "share": 0.1,
+   "max": 20000,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "qingbu",
+   "adopt": [
+    [
+     206,
+     "jiujiang",
+     "q"
+    ]
+   ],
+   "share": 0.3,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "cong",
+   "adopt": [
+    [
+     206,
+     "liu"
+    ]
+   ],
+   "share": 0.05,
+   "max": 7000,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "langzhong",
+   "adopt": [
+    [
+     205,
+     "liu"
+    ]
+   ],
+   "share": 0.04,
+   "max": 5000,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "youbing",
+   "adopt": [
+    [
+     205,
+     "liu",
+     "q"
+    ]
+   ],
+   "share": 0.05,
+   "max": 30000,
+   "glyph": "javelin",
+   "place": "wing"
+  },
+  {
+   "art": "loufan",
+   "adopt": [
+    [
+     203,
+     "liu",
+     "q"
+    ]
+   ],
+   "share": 0.02,
+   "max": 2000,
+   "glyph": "horse_archer",
+   "place": "front"
+  },
+  {
+   "art": "sk_foot",
+   "adopt": [
+    [
+     209,
+     "qin",
+     "q"
+    ],
+    [
+     209,
+     "zhangchu",
+     "q"
+    ],
+    [
+     209,
+     "chu",
+     "q"
+    ],
+    [
+     209,
+     "liu",
+     "q"
+    ],
+    [
+     209,
+     "zhao",
+     "q"
+    ],
+    [
+     209,
+     "yan",
+     "q"
+    ],
+    [
+     209,
+     "qi",
+     "q"
+    ],
+    [
+     209,
+     "wei",
+     "q"
+    ],
+    [
+     209,
+     "hank",
+     "q"
+    ],
+    [
+     209,
+     "yong",
+     "q"
+    ],
+    [
+     209,
+     "sai",
+     "q"
+    ],
+    [
+     209,
+     "di",
+     "q"
+    ],
+    [
+     209,
+     "henan",
+     "q"
+    ],
+    [
+     209,
+     "yin",
+     "q"
+    ],
+    [
+     209,
+     "changshan",
+     "q"
+    ],
+    [
+     209,
+     "jiujiang",
+     "q"
+    ],
+    [
+     209,
+     "hengshan",
+     "q"
+    ],
+    [
+     209,
+     "linjiang",
+     "q"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "shuzu",
+   "adopt": [
+    [
+     209,
+     "zhangchu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "mingdi",
+   "adopt": [
+    [
+     209,
+     "xiongnu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "horse_archer",
+   "place": "centre"
+  },
+  {
+   "art": "donghu_riders",
+   "adopt": [
+    [
+     209,
+     "donghu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "horse_archer",
+   "place": "centre"
+  },
+  {
+   "art": "yue_warriors",
+   "adopt": [
+    [
+     209,
+     "baiyue"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  }
  ]
 }
