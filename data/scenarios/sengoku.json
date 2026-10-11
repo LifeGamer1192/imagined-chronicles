@@ -11867,25 +11867,32 @@
    ]
   },
   "tsurinobuse": {
-   "kind": "story",
+   "kind": "unit",
    "title": {
-    "ja": "釣り野伏せ",
-    "en": "The fishing ambush"
+    "ja": "島津の釣り野伏せ",
+    "en": "The Shimazu lure and ambush"
    },
    "body": {
-    "ja": "九州の島津家が得意とした戦法。兵を三つに分け、二つを左右に伏せておく。中央の囮の部隊が敵とぶつかったのち、負けたふりをして退く。勢いに乗って追ってきた敵を、伏せていた左右の兵と、向き直った中央の兵が三方から包んで討つ。餌で魚を釣り上げるように敵を誘い出すことから「釣り野伏せ」と呼ばれた。\n\n島津家はこの戦法で、耳川で大友の大軍を、沖田畷で龍造寺の大軍を破った。数で劣っても勝てるのは、囮の部隊が崩れずに退く難しさをこなせる、鍛えられた兵がいたからである。\n\n関ヶ原の退き口でも、島津は「捨て奸」と呼ばれる、少数が踏みとどまって死ぬまで戦う殿の戦法で追っ手を食い止めた。",
-    "en": "The trademark tactic of the Shimazu of Kyūshū. The army was split in three, two parts hidden on the flanks. The centre, a decoy, engaged and then fell back as if beaten; when the enemy pursued, the hidden wings and the turning centre closed on it from three sides. Luring the enemy out like a fish on a line gave it its name.\n\nWith it the Shimazu broke the great Ōtomo army at the Mimi river and the great Ryūzōji army at Okitanawate. Winning with fewer men took troops drilled to retreat without breaking — the hardest part.\n\nIn the Shimazu retreat at Sekigahara, small parties stayed behind to fight to the death and hold the pursuers — \"sutegamari\"."
+    "ja": "薩摩の島津家は、少ない兵で多くの敵を破ることで知られた。その手が「釣り野伏せ (つりのぶせ)」である。「釣り」は敵を釣り出すこと、「野伏せ」は野に伏せた兵のことである。\n\nやり方はこうである。軍を三つに分け、二つを左右の物陰に伏せておく。残る一つが敵の正面からぶつかり、わざと負けて逃げる。敵が追って深く入ったところで、伏せていた兵が左右から鉄砲を撃ちかけて斬り込み、逃げていた兵も向き直って三方から包む。\n\n言うのはたやすいが、行うのは難しい。負けたふりをする兵は、本当に崩れてしまえば終わりである。逃げながら隊を保ち、合図ひとつで向き直らなければならない。島津の兵は、地域ごとに若者をまとめて鍛える仕組みと、将と兵の強い結びつきで、これをやってのけた。\n\n1572年の木崎原では、[[p:島津義弘]]が三百の兵で伊東家の三千を破った。義弘の兵も八割以上が死んだという。1578年の耳川では大友の大軍を、1584年の沖田畷では[[p:龍造寺隆信]]を、1586年の戸次川では豊臣方の先手を、同じ手で破っている。沖田畷では、五倍の兵を持つ隆信が沼地の中の細い道に誘い込まれて討たれた。\n\n島津の兵は鉄砲の扱いにも長けていた。種子島に鉄砲が伝わったのは島津の領内であり、島津家は侍にも鉄砲を持たせた。\n\n1600年の関ヶ原で、西軍が崩れたとき、島津義弘の千五百は敵の真ん中に取り残された。義弘は後ろへ退かず、正面の徳川の本陣の脇を突っ切って逃げた。追う敵を止めるため、数人ずつが道に座り込んで鉄砲を撃ち、死ぬまで戦う。これを「捨て奸 (すてがまり)」という。甥の豊久と家老の長寿院盛淳が身代わりとなって死に、薩摩に帰り着いたのは八十人あまりであった。",
+    "en": "The Shimazu of Satsuma were known for beating many with few. Their method was the tsurinobuse: tsuri, to angle for the enemy and draw him out; nobuse, troops lying hidden in the field.\n\nIt worked so. The army was split in three, two parts hidden to left and right. The third met the enemy head-on, let itself be beaten and ran. When the enemy had followed deep, the hidden troops fired into him from both sides and charged, and the runners turned about: he was caught from three sides.\n\nEasy to describe and hard to do. Men feigning defeat are lost if they really break; they have to keep their ranks while running and turn at a signal. The Shimazu managed it through the way their young men were banded and trained district by district, and through the strong tie between captain and men.\n\nAt Kizakibaru in 1572 [[p:島津義弘|Shimazu Yoshihiro]] beat three thousand of the Itō with three hundred men — of whom more than eight in ten are said to have died. The same trick beat the great Ōtomo army on the Mimi river in 1578, [[p:龍造寺隆信|Ryūzōji Takanobu]] at Okitanawate in 1584, and the Toyotomi vanguard on the Hetsugi river in 1586. At Okitanawate Takanobu, with five times the men, was drawn onto a narrow road through marsh and killed.\n\nThe Shimazu were skilled with the gun as well. It was in their lands, on Tanegashima, that the matchlock arrived, and in their army even samurai carried guns.\n\nAt Sekigahara in 1600, when the western army collapsed, Shimazu Yoshihiro's fifteen hundred were left in the midst of the enemy. He did not fall back: he cut straight ahead, past the flank of the Tokugawa headquarters. To hold off pursuit, a few men at a time sat down in the road, fired, and fought until they were dead — the sutegamari. His nephew Toyohisa and his elder Chōjuin Moriatsu died in his place, and some eighty men got home to Satsuma."
    },
+   "year": 1572,
    "people": [
-    "島津義久|Shimazu Yoshihisa",
+    "島津義弘|Shimazu Yoshihiro",
     "島津家久|Shimazu Iehisa",
-    "島津義弘|Shimazu Yoshihiro"
+    "龍造寺隆信|Ryūzōji Takanobu"
    ],
    "related": [
+    "teppo",
     "battle_mimikawa",
     "battle_okitanawate",
-    "shimazu_noki"
-   ]
+    "battle_sekigahara"
+   ],
+   "src": [
+    "legend:上井覚兼日記|the diary of Uwai Kakken",
+    "legend:惟新公御自記|Lord Ishin's own record"
+   ],
+   "keepSrc": true
   },
   "shimazu_noki": {
    "kind": "story",
@@ -12132,6 +12139,358 @@
    "related": [
     "himeji_castle"
    ]
+  },
+  "kachi": {
+   "kind": "unit",
+   "title": {
+    "ja": "足軽と雑兵",
+    "en": "Ashigaru and the common soldiery"
+   },
+   "body": {
+    "ja": "戦国の軍の大半は、名のある侍ではなかった。侍に付き従う若党・中間・小者、村から駆り出された百姓、そして足軽である。これらをまとめて雑兵 (ぞうひょう) という。\n\n足軽は「足の軽い者」の意で、もとは身軽な歩兵を指した。応仁の乱 (1467〜77年) では、京の町で放火と略奪をくり返す雇われ兵として悪名を馳せた。関白の一条兼良は「この度はじめて出で来たる足がるは、超過したる悪党なり」と書き、長く禁じるべきだと将軍に説いている。\n\n戦国の大名は、その足軽を軍の柱に変えた。槍・弓・鉄砲を持たせて組に分け、足軽大将のもとで揃って動かす。武具は大名が貸し与えた (御貸具足)。同じ笠、同じ胴、同じ長さの槍。一人ひとりの腕ではなく、数と揃いで戦う兵である。\n\n軍の中身は、家臣に課した「軍役」の帳面に残っている。上杉家の1575年の帳面では、三十九人の将が出す兵は合わせて五千五百余り。その内訳は槍三千六百余り、手明 (徒歩の兵) 六百五十、鉄砲三百十六、旗持ち三百六十八、馬上五百六十六であった。三人に二人は槍である。\n\n雑兵は何のために戦ったのか。江戸の初めに書かれた『雑兵物語』は、足軽や草履取り、馬の口取りたちの語りの形で、戦場の暮らしを伝えている。腹が減ったら何でも食え、敵地のものは何でも取れ、首は腰に下げるな、という具合である。戦場では、人と物を奪う「乱取り」が広く行われていた。捕らえられた人は売られ、身代金で買い戻された。\n\n豊臣秀吉は1588年に刀狩で百姓から武器を取り上げ、1591年には奉公人が町人や百姓になること、百姓が田を捨てて商いや賃仕事に出ることを禁じた。兵と農を分ける流れは、こうして形になっていく。",
+    "en": "Most of a Sengoku army was not samurai of name. It was their attendants and servants, peasants called out from the villages, and ashigaru. Together these were the zōhyō, the common soldiery.\n\nAshigaru means \"light feet\", and at first meant nimble foot soldiers. In the Ōnin war (1467–77) they made an evil name as hired men who burned and looted in the streets of Kyoto. The regent Ichijō Kaneyoshi wrote that \"the ashigaru who have appeared for the first time in this war are villains beyond all measure\", and urged the shogun to ban them for good.\n\nThe Sengoku lords made those same ashigaru the backbone of their armies: armed with spear, bow or gun, formed in companies under ashigaru captains, and moved as one. The lord lent them their gear — the same hat, the same cuirass, spears of the same length. They fought by numbers and uniformity, not by each man's skill.\n\nWhat an army was made of survives in the rolls of service laid on the vassals. In the Uesugi roll of 1575 thirty-nine commanders owe something over five thousand five hundred men: more than three thousand six hundred spears, six hundred and fifty men on foot with hands free, three hundred and sixteen guns, three hundred and sixty-eight banner-bearers and five hundred and sixty-six horsemen. Two men in three carried a spear.\n\nWhat did the common soldier fight for? The Zōhyō monogatari, written early in the Edo period as the talk of ashigaru, sandal-bearers and grooms, tells of life in the field: eat whatever there is when you are hungry; in enemy country take whatever you can; do not hang heads from your belt. Plunder of goods and people was general. Captives were sold, or bought back for ransom.\n\nIn 1588 Toyotomi Hideyoshi took the peasants' weapons in the sword hunt, and in 1591 forbade servants of the samurai to become townsmen or farmers, and farmers to leave their fields for trade or hire. The parting of soldier and farmer took shape from there."
+   },
+   "year": 1575,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "nagae",
+    "teppo",
+    "yumi",
+    "kiba"
+   ],
+   "src": [
+    "legend:上杉家軍役帳 (天正三年)|the Uesugi muster roll of 1575",
+    "legend:樵談治要|Shōdan chiyō",
+    "legend:雑兵物語|Zōhyō monogatari"
+   ],
+   "keepSrc": true
+  },
+  "yumi": {
+   "kind": "unit",
+   "title": {
+    "ja": "弓組",
+    "en": "The bowmen"
+   },
+   "body": {
+    "ja": "鉄砲が広まる前、遠くの敵を倒すのは弓であった。武士の道は長く「弓馬の道」と呼ばれた。日本の弓は二メートルを超える長弓で、木と竹を貼り合わせ、握りが中央より下にある。馬の上でも、膝をついても引ける形である。\n\n戦国の軍では、弓は侍の持ち物から足軽の持ち物になった。弓を持つ足軽を「弓組」として組にまとめ、弓大将が率いる。矢は一人が二十本あまりを箙や空穂に入れて持ち、足りなければ矢箱から補った。\n\n鉄砲が現れても、弓は捨てられなかった。鉄砲は次の弾を込めるのに時間がかかる。その間、敵を寄せ付けないために矢を射かける。これを「防ぎ矢」という。雨が降れば火縄は消えるが、弓は使える。音も煙も出ない。弓と鉄砲は並べて置かれ、互いの隙を埋めた。\n\n数のうえでは、鉄砲がしだいに弓を追い越していく。北条家が1577年に岩付の衆に課した軍役は、槍六百余り、馬上五百余りに対して、鉄砲五十余り、弓四十余りであった。朝鮮への出兵の頃には、島津家の軍役は鉄砲千五百に弓千五百、のちには鉄砲が弓を大きく上回るようになる。\n\n弓を引くには長い稽古が要る。鉄砲は数十日で撃てるようになる。大名が欲しがったのは、すぐに数をそろえられる兵であった。それでも関ヶ原でも大坂でも弓組は陣に並び、江戸時代になっても「弓」は武士の位を表す言葉であり続けた。",
+    "en": "Before the gun spread, the bow was what killed at a distance. The warrior's calling was long known as \"the way of bow and horse\". The Japanese bow is a longbow of over two metres, wood and bamboo laminated, gripped below the middle so that it can be drawn on horseback or kneeling.\n\nIn Sengoku armies the bow passed from the samurai to the ashigaru. Ashigaru with bows were formed into bow companies under a captain. A man carried twenty-odd arrows in a quiver and drew more from the arrow chests.\n\nThe gun did not drive out the bow. A gun takes time to reload, and in that time arrows were shot to keep the enemy off — \"covering arrows\". Rain puts out a match, but a bow still works; and it makes no noise and no smoke. Bows and guns were placed side by side, each covering the other's gap.\n\nIn numbers the gun gradually overtook the bow. The service the Hōjō laid on the men of Iwatsuki in 1577 was some six hundred spears and five hundred horsemen to fifty-odd guns and forty-odd bows. By the time of the Korean expeditions the Shimazu owed fifteen hundred guns and fifteen hundred bows, and later the guns far outnumbered the bows.\n\nA bowman takes years to train; a man can shoot a gun in a few weeks. What the lords wanted was soldiers in numbers, quickly. All the same, bow companies stood in the line at Sekigahara and at Osaka, and through the Edo period \"the bow\" remained a word for a warrior's rank."
+   },
+   "year": 1577,
+   "related": [
+    "teppo",
+    "kachi",
+    "nagae"
+   ],
+   "src": [
+    "legend:北条家岩付衆着到定 (天正五年)|the Hōjō muster order for Iwatsuki, 1577",
+    "legend:雑兵物語|Zōhyō monogatari"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "kiba": {
+   "kind": "unit",
+   "title": {
+    "ja": "騎馬武者",
+    "en": "The mounted samurai"
+   },
+   "body": {
+    "ja": "馬に乗るのは身分の印であった。戦国の軍で馬上にあるのは、領地を持つ侍とその一族である。大名が家臣に課す軍役は「馬上何騎、槍何本、鉄砲何挺」と数えられ、馬上の数がその家臣の格を示した。\n\n数は多くない。上杉家の1575年の軍役帳では、五千五百余りのうち馬上は五百六十六、一割ほどである。北条家の1577年の岩付衆では千五百八十のうち馬上五百余りと多いが、これは家中でも騎馬の多い衆であった。一人の騎馬武者には、槍持ち・口取り・若党など数人の徒歩の供が付く。\n\n日本の馬は小さかった。木曽馬などの在来の馬は、肩までの高さが百三十センチほどで、今の競走馬より三十センチも低い。甲冑を着た人を乗せて長く駆けることはできない。\n\n戦うときはどうしたか。1563年に来日した宣教師フロイスは、日本とヨーロッパの違いを並べた書きつけにこう記した。「われらにおいては馬で戦う。日本人は戦わねばならないときには馬から下りる。」馬は戦場まで行き、敵を追い、退くための足であり、ぶつかり合うときは下りて槍を取ることが多かった。\n\nもちろん馬上で戦うこともあった。乱れた敵に乗り入れて崩す「乗り崩し」、逃げる敵を追う追撃、物見と伝令である。武器は槍。弓を馬上から射る技は、この頃には戦の主役ではなくなっていた。\n\n騎馬武者だけを集めた大きな騎兵隊があったかどうかは、今も議論がある。軍役は領地ごとに課されたので、馬上の侍は自分の供の者たちと一つの組になって戦うのが普通であった。大名のまわりを固める馬廻だけが、まとまった騎馬の一団であった。",
+    "en": "To ride was a mark of rank. In a Sengoku army the men on horseback were the landed samurai and their kin. The service a lord laid on a vassal was counted as so many horsemen, so many spears, so many guns, and the number of horsemen showed the vassal's standing.\n\nThey were not many. In the Uesugi roll of 1575, of something over five thousand five hundred men, five hundred and sixty-six are mounted — about one in ten. Among the Hōjō men of Iwatsuki in 1577 there were over five hundred in fifteen hundred and eighty, but that was a company unusually rich in horse. Each mounted man had several on foot with him: a spear-bearer, a groom, young retainers.\n\nJapanese horses were small. The native breeds, such as the Kiso, stood about a hundred and thirty centimetres at the shoulder, thirty less than a modern racehorse. They could not gallop far under a man in armour.\n\nHow did they fight? The missionary Fróis, who came to Japan in 1563, noted among the differences between Japan and Europe: \"With us, men fight on horseback. The Japanese dismount when they have to fight.\" The horse was for getting to the field, for pursuit and for getting away; for the clash itself men mostly got down and took up the spear.\n\nThey did fight mounted too: riding into an enemy in disorder to break him, pursuing the beaten, scouting and carrying orders. The weapon was the spear. Shooting a bow from the saddle was no longer the heart of war.\n\nWhether there were ever large bodies of nothing but mounted samurai is still argued. Service was assessed fief by fief, so a horseman normally fought as one group with his own men on foot. Only the lord's horse guards were a body of horse kept together."
+   },
+   "year": 1575,
+   "related": [
+    "takeda_horse",
+    "umamawari",
+    "kachi",
+    "nagae"
+   ],
+   "src": [
+    "legend:上杉家軍役帳 (天正三年)|the Uesugi muster roll of 1575",
+    "legend:フロイス『日欧文化比較』|Fróis, Tratado"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "umamawari": {
+   "kind": "unit",
+   "title": {
+    "ja": "馬廻と旗本",
+    "en": "The horse guards"
+   },
+   "body": {
+    "ja": "馬廻 (うままわり) とは、大将の馬のまわりを固める侍のことである。合戦では本陣を守り、伝令に走り、ここぞというときに大将とともに突き進む。ふだんは城下に住み、主君のそばに仕えた。\n\n領地を持つ重臣は、自分の家臣を率いて戦う。その兵は重臣のものである。これに対して馬廻は、大名が自分で抱える兵であった。馬廻を厚くすることは、大名が重臣に頼らない力を持つことを意味した。\n\n[[p:織田信長]]は若い頃から、家の次男や三男を集めて身近に置いた。そのうち選り抜きの者に赤と黒の母衣 (ほろ) を背負わせたのが、赤母衣衆と黒母衣衆である。母衣は竹の骨に布を張った大きな袋で、馬を走らせると風をはらんでふくらみ、遠くからも見分けがつく。[[p:前田利家]]は赤母衣衆、佐々成政は黒母衣衆の筆頭であった。1560年の桶狭間で、信長が清洲を飛び出したとき従ったのは、主従わずか六騎であったという。熱田で追いついた兵を合わせても二千ほど。その中心が馬廻であった。\n\n信長は1576年に安土に城を築くと、馬廻と弓衆に城下へ移り住むよう命じた。1578年、弓衆の家から火が出たとき、信長は妻子を尾張に残したままの者が百二十人いるのを知り、尾張の家を焼かせて妻子を安土へ移らせた。兵を土地から切り離して城下に集めるやり方は、こうして進められた。\n\n豊臣秀吉の馬廻は「七手組」と呼ばれ、七人の組頭がそれぞれ千人ほどを率いて大坂城を守った。[[p:徳川家康]]の馬廻は「旗本」と呼ばれる。旗の本、つまり本陣を守る者の意である。江戸時代になると、旗本は将軍に直接仕える家臣の名となった。",
+    "en": "The umamawari, \"those about the horse\", were the samurai who kept close round the commander's mount. In battle they guarded the headquarters, carried orders, and at the decisive moment went forward with the commander himself. In peace they lived below the castle and served at their lord's side.\n\nA great vassal with lands of his own led his own men to war, and those men were his. The horse guards were the lord's own. To strengthen them was to have a force that did not depend on the great vassals.\n\nFrom his youth [[p:織田信長|Oda Nobunaga]] gathered younger sons of good families about him. The pick of them wore a red or a black horo on their backs: the Red Horo and the Black Horo. A horo is a great bag of cloth on a bamboo frame that fills with wind at a gallop and can be made out from far off. [[p:前田利家|Maeda Toshiie]] headed the Red, Sassa Narimasa the Black. At Okehazama in 1560, when Nobunaga rode out of Kiyosu, only six horsemen, master and men, are said to have followed; with those who caught up at Atsuta there were some two thousand. The horse guards were their core.\n\nWhen Nobunaga built Azuchi in 1576 he ordered his horse guards and archers to move below the castle. In 1578, when fire broke out in an archer's house, he found that a hundred and twenty of them had left wives and children behind in Owari; he had their Owari houses burned and their families brought to Azuchi. That was how soldiers were cut loose from the land and gathered under the castle.\n\nToyotomi Hideyoshi's horse guards were the \"seven companies\", seven captains each with about a thousand men, who garrisoned Osaka castle. [[p:徳川家康|Tokugawa Ieyasu]]'s were called hatamoto — \"at the foot of the banner\", those who guard the headquarters. In the Edo period hatamoto became the name of the shogun's direct retainers."
+   },
+   "year": 1576,
+   "people": [
+    "織田信長|Oda Nobunaga",
+    "前田利家|Maeda Toshiie",
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "徳川家康|Tokugawa Ieyasu"
+   ],
+   "related": [
+    "kiba",
+    "kachi",
+    "akazonae"
+   ],
+   "src": [
+    "shinchokoki:首巻|opening volume",
+    "shinchokoki:巻十一|volume 11"
+   ],
+   "keepSrc": true
+  },
+  "shiyori": {
+   "kind": "unit",
+   "title": {
+    "ja": "城攻めの手立て (仕寄・付城・金掘り)",
+    "en": "The means of siege"
+   },
+   "body": {
+    "ja": "戦国の日本には、数万とも言われる城があった。山の尾根を削って堀と土塁をめぐらせた山城である。野での合戦よりも、城を囲む戦いのほうがはるかに多かった。\n\n力で攻めるのを「力攻め」という。堀を越え、塀に取り付く。攻め手は「仕寄 (しより)」を進めた。竹を束ねて鉄砲の弾を防ぐ「竹束」を押し立て、その陰で土を掘り、少しずつ城に近づく。高い櫓「井楼」を組んで、上から城内へ撃ちかける。力攻めは損害が大きく、大名はできるだけ避けた。\n\n多く使われたのは「兵糧攻め」である。城のまわりに「付城」をいくつも築いて道を断ち、食べ物が尽きるのを待つ。[[p:羽柴秀吉]]はこれを得意とした。1578年からの播磨の三木城は二年近く囲まれて落ち、「三木の干殺し」と呼ばれた。1581年の因幡の鳥取城では、秀吉はあらかじめ商人に命じて国じゅうの米を高値で買い占めさせ、さらに村々を襲って百姓を城へ追い込んだ。城は四か月で落ちた。『信長公記』は、餓えた人々が柵にすがって助けを求め、鉄砲で撃たれた者に人が群がったと記す。\n\n水も使われた。1582年、秀吉は備中の高松城のまわりに長い堤を築いて足守川の水を引き入れ、城を湖の中に沈めた。1590年の武蔵の忍城でも同じ手が試みられている。\n\n山を掘る者たちもいた。甲斐の武田家は金山で働く「金掘り衆」を抱えていた。1571年の駿河の深沢城では金掘り衆が本丸の近くまで掘り進み、1573年の三河の野田城では井戸の水の筋を掘り抜いて水を断ち、城を開かせた。\n\n1590年、秀吉は二十万を超える兵で小田原城を囲み、城を見下ろす山の上に、石垣と天守を持つ城を八十日ほどで築いた。出来上がるとまわりの木をいっせいに切り払わせたので、城の中からは一夜で現れたように見えたという。小田原は三か月で開いた。",
+    "en": "Sengoku Japan had tens of thousands of castles, it is said: hill castles, the ridges cut into ditches and earth banks. Far more of the fighting was round castles than in open battle.\n\nTo take one by force was a \"storming\": cross the ditches and get onto the palisades. The attackers pushed forward their approaches — bundles of bamboo set up to stop bullets, with men digging forward behind them — and built tall scaffold towers to shoot down into the castle. Storming was costly, and the lords avoided it when they could.\n\nThe common way was to starve a castle out: ring it with forts of one's own to cut every road, and wait. [[p:羽柴秀吉|Hashiba Hideyoshi]] was a master of it. Miki castle in Harima, invested from 1578, fell after nearly two years — \"the starving of Miki\". At Tottori in Inaba in 1581 he had merchants buy up the province's rice beforehand at high prices and then raided the villages to drive the peasants into the castle. It fell in four months. The Chronicle of Nobunaga tells of the starving clinging to the palisade and begging, and of people swarming on those the guns had brought down.\n\nWater was used too. In 1582 Hideyoshi built a long dyke round Takamatsu castle in Bitchū, turned the Ashimori river into it and left the castle standing in a lake. The same was tried at Oshi in Musashi in 1590.\n\nAnd there were men who dug. The Takeda of Kai kept miners from their gold mines. At Fukasawa in Suruga in 1571 they dug close under the main enclosure; at Noda in Mikawa in 1573 they cut through to the veins of the well, took away the water, and the castle opened.\n\nIn 1590 Hideyoshi surrounded Odawara with more than two hundred thousand men and, on a hill looking down into it, built in some eighty days a castle with stone walls and a keep. When it was done he had the trees around it felled all at once, so that from inside Odawara it seemed to have appeared overnight. Odawara opened its gates in three months."
+   },
+   "year": 1581,
+   "people": [
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "武田信玄|Takeda Shingen"
+   ],
+   "related": [
+    "teppo",
+    "kachi",
+    "ozutsu"
+   ],
+   "src": [
+    "shinchokoki:巻十四|volume 14",
+    "koyogunkan"
+   ],
+   "keepSrc": true
+  },
+  "monto": {
+   "kind": "unit",
+   "title": {
+    "ja": "門徒衆",
+    "en": "The league of believers"
+   },
+   "body": {
+    "ja": "15世紀の半ば、本願寺の蓮如は教えをやさしい言葉の手紙に書いて各地へ送り、村ごとに寄り合いを作らせた。百姓も商人も職人も侍も、同じ教えを信じる者として対等に結ばれる。こうして結ばれた人々を門徒という。門徒が力を合わせて立ち上がることを「一向一揆」と呼んだ。\n\n1488年、加賀の門徒は守護の富樫政親を高尾城に攻めて滅ぼした。それから九十年あまり、加賀は門徒と寺が治める国となる。人はこれを「百姓の持ちたる国のよう」と書いた。\n\n門徒の強さは数と結びつきにあった。寺を中心に堀と土塁で囲んだ「寺内町」を築き、商いで富み、鉄砲を買い集めた。大坂の石山本願寺は、川と海に守られた大きな寺内町であった。\n\n1570年の九月、[[p:織田信長]]が三好勢を攻めていたさなか、本願寺の[[p:顕如]]は門徒に立ち上がるよう呼びかけ、夜のうちに鐘を鳴らして織田の陣を襲わせた。ここから十年に及ぶ石山合戦が始まる。同じ年の十一月、伊勢の長島の門徒が立ち、信長の弟の信興を小木江城に攻めて自害させた。\n\n信長は長島を三度攻めた。1571年と1573年は退くところを襲われて大きな損害を出した。1574年、信長は海と川を船で埋めて長島を囲み、兵糧を断った。降ると言って出て来た者も撃たせ、最後に残った二万人を柵で囲んで四方から火を放った。越前では1575年、府中の町が死体で埋まり、信長は「空き所なく」と手紙に書いた。\n\n石山は落ちなかった。毛利の水軍が海から兵糧を運び、雑賀の鉄砲衆が城を守った。1580年、天皇の仲立ちで和が結ばれ、顕如は石山を出た。加賀の門徒も同じ年に[[p:柴田勝家]]に敗れた。門徒衆は大名の軍ではなかったが、信長を最も長く苦しめた相手であった。",
+    "en": "In the middle of the fifteenth century Rennyo of the Honganji put his teaching into letters in plain words, sent them round the country and had the villages form their own gatherings. Farmer, merchant, craftsman and samurai who held the same teaching were bound together as equals. People so bound were monto, the adherents; and when they rose together it was called an ikkō ikki.\n\nIn 1488 the adherents of Kaga attacked their military governor, Togashi Masachika, in Takao castle and destroyed him. For more than ninety years Kaga was a province run by the believers and their temples — \"like a province held by the peasants\", as it was written.\n\nTheir strength was numbers and solidarity. They built temple towns ringed with ditch and bank, grew rich on trade and bought guns. The Ishiyama Honganji at Osaka was a great temple town, guarded by rivers and the sea.\n\nIn the ninth month of 1570, while [[p:織田信長|Oda Nobunaga]] was attacking the Miyoshi, [[p:顕如|Kennyo]] of the Honganji called on the adherents to rise, and had the bell rung in the night and Nobunaga's camp attacked. So began the ten-year Ishiyama war. In the eleventh month of that year the believers of Nagashima in Ise rose, attacked Nobunaga's brother Nobuoki in Kokie castle and drove him to take his own life.\n\nNobunaga attacked Nagashima three times. In 1571 and 1573 he was caught as he withdrew and lost heavily. In 1574 he filled river and sea with boats, ringed Nagashima and cut off its food. Those who came out offering to surrender were shot; the last twenty thousand were fenced in and burned from all sides. In Echizen in 1575 the town of Fuchū was choked with the dead — \"no empty ground left\", Nobunaga wrote in a letter.\n\nIshiyama did not fall. The Mōri navy brought food in by sea and the gunners of Saika held the walls. In 1580 peace was made through the emperor's good offices and Kennyo left Ishiyama; the believers of Kaga were beaten by [[p:柴田勝家|Shibata Katsuie]] the same year. The leagues were no lord's army, and yet no enemy gave Nobunaga trouble for so long."
+   },
+   "year": 1570,
+   "people": [
+    "顕如|Kennyo",
+    "織田信長|Oda Nobunaga",
+    "柴田勝家|Shibata Katsuie"
+   ],
+   "related": [
+    "saika",
+    "suigun",
+    "teppo"
+   ],
+   "src": [
+    "shinchokoki:巻三|volume 3",
+    "shinchokoki:巻七|volume 7",
+    "shinchokoki:巻八|volume 8"
+   ],
+   "keepSrc": true
+  },
+  "suigun": {
+   "kind": "unit",
+   "title": {
+    "ja": "水軍 (海賊衆)",
+    "en": "The sea lords and their fleets"
+   },
+   "body": {
+    "ja": "瀬戸内海は、畿内と九州、さらに朝鮮と明を結ぶ海の道である。島が多く、潮の流れが速く、狭い瀬戸を知らない船は進めない。この海を押さえていたのが「海賊衆」であった。\n\n海賊といっても、ただの盗賊ではない。彼らは海の関所を構え、通る船から「帆別銭」「駄別料」と呼ばれる通行料を取った。払った船には水先案内を付け、ほかの海賊から守った。最も大きかったのが、伊予の能島・来島と備後の因島に本拠を置いた三つの村上氏である。宣教師フロイスは能島の[[p:村上武吉]]を「日本最大の海賊」と書き、その紋の入った旗を掲げていれば襲われない、と記している。\n\n船は三つの型に分けられる。安宅船 (あたけぶね) は櫓を五十挺から百挺以上備え、厚い板の楯で囲んだ大船で、数十人から百人以上の兵を載せる。関船は櫓四十挺ほどの中型の速い船。小早は櫓十数挺の小舟で、物見と伝令、火攻めに使った。\n\n武器は弓と鉄砲、そして「焙烙 (ほうろく)」である。素焼きの丸い器に火薬を詰め、火を付けて敵の船に投げ込む。1576年の第一次木津川口の戦いで、毛利方の水軍はこの焙烙と火矢で織田方の船を焼き払った。\n\n大名はみな海の兵を求めた。毛利は村上氏と小早川の水軍を、織田は志摩の[[p:九鬼嘉隆]]を、北条は伊豆と相模の海賊衆を、里見は安房の水軍を抱えた。1555年の厳島の戦いで[[p:毛利元就]]が陶晴賢を破ったとき、勝ち負けを決めたのは来島の村上氏が毛利に付いたことであったと伝わる。\n\n1588年、豊臣秀吉は刀狩と同じ日に「海賊停止令」を出した。海の上で通行料を取ることを禁じ、海賊衆に大名の家臣になるか、百姓になるかを選ばせた。海の自由な領主たちはこれで姿を消し、水軍は大名の船手組となって朝鮮へ渡ることになる。",
+    "en": "The Inland Sea is the sea road between the home provinces and Kyushu, and on to Korea and Ming China: full of islands, with racing tides and narrow straits no stranger could pass. The men who held it were the kaizoku-shū, the \"pirate bands\".\n\nThey were not mere robbers. They kept barriers on the sea and took tolls from passing ships; a ship that paid got a pilot and protection from other pirates. The greatest were the three Murakami houses, of Noshima and Kurushima in Iyo and Innoshima in Bingo. The missionary Fróis called [[p:村上武吉|Murakami Takeyoshi]] of Noshima \"the greatest pirate in Japan\", and noted that a ship flying a flag with his crest would not be attacked.\n\nThere were three kinds of ship. The atakebune was a great vessel of fifty to over a hundred oars, walled with thick plank shields, carrying dozens to over a hundred fighting men. The sekibune was a fast middle-sized ship of about forty oars. The kobaya was a small boat of a dozen oars or so, for scouting, messages and fire attacks.\n\nThey fought with bow and gun, and with the hōroku: a round unglazed pot packed with powder, lit and thrown into an enemy ship. At the first battle of the Kizu river mouth in 1576 the Mōri navy burned the Oda fleet with these and with fire arrows.\n\nEvery lord wanted men of the sea. The Mōri had the Murakami and the Kobayakawa fleet, the Oda had [[p:九鬼嘉隆|Kuki Yoshitaka]] of Shima, the Hōjō the pirate bands of Izu and Sagami, the Satomi the fleet of Awa. When [[p:毛利元就|Mōri Motonari]] beat Sue Harukata at Itsukushima in 1555, what decided it, tradition says, was the Murakami of Kurushima coming over to him.\n\nIn 1588, on the same day as the sword hunt, Toyotomi Hideyoshi issued his ban on piracy. Tolls at sea were forbidden, and the pirate bands had to choose between becoming a lord's vassals and becoming farmers. The free lords of the sea were gone; the fleets became the lords' ship companies, and went to Korea."
+   },
+   "year": 1576,
+   "people": [
+    "村上武吉|Murakami Takeyoshi",
+    "九鬼嘉隆|Kuki Yoshitaka",
+    "毛利元就|Mōri Motonari",
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "tekkosen",
+    "monto",
+    "teppo"
+   ],
+   "src": [
+    "legend:フロイス『日本史』|Fróis, History of Japan",
+    "shinchokoki:巻九|volume 9"
+   ],
+   "keepSrc": true
+  },
+  "shinobi": {
+   "kind": "unit",
+   "title": {
+    "ja": "忍び (伊賀・甲賀)",
+    "en": "Shinobi: the men of Iga and Kōka"
+   },
+   "body": {
+    "ja": "敵の城に忍び入り、様子を探り、火を付け、夜襲の手引きをする者を「忍び」という。国によって呼び名は違い、「透波 (すっぱ)」「乱波 (らっぱ)」「草」「かまり」とも呼ばれた。\n\n名高いのは近江の甲賀と伊賀の者たちである。どちらも山に囲まれ、大きな大名がおらず、小さな土豪たちが寄り合って国を治めていた。伊賀の土豪たちは掟を定め、他国の兵が入ればみなで防ぐこと、十七歳から五十歳までの者は残らず出ること、他国の者を引き入れた者は罰することを取り決めている。「惣国一揆」と呼ばれる仕組みである。\n\n1487年、将軍の足利義尚が近江の六角高頼を攻めたとき、高頼は甲賀の山へ逃げ込んだ。甲賀の者たちは将軍の陣を夜ごとに襲い、霧や煙にまぎれて火を放ったという。将軍は陣中で病死した。甲賀の名が広く知られたのは、この「鈎 (まがり) の陣」からである。\n\n確かな記録もある。1541年、大和の笠置城に伊賀の者たちが忍び入り、坊舎に火を放って城の一部を奪った。奈良の僧の日記は「伊賀衆忍び入る」と書いている。彼らは雇われて働く、山城の夜襲の専門家であった。\n\n1579年、[[p:織田信長]]の子の信雄は父に無断で伊賀に攻め入り、山の中で伏兵に襲われて大敗した。信長は激怒した。1581年、信長は四万を超える兵を六つの口から入れ、村も寺も焼き払った。伊賀の惣国はここで滅んだ。\n\n翌年、本能寺の変が起こったとき、[[p:徳川家康]]は堺にいた。わずかな供と伊賀の山を越えて三河へ逃げ帰るとき、伊賀と甲賀の者たちが道を守ったという。家康はのちに彼ら二百人を召し抱え、[[p:服部半蔵]]に預けた。江戸城の門の一つは今も「半蔵門」と呼ばれる。黒い装束で手裏剣を投げる「忍者」の姿は、ずっと後の芝居と読み物が作ったものである。",
+    "en": "Those who stole into an enemy castle, spied out how things stood, set fires and guided night attacks were shinobi. The name differed from province to province: suppa, rappa, kusa, kamari.\n\nThe famous ones were the men of Kōka in Ōmi and of Iga. Both were hill countries with no great lord, run by leagues of small landholders. Those of Iga drew up rules: if another province's troops came in, all would resist; every man from seventeen to fifty would turn out; anyone who let outsiders in would be punished. It was called the league of the whole province.\n\nIn 1487, when the shogun Ashikaga Yoshihisa attacked Rokkaku Takayori of Ōmi, Takayori fled into the hills of Kōka. The men of Kōka raided the shogun's camp night after night, it is said, setting fires under cover of mist and smoke; the shogun died of sickness in camp. From this \"camp at Magari\" the name of Kōka became known.\n\nThere is firm record too. In 1541 men of Iga stole into Kasagi castle in Yamato, set fire to the priests' quarters and took part of it; a Nara monk's diary says simply, \"the Iga band stole in.\" They were specialists for hire in night attacks on hill castles.\n\nIn 1579 Nobukatsu, a son of [[p:織田信長|Oda Nobunaga]], invaded Iga without his father's leave, was ambushed in the hills and badly beaten. Nobunaga was furious. In 1581 he sent more than forty thousand men in by six roads and burned villages and temples alike. The league of Iga ended there.\n\nThe next year, when Nobunaga was killed at Honnōji, [[p:徳川家康|Tokugawa Ieyasu]] was at Sakai. As he fled home to Mikawa over the hills of Iga with a handful of followers, men of Iga and Kōka are said to have guarded the road. He later took two hundred of them into service under [[p:服部半蔵|Hattori Hanzō]]; a gate of Edo castle is still called the Hanzō gate. The black-clad \"ninja\" throwing star-shaped blades is the creation of plays and storybooks of a much later time."
+   },
+   "year": 1581,
+   "people": [
+    "織田信長|Oda Nobunaga",
+    "徳川家康|Tokugawa Ieyasu",
+    "服部半蔵|Hattori Hanzō"
+   ],
+   "related": [
+    "shiyori",
+    "kachi"
+   ],
+   "src": [
+    "legend:多聞院日記|Tamon'in nikki",
+    "shinchokoki:巻十四|volume 14",
+    "legend:伊賀惣国一揆掟書|the rules of the Iga league"
+   ],
+   "keepSrc": true
+  },
+  "ozutsu": {
+   "kind": "unit",
+   "title": {
+    "ja": "大筒と石火矢",
+    "en": "Great guns and cannon"
+   },
+   "body": {
+    "ja": "鉄砲を大きくしたものを「大筒 (おおづつ)」、ヨーロッパから来た大砲を「石火矢 (いしびや)」という。戦国の日本で大砲は長く脇役であった。山城は土でできており、道は細く、重い砲を運ぶのは難しい。鉄砲のほうがはるかに役に立った。\n\n最初に大砲を手に入れたのは豊後の[[p:大友宗麟]]である。1576年、宗麟はポルトガル人から大砲を受け取った。砲身の後ろに、火薬と弾を詰めた取り外しのできる筒を差し込んで撃つ仕組みで、ポルトガル人が船に載せていたものである。宗麟はこれを「国崩し」と名付けた。1586年、島津の大軍が臼杵の丹生島城に攻め寄せたとき、この国崩しが火を噴き、島津の兵は驚いて退いたという。\n\n国内でも作られた。近江の国友と和泉の堺の鉄砲鍛冶は、鉄砲と同じように鉄の板を巻いて鍛え、口径の大きな筒を作った。数十匁から一貫目 (約三・七五キログラム) の弾を撃つ。[[p:織田信長]]が[[p:九鬼嘉隆]]に造らせた大船にも大筒が載せられ、1578年の木津川口で毛利の船を撃ち砕いた。\n\n大砲が戦の行方を決めたのは、1614年の大坂冬の陣である。[[p:徳川家康]]は国友と堺に大筒を作らせ、さらにイギリスとオランダの商館から大砲を買い入れた。イギリスから買ったのはカルバリン砲四門とセーカー砲一門である。砲は大坂城の北と東から昼も夜も撃ち込まれた。弾の一つが本丸の御殿に当たり、[[p:淀殿]]の侍女たちが死んだ。城方は和議に応じた。\n\n家康が攻め落とせなかった城を開かせたのは、堀を越えて届く砲の音と弾であった。だがこの戦いののち二百年あまり、日本では大きな戦がなくなり、大砲の技はほとんど進まなかった。",
+    "en": "A matchlock made large was an ōzutsu, a \"great tube\"; the cannon that came from Europe was an ishibiya, a \"stone fire-arrow\". In Sengoku Japan cannon were long a sideshow: hill castles were made of earth, roads were narrow, heavy guns were hard to move, and the matchlock was far more useful.\n\nThe first to get cannon was [[p:大友宗麟|Ōtomo Sōrin]] of Bungo. In 1576 he received guns from the Portuguese — breech-loaders of the kind they carried on their ships, fired with a removable chamber of powder and shot wedged in behind the barrel. He named one \"Destroyer of Provinces\". In 1586, when the great Shimazu army came up to his castle of Nyūjima at Usuki, it opened fire, and the Shimazu men, it is said, fell back in alarm.\n\nThey were made at home too. The gunsmiths of Kunitomo in Ōmi and Sakai in Izumi forged large-bore pieces as they forged matchlocks, from wrapped iron plate, throwing shot from a few ounces to nearly four kilograms. The great ships [[p:九鬼嘉隆|Kuki Yoshitaka]] built for [[p:織田信長|Oda Nobunaga]] carried such guns, and shattered Mōri ships at the Kizu river mouth in 1578.\n\nCannon decided a campaign in the winter siege of Osaka in 1614. [[p:徳川家康|Tokugawa Ieyasu]] had great guns made at Kunitomo and Sakai and bought cannon from the English and Dutch factories — from the English, four culverins and a saker. They fired into the castle from north and east by day and night. One shot hit the residence in the main enclosure and killed ladies-in-waiting of [[p:淀殿|Lady Yodo]]. The defenders agreed to terms.\n\nWhat opened a castle Ieyasu could not storm was the noise and the shot of guns that reached across its moats. But after that war Japan had no great war for more than two hundred years, and the gunner's art hardly advanced."
+   },
+   "year": 1576,
+   "people": [
+    "大友宗麟|Ōtomo Sōrin",
+    "徳川家康|Tokugawa Ieyasu",
+    "九鬼嘉隆|Kuki Yoshitaka",
+    "淀殿|Lady Yodo"
+   ],
+   "related": [
+    "teppo",
+    "tekkosen",
+    "shiyori"
+   ],
+   "src": [
+    "legend:フロイス『日本史』|Fróis, History of Japan",
+    "legend:大友興廃記|Ōtomo kōhaiki",
+    "legend:イギリス商館長日記|the diary of the English factory"
+   ],
+   "keepSrc": true
+  },
+  "sohei": {
+   "kind": "unit",
+   "title": {
+    "ja": "寺の衆徒 (僧兵)",
+    "en": "The armed monks"
+   },
+   "body": {
+    "ja": "中世の大きな寺は、広い荘園を持つ領主であった。領地を守り、年貢を集め、ほかの寺や武士と争うために、寺は武装した者たちを抱えた。頭を布で包み、高下駄を履き、薙刀を持つ姿で知られる。彼らを「衆徒 (しゅと)」「堂衆」「行人」などと呼ぶ。「僧兵」は後の時代の呼び方である。\n\n大和の国は特別であった。奈良の興福寺が国じゅうの土地を押さえ、鎌倉にも室町にも幕府は大和に守護を置けなかった。興福寺のもとで実際に兵を率いたのが、寺に属する在地の武士たちである。筒井家はその筆頭で、興福寺の衆徒の頭 (官符衆徒) であった。[[p:筒井順慶]]は僧の姿をした大名である。\n\n興福寺の僧の胤栄は、十文字の穂先を持つ槍の術を編み出した。「宝蔵院流」と呼ばれ、江戸時代を通じて最も広まった槍の流派となる。\n\n紀伊の根来寺は、数千の「行人」を抱える大きな寺であった。寺の者が種子島から鉄砲を持ち帰り、門前の鍛冶に作らせたと伝わる。根来の鉄砲衆は雑賀衆と並んで名高く、雇われて各地で戦った。宣教師たちは、彼らが長い髪を背に垂らし、毎日鉄砲を撃つ稽古をしていると書いている。\n\n近江の比叡山延暦寺は、京の鬼門を守る寺として朝廷も手を出せない力を持っていた。1570年、浅井・朝倉の軍が比叡山に逃げ込むと、[[p:織田信長]]は寺に「味方をするか、せめてどちらにも付くな」と求めた。寺は答えなかった。翌年の九月、信長は山を囲んで火を放ち、堂も塔も焼き払った。『信長公記』は、僧も稚児も学僧も、逃げ場を失った者は一人残らず首をはねられたと記す。\n\n根来寺は1585年に豊臣秀吉に焼かれ、興福寺は秀吉の弟の秀長が大和に入ると領地を削られた。寺が兵を持つ時代はここで終わった。",
+    "en": "The great temples of medieval Japan were lords of wide estates. To guard their lands, gather their dues and fight other temples and warriors, they kept armed men — known by the cloth-wrapped head, the high clogs and the glaive. They were called shuto, dōshu, gyōnin; \"warrior monk\" is a later word.\n\nYamato was a province apart. The Kōfukuji of Nara held its land, and neither shogunate ever set a military governor over it. The men who actually led troops under the Kōfukuji were the local warriors attached to it, and first among them the Tsutsui, heads of the temple's shuto. [[p:筒井順慶|Tsutsui Junkei]] was a lord in a monk's habit.\n\nIn'ei, a monk of the Kōfukuji, devised a way of fighting with a cross-bladed spear. As the Hōzōin school it became the most widespread school of the spear through the Edo period.\n\nThe Negoroji in Kii was a great temple with several thousand gyōnin. One of its men, tradition says, brought a gun back from Tanegashima and had the smiths at the temple gate copy it. The gunners of Negoro were as famous as those of Saika and fought for hire across the country; the missionaries write of their long hair hanging down their backs and their daily practice at the mark.\n\nThe Enryakuji on Mount Hiei, guardian of the capital's unlucky quarter, had a power the court itself dared not touch. In 1570, when the armies of Azai and Asakura took refuge on the mountain, [[p:織田信長|Oda Nobunaga]] asked the temple to take his side, or at least neither. It gave no answer. In the ninth month of the next year he ringed the mountain and set it alight, halls and pagodas together. The Chronicle of Nobunaga says that priests, boys and scholars, whoever could not get away, were beheaded to the last one.\n\nThe Negoroji was burned by Toyotomi Hideyoshi in 1585, and the Kōfukuji lost its lands when Hideyoshi's brother Hidenaga came into Yamato. The age of temples with soldiers ended there."
+   },
+   "year": 1571,
+   "people": [
+    "筒井順慶|Tsutsui Junkei",
+    "織田信長|Oda Nobunaga",
+    "羽柴秀吉|Hashiba Hideyoshi",
+    "羽柴秀長|Hashiba Hidenaga"
+   ],
+   "related": [
+    "saika",
+    "monto",
+    "teppo"
+   ],
+   "src": [
+    "shinchokoki:巻四|volume 4",
+    "legend:多聞院日記|Tamon'in nikki",
+    "legend:フロイス『日本史』|Fróis, History of Japan"
+   ],
+   "keepSrc": true
+  },
+  "ichiryo": {
+   "kind": "unit",
+   "title": {
+    "ja": "一領具足",
+    "en": "The one-suit men"
+   },
+   "body": {
+    "ja": "土佐は山が九割を占め、平地は少ない。[[p:長宗我部元親]]は、この貧しい国から四国をほぼ手に入れた。その軍を支えたのが「一領具足 (いちりょうぐそく)」である。\n\n一領具足は、ふだんは自分の田を耕す半農の武士である。持っている具足 (よろい) はただ一領、替えはない。馬も乗り替えがない。それでこう呼ばれた。\n\n後の『土佐物語』は、その姿をこう伝える。田に出るときも、槍の柄に具足と兵糧をくくり付けて畦に突き立てておく。「それ」と声がかかれば、鎌も鍬も放り出して、そのまま戦場へ駆け出す。日ごろから武勇だけを心がけ、命を塵ほどにも思わず、礼儀や作法は知らない。\n\n彼らは強かった。自分の田を守るために戦い、戦えば田が増える。元親は1575年に土佐を一つにまとめ、阿波・讃岐・伊予へ兵を進め、1585年には四国の大半を従えた。\n\nだが弱みもあった。田植えと稲刈りの季節には兵を出せず、遠くへ長く出ることもできない。武具は古く、鉄砲は少ない。1585年、豊臣秀吉が十万を超える兵を四国へ送ると、元親の家臣の谷忠澄は言った。「上方の兵は武具も馬も光り輝き、兵糧も十分です。こちらは十人のうち七人は小さな土佐駒に乗り、鞍は曲がり、具足の糸は麻で綴ってあります。国は長い戦で疲れ、とても太刀打ちできません。」元親は降り、土佐一国だけを許された。\n\n1600年の関ヶ原ののち長宗我部家が領地を失うと、一領具足たちは浦戸城の明け渡しを拒んで立てこもった。新しい領主の山内家は彼らを欺いて討ち、二百七十三の首が大坂へ送られた。生き残った者たちは「郷士」として低い身分に置かれた。二百六十年ののち、土佐の郷士の中から幕府を倒す者たちが出ることになる。",
+    "en": "Tosa is nine parts mountain and has little flat land. From that poor province [[p:長宗我部元親|Chōsokabe Motochika]] won nearly all of Shikoku. His army stood on the ichiryō gusoku, the \"one-suit men\".\n\nThey were half farmer, half warrior, working their own fields in ordinary times. They owned one suit of armour and no spare, one horse and no remount: hence the name.\n\nThe later Tale of Tosa describes them. Even going out to the fields a man tied his armour and rations to his spear shaft and stuck it in the bank. At the call he dropped sickle and hoe and ran straight off to war. They thought of nothing but valour, held life as light as dust, and knew nothing of manners.\n\nThey were formidable: they fought for their own fields, and fighting brought them more. Motochika united Tosa in 1575, pushed into Awa, Sanuki and Iyo, and by 1585 held most of Shikoku.\n\nThey had weaknesses too. They could not march at planting or harvest, nor far, nor for long. Their gear was old and their guns few. In 1585, when Toyotomi Hideyoshi sent more than a hundred thousand men into Shikoku, Motochika's retainer Tani Tadazumi told him: \"The soldiers of the capital region shine, arms and horses, and have food in plenty. Seven in ten of ours ride little Tosa ponies with warped saddles, and their armour is laced with hemp. The province is worn out with long war. We cannot match them.\" Motochika submitted, and was left Tosa alone.\n\nWhen the Chōsokabe lost their lands after Sekigahara in 1600, the one-suit men refused to hand over Urado castle and shut themselves in it. The new lords, the Yamauchi, tricked and killed them, and two hundred and seventy-three heads went to Osaka. The survivors were kept down as \"country samurai\". Two hundred and sixty years later, men from among the country samurai of Tosa would help bring down the shogunate."
+   },
+   "year": 1585,
+   "people": [
+    "長宗我部元親|Chōsokabe Motochika",
+    "羽柴秀吉|Hashiba Hideyoshi"
+   ],
+   "related": [
+    "kachi",
+    "nagae"
+   ],
+   "src": [
+    "legend:土佐物語|Tosa monogatari",
+    "legend:南海通記|Nankai tsūki"
+   ],
+   "keepSrc": true
+  },
+  "hokoshu": {
+   "kind": "unit",
+   "title": {
+    "ja": "将軍の奉公衆",
+    "en": "The shogun's own guard"
+   },
+   "body": {
+    "ja": "室町の将軍には、自分に直接仕える武士の一団があった。奉公衆 (ほうこうしゅう) である。五つの番に分かれ、交代で御所を守り、将軍が出かけるときは供をした。合わせて三百人から三百五十人ほど。全国の有力な武士の家から選ばれ、それぞれの国にある領地は守護の手が及ばないものとされた。\n\n将軍は守護大名たちの上に立っていたが、自分の兵は少ない。奉公衆は、その将軍が自分で動かせるただ一つの力であった。1487年に足利義尚が近江の六角を攻めたとき、中心となったのは奉公衆である。\n\n1493年、管領の細川政元が将軍を取り替えると (明応の政変)、奉公衆は二つに割れ、多くが将軍のもとを去った。以後の将軍は、細川や三好や六角など、そのときどきの有力者に担がれなければ京にいることもできなくなった。\n\n1565年の五月、[[p:三好義継]]と松永久通らの一万の兵が、訴えがあると言って将軍[[p:足利義輝]]の御所を囲んだ。御所にいたのは奉公衆ら数十人であった。義輝は剣術を塚原卜伝に学んだ使い手である。足利家に伝わる名刀を何本も畳に突き立て、刃がこぼれるたびに取り替えて斬り結んだ、と後の軍記は語る。奉公衆はことごとく討死し、義輝も果てた。\n\n弟の義昭は[[p:細川藤孝]]ら奉公衆に助けられて奈良を逃れ、[[p:織田信長]]に担がれて1568年に京へ戻った。だが義昭が信長と争って1573年に京を追われると、奉公衆の多くは信長に仕え、あるいは義昭に従って備後の鞆へ落ちた。[[p:明智光秀]]も細川藤孝も、もとはこの将軍のそばにいた者たちである。",
+    "en": "The Muromachi shoguns had a body of warriors serving them directly: the hōkōshū. They were in five watches, guarding the palace by turns and escorting the shogun when he went out — three hundred to three hundred and fifty men in all, chosen from leading warrior houses across the country, their lands in the provinces held to be beyond the reach of the military governors.\n\nThe shogun stood above the governor-lords but had few troops of his own. The hōkōshū were the one force he could move himself. When Ashikaga Yoshihisa attacked the Rokkaku of Ōmi in 1487, they were its core.\n\nIn 1493, when the deputy Hosokawa Masamoto replaced one shogun with another, the hōkōshū split and many left the shogun's service. From then on a shogun could not even stay in Kyoto unless some strong man of the day — Hosokawa, Miyoshi, Rokkaku — carried him.\n\nIn the fifth month of 1565 ten thousand men under [[p:三好義継|Miyoshi Yoshitsugu]] and [[p:まつ|Matsu]]naga Hisamichi, claiming to bring a petition, surrounded the palace of the shogun [[p:足利義輝|Ashikaga Yoshiteru]]. A few dozen men of the guard were inside. Yoshiteru was a swordsman, a pupil of Tsukahara Bokuden. He stuck the famous blades of the Ashikaga house upright in the matting, the later war tales say, and took a fresh one each time an edge was notched. The guard died to a man, and Yoshiteru with them.\n\nHis brother Yoshiaki got out of Nara with the help of [[p:細川藤孝|Hosokawa Fujitaka]] and others of the guard, and came back to Kyoto in 1568 carried by [[p:織田信長|Oda Nobunaga]]. When he fell out with Nobunaga and was driven from the capital in 1573, most of the guard took service with Nobunaga, or followed Yoshiaki to Tomo in Bingo. [[p:明智光秀|Akechi Mitsuhide]] and Hosokawa Fujitaka had both begun at this shogun's side."
+   },
+   "year": 1565,
+   "people": [
+    "足利義輝|Ashikaga Yoshiteru",
+    "足利義昭|Ashikaga Yoshiaki",
+    "細川藤孝|Hosokawa Fujitaka",
+    "明智光秀|Akechi Mitsuhide",
+    "織田信長|Oda Nobunaga"
+   ],
+   "related": [
+    "umamawari",
+    "kiba"
+   ],
+   "src": [
+    "legend:言継卿記|Tokitsugu-kyō ki",
+    "legend:フロイス『日本史』|Fróis, History of Japan",
+    "shinchokoki:巻一|volume 1"
+   ],
+   "keepSrc": true
+  },
+  "ronin": {
+   "kind": "unit",
+   "title": {
+    "ja": "大坂の牢人衆",
+    "en": "The masterless men of Osaka"
+   },
+   "body": {
+    "ja": "主を失った武士を牢人 (ろうにん) という。1600年の関ヶ原ののち、[[p:徳川家康]]は西軍に付いた大名八十八家の領地を取り上げ、五家を大きく削った。その家臣たちは仕える先を失った。数は数十万とも言われる。\n\n新しく召し抱えられる者は少なかった。戦がなければ兵は要らない。大名は、もとの主の敵に仕えた者を雇うのをためらった。牢人たちは京や大坂の町に流れ込み、寺子屋の師匠や用心棒、日雇いをして暮らした。\n\n1614年、徳川と豊臣の間が破れると、大坂城は金と銀を出して牢人を募った。集まった者は十万ほど。豊臣に恩のある大名は一人も来なかったが、名のある牢人が来た。信濃の上田で二度まで徳川を退けた[[p:真田昌幸]]の子の信繁。黒田家を飛び出した[[p:後藤又兵衛]]。土佐を失った[[p:長宗我部盛親]]。豊前小倉の領地を失った毛利勝永。宇喜多家の家老であった明石全登。この五人が「五人衆」と呼ばれる。\n\n牢人たちにとって、これは最後の機会であった。勝てば領地が戻る。負ければ何も残らない。[[p:真田信繁]]は城の南に出丸を築き、押し寄せた徳川方に大きな損害を与えた。\n\nいったん和が結ばれ、堀が埋められると、徳川は牢人を城から出すよう求めた。行く先のない牢人たちは去らなかった。1615年の五月、堀を失った大坂方は城を出て戦うほかなかった。後藤又兵衛は道明寺で、長宗我部盛親は八尾で戦い、最後の日、毛利勝永と真田信繁は天王寺口から家康の本陣めがけて突き進んだ。家康の馬印が倒れ、家康は三里も逃げたという。信繁は力尽きて討たれ、城は燃え落ちた。\n\n戦のあと、徳川は逃げた牢人を厳しく捜した。牢人の問題はそれでも片づかず、1651年には軍学者の由井正雪が牢人を集めて幕府を倒そうとする事件が起こっている。",
+    "en": "A warrior who had lost his lord was a rōnin. After Sekigahara in 1600 [[p:徳川家康|Tokugawa Ieyasu]] took the lands of eighty-eight lords who had sided with the west and cut down five more. Their retainers had no one left to serve — hundreds of thousands of them, by some counts.\n\nFew found new masters. Without war no one needs soldiers, and a lord thought twice before hiring men who had served his old enemy. The rōnin drifted into Kyoto and Osaka and lived as teachers, hired guards and day labourers.\n\nIn 1614, when Tokugawa and Toyotomi broke, Osaka castle laid out its gold and silver for rōnin. About a hundred thousand came. Not one lord who owed the Toyotomi a debt joined them; but famous rōnin did. [[p:真田信繁|Sanada Nobushige]], son of the Masayuki who had twice thrown the Tokugawa back from Ueda in Shinano. [[p:後藤又兵衛|Gotō Matabei]], who had walked out of the Kuroda house. [[p:長宗我部盛親|Chōsokabe Morichika]], who had lost Tosa. Mōri Katsunaga, who had lost Kokura in Buzen. Akashi Takenori, once an elder of the Ukita. These were the \"five\".\n\nFor the rōnin it was the last chance. Win, and their lands came back; lose, and nothing was left. Nobushige built an outwork south of the castle and made the Tokugawa pay heavily for coming at it.\n\nWhen peace was patched up and the moats were filled, the Tokugawa demanded that the rōnin be sent away. Men with nowhere to go did not leave. In the fifth month of 1615, without its moats, Osaka could only come out and fight. Gotō Matabei fought at Dōmyōji and Chōsokabe Morichika at Yao; on the last day Mōri Katsunaga and Sanada Nobushige drove from the Tennōji approach straight at Ieyasu's headquarters. His standard went down and he fled, it is said, three leagues. Nobushige, spent, was killed, and the castle burned.\n\nAfter the war the Tokugawa hunted the fugitives hard. The problem of the rōnin did not go away: in 1651 the military scholar Yui Shōsetsu gathered rōnin in a plot to overthrow the shogunate."
+   },
+   "year": 1614,
+   "people": [
+    "真田信繁|Sanada Nobushige",
+    "後藤又兵衛|Gotō Matabei",
+    "長宗我部盛親|Chōsokabe Morichika",
+    "徳川家康|Tokugawa Ieyasu",
+    "豊臣秀頼|Toyotomi Hideyori"
+   ],
+   "related": [
+    "kachi",
+    "ozutsu",
+    "battle_osaka_summer"
+   ],
+   "src": [
+    "legend:駿府記|Sunpu ki",
+    "legend:大坂御陣覚書|the Osaka campaign memoranda"
+   ],
+   "keepSrc": true
   }
  },
  "goods": [
@@ -12990,5 +13349,384 @@
    "Kumamoto",
    "kumamoto_name"
   ]
+ ],
+ "arms": [
+  {
+   "art": "nagae",
+   "adopt": [
+    [
+     1560,
+     "*"
+    ]
+   ],
+   "share": 0.35,
+   "glyph": "pike",
+   "place": "centre"
+  },
+  {
+   "art": "teppo",
+   "adopt": [
+    [
+     1560,
+     "*"
+    ]
+   ],
+   "share": 0.08,
+   "over": [
+    [
+     1560,
+     0.4
+    ],
+    [
+     1575,
+     1
+    ],
+    [
+     1590,
+     2
+    ],
+    [
+     1600,
+     2.5
+    ],
+    [
+     1615,
+     3
+    ]
+   ],
+   "glyph": "gun",
+   "place": "front"
+  },
+  {
+   "art": "yumi",
+   "adopt": [
+    [
+     1560,
+     "*"
+    ]
+   ],
+   "share": 0.08,
+   "over": [
+    [
+     1560,
+     1
+    ],
+    [
+     1600,
+     0.5
+    ]
+   ],
+   "glyph": "bow",
+   "place": "front"
+  },
+  {
+   "art": "kiba",
+   "adopt": [
+    [
+     1560,
+     "*"
+    ]
+   ],
+   "share": 0.1,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "umamawari",
+   "adopt": [
+    [
+     1560,
+     "*"
+    ]
+   ],
+   "share": 0.03,
+   "max": 3000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "shiyori",
+   "adopt": [
+    [
+     1560,
+     "*"
+    ]
+   ],
+   "share": 0.02,
+   "glyph": "siege",
+   "place": "rear"
+  },
+  {
+   "art": "takeda_horse",
+   "adopt": [
+    [
+     1560,
+     "takeda",
+     "q"
+    ]
+   ],
+   "share": 0.05,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "akazonae",
+   "adopt": [
+    [
+     1560,
+     "takeda",
+     "q"
+    ],
+    [
+     1582,
+     "tokugawa"
+    ]
+   ],
+   "share": 0.04,
+   "max": 3000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "tsurinobuse",
+   "adopt": [
+    [
+     1560,
+     "shimazu",
+     "q"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "sword",
+   "place": "wing"
+  },
+  {
+   "art": "saika",
+   "adopt": [
+    [
+     1560,
+     "saika",
+     "q"
+    ],
+    [
+     1570,
+     "ishiyama"
+    ]
+   ],
+   "share": 0.3,
+   "glyph": "gun",
+   "place": "front"
+  },
+  {
+   "art": "sohei",
+   "adopt": [
+    [
+     1560,
+     "tsutsui",
+     "q"
+    ]
+   ],
+   "share": 0.2,
+   "glyph": "halberd",
+   "place": "centre"
+  },
+  {
+   "art": "hokoshu",
+   "adopt": [
+    [
+     1560,
+     "ashikaga",
+     "q"
+    ]
+   ],
+   "share": 0.3,
+   "max": 2000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "shinobi",
+   "adopt": [
+    [
+     1560,
+     "rokkaku",
+     "q"
+    ],
+    [
+     1560,
+     "hojo",
+     "q"
+    ],
+    [
+     1582,
+     "tokugawa"
+    ]
+   ],
+   "share": 0.01,
+   "max": 300,
+   "glyph": "sword",
+   "place": "rear"
+  },
+  {
+   "art": "suigun",
+   "adopt": [
+    [
+     1560,
+     "mori",
+     "q"
+    ],
+    [
+     1560,
+     "kono",
+     "q"
+    ],
+    [
+     1560,
+     "miyoshi",
+     "q"
+    ],
+    [
+     1560,
+     "otomo",
+     "q"
+    ],
+    [
+     1560,
+     "hojo",
+     "q"
+    ],
+    [
+     1560,
+     "satomi",
+     "q"
+    ],
+    [
+     1560,
+     "matsura",
+     "q"
+    ],
+    [
+     1569,
+     "oda",
+     "q"
+    ]
+   ],
+   "share": 0.1,
+   "glyph": "boat",
+   "place": "rear"
+  },
+  {
+   "art": "tekkosen",
+   "adopt": [
+    [
+     1578,
+     "oda"
+    ]
+   ],
+   "per": 5000,
+   "crew": 100,
+   "max": 600,
+   "unit": {
+    "ja": "艘",
+    "en": "ships"
+   },
+   "glyph": "boat",
+   "place": "rear"
+  },
+  {
+   "art": "ozutsu",
+   "adopt": [
+    [
+     1576,
+     "otomo"
+    ],
+    [
+     1590,
+     "oda",
+     "q"
+    ],
+    [
+     1600,
+     "tokugawa",
+     "q"
+    ]
+   ],
+   "per": 4000,
+   "crew": 10,
+   "unit": {
+    "ja": "門",
+    "en": "guns"
+   },
+   "glyph": "cannon",
+   "place": "rear"
+  },
+  {
+   "art": "kachi",
+   "adopt": [
+    [
+     1560,
+     "*"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "monto",
+   "adopt": [
+    [
+     1560,
+     "ishiyama"
+    ],
+    [
+     1560,
+     "kaga"
+    ],
+    [
+     1560,
+     "nagashima"
+    ]
+   ],
+   "rest": true,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "shinobi",
+   "adopt": [
+    [
+     1560,
+     "iga"
+    ]
+   ],
+   "rest": true,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "ichiryo",
+   "adopt": [
+    [
+     1560,
+     "chosokabe"
+    ]
+   ],
+   "rest": true,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "ronin",
+   "adopt": [
+    [
+     1614,
+     "oda"
+    ]
+   ],
+   "rest": true,
+   "glyph": "spear",
+   "place": "centre"
+  }
  ]
 }
