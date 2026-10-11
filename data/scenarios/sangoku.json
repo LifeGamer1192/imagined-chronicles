@@ -8617,6 +8617,572 @@
     "mingdi_palaces",
     "cai_paper"
    ]
+  },
+  "sg_foot": {
+   "kind": "unit",
+   "title": {
+    "ja": "歩兵と部曲",
+    "en": "The foot, and the generals' own men"
+   },
+   "body": {
+    "ja": "後漢の末、朝廷の軍はほとんど姿を消した。国が民を兵に取る仕組みは光武帝の時代に縮められており、黄巾の乱が起こると、各地の長官や豪族が自分で兵を集めるほかなかった。こうして集めた兵は、集めた者のものとなった。これを「部曲 (ぶきょく)」という。\n\n部曲はもともと軍の編制の名である。将軍の下に「部」、その下に「曲」があった。乱世では、これが将の私兵を指す言葉に変わる。李典は一族と部曲三千余家、一万三千人余りを連れて[[p:曹操]]に従い、のちに鄴へ移した。[[p:許褚]]は若い者と一族数千家を集めて砦を築き、賊を防いだのち、そろって曹操に付いた。[[p:孫策]]は父の[[p:孫堅]]の部曲千余人を[[p:袁術]]から返してもらうところから始めている。\n\n兵は将に付き、将が死ねばその子や弟が継いだ。呉ではこれが決まりとなり、将は兵を子に伝え、兵を養うための土地と民を与えられた (世兵制・奉邑)。魏では兵の家を「士家」として民と分け、父が死ねば子が兵となり、兵の娘は兵に嫁いだ。逃げた兵の妻子は罰せられた。\n\n装備は環首刀 (柄の先に輪の付いた、片刃のまっすぐな鉄の刀) と盾、長い矛、戟、そして弩である。前漢までの青銅の剣は姿を消し、鉄を鍛えた刀が歩兵の主な武器になっていた。甲 (よろい) は鉄の小札を綴じたものがあったが高価で、曹操は官渡のころを振り返って「[[p:袁紹]]には甲が一万領あったが、わたしには二十領しかなかった」と書いている。\n\n曹操はまた、兵を食わせる仕組みを作った。196年、許のまわりで流民に田と牛を与えて耕させ、取れた穀物の半分余りを納めさせた (屯田)。その年のうちに穀物百万石を得たという。戦う兵と、それを養う農民をともに確保したことが、曹操が群雄を抜け出した理由の一つであった。",
+    "en": "By the end of the Later Han the armies of the court had all but vanished. The system of calling up the people had been cut back under the founder, Emperor Guangwu, and when the Yellow Turbans rose, governors and great families had to raise soldiers for themselves. The men they raised were theirs. These were the buqu.\n\nBu and qu were at first the names of units, the divisions and companies under a general. In the troubles the word came to mean a commander's own men. Li Dian brought more than three thousand families of his kin and buqu, thirteen thousand people, over to [[p:曹操|Cao Cao]] and later moved them to Ye. [[p:許褚|Xu Chu]] gathered some thousands of families of young men and kinsmen, built a stockade against bandits, and went over to Cao Cao with all of them. [[p:孫策|Sun Ce]] began by getting back from [[p:袁術|Yuan Shu]] the thousand-odd buqu of his father [[p:孫堅|Sun Jian]].\n\nSoldiers belonged to a commander, and when he died his son or brother took them over. In Wu this became the rule: a general handed his men to his son, and was given land and people to keep them. In Wei the soldiers' households were set apart from the common people: the son of a dead soldier became a soldier, a soldier's daughter married a soldier, and the wife and children of a deserter were punished.\n\nThey carried the ring-pommel sabre — a straight, single-edged iron blade with a ring at the hilt — and shield, the long spear, the halberd and the crossbow. The bronze sword of earlier ages was gone; the forged iron sabre was the foot soldier's weapon now. Armour of laced iron plates existed but was dear: looking back on Guandu, Cao Cao wrote that \"[[p:袁紹|Yuan Shao]] had ten thousand suits of armour and I had twenty\".\n\nCao Cao also built the means to feed his soldiers. In 196, around Xu, he gave land and oxen to homeless people and took more than half of what they grew; a million measures of grain came in that year, it is said. Having secured both the men who fought and the farmers who fed them was one reason he pulled ahead of his rivals."
+   },
+   "year": 196,
+   "people": [
+    "曹操|Cao Cao",
+    "孫策|Sun Ce",
+    "許褚|Xu Chu"
+   ],
+   "related": [
+    "tuntian",
+    "qingzhou",
+    "sg_crossbow",
+    "sg_cavalry"
+   ],
+   "src": [
+    "sanguozhi:魏書 李典伝|Wei, Li Dian",
+    "sanguozhi:魏書 許褚伝|Wei, Xu Chu",
+    "sanguozhi:呉書 孫策伝|Wu, Sun Ce",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu"
+   ],
+   "keepSrc": true
+  },
+  "sg_crossbow": {
+   "kind": "unit",
+   "title": {
+    "ja": "弩兵",
+    "en": "The crossbowmen"
+   },
+   "body": {
+    "ja": "漢の軍の強みは弩であった。前漢の晁錯は匈奴との戦いを論じて、「勁い弩と長い戟で遠くまで射かけ、堅い甲と鋭い刃で長短を組み合わせ、弩を次々に放って隊を組んで進めば、匈奴の兵は当たることができない」と述べている。馬と弓では遊牧の民にかなわなくても、弩を並べれば勝てる、というのである。\n\n弩の強さは、弦を引くのに要る力で表し、単位は「石」(約三十キログラム) である。辺境の砦の跡から出た木簡には、三石から十石までの弩が記されている。腕で引く「擘張」、足で踏んで引く「蹶張」、腰に綱をかけて引く「腰引」があり、強いものは巻き上げ機を使った。青銅の引き金には目盛りの付いた照準 (望山) があり、狙う距離に合わせて角度を決めることができた。\n\n三国の戦いでも、弩は勝ち負けを決めている。191年の界橋では、[[p:袁紹]]の将の麴義が強弩千張を並べ、[[p:公孫瓚]]の騎兵を一斉に射倒した。231年、蜀を追った魏の名将の[[p:張郃]]は、木門の谷で高みに伏せた蜀の弩兵に右膝を射られて死んだ。蜀は弩を重んじ、[[p:諸葛亮]]は一度に十本の矢を放つ連弩「元戎」を作ったと伝わる。\n\n弩兵は陣の前に並び、敵が近づくまで射かけ、そのあと後ろへ下がって矛と戟の兵に前を譲る。巻き上げるのに時間がかかるので、射る者、矢をつがえる者、弦を引く者を列に分けて順に前へ出る「輪射」も行われた。城を守るときは、城壁の上の櫓に大きな弩を据えた。\n\n弩は熟練がいらず、短い訓練で農民を兵にできた。だが作るには手間がかかる。引き金の部品は青銅を精密に鋳たもので、国の工房が年ごとに銘を入れて作った。弩を数多くそろえられるかどうかは、その勢力がどれだけの職人と銅を抱えているかを示していた。",
+    "en": "The strength of Han armies was the crossbow. Discussing war with the Xiongnu, Chao Cuo of the Former Han wrote that \"with strong crossbows and long halberds shooting far, hard armour and sharp blades, long weapons and short together, crossbows loosed in turn and the ranks advancing in order, the Xiongnu cannot stand\". The herders were the better men with horse and bow; a line of crossbows beat them.\n\nA crossbow was rated by the weight needed to span it, in shi, about thirty kilograms each. The wooden slips from the frontier forts list crossbows of three to ten shi. Some were spanned by the arms, some by standing on the bow, some by a cord from the waist, and the strongest with a winch. The bronze trigger had a graduated sight, so that the angle could be set for the range.\n\nCrossbows decided battles of the Three Kingdoms too. At Jieqiao in 191 Qu Yi, [[p:袁紹|Yuan Shao]]'s general, set out a thousand strong crossbows and shot down [[p:公孫瓚|Gongsun Zan]]'s cavalry in one volley. In 231 the great Wei general [[p:張郃|Zhang He]], pursuing the army of Shu, was shot in the right knee by Shu crossbowmen hidden on the heights of the Mumen valley, and died. Shu set great store by the weapon; [[p:諸葛亮|Zhuge Liang]] is credited with the Yuanrong, a repeater loosing ten bolts at once.\n\nCrossbowmen stood in front, shot until the enemy closed, and then fell back to let the spears and halberds through. Because spanning took time, they sometimes worked in ranks — one shooting, one loading, one spanning — each stepping forward in turn. In defence, great crossbows were mounted in the towers on a wall.\n\nA crossbow needed no long practice: a farmer could be made a soldier quickly. But it was hard to make. The trigger was precisely cast bronze, produced in state workshops and marked with the year. How many crossbows a power could field showed how many craftsmen and how much copper it commanded."
+   },
+   "year": 191,
+   "people": [
+    "張郃|Zhang He",
+    "諸葛亮|Zhuge Liang"
+   ],
+   "related": [
+    "xiandeng",
+    "lianzhu",
+    "sg_foot"
+   ],
+   "src": [
+    "hanshu:晁錯伝|Chao Cuo",
+    "sanguozhi:魏書 袁紹伝 注 英雄記|Wei, Yuan Shao (note: Yingxiong ji)",
+    "sanguozhi:魏書 張郃伝|Wei, Zhang He"
+   ],
+   "keepSrc": true
+  },
+  "sg_cavalry": {
+   "kind": "unit",
+   "title": {
+    "ja": "騎兵 (突騎)",
+    "en": "The cavalry"
+   },
+   "body": {
+    "ja": "後漢の騎兵は北の辺境で育った。幽州・并州・涼州の三つの州は遊牧の民と境を接し、馬を産し、民は馬に乗り慣れていた。光武帝が天下を取ったとき、その主力は幽州の漁陽・上谷の「突騎」であった。突騎とは、敵の陣に突き入る騎兵のことである。\n\n三国の群雄もまた、北の騎兵を求めた。[[p:公孫瓚]]は幽州の騎兵を率い、[[p:呂布]]と[[p:張遼]]は并州の出、[[p:董卓]]と[[p:馬超]]は涼州の出である。[[p:曹操]]は207年に烏桓を破ると、その騎兵を自軍に入れた。中原と江南の勢力は馬が少なく、[[p:孫権]]は遼東の公孫淵や魏から馬を買おうとして、たびたび苦労している。\n\nこの時代、鐙 (あぶみ) はまだ広まっていなかった。馬に乗るための片側だけの鐙が現れるのは三国の終わりから西晋にかけてであり、両足を支える鐙が戦いに使われるのはさらに後である。騎兵は鞍の前後を高くして体を支え、矛や戟で突き、弓を射た。馬にも甲を着せる「馬鎧」はあったが、きわめて少ない。曹操は「[[p:袁紹]]には馬鎧が三百具あったが、わたしには十具もなかった」と書いている。\n\n数は多くない。官渡で曹操が烏巣を襲ったとき率いたのは歩騎五千、長坂で[[p:劉備]]を追ったのは選び抜いた騎兵五千であった。その五千が一日一夜で三百里を走り、十万余りの民を連れた劉備に追いついたのである。215年の合肥では、張遼が夜のうちに八百人を選んで牛を食べさせ、夜明けに孫権の本陣へ突き入った。呉の十万の軍は気を奪われ、のちに江東では「遼来来」と言えば泣く子も黙ったという。\n\n騎兵の役目は、敵の翼を破ること、兵糧の道を断つこと、逃げる敵を追うことであった。歩兵と弩の陣を正面から破るのは難しく、潼関で曹操は馬超の騎兵に対して車を並べて柵とし、弩で防ぎながら進んでいる。",
+    "en": "The cavalry of the Later Han was bred on the northern frontier. The three provinces of You, Bing and Liang bordered the herding peoples, raised horses, and had people at home in the saddle. When Emperor Guangwu won the empire his best troops were the tuji, the \"charging horse\", of Yuyang and Shanggu in You province — cavalry that rode into the enemy's line.\n\nThe warlords of the Three Kingdoms wanted northern horsemen too. [[p:公孫瓚|Gongsun Zan]] led the cavalry of You; [[p:呂布|Lü Bu]] and [[p:張遼|Zhang Liao]] came from Bing; [[p:董卓|Dong Zhuo]] and [[p:馬超|Ma Chao]] from Liang. When [[p:曹操|Cao Cao]] beat the Wuhuan in 207 he took their riders into his army. The powers of the plain and of the south were short of horses: [[p:孫権|Sun Quan]] tried again and again, with much trouble, to buy them from Gongsun Yuan in Liaodong and from Wei.\n\nThe stirrup was not yet in general use. A single stirrup for mounting appears from the end of the Three Kingdoms into the Western Jin, and stirrups for both feet in battle only later. Riders braced themselves in saddles with high bows front and back, thrust with spear and halberd, and shot. Horse armour existed but was very rare: \"[[p:袁紹|Yuan Shao]] had three hundred sets of horse armour,\" wrote Cao Cao, \"and I had not ten.\"\n\nNumbers were small. Cao Cao led five thousand foot and horse on the raid on Wuchao, and five thousand picked horse after [[p:劉備|Liu Bei]] at Changban — those five thousand rode three hundred li in a day and a night and caught Liu Bei with more than a hundred thousand people in his train. At Hefei in 215 Zhang Liao chose eight hundred men by night, fed them beef, and at dawn rode into Sun Quan's own lines. The hundred thousand of Wu lost heart, and afterwards, it is said, a crying child in the south could be hushed with \"Liao is coming\".\n\nCavalry was for breaking a wing, cutting a supply road and riding down the beaten. Breaking foot and crossbows head-on was hard: at Tong Pass Cao Cao moved against Ma Chao's horse behind a moving wall of wagons, with his crossbows covering it."
+   },
+   "year": 207,
+   "people": [
+    "曹操|Cao Cao",
+    "張遼|Zhang Liao",
+    "馬超|Ma Chao",
+    "公孫瓚|Gongsun Zan"
+   ],
+   "related": [
+    "xiliang",
+    "baima",
+    "hubaoqi",
+    "wuhuan_riders",
+    "liang_horses"
+   ],
+   "src": [
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu",
+    "sanguozhi:魏書 張遼伝|Wei, Zhang Liao",
+    "sanguozhi:蜀書 先主伝|Shu, the First Sovereign",
+    "legend:太平御覧 軍策令|Taiping yulan, Cao Cao's Orders"
+   ],
+   "keepSrc": true
+  },
+  "sg_siege": {
+   "kind": "unit",
+   "title": {
+    "ja": "城攻めの具 (雲梯・衝車・井闌・発石車)",
+    "en": "The engines of siege"
+   },
+   "body": {
+    "ja": "三国の戦いの多くは城をめぐる戦いであった。城は土を突き固めた壁で囲まれ、外に堀を巡らす。攻める側は、壁を越えるか、崩すか、下をくぐるか、兵糧が尽きるのを待つかである。\n\n道具はそろっていた。雲梯は車に載せた折りたたみの梯子で、壁に掛けて兵を登らせる。衝車は屋根で覆った車に大きな丸太を吊るし、門や壁を突く。井闌は井桁に組んだ高い櫓で、上から城内へ弩を射る。土山は土を盛って壁より高くしたもの、地突 (地道) は壁の下へ掘り進む穴である。発石車は、てこの一方に石を載せ、もう一方の綱を大勢で引いて投げ飛ばす。\n\n200年の官渡では、[[p:袁紹]]が土山と高い櫓を築いて[[p:曹操]]の陣へ矢を射かけた。曹操の兵は盾をかぶって歩かねばならなかった。曹操は発石車を作らせて櫓を打ち砕き、袁紹の兵はその音から「霹靂車」と呼んで恐れた。袁紹が地道を掘ると、曹操は陣の内側に長い堀を掘ってこれを防いだ。\n\n最もよく知られた守りは、228年の陳倉である。[[p:諸葛亮]]は数万で陳倉を囲んだ。守るのは[[p:郝昭]]と千余人。諸葛亮は雲梯と衝車で攻めた。郝昭は火矢で雲梯を焼き、石臼を縄で吊るして落とし衝車を砕いた。諸葛亮は百尺の井闌を建てて城内へ射かけ、土で堀を埋めて壁を登ろうとした。郝昭は内側にもう一重の壁を築いた。諸葛亮は地突を掘った。郝昭は城内から横に穴を掘ってこれを断った。二十日あまり昼夜攻め続け、諸葛亮は兵糧が尽きて退いた。\n\n水も武器になった。204年、曹操は鄴を囲んで周りに四十里の堀を掘り、はじめは浅く見せておいて一夜のうちに深さ二丈に掘り下げ、漳水を引き入れた。城内では半数以上が飢えて死んだ。219年の樊城では、長雨で漢水があふれ、[[p:于禁]]の七軍が水に沈んで[[p:関羽]]に降った。",
+    "en": "Most of the fighting of the Three Kingdoms was for walled towns. A town had a wall of rammed earth and a moat outside. The attacker had to go over, break through, go under, or wait for the food to run out.\n\nThe tools were to hand. The cloud ladder was a folding ladder on a wagon, laid against the wall for men to climb. The ram was a great log slung in a roofed wagon to batter gate or wall. The well-frame tower was a tall scaffold from which crossbows shot down into the town. A mound of earth could be raised above the wall; a mine could be dug under it. The stone-thrower was a lever with a stone at one end and ropes at the other, pulled by many men at once.\n\nAt Guandu in 200 [[p:袁紹|Yuan Shao]] raised mounds and tall towers and shot down into [[p:曹操|Cao Cao]]'s camp, where men had to walk under their shields. Cao Cao had stone-throwers built that smashed the towers; Yuan Shao's men, from the noise, called them \"thunder wagons\" and feared them. When Yuan Shao dug mines, Cao Cao dug a long trench inside his lines to stop them.\n\nThe best-known defence is Chencang in 228. [[p:諸葛亮|Zhuge Liang]] surrounded it with tens of thousands; [[p:郝昭|Hao Zhao]] held it with a thousand-odd. Zhuge Liang attacked with cloud ladders and rams: Hao Zhao burned the ladders with fire arrows and smashed the rams with millstones swung on ropes. Zhuge Liang built well-frame towers a hundred feet high to shoot into the town and filled the moat to climb the wall: Hao Zhao built a second wall inside. Zhuge Liang dug mines: Hao Zhao dug across them from within. After twenty days and nights of it Zhuge Liang, his food gone, withdrew.\n\nWater was a weapon too. In 204 Cao Cao ringed Ye with a ditch forty li round — shallow at first, to look harmless, then dug two zhang deep in a single night — and turned the Zhang river into it; more than half the people inside starved. At Fancheng in 219 the long rains brought the Han river over its banks, [[p:于禁|Yu Jin]]'s seven armies were drowned out, and he surrendered to [[p:関羽|Guan Yu]]."
+   },
+   "year": 200,
+   "people": [
+    "曹操|Cao Cao",
+    "袁紹|Yuan Shao",
+    "諸葛亮|Zhuge Liang",
+    "郝昭|Hao Zhao",
+    "于禁|Yu Jin",
+    "関羽|Guan Yu"
+   ],
+   "related": [
+    "pilicche",
+    "sg_crossbow",
+    "battle_guandu",
+    "battle_fancheng"
+   ],
+   "src": [
+    "sanguozhi:魏書 袁紹伝|Wei, Yuan Shao",
+    "sanguozhi:魏書 明帝紀 注 魏略|Wei, Annals of Emperor Ming (note: Weilüe)",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu"
+   ],
+   "keepSrc": true
+  },
+  "beijun": {
+   "kind": "unit",
+   "title": {
+    "ja": "北軍五校",
+    "en": "The five regiments of the Northern Army"
+   },
+   "body": {
+    "ja": "後漢の都の洛陽には、皇帝のもとに常に置かれた軍があった。北軍である。五人の校尉がそれぞれ一つの営を率いたので、五校とも五営ともいう。屯騎 (騎兵)、越騎 (越の人から選んだ、あるいは技の優れた騎兵)、歩兵、長水 (烏桓や胡の騎兵)、射声 (声を聞いただけで暗闇でも的を射るという弓の名手) の五つである。\n\n一つの営の兵は七百人ほどで、五つ合わせても四千人に届かない。だが国じゅうでただ一つの、訓練を積んだ常備の兵であった。校尉には皇帝の一族や名門の子が就き、光武帝が郡の兵を廃してからは、大きな戦のたびにこの五校が核となり、まわりに臨時に集めた兵が付いた。\n\n184年、黄巾が立つと、朝廷は[[p:盧植]]に北軍五校の兵を率いさせて冀州の[[p:張角]]に向かわせ、[[p:皇甫嵩]]と[[p:朱儁]]には五校と三河の騎士、新たに募った兵あわせて四万余りを率いさせて潁川に向かわせた。黄巾を破ったのは、この小さな常備軍と、急いで集めた兵であった。\n\n188年、[[p:霊帝]]は洛陽の西園に新しく八人の校尉を置いた。上軍校尉は宦官の蹇碩、中軍校尉は[[p:袁紹]]、典軍校尉は[[p:曹操]]である。皇帝自らが「無上将軍」を名乗り、大将軍の[[p:何進]]を抑えようとした。だが翌年に霊帝が死ぬと、何進は宦官に殺され、袁紹は宦官を皆殺しにし、涼州から来た[[p:董卓]]が都を押さえた。都の兵は董卓のものとなり、五校は名ばかりとなった。\n\nその後も「屯騎校尉」「越騎校尉」などの名は残ったが、功のあった者に与える肩書きであり、率いる兵はいなかった。漢の軍が消え、将の私兵の時代が始まったことを、五校の行く末はよく示している。",
+    "en": "In Luoyang, the capital of the Later Han, the emperor kept one standing force: the Northern Army. Five colonels each commanded a camp, so it was called the five regiments or five camps: the Garrison Cavalry, the Elite (or \"Yue\") Cavalry, the Infantry, the Chang River regiment of Wuhuan and other northern horsemen, and the Archers Who Shoot by Sound — bowmen said to hit a mark in the dark by ear.\n\nA camp held about seven hundred men, the five together under four thousand. But they were the one body of trained regulars in the empire. The colonels were kinsmen of the emperor or sons of great houses, and since Emperor Guangwu had done away with the commandery troops, every great campaign was built round these five regiments with hastily raised levies about them.\n\nWhen the Yellow Turbans rose in 184 the court sent [[p:盧植|Lu Zhi]] with the men of the five regiments against [[p:張角|Zhang Jue]] in Ji province, and [[p:皇甫嵩|Huangfu Song]] and [[p:朱儁|Zhu Jun]] with the regiments, the horsemen of the three He commanderies and new recruits, over forty thousand in all, to Yingchuan. It was this small standing army and those hurried levies that broke the rising.\n\nIn 188 [[p:霊帝|Emperor Ling]] set up eight new colonels at the Western Garden in Luoyang: the eunuch Jian Shuo of the Upper Army, [[p:袁紹|Yuan Shao]] of the Centre, [[p:曹操|Cao Cao]] of the Controlling Army. The emperor styled himself \"General Supreme\" and meant to curb the Grand General [[p:何進|He Jin]]. He died the next year; He Jin was killed by the eunuchs, Yuan Shao slaughtered the eunuchs, and [[p:董卓|Dong Zhuo]], come from Liang province, seized the capital. Its soldiers became his, and the five regiments were a name.\n\nThe titles lived on — Colonel of the Garrison Cavalry, of the Elite Cavalry — as honours for men of merit, with no troops under them. The fate of the five regiments shows how the army of Han vanished and the age of the generals' own men began."
+   },
+   "year": 184,
+   "people": [
+    "盧植|Lu Zhi",
+    "皇甫嵩|Huangfu Song",
+    "朱儁|Zhu Jun",
+    "何進|He Jin",
+    "袁紹|Yuan Shao",
+    "曹操|Cao Cao",
+    "董卓|Dong Zhuo"
+   ],
+   "related": [
+    "sg_foot",
+    "huangjin_host",
+    "xiliang"
+   ],
+   "src": [
+    "houhanshu:百官志|Treatise on Officials",
+    "houhanshu:皇甫嵩朱儁列伝|Huangfu Song and Zhu Jun",
+    "houhanshu:何進伝|He Jin"
+   ],
+   "keepSrc": true
+  },
+  "xiliang": {
+   "kind": "unit",
+   "title": {
+    "ja": "涼州の騎兵",
+    "en": "The horsemen of Liang province"
+   },
+   "body": {
+    "ja": "涼州は今の甘粛、黄河の西へ細長く延びる土地である。漢の人と羌 (きょう) の人が入り交じって住み、馬を産した。後漢の百年あまり、羌はたびたび大きな反乱を起こし、朝廷はその鎮圧に国の富を傾けた。涼州の人は男も女も戦に慣れ、「関西は将を出し、関東は相を出す」と言われた。\n\n[[p:董卓]]はこの涼州の隴西の出である。若い頃は羌の地を巡って長たちと交わり、馬上で左右どちらにも弓を引けたという。その軍は漢の兵だけではなかった。董卓自身の言葉によれば「湟中の義従と秦胡の兵」、つまり漢に従った羌や月氏の騎兵を抱えていた。189年、董卓が三千の兵で洛陽に入ると、夜ごとに兵を城外へ出しては翌朝に旗を立てて入らせ、大軍が次々に着いたように見せた。都の兵はみな董卓に付いた。\n\n184年には、湟中の義従の北宮伯玉らが羌とともに背き、辺章と[[p:韓遂]]を立てて涼州を荒らした。韓遂はその後三十年あまり涼州に割拠する。211年、韓遂と[[p:馬超]]ら関中の十の将は十万で潼関に拠り、[[p:曹操]]を迎えた。\n\n曹操の将たちは言った。「関西の兵は強く、長い矛をよく使う。選り抜きの先鋒でなければ当たれません。」曹操は答えた。「戦をどう運ぶかはこちらが決める。賊が長い矛に慣れていても、突かせなければよい。」黄河を渡るとき、曹操は馬超の急襲を受け、[[p:許褚]]に抱えられて船に逃れた。そののち曹操は[[p:賈詡]]の策で韓遂と馬超を疑い合わせ、軽い兵で誘っておいて、虎豹騎で両側から挟んで大いに破った。\n\n馬超は羌の人々に慕われ、魏の楊阜は「馬超は韓信や英布の勇を持ち、羌や胡の心を深くつかんでいる」と警めた。涼州の兵は強かったが、まとまらなかった。董卓の死後は李傕と郭汜が互いに争い、韓遂と馬超も最後まで一人の主を立てることができなかった。",
+    "en": "Liang province is today's Gansu, a long strip running west of the Yellow River. Han people and Qiang lived mixed together there, and it bred horses. For more than a century the Qiang rose again and again and the court poured out the empire's wealth to put them down. Men and women alike in Liang were used to war: \"West of the passes come generals,\" the saying went, \"east of them ministers.\"\n\n[[p:董卓|Dong Zhuo]] came from Longxi in Liang. As a young man he travelled among the Qiang and knew their chiefs, and could shoot from the saddle to either hand. His army was not only Han: in his own words he had \"the loyal auxiliaries of Huangzhong and the Qin and Hu troops\" — Qiang and Yuezhi horsemen in Han service. Entering Luoyang in 189 with three thousand men, he sent some out each night to march in again next morning with banners flying, as if host after host were arriving. The troops of the capital all went over to him.\n\nIn 184 Beigong Boyu of the Huangzhong auxiliaries had risen with the Qiang, set up Bian Zhang and [[p:韓遂|Han Sui]] and ravaged the province. Han Sui held out in Liang for thirty years. In 211 he, [[p:馬超|Ma Chao]] and eight other commanders of Guanzhong stood at Tong Pass with a hundred thousand men to meet [[p:曹操|Cao Cao]].\n\n\"The soldiers west of the passes are strong,\" his generals said, \"and skilled with the long spear. Only a picked vanguard can face them.\" \"How the fighting goes is for me to decide,\" Cao Cao answered. \"Let them be skilled with the long spear: I shall see they get no chance to thrust.\" Crossing the Yellow River he was surprised by Ma Chao and carried into a boat by [[p:許褚|Xu Chu]]. Then, on [[p:賈詡|Jia Xu]]'s plan, he set Han Sui and Ma Chao to doubting one another, drew them on with light troops, and crushed them between the Tiger and Leopard Cavalry on both sides.\n\nMa Chao was loved by the Qiang; Yang Fu of Wei warned that he \"has the courage of Han Xin and Ying Bu and holds the hearts of the Qiang and Hu\". The men of Liang were strong but never united. After Dong Zhuo's death Li Jue and Guo Si fought each other, and Han Sui and Ma Chao could never settle on one lord."
+   },
+   "year": 189,
+   "people": [
+    "董卓|Dong Zhuo",
+    "韓遂|Han Sui",
+    "馬超|Ma Chao",
+    "曹操|Cao Cao",
+    "賈詡|Jia Xu",
+    "許褚|Xu Chu"
+   ],
+   "related": [
+    "sg_cavalry",
+    "qiang_riders",
+    "liang_horses",
+    "battle_tongguan",
+    "hubaoqi"
+   ],
+   "src": [
+    "sanguozhi:魏書 董卓伝|Wei, Dong Zhuo",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu",
+    "sanguozhi:蜀書 馬超伝|Shu, Ma Chao",
+    "houhanshu:西羌伝|Account of the Western Qiang"
+   ],
+   "keepSrc": true
+  },
+  "xiandeng": {
+   "kind": "unit",
+   "title": {
+    "ja": "麴義の先登",
+    "en": "Qu Yi's vanguard"
+   },
+   "body": {
+    "ja": "先登とは、真っ先に敵の城や陣に取り付く者のことである。[[p:袁紹]]の将の麴義 (きくぎ) は、涼州に長くいて羌の戦い方に通じ、その兵はみな精鋭であった。\n\n191年の冬 (192年の初めとも)、袁紹と[[p:公孫瓚]]は界橋の南で向かい合った。公孫瓚は歩兵三万を方陣に組み、左右の翼にそれぞれ騎兵五千を置き、中央に白馬義従を配した。旗と甲が天地を照らしたという。袁紹は麴義に先登八百人と強弩千張を与えて前に出し、自らは数万の歩兵で後ろに備えた。\n\n公孫瓚は麴義の兵が少ないのを見て、騎兵を放って踏みつぶそうとした。麴義の兵は盾の下に伏せて動かない。敵が数十歩まで迫ったとき、いっせいに立ち上がって砂ぼこりを上げ、叫びながら突き進んだ。両側から強弩が雷のように放たれ、当たった者は必ず倒れた。公孫瓚の軍は総崩れとなり、千余りが討たれ、冀州刺史の厳綱が斬られた。\n\n袁紹は勝ちを聞いて鞍を下ろして休んでいた。そこへ逃げ遅れた公孫瓚の騎兵二千余りが突然現れ、袁紹を幾重にも囲んで矢を雨のように射かけた。[[p:田豊]]が袁紹を垣の陰に入れようとすると、袁紹は兜を地に投げて言った。「大丈夫は進んで戦って死ぬものだ。垣の間に逃げ込んで生きられるか。」そばにいた強弩の兵数十人と大戟の士百余人が射返して多くを倒し、騎兵は相手が袁紹と知らずに退いた。そこへ麴義が戻って来た。\n\n麴義はこののちも鮑丘で公孫瓚を破ったが、功を誇っておごり、袁紹に殺された。界橋の戦いは、弩と盾を備えた歩兵が、勢いに乗った騎兵を正面から破った例として知られる。",
+    "en": "Xiandeng means \"first up\": the men who reach the enemy's wall or line before anyone else. Qu Yi, a general of [[p:袁紹|Yuan Shao]], had long lived in Liang province and knew how the Qiang fought, and his soldiers were all picked men.\n\nIn the winter of 191 (or early 192) Yuan Shao and [[p:公孫瓚|Gongsun Zan]] faced each other south of Jieqiao. Gongsun Zan drew up thirty thousand foot in a square, with five thousand horse on each wing and the White Horse Volunteers in the centre; their banners and armour, it is said, lit up heaven and earth. Yuan Shao put Qu Yi in front with eight hundred vanguard men and a thousand strong crossbows, and stood behind with tens of thousands of foot.\n\nSeeing how few Qu Yi's men were, Gongsun Zan loosed his cavalry to ride them down. They lay still under their shields. When the horse were a few dozen paces off they rose all together, raising the dust, and charged shouting, while the crossbows on both sides went off like thunder and whatever they hit went down. Gongsun Zan's army collapsed; over a thousand were killed, and Yan Gang, his Inspector of Ji province, was beheaded.\n\nHearing of the victory, Yuan Shao had unsaddled and was resting when two thousand and more of Gongsun Zan's horse, cut off in the rout, came on him suddenly, ringed him several deep and shot arrows like rain. [[p:田豊|Tian Feng]] tried to get him behind a wall. Yuan Shao threw his helmet to the ground: \"A man should go forward and die fighting. Shall I live by creeping between walls?\" The few dozen crossbowmen and hundred-odd great-halberd men with him shot back and brought many down, and the horsemen, not knowing whom they had, drew off. Then Qu Yi came back.\n\nQu Yi beat Gongsun Zan again at Baoqiu, but grew proud of his deeds and overbearing, and Yuan Shao had him killed. Jieqiao is remembered as a day when foot with shield and crossbow broke charging cavalry head-on."
+   },
+   "year": 191,
+   "people": [
+    "袁紹|Yuan Shao",
+    "公孫瓚|Gongsun Zan",
+    "田豊|Tian Feng"
+   ],
+   "related": [
+    "battle_jieqiao",
+    "baima",
+    "sg_crossbow"
+   ],
+   "src": [
+    "sanguozhi:魏書 袁紹伝 注 英雄記|Wei, Yuan Shao (note: Yingxiong ji)",
+    "houhanshu:袁紹伝|Yuan Shao"
+   ],
+   "keepSrc": true
+  },
+  "wuhuan_riders": {
+   "kind": "unit",
+   "title": {
+    "ja": "烏桓の突騎",
+    "en": "The charging horse of the Wuhuan"
+   },
+   "body": {
+    "ja": "烏桓 (烏丸) は、今の遼寧の西から河北の北にかけて住んだ遊牧の民である。もとは東胡の一部で、匈奴に破られて烏桓山に逃れ、その名を取ったという。馬に乗って弓を射、獣を追い、水と草を求めて移り住んだ。\n\n漢は烏桓を長城の内側の近くに住まわせ、匈奴や鮮卑を見張る役を与えた。その騎兵は漢の軍に雇われ、都の北軍の長水校尉が率いたのも烏桓の騎兵である。「烏桓の突騎」は天下に名高い兵であった。\n\n後漢の末、遼西の蹋頓 (とうとん) が三つの郡の烏桓をまとめた。[[p:袁紹]]は蹋頓らと結び、一族の娘を嫁がせ、単于の印を与えて味方に付けた。袁紹が死に、子の[[p:袁尚]]と袁熙が[[p:曹操]]に追われると、二人は蹋頓のもとへ逃げ込んだ。\n\n207年、曹操は烏桓を討つと決めた。多くの将が「遠すぎる」と反対したが、[[p:郭嘉]]だけが賛成した。夏の大雨で海沿いの道はぬかるんで通れない。土地の人の[[p:田疇]]が、二百年使われていない古い道を教えた。曹操は「道が通れないので秋を待つ」と書いた札を立てて引き返すふりをし、山を五百里あまり切り開いて進んだ。烏桓が気づいたとき、曹操の軍は柳城まで二百里のところにいた。\n\n白狼山で、曹操は高みから烏桓の陣が整っていないのを見ると、[[p:張遼]]を先鋒にして突き入らせた。蹋頓は斬られ、漢と胡あわせて二十余万が降った。曹操は烏桓の一万余りの集落を中原へ移し、その長たちに騎兵を率いさせて戦に従わせた。「これより三郡の烏丸は天下の名騎となった」と『三国志』は記す。",
+    "en": "The Wuhuan were a herding people living from the west of today's Liaoning to the north of Hebei. They had been part of the Donghu; broken by the Xiongnu, they fled to Mount Wuhuan and took its name. They rode, shot, hunted, and moved after water and grass.\n\nThe Han settled them close inside the frontier to watch the Xiongnu and the Xianbei, and hired their riders: the Chang River regiment of the Northern Army at the capital was Wuhuan horse. \"The charging horse of the Wuhuan\" were soldiers known throughout the empire.\n\nAt the end of the Later Han, Tadun of Liaoxi drew the Wuhuan of three commanderies together. [[p:袁紹|Yuan Shao]] made friends of him and the other chiefs, gave them women of his house in marriage and the seals of chanyu. When Yuan Shao was dead and his sons [[p:袁尚|Yuan Shang]] and Yuan Xi were hunted by [[p:曹操|Cao Cao]], the two fled to Tadun.\n\nIn 207 Cao Cao resolved to strike the Wuhuan. Most of his generals said it was too far; only [[p:郭嘉|Guo Jia]] was for it. The summer rains had made the coast road a bog. A local man, [[p:田疇|Tian Chou]], showed an old road unused for two hundred years. Cao Cao set up notices — \"the road is impassable; we wait for autumn\" — as if turning back, and cut his way five hundred li and more through the hills. When the Wuhuan found out he was two hundred li from Liucheng.\n\nAt White Wolf Mountain, seeing from a height that the Wuhuan were not yet in order, he sent [[p:張遼|Zhang Liao]] in at the head of the vanguard. Tadun was cut down, and more than two hundred thousand, Han and Hu, surrendered. Cao Cao moved more than ten thousand Wuhuan camps into the plain and had their chiefs lead their riders on his campaigns. \"From this time,\" says the Records of the Three Kingdoms, \"the Wuhuan of the three commanderies were the famous cavalry of the empire.\""
+   },
+   "year": 207,
+   "people": [
+    "曹操|Cao Cao",
+    "袁紹|Yuan Shao",
+    "郭嘉|Guo Jia",
+    "田疇|Tian Chou",
+    "張遼|Zhang Liao"
+   ],
+   "related": [
+    "sg_cavalry",
+    "xianbei_riders",
+    "hubaoqi",
+    "beijun"
+   ],
+   "src": [
+    "sanguozhi:魏書 烏丸鮮卑東夷伝|Wei, Account of the Wuhuan, Xianbei and Eastern Yi",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu",
+    "sanguozhi:魏書 田疇伝|Wei, Tian Chou"
+   ],
+   "keepSrc": true
+  },
+  "xianbei_riders": {
+   "kind": "unit",
+   "title": {
+    "ja": "鮮卑の騎兵",
+    "en": "The horsemen of the Xianbei"
+   },
+   "body": {
+    "ja": "鮮卑は、烏桓の北、今の内モンゴルの東に住んだ遊牧の民である。北匈奴が西へ去ると、空いた草原に広がり、残った匈奴の十余万の集落もみな鮮卑を名乗った。\n\n2世紀の半ば、檀石槐 (たんせきかい) が現れて鮮卑を一つにまとめた。東は遼東から西は敦煌まで、一万四千里あまり。檀石槐はこれを東・中・西の三部に分け、それぞれに大人 (長) を置いた。漢は王の位と婚姻を申し出たが、檀石槐は受けず、毎年のように辺境を襲った。\n\n177年、漢は夏育・田晏・臧旻にそれぞれ一万の騎兵を率いさせ、三つの道から二千里あまり攻め入った。檀石槐は三部の大人に迎え撃たせた。漢軍は大敗し、節も荷物も失い、三人の将はそれぞれ数十騎で逃げ帰った。兵の十のうち七、八が死んだという。\n\n檀石槐は181年ごろに死に、鮮卑はふたたび分かれた。三国の時代に力を持ったのは軻比能 (かひのう) である。軻比能は中国から逃げて来た人々に武器や甲の作り方、文字を学び、戦うときは旗を立て太鼓で兵を進退させた。魏に馬を献じ、またたびたび辺境を襲った。231年には[[p:諸葛亮]]の北伐に応じて兵を動かしている。235年、魏の幽州刺史の王雄は勇士の韓龍を送って軻比能を刺し殺させ、鮮卑はまた散り散りになった。\n\n鮮卑の兵はみな騎兵で、弓を射た。角を材とした弓が名高い。彼らはこののち百年をかけて長城の内へ移り住み、4世紀には慕容・拓跋などの部が華北に国を建てることになる。",
+    "en": "The Xianbei were a herding people north of the Wuhuan, in the east of today's Inner Mongolia. When the Northern Xiongnu went west they spread over the empty steppe, and the hundred thousand and more camps of Xiongnu left behind all took the name Xianbei.\n\nIn the middle of the second century Tanshihuai appeared and made them one, from Liaodong in the east to Dunhuang in the west, more than fourteen thousand li. He divided them into an eastern, a middle and a western section, each under its chiefs. The Han offered him the title of king and a marriage; he refused, and raided the frontier almost every year.\n\nIn 177 the Han sent Xia Yu, Tian Yan and Zang Min, each with ten thousand horse, by three roads more than two thousand li into the steppe. Tanshihuai had the chiefs of his three sections meet them. The Han armies were routed, lost their standards and baggage, and the three generals each came home with a few dozen riders; seven or eight men in ten, it is said, were dead.\n\nTanshihuai died about 181 and the Xianbei broke apart again. The strong man of the Three Kingdoms years was Kebineng. From Chinese who had fled to him he learned to make weapons and armour and to write, and he moved his men in battle by banner and drum. He sent horses to Wei as tribute and raided its frontier as often; in 231 he moved in answer to [[p:諸葛亮|Zhuge Liang]]'s northern campaign. In 235 Wang Xiong, Wei's Inspector of You province, sent the swordsman Han Long to stab him to death, and the Xianbei scattered once more.\n\nEvery Xianbei soldier was a horseman and an archer; their horn bows were famous. Over the next hundred years they moved inside the frontier, and in the fourth century their Murong and Tuoba branches would found states in north China."
+   },
+   "year": 177,
+   "people": [
+    "諸葛亮|Zhuge Liang"
+   ],
+   "related": [
+    "wuhuan_riders",
+    "xiongnu_sg",
+    "sg_cavalry"
+   ],
+   "src": [
+    "houhanshu:烏桓鮮卑列伝|Account of the Wuhuan and Xianbei",
+    "sanguozhi:魏書 烏丸鮮卑東夷伝|Wei, Account of the Wuhuan, Xianbei and Eastern Yi"
+   ],
+   "keepSrc": true
+  },
+  "xiongnu_sg": {
+   "kind": "unit",
+   "title": {
+    "ja": "南匈奴の騎兵",
+    "en": "The horsemen of the Southern Xiongnu"
+   },
+   "body": {
+    "ja": "匈奴は紀元48年に南北に分かれた。南の匈奴は漢に降り、長城の内側、今の内モンゴルの南から山西の北に住むことを許された。漢は単于に毎年絹と穀物を与え、役人を付けて見張り、南匈奴の騎兵を北匈奴や鮮卑との戦に使った。\n\n後漢の末、南匈奴の中も乱れた。188年、漢が烏桓を討つために兵を出させようとすると、遠い戦を嫌った匈奴の人々は単于の羌渠を殺した。子の於夫羅 (おふら) は単于に立ったが、国の者に拒まれて帰れず、数千の騎兵を率いて河東に留まり、白波の賊と組み、[[p:袁紹]]や張楊に付き、[[p:曹操]]と戦っては敗れた。流浪の騎兵である。\n\n195年、[[p:献帝]]が李傕と郭汜から逃れて長安から東へ向かったとき、於夫羅の弟の単于呼廚泉 (こちゅうせん) は右賢王の去卑を送って帝を守らせた。去卑は白波の将たちとともに李傕の軍と戦い、帝を洛陽へ、ついで許へ送り届けた。\n\n216年、呼廚泉が鄴に来朝すると、曹操はそのまま鄴に留めて帰さず、去卑に国を見させた。そして匈奴を左・右・南・北・中の五つの部に分け、それぞれに匈奴の貴人を帥として立て、漢の人を司馬として付けて見張らせた。五部は合わせて三万ほどの集落で、并州の各地に置かれた。\n\n蔡邕の娘の[[p:蔡琰]] (文姫) は、この乱の中で南匈奴の騎兵にさらわれ、左賢王のもとで十二年を過ごして二人の子を産んだ。曹操が金と玉で買い戻したのは207年ごろのことである。五部に分けられた匈奴は百年ののち、於夫羅の孫にあたる劉淵のもとで立ち上がり、西晋を滅ぼすことになる。",
+    "en": "The Xiongnu split into north and south in AD 48. The southern half submitted to Han and was allowed to live inside the frontier, from the south of today's Inner Mongolia to the north of Shanxi. Han gave the chanyu silk and grain each year, set officials to watch him, and used his horsemen against the Northern Xiongnu and the Xianbei.\n\nAt the end of the Later Han the Southern Xiongnu were in turmoil too. In 188, when Han called on them for troops against the Wuhuan, the people, unwilling to fight so far away, killed the chanyu Qiangqu. His son Yufuluo was made chanyu, but his own people would not have him back; he stayed in Hedong with a few thousand horse, joined the White Wave bandits, attached himself to [[p:袁紹|Yuan Shao]] and Zhang Yang, fought [[p:曹操|Cao Cao]] and lost. They were horsemen without a home.\n\nIn 195, when [[p:献帝|Emperor Xian]] fled east from Chang'an out of the hands of Li Jue and Guo Si, Yufuluo's brother, the chanyu Huchuquan, sent the Worthy King of the Right, Qubei, to guard him. With the White Wave leaders Qubei fought Li Jue's army and brought the emperor to Luoyang and then to Xu.\n\nIn 216, when Huchuquan came to court at Ye, Cao Cao kept him there and set Qubei to oversee his people. He divided the Xiongnu into five sections — left, right, south, north and centre — each under a Xiongnu noble, with a Han officer beside him to watch. The five together were some thirty thousand camps, settled about Bing province.\n\n[[p:蔡琰|Cai Yan]], the daughter of Cai Yong, was carried off by Southern Xiongnu horsemen in these troubles and spent twelve years with the Worthy King of the Left, bearing him two sons, before Cao Cao ransomed her with gold and jade about 207. A hundred years on, the Xiongnu of the five sections rose under Liu Yuan, Yufuluo's grandson, and brought down the Western Jin."
+   },
+   "year": 216,
+   "people": [
+    "曹操|Cao Cao",
+    "蔡琰|Cai Yan",
+    "献帝|Emperor Xian"
+   ],
+   "related": [
+    "xianbei_riders",
+    "wuhuan_riders",
+    "sg_cavalry"
+   ],
+   "src": [
+    "houhanshu:南匈奴列伝|Account of the Southern Xiongnu",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu",
+    "houhanshu:列女伝 董祀妻|Biographies of Women: the wife of Dong Si"
+   ],
+   "keepSrc": true
+  },
+  "qiang_riders": {
+   "kind": "unit",
+   "title": {
+    "ja": "羌の兵",
+    "en": "The fighting men of the Qiang"
+   },
+   "body": {
+    "ja": "羌 (きょう) は、今の青海から甘粛にかけての高原と谷に住んだ人々である。羊を飼い、少し畑も作った。一人の王はおらず、数十から数百の「種」に分かれ、強い者が長となり、弱まれば他の種に付いた。\n\n『後漢書』は羌の気風をこう記す。「戦って死ぬのを吉とし、病で死ぬのを不祥とする。寒さと苦しさに耐えることは獣のようで、女でさえ子を産むときに風雪を避けない。」山と谷の戦いに強く、平地での長い戦いは苦手であった。武器は弓と矛と刀、のちには漢の兵から奪った弩と甲も使った。\n\n後漢は羌を降しては内地に移し、役人は彼らを酷く使った。107年、西域へ送られる途中の羌の兵が逃げて背くと、反乱は十二年続いた。はじめ彼らは武器も持たず、竹や木の枝を矛の代わりにし、板の机を盾にしたという。漢はこの戦いに二百四十億銭を費やした。140年からの二度目の反乱には八十億銭あまり。涼州を捨てようという議論が何度も出た。\n\n160年代、段熲 (だんけい) は「羌は降してもまた背く。長い矛で胸を突き、白い刃を首に加えるほかない」として、百八十回戦い、三万八千余りの首を取って東羌を滅ぼした。費えは四十四億銭であった。\n\n184年、涼州で羌と漢の人がともに背き、[[p:韓遂]]らを立てた。[[p:董卓]]、馬騰、[[p:馬超]]の軍には多くの羌の騎兵がいた。蜀の[[p:姜維]]は涼州の天水の出で、羌や胡の人々を味方に付けて隴西を取ろうとし、たびたび北へ兵を出した。羌の戦いは後漢の国庫を空にし、涼州に戦に慣れた人々を残した。",
+    "en": "The Qiang lived on the high ground and in the valleys from today's Qinghai into Gansu, herding sheep and farming a little. They had no single king. They were split into dozens and hundreds of \"kinds\"; a strong man became chief, and a kind that weakened attached itself to another.\n\nThe History of the Later Han describes their temper: \"They count death in battle lucky and death by sickness unlucky. They bear cold and hardship like wild beasts; even their women in childbirth do not shelter from wind and snow.\" They were strong in mountain and valley and weak in long fighting on the plain. Their weapons were bow, spear and blade, and later crossbows and armour taken from Han soldiers.\n\nThe Later Han subdued them, moved them inland and let its officials work them cruelly. In 107 Qiang conscripts on their way to the Western Regions deserted and rose, and the rising lasted twelve years. At first they had no weapons: they used bamboo and branches for spears, it is said, and table-boards for shields. The war cost Han twenty-four thousand million cash; a second, from 140, more than eight thousand million. Abandoning Liang province was proposed more than once.\n\nIn the 160s Duan Jiong held that \"the Qiang submit and rise again: there is nothing for it but the long spear in the breast and the white blade on the neck\". He fought a hundred and eighty engagements, took over thirty-eight thousand heads and wiped out the Eastern Qiang, at a cost of forty-four hundred million cash.\n\nIn 184 Qiang and Han in Liang rose together and set up [[p:韓遂|Han Sui]] and others. The armies of [[p:董卓|Dong Zhuo]], Ma Teng and [[p:馬超|Ma Chao]] were full of Qiang horsemen. [[p:姜維|Jiang Wei]] of Shu, a man of Tianshui in Liang, meant to win Longxi with the Qiang and Hu on his side, and marched north again and again. The Qiang wars emptied the treasury of the Later Han and left in Liang a people hardened to war."
+   },
+   "year": 184,
+   "people": [
+    "董卓|Dong Zhuo",
+    "韓遂|Han Sui",
+    "馬超|Ma Chao",
+    "姜維|Jiang Wei"
+   ],
+   "related": [
+    "xiliang",
+    "sg_cavalry",
+    "liang_horses"
+   ],
+   "src": [
+    "houhanshu:西羌伝|Account of the Western Qiang",
+    "houhanshu:段熲伝|Duan Jiong",
+    "sanguozhi:蜀書 姜維伝|Shu, Jiang Wei"
+   ],
+   "keepSrc": true
+  },
+  "danyang": {
+   "kind": "unit",
+   "title": {
+    "ja": "丹陽兵",
+    "en": "The men of Danyang"
+   },
+   "body": {
+    "ja": "丹陽 (丹楊) は長江の南、今の南京から安徽の南の山地にかけての郡である。険しい山が続き、銅と鉄を産した。『三国志』はこの地の人をこう記す。「山は険しく、民は多く果敢で強い。武を好み戦に慣れ、気力を尊ぶ。山に登り険しい所を越え、茨の中を突き進むこと、魚が淵を泳ぎ、猿が木を伝うようである。」\n\n後漢の末、丹陽は「精兵の地」として知られていた。兵を求める者はみなここへ来た。190年、[[p:董卓]]を討つ兵を挙げた[[p:曹操]]は、いったん敗れると揚州へ下り、丹陽太守の周昕らから兵四千余りを得た。ところが帰る途中の龍亢で兵の多くが背き、曹操は自ら剣を取って数十人を斬り、残った五百人余りを連れて戻った。丹陽の兵は強いが、扱いやすくはなかった。\n\n徐州の[[p:陶謙]]は丹陽の出で、丹陽兵を自軍の柱としていた。194年、曹操に攻められた陶謙を助けに来た[[p:劉備]]に、陶謙は丹陽兵四千を与えた。千余りの兵しか持たなかった劉備は、これで初めて一軍の将らしくなった。だが196年、劉備が[[p:袁術]]と戦っている留守に、下邳を守っていた曹豹が背き、丹陽兵を率いる許耽が城門を開いて[[p:呂布]]を引き入れ、劉備は徐州を失った。\n\n丹陽を最もよく使ったのは孫氏である。[[p:孫策]]の母方のおじの呉景は丹陽太守であり、孫策はまず丹陽で数百人を募るところから始めた。江東を取ったのちも、孫氏は丹陽の山に住む山越を討っては兵に加え続けた。\n\n呉の軍は舟に乗り、上陸すれば徒歩で戦う。馬は少ない。盾と刀を持って山も川も越える丹陽の兵は、その戦い方によく合っていた。",
+    "en": "Danyang was a commandery south of the Yangzi, from today's Nanjing into the hill country of southern Anhui: steep ranges, with copper and iron. The Records of the Three Kingdoms say of its people: \"The hills are steep and the people mostly bold and strong. They love arms, are practised in war and prize spirit. They climb mountains and cross broken ground and push through thorns like fish in a pool or monkeys in the trees.\"\n\nAt the end of the Later Han Danyang was known as \"the land of picked soldiers\", and everyone who wanted men came there. In 190 [[p:曹操|Cao Cao]], having raised troops against [[p:董卓|Dong Zhuo]] and been beaten once, went down to Yang province and got more than four thousand men from Zhou Xin, the Administrator of Danyang, and others. On the way home, at Longkang, most of them mutinied; he cut down dozens with his own sword and came back with the five hundred or so who stayed. Men of Danyang were strong and not easy to handle.\n\n[[p:陶謙|Tao Qian]] of Xu province was a Danyang man and built his army round Danyang troops. In 194, when [[p:劉備|Liu Bei]] came to help him against Cao Cao, Tao Qian gave him four thousand of them; Liu Bei, who had had a thousand-odd men, now looked like a general for the first time. But in 196, while he was away fighting [[p:袁術|Yuan Shu]], Cao Bao, who held Xiapi, turned on him, and Xu Dan, who led the Danyang troops there, opened the gates to [[p:呂布|Lü Bu]]; Liu Bei lost the province.\n\nThe Sun family used Danyang most. [[p:孫策|Sun Ce]]'s maternal uncle Wu Jing was its Administrator, and Sun Ce began by enlisting a few hundred men there. After the Sun had the lands east of the river they kept on subduing the Shanyue of the Danyang hills and adding them to the army.\n\nThe armies of Wu went by boat and fought on foot when they landed; horses were few. Men of Danyang, with shield and sabre, at home on hill and river, suited that way of war."
+   },
+   "year": 194,
+   "people": [
+    "曹操|Cao Cao",
+    "陶謙|Tao Qian",
+    "劉備|Liu Bei",
+    "呂布|Lü Bu",
+    "孫策|Sun Ce"
+   ],
+   "related": [
+    "shanyue",
+    "sg_navy",
+    "sg_foot"
+   ],
+   "src": [
+    "sanguozhi:呉書 諸葛恪伝|Wu, Zhuge Ke",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu",
+    "sanguozhi:蜀書 先主伝|Shu, the First Sovereign",
+    "sanguozhi:呉書 孫策伝|Wu, Sun Ce"
+   ],
+   "keepSrc": true
+  },
+  "sg_navy": {
+   "kind": "unit",
+   "title": {
+    "ja": "水軍 (楼船・蒙衝・闘艦・走舸)",
+    "en": "The river fleets"
+   },
+   "body": {
+    "ja": "長江は幅が数キロメートルに及ぶ。北から攻める者は、この川を渡らなければ江南に入れない。三国の南北の争いは、川と舟の争いであった。\n\n舟にはいくつかの型があった。楼船は何層もの櫓を重ねた大船で、将が乗り、旗を立て、数百人から千人以上を載せる。蒙衝は細長い舟を生の牛の皮で覆い、弩を射る窓と矛を突き出す穴を開けたもので、火にも矢にも強く、敵の船列に突き入る。闘艦は舷に女墻 (ひめがき) を立てた戦闘用の船。走舸は漕ぎ手が多く戦う兵の少ない、速い小舟である。\n\n208年の春、[[p:孫権]]は江夏の黄祖を攻めた。黄祖は二隻の蒙衝を横に並べて川の口をふさぎ、大きな石を錨にして止め、上に千人を載せて弩を射かけさせた。呉の董襲と[[p:凌統]]は、それぞれ決死の兵百人に甲を二重に着せて大きな舟で突っ込み、董襲が自ら刀で錨の綱を断った。蒙衝は流れ、呉の大軍が進んで黄祖を討った。\n\nその年の冬、赤壁で[[p:黄蓋]]は蒙衝と闘艦数十隻に枯れ草と薪を積んで油を注ぎ、幕で覆い、降ると偽って[[p:曹操]]の船団へ向かった。曹操の船は互いに鎖でつないであった。二里あまり手前で火を放つと、強い東南の風に乗って火は船から岸の陣まで焼き尽くした。曹操はその年の春、鄴に玄武池を掘って水軍を訓練させていたが、北の兵は舟に慣れず、病も広がっていた。\n\n呉の舟は海にも出た。230年、孫権は衛温と諸葛直に兵一万を与えて海へ送り、夷洲 (今の台湾ともいう) に至らせた。魏もやがて水軍を育て、280年、晋の王濬は蜀の地で七年かけて造った大船団で長江を下った。船は幅百二十歩、二千余人を載せ、上を馬が走れたという。呉は川に鉄の鎖を張り、鉄の錐を沈めて防いだが、王濬は大きな筏を先に流して錐を抜き、松明で鎖を焼き切った。石頭城に着いた王濬の前に、[[p:孫晧]]は自らを縛って降った。",
+    "en": "The Yangzi is miles wide. No army from the north could enter the south without crossing it. The struggle of north and south in the Three Kingdoms was a struggle of river and ships.\n\nThere were several kinds of ship. The tower ship was a great vessel with decks built one above another, carrying the commander, his banners and several hundred to over a thousand men. The mengchong was a long narrow boat sheathed in raw oxhide, with ports for crossbows and holes for spears: proof against fire and arrows, it drove into the enemy's line. The fighting ship had battlements along its sides. The \"running boat\" had many oars and few soldiers, and was fast.\n\nIn the spring of 208 [[p:孫権|Sun Quan]] attacked Huang Zu at Jiangxia. Huang Zu had two mengchong moored side by side across the river mouth, anchored with great stones, a thousand men on them shooting crossbows. Dong Xi and [[p:凌統|Ling Tong]] of Wu each took a hundred men sworn to die, in double armour, drove at them in big boats, and Dong Xi cut the anchor cables with his own sabre. The mengchong drifted away, the host of Wu went in, and Huang Zu was killed.\n\nThat winter at the Red Cliffs [[p:黄蓋|Huang Gai]] loaded some dozens of mengchong and fighting ships with dry reeds and firewood soaked in oil, covered them with awnings, and made for [[p:曹操|Cao Cao]]'s fleet pretending to surrender. Cao Cao's ships were chained together. Fired at something over two li, with a strong south-east wind behind them, they burned the fleet and the camp on the bank. Cao Cao had dug the Xuanwu pool at Ye that spring to train a fleet; but northerners were no sailors, and sickness was among them.\n\nThe ships of Wu put to sea as well. In 230 Sun Quan sent Wei Wen and Zhuge Zhi with ten thousand men over the sea to Yizhou — Taiwan, some think. Wei in time built fleets of its own, and in 280 Wang Jun of Jin came down the Yangzi with the armada he had spent seven years building in Shu: ships a hundred and twenty paces across, carrying over two thousand men, with decks a horse could gallop on. Wu stretched iron chains across the river and sank iron spikes; Wang Jun floated great rafts ahead to draw the spikes and burned the chains through with torches. At Shitou, [[p:孫晧|Sun Hao]] came out bound and surrendered to him."
+   },
+   "year": 208,
+   "people": [
+    "孫権|Sun Quan",
+    "黄蓋|Huang Gai",
+    "周瑜|Zhou Yu",
+    "曹操|Cao Cao",
+    "凌統|Ling Tong",
+    "孫晧|Sun Hao"
+   ],
+   "related": [
+    "wu_ships",
+    "battle_chibi",
+    "fire_attack",
+    "shitoucheng",
+    "danyang"
+   ],
+   "src": [
+    "sanguozhi:呉書 呉主伝|Wu, the Sovereign of Wu",
+    "sanguozhi:呉書 周瑜伝|Wu, Zhou Yu",
+    "sanguozhi:呉書 董襲伝|Wu, Dong Xi",
+    "jinshu:王濬伝|Wang Jun"
+   ],
+   "keepSrc": true
+  },
+  "shanyue": {
+   "kind": "unit",
+   "title": {
+    "ja": "山越の兵",
+    "en": "The Shanyue"
+   },
+   "body": {
+    "ja": "山越 (さんえつ) は、長江の南の山々に住んだ人々である。古い越の人々の末とも、漢の役人と税を逃れて山に入った人々ともいう。おそらくその両方であった。丹陽・会稽・豫章・鄱陽・新都などの郡の山に、村ごと、谷ごとに砦を構えて住み、呉の役人に従わなかった。\n\n『三国志』は丹陽の山越をこう記す。「山から銅と鉄が出るので、自ら甲と武器を鋳る。武を好み戦に慣れ、気力を尊ぶ。戦うときは蜂のように群がって来て、負ければ鳥のように散って隠れる。昔から捕らえることができなかった。」\n\n孫氏にとって、山越は背中の敵であり、兵のもとでもあった。北の[[p:曹操]]と戦うたびに、後ろで山越が動く。曹操も山越の長に印を送ってそそのかした。[[p:孫権]]が魏に臣従の形をとり続けたのは、山越がまだ片づいていなかったからだ、と孫権自身が言っている。\n\n呉の将たちは山越を討っては、強い者を兵に、弱い者を民に加えた。217年ごろ、[[p:陸遜]]は丹陽の費桟を破り、精兵数万を得た。賀斉は建安・漢興などの山を討って、六千の首と万を超える兵を得ている。呉の将の多くは、こうして自分の兵を増やした。\n\n最も大がかりだったのは諸葛恪である。234年、諸葛恪は丹陽の山越を三年で降してみせると言った。人々は無理だと言い、父の[[p:諸葛瑾]]は「この子は家を大きくせず、滅ぼすだろう」と嘆いた。諸葛恪は戦わなかった。山のまわりの道をすべて塞ぎ、砦を築き、秋に麦や稲が実るとすぐに刈り取らせた。古い穀物が尽き、新しい穀物が手に入らず、山越は飢えて次々に山を下りてきた。諸葛恪は降った者を捕らえることを禁じた。237年までに、約束どおり四万の兵を得た。",
+    "en": "The Shanyue, the \"Yue of the hills\", lived in the mountains south of the Yangzi. They were descendants of the old Yue, some said; others, people who had gone into the hills to escape Han officials and taxes. Probably both. In the hills of Danyang, Kuaiji, Yuzhang, Poyang and Xindu they kept their stockades, village by village and valley by valley, and did not obey the officers of Wu.\n\nOf those of Danyang the Records of the Three Kingdoms say: \"Copper and iron come out of the hills, and they cast their own armour and weapons. They love arms, are practised in war and prize spirit. In battle they come on like a swarm of bees, and beaten they scatter and hide like birds. From of old no one could catch them.\"\n\nTo the Sun family the Shanyue were an enemy at the back and a source of soldiers. Whenever they fought [[p:曹操|Cao Cao]] in the north, the Shanyue stirred behind; Cao Cao sent their chiefs seals to egg them on. [[p:孫権|Sun Quan]] said himself that he kept up the form of submission to Wei because the Shanyue were not yet dealt with.\n\nThe generals of Wu attacked them and enrolled the strong as soldiers and the weak as subjects. About 217 [[p:陸遜|Lu Xun]] broke Fei Zhan of Danyang and got tens of thousands of picked men. He Qi campaigned in the hills of Jian'an and Hanxing, took six thousand heads and gained over ten thousand soldiers. Many a general of Wu built up his own troops this way.\n\nThe greatest effort was Zhuge Ke's. In 234 he undertook to bring in the Shanyue of Danyang in three years. People said it could not be done; his father [[p:諸葛瑾|Zhuge Jin]] sighed that \"this boy will not raise our house but ruin it\". Zhuge Ke did not fight. He blocked every road round the hills, built forts, and had the wheat and rice cut the moment they ripened. With the old grain gone and no new to be had, the Shanyue came down starving, group after group, and he forbade anyone to seize those who gave themselves up. By 237 he had the forty thousand soldiers he had promised."
+   },
+   "year": 237,
+   "people": [
+    "孫権|Sun Quan",
+    "陸遜|Lu Xun",
+    "諸葛瑾|Zhuge Jin",
+    "曹操|Cao Cao"
+   ],
+   "related": [
+    "danyang",
+    "sg_navy",
+    "sg_foot"
+   ],
+   "src": [
+    "sanguozhi:呉書 諸葛恪伝|Wu, Zhuge Ke",
+    "sanguozhi:呉書 陸遜伝|Wu, Lu Xun",
+    "sanguozhi:呉書 賀斉伝|Wu, He Qi"
+   ],
+   "keepSrc": true
+  },
+  "dongzhou": {
+   "kind": "unit",
+   "title": {
+    "ja": "東州兵",
+    "en": "The Dongzhou troops"
+   },
+   "body": {
+    "ja": "188年、漢の一族の[[p:劉焉]]は、乱れた世を避けようと自ら望んで益州の牧となった。益州は今の四川、山に囲まれた豊かな土地である。そのころ、都のある三輔と南陽は[[p:董卓]]の乱と飢えで荒れ、数万家の人々が益州へ流れ込んだ。\n\n劉焉はこの流民から兵を選んだ。益州から見て東の州から来た人々なので、「東州兵」という。よそ者の劉焉にとって、土地の豪族は頼れない。劉焉は東州兵を頼みとし、逆らう土地の豪族の王咸・李権ら十数人を殺した。これに怒った賈龍らが兵を挙げたが、劉焉は青羌の兵を使ってこれを討った。\n\n194年に劉焉が死に、子の[[p:劉璋]]が継いだ。劉璋は心が優しく、決断に欠けた。東州の人々は土地の民を侵して乱暴を働いたが、劉璋は止められなかった。益州の人々の恨みは深まった。\n\n200年、土地の人望を集めていた将の趙韙 (ちょうい) が、この恨みに乗じて兵を挙げた。蜀郡・広漢・犍為がみな応じた。劉璋は成都に籠もった。東州の人々は、趙韙が勝てば自分たちは皆殺しにされると恐れ、心を一つにして死にもの狂いで戦い、趙韙の軍を破り、江州まで追って斬った。\n\n東州兵は劉璋を救ったが、よそ者と土地の者の溝は埋まらなかった。211年、劉璋が[[p:張魯]]を防ぐために[[p:劉備]]を招き入れたとき、土地の者も東州の者も、多くがすでに劉璋を見限っていた。東州の出の[[p:法正]]や[[p:孟達]]は、その劉備を迎えに行った当人である。",
+    "en": "In 188 [[p:劉焉|Liu Yan]], a kinsman of the Han house, asked for and got the post of Governor of Yi province to be out of the way of the coming troubles. Yi is today's Sichuan, a rich land ringed by mountains. At that time the capital region and Nanyang were wasted by [[p:董卓|Dong Zhuo]]'s war and by famine, and tens of thousands of families streamed into Yi.\n\nFrom these refugees Liu Yan picked soldiers. As they came from the provinces to the east, they were called the Dongzhou, \"eastern province\", troops. An outsider himself, Liu Yan could not rely on the great local families. He leaned on the Dongzhou men and put to death a dozen and more local magnates who crossed him, Wang Xian and Li Quan among them. Jia Long and others rose in anger; Liu Yan put them down with Qiang troops.\n\nLiu Yan died in 194 and his son [[p:劉璋|Liu Zhang]] followed him — a mild man, short of decision. The Dongzhou people encroached on the locals and did as they pleased, and Liu Zhang could not stop them. The resentment in Yi ran deep.\n\nIn 200 the general Zhao Wei, a man the locals looked up to, took his chance and rose. Shu, Guanghan and Jianwei commanderies all joined him, and Liu Zhang shut himself in Chengdu. The Dongzhou people, sure that if Zhao Wei won they would be killed to the last man, fought as one and to the death, broke his army, chased him to Jiangzhou and cut off his head.\n\nThe Dongzhou troops had saved Liu Zhang, but the gap between incomer and native never closed. By 211, when Liu Zhang invited [[p:劉備|Liu Bei]] in to hold off [[p:張魯|Zhang Lu]], many on both sides had already given him up. [[p:法正|Fa Zheng]] and [[p:孟達|Meng Da]], Dongzhou men themselves, were the very ones sent to fetch Liu Bei."
+   },
+   "year": 200,
+   "people": [
+    "劉焉|Liu Yan",
+    "劉璋|Liu Zhang",
+    "劉備|Liu Bei",
+    "法正|Fa Zheng",
+    "孟達|Meng Da"
+   ],
+   "related": [
+    "sg_foot",
+    "wudang",
+    "guizu"
+   ],
+   "src": [
+    "sanguozhi:蜀書 劉二牧伝|Shu, the Two Governors Liu",
+    "sanguozhi:蜀書 劉二牧伝 注 英雄記|Shu, the Two Governors Liu (note: Yingxiong ji)"
+   ],
+   "keepSrc": true
+  },
+  "huangjin_host": {
+   "kind": "unit",
+   "title": {
+    "ja": "黄巾の衆",
+    "en": "The Yellow Turban host"
+   },
+   "body": {
+    "ja": "184年の二月、鉅鹿の[[p:張角]]のもとに集まった人々が、八つの州でいっせいに立ち上がった。目印に黄色い布を頭に巻いたので、「黄巾」と呼ばれた。\n\n張角は十年あまり前から、病の者に自分の過ちを省みさせ、お札を浸した水を飲ませて治すと説き、弟子を四方へ送って人々を集めていた。信じる者は数十万に及び、家を売り払って張角のもとへ向かう者が道にあふれた。飢えと疫病が続き、役人は税を取り立て、朝廷では宦官が官職を売り買いしていた時代である。\n\n張角は信徒を三十六の「方」に分けた。大きな方は一万余り、小さな方は六、七千人。それぞれに長 (渠帥) を置いた。「蒼天すでに死す、黄天まさに立つべし。歳は甲子にあり、天下大吉」という言葉を広め、都や州の役所の門に白い土で「甲子」と書かせた。都の中にも通じる者を作り、三月五日に内と外でいっせいに立つ手はずであった。\n\n弟子の一人が密告して、都の手引きの者千余人が殺された。張角はやむなく予定を早めて兵を挙げた。張角は天公将軍、弟の[[p:張宝]]は地公将軍、[[p:張梁]]は人公将軍を名乗った。人々は役所を焼き、町を襲い、多くの長官が逃げ出した。ひと月のうちに天下が応じ、都は震えた。\n\n黄巾は兵ではなかった。農民が家族を連れ、鋤や棒を持って集まったものである。数は多いが訓練も甲もなく、[[p:皇甫嵩]]は長社で夜に火を放って潁川の黄巾を破り、広宗では夜明けに不意を突いて張梁を討ち、すでに病で死んでいた張角の棺をあばいた。川に追われて溺れた者だけで五万という。主な者はその年のうちに討たれたが、残った者は青州・徐州・黒山などで二十年あまり動き続けた。192年に[[p:曹操]]に降った青州の黄巾は、兵三十余万、男女百余万人であった。",
+    "en": "In the second month of 184 the people who had gathered round [[p:張角|Zhang Jue]] of Julu rose at once in eight provinces. They tied yellow cloths round their heads as a sign, and were called the Yellow Turbans.\n\nFor more than ten years Zhang Jue had taught that the sick should search out their own faults and be cured by water in which a charm had been steeped, and had sent his disciples out in all directions to gather followers. Believers ran to hundreds of thousands; those who sold up their homes to go to him filled the roads. They were years of famine and plague, of tax collectors, and of eunuchs at court buying and selling offices.\n\nHe divided his followers into thirty-six \"regions\", a great one of over ten thousand, a small one of six or seven thousand, each under a leader. He spread the words \"The blue heaven is dead; the yellow heaven shall stand. The year is jiazi: great good fortune under heaven,\" and had jiazi written in white clay on the gates of offices in the capital and the provinces. He had men inside the capital too, and all were to rise together, within and without, on the fifth of the third month.\n\nA disciple informed, and more than a thousand of his people in the capital were killed. Zhang Jue had to rise early. He called himself General of Heaven, and his brothers [[p:張宝|Zhang Bao]] and [[p:張梁|Zhang Liang]] Generals of Earth and of Man. They burned offices and sacked towns, and many officials fled. Within a month the whole empire had answered and the capital shook.\n\nThe Yellow Turbans were not soldiers. They were farmers who came with their families, carrying hoes and staves — many, but without drill or armour. [[p:皇甫嵩|Huangfu Song]] beat those of Yingchuan at Changshe by setting fire to their camp at night; at Guangzong he surprised Zhang Liang at dawn and killed him, and broke open the coffin of Zhang Jue, already dead of sickness. Fifty thousand, it is said, were drowned in the river alone. The leaders were dead within the year, but the remnants went on for more than twenty years in Qing, Xu and the Black Mountains. The Yellow Turbans of Qing who surrendered to [[p:曹操|Cao Cao]] in 192 were over three hundred thousand fighting men and a million men and women."
+   },
+   "year": 184,
+   "people": [
+    "張角|Zhang Jue",
+    "張宝|Zhang Bao",
+    "張梁|Zhang Liang",
+    "皇甫嵩|Huangfu Song",
+    "曹操|Cao Cao"
+   ],
+   "related": [
+    "qingzhou",
+    "beijun",
+    "guizu"
+   ],
+   "src": [
+    "houhanshu:皇甫嵩朱儁列伝|Huangfu Song and Zhu Jun",
+    "houhanshu:孝霊帝紀|Annals of Emperor Ling",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu"
+   ],
+   "keepSrc": true
+  },
+  "guizu": {
+   "kind": "unit",
+   "title": {
+    "ja": "漢中の鬼卒",
+    "en": "The \"spirit soldiers\" of Hanzhong"
+   },
+   "body": {
+    "ja": "漢中は、関中と蜀のあいだ、秦嶺と大巴の山に挟まれた盆地である。191年、益州の[[p:劉焉]]は[[p:張魯]]を漢中へ送った。張魯は漢中に入ると、関中へ通じる桟道を焼き落とし、朝廷の使いを殺して、そのまま三十年近くこの地を治めた。\n\n張魯は祖父の張陵から三代にわたる教えを継いでいた。教えを受ける者は米を五斗納める。病は自分の過ちから来るとし、静かな部屋で過ちを思い返させ、名を記した書き付けを天と地と水にささげて許しを請わせた。\n\n張魯は役人を置かなかった。教えを受け始めた者を「鬼卒」、信心の深い者を「祭酒」と呼び、祭酒がそれぞれ人々を率いた。多くを率いる者は「治頭大祭酒」である。嘘をつかないことを教え、過ちは三度まで許し、そののちに罰した。小さな罪を犯した者には道を百歩直させた。\n\n祭酒たちは道ばたに「義舎」を建て、米と肉を置いた。旅の者は腹がふくれるだけ取ってよい。取りすぎれば鬼が病にする、とされた。春と夏には獣を殺すことを禁じ、酒も禁じた。乱世に漢中は穏やかで、関中から数万家が逃げ込んだ。\n\n鬼卒は教えを受けた民であり、兵でもあった。215年、[[p:曹操]]が十万で陽平関に迫ると、張魯は降ろうとしたが、弟の張衛が数万で関を守った。関が破られると、張魯は「宝物の蔵は国のものだ」と言って焼かずに封をし、巴中へ退いた。曹操はこれを聞いて感じ入り、降った張魯を鎮南将軍に任じ、五人の子もみな侯とした。漢中の民数万家は北へ移され、教えは中原へ広まっていった。",
+    "en": "Hanzhong is a basin between Guanzhong and Shu, shut in by the Qinling and Daba ranges. In 191 [[p:劉焉|Liu Yan]] of Yi province sent [[p:張魯|Zhang Lu]] there. Once in, Zhang Lu burned the plank roads to Guanzhong, killed the court's envoys, and ruled the place for nearly thirty years.\n\nHe was heir to a teaching three generations old, from his grandfather Zhang Ling. Those who received it paid five pecks of rice. Sickness came from one's own faults: the sick sat in a quiet room to think them over, and wrote their names on papers offered to heaven, earth and water to ask pardon.\n\nZhang Lu appointed no officials. Beginners in the teaching were called guizu, \"spirit soldiers\"; the firm in faith were \"libationers\", each leading his people, and those with many under them \"great libationers heading a parish\". They were taught not to lie. A fault was forgiven three times and punished after that; for a small offence a man mended a hundred paces of road.\n\nThe libationers built \"houses of charity\" by the roads and stocked them with rice and meat. Travellers might take as much as would fill them; take more, and the spirits would make them ill. Killing was forbidden in spring and summer, and so was wine. In an age of war Hanzhong was quiet, and tens of thousands of families fled there from Guanzhong.\n\nThe spirit soldiers were the people of the teaching and its troops as well. In 215, when [[p:曹操|Cao Cao]] came against the Yangping pass with a hundred thousand men, Zhang Lu was for submitting, but his brother Zhang Wei held the pass with some tens of thousands. When it fell Zhang Lu said, \"The treasure stores belong to the state,\" sealed them unburned and withdrew to Bazhong. Cao Cao was moved to hear it; when Zhang Lu came in he made him General Who Guards the South, and all five of his sons marquises. Tens of thousands of families of Hanzhong were moved north, and the teaching spread into the plain."
+   },
+   "year": 215,
+   "people": [
+    "張魯|Zhang Lu",
+    "劉焉|Liu Yan",
+    "曹操|Cao Cao"
+   ],
+   "related": [
+    "huangjin_host",
+    "dongzhou",
+    "jiange_road"
+   ],
+   "src": [
+    "sanguozhi:魏書 張魯伝|Wei, Zhang Lu",
+    "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu"
+   ],
+   "keepSrc": true
+  },
+  "nanman_host": {
+   "kind": "unit",
+   "title": {
+    "ja": "南中の兵",
+    "en": "The fighting men of Nanzhong"
+   },
+   "body": {
+    "ja": "南中は蜀の南、今の雲南・貴州と四川の南である。高い山と深い谷が続き、漢の人のほかに、叟 (そう)・昆明・濮などさまざまな人々が住んでいた。豪族は漢の人も土地の人も「部曲」を抱え、「夷帥」と呼ばれる土地の長たちと婚姻で結ばれていた。金・銀・塩・漆・耕す牛・戦う馬を産する豊かな土地である。\n\n223年に[[p:劉備]]が死ぬと、南中の四つの郡はほとんどが背いた。益州郡の豪族の雍闓は太守を殺して呉に通じ、牂牁の朱褒、越嶲の叟の長の高定がこれに応じた。雍闓は土地の人々に信頼の厚い[[p:孟獲]]に説かせた。「役所は胸の前まで黒い犬を三百頭、蟎 (だに) の脳を三斗、長さ三丈の斲木を三千本求めている。お前たちに出せるか。」斲木は曲がって育ち、二丈にもならない木である。どれも手に入らないものであった。人々は信じて背いた。\n\n225年の春、[[p:諸葛亮]]は自ら南へ向かった。[[p:馬謖]]は「心を攻めるのが上策、城を攻めるのは下策です」と言った。諸葛亮は三つの道から進み、高定を斬り、雍闓はすでに仲間に殺されていた。孟獲が残りの兵をまとめて戦った。\n\n後の書『漢晋春秋』はこう伝える。諸葛亮は孟獲を生け捕りにして陣の中を見せ、「この軍はどうか」と尋ねた。孟獲は「前は様子が分からなかったので負けた。これなら勝つのはたやすい」と言った。諸葛亮は笑って放した。七度放して七度捕らえ、なお放そうとすると、孟獲は去らずに言った。「公は天の威をお持ちだ。南の者は二度と背きません。」\n\n諸葛亮は南中に兵を残さず、土地の長たちにそのまま治めさせた。「兵を残せば食わせるものがいる。戦で父や兄を失った者は恨んでいる。役人を置けば必ず争いになる。」そして強い青羌の兵一万余家を蜀へ移して五部とした。これが無当飛軍である。南中からは金・銀・丹・漆・牛・馬が納められ、北伐の費えとなった。",
+    "en": "Nanzhong lay south of Shu: today's Yunnan and Guizhou and the south of Sichuan, high mountains and deep valleys, where beside Han settlers lived many peoples — Sou, Kunming, Pu. The great families, Han and native, kept their own armed followers and were tied by marriage to the native chiefs. It was a rich land of gold, silver, salt, lacquer, plough oxen and war horses.\n\nWhen [[p:劉備|Liu Bei]] died in 223 most of the four commanderies of Nanzhong rebelled. Yong Kai, a magnate of Yizhou commandery, killed the Administrator and opened dealings with Wu; Zhu Bao of Zangke and Gao Ding, chief of the Sou of Yuexi, joined him. Yong Kai had [[p:孟獲|Meng Huo]], a man the natives trusted, tell them: \"The government wants three hundred black dogs, black right down the chest; three pecks of mites' brains; three thousand zhuo trees thirty feet long. Can you find them?\" The zhuo tree grows crooked and never reaches twenty feet. None of it could be found. The people believed him and rose.\n\nIn the spring of 225 [[p:諸葛亮|Zhuge Liang]] marched south himself. \"To attack hearts is the best course,\" [[p:馬謖|Ma Su]] told him, \"to attack walls the worst.\" He advanced by three roads and beheaded Gao Ding; Yong Kai had already been killed by his own side. Meng Huo gathered what was left and fought on.\n\nA later book, the Spring and Autumn of Han and Jin, tells it so. Zhuge Liang took Meng Huo alive, showed him round his camp and asked what he thought of the army. \"Before, I did not know how things stood, and so I lost. Now that I do, winning will be easy.\" Zhuge Liang laughed and let him go. Seven times he let him go and seven times caught him; and when he would have freed him once more Meng Huo stayed: \"You have the majesty of heaven, sir. We men of the south will not rise again.\"\n\nZhuge Liang left no garrison in Nanzhong and let the chiefs go on ruling. \"Leave soldiers and they must be fed. Those who lost fathers and brothers in the fighting are bitter. Set officials over them and there will be trouble.\" He moved more than ten thousand households of fierce Qiang fighting men into Shu in five divisions — the Wudang Flying Army. From Nanzhong came gold, silver, cinnabar, lacquer, oxen and horses to pay for the northern campaigns."
+   },
+   "year": 225,
+   "people": [
+    "諸葛亮|Zhuge Liang",
+    "孟獲|Meng Huo",
+    "馬謖|Ma Su",
+    "劉備|Liu Bei"
+   ],
+   "related": [
+    "wudang",
+    "wulin_man",
+    "dongzhou"
+   ],
+   "src": [
+    "sanguozhi:蜀書 諸葛亮伝|Shu, Zhuge Liang",
+    "sanguozhi:蜀書 諸葛亮伝 注 漢晋春秋|Shu, Zhuge Liang (note: Han Jin chunqiu)",
+    "legend:華陽国志 南中志|Chronicles of Huayang, Nanzhong"
+   ],
+   "keepSrc": true
+  },
+  "wulin_man": {
+   "kind": "unit",
+   "title": {
+    "ja": "武陵蛮",
+    "en": "The Man of Wuling"
+   },
+   "body": {
+    "ja": "武陵は荊州の西南、今の湖南の西から貴州の東にかけての山地である。五つの渓谷があるので、ここに住む人々は「五渓蛮」とも呼ばれた。山は深く、漢の役人の力はふもとの町までしか届かなかった。\n\n後漢の初め、彼らは大きな反乱を起こしている。紀元48年、六十二歳の老将の馬援が自ら願って討伐に出たが、壺頭山の険しい谷で進めなくなり、暑さと疫病で兵の多くが死に、馬援も陣中で病死した。武陵の山は、漢の名将を葬った土地として知られた。\n\n221年、[[p:劉備]]は[[p:関羽]]の仇を討ち荊州を取り戻すため、呉へ兵を進めた。このとき劉備は[[p:馬良]]を武陵へ送り、金と錦を贈って五渓の人々を誘わせた。長たちはみな蜀の印と位を受け、兵を出した。\n\n222年、劉備は長江の南岸に沿って陣を連ね、夷陵に迫った。武陵の人々の長の沙摩柯 (さまか) が兵を率いて加わっている。六月、呉の[[p:陸遜]]は火を放って蜀の陣を次々に破った。劉備は夜に逃れ、沙摩柯は斬られ、馬良も死んだ。\n\n呉にとっても武陵は手に余った。231年、五渓の人々が背くと、[[p:孫権]]は潘濬に五万の兵を与えて討たせた。潘濬は賞罰を明らかにし、三年かけて斬った者と捕らえた者あわせて数万を数えた。「これより群蛮は衰え、一帯は静まった」と『三国志』は記す。山に住む人々は、蜀と呉のどちらにとっても、味方に付ければ兵となり、敵に回せば背中を脅かす力であった。",
+    "en": "Wuling was the hill country south-west of Jing province, from the west of today's Hunan into the east of Guizhou. It had five river gorges, so its people were also called the Man of the Five Streams. The hills were deep, and Han officials had no hold beyond the towns at their foot.\n\nEarly in the Later Han they rose in a great rebellion. In AD 48 the old general Ma Yuan, sixty-two years old, asked for the command against them, stuck in the gorges of Mount Hutou, lost much of his army to heat and fever, and died of sickness in camp. The hills of Wuling were known as the place that buried a famous Han general.\n\nIn 221 [[p:劉備|Liu Bei]] marched on Wu to avenge [[p:関羽|Guan Yu]] and win back Jing province. He sent [[p:馬良|Ma Liang]] into Wuling with gold and brocade to win the Five Streams people; their chiefs all took Shu's seals and titles and sent men.\n\nIn 222 Liu Bei strung his camps along the south bank of the Yangzi and pressed on Yiling; Shamoke, a chief of the Wuling people, was with him at the head of his men. In the sixth month [[p:陸遜|Lu Xun]] of Wu fired the Shu camps and broke them one after another. Liu Bei fled by night; Shamoke was cut down, and Ma Liang died too.\n\nWu found Wuling as hard to hold. When the Five Streams people rose in 231 [[p:孫権|Sun Quan]] sent Pan Jun against them with fifty thousand men. He made rewards and punishments plain, and in three years those beheaded and taken ran to tens of thousands. \"From this time the Man declined and the whole region was quiet,\" say the Records of the Three Kingdoms. To Shu and Wu alike the people of the hills were soldiers if won over, and a threat at one's back if not."
+   },
+   "year": 222,
+   "people": [
+    "劉備|Liu Bei",
+    "馬良|Ma Liang",
+    "陸遜|Lu Xun",
+    "孫権|Sun Quan"
+   ],
+   "related": [
+    "battle_yiling",
+    "nanman_host",
+    "shanyue"
+   ],
+   "src": [
+    "sanguozhi:蜀書 先主伝|Shu, the First Sovereign",
+    "sanguozhi:蜀書 馬良伝|Shu, Ma Liang",
+    "sanguozhi:呉書 潘濬伝|Wu, Pan Jun",
+    "houhanshu:馬援列伝|Ma Yuan"
+   ],
+   "keepSrc": true
   }
  },
  "goods": [
@@ -9277,5 +9843,596 @@
    "西陵",
    "Xiling"
   ]
+ ],
+ "arms": [
+  {
+   "art": "sg_crossbow",
+   "adopt": [
+    [
+     184,
+     "han",
+     "q"
+    ],
+    [
+     184,
+     "liang",
+     "q"
+    ],
+    [
+     184,
+     "liuyan",
+     "q"
+    ],
+    [
+     184,
+     "yuanshao",
+     "q"
+    ],
+    [
+     184,
+     "yuanshu",
+     "q"
+    ],
+    [
+     184,
+     "cao",
+     "q"
+    ],
+    [
+     184,
+     "liubiao",
+     "q"
+    ],
+    [
+     184,
+     "taoqian",
+     "q"
+    ],
+    [
+     184,
+     "gongsun",
+     "q"
+    ],
+    [
+     184,
+     "shu",
+     "q"
+    ],
+    [
+     184,
+     "wu",
+     "q"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "crossbow",
+   "place": "front"
+  },
+  {
+   "art": "sg_cavalry",
+   "adopt": [
+    [
+     184,
+     "han",
+     "q"
+    ],
+    [
+     184,
+     "liang",
+     "q"
+    ],
+    [
+     184,
+     "liuyan",
+     "q"
+    ],
+    [
+     184,
+     "yuanshao",
+     "q"
+    ],
+    [
+     184,
+     "yuanshu",
+     "q"
+    ],
+    [
+     184,
+     "cao",
+     "q"
+    ],
+    [
+     184,
+     "liubiao",
+     "q"
+    ],
+    [
+     184,
+     "taoqian",
+     "q"
+    ],
+    [
+     184,
+     "gongsun",
+     "q"
+    ],
+    [
+     184,
+     "shu",
+     "q"
+    ],
+    [
+     184,
+     "wu",
+     "q"
+    ]
+   ],
+   "share": 0.06,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "sg_siege",
+   "adopt": [
+    [
+     184,
+     "han",
+     "q"
+    ],
+    [
+     184,
+     "liang",
+     "q"
+    ],
+    [
+     184,
+     "liuyan",
+     "q"
+    ],
+    [
+     184,
+     "yuanshao",
+     "q"
+    ],
+    [
+     184,
+     "yuanshu",
+     "q"
+    ],
+    [
+     184,
+     "cao",
+     "q"
+    ],
+    [
+     184,
+     "liubiao",
+     "q"
+    ],
+    [
+     184,
+     "taoqian",
+     "q"
+    ],
+    [
+     184,
+     "gongsun",
+     "q"
+    ],
+    [
+     184,
+     "shu",
+     "q"
+    ],
+    [
+     184,
+     "wu",
+     "q"
+    ]
+   ],
+   "per": 8000,
+   "crew": 60,
+   "unit": {
+    "ja": "台",
+    "en": "engines"
+   },
+   "glyph": "siege",
+   "place": "rear"
+  },
+  {
+   "art": "beijun",
+   "adopt": [
+    [
+     184,
+     "han"
+    ]
+   ],
+   "share": 0.1,
+   "max": 4000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "xiliang",
+   "adopt": [
+    [
+     184,
+     "liang"
+    ]
+   ],
+   "share": 0.3,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "xiliang",
+   "adopt": [
+    [
+     189,
+     "han",
+     "q"
+    ]
+   ],
+   "share": 0.12,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "baima",
+   "adopt": [
+    [
+     190,
+     "gongsun",
+     "q"
+    ]
+   ],
+   "share": 0.1,
+   "max": 3000,
+   "glyph": "horse_archer",
+   "place": "wing"
+  },
+  {
+   "art": "xiandeng",
+   "adopt": [
+    [
+     191,
+     "yuanshao"
+    ]
+   ],
+   "share": 0.05,
+   "max": 2000,
+   "glyph": "crossbow",
+   "place": "front"
+  },
+  {
+   "art": "qingzhou",
+   "adopt": [
+    [
+     192,
+     "cao",
+     "q"
+    ]
+   ],
+   "share": 0.2,
+   "max": 300000,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "xianzhen",
+   "adopt": [
+    [
+     196,
+     "taoqian",
+     "q"
+    ]
+   ],
+   "share": 0.03,
+   "max": 800,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "hubaoqi",
+   "adopt": [
+    [
+     205,
+     "cao"
+    ]
+   ],
+   "share": 0.03,
+   "max": 5000,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "wuhuan_riders",
+   "adopt": [
+    [
+     207,
+     "cao"
+    ]
+   ],
+   "share": 0.03,
+   "max": 10000,
+   "glyph": "horse_archer",
+   "place": "wing"
+  },
+  {
+   "art": "danyang",
+   "adopt": [
+    [
+     190,
+     "taoqian",
+     "q"
+    ],
+    [
+     195,
+     "wu",
+     "q"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "sg_navy",
+   "adopt": [
+    [
+     190,
+     "liubiao",
+     "q"
+    ],
+    [
+     195,
+     "wu",
+     "q"
+    ],
+    [
+     208,
+     "cao"
+    ]
+   ],
+   "share": 0.2,
+   "glyph": "boat",
+   "place": "rear"
+  },
+  {
+   "art": "shanyue",
+   "adopt": [
+    [
+     237,
+     "wu"
+    ]
+   ],
+   "share": 0.1,
+   "max": 40000,
+   "glyph": "javelin",
+   "place": "centre"
+  },
+  {
+   "art": "dongzhou",
+   "adopt": [
+    [
+     194,
+     "liuyan",
+     "q"
+    ]
+   ],
+   "share": 0.2,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "wulin_man",
+   "adopt": [
+    [
+     221,
+     "shu"
+    ]
+   ],
+   "share": 0.05,
+   "max": 10000,
+   "glyph": "javelin",
+   "place": "wing"
+  },
+  {
+   "art": "wudang",
+   "adopt": [
+    [
+     225,
+     "shu"
+    ]
+   ],
+   "share": 0.06,
+   "max": 10000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "lianzhu",
+   "adopt": [
+    [
+     230,
+     "shu"
+    ]
+   ],
+   "share": 0.04,
+   "max": 3000,
+   "glyph": "crossbow",
+   "place": "front"
+  },
+  {
+   "art": "sg_foot",
+   "adopt": [
+    [
+     184,
+     "han",
+     "q"
+    ],
+    [
+     184,
+     "liang",
+     "q"
+    ],
+    [
+     184,
+     "liuyan",
+     "q"
+    ],
+    [
+     184,
+     "yuanshao",
+     "q"
+    ],
+    [
+     184,
+     "yuanshu",
+     "q"
+    ],
+    [
+     184,
+     "cao",
+     "q"
+    ],
+    [
+     184,
+     "liubiao",
+     "q"
+    ],
+    [
+     184,
+     "taoqian",
+     "q"
+    ],
+    [
+     184,
+     "gongsun",
+     "q"
+    ],
+    [
+     184,
+     "shu",
+     "q"
+    ],
+    [
+     184,
+     "wu",
+     "q"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "huangjin_host",
+   "adopt": [
+    [
+     184,
+     "huangjin"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "guizu",
+   "adopt": [
+    [
+     184,
+     "zhanglu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "xianbei_riders",
+   "adopt": [
+    [
+     184,
+     "xianbei"
+    ]
+   ],
+   "rest": true,
+   "glyph": "horse_archer",
+   "place": "centre"
+  },
+  {
+   "art": "wuhuan_riders",
+   "adopt": [
+    [
+     184,
+     "wuhuan"
+    ]
+   ],
+   "rest": true,
+   "glyph": "horse_archer",
+   "place": "centre"
+  },
+  {
+   "art": "xiongnu_sg",
+   "adopt": [
+    [
+     184,
+     "xiongnu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "horse_archer",
+   "place": "centre"
+  },
+  {
+   "art": "qiang_riders",
+   "adopt": [
+    [
+     184,
+     "qiang"
+    ]
+   ],
+   "rest": true,
+   "glyph": "horse",
+   "place": "centre"
+  },
+  {
+   "art": "shanyue",
+   "adopt": [
+    [
+     184,
+     "shanyue"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  },
+  {
+   "art": "nanman_host",
+   "adopt": [
+    [
+     184,
+     "nanman"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  },
+  {
+   "art": "wulin_man",
+   "adopt": [
+    [
+     184,
+     "wulin"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  }
  ]
 }
