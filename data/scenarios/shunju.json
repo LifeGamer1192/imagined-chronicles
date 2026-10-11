@@ -20364,6 +20364,508 @@
     "shiji:六国年表|Table of the Six States",
     "zhanguoce"
    ]
+  },
+  "tuzu": {
+   "kind": "unit",
+   "title": {
+    "ja": "歩卒 (徒卒)",
+    "en": "The foot (tuzu)"
+   },
+   "body": {
+    "ja": "春秋のはじめ、歩いて戦う兵は「徒」と呼ばれ、戦車に付き従う者であった。戦車一乗に甲士三人が乗り、その後ろに歩卒が従う。歩卒の数は書物によって十人とも七十二人とも言い、時代とともに増えていったらしい。戦うのは都に住む「国人」の務めであり誉れでもあって、野に住む農民 (野人) は兵にならなかった。\n\n変わり目は春秋の後半である。晋は前645年、韓原で敗れたのち「州兵を作る」とあり、都の外の民にも兵の務めを広げた。魯は前590年に「丘甲を作る」、鄭の[[p:子産]]は前538年に「丘賦を作る」。どれも、より多くの民から兵と軍の費えを取り立てる仕組みである。兵の数は増え、歩卒は戦車の付き添いから軍の本体へと変わっていった。\n\n戦国に入ると、国々は郡と県を置いて戸籍を作り、成年の男を根こそぎ兵に取るようになった。五人を「伍」、十人を「什」に組ませて互いに見張らせ、逃げれば仲間も罰せられる。兵は農民であり、春に耕し、秋の取り入れの後に戦に出た。前260年の長平では、秦は河内の十五歳以上の男をことごとく前線へ送ったという。\n\n遊説の士が語る数字は大きい。[[p:蘇秦]]は「斉の臨淄だけで二十一万の兵が出せる」と言い、秦・楚は「帯甲百万」と称された。割り引いて聞くとしても、数万の戦車兵が貴族の作法で戦った春秋の戦いが、数十万の農民兵がぶつかる戦国の戦いに変わったことは確かである。\n\n装備は戟・矛・剣と盾、革の甲 (よろい)。前3世紀には鉄の武器も混じる。秦の始皇帝の陵のそばから出た兵馬俑は、弩を持つ兵を前に並べ、その後ろに戟や矛を持つ歩卒が戦車を挟んで幾列も続く、戦国の終わりの軍の姿を今に伝えている。",
+    "en": "At the start of the Spring and Autumn the men who fought on foot were called tu, \"walkers\", and followed the chariots: three armoured men rode, and the foot came behind. The books give anything from ten to seventy-two foot to a chariot, and the number seems to have grown with time. To fight was the duty and the honour of the guoren, the men of the walled capital; the farmers of the open country did not serve.\n\nThe turn came in the later Spring and Autumn. After its defeat at Hanyuan in 645 BC Jin \"made the zhou soldiery\", stretching service to people outside the capital; Lu \"made the qiu armour levy\" in 590, and [[p:子産|Zichan]] of Zheng \"made the qiu tax\" in 538. All were ways of drawing soldiers and the cost of war from more of the people. Armies grew, and the foot turned from the chariots' escort into the body of the army.\n\nIn the Warring States the realms set up commanderies and counties, kept household registers and took every grown man. Men were grouped in fives and tens to watch one another; if one ran, his fellows were punished. The soldier was a farmer who ploughed in spring and marched after the harvest. At Changping in 260 BC Qin is said to have sent every male of Henei over fifteen to the front.\n\nThe numbers the wandering persuaders quote are huge: [[p:蘇秦|Su Qin]] says Linzi in Qi alone could put two hundred and ten thousand men in the field, and Qin and Chu were each credited with \"a million in armour\". Discount them as one may, the Spring and Autumn battle of a few tens of thousands fighting by a nobleman's code had become the Warring States clash of hundreds of thousands of farmer-soldiers.\n\nThey carried halberd, spear, sword and shield, and wore leather armour; by the third century BC there was iron among the bronze. The terracotta army by the First Emperor's tomb shows such an army at the end of the age: crossbowmen in front, and behind them rank on rank of foot with halberd and spear, the chariots among them."
+   },
+   "year": 645,
+   "related": [
+    "chariot",
+    "ge_ji",
+    "crossbow",
+    "jin_hang"
+   ],
+   "src": [
+    "zuo:僖公十五年|Duke Xi 15",
+    "zuo:成公元年|Duke Cheng 1",
+    "zuo:昭公四年|Duke Zhao 4",
+    "zhanguoce:斉策一|Qi 1",
+    "shiji:白起王翦列伝|Biographies of Bai Qi and Wang Jian"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "ge_ji": {
+   "kind": "unit",
+   "title": {
+    "ja": "戈と戟の兵",
+    "en": "Dagger-axe and halberd men"
+   },
+   "body": {
+    "ja": "戈 (か) は中国に独特の武器である。長い柄の先に、鎌のような刃を横向きに付ける。突くのではなく、振り下ろして引っかけ、手前に引いて斬る。戦車の上から、すれ違う敵の車の兵を引き倒すのに向いていた。戦車の右に乗る「車右」の持ち物である。\n\n戈に矛 (突く穂先) を組み合わせたものが戟 (げき) である。突くことも、引っかけることも、薙ぐこともできる。春秋の半ばから現れ、戦国には歩卒の主な武器となった。曾侯乙の墓 (前433年ごろ) からは、一本の柄に戈の刃を三つ重ねた戟が出ている。\n\n柄の長さは使い道で違った。戦車で使う戈や矛は三メートルを超え、歩卒が使うものは身の丈ほどである。『周礼』の考工記は「兵の長さは身の丈の三倍を越えてはならない。越えれば使えないばかりか、持つ者を傷つける」と記す。\n\n戟は軍そのものを表す言葉にもなった。「持戟百万」は百万の兵のことであり、「持戟の士」は兵士のことである。戦国の遊説の士は、国の力を「帯甲」(よろいを着た者) と「持戟」の数で語った。\n\n南の呉・越・楚では戈や戟に鳥の姿の文字 (鳥書) を金で象嵌し、西南の巴・蜀では虎や手の形の印を鋳込んだ。同じ武器でも、土地ごとに姿は違っている。",
+    "en": "The ge, or dagger-axe, is a weapon peculiar to China: a blade set crosswise, like a sickle, at the end of a long shaft. It does not thrust. It is swung down, hooked and dragged back to cut — well suited to pulling a man out of a passing chariot, and so the weapon of the man who rode on the chariot's right.\n\nJoin a ge to a spearhead and the result is the ji, the halberd, which can thrust, hook and sweep. It appears from the middle of the Spring and Autumn and by the Warring States was the chief weapon of the foot. The tomb of Marquis Yi of Zeng (about 433 BC) held halberds with three ge blades set one above another on a single shaft.\n\nShafts differed with their use: over three metres for those used from a chariot, about a man's height for the foot. The Kaogongji in the Rites of Zhou warns that \"no weapon should be more than three times a man's height: beyond that it is not only useless, it harms the one who carries it.\"\n\nThe halberd came to stand for the army itself. \"A million halberd-holders\" is a million soldiers, and \"a holder of the halberd\" a soldier; the persuaders of the Warring States measured a realm in its men in armour and its halberds.\n\nIn the south — Wu, Yue, Chu — dagger-axes and halberds were inlaid in gold with the bird-shaped script; in the south-west, Ba and Shu cast signs of tigers and hands into theirs. The same weapon looked different from land to land."
+   },
+   "year": 722,
+   "related": [
+    "chariot",
+    "tuzu"
+   ],
+   "src": [
+    "zhouli:考工記|Kaogongji",
+    "finds:曾侯乙墓|the tomb of Marquis Yi of Zeng",
+    "zhanguoce"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "gong_she": {
+   "kind": "unit",
+   "title": {
+    "ja": "弓と射",
+    "en": "The bow and archery"
+   },
+   "body": {
+    "ja": "射 (弓を射ること) は、周の貴族が身につけるべき六つの技「六芸」の一つであった。戦の技であると同時に礼でもあり、宴や祭りには作法に沿って的を射る「射礼」が行われた。[[p:孔子]]も「君子は争わない。争うとすれば射であろう」と言っている。\n\n弓は、木や竹の芯に、腹には角、背には腱を膠で貼り合わせた合わせ弓である。『周礼』考工記は、材を冬に切り、角を春に煮、腱を夏に整え、秋に合わせると記し、一張の弓に足かけ三年かかるとする。六つの材 (幹・角・筋・膠・糸・漆) の良し悪しを見分ける方法まで細かく書かれている。\n\n戦車では、左に乗る「車左」が弓を射た。車の長であり、最も身分の高い者である。前575年の鄢陵の戦いで、楚の養由基は晋の魏錡の首を一矢で射抜いた。養由基は百歩離れて柳の葉を射て百発百中であったといい、「百歩穿楊」「百発百中」の語のもとになった。\n\n戦国になると、弓は歩卒の持ち物ともなった。[[p:荀子]]が語る魏の武卒は、弩とともに矢五十本を背負う。北の趙は遊牧の民にならって馬上から射る「騎射」を取り入れた。ただし大軍の飛び道具の主役は、引き金で放つ弩へと移っていく。弓は熟練に年月がかかり、弩は農民でもすぐに使えたからである。",
+    "en": "Archery was one of the \"six arts\" a Zhou nobleman had to master: a skill of war and at once a rite, with ceremonial shooting at feasts and sacrifices. \"The gentleman does not contend,\" said [[p:孔子|Confucius]], \"or if he must, it is in archery.\"\n\nThe bow was a composite: a core of wood or bamboo with horn glued to the belly and sinew to the back. The Kaogongji has the wood cut in winter, the horn boiled in spring, the sinew dressed in summer and all put together in autumn — three years for one bow — and tells in detail how to judge the six materials, wood, horn, sinew, glue, silk and lacquer.\n\nIn a chariot the archer stood on the left; he commanded it and was the man of highest rank. At Yanling in 575 BC Yang Youji of Chu shot Wei Yi of Jin through the neck with one arrow. He was said to hit a willow leaf at a hundred paces a hundred times in a hundred — the origin of two sayings still in use.\n\nIn the Warring States the foot carried bows too: the picked men of Wei, as [[p:荀子|Xunzi]] describes them, bore fifty arrows on their backs with their crossbows. Zhao in the north learned from the herders to shoot from horseback. But in the great armies the chief missile weapon became the crossbow, loosed by a trigger: a bowman took years to make, and a farmer could use a crossbow at once."
+   },
+   "year": 575,
+   "people": [
+    "孔子|Confucius"
+   ],
+   "related": [
+    "chariot",
+    "crossbow",
+    "hufu"
+   ],
+   "src": [
+    "zuo:成公十六年|Duke Cheng 16",
+    "zhouli:考工記|Kaogongji",
+    "lunyu:八佾|Bayi",
+    "zhanguoce:西周策|Western Zhou"
+   ],
+   "keepSrc": true
+  },
+  "chu_guang": {
+   "kind": "unit",
+   "title": {
+    "ja": "楚の乗広",
+    "en": "The Guang, the king of Chu's own chariots"
+   },
+   "body": {
+    "ja": "楚王の身近を守る戦車の隊を「広 (こう)」という。左右二つの広があり、それぞれ戦車三十乗。一乗ごとに歩卒の一隊 (卒) とその半分 (偏) が付いた。\n\n前597年の邲の戦いの前、晋の[[p:欒書]]は楚の備えをこう語っている。「楚王の親兵は二つの広に分かれ、右の広は鶏の鳴く頃に馬をつないで日の中ほどまで備え、左の広がこれを受けて日暮れまで備える。夜は近臣が順に番をする。備えがないとは言えない。」楚は一日じゅう、いつでも王の車が動けるようにしていたのである。\n\nその邲の戦いで、楚の荘王は左の広に乗って晋の趙旃を追った。王が前に出すぎるのを案じた[[p:孫叔敖]]は全軍を進ませ、戦いはそのまま楚の大勝となった。王は途中で右の広に乗り換えようとしたが、左の広を御していた屈蕩が「君は左で始められました。必ず左で終えられますよう」と止めたという。\n\n春秋の戦いでは、君主が自ら戦車に乗って陣の中央に立った。その車がどう動くかが勝ち負けを決めることも多い。広は、楚がそのための兵を日ごろから組んでいたことを示している。",
+    "en": "The guang were the chariots that kept close about the king of Chu: two of them, left and right, of thirty chariots each, every chariot with its company of foot and half a company more.\n\nBefore the battle of Bi in 597 BC [[p:欒書|Luan Shu]] of Jin described Chu's readiness: \"The king's own troops are in two guang. The right harnesses at cockcrow and stands ready till midday; the left takes over till dusk; at night his attendants keep watch by turns. One cannot say they are unprepared.\" At any hour of the day the king's chariots could move.\n\nAt Bi itself King Zhuang rode with the left guang in pursuit of Zhao Zhan of Jin. [[p:孫叔敖|Sunshu Ao]], alarmed to see the king so far forward, sent the whole army on, and the day became Chu's great victory. The king meant to change to the right guang on the way; Qu Dang, who drove the left, stopped him: \"My lord began with the left. Let him end with it.\"\n\nIn a Spring and Autumn battle the ruler rode in the centre of the line, and how his chariot moved often decided the day. The guang show that Chu kept troops formed for exactly that."
+   },
+   "year": 597,
+   "people": [
+    "荘王|King Zhuang",
+    "孫叔敖|Sunshu Ao"
+   ],
+   "related": [
+    "chariot"
+   ],
+   "src": [
+    "zuo:宣公十二年|Duke Xuan 12"
+   ],
+   "keepSrc": true
+  },
+  "jin_hang": {
+   "kind": "unit",
+   "title": {
+    "ja": "晋の行 (歩兵の隊)",
+    "en": "The hang, the foot columns of Jin"
+   },
+   "body": {
+    "ja": "晋の北と東の山地には、戎や狄と呼ばれる人々が住んでいた。彼らは戦車を持たず、歩いて戦う。険しい山道では戦車は役に立たない。晋は早くから、戦車とは別に歩兵だけの隊を持つ必要に迫られた。\n\n前632年、城濮で楚を破った年に、晋の文公は「三行 (さんこう) を作って狄を防いだ」。行とは歩兵の隊列のことで、中行・右行・左行の三つがあった。戦車の三軍とは別に置かれ、[[p:荀林父]]が中行を率いた。その子孫は官の名をとって「中行氏」を名乗り、晋の六卿の一つとなる。\n\n前541年、晋の荀呉 (中行穆子) は大原で狄の無終と群狄を攻めた。地は狭く険しい。魏舒が言った。「彼らは歩兵、こちらは戦車、しかも足場が悪い。車一乗を歩兵十人に替えれば必ず勝てます。まず私の隊から。」晋軍は戦車を捨てて歩兵の隊列を組んだ (「車を毀ちて行と為す」)。車を降りるのを拒んだ者は斬られた。狄は見慣れない陣を笑ったが、陣を整える前に攻められて大敗した。\n\nこれは中原の国が自ら戦車を降りた、記録に残る最初の例である。戦車から歩兵へという流れは、晋が三つに分かれてできた魏・趙・韓にも受け継がれた。魏の武卒も、趙の胡服騎射も、戦車にこだわらないこの晋の気風の上にある。",
+    "en": "In the hills north and east of Jin lived the peoples called Rong and Di. They had no chariots and fought on foot, and on steep mountain tracks a chariot is useless. Jin was driven early to keep bodies of foot apart from its chariots.\n\nIn 632 BC, the year he beat Chu at Chengpu, Duke Wen of Jin \"made the three hang to hold off the Di\". A hang is a column of foot; there were three, centre, right and left, set beside the three chariot armies, and [[p:荀林父|Xun Linfu]] commanded the centre. His descendants took the office as their name — Zhonghang, \"Centre Column\" — and became one of the six great houses of Jin.\n\nIn 541 BC Xun Wu of Jin attacked the Wuzhong and the other Di at Dayuan, on narrow, broken ground. Wei Shu said: \"They are on foot and we are in chariots, and the footing is bad. Change each chariot for ten men on foot and we are sure to win. Begin with mine.\" The army left its chariots and formed in columns — \"broke up the chariots to make hang\" — and a man who would not dismount was beheaded. The Di laughed at the strange array, were attacked before they had formed, and were routed.\n\nIt is the first time on record that a state of the central plain got down from its chariots by choice. The turn from chariot to foot passed to Wei, Zhao and Han, the three states Jin split into: the picked foot of Wei and the mounted archers of Zhao both grew from this Jin habit of not clinging to the chariot."
+   },
+   "year": 632,
+   "people": [
+    "文公|Duke Wen"
+   ],
+   "related": [
+    "chariot",
+    "tuzu",
+    "rongdi_tu",
+    "wuzu",
+    "hufu"
+   ],
+   "src": [
+    "zuo:僖公二十八年|Duke Xi 28",
+    "zuo:昭公元年|Duke Zhao 1"
+   ],
+   "keepSrc": true
+  },
+  "zhoushi": {
+   "kind": "unit",
+   "title": {
+    "ja": "舟師 (水の軍)",
+    "en": "The boat armies"
+   },
+   "body": {
+    "ja": "長江とその南は、川と湖と沼の国である。中原の戦車はここでは進めない。楚・呉・越の軍は舟で動き、舟の上で戦った。舟の軍を「舟師 (しゅうし)」という。\n\n記録に残る最初の舟師の遠征は前549年、楚の康王が「舟師を為して呉を伐った」ものである。このときは戦果がなく引き揚げた。前525年の長岸の戦いでは、楚が呉の王の乗る大船「余皇」を奪い、呉の公子光 (のちの[[p:闔閭]]) が夜襲をかけてこれを取り返した。\n\n呉は川だけでなく海も使った。前485年、呉の徐承は舟師を率いて海から斉を攻めた。これは中国の記録に残る最初の海からの遠征である。その前の年、呉王[[p:夫差]]は長江と淮水をつなぐ運河「邗溝」を掘らせ、舟で北へ兵と兵糧を運べるようにしていた。\n\n越もまた舟の国であった。前482年、夫差が黄池の会盟に出て国を空けた隙に、越王[[p:句践]]は一隊を海から淮水へ回して呉の帰り道を断ち、本隊で呉の都を襲った。越の人は自らを「水を行くこと山を行くがごとく、舟を車とし、楫 (かい) を馬とする」と語ったという。\n\n後の書物は、呉の[[p:伍子胥]]が舟を戦車になぞらえて大翼・小翼・突冒・楼船・橋船と分けたと伝える。戦国の青銅器には、二階建ての戦船の絵が残る。下の階で漕ぎ手が櫂を漕ぎ、上の階で兵が戟と弓を持ち、舳先には旗が立つ。敵の舟を引き寄せ、押し返すための「鉤拒」という道具は、[[p:公輸盤]]が楚のために作ったと『[[p:墨子]]』にある。",
+    "en": "The Yangzi and the lands south of it are a country of rivers, lakes and marshes, where the chariots of the central plain could not go. The armies of Chu, Wu and Yue moved by boat and fought from boats. Such a force was a zhoushi, a boat army.\n\nThe first expedition by boat on record is of 549 BC, when King Kang of Chu \"made a boat army and attacked Wu\" — and came home with nothing done. At Chang'an in 525 Chu captured the Yuhuang, the great ship of the king of Wu, and Prince Guang of Wu, the later King [[p:闔閭|Helü]], won it back in a night attack.\n\nWu used the sea as well as the rivers. In 485 BC Xu Cheng of Wu led a boat army against Qi by sea, the first seaborne expedition in the Chinese record. The year before, King [[p:夫差|Fuchai]] had had the Han canal dug to join the Yangzi and the Huai, so that men and grain could go north by boat.\n\nYue too was a land of boats. In 482 BC, while Fuchai was away at the meeting of Huangchi, King [[p:句践|Goujian]] of Yue sent one force by sea into the Huai to cut Wu's road home and fell on the capital of Wu with the rest. The men of Yue said of themselves, it is told, that they \"travel on water as others on hills, with the boat for a carriage and the oar for a horse\".\n\nLater books have [[p:伍子胥|Wu Zixu]] of Wu sort warships by likeness to chariots: great wing, small wing, rammer, tower ship, bridge ship. Bronzes of the Warring States show warboats of two decks, rowers below, men with halberds and bows above, a banner at the prow. The \"hook and fender\", for pulling an enemy boat in or holding it off, was made for Chu by Gongshu Pan, says the [[p:墨子|Mozi]]."
+   },
+   "year": 549,
+   "people": [
+    "闔閭|Helü",
+    "夫差|Fuchai",
+    "句践|Goujian",
+    "伍子胥|Wu Zixu"
+   ],
+   "related": [
+    "wuyue_foot",
+    "yue_junzi",
+    "hangou"
+   ],
+   "src": [
+    "zuo:襄公二十四年|Duke Xiang 24",
+    "zuo:昭公十七年|Duke Zhao 17",
+    "zuo:哀公十年|Duke Ai 10",
+    "guoyu:呉語|Discourses of Wu",
+    "mozi:魯問|Lu's Questions"
+   ],
+   "keepSrc": true
+  },
+  "wuyue_foot": {
+   "kind": "unit",
+   "title": {
+    "ja": "呉越の兵",
+    "en": "The fighting men of Wu and Yue"
+   },
+   "body": {
+    "ja": "呉と越の人は髪を短く切り、体に入れ墨をしていた (断髪文身)。水にもぐって魚を捕るとき、蛟竜 (みずち) の害を避けるためだという。冠をかぶり衣の裾を引く中原の人々からは、まったく別の世界の民に見えた。\n\n川と沼の多いこの地では戦車は使えず、戦いは歩兵と舟のものであった。武器は短い。呉と越は剣の名産地として知られ、越王[[p:句践]]の剣、呉王[[p:夫差]]の矛は、二千四百年を経た今も刃こぼれひとつなく残っている。素早く近づき、短い剣で斬り合うのが呉越の戦い方であった。\n\n中原の戦い方を呉に伝えたのは、楚から晋に亡命した[[p:巫臣]]である。前584年、巫臣は晋の使いとして呉に入り、戦車の御し方、弓の射方、陣の組み方を教え、子の狐庸を呉に残した。呉はこれより楚に背き、楚の将たちは一年に七度も呉の攻めに走り回らされた。\n\n呉の強さは速さにあった。前506年、呉王[[p:闔閭]]は[[p:孫武]]と[[p:伍子胥]]を用い、淮水の奥で舟を捨てて陸を進み、柏挙で楚の大軍を破って、五度戦って十日あまりで楚の都の郢に入った。越の兵もまた死を恐れないことで知られた。前496年の檇李の戦いでは、越王句践が罪人を三列に並べて呉の陣の前に進ませ、いっせいに自ら首をはねさせた。呉の兵がそれに目を奪われている隙に越軍が攻めかかり、闔閭はこのときの傷がもとで死んだ。",
+    "en": "The people of Wu and Yue cut their hair short and tattooed their bodies — to keep off the water-dragons, it was said, when they dived for fish. To the men of the central plain, in their caps and trailing robes, they seemed a people of another world.\n\nIn a land of rivers and marsh the chariot was no use, and war was a matter of foot and boats. The weapons were short. Wu and Yue were famous for swords: the sword of King [[p:句践|Goujian]] of Yue and the spear of King [[p:夫差|Fuchai]] of Wu survive unblemished after twenty-four centuries. To close fast and cut with the short sword was their way of fighting.\n\nThe ways of the central plain came to Wu through Wuchen, a man of Chu who had fled to Jin. In 584 BC he went to Wu as Jin's envoy, taught the men of Wu to drive chariots, to shoot and to form for battle, and left his son Huyong there. From then on Wu turned on Chu, and Chu's generals were sent hurrying to meet Wu seven times in one year.\n\nWu's strength was speed. In 506 BC King [[p:闔閭|Helü]], with [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], left his boats far up the Huai, marched overland, broke the great army of Chu at Boju and after five battles in little more than ten days was in Ying, the capital of Chu. The men of Yue were known for not fearing death: at Zuili in 496 King Goujian sent three ranks of condemned men before the Wu line, where they cut their own throats; while the men of Wu stared, Yue attacked, and Helü died of the wound he took that day."
+   },
+   "year": 584,
+   "people": [
+    "闔閭|Helü",
+    "句践|Goujian",
+    "夫差|Fuchai",
+    "孫武|Sun Wu",
+    "伍子胥|Wu Zixu"
+   ],
+   "related": [
+    "wuyue_swords",
+    "zhoushi",
+    "yue_junzi",
+    "chariot"
+   ],
+   "src": [
+    "zuo:成公七年|Duke Cheng 7",
+    "zuo:定公四年|Duke Ding 4",
+    "zuo:定公十四年|Duke Ding 14",
+    "shiji:呉太伯世家|House of Wu"
+   ],
+   "keepSrc": true
+  },
+  "yue_junzi": {
+   "kind": "unit",
+   "title": {
+    "ja": "越の君子軍",
+    "en": "The Gentlemen of Yue"
+   },
+   "body": {
+    "ja": "前494年、越王[[p:句践]]は夫椒で呉に大敗し、会稽の山に追い詰められて降った。句践は呉王の馬の世話までする辱めを受けたのち国に帰り、それから「十年のあいだ民を育て、十年のあいだ民を教えた」という。苦い胆を嘗めて恥を忘れまいとした話 (臥薪嘗胆) はこのときのことである。\n\n『国語』によれば、句践は民に子を産むことを勧め、男が二十歳、女が十七歳になっても結婚させない親を罰し、子が生まれれば酒と犬 (女の子なら豚) を与えた。自ら耕したものしか食べず、十年のあいだ民から税を取らなかった。国じゅうの民が「越王に仇を討たせてほしい」と願い出るまで、句践は兵を挙げなかった。\n\n前482年、呉王[[p:夫差]]が北の黄池で諸侯と会盟しているとき、句践はついに動いた。『史記』はその軍を「習流二千人、教士四万人、君子六千人、諸御千人」と記す。習流は水に慣れた兵 (あるいは罪人から選んだ兵) 、教士はよく訓練された兵、諸御は軍の役人である。\n\n君子六千人は王の身近に仕える精鋭であった。王が子のように養い、心をともにする兵という意味でこう呼ばれたとされる。前478年の笠沢の戦いでは、句践は夜に軍を左右に分けて川を渡らせ、太鼓を鳴らして呉軍を二つに引き裂いたうえで、音を立てずに川を渡った中軍の「私卒君子六千人」で呉の中央を突いた。呉軍は三度戦って三度敗れ、前473年に呉は滅んだ。",
+    "en": "In 494 BC King [[p:句践|Goujian]] of Yue was crushed by Wu at Fujiao, driven onto Mount Kuaiji and made to submit. After the shame of tending the king of Wu's horses he went home, and then, it is said, \"for ten years he bred his people and for ten years he taught them\". The tale of his tasting gall so as never to forget belongs here.\n\nAccording to the Discourses of the States he urged his people to have children, punished parents whose sons were unmarried at twenty or daughters at seventeen, and gave wine and a dog for a boy born, wine and a pig for a girl. He ate only what he had grown himself and took no tax for ten years. He did not march until the whole country begged him to let them avenge him.\n\nIn 482 BC, with King [[p:夫差|Fuchai]] of Wu far north at the meeting of Huangchi, he moved at last. The Shiji gives his army as \"two thousand xiliu, forty thousand trained soldiers, six thousand gentlemen and a thousand officers\". The xiliu were men used to the water (or picked from convicts), the \"trained soldiers\" his drilled levy.\n\nThe six thousand \"gentlemen\" were the picked troops about the king — so called, it is explained, because he reared them as his own sons and they were of one heart with him. At Lize in 478 BC Goujian sent his wings across the river by night with drums beating, pulled the army of Wu apart to meet them, and then struck its centre with \"his own men, the six thousand gentlemen\", who had crossed in silence. Wu fought three times and was beaten three times; in 473 it was gone."
+   },
+   "year": 482,
+   "people": [
+    "句践|Goujian",
+    "夫差|Fuchai"
+   ],
+   "related": [
+    "wuyue_foot",
+    "zhoushi",
+    "woxin"
+   ],
+   "src": [
+    "guoyu:越語上|Discourses of Yue I",
+    "guoyu:呉語|Discourses of Wu",
+    "shiji:越王句践世家|House of Goujian of Yue"
+   ],
+   "keepSrc": true
+  },
+  "han_nu": {
+   "kind": "unit",
+   "title": {
+    "ja": "韓の勁弩",
+    "en": "The strong crossbows of Han"
+   },
+   "body": {
+    "ja": "「天下の強弓・勁弩はみな韓より出ず。」前333年ごろ、合従を説く[[p:蘇秦]]は韓の宣王にこう語ったという。韓は七雄のなかで最も小さく、秦と魏と楚に囲まれていた。その韓が誇ったのが弩と剣であった。\n\n蘇秦は弩の名を挙げている。谿子、少府の時力、距来。どれも六百歩の外まで届く。「韓の兵が足を踏ん張って射れば、百発を続けて休むひまもない。遠い者は胸を貫き、近い者は心臓を射抜く。」足で弩を踏んで弦を引く「蹶張 (けっちょう)」の弩は、腕で引く弩よりはるかに強い。韓の兵はその使い手として知られた。\n\n剣と戟も良かった。蘇秦は冥山・棠谿・墨陽・合伯などの産地を並べ、「陸では牛馬を断ち、水では鵠や雁を斬り、敵に当たれば堅い甲も鉄の幕も斬る」と言う。韓の地は鉄を産し、宜陽や棠谿は鉄と兵器の作り場であった。\n\n「勇ましい韓の兵が、堅い甲を着け、勁い弩を踏み、利い剣を帯びれば、一人で百人に当たる。」蘇秦の言葉は遊説の士の誇張であり、『戦国策』の話そのものも後の人の作とする見方が強い。それでも、小国の韓が弩と鉄の兵器で知られていたことは、ほかの書物や出土した兵器からも確かめられる。韓はそれでも秦に削られ続け、前230年、七雄の最初に滅んだ。",
+    "en": "\"All the strong bows and powerful crossbows under heaven come from Han.\" So [[p:蘇秦|Su Qin]], urging the alliance against Qin, is said to have told King Xuan of Han about 333 BC. Han was the smallest of the seven states, hemmed in by Qin, Wei and Chu, and what it boasted of was its crossbows and its swords.\n\nHe names the crossbows — Xizi, the Shili of the royal workshop, Julai — all carrying beyond six hundred paces. \"When the soldiers of Han brace their feet and shoot, a hundred bolts follow one another without a pause; the far man is pierced through the breast, the near man through the heart.\" A crossbow spanned by standing on it draws far more than one drawn by the arms, and the men of Han were known for using such.\n\nIts swords and halberds were good too. Su Qin lists where they were made — Mingshan, Tangxi, Moyang, Hebo — blades that \"on land cut through ox and horse, on water through swan and goose, and in battle through hard armour and iron screens\". Han's land yielded iron, and Yiyang and Tangxi were places of ironworking and arms.\n\n\"A brave soldier of Han, in hard armour, treading a strong crossbow, a keen sword at his side, is a match for a hundred.\" This is a persuader's flourish, and many think the speeches in the Stratagems of the Warring States were written later. But other books and the weapons dug from the ground confirm that little Han was known for crossbows and iron arms. It was whittled away by Qin all the same, and in 230 BC was the first of the seven to fall."
+   },
+   "year": 333,
+   "related": [
+    "crossbow",
+    "iron_tools"
+   ],
+   "src": [
+    "zhanguoce:韓策一|Han 1",
+    "shiji:蘇秦列伝|Biography of Su Qin"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "yunti": {
+   "kind": "unit",
+   "title": {
+    "ja": "雲梯と城攻めの具",
+    "en": "The cloud ladder and the engines of siege"
+   },
+   "body": {
+    "ja": "春秋の戦いの多くは野での会戦であった。城を囲んでも、土を盛った壁を攻め落とすのは難しく、たいていは兵糧が尽きるのを待つか、盟を結んで引き揚げた。孫子は「城を攻めるのは最も下の策」と言い、櫓や車を作るのに三か月、土の山を築くのにさらに三か月かかると数えている。\n\n戦国に入ると城攻めの道具が次々に現れた。前445年ごろ、魯の工匠の[[p:公輸盤]] (魯班) は楚のために「雲梯」を作った。雲に届くほど高い、車に載せた折りたたみの梯子である。楚はこれで宋を攻めようとした。\n\nそれを聞いた[[p:墨子]]は、斉から十日十夜歩いて楚の都に着き、楚王の前で公輸盤と机の上の模擬戦をした。帯を解いて城に、木札を道具に見立てる。公輸盤は九度、攻め方を変えたが、墨子は九度とも防いだ。公輸盤の攻めの手は尽きたが、墨子の守りの手はまだ余っていた。公輸盤が「あなたを破る手を知っているが、言わない」と言うと、墨子は「私を殺すことでしょう。しかし弟子の禽滑釐ら三百人が、私の守りの道具を持ってすでに宋の城の上で待っています」と答えた。楚王は宋を攻めるのをやめた。\n\n『墨子』の「備城門」以下の篇は、世界で最も古い城の守りの手引きである。攻める側の十二の手 (臨・鉤・衝・梯・堙・水・穴・突・空洞・蟻傅・轒轀・軒車) を挙げ、それぞれの防ぎ方を記す。土の山を築いて城を見下ろす、車で門を突き破る、地下道を掘る、蟻のように壁を登る。守る側は、地下道に煙を吹き込み、甕を埋めて音で穴の向きを聞き、石を投げる機械「藉車」を並べる。\n\n城攻めは時間のかかる戦いになった。前284年に燕の[[p:楽毅]]が斉の七十余城を落としたとき、莒と即墨の二城だけは五年たっても落ちなかった。前259年からの邯鄲の囲みでは、秦の大軍が三年近く攻めても落とせず、城の中では人が互いの子を取り替えて食べたという。",
+    "en": "Most battles of the Spring and Autumn were fought in the open. A walled town of rammed earth was hard to storm; besiegers mostly waited for the food to run out, or swore a covenant and went home. \"To attack walls is the lowest course,\" says Sunzi, reckoning three months to build the towers and wagons and three more to raise the mounds.\n\nWith the Warring States the engines came. About 445 BC the craftsman Gongshu Pan of Lu — Lu Ban — made for Chu the \"cloud ladder\", a folding ladder on a wagon, tall enough to reach the clouds; and Chu meant to use it on Song.\n\n[[p:墨子|Mozi]] heard, walked ten days and ten nights from Qi to the capital of Chu, and before the king fought Gongshu Pan in a war game on a table: his belt for the wall, slips of wood for the engines. Nine times Gongshu Pan changed his attack and nine times Mozi stopped it; the one had no more attacks, the other still had defences. \"I know how to beat you,\" said Gongshu Pan, \"but I will not say it.\" \"By killing me,\" said Mozi. \"But my pupil Qin Guli and three hundred others are already on the walls of Song with my engines.\" The king called off the war.\n\nThe chapters of the Mozi from \"Preparing the Gates\" on are the oldest manual of fortress defence in the world. They list twelve ways to attack — the overlooking mound, the hook, the ram, the ladder, filling the moat, flooding, the mine, the sudden rush, the breach, the \"ant swarm\" up the walls, the covered wagon, the tower wagon — and how to meet each: smoke blown into the mines, jars sunk in the ground to hear which way the digging runs, rows of stone-throwing engines.\n\nSieges became long wars. When [[p:楽毅|Yue Yi]] of Yan took more than seventy towns of Qi in 284 BC, two, Ju and Jimo, were still holding five years later. At Handan from 259 BC the great army of Qin could not break in after nearly three years, and inside, it is said, people exchanged their children to eat."
+   },
+   "year": 445,
+   "people": [
+    "墨子|Mozi",
+    "楽毅|Yue Yi"
+   ],
+   "related": [
+    "mo",
+    "tuzu",
+    "crossbow"
+   ],
+   "src": [
+    "mozi:公輸|Gongshu",
+    "mozi:備城門|Preparing the Gates",
+    "sunzi:謀攻|Attack by Stratagem",
+    "shiji:楽毅列伝|Biography of Yue Yi"
+   ],
+   "keepSrc": true
+  },
+  "jiji": {
+   "kind": "unit",
+   "title": {
+    "ja": "斉の技撃",
+    "en": "The Skilled Strikers of Qi"
+   },
+   "body": {
+    "ja": "「斉の人は技撃を尊ぶ。」前3世紀の半ば、[[p:荀子]]は趙の[[p:孝成王]]の前で兵を論じ、三つの国の兵を比べた。斉の技撃、魏の武卒、秦の鋭士である。\n\n技撃とは、一人ひとりの打ち合いの技のことである。斉では、敵の首を一つ取った者に金を与えて罪をあがなわせたが、軍が勝っても全体への賞はなかった。荀子は言う。「だから小さな敵、もろい敵には使えても、大きな敵、堅い敵に当たれば散ってしまう。飛ぶ鳥のようなもので、いつひっくり返るか分からない。これは国を亡ぼす兵である。市で人を雇って戦わせるのと変わらない。」\n\n斉は海の塩と絹で富み、都の臨淄は七万戸を数えた。[[p:蘇秦]]は臨淄のにぎわいを「車の轂がぶつかり、人の肩がすれ合い、袂を連ねれば幕となり、汗をふるえば雨となる」と語り、民は笛や琴、闘鶏や犬の競走、蹴鞠を楽しんだという。腕に覚えのある者が銭で戦う技撃は、この豊かな商いの国の気風に合っていた。\n\n斉の兵が弱かったわけではない。前341年、[[p:孫臏]]は「斉の兵は臆病だと思われている」ことを逆手にとり、かまどの数を日ごとに減らして逃げる兵が多いと見せかけ、馬陵の狭い道で魏の[[p:龐涓]]を一万の弩で討ち取った。だが前284年、燕の[[p:楽毅]]が率いる五か国の軍に攻められると、斉は半年で七十余城を失った。荀子が見たのは、その後の斉である。",
+    "en": "\"The men of Qi prize skill in striking.\" About the middle of the third century BC [[p:荀子|Xunzi]], debating war before [[p:燕王喜|King Xi]]aocheng of Zhao, compared the soldiers of three states: the skilled strikers of Qi, the picked foot of Wei and the keen warriors of Qin.\n\nJiji is skill in single combat. In Qi a man who took a head was paid for it in gold, enough to buy off a penalty; but there was no reward for the army when it won. \"So they will do against a small or brittle enemy,\" says Xunzi, \"and scatter before a great or firm one — like birds in flight, apt to turn over at any moment. These are the soldiers of a state that will perish, no different from hiring men in the market to fight.\"\n\nQi was rich on sea salt and silk, and its capital Linzi counted seventy thousand households. [[p:蘇秦|Su Qin]] describes its streets — \"hubs knocking, shoulders rubbing; join their sleeves and they make a tent, shake off their sweat and it rains\" — and its people at their flutes and zithers, cockfights, dog races and football. Fighting for coin by men proud of their own skill suited this wealthy trading country.\n\nNot that Qi could not fight. In 341 BC [[p:孫臏|Sun Bin]] turned the belief that \"the men of Qi are cowards\" to account: he had fewer cooking fires lit each day to feign desertion, and in the narrow road at Maling shot down [[p:龐涓|Pang Juan]] of Wei with ten thousand crossbows. But when [[p:楽毅|Yue Yi]] of Yan led five states against it in 284, Qi lost more than seventy towns in half a year. The Qi Xunzi saw was the Qi after that."
+   },
+   "year": 255,
+   "related": [
+    "wuzu",
+    "ruishi",
+    "qi_salt",
+    "crossbow"
+   ],
+   "src": [
+    "xunzi:議兵|Debate on Warfare",
+    "zhanguoce:斉策一|Qi 1",
+    "shiji:孫子呉起列伝|Biographies of Sunzi and Wu Qi"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "ruishi": {
+   "kind": "unit",
+   "title": {
+    "ja": "秦の鋭士",
+    "en": "The Keen Warriors of Qin"
+   },
+   "body": {
+    "ja": "[[p:荀子]]は三つの国の兵を比べてこう結んだ。「斉の技撃は魏の武卒に当たることができず、魏の武卒は秦の鋭士に当たることができない。」\n\n秦の強さの理由を、荀子はこう説く。「秦の人は、民を養うのが貧しく厳しい。民を使うのがむごい。勢いで脅し、狭い暮らしに閉じこめ、賞で慣らし、刑で追い立てる。民が上から利を得ようとすれば、戦うよりほかに道がない。」敵の甲士の首を五つ取れば、五戸の民を従えることができた。「だから四代にわたって勝ち続けた。まぐれではない。そうなる訳があるのだ。」\n\nこの仕組みを作ったのが、前356年からの[[p:商鞅]]の変法である。爵位を二十の等級に分け、敵の首一つで一級を進める。爵が上がれば田と宅地が増え、下僕が付き、罪を犯しても軽くなる。王の一族であっても、戦の功がなければ名簿から外された。戦は、農民が身分を上げるただ一つの道になった。\n\n[[p:張儀]]は秦の兵をこう語った。「山東の兵は甲を着け冑をかぶって戦う。秦の兵は甲を脱ぎ捨て、はだしで肩をあらわにして敵に走り寄る。左手に首を提げ、右脇に生け捕りを抱えている。」鋭士は特別な一隊というより、こうして首を競う秦の兵そのものを指す言葉であった。\n\n荀子は秦を褒めたのではない。「これもまた賞と利を求める兵であり、人を雇い売り買いする道である。」礼と義で一つになった兵には及ばない、というのが荀子の考えであった。しかしその秦が、前221年に天下を一つにした。",
+    "en": "[[p:荀子|Xunzi]] ended his comparison of three states' soldiers so: \"The skilled strikers of Qi cannot stand against the picked foot of Wei, nor the picked foot of Wei against the keen warriors of Qin.\"\n\nHe gives the reason for Qin's strength. \"The men of Qin keep their people poor and hard, and use them harshly. They coerce them by power, pen them in want, tame them with rewards and drive them with punishments. A man of the people who wants gain from those above has no way to it but battle.\" Five heads of armoured men made a man master of five households. \"So they have won for four generations. It is not luck. There is a reason for it.\"\n\nThe system was made by the reforms of [[p:商鞅|Shang Yang]] from 356 BC. There were twenty ranks; one enemy head raised a man one rank, and with rank came more land and a bigger house plot, servants, and lighter punishment for his crimes. Even the king's kin were struck from the rolls if they had no merit in war. War became the farmer's one road upward.\n\n[[p:張儀|Zhang Yi]] described the soldiers of Qin: \"The men east of the mountains fight in armour and helmet. The men of Qin throw off their armour and rush the enemy barefoot and bare-shouldered, a head in the left hand and a live captive under the right arm.\" \"Keen warriors\" names not so much a special corps as the soldiers of Qin themselves, racing one another for heads.\n\nXunzi was not praising Qin. \"These too are soldiers who seek reward and gain: it is the way of hiring and of the market.\" They could not match, he held, an army made one by ritual and right. But it was Qin that made all under heaven one in 221 BC."
+   },
+   "year": 356,
+   "people": [
+    "商鞅|Shang Yang",
+    "張儀|Zhang Yi"
+   ],
+   "related": [
+    "qin_rank",
+    "shang_yang_reform",
+    "wuzu",
+    "jiji"
+   ],
+   "src": [
+    "xunzi:議兵|Debate on Warfare",
+    "shiji:商君列伝|Biography of Lord Shang",
+    "zhanguoce:韓策一|Han 1"
+   ],
+   "keepSrc": true
+  },
+  "zg_cavalry": {
+   "kind": "unit",
+   "title": {
+    "ja": "戦国の騎兵",
+    "en": "The cavalry of the Warring States"
+   },
+   "body": {
+    "ja": "中原の人が馬に直接またがって戦うようになったのは、戦国の半ばからである。それまで馬は車を引くものであった。鐙 (あぶみ) はまだなく、鞍も布や革を敷いた程度のもので、馬上で長い武器を振るって突き崩すことはできない。戦国の騎兵は、弓と剣を持つ軽い兵であった。\n\n前4世紀の[[p:孫臏]]は、騎兵の「十の利」を数えたと伝わる。敵の虚を突く、敵の兵糧の道を断つ、渡し場と関を押さえる、敗れて逃げる敵を追う、不意を襲う、遠くへ走って戻る。どれも速さを生かした働きで、正面から陣を破ることは入っていない。『六韜』は、平地では騎兵一人が歩卒八人に、険しい地では四人に当たるとし、戦車一乗は騎兵十人に当たるとする。\n\n遊説の士が挙げる数は、国ごとの違いをよく示している。[[p:蘇秦]]や[[p:張儀]]の言葉によれば、秦は「車千乗、騎万匹」、趙は「車千乗、騎万匹」、楚は「車千乗、騎万匹」、燕は「車六百乗、騎六千匹」、魏は「車六百乗、騎五千匹」。韓については騎兵の数を言わない。兵が数十万から百万と言われるなかで、騎兵は多くて一万、軍の数十分の一にすぎなかった。\n\nその少ない騎兵が勝ち負けを決めた戦いがある。前260年の長平で、秦の[[p:白起]]は負けたふりをして[[p:趙括]]の軍を陣の奥へ引き込み、二万五千の別働隊でその後ろを断ち、さらに五千の騎兵を趙軍と趙の陣地のあいだに割り込ませた。趙軍は二つに切られ、兵糧の道を失った。四十六日のあいだ食が絶え、趙括は討たれ、四十万が降ったという。\n\n趙の[[p:武霊王]]が前307年に取り入れた「胡服騎射」は、遊牧の民の服と馬上の弓をそのまま取り入れたもので、ここでいう騎兵とは成り立ちが違う。趙は北辺に騎射の兵を、ほかの国々は車と歩卒の軍のなかに少しずつ騎兵を持った。秦の兵馬俑の騎兵は、短い上着に長いズボン、革の長靴という胡服の姿で、鞍を置いた馬の手綱を引いて立っている。",
+    "en": "Men of the central plain took to fighting astride a horse only from the middle of the Warring States; until then the horse pulled a chariot. There were no stirrups yet, and the saddle was little more than a pad, so a rider could not charge home with a long weapon. The cavalry of the age were light troops with bow and sword.\n\n[[p:孫臏|Sun Bin]], in the fourth century BC, is credited with listing the \"ten advantages\" of cavalry: to strike where the enemy is empty, cut his supply road, seize fords and passes, pursue the beaten, fall on the unready, ride far and return. All are uses of speed; breaking a line head-on is not among them. The Six Secret Teachings reckon one rider worth eight foot on level ground and four on rough, and one chariot worth ten riders.\n\nThe figures the persuaders quote show how the states differed. By the accounts of [[p:蘇秦|Su Qin]] and [[p:張儀|Zhang Yi]], Qin had \"a thousand chariots and ten thousand horse\", Zhao the same, Chu the same, Yan \"six hundred chariots and six thousand horse\", Wei \"six hundred chariots and five thousand horse\"; of Han he gives no horse at all. Where armies were counted in hundreds of thousands, the cavalry were ten thousand at most — a few parts in a hundred.\n\nYet those few decided battles. At Changping in 260 BC [[p:白起|Bai Qi]] of Qin feigned defeat, drew [[p:趙括|Zhao Kuo]]'s army deep into his lines, cut in behind it with twenty-five thousand men, and drove five thousand horse between the Zhao army and its own camp. The army was cut in two and its supply road gone. After forty-six days without food Zhao Kuo was killed and four hundred thousand men, it is said, surrendered.\n\nThe \"barbarian dress and mounted archery\" [[p:武霊王|King Wuling]] of Zhao took up in 307 BC was the herders' own dress and horseback bow taken over whole, a different thing in origin from the cavalry spoken of here. Zhao kept mounted archers on its northern frontier; the other states kept a little cavalry within armies of chariots and foot. The riders of the terracotta army stand in the short coat, long trousers and boots of the barbarian dress, holding the reins of saddled horses."
+   },
+   "year": 300,
+   "people": [
+    "白起|Bai Qi"
+   ],
+   "related": [
+    "hufu",
+    "hu_qishe",
+    "chariot",
+    "tuzu"
+   ],
+   "src": [
+    "zhanguoce:趙策二|Zhao 2",
+    "zhanguoce:魏策一|Wei 1",
+    "liutao:均兵|Equivalent Forces",
+    "shiji:白起王翦列伝|Biographies of Bai Qi and Wang Jian",
+    "finds:秦始皇帝陵の兵馬俑|the terracotta army"
+   ],
+   "keepSrc": true
+  },
+  "baijin": {
+   "kind": "unit",
+   "title": {
+    "ja": "李牧の百金の士",
+    "en": "Li Mu's hundred-gold men"
+   },
+   "body": {
+    "ja": "[[p:李牧]]は趙の北辺、代と雁門を守る将であった。相手は匈奴である。李牧は役人を自分で置き、市の税をすべて陣に入れて兵の費えにあて、毎日牛を数頭つぶして兵に食べさせた。騎射を習わせ、のろし台を整え、間者を多く放った。\n\nそして兵にこう命じた。「匈奴が入ってきたら、すぐに家畜を収めて砦に入れ。捕らえようとする者は斬る。」匈奴が来るたびにのろしが上がり、兵は砦にこもって戦わない。数年のあいだ、失うものも得るものもなかった。匈奴は李牧を臆病者と見なし、趙の兵までがそう思った。趙王が責めても李牧は改めず、怒った王は将を替えた。\n\n新しい将は匈奴が来るたびに出て戦い、たびたび負けて多くを失い、辺境では耕すことも牧することもできなくなった。王はふたたび李牧を求めた。李牧は「前と同じやり方を許されるなら」と言って戻った。\n\n数年のち、毎日賞を受けながら使われない兵たちは、みな一戦を願うようになった。そこで李牧は選び抜いた。戦車千三百乗、騎兵一万三千匹、「百金の士」五万人、弓を引く者十万人。百金の士とは、敵を破れば百金の賞を受けるに値する勇士のことである。\n\n李牧は家畜と人を野いっぱいに放った。匈奴の小さな隊が入ってくると、負けたふりをして数千人を置き去りにした。これを聞いた単于は大軍を率いて入ってきた。李牧は多くの変わった陣を張り、左右の翼を広げて包み、匈奴の十余万騎を討った。襜襤を滅ぼし、東胡を破り、林胡を降した。単于は逃げ去り、その後十年あまり、匈奴は趙の辺境の城に近づこうとしなかった。\n\n李牧はのちに南へ回されて秦と戦い、前233年には肥下で秦軍を破って武安君に封じられた。だが前229年、秦の間者の金を受けた趙の寵臣[[p:郭開]]の讒言で李牧は斬られ、その三か月後に邯鄲は落ちた。",
+    "en": "[[p:李牧|Li Mu]] was Zhao's general on its northern frontier, at Dai and Yanmen, facing the Xiongnu. He appointed his own officers, put all the market dues into his camp for the soldiers' keep, and had several oxen killed every day to feed them. He had them practise shooting from horseback, kept the beacon towers in order and sent out many spies.\n\nAnd he gave this order: \"When the Xiongnu come in, gather the herds at once and get inside the forts. Any man who tries to take a prisoner will be beheaded.\" Each time they came the beacons went up and his men shut themselves in and did not fight. For years nothing was lost and nothing won. The Xiongnu took him for a coward, and so did his own men. The king of Zhao rebuked him; he did not change; the angry king replaced him.\n\nThe new general went out to fight whenever the Xiongnu came, was beaten again and again with great loss, and on the frontier there was no more ploughing or herding. The king asked for Li Mu again. \"Only if I may do as before,\" he said, and went back.\n\nSome years on, his soldiers — rewarded daily and never used — were all begging for one battle. Then he chose: thirteen hundred chariots, thirteen thousand horse, fifty thousand \"hundred-gold men\" and a hundred thousand archers. A hundred-gold man was a soldier brave enough to be worth a prize of a hundred pieces of gold for breaking the enemy.\n\nHe turned herds and people loose to cover the plain. When a small band of Xiongnu came in he feigned defeat and left several thousand men behind for them. The chanyu, hearing of it, came in with a great host. Li Mu drew up many strange formations, spread his wings to left and right, closed them, and killed more than a hundred thousand Xiongnu horsemen. He destroyed the Danlan, broke the Donghu and brought the Linhu to submit; the chanyu fled, and for more than ten years the Xiongnu dared not come near Zhao's frontier towns.\n\nLi Mu was later moved south against Qin, beat a Qin army at Feixia in 233 BC and was made Lord of Wu'an. But in 229, on the slander of [[p:郭開|Guo Kai]], a favourite of the king of Zhao in Qin's pay, he was beheaded; three months later Handan fell."
+   },
+   "year": 245,
+   "people": [
+    "李牧|Li Mu"
+   ],
+   "related": [
+    "hufu",
+    "hu_qishe",
+    "zg_cavalry",
+    "changcheng"
+   ],
+   "src": [
+    "shiji:廉頗藺相如列伝|Biographies of Lian Po and Lin Xiangru",
+    "shiji:匈奴列伝|Account of the Xiongnu"
+   ],
+   "keepSrc": true
+  },
+  "hu_qishe": {
+   "kind": "unit",
+   "title": {
+    "ja": "胡の騎射 (林胡・楼煩)",
+    "en": "The mounted archers of the Hu (Linhu and Loufan)"
+   },
+   "body": {
+    "ja": "趙と燕の北、今の内モンゴルから山西・河北の北の草原には、馬と羊を追って暮らす人々がいた。中原の人は彼らをまとめて「胡」と呼んだ。趙の北西にいたのが林胡と楼煩、燕の北にいたのが東胡である。\n\n『史記』は彼らの暮らしをこう記す。水と草を追って移り住み、城も決まった住まいも田もない。子どもは羊に乗って弓を引き、鳥や鼠を射る。少し大きくなれば狐や兎を射て食べる。男はみな弓を引くことができ、すべてが甲を着けた騎兵となる。遠くからは弓矢、近づけば刀と短い矛で戦う。勝てると見れば進み、不利と見れば退き、逃げることを恥としない。\n\n馬上から後ろへ振り向いて射ることさえできる彼らに、戦車と歩卒の軍は追いつけなかった。山と草原では戦車は進めず、歩卒は置き去りにされる。趙の[[p:武霊王]]はこれを見て、前307年に同じ服を着て同じように戦うことを決めた (胡服騎射)。\n\n武霊王は林胡を討って馬を献じさせ、西へ進んで楼煩の王と会い、その兵を趙の軍に入れた。趙は雲中・雁門・代の郡を置き、陰山のふもとに長城を築いた。楼煩の人は弓の上手として名高く、のちの楚と漢の戦いでも「楼煩」は射手の名として現れる。\n\n燕もまた東胡に苦しんだ。燕の将の秦開は人質として東胡にあり、その信を得て帰ると、東胡を襲って千里あまり退かせた。燕は造陽から襄平まで長城を築き、五つの郡を置いた。戦国の北の国々の長城は、こうして遊牧の騎射を防ぐために築かれ、のちに秦がそれをつないだ。",
+    "en": "North of Zhao and Yan, on the grasslands from today's Inner Mongolia to the north of Shanxi and Hebei, lived peoples who followed their horses and sheep. The men of the central plain called them all Hu. North-west of Zhao were the Linhu and the Loufan; north of Yan, the Donghu.\n\nThe Shiji describes their life: they move after water and grass and have no walled towns, fixed dwellings or fields. Their children ride sheep and draw the bow at birds and rats; a little older, they shoot foxes and hares for food. Every man can draw a bow and all are armoured horsemen. At a distance they use bow and arrow, at close quarters blade and short spear. They come on when they see advantage and fall back when they do not, and think no shame of flight.\n\nThey could even turn and shoot behind them from the saddle, and an army of chariots and foot could not catch them: on hill and steppe the chariot cannot go and the foot are left behind. Seeing it, [[p:武霊王|King Wuling]] of Zhao resolved in 307 BC to dress as they dressed and fight as they fought.\n\nHe attacked the Linhu and made them hand over horses, went west to meet the king of the Loufan and took his men into the Zhao army. Zhao set up the commanderies of Yunzhong, Yanmen and Dai and built a long wall along the foot of the Yin mountains. The Loufan were famous bowmen; in the later war of Chu and Han a \"Loufan\" is the word for a crack archer.\n\nYan suffered from the Donghu in the same way. Its general Qin Kai, once a hostage among them and trusted, came home, attacked them and drove them back more than a thousand li. Yan built a long wall from Zaoyang to Xiangping and set up five commanderies. The walls of the northern states were built so, against the mounted archers of the steppe, and Qin later joined them up."
+   },
+   "year": 307,
+   "people": [
+    "武霊王|King Wuling"
+   ],
+   "related": [
+    "hufu",
+    "zg_cavalry",
+    "baijin",
+    "changcheng"
+   ],
+   "src": [
+    "shiji:匈奴列伝|Account of the Xiongnu",
+    "shiji:趙世家|House of Zhao"
+   ],
+   "keepSrc": true
+  },
+  "rongdi_tu": {
+   "kind": "unit",
+   "title": {
+    "ja": "戎狄の徒兵",
+    "en": "The foot of the Rong and Di"
+   },
+   "body": {
+    "ja": "春秋の中原は、周の礼に従う国々だけの世界ではなかった。国と国のあいだの山や森には、戎 (じゅう)・狄 (てき) と呼ばれる人々が住んでいた。西の犬戎と驪戎、秦の北の義渠、燕の北の山戎、太行の山の赤狄と白狄、白狄の一派の鮮虞。前770年に周の都の鎬京を落として周を東へ移らせたのは、申と結んだ犬戎であった。\n\n彼らは戦車を使わず、歩いて戦った。前714年、北戎が鄭を攻めたとき、鄭の荘公は「彼らは徒 (歩兵)、こちらは車。追い越されるのが心配だ」と案じた。公子突はこう答えている。「戎は軽はずみでまとまりがなく、欲深くて譲り合わない。勝てば互いに譲らず、負ければ互いに救わない。弱い兵を見せて誘い、三か所に伏兵を置けば破れます。」そのとおりになった。\n\n狄は強かった。前660年、赤狄は衛を攻め、鶴を愛して民の心を失っていた衛の懿公を殺して、衛の都を滅ぼした。生き残った民は男女あわせて七百三十人であったという。邢も狄に追われ、斉の桓公が諸侯を率いて二つの国を移し建て直した。「尊王攘夷」の「攘夷」とは、このことである。\n\n晋はこれらの人々と戦い、また結んだ。晋の文公の母は狄の娘であり、文公は十二年を狄の地で過ごした。晋は前594年に赤狄の潞氏を、前593年に甲氏と留吁を滅ぼし、前541年には戦車を捨てて歩兵の陣で狄を破った。戎の地を取り込むにつれて、晋そのものも山の戦い方を身につけていった。\n\n戦国まで残ったのは二つである。鮮虞は中山国を建てて「千乗の国」と呼ばれ、前296年に趙に滅ぼされるまで続いた。義渠は城を築き王を名乗って秦と百年あまり争い、前272年ごろ、秦の[[p:宣太后]]が義渠の王を甘泉宮に誘い出して殺し、その地は秦の郡となった。",
+    "en": "The central plain of the Spring and Autumn was not a world of Zhou states only. In the hills and woods between them lived the peoples called Rong and Di: the Quanrong and Lirong in the west, the Yiqu north of Qin, the Mountain Rong north of Yan, the Red and White Di of the Taihang hills, and the Xianyu, a branch of the White Di. It was the Quanrong, leagued with Shen, who took the Zhou capital in 770 BC and drove the kings east.\n\nThey did not use chariots; they fought on foot. When the Northern Rong attacked Zheng in 714 BC Duke Zhuang worried: \"They are on foot and we are in chariots; I fear they will get round us.\" Prince Tu answered: \"The Rong are rash and disorderly, greedy and unyielding to one another. Winning, none gives way; losing, none helps another. Show them weak troops to lure them and set three ambushes, and they can be beaten.\" So it fell out.\n\nThe Di were strong. In 660 BC the Red Di attacked Wey, killed Duke Yi — who had lost his people's hearts through his love of cranes — and destroyed its capital; seven hundred and thirty men and women, it is said, were all that survived. Xing too was driven out, and Duke Huan of Qi led the lords to move and rebuild both states. That is the \"driving off the barbarians\" of the old slogan.\n\nJin fought these peoples and married among them. Duke Wen's mother was a woman of the Di, and he spent twelve years in their country. Jin destroyed the Lu clan of the Red Di in 594 BC and the Jia and Liuxu in 593, and in 541 left its chariots to beat the Di in columns of foot. As it took in their lands, Jin itself learned the war of the hills.\n\nTwo lasted into the Warring States. The Xianyu founded the state of Zhongshan, called \"a state of a thousand chariots\", which stood until Zhao destroyed it in 296 BC. The Yiqu built walls, called their chief a king and fought Qin for more than a century, until about 272 BC the [[p:宣太后|Queen Dowager Xuan]] of Qin lured their king to the Ganquan palace and had him killed; his land became commanderies of Qin."
+   },
+   "year": 714,
+   "people": [
+    "文公|Duke Wen",
+    "桓公|Duke Huan"
+   ],
+   "related": [
+    "jin_hang",
+    "chariot",
+    "hu_qishe"
+   ],
+   "src": [
+    "zuo:隠公九年|Duke Yin 9",
+    "zuo:閔公二年|Duke Min 2",
+    "zuo:昭公元年|Duke Zhao 1",
+    "shiji:匈奴列伝|Account of the Xiongnu"
+   ],
+   "keepSrc": true
+  },
+  "yi_archers": {
+   "kind": "unit",
+   "title": {
+    "ja": "東夷の兵",
+    "en": "The fighting men of the Eastern Yi"
+   },
+   "body": {
+    "ja": "山東の半島から淮水の流れにかけて、周の人が「夷 (い)」と呼ぶ人々が住んでいた。東の萊、南の淮夷、徐、舒、そして莒や邾も、もとはこの人々の国とされる。「夷」の字は「大」と「弓」から成る、と後漢の字書『説文解字』は説く。東の人は大きな弓を負う人、と見られていたのである。\n\n淮夷と徐は、周の初めから周と戦い続けた。西周の青銅器には、王が淮夷を討って捕虜と金 (銅) を得たことを記すものが多い。徐の偃王は仁義で三十六の国を従えたが、戦いを好まず、周と楚に攻められて国を失った、という伝えが残る。\n\n春秋に入ると、これらの国々は斉・魯・楚・呉に少しずつ呑まれていった。萊は牛馬をよく産する豊かな国であったが、前567年に斉に滅ぼされた。舒の国々は楚と呉のあいだで取り合いとなり、徐は前512年、呉が山をせき止めて水を注いだために降った。淮夷は前515年ごろまで呉とともに楚と戦っている。\n\n莒と邾は小さいながら長く残った。前550年、斉の荘公が莒の且于の門を襲ったとき、莒の兵は斉の勇士の杞梁を討ち取っている。杞梁の妻が夫の死を嘆いた話は、のちに「泣いて城を崩した孟姜女」の物語へと育った。\n\n彼らの戦い方について、記録は多くを語らない。川と沼の多い淮水の地では舟と歩兵が、山東の丘では弓と歩兵が主であったと考えられる。中原の国々と長く交わった莒や邾は、早くから戦車も持っていた。",
+    "en": "From the Shandong peninsula down to the Huai river lived peoples the Zhou called Yi: the Lai in the east, the Huai Yi, Xu and Shu to the south; Ju and Zhu too are counted as states of these peoples in origin. The character yi, says the Han dictionary Shuowen, is made of \"great\" and \"bow\": the men of the east were seen as the bearers of the great bow.\n\nThe Huai Yi and Xu fought the Zhou from the dynasty's beginning; many Western Zhou bronzes record a king's campaign against the Huai Yi and the captives and metal taken. Of [[p:宋王偃|King Yan]] of Xu the story runs that he won thirty-six states by kindness and right, had no taste for war, and lost his own when Zhou and Chu attacked him.\n\nIn the Spring and Autumn these states were swallowed bit by bit by Qi, Lu, Chu and Wu. Lai, rich in cattle and horses, was destroyed by Qi in 567 BC. The Shu states were fought over by Chu and Wu; Xu surrendered in 512 when Wu dammed a hill stream and flooded it. The Huai Yi were still fighting Chu alongside Wu about 515.\n\nJu and Zhu, though small, lasted long. When Duke Zhuang of Qi attacked the Juyu gate of Ju in 550 BC the men of Ju killed Qi Liang, a champion of Qi. The story of his wife's lament grew, over the centuries, into the tale of Lady Meng Jiang whose weeping brought down the wall.\n\nOf how they fought the records say little. On the rivers and marshes of the Huai it must have been boats and foot, in the Shandong hills bows and foot. Ju and Zhu, long in touch with the states of the plain, had chariots early."
+   },
+   "year": 567,
+   "related": [
+    "gong_she",
+    "chariot",
+    "zhoushi"
+   ],
+   "src": [
+    "zuo:襄公六年|Duke Xiang 6",
+    "zuo:襄公二十三年|Duke Xiang 23",
+    "zuo:昭公三十年|Duke Zhao 30",
+    "legend:説文解字|Shuowen jiezi"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "ba_warriors": {
+   "kind": "unit",
+   "title": {
+    "ja": "巴の兵",
+    "en": "The warriors of Ba"
+   },
+   "body": {
+    "ja": "巴は今の重慶のあたり、長江と嘉陵江の谷に住んだ人々の国である。西の成都の平野には蜀があった。どちらも高い山に隔てられ、中原の国々とは言葉も習わしも違っていた。\n\n巴の人は勇ましいことで知られた。後の『華陽国志』は、周の武王が殷を討ったとき、巴の兵が歌い舞いながら殷の陣に迫り、殷の兵は矛をさかさまにして降った、と伝える。「巴の師は勇鋭、歌舞してもって殷人を凌ぐ」。漢の時代に宮廷で舞われた「巴渝舞」は、矛と弩を持って舞う戦いの舞であった。\n\n春秋の記録に巴が現れるのは、楚とともに、あるいは楚に背いて戦うときである。前703年、巴は楚とともに鄧を攻めた。前676年には楚に背いて那処を攻め、翌年、楚の文王を津で破った。前611年には秦・楚とともに庸を滅ぼしている。\n\n巴と蜀の墓からは、独特の青銅の武器が出る。柳の葉の形をした、柄と刃を一つに鋳た短い剣。刃の付け根に虎や手、心臓の形の印を鋳込んだ戈。虎の形のつまみを持つ太鼓「虎鈕錞于」は、戦の合図に打ち鳴らした。舟の形の棺に葬られた者も多い。川の民であった。\n\n前316年、巴と蜀が争って互いに秦に助けを求めた。秦の[[p:恵文王]]は[[p:司馬錯]]の策をとり、険しい桟道を越えて蜀を滅ぼし、ついでに巴も取った。巴の勇士はその後も秦と漢の軍に加わった。漢の高祖が関中へ攻め戻ったとき、先鋒に立ったのは巴の地の賨人であったという。",
+    "en": "Ba was the country of a people living in the gorges of the Yangzi and the Jialing, about today's Chongqing; to the west, on the plain of Chengdu, was Shu. High mountains cut both off, and their speech and customs were not those of the central plain.\n\nThe men of Ba were famed for courage. The later Chronicles of Huayang say that when King Wu of Zhou marched on Shang the soldiers of Ba advanced on the Shang line singing and dancing, and the men of Shang turned their spears about and gave in: \"the host of Ba, brave and keen, overbore the men of Yin with song and dance.\" The Bayu dance performed at the Han court was a war dance with spear and crossbow.\n\nIn the records of the Spring and Autumn Ba appears fighting beside Chu or against it. In 703 BC it joined Chu against Deng. In 676 it turned on Chu and attacked Nachu, and the next year beat King Wen of Chu at Jin. In 611, with Qin and Chu, it destroyed Yong.\n\nThe tombs of Ba and Shu yield bronze arms of their own kind: short willow-leaf swords cast in one piece with their hilts; dagger-axes with signs of tigers, hands and hearts cast at the root of the blade; and the chunyu, a drum-bell with a tiger for its knob, beaten as a signal in battle. Many of the dead lie in coffins shaped like boats. They were river people.\n\nIn 316 BC Ba and Shu fell out and each asked Qin for help. [[p:恵文王|King Huiwen]] of Qin took [[p:司馬錯|Sima Cuo]]'s advice, crossed the plank roads, destroyed Shu and took Ba as well. The fighting men of Ba went on to serve in the armies of Qin and Han: when the founder of Han struck back into Guanzhong, the vanguard, it is said, were the Cong people of the land of Ba."
+   },
+   "year": 316,
+   "related": [
+    "ge_ji",
+    "man_warriors"
+   ],
+   "src": [
+    "zuo:桓公九年|Duke Huan 9",
+    "zuo:荘公十八年|Duke Zhuang 18",
+    "zuo:文公十六年|Duke Wen 16",
+    "legend:華陽国志 巴志|Chronicles of Huayang, Ba",
+    "finds:巴蜀の青銅器|the bronzes of Ba and Shu"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "man_warriors": {
+   "kind": "unit",
+   "title": {
+    "ja": "百濮・群蛮の兵",
+    "en": "The fighting men of the Pu and the Man"
+   },
+   "body": {
+    "ja": "楚の西と南、漢水の上流から長江の南の山々には、楚の人が「濮 (ぼく)」「蛮 (ばん)」と呼ぶ多くの小さな集まりがあった。数が多いので「百濮」「群蛮」という。一人の王のもとにまとまることはなく、村ごと、谷ごとに長がいた。\n\nそのなかで国の形を持っていたのが、今の湖北の竹山のあたりにあった庸である。前611年、楚が大きな飢えに苦しむと、庸は群蛮を率いて楚に背き、百濮も選の地に集まって楚を攻めようとした。楚の北の門は閉ざされ、都を移そうという話まで出た。\n\n楚の蔿賈は言った。「百濮は離れ離れに住んでいる。こちらが兵を出せば、それぞれ自分の村へ逃げ帰るだろう。」そのとおり、楚が兵を出すと十五日で百濮は散った。\n\n庸は手ごわかった。楚の先手は庸の兵に敗れ、将の子揚窗が捕らえられた。三晩ののちに逃げ帰った子揚窗は「庸の兵は多く、群蛮も集まっている」と告げた。楚の師叔は「もう一度戦って負けてみせ、驕らせよう」と言い、楚軍は七度戦って七度とも逃げた。庸の人は「楚は戦うに足りない」と備えを解いた。そこへ楚の荘王が早馬で前線に駆けつけ、軍を二手に分け、秦と巴の兵も加えて攻めた。群蛮は楚に従うと誓い、庸は滅んだ。即位して三年、何もしなかった荘王の最初の戦いであった。\n\n彼らの武器や戦い方を記録は語らない。山と森の民であり、投げ槍と弓、短い刀を持ち、険しい地に慣れた歩兵であったと考えられる。その後も楚は南へ広がるたびにこれらの人々を取り込み、楚の軍の一部としていった。",
+    "en": "West and south of Chu, from the upper Han river to the hills beyond the Yangzi, were many small communities the men of Chu called Pu and Man — so many that they spoke of the \"hundred Pu\" and the \"swarm of Man\". They never joined under one king; each village and valley had its headman.\n\nOne among them had the shape of a state: Yong, about Zhushan in today's Hubei. In 611 BC, when Chu was suffering a great famine, Yong led the Man in revolt and the hundred Pu gathered at Xuan to attack. The northern gates of Chu were shut, and there was talk of moving the capital.\n\nWei Jia of Chu said: \"The hundred Pu live scattered. If we march, each will run home to his own village.\" And so it was: Chu marched, and in fifteen days the Pu had dispersed.\n\nYong was harder. Chu's vanguard was beaten and its commander Ziyang Chuang taken; escaping after three nights he reported that \"the men of Yong are many, and the Man have gathered\". Shishu of Chu proposed to \"fight again and lose, to make them proud\", and the army of Chu fought seven times and ran seven times, until the men of Yong said Chu was not worth fighting and dropped their guard. Then King Zhuang rode post-haste to the front, split the army in two, added troops of Qin and Ba, and attacked. The Man swore to follow Chu, and Yong was destroyed. It was the first war of a king who had done nothing for the three years since he came to the throne.\n\nThe records say nothing of their arms or their way of fighting. They were people of hill and forest: foot used to rough ground, we may suppose, with javelin, bow and short blade. As Chu spread south it went on taking such peoples in, and they became part of its armies."
+   },
+   "year": 611,
+   "people": [
+    "荘王|King Zhuang"
+   ],
+   "related": [
+    "ba_warriors",
+    "chu_guang"
+   ],
+   "src": [
+    "zuo:文公十六年|Duke Wen 16"
+   ],
+   "keepSrc": true
   }
  },
  "goods": [
@@ -21765,5 +22267,465 @@
    33.5,
    117
   ]
+ ],
+ "arms": [
+  {
+   "art": "chariot",
+   "adopt": [
+    [
+     722,
+     "c:hua"
+    ],
+    [
+     722,
+     "chu"
+    ],
+    [
+     722,
+     "c:dongyi"
+    ],
+    [
+     584,
+     "wu"
+    ]
+   ],
+   "per": 100,
+   "crew": 3,
+   "unit": {
+    "ja": "乗",
+    "en": "chariots"
+   },
+   "over": [
+    [
+     722,
+     1
+    ],
+    [
+     540,
+     1
+    ],
+    [
+     400,
+     0.5
+    ],
+    [
+     300,
+     0.2
+    ],
+    [
+     221,
+     0.1
+    ]
+   ],
+   "glyph": "chariot",
+   "place": "wing"
+  },
+  {
+   "art": "chu_guang",
+   "adopt": [
+    [
+     597,
+     "chu",
+     "q"
+    ]
+   ],
+   "share": 0.02,
+   "max": 600,
+   "glyph": "chariot",
+   "place": "centre"
+  },
+  {
+   "art": "ge_ji",
+   "adopt": [
+    [
+     722,
+     "c:hua"
+    ],
+    [
+     722,
+     "c:chu"
+    ],
+    [
+     722,
+     "c:dongyi"
+    ],
+    [
+     722,
+     "c:wuyue"
+    ],
+    [
+     722,
+     "c:bashu"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "halberd",
+   "place": "centre"
+  },
+  {
+   "art": "gong_she",
+   "adopt": [
+    [
+     722,
+     "*"
+    ]
+   ],
+   "share": 0.08,
+   "glyph": "bow",
+   "place": "front"
+  },
+  {
+   "art": "jin_hang",
+   "adopt": [
+    [
+     632,
+     "jin"
+    ],
+    [
+     403,
+     "wei",
+     "q"
+    ],
+    [
+     403,
+     "zhao",
+     "q"
+    ],
+    [
+     403,
+     "han",
+     "q"
+    ]
+   ],
+   "share": 0.1,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "zhoushi",
+   "adopt": [
+    [
+     549,
+     "chu"
+    ],
+    [
+     525,
+     "wu"
+    ],
+    [
+     482,
+     "yue"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "boat",
+   "place": "rear"
+  },
+  {
+   "art": "yue_junzi",
+   "adopt": [
+    [
+     482,
+     "yue"
+    ]
+   ],
+   "share": 0.12,
+   "max": 6000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "crossbow",
+   "adopt": [
+    [
+     480,
+     "chu",
+     "q"
+    ],
+    [
+     400,
+     "wei",
+     "q"
+    ],
+    [
+     342,
+     "qi"
+    ],
+    [
+     300,
+     "qin",
+     "q"
+    ],
+    [
+     300,
+     "zhao",
+     "q"
+    ],
+    [
+     300,
+     "yan",
+     "q"
+    ]
+   ],
+   "share": 0.12,
+   "over": [
+    [
+     480,
+     0.5
+    ],
+    [
+     342,
+     1
+    ],
+    [
+     250,
+     1.5
+    ]
+   ],
+   "glyph": "crossbow",
+   "place": "front"
+  },
+  {
+   "art": "han_nu",
+   "adopt": [
+    [
+     333,
+     "han"
+    ]
+   ],
+   "share": 0.2,
+   "glyph": "crossbow",
+   "place": "front"
+  },
+  {
+   "art": "yunti",
+   "adopt": [
+    [
+     445,
+     "chu"
+    ],
+    [
+     400,
+     "c:hua",
+     "q"
+    ]
+   ],
+   "per": 6000,
+   "crew": 60,
+   "unit": {
+    "ja": "基",
+    "en": "engines"
+   },
+   "glyph": "siege",
+   "place": "rear"
+  },
+  {
+   "art": "wuzu",
+   "adopt": [
+    [
+     400,
+     "wei"
+    ]
+   ],
+   "share": 0.12,
+   "max": 50000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "jiji",
+   "adopt": [
+    [
+     380,
+     "qi",
+     "q"
+    ]
+   ],
+   "share": 0.12,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "ruishi",
+   "adopt": [
+    [
+     356,
+     "qin",
+     "q"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "hufu",
+   "adopt": [
+    [
+     307,
+     "zhao",
+     "q"
+    ]
+   ],
+   "share": 0.1,
+   "max": 13000,
+   "glyph": "horse_archer",
+   "place": "wing"
+  },
+  {
+   "art": "zg_cavalry",
+   "adopt": [
+    [
+     307,
+     "zhao",
+     "q"
+    ],
+    [
+     300,
+     "qin",
+     "q"
+    ],
+    [
+     300,
+     "qi",
+     "q"
+    ],
+    [
+     300,
+     "wei",
+     "q"
+    ],
+    [
+     300,
+     "chu",
+     "q"
+    ],
+    [
+     300,
+     "yan",
+     "q"
+    ],
+    [
+     300,
+     "han",
+     "q"
+    ]
+   ],
+   "share": 0.05,
+   "max": 10000,
+   "over": [
+    [
+     320,
+     0.6
+    ],
+    [
+     260,
+     1.2
+    ]
+   ],
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "baijin",
+   "adopt": [
+    [
+     245,
+     "zhao"
+    ]
+   ],
+   "share": 0.1,
+   "max": 50000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "hu_qishe",
+   "adopt": [
+    [
+     722,
+     "linhu"
+    ]
+   ],
+   "share": 0.7,
+   "glyph": "horse_archer",
+   "place": "wing"
+  },
+  {
+   "art": "tuzu",
+   "adopt": [
+    [
+     722,
+     "c:hua"
+    ],
+    [
+     722,
+     "c:chu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "wuyue_foot",
+   "adopt": [
+    [
+     722,
+     "c:wuyue"
+    ]
+   ],
+   "rest": true,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "rongdi_tu",
+   "adopt": [
+    [
+     722,
+     "c:rongdi"
+    ]
+   ],
+   "rest": true,
+   "glyph": "foot",
+   "place": "centre"
+  },
+  {
+   "art": "yi_archers",
+   "adopt": [
+    [
+     722,
+     "c:dongyi"
+    ]
+   ],
+   "rest": true,
+   "glyph": "bow",
+   "place": "centre"
+  },
+  {
+   "art": "ba_warriors",
+   "adopt": [
+    [
+     722,
+     "c:bashu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "man_warriors",
+   "adopt": [
+    [
+     722,
+     "c:pu"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  }
  ]
 }
