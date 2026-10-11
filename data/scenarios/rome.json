@@ -5554,6 +5554,722 @@
     "garum",
     "battle_ilipa"
    ]
+  },
+  "velites": {
+   "kind": "unit",
+   "title": {
+    "ja": "ウェリテス (軽装歩兵)",
+    "en": "The velites"
+   },
+   "body": {
+    "ja": "ウェリテスは、ローマの軍団の中で最も若く、最も貧しい兵である。ポリュビオスによれば、一つの軍団の歩兵四千二百人のうち、千二百人がウェリテスであった。\n\n持ち物は軽い。剣、数本の投げ槍、直径三フィートほどの丸い盾。甲は着けず、飾りのない兜をかぶる。その兜に狼の皮などをかぶせる者もいた。隊長が遠くからだれの働きかを見分けられるようにするためである。投げ槍は柄が指一本ほどの太さで、長さは二キュビットほど。穂先は細く長く打ち延ばしてあり、一度投げると曲がってしまうので、敵が拾って投げ返すことができない。\n\nウェリテスは自分たちだけの隊を持たず、ほかの三つの列のそれぞれに分けて付けられた。戦いが始まると軍団の前に散らばって出て、投げ槍を投げて敵の列を乱し、象や戦車をおどかす。敵が近づくと、列と列の隙間を通って後ろへ下がった。\n\n前211年、カプアを囲むローマ軍は、カンパニアの騎兵に手を焼いていた。百人隊長のクィントゥス・ナウィウスが一つの工夫を出した。身の軽い若い兵を選び、短い盾と七本の投げ槍を持たせ、騎兵の馬の後ろに一人ずつ乗せる。合図とともに飛び降りて、敵の騎兵に投げ槍を浴びせる。この手でローマは騎兵の戦いでも勝つようになった。リウィウスは、ウェリテスが軍団の中に置かれるようになったのはこのときからだと伝えている。\n\n前202年のザマでは、スキピオは象の突進に備えて、軍団の列の隙間を前から後ろまでまっすぐ通し、そこにウェリテスを置いた。象が来るとウェリテスは脇へよけ、あるいは隙間を走り抜け、象はそのまま通り道を抜けて後ろへ走り去った。",
+    "en": "The velites were the youngest and the poorest men of a Roman legion. Of its 4,200 foot, says Polybius, 1,200 were velites.\n\nThey were lightly equipped: a sword, several javelins and a round shield about three feet across. They wore no armour, only a plain helmet — sometimes covered with a wolf's skin or the like, so that their officers could tell from a distance who was doing well. The javelin had a shaft a finger thick and about two cubits long, with a head hammered out so thin and long that it bent on the first throw, and the enemy could not throw it back.\n\nThey had no units of their own but were shared out among the three lines. When battle opened they went forward in a swarm before the legion, threw their javelins to disorder the enemy's ranks and to frighten elephants and chariots, and fell back through the gaps between the units when the enemy closed.\n\nIn 211 BC the Romans besieging Capua were being worsted by the Campanian horse. A centurion, Quintus Navius, had an idea: pick nimble young men, give each a short shield and seven javelins, and mount one behind every cavalryman. At the signal they jumped down and showered the enemy horse with javelins. With that the Romans began to win the cavalry fights too. Livy says it was from this time that the velites had their place in the legion.\n\nAt Zama in 202 BC Scipio, against the charge of the elephants, lined up the gaps in his legions straight from front to rear and filled them with velites. When the elephants came the velites stepped aside or ran back down the lanes, and the beasts went straight through and out at the rear."
+   },
+   "year": 211,
+   "people": [
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
+   ],
+   "related": [
+    "legion",
+    "hastati",
+    "principes",
+    "triarii",
+    "war_elephants",
+    "campanian_horse"
+   ],
+   "src": [
+    "polybius:第6巻21-22章|book 6, 21-22",
+    "livy:第26巻4章|book 26, 4",
+    "polybius:第15巻9章|book 15, 9"
+   ],
+   "keepSrc": true
+  },
+  "hastati": {
+   "kind": "unit",
+   "title": {
+    "ja": "ハスタティ (第一列)",
+    "en": "The hastati"
+   },
+   "body": {
+    "ja": "ハスタティは軍団の重装歩兵の第一列である。ウェリテスの次に若い兵たちで、一つの軍団に千二百人。十の「マニプルス」(中隊) に分かれ、一つのマニプルスは百二十人、二人の百人隊長が率いる。\n\n名は「槍 (ハスタ) を持つ者」の意だが、[[p:ハンニバル]]の時代には槍ではなく、投げ槍と剣で戦った。大きな楕円の盾 (スクトゥム) は幅二フィート半、高さ四フィート。板を二枚重ねて膠で貼り、布と牛の皮で覆い、縁と中央に鉄を打ってある。兜は青銅で、紫か黒の羽根を三本立てる。胸には一スパン四方の青銅の板を当てる。財産の多い者は鎖を編んだ甲を着た。\n\n投げ槍 (ピルム) は二本持つ。重いものと軽いもの。木の柄に長い鉄の首が付き、先に小さな穂がある。投げれば盾を貫き、鉄の首が曲がって抜けなくなる。盾に重い槍をぶら下げたままでは戦えないので、敵は盾を捨てるしかない。\n\nそして剣である。ローマ兵は「イベリアの剣」と呼ばれる剣を右の腰に吊った。刃は両側に付き、切っ先は鋭く、突いても斬っても役に立つ。ガリア人の長い剣が振り回すための剣であるのに対し、ローマの剣は盾の陰から突くための剣であった。\n\n戦いでは、ハスタティが最初にぶつかる。ピルムを投げ、叫び声をあげて剣で突き入る。押し切れなければ、後ろのプリンキペスの列の隙間へ下がり、新手と入れ替わる。カンナエでハンニバルが利用したのは、この前へ前へと押す力であった。ローマの歩兵は中央のガリア兵とイベリア兵を押し込み、押し込むほど深く袋の中へ入っていった。",
+    "en": "The hastati were the first line of a legion's heavy foot: the youngest men after the velites, 1,200 to a legion, in ten maniples of 120 under two centurions each.\n\nThe name means \"spearmen\", but by [[p:ハンニバル|Hannibal]]'s day they fought with javelin and sword. The great oval shield, the scutum, was two and a half feet wide and four high, made of two layers of board glued together, covered with canvas and calfskin, with iron on its rim and at its boss. The helmet was bronze, with three upright purple or black feathers. On the breast was a bronze plate a span square; men of means wore a shirt of mail.\n\nEach carried two pila, a heavy and a light: a wooden shaft, a long iron shank, a small head. Thrown, it went through a shield, and the shank bent so that it could not be pulled out. A man cannot fight with a heavy javelin hanging from his shield, and had to throw the shield away.\n\nThen the sword. The Roman wore on his right hip what was called the Spanish sword: two-edged, sharp-pointed, good for the thrust and the cut. The long Gallic sword was a slashing weapon; the Roman one was for stabbing from behind the shield.\n\nIn battle the hastati struck first: they threw their pila, raised a shout and went in with the sword. If they could not break the enemy they fell back through the gaps of the principes behind, and fresh men took their place. It was this steady pressure forward that Hannibal turned to account at Cannae: the Roman foot pushed in his centre of Gauls and Iberians, and the further they pushed the deeper they were in the bag."
+   },
+   "year": 216,
+   "related": [
+    "legion",
+    "principes",
+    "triarii",
+    "velites",
+    "gladius"
+   ],
+   "src": [
+    "polybius:第6巻23章|book 6, 23",
+    "polybius:第3巻113-116章|book 3, 113-116"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "principes": {
+   "kind": "unit",
+   "title": {
+    "ja": "プリンキペス (第二列)",
+    "en": "The principes"
+   },
+   "body": {
+    "ja": "プリンキペスは軍団の第二列である。「第一の者たち」という名だが、[[p:ハンニバル]]の時代には二番目の列に立った。年は二十代の終わりから三十代、兵として最も力のある盛りの男たちである。一つの軍団に千二百人、十のマニプルス。\n\n装備はハスタティと同じである。大きな盾、二本のピルム、イベリアの剣、青銅の兜、胸当てか鎖の甲。違うのは年と経験だけであった。\n\nローマの陣の要は、列と列の入れ替えにある。三つの列のマニプルスは、市松模様に並ぶ。第一列のマニプルスとマニプルスの間には隊一つ分の隙間があり、その隙間の後ろに第二列のマニプルスが立つ。第一列が疲れれば隙間を通って下がり、第二列が前に出る。敵から見れば、倒しても倒しても新しい兵が現れることになる。\n\nポリュビオスは、この並びをマケドニアのファランクスと比べている。ファランクスは一つにまとまって正面へ押すときだけ強い。ローマ兵は一人ひとりが盾と剣でどの方向にも戦え、隊は地形に合わせて別々に動ける。だからローマの陣は、平らでない地でも、敵が横から来ても崩れない。\n\n前207年のメタウルス川で、ローマの右翼を率いていた執政官ネロは、目の前の崖に阻まれて敵に届かなかった。ネロは後ろの列の隊を引き抜き、味方の陣の後ろをぐるりと回って左翼の端へ出て、ハスドルバルの軍の横を突いた。列を分けて動かせるローマの軍だからできた動きである。前202年のザマでは、スキピオはハスタティが押しとどめている間に、プリンキペスとトリアリイを左右へ伸ばして一つの長い列にし、ハンニバルの古参兵に当たらせた。",
+    "en": "The principes were the second line of a legion. The name means \"the first men\", but in [[p:ハンニバル|Hannibal]]'s day they stood second: men in their late twenties and thirties, at the height of their strength as soldiers; 1,200 to a legion, in ten maniples.\n\nTheir equipment was that of the hastati: the great shield, two pila, the Spanish sword, bronze helmet, breastplate or mail. Only age and experience were different.\n\nThe heart of the Roman array was the relief of one line by another. The maniples of the three lines stood chequerwise: between the maniples of the first line were gaps a maniple wide, and behind each gap stood a maniple of the second. When the first line tired it fell back through the gaps and the second came forward. To the enemy it meant that however many he cut down, fresh men kept appearing.\n\nPolybius sets this array against the Macedonian phalanx. The phalanx is strong only when it presses forward as one mass. Each Roman, with shield and sword, can fight in any direction, and each unit can move by itself as the ground requires; so the Roman line holds on broken ground and against attack from the side.\n\nOn the Metaurus in 207 BC the consul Nero, commanding the Roman right, could not get at the enemy for a ravine in front of him. He drew units out of the rear lines, marched them right round behind his own army to the far end of the left, and took Hasdrubal's army in flank — a thing only an army that could move by its parts could do. At Zama in 202 Scipio, while the hastati held, extended his principes and triarii to left and right into one long line to meet Hannibal's veterans."
+   },
+   "year": 207,
+   "people": [
+    "ガイウス・クラウディウス・ネロ|Gaius Claudius Nero",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
+    "ハスドルバル・バルカ|Hasdrubal Barca"
+   ],
+   "related": [
+    "legion",
+    "hastati",
+    "triarii",
+    "phalanx",
+    "gladius"
+   ],
+   "src": [
+    "polybius:第6巻23章|book 6, 23",
+    "polybius:第18巻28-32章|book 18, 28-32",
+    "polybius:第11巻1章|book 11, 1",
+    "polybius:第15巻14章|book 15, 14"
+   ],
+   "keepSrc": true
+  },
+  "triarii": {
+   "kind": "unit",
+   "title": {
+    "ja": "トリアリイ (第三列)",
+    "en": "The triarii"
+   },
+   "body": {
+    "ja": "トリアリイは軍団の第三列、最も年長の古参兵たちである。一つの軍団に六百人。ほかの列のマニプルスが百二十人であるのに対し、トリアリイのマニプルスは六十人で、軍団の人数が増えてもこの数は変わらなかった。\n\n盾と剣と甲はほかの列と同じだが、ピルムの代わりに長い突き槍 (ハスタ) を持つ。ギリシアの重装歩兵に近い、古い戦い方を残した兵であった。\n\n戦いの間、トリアリイは最も後ろで片膝をつき、盾を肩にもたせかけ、槍を斜め前に突き立てて待つ。前の二つの列が勝てば、トリアリイは戦わずに終わる。二つの列がともに破れたとき、はじめてトリアリイが立ち上がり、下がってくる味方を隙間に通してから列を詰め、隙間のない槍の壁となって敵を迎える。\n\nここから「事はトリアリイに至った」という言い回しが生まれた。もう後がない、最後の手段に頼るしかない、という意味である。\n\n陣営を守るのもトリアリイの役目であった。ローマ軍は毎日、行軍のあとに堀と土塁で囲んだ陣営を築く。会戦の日、トリアリイの一部は陣営に残った。前216年のカンナエでは一万人が陣営に残され、会戦のあとで[[p:ハンニバル]]に降っている。\n\nポリュビオスは、ローマの軍がなぜ強いかを論じて、こう書いた。ローマ兵は陣を崩されても、一人でも、一隊でも戦い続ける。負けを知らない、ということが彼らの強さである、と。トリアリイは、その粘りを形にした列であった。",
+    "en": "The triarii were the third line of a legion, its oldest veterans: six hundred to a legion. Where the maniples of the other lines were 120 strong, those of the triarii were sixty, and that number did not change even when a legion was enlarged.\n\nShield, sword and armour were as in the other lines, but instead of pila they carried a long thrusting spear, the hasta. They kept an older way of fighting, close to that of the Greek hoplite.\n\nDuring a battle the triarii waited at the rear, down on one knee, shield against the shoulder, spear planted slanting forward. If the first two lines won, they never fought. Only when both were beaten did the triarii rise, let their retreating comrades through the gaps, close up, and meet the enemy as an unbroken wall of spears.\n\nHence the saying \"it has come to the triarii\": there is nothing behind us, we are down to the last resort.\n\nGuarding the camp was their work too. A Roman army built a camp with ditch and rampart at the end of every day's march, and on the day of battle part of the triarii stayed in it. At Cannae in 216 BC ten thousand men were left in camp, and surrendered to [[p:ハンニバル|Hannibal]] after the battle.\n\nDiscussing why Roman armies win, Polybius wrote that the Roman soldier, his line broken, goes on fighting, alone or in his unit: that they do not know they are beaten is their strength. The triarii were that stubbornness given a place in the line."
+   },
+   "year": 216,
+   "related": [
+    "legion",
+    "hastati",
+    "principes",
+    "velites"
+   ],
+   "src": [
+    "polybius:第6巻21-23章|book 6, 21-23",
+    "livy:第8巻8章|book 8, 8",
+    "polybius:第3巻117章|book 3, 117"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "equites": {
+   "kind": "unit",
+   "title": {
+    "ja": "ローマの騎兵 (エクィテス)",
+    "en": "The Roman horse"
+   },
+   "body": {
+    "ja": "ローマの騎兵は、財産の最も多い市民から選ばれた。馬を養う余裕のある者たちである。一つの軍団に三百騎。三十騎ずつの十の隊 (トゥルマ) に分かれ、一隊を三人の十人隊長が率いる。\n\nポリュビオスによれば、昔のローマの騎兵は甲を着けず、腰布だけで戦った。馬に飛び乗り飛び降りるには身軽でよいが、打ち合いには向かない。槍は細くてしなり、狙いが定まらず、振動だけで折れた。盾は牛の皮で、雨に濡れると役に立たなくなった。そこでローマ人はギリシアの騎兵の装備をそっくり取り入れた。丈夫な槍は石突きにも刃があって折れても使え、盾は堅い。「良いものを見れば真似ることにかけて、ローマ人ほど素早い民はない」とポリュビオスは書いている。\n\nそれでも数は足りなかった。同盟市が出す騎兵はローマの三倍とされたが、合わせても一つの執政官の軍で二千四百騎ほどである。[[p:ハンニバル]]はイタリアに六千の騎兵を連れて入り、ガリア人を加えてカンナエでは一万騎を並べた。対するローマは六千騎。\n\nカンナエで、ローマ市民の騎兵は右の翼、川沿いの狭い場所に置かれた。そこへイベリアとガリアの重い騎兵がぶつかってきた。場所が狭くて馬を回せない。兵たちは馬から飛び降り、組み合って戦った。ローマの騎兵は押しつぶされ、川沿いに追われて斬られた。勝った騎兵はローマ軍の後ろを回り、もう一方の翼の同盟市の騎兵を後ろから襲い、最後にローマの歩兵の背中に取りついた。\n\nこの負けの後、ローマは騎兵を他国に求めた。前206年、スキピオはヌミディアの王子[[p:マシニッサ]]を味方に付ける。前202年のザマで、ローマの騎兵を率いたのはラエリウス、もう一方の翼はマシニッサのヌミディア騎兵であった。カンナエとは逆に、今度は騎兵で勝るローマがハンニバルの歩兵の背中を突いた。",
+    "en": "The Roman cavalry was drawn from the wealthiest citizens, the men who could afford to keep a horse: three hundred to a legion, in ten troops of thirty, each under three decurions.\n\nIn the old days, says Polybius, the Roman horseman wore no armour and fought in a loincloth: handy for leaping on and off his horse, useless in a mêlée. His lance was thin and whippy, could not be aimed, and snapped from mere vibration; his shield was of oxhide and useless once wet. So the Romans took over the Greek horseman's equipment entire: a stout lance with a spike at the butt, still usable if it broke, and a firm shield. \"No people are quicker than the Romans to copy what they see is better,\" he writes.\n\nEven so there were too few. The allies were to furnish three times the Roman horse, but a consul's army still had only some 2,400. [[p:ハンニバル|Hannibal]] brought six thousand horse into Italy and, with the Gauls, lined up ten thousand at Cannae. Rome had six thousand.\n\nAt Cannae the citizen cavalry stood on the right, in a narrow space by the river, and the heavy horse of the Iberians and Gauls came straight at them. There was no room to wheel. Men jumped down and fought on foot, hand to hand. The Roman horse was crushed, driven along the river and cut down. The victors rode round behind the Roman army, took the allied horse on the other wing from the rear, and at last fastened on the backs of the Roman foot.\n\nAfter that defeat Rome looked abroad for horsemen. In 206 BC Scipio won over the Numidian prince [[p:マシニッサ|Masinissa]]. At Zama in 202 Laelius led the Roman horse on one wing and Masinissa's Numidians held the other. Cannae was turned about: this time it was Rome, stronger in cavalry, that struck Hannibal's foot from behind."
+   },
+   "year": 216,
+   "people": [
+    "ハンニバル|Hannibal",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
+    "マシニッサ|Masinissa",
+    "ガイウス・ラエリウス|Gaius Laelius"
+   ],
+   "related": [
+    "legion",
+    "numidian",
+    "punic_horse",
+    "campanian_horse"
+   ],
+   "src": [
+    "polybius:第6巻25章|book 6, 25",
+    "polybius:第3巻113-117章|book 3, 113-117",
+    "polybius:第15巻12-14章|book 15, 12-14"
+   ],
+   "keepSrc": true
+  },
+  "socii": {
+   "kind": "unit",
+   "title": {
+    "ja": "同盟市の兵 (ソキイ)",
+    "en": "The allies"
+   },
+   "body": {
+    "ja": "ローマの軍の半分以上は、ローマ市民ではなかった。イタリアの町々と部族は、それぞれローマと条約を結び、求められただけの兵を出す務めを負っていた。ラテン人の植民市、エトルリア人、ウンブリア人、サムニウム人、カンパニア人、南のギリシア人の町々。これらを「同盟者 (ソキイ)」という。\n\nポリュビオスによれば、同盟市が出す歩兵はローマの軍団と同じ数、騎兵は三倍である。同盟市の兵はローマの軍団の左右の翼に置かれたので、その部隊は「翼 (アラ)」と呼ばれた。一つのアラを、執政官が任じた六人のローマ人の長が率いる。同盟市の兵のうち、騎兵の三分の一と歩兵の五分の一は「選り抜き (エクストラオルディナリイ)」として分けられ、執政官のそばに置かれた。\n\n装備と戦い方はローマの軍団とほぼ同じであった。給料は自分の町から受け、食糧はローマが与える。戦利品は分け合うが、取った土地はローマのものになる。\n\n前225年、ガリア人の大軍が攻め込んだとき、ローマは同盟市に兵役に就ける男の名簿を出させた。ポリュビオスはその数を書き残している。ローマと同盟市を合わせて、歩兵七十万、騎兵七万。[[p:ハンニバル]]が二万六千の兵でアルプスを下りたとき、相手はこの数であった。\n\nハンニバルの狙いは、この同盟を崩すことにあった。トラシメヌスでもカンナエでも、ハンニバルはローマ市民の捕虜を鎖につなぎ、同盟市の捕虜は身代金なしで帰した。「わたしはイタリア人と戦いに来たのではない。イタリア人の自由のために、ローマと戦いに来たのだ。」カンナエの後、カプアと南イタリアの多くが離れた。だがラテン人の植民市と中部イタリアは動かなかった。\n\n前209年、三十のラテン植民市のうち十二が「もう兵も金も出せない」と告げた。元老院は震えた。残る十八の町は、求められた以上の兵を出すと答えた。ローマが十七年の戦いを耐え抜けたのは、この町々がいたからである。",
+    "en": "More than half of a Roman army were not Roman citizens. The towns and peoples of Italy each had a treaty with Rome and owed as many soldiers as were asked: Latin colonies, Etruscans, Umbrians, Samnites, Campanians, the Greek cities of the south. These were the socii, the allies.\n\nAccording to Polybius the allies furnished as many foot as the Roman legions and three times the horse. They were posted on the wings of the legions, and so their contingents were called alae, \"wings\", each under six Roman prefects named by the consul. A third of the allied horse and a fifth of the foot were set apart as the extraordinarii, the picked men, and kept by the consul.\n\nTheir equipment and way of fighting were much as the legions'. Their own towns paid them; Rome fed them. Booty was shared, but land taken became Rome's.\n\nIn 225 BC, when a great host of Gauls invaded, Rome had the allies send in lists of their men of military age. Polybius records the total: Romans and allies together, seven hundred thousand foot and seventy thousand horse. That was what [[p:ハンニバル|Hannibal]] faced when he came down from the Alps with twenty-six thousand men.\n\nHannibal's aim was to break that alliance. After Trasimene and after Cannae he kept his Roman prisoners in chains and sent the allied prisoners home without ransom. \"I have not come to fight Italians. I have come to fight Rome for the freedom of the Italians.\" After Cannae, Capua and much of the south went over. But the Latin colonies and central Italy did not move.\n\nIn 209 BC twelve of the thirty Latin colonies declared they could give no more men or money. The Senate was shaken. The other eighteen answered that they would give more than was asked. That Rome came through seventeen years of war it owed to those towns."
+   },
+   "year": 225,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "legion",
+    "hastati",
+    "equites",
+    "oscan_foot",
+    "campanian_horse"
+   ],
+   "src": [
+    "polybius:第6巻21章・26章|book 6, 21 and 26",
+    "polybius:第2巻24章|book 2, 24",
+    "polybius:第3巻77章・85章|book 3, 77 and 85",
+    "livy:第27巻9-10章|book 27, 9-10"
+   ],
+   "keepSrc": true
+  },
+  "quinquereme": {
+   "kind": "unit",
+   "title": {
+    "ja": "五段櫂船と艦隊",
+    "en": "The quinquereme and the fleets"
+   },
+   "body": {
+    "ja": "前3世紀の地中海の海戦の主役は「五段櫂船 (ごだんかいせん)」である。ギリシア語でペンテレス、ラテン語でクィンクェレミス。「五」は櫂の段の数ではなく、縦に並ぶ漕ぎ手の組が五人であることを指すと考えられている。三段の櫂を、上の二段は二人ずつ、下の一段は一人で漕ぐ。\n\nポリュビオスによれば、一隻に漕ぎ手三百人、戦う兵百二十人が乗った。舳先の水面の下には青銅を被せた衝角が突き出ている。敵の船の横腹に突き当てて穴を開けるか、すれ違いざまに櫂をへし折る。あるいは横付けして兵が乗り移る。\n\nローマはもともと海の国ではなかった。前264年に始まったカルタゴとの最初の戦争で、ローマは浜に乗り上げたカルタゴの五段櫂船を手本にして、六十日で百隻を造ったという。漕ぎ手は陸に据えた腰掛けの上で櫂の動かし方を習った。操船ではかなわないので、舳先に「カラス」と呼ぶ跳ね橋を付けた。敵の船に落とすと鉄の爪が甲板に食い込み、兵が渡って斬り込む。海の戦いを陸の戦いに変えたのである。\n\nその戦争に勝ったローマは、海を押さえた。前218年、ローマには五段櫂船が二百二十隻あった。[[p:ハンニバル]]が海を渡らず、アルプスを越える長い陸の道を選んだのは、このためである。カルタゴ本国はイタリアのハンニバルにまとまった援軍を送ることができなかった。\n\n前217年、[[p:グナエウス・スキピオ]]はマッサリアの船とともに三十五隻でエブロ川の河口のカルタゴ艦隊を襲い、二十五隻を奪った。イベリアの海もローマのものになった。前204年、スキピオは軍船四十隻と輸送船四百隻でアフリカへ渡った。\n\n前201年の講和で、カルタゴは十隻を残してすべての軍船を引き渡すことになった。スキピオは五百隻の船を沖へ引き出させ、火を放った。リウィウスは、その炎を見たカルタゴの人々は、町そのものが燃えるのを見るように嘆いたと伝えている。",
+    "en": "The ship that decided sea battles in the third century BC was the quinquereme — penteres in Greek. The \"five\" is thought to mean not five banks of oars but five rowers in each vertical group: three levels of oars, two men to each oar of the upper two and one to the lowest.\n\nBy Polybius' account a ship carried three hundred rowers and a hundred and twenty fighting men. Below the waterline at the bow was a bronze-sheathed ram, to hole an enemy in the side or shear off his oars in passing; or a ship laid alongside and boarded.\n\nRome was no sea power to begin with. In its first war with Carthage, from 264 BC, it is said to have built a hundred quinqueremes in sixty days on the model of a Carthaginian ship run aground, while the crews learned their stroke on benches set up on land. Unable to match the enemy's seamanship, they fitted a boarding bridge at the bow, the \"raven\": dropped onto an enemy deck, its iron spike bit, and the soldiers crossed. A sea fight became a land fight.\n\nHaving won that war, Rome held the sea. In 218 BC it had two hundred and twenty quinqueremes. That is why [[p:ハンニバル|Hannibal]] did not cross by sea but took the long land road over the Alps, and why Carthage could never send him a proper reinforcement in Italy.\n\nIn 217 BC Gnaeus Scipio, with thirty-five ships and those of Massalia, fell on the Carthaginian fleet at the mouth of the Ebro and took twenty-five of them. The sea off Spain was Rome's too. In 204 Scipio crossed to Africa with forty warships and four hundred transports.\n\nBy the peace of 201 BC Carthage had to give up all its warships but ten. Scipio had five hundred ships towed out to sea and set on fire. The people of Carthage, says Livy, grieved at the sight of the flames as if the city itself were burning."
+   },
+   "year": 217,
+   "people": [
+    "グナエウス・スキピオ|Gnaeus Cornelius Scipio",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "legion",
+    "rm_siege",
+    "punic_mercs"
+   ],
+   "src": [
+    "polybius:第1巻20-22章・26章|book 1, 20-22 and 26",
+    "livy:第21巻17章|book 21, 17",
+    "polybius:第3巻95-96章|book 3, 95-96",
+    "livy:第30巻43章|book 30, 43"
+   ],
+   "keepSrc": true
+  },
+  "rm_siege": {
+   "kind": "unit",
+   "title": {
+    "ja": "攻城兵器 (投石機・破城槌・サンブカ)",
+    "en": "The engines of siege"
+   },
+   "body": {
+    "ja": "ヘレニズムの時代、城攻めは一つの学問になっていた。ねじった腱や髪の束の力で矢や石を飛ばす機械 (カタペルテス)、車輪の付いた高い攻城塔、屋根で覆った破城槌、城壁の下を掘る坑道。王たちは技師を抱え、町々は城壁を高くした。\n\n前213年、ローマの将軍マルケルスは海と陸からシュラクサイを攻めた。海の側では、五段櫂船を二隻ずつ横につなぎ、その上に「サンブカ」を載せた。船の長さほどの梯子で、綱と滑車で引き起こして城壁の上に掛ける。形が竪琴 (サンブカ) に似ているのでそう呼ばれた。\n\nシュラクサイには[[p:アルキメデス]]がいた。王ヒエロンの求めで、ずっと前から守りの機械を作り上げていたのである。遠くの船には大きな投石機が、近づけば小さな投石機が石を浴びせる。どの距離にも届くように、機械は大きさを変えて備えてあった。城壁の下まで来た船には、壁に開けた人の背丈ほどの細い穴から、弓兵と「サソリ」と呼ぶ小さな弩が射かける。\n\nサンブカが壁に近づくと、壁の上から長い腕が突き出し、重い石や鉛の塊を落として梯子を砕いた。別の機械は鎖の先の鉄の手を落として船の舳先をつかみ、てこの重りで引き上げる。船は艫で立ち上がり、鎖が放されると横倒しに落ちた。マルケルスは苦笑いして言った。「アルキメデスはわたしの船を杯にして海の水を汲んでいる。わたしのサンブカは宴会から叩き出されたわけだ。」\n\nローマ兵は、壁の上に綱の切れ端や木の棒が少し見えただけで「またあの機械だ」と叫んで逃げるようになった。マルケルスは力攻めをあきらめ、囲んで待つことにした。シュラクサイが落ちたのは二年ののち、祭りの夜に城壁の低い所を梯子で越えたときである。\n\nスキピオは別のやり方をとった。前209年のカルタゴ・ノウァでは、正面の門を攻めて敵の目を引きつけておき、引き潮で浅くなった潟を兵に歩いて渡らせて、守りのいない城壁に梯子を掛けた。兵には「海の神が助けてくれる」と前もって告げてあった。",
+    "en": "In the Hellenistic age siegecraft had become a science: engines that threw bolts and stones by the force of twisted sinew or hair, tall wheeled siege towers, roofed rams, mines under the walls. Kings kept engineers, and cities built their walls higher.\n\nIn 213 BC the Roman general Marcellus attacked Syracuse by sea and land. On the sea side he lashed quinqueremes together in pairs and mounted on them the sambuca: a ladder the length of a ship, hauled upright by ropes and pulleys and let down on the wall. It was named from its likeness to a harp.\n\nSyracuse had [[p:アルキメデス|Archimedes]], who at King Hiero's request had long since built up the city's defensive engines. Great stone-throwers struck the ships far out, lesser ones as they came nearer; the engines were made in graded sizes to reach every distance. Ships that got under the wall were shot at by archers and small bolt-throwers, \"scorpions\", through slits a man's height, cut in the wall.\n\nWhen a sambuca neared the wall, long beams swung out over it and dropped heavy stones and lumps of lead that smashed the ladder. Another engine let down an iron hand on a chain that seized a ship's prow and, by a counterweighted lever, hauled it up until the ship stood on its stern; then the chain was let go and it fell on its side. Marcellus made a wry joke of it: \"Archimedes uses my ships to ladle seawater into his wine cups, and my harp-ladies have been beaten up and thrown out of the party.\"\n\nIt came to this, that Roman soldiers who saw a bit of rope or a beam show above the wall cried \"There it is again\" and ran. Marcellus gave up assault and settled down to blockade. Syracuse fell two years later, when a low stretch of wall was scaled by ladder on a festival night.\n\nScipio went another way. At New Carthage in 209 BC he attacked the main gate to hold the defenders' eyes, and had men wade the lagoon, shallow on the ebb, to set ladders against a wall no one was guarding. He had told his soldiers beforehand that the god of the sea would help them."
+   },
+   "year": 213,
+   "people": [
+    "アルキメデス|Archimedes",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
+   ],
+   "related": [
+    "quinquereme",
+    "legion"
+   ],
+   "src": [
+    "polybius:第8巻3-7章|book 8, 3-7",
+    "plutarch:マルケルス伝|Life of Marcellus",
+    "polybius:第10巻11-15章|book 10, 11-15"
+   ],
+   "keepSrc": true
+  },
+  "campanian_horse": {
+   "kind": "unit",
+   "title": {
+    "ja": "カンパニアの騎兵",
+    "en": "The Campanian horse"
+   },
+   "body": {
+    "ja": "カプアはイタリアでローマに次ぐ大きな町であった。ナポリの北の、火山の土でできた平野は、年に三度の取り入れができるほど肥えていた。そこに住むオスク語を話す人々をカンパニア人という。\n\nカプアの誇りは騎兵であった。馬を養う貴族たちが騎兵となり、その強さはイタリアじゅうに知られていた。リウィウスによれば、カプアは歩兵三万と騎兵四千を出すことができた。カンパニア人はローマの市民権の一部を持ち、ローマ人と婚姻を結んでいたが、投票する権利はなかった。\n\n前216年、カンナエの後、カプアの民会は[[p:ハンニバル]]と結ぶことを決めた。条件は、カルタゴの将も役人もカンパニア人に命令できないこと、カプアは自分の法と役人を持つこと。町にいたローマ人は浴場に閉じこめられ、蒸し殺されたという。ハンニバルは、いずれカプアをイタリアの都にすると約束した。\n\nそのときシチリアでローマ軍に仕えていたカンパニアの騎兵三百騎は、ローマを離れなかった。ローマは彼らにローマの市民権を与えた。\n\n前212年、ローマはカプアを囲んだ。囲みの外で、カンパニアの騎兵はローマの騎兵をたびたび破った。カプアの騎兵ユベッリウス・タウレアは、かつての客人であったローマ人クラウディウス・アセッルスに一騎打ちを挑んだ。二人は野を駆け回って槍を合わせ、タウレアが窪んだ道に馬を入れると、アセッルスは追って町の門をくぐり、反対の門から無傷で駆け抜けたという。ローマが馬の後ろにウェリテスを乗せる手を考え出したのは、この騎兵に勝つためである。\n\n前211年、ハンニバルはカプアを救おうとローマの門まで兵を進めたが、ローマは囲みを解かなかった。カプアは飢えて門を開いた。主だった元老院議員二十七人は宴を開いて毒を飲んだ。残る者たちは鞭打たれて首をはねられ、カプアは町としての形を奪われ、土地はローマのものとなった。",
+    "en": "Capua was the greatest city of Italy after Rome. The plain north of Naples, made of volcanic soil, was rich enough to give three harvests a year. The Oscan-speaking people who lived there were the Campanians.\n\nCapua's pride was its cavalry: the nobles who could keep horses, known throughout Italy for their quality. Capua, says Livy, could put thirty thousand foot and four thousand horse in the field. The Campanians had part of the rights of Roman citizens and intermarried with Romans, but had no vote.\n\nIn 216 BC, after Cannae, the assembly of Capua resolved to join [[p:ハンニバル|Hannibal]], on terms: no Carthaginian general or magistrate was to give orders to a Campanian, and Capua was to keep its own laws and officers. The Romans in the city were shut in the baths and, it is said, suffocated. Hannibal promised that Capua would one day be the capital of Italy.\n\nThree hundred Campanian horsemen then serving with the Roman army in Sicily did not desert Rome, and Rome gave them its citizenship.\n\nIn 212 BC Rome invested Capua. Outside the lines the Campanian horse beat the Roman horse again and again. A Capuan cavalryman, Jubellius Taurea, challenged a Roman who had once been his guest, Claudius Asellus, to single combat. They circled the field crossing lances; when Taurea turned into a sunken lane, Asellus, it is said, followed him in at one gate of the city and rode out unharmed at the other. It was to beat these horsemen that the Romans hit on mounting velites behind their riders.\n\nIn 211 BC Hannibal marched to the gates of Rome itself to draw the besiegers off; Rome did not raise the siege. Capua, starving, opened its gates. Twenty-seven leading senators held a banquet and took poison. The rest were flogged and beheaded; Capua was stripped of its standing as a city, and its land became Rome's."
+   },
+   "year": 216,
+   "people": [
+    "ハンニバル|Hannibal",
+    "パクウィウス・カラウィウス|Pacuvius Calavius"
+   ],
+   "related": [
+    "equites",
+    "velites",
+    "oscan_foot",
+    "socii"
+   ],
+   "src": [
+    "livy:第23巻5-7章|book 23, 5-7",
+    "livy:第23巻46-47章|book 23, 46-47",
+    "livy:第26巻14-16章|book 26, 14-16"
+   ],
+   "keepSrc": true
+  },
+  "oscan_foot": {
+   "kind": "unit",
+   "title": {
+    "ja": "オスク人の歩兵 (サムニウム・ブルッティイ)",
+    "en": "The Oscan foot"
+   },
+   "body": {
+    "ja": "イタリアの背骨をなすアペニンの山々には、オスク語を話す人々が住んでいた。サムニウム人、ルカニア人、そして爪先のブルッティイ人。山で羊を追い、季節ごとに山と平野を行き来する牧人の民である。\n\n彼らの武具は墓の壁画と出土品から分かる。羽根飾りの付いた兜、三つの円盤をつないだ形の青銅の胸当て、幅の広い青銅の帯、すね当て。手には投げ槍を数本と盾を持つ。ローマ人は、大きな楕円の盾と投げ槍の戦い方を、サムニウム人との半世紀にわたる戦いの中で学んだ、と後のローマ人自身が語っている。\n\nブルッティイ人は新しい民であった。前356年ごろ、ルカニア人のもとにいた牧人と逃げた奴隷たちが山で集まり、独り立ちした。ルカニアの言葉で「ブルッティイ」は「背いた者、逃げた者」の意だという。彼らは険しいシラの山を拠点にし、海辺のギリシア人の町々を次々に従えた。\n\nカンナエの後、ブルッティイ人はまっ先に[[p:ハンニバル]]に付いた。ロクリとクロトンを取るのを助け、兵を出し、港を与えた。ハンニバルが南へ押し込まれた最後の数年、頼れる地はブルッティイだけであった。前203年、カルタゴに呼び戻されたハンニバルは、十五年を過ごしたイタリアをクロトンの港から去った。\n\nローマはブルッティイ人を許さなかった。戦いが終わると、彼らは兵として軍に入ることも同盟者として扱われることも禁じられ、属州へ赴く役人に付いて走り使いや鞭打ちの役をする身とされた。後の時代まで、役人の下働きは「ブルッティアニ」と呼ばれた。",
+    "en": "In the Apennines, the spine of Italy, lived peoples who spoke Oscan: the Samnites, the Lucanians, and in the toe the Bruttii — herdsmen who drove their sheep between hill and plain with the seasons.\n\nTheir arms are known from tomb paintings and finds: a plumed helmet, a bronze breastplate of three joined discs, a broad bronze belt, greaves; in the hand several javelins and a shield. The Romans themselves said later that they had learned the great oval shield and the javelin in their half-century of war with the Samnites.\n\nThe Bruttii were a new people. About 356 BC herdsmen and runaway slaves of the Lucanians gathered in the hills and made themselves independent; \"Bruttii\", in the Lucanian tongue, is said to mean rebels or runaways. From the rugged Sila they brought the Greek cities of the coast under them one after another.\n\nAfter Cannae the Bruttii were the first to go over to [[p:ハンニバル|Hannibal]]. They helped him take Locri and Croton, gave him men and gave him ports. In his last years, pressed into the south, Bruttium was the only ground he could count on. In 203 BC, recalled to Carthage, he left Italy, where he had spent fifteen years, from the harbour of Croton.\n\nRome did not forgive them. When the war was over they were barred from serving as soldiers or being treated as allies, and were made to attend magistrates going out to the provinces as runners and floggers. For long afterwards a magistrate's menial was called a Bruttianus."
+   },
+   "year": 216,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "socii",
+    "campanian_horse",
+    "hastati"
+   ],
+   "src": [
+    "legend:ディオドロス 第16巻15章|Diodorus, book 16, 15",
+    "livy:第24巻1-3章|book 24, 1-3",
+    "legend:ゲッリウス『アッティカの夜』第10巻3章|Gellius, Attic Nights 10, 3"
+   ],
+   "keepSrc": true
+  },
+  "libyan_foot": {
+   "kind": "unit",
+   "title": {
+    "ja": "リビアの歩兵",
+    "en": "The Libyan foot"
+   },
+   "body": {
+    "ja": "カルタゴの軍の歩兵の柱は、アフリカの兵であった。カルタゴの町のまわりの肥えた土地に住み、カルタゴに従うリビア人である。彼らは重い税を納め (ローマとの最初の戦争のあいだは取り入れの半分であったという)、兵として呼び出された。カルタゴの市民は、町が危ういとき以外、めったに戦わなかった。\n\n前218年、[[p:ハンニバル]]がイタリアに下りたとき連れていた歩兵は二万。そのうち一万二千がアフリカの兵、八千がイベリアの兵であった。この数は、ハンニバル自身がイタリアの南のラキニウム岬の神殿に青銅の板に刻んで残したもので、ポリュビオスが自分の目で見て書き写している。\n\nリビアの兵は槍と大きな盾を持つ重い歩兵であったと考えられる。だがイタリアで、その姿は変わった。トレビアとトラシメヌスの後、ハンニバルは倒したローマ兵から取った選り抜きの武具をアフリカの兵に着けさせた。カンナエの朝、ローマ兵は、自分たちと同じ盾と甲を着けた兵が敵の陣の両端に立っているのを見たことになる。\n\nカンナエで、ハンニバルは中央にガリア兵とイベリア兵を弓なりに張り出させ、その両端の後ろにアフリカの兵を縦に並べて控えさせた。ローマの歩兵が中央を押し込んで深く入ったとき、アフリカの兵は内側を向いて、右と左からその横腹に突き入った。押し合って身動きのとれないローマ兵は、盾を構える向きさえ変えられなかった。\n\nこの兵たちは十五年、イタリアで戦い続けた。前202年のザマで、ハンニバルは彼らを第三列に置いた。前の二列が崩れても動かさず、最後にスキピオの軍団とぶつからせた。戦いは長く決まらなかったが、戻ってきたローマとヌミディアの騎兵に後ろを突かれて、古参兵たちはその場で倒れた。",
+    "en": "The backbone of Carthage's foot was African: Libyans, who lived on the rich land round the city and were its subjects. They paid heavy taxes — half their harvest, it is said, during the first war with Rome — and were called up as soldiers. Citizens of Carthage itself seldom fought unless the city was in danger.\n\nWhen [[p:ハンニバル|Hannibal]] came down into Italy in 218 BC he had twenty thousand foot: twelve thousand Africans and eight thousand Iberians. The figures are his own, cut on a bronze tablet he left in the temple on the Lacinian cape in southern Italy, where Polybius saw and copied them.\n\nThe Libyans seem to have been heavy infantry with spear and large shield. In Italy they changed. After the Trebia and Trasimene, Hannibal armed his Africans with the pick of the equipment taken from the Roman dead. On the morning of Cannae the Romans saw men with shields and armour like their own standing at both ends of the enemy line.\n\nAt Cannae Hannibal pushed his centre of Gauls and Iberians forward in a bow, and behind either end of it kept his Africans in column. When the Roman foot had driven the centre in and were deep inside, the Africans faced inward and struck them in both flanks. Jammed together, the Romans could not even turn their shields.\n\nThese men fought on in Italy for fifteen years. At Zama in 202 BC Hannibal set them in his third line, held them still while the two lines in front collapsed, and brought them against Scipio's legions last. The fight hung long undecided; then the Roman and Numidian horse came back and took them in the rear, and the veterans fell where they stood."
+   },
+   "year": 216,
+   "people": [
+    "ハンニバル|Hannibal",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
+   ],
+   "related": [
+    "punic_mercs",
+    "iberian_foot",
+    "gallic_warriors",
+    "hastati"
+   ],
+   "src": [
+    "polybius:第3巻56章|book 3, 56",
+    "polybius:第3巻87章・113-116章|book 3, 87 and 113-116",
+    "polybius:第15巻11-14章|book 15, 11-14"
+   ],
+   "keepSrc": true
+  },
+  "iberian_foot": {
+   "kind": "unit",
+   "title": {
+    "ja": "イベリアの歩兵",
+    "en": "The Iberian foot"
+   },
+   "body": {
+    "ja": "イベリア半島の東と南の海辺には、多くの部族に分かれたイベリア人が住んでいた。カルタゴはハミルカル・バルカ以来ここを切り取り、銀山と兵を手に入れた。[[p:ハンニバル]]の軍の歩兵の四割はイベリア人である。\n\nポリュビオスはカンナエでの彼らの姿を書き残している。イベリア兵は、紫の縁取りのある白い亜麻の短い上着を着ていた。それがこの民のふだんの装いである。盾はガリア兵と同じ大きな楕円の盾。だが剣は違う。ガリアの剣は斬るだけで、振り回す場所が要る。イベリアの剣は突いても斬ってもよく、切っ先が鋭い。裸のガリア兵と白い上着のイベリア兵が交互に並んだ列は、異様で恐ろしい眺めであったという。\n\nイベリアの剣には二つの型があった。一つは刃が内側に反った片刃の剣で、重い切っ先が斧のように打ち込む。もう一つはまっすぐな両刃の剣で、ローマ人はこれを手本にして自分たちの剣を作った。投げ槍にも独特のものがある。柄から穂先まで鉄だけで作ったもの。穂先に麻くずを巻いて松脂を塗り、火を付けて投げるもの。サグントゥムの人々は、この火の槍でハンニバルの攻城塔を焼いた。\n\n歩兵には二種類あった。大きな楕円の盾を持つ重い兵と、直径二フィートほどの小さな丸い盾を持つ身軽な兵である。山がちなこの土地では、待ち伏せと素早い襲撃が戦いの常であった。\n\nイベリアの戦士は、選んだ主に命をかけて従うと誓う習わしを持っていた。主が死ねば自分も生きていない。スキピオがカルタゴ・ノウァで捕らえた人質を国へ帰し、イレルゲテス族の長[[p:インディビリス]]たちを味方に付けたとき、彼らはスキピオを王と呼んで従おうとした。だがスキピオが病だという噂が流れると、インディビリスはすぐに背いた。誓いは人に対するもので、ローマという国に対するものではなかった。",
+    "en": "Along the eastern and southern coasts of the Spanish peninsula lived the Iberians, in many tribes. Carthage had been carving out this country since Hamilcar Barca, for its silver mines and its soldiers. Two in five of [[p:ハンニバル|Hannibal]]'s foot were Iberian.\n\nPolybius describes them at Cannae. The Iberians wore short tunics of white linen bordered with purple, their national dress. Their shields were the same large oval as the Gauls'. Their swords were not. The Gallic sword could only slash, and needed room to swing; the Iberian was good for thrust and cut alike, with a sharp point. A line in which naked Gauls alternated with Iberians in white tunics was, he says, a strange and terrifying sight.\n\nThere were two kinds of Iberian sword: one single-edged and curved inward, with a heavy point that struck like an axe; the other straight and two-edged, the one the Romans copied for their own. They had javelins of their own too: one made of iron from butt to point; another with tow wound round the head, smeared with pitch, lit and thrown. With these fire-javelins the people of Saguntum burned Hannibal's siege towers.\n\nThe foot were of two sorts: heavy men with the large oval shield and light men with a small round one about two feet across. In that mountainous country ambush and the quick raid were the ordinary way of war.\n\nThe Iberian warrior had the custom of vowing his life to a chosen leader: if the leader died, he would not live. When Scipio sent home the hostages he took at New Carthage and won over [[p:インディビリス|Indibilis]], chief of the Ilergetes, and others, they hailed him as king and would have followed him. But at a rumour that Scipio was ill, Indibilis rose at once. The vow was to a man, not to the state of Rome."
+   },
+   "year": 216,
+   "people": [
+    "ハンニバル|Hannibal",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)",
+    "インディビリス|Indibilis"
+   ],
+   "related": [
+    "gladius",
+    "celtiberian",
+    "libyan_foot",
+    "gallic_warriors"
+   ],
+   "src": [
+    "polybius:第3巻114章|book 3, 114",
+    "livy:第21巻8章|book 21, 8",
+    "polybius:第10巻38章・40章|book 10, 38 and 40"
+   ],
+   "keepSrc": true
+  },
+  "punic_horse": {
+   "kind": "unit",
+   "title": {
+    "ja": "カルタゴの重騎兵 (イベリア・ガリアの騎兵)",
+    "en": "Hannibal's heavy horse"
+   },
+   "body": {
+    "ja": "[[p:ハンニバル]]の軍には二種類の騎兵がいた。一つは手綱も鞍もなしに馬を操り、投げ槍を投げては逃げるヌミディアの軽い騎兵。もう一つは、手綱と鞍のある馬に乗り、盾と槍と剣を持ち、敵にぶつかっていく重い騎兵である。後者はイベリア人、カルタゴの支配のもとにあったリビアのフェニキア系の人々、そしてイタリアに入ってから加わったガリア人であった。\n\nハンニバルは騎兵に頼った。アルプスを越えてイタリアに下りたとき、歩兵は二万まで減っていたが、騎兵は六千を保っていた。ローマの一つの執政官軍の騎兵の倍以上である。\n\n前218年の冬のトレビア川で、ローマの騎兵四千に対し、ハンニバルはガリア人を加えて一万余りの騎兵を両翼に並べた。ローマの騎兵はたちまち追い払われ、歩兵の両脇はむき出しになった。\n\n前216年のカンナエで、重い騎兵は左の翼、川沿いに置かれた。率いたのはハスドルバルという名の将である (ハンニバルの弟とは別人)。彼らはローマ市民の騎兵に正面からぶつかった。場所が狭く、馬を回して駆け引きすることができない。両軍は馬から下りて組み合い、ローマの騎兵はほとんどが倒された。\n\nここからがハスドルバルの働きである。逃げる敵を深追いせず、ローマ軍の後ろを横切って反対の翼へ回り、ヌミディア騎兵と小競り合いを続けていた同盟市の騎兵を後ろから突いた。同盟市の騎兵は逃げた。追うのはヌミディア騎兵に任せ、ハスドルバルは向きを変えて、ローマの歩兵の背中に突き入った。前はガリア兵とイベリア兵、左右はアフリカの歩兵、後ろは騎兵。八万のローマ軍は四方を囲まれた。\n\nポリュビオスはこう結んでいる。「カルタゴ軍がこのときも、これまでも勝ったのは、騎兵の数が多かったからである。後の世の人々は知るがよい。戦では、歩兵が敵の半分でも騎兵で大きく勝っているほうが、すべてが敵と同じであるよりもよい。」",
+    "en": "[[p:ハンニバル|Hannibal]] had two kinds of cavalry. One was the Numidian light horse, riding without bridle or saddle, throwing javelins and making off. The other was heavy horse, on bridled and saddled mounts, with shield, spear and sword, who rode into the enemy: Iberians, Libyphoenicians from the lands under Carthage, and the Gauls who joined him in Italy.\n\nHe relied on his cavalry. When he came down from the Alps his foot were reduced to twenty thousand, but he still had six thousand horse — more than twice the cavalry of a consular army.\n\nOn the Trebia in the winter of 218 BC he set more than ten thousand horse, Gauls included, on his wings against four thousand Roman. The Roman cavalry was swept away at once, and the flanks of the foot were laid bare.\n\nAt Cannae in 216 BC the heavy horse stood on the left, by the river, under a general named Hasdrubal (not Hannibal's brother). They met the Roman citizen cavalry head-on. There was no room to wheel and manoeuvre; both sides dismounted and grappled, and nearly all the Roman horse were cut down.\n\nThen came Hasdrubal's part. He did not chase the fugitives far. He rode across behind the Roman army to the other wing and struck from the rear the allied horse, who had been skirmishing with the Numidians. They fled. Leaving the pursuit to the Numidians, he turned again and drove into the backs of the Roman foot. Gauls and Iberians in front, African foot on either side, cavalry behind: eighty thousand Romans were shut in on all four sides.\n\nPolybius concludes: \"The Carthaginians owed this victory, as they had the others, to their superiority in cavalry. It is a lesson to posterity that in war it is better to have half the enemy's foot and an overwhelming force of horse than to be his equal in everything.\""
+   },
+   "year": 216,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "numidian",
+    "gallic_horse",
+    "equites",
+    "libyan_foot"
+   ],
+   "src": [
+    "polybius:第3巻56章|book 3, 56",
+    "polybius:第3巻72章|book 3, 72",
+    "polybius:第3巻113-117章|book 3, 113-117"
+   ],
+   "keepSrc": true
+  },
+  "punic_mercs": {
+   "kind": "unit",
+   "title": {
+    "ja": "カルタゴの傭兵",
+    "en": "The mercenaries of Carthage"
+   },
+   "body": {
+    "ja": "カルタゴは商人の町であった。市民は船に乗り、商いをし、町を治めたが、陸の戦いは金で雇った兵に任せた。リビア人、ヌミディア人、イベリア人、ガリア人、リグリア人、バレアレスの島の投石兵、ギリシア人、イタリアから流れてきたカンパニア人。言葉も神も武器も違う人々である。\n\nポリュビオスはローマとカルタゴの軍をこう比べた。カルタゴは外国の雇い兵を使い、ローマは自分の土地の市民を使う。カルタゴの自由は雇い兵の勇気にかかっているが、ローマの自由は自分たちの勇気と同盟者の助けにかかっている。だからローマは、一度負けても全力で立ち直る。祖国と子のために戦う者は、怒りを決してゆるめないからである。\n\n雇い兵の危うさを、カルタゴは身にしみて知っていた。前241年、ローマとの最初の戦争に負けたカルタゴは、シチリアから戻った雇い兵たちに約束の給料を払えなかった。二万の兵が背き、リビアの町々がこれに加わった。三年あまり続いたこの戦いは、捕虜の手足を切り、象に踏ませ、十字架に掛ける、「休戦のない戦争」と呼ばれた。これを鎮めたのがハミルカル・バルカ、[[p:ハンニバル]]の父である。\n\nそのハンニバルの軍は、同じ寄せ集めでありながら、一度も背かなかった。ポリュビオスは驚きをこめて書いている。ハンニバルは十六年のあいだ、イタリアで戦い続けて一度も軍を解かず、リビア人、イベリア人、リグリア人、ガリア人、フェニキア人、イタリア人、ギリシア人という、法も習わしも言葉も共にしない人々を、一人の舵取りのように保ち続けた。食べ物が足りないときも、負けが続いたときも、だれも彼に背かず、仲間割れもしなかった、と。\n\n前202年のザマで、ハンニバルは第一列に雇い兵一万二千を置いた。リグリア人、ガリア人、バレアレス人、マウリ人である。第二列はカルタゴの市民とリビア人。第一列は激しく戦ったが、後ろの第二列が助けに出ないのを見て、裏切られたと思い、下がりながら味方に斬りかかった。",
+    "en": "Carthage was a city of merchants. Its citizens went to sea, traded and governed; fighting on land they left to men hired for money: Libyans, Numidians, Iberians, Gauls, Ligurians, slingers from the Balearic islands, Greeks, Campanians drifted over from Italy — peoples of different speech, gods and weapons.\n\nPolybius compares the armies of Rome and Carthage so. Carthage uses foreign hired troops, Rome its own citizens from its own soil. The freedom of Carthage hangs on the courage of mercenaries; that of Rome on its own courage and the help of its allies. So Rome, beaten once, recovers with its whole strength: men fighting for country and children never slacken in their fury.\n\nCarthage knew the danger of hired soldiers at first hand. In 241 BC, beaten in its first war with Rome, it could not pay the mercenaries come back from Sicily what they had been promised. Twenty thousand men mutinied and the towns of Libya joined them. The war lasted more than three years and was called the \"truceless war\": prisoners had their hands cut off, were trampled by elephants, were crucified. The man who put it down was Hamilcar Barca, [[p:ハンニバル|Hannibal]]'s father.\n\nHannibal's own army, just such a mixture, never once mutinied. Polybius writes of it with wonder: for sixteen years he made war in Italy without once disbanding his army, and kept together, like a good pilot, Libyans, Iberians, Ligurians, Gauls, Phoenicians, Italians and Greeks — men with no law, custom or language in common. Short of food or beaten, none of them ever plotted against him or fell out among themselves.\n\nAt Zama in 202 BC Hannibal put twelve thousand mercenaries in his first line: Ligurians, Gauls, Balearic islanders and Moors. The second line was Carthaginian citizens and Libyans. The first line fought hard; but seeing that the second did not come up to help, they thought themselves betrayed, and as they fell back turned their swords on their own side."
+   },
+   "year": 241,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "libyan_foot",
+    "iberian_foot",
+    "gallic_warriors",
+    "balearic",
+    "ligurian"
+   ],
+   "src": [
+    "polybius:第6巻52章|book 6, 52",
+    "polybius:第1巻65-88章|book 1, 65-88",
+    "polybius:第11巻19章|book 11, 19",
+    "polybius:第15巻11-13章|book 15, 11-13"
+   ],
+   "keepSrc": true
+  },
+  "phalanx": {
+   "kind": "unit",
+   "title": {
+    "ja": "サリッサのファランクス",
+    "en": "The phalanx of the sarissa"
+   },
+   "body": {
+    "ja": "マケドニアの歩兵は、長い槍を持って密集して戦う。この陣形をファランクスという。槍は「サリッサ」と呼ばれ、ポリュビオスの時代には長さ十四キュビット、およそ六メートルあまりあった。両手で持たなければ支えられない。\n\n兵は一人が三フィート四方の場所に立ち、十六列の深さに並ぶ。槍は重りを付けた後ろの端から四キュビットのところを握るので、十キュビットが体の前に突き出る。二列目の槍は一列目の前に八キュビット、三列目は六キュビット、四列目は四、五列目は二キュビット出る。つまり最前列の兵一人の前に、五本の穂先が並ぶ。六列目から後ろの兵は槍を斜め上に立てて、飛んでくる矢や石を払い、前の者を体で押す。\n\nポリュビオスは書く。「ファランクスが本来の形と力を保っている限り、正面からこれに耐えられるものは何もない。」ローマ兵一人は、戦うために左右に三フィートずつの場所が要る。だからローマ兵一人は、ファランクスの最前列の二人、つまり十本の穂先と向き合うことになる。剣でそれを切り払うことも、押し通ることもできない。\n\nではなぜローマが勝つのか。ポリュビオスの答えはこうである。ファランクスが力を出せる時と場所は一つしかない。平らで、溝も、木立も、川床も、土手もない地面である。そんな地面は二十スタディオンと続かない。地面が乱れれば列に隙間ができる。そして兵は、横から来る敵にも、後ろから来る敵にも、一人では向き直れない。ローマ兵は、どこでも、どの向きにも、一人でも戦える。\n\nマケドニアの王フィリッポス五世は、このファランクスを率いてローマと戦うことになる。前197年、テッサリアのキュノスケファライ (犬の頭) の丘で、王の右翼は丘を駆け下りてローマの左翼を押しつぶした。だが左翼はまだ行軍の縦列のまま丘を登ってくるところであった。ローマの一人の将校が、二十のマニプルスを勝ちつつある右翼から引き抜き、王の右翼の背中に回り込ませた。槍の向きを変えられないファランクスは、その場で崩れた。\n\nギリシアの国々もマケドニアにならった。スパルタは前227年ごろクレオメネス王の改革でサリッサを取り入れ、アカイア同盟は前208年、将軍フィロポイメンのもとで軽い盾と短い槍を捨ててファランクスを組んだ。",
+    "en": "The Macedonian foot fought massed, with long pikes: the phalanx. The pike was the sarissa, in Polybius' day fourteen cubits long, something over six metres, and to be held at all it took both hands.\n\nEach man stood in a space three feet square, and they were sixteen deep. The pike was gripped four cubits from its weighted butt, so that ten cubits projected in front of the body. The pikes of the second rank reached eight cubits beyond the first, of the third six, of the fourth four, of the fifth two. So five points stood out before each man in the front rank. The men from the sixth rank back held their pikes slanting upward, to break the flight of missiles, and pressed on those in front with their bodies.\n\n\"So long as the phalanx keeps its proper form and strength,\" Polybius writes, \"nothing can stand before it face to face.\" A Roman soldier needs three feet to either side to fight. One Roman therefore faces two men of the front rank of the phalanx, that is, ten pike points. He can neither cut them away with his sword nor force his way through.\n\nWhy then do the Romans win? Polybius' answer: there is one time and one kind of place in which the phalanx can use its strength — level ground with no ditches, clumps of trees, stream beds or banks. Such ground does not go on for twenty stades. Where the ground is broken, gaps open in the line; and a phalangite cannot turn alone to meet an enemy at his side or his back. The Roman can fight anywhere, in any direction, by himself.\n\nKing [[p:フィリッポス5世|Philip V]] of Macedon was to lead this phalanx against Rome. In 197 BC, on the hills of Cynoscephalae, \"the dog's heads\", in Thessaly, his right wing charged downhill and crushed the Roman left. But his left was still coming up the hill in column of march. A single Roman officer took twenty maniples from the winning right and led them round onto the rear of the king's right wing. The phalanx, which could not turn its pikes about, went to pieces where it stood.\n\nThe Greek states followed Macedon. Sparta took up the sarissa about 227 BC in the reforms of King Cleomenes; the Achaean League in 208, under its general Philopoemen, gave up the light shield and short spear and formed a phalanx."
+   },
+   "year": 207,
+   "people": [
+    "フィリッポス5世|Philip V"
+   ],
+   "related": [
+    "peltasts",
+    "companion",
+    "thureophoroi",
+    "principes",
+    "legion"
+   ],
+   "src": [
+    "polybius:第18巻28-32章|book 18, 28-32",
+    "polybius:第18巻24-26章|book 18, 24-26",
+    "plutarch:フィロポイメン伝|Life of Philopoemen"
+   ],
+   "keepSrc": true
+  },
+  "peltasts": {
+   "kind": "unit",
+   "title": {
+    "ja": "マケドニアのペルタスタイ",
+    "en": "The Macedonian peltasts"
+   },
+   "body": {
+    "ja": "ペルタスタイという言葉は、もとは「ペルタ」という小さな盾を持つ軽い歩兵を指した。投げ槍を持って散らばって戦うトラキア風の兵である。だがフィリッポス五世の時代のマケドニアでは、同じ名がまったく別のものを指している。王のそばで戦う、歩兵の精鋭である。\n\nアレクサンドロス大王の軍で「盾持ち (ヒュパスピスタイ)」と呼ばれた王の親衛の歩兵が、その前身にあたる。ファランクスの兵と同じように密集して戦うこともでき、身軽に山を越え、夜を徹して歩き、城壁によじ登ることもできる。王が最も急ぎ、最も危ない仕事に使う兵であった。\n\n数は三千から五千。前222年のセッラシアの戦いでは、マケドニア王アンティゴノスは一万のファランクスと並んで三千のペルタスタイを連れていた。若いフィリッポス五世は、五千のペルタスタイを軍の中心に置いた。その中の選り抜きを「アゲマ」という。\n\n前219年から前217年にかけての同盟市戦争で、フィリッポスは驚くほど速く動いた。冬の雪の中をアルカディアの山へ入り、だれも予期しない城を落とす。アイトリアの奥深く、聖地テルモンまで一気に攻め入って神殿を焼く。ポリュビオスは王の行いを咎めつつも、その速さには舌を巻いている。こうした行軍の先頭を行ったのがペルタスタイであった。\n\n前197年のキュノスケファライでも、フィリッポスは右翼にファランクスの半分とペルタスタイを置き、自ら率いて丘を駆け下りた。その翼は勝った。負けたのはもう一方の翼である。\n\nマケドニアの王たちは、国の農民から成るファランクスと、貴族の騎兵と、この選り抜きの歩兵を持っていた。足りないところは、トラキア人、イリュリア人、ガリア人、クレタの弓兵といった雇い兵で補った。",
+    "en": "The word peltast first meant a light foot soldier with a small shield, the pelte: a Thracian sort of skirmisher with javelins. In the Macedon of [[p:フィリッポス5世|Philip V]] the same name means something else entirely: the picked infantry who fought beside the king.\n\nTheir forerunners were the \"shield-bearers\", the royal foot guard of Alexander's army. They could fight massed like the men of the phalanx, and they could cross mountains lightly equipped, march all night and scale a wall. They were the troops a king used for his most urgent and most dangerous work.\n\nThey numbered three to five thousand. At Sellasia in 222 BC King Antigonus of Macedon had three thousand peltasts beside his ten thousand of the phalanx. The young Philip V made five thousand peltasts the core of his army; the pick of them were the agema.\n\nIn the Social War of 219–217 BC Philip moved with astonishing speed: into the Arcadian hills through winter snow to take a fortress no one expected him at; deep into Aetolia in one rush to the sanctuary of Thermum, where he burned the temple. Polybius blames the king's deed and marvels at his pace. The peltasts were at the head of those marches.\n\nAt Cynoscephalae in 197 BC too, Philip put half the phalanx and the peltasts on his right and led them downhill himself. That wing won. It was the other that lost.\n\nThe kings of Macedon had a phalanx of the country's farmers, a cavalry of its nobles, and this picked foot. What they lacked they made up with hired men: Thracians, Illyrians, Gauls, Cretan archers."
+   },
+   "year": 219,
+   "people": [
+    "フィリッポス5世|Philip V"
+   ],
+   "related": [
+    "phalanx",
+    "companion",
+    "cretan",
+    "thureophoroi"
+   ],
+   "src": [
+    "polybius:第2巻65章|book 2, 65",
+    "polybius:第5巻7-8章|book 5, 7-8",
+    "polybius:第18巻24章|book 18, 24"
+   ],
+   "keepSrc": true
+  },
+  "companion": {
+   "kind": "unit",
+   "title": {
+    "ja": "マケドニア王の騎兵",
+    "en": "The king's cavalry of Macedon"
+   },
+   "body": {
+    "ja": "マケドニアの貴族は馬に乗って王とともに戦った。彼らは「王の仲間 (ヘタイロイ)」と呼ばれた。アレクサンドロス大王がペルシアを滅ぼしたとき、決め手となったのはこの騎兵である。楔の形に隊を組み、長い槍を構え、王自らが先頭に立って敵の列の裂け目に突き入った。\n\nそれから百年、マケドニアの騎兵は少なくなっていた。大王の遠征と、その後の後継者たちの戦いで多くの男が国を出て戻らず、前279年にはガリア人の侵入が国を荒らした。前222年のセッラシアで、王アンティゴノスが連れていたマケドニアの騎兵は三百である。フィリッポス五世が前219年の戦いに連れて出たのは八百騎であった。\n\nその中心が「王の隊」あるいは「聖なる隊」と呼ばれる親衛の騎兵で、王のまわりを固めた。兜と胸当てを着け、槍と剣を持つ。\n\n足りない騎兵は、南のテッサリアが補った。テッサリアは広い平野を持ち、ギリシアで最も良い馬と騎兵を産する。マケドニアの王はテッサリアの盟主を兼ねていた。前197年のキュノスケファライで、フィリッポスの騎兵二千のうち多くはテッサリア人であった。\n\n騎兵が少なくなったことは、マケドニアの戦い方を変えた。大王の時代、ファランクスは敵を押さえつける「金床」であり、騎兵が横から打つ「槌」であった。フィリッポス五世の時代には、ファランクスそのものが勝ちを決める役を負わされている。槌を失った金床は、横に回り込んでくる敵に弱かった。",
+    "en": "The nobles of Macedon rode to war with their king, and were called his Companions, the hetairoi. When Alexander destroyed Persia it was this cavalry that decided his battles: formed in a wedge, lances levelled, the king himself at the point, driving into a rent in the enemy's line.\n\nA hundred years on, Macedon's horse had dwindled. Many men had left with Alexander and in the wars of his successors and not come back, and in 279 BC the invading Gauls laid the country waste. At Sellasia in 222 King Antigonus had three hundred Macedonian horse. [[p:フィリッポス5世|Philip V]] took eight hundred on campaign in 219.\n\nTheir core was the guard cavalry, the \"royal squadron\" or \"sacred squadron\", which kept about the king: helmet and cuirass, lance and sword.\n\nThessaly, to the south, made up the shortage. Its wide plains bred the best horses and horsemen in Greece, and the king of Macedon was also head of the Thessalian league. Of Philip's two thousand horse at Cynoscephalae in 197 BC many were Thessalians.\n\nFewer horse changed the way Macedon fought. In Alexander's day the phalanx was the anvil that pinned the enemy and the cavalry the hammer that struck him in the side. By Philip V's the phalanx itself was asked to win the battle. An anvil without its hammer was weak against an enemy who got round its flank."
+   },
+   "year": 219,
+   "people": [
+    "フィリッポス5世|Philip V"
+   ],
+   "related": [
+    "phalanx",
+    "peltasts",
+    "aetolian_horse"
+   ],
+   "src": [
+    "polybius:第2巻65章|book 2, 65",
+    "polybius:第4巻37章|book 4, 37",
+    "polybius:第18巻22章|book 18, 22"
+   ],
+   "keepSrc": true
+  },
+  "thureophoroi": {
+   "kind": "unit",
+   "title": {
+    "ja": "トゥレオフォロイ (楕円盾の歩兵)",
+    "en": "The thureophoroi"
+   },
+   "body": {
+    "ja": "前279年、ガリア人の大軍がマケドニアを破ってギリシアへなだれ込み、デルフォイの神域まで迫った。ギリシア人はこれを退けたが、一つのものをガリア人から学んだ。木の板を革で覆った、中央に縦の背骨の走る大きな楕円の盾である。ギリシア語で「戸板」を意味する「トゥレオス」と呼ばれた。\n\nこの盾を持つ歩兵をトゥレオフォロイという。前3世紀のギリシアの市民兵の多くがこの姿であった。古い重装歩兵の丸い大盾より軽く、体を広く覆う。槍と数本の投げ槍と剣を持ち、兜をかぶるが、甲は着けないか軽いものにとどめる。密集して槍で突くこともでき、散らばって投げ槍を投げることもできる。どちらもそこそこにこなす兵であった。\n\nだが、そこそこでは足りなかった。プルタルコスは、フィロポイメンが将軍になる前のアカイア同盟の兵についてこう書いている。彼らの盾は軽くて薄く、体を覆うには幅が足りない。槍はサリッサよりずっと短い。離れて戦う分には身軽でよいが、組み合えば負ける。隊列を組んで盾を重ねることを知らず、槍を並べることも知らないので、すぐに押し込まれて散らされてしまう。\n\n前208年、フィロポイメンはこれを改めた。軽い楕円の盾と短い槍を捨てさせ、丸い大盾とサリッサを持たせ、兜と胸当てとすね当てを着けさせた。贅沢な衣や食器に金を使っていた若者たちに、金や銀を武具の飾りに使えと説いた。町じゅうで杯が溶かされ、兜に金が張られたという。\n\n前207年、マンティネイアで、フィロポイメンの新しいファランクスはスパルタの僭主マカニダスの軍を破った。フィロポイメンは自らマカニダスを溝の縁で突き落として討った。\n\n一方、アイトリア人やボイオティア人、小アジアの町々は、その後も楕円の盾の歩兵を使い続けた。海を渡る兵、城を守る兵、雇い兵には、重いファランクスより使い勝手がよかったのである。",
+    "en": "In 279 BC a great host of Gauls broke Macedon, poured into Greece and came as far as the sanctuary of Delphi. The Greeks drove them off, and learned one thing from them: the large oval shield of wood covered with hide, with a spine running down its middle. In Greek it was a thureos, a \"door\".\n\nFoot who carried it were thureophoroi, and in the third century most Greek citizen soldiers looked like this. The shield was lighter than the old hoplite's great round one and covered more of the body. The man had a spear, several javelins and a sword, and a helmet, with little or no body armour. He could stand in close order and thrust, or spread out and throw javelins. He did both passably.\n\nPassably was not enough. Plutarch describes the soldiers of the Achaean League before Philopoemen was its general: their shields were light and thin, too narrow to cover the body; their spears much shorter than the sarissa. At a distance their lightness served them well; at close quarters they lost. Knowing nothing of locking shields in rank or of a hedge of levelled spears, they were soon pushed in and scattered.\n\nIn 208 BC Philopoemen changed it. He had them give up the light oval shield and short spear for the great round shield and the sarissa, and wear helmet, cuirass and greaves. To young men who spent their money on fine clothes and plate he preached that gold and silver belonged on armour. All over the cities cups were melted down, it is said, and helmets gilded.\n\nAt Mantinea in 207 BC his new phalanx beat the army of Machanidas, tyrant of Sparta, and Philopoemen himself killed Machanidas, running him through at the edge of a ditch.\n\nThe Aetolians, the Boeotians and the cities of Asia Minor went on using foot with the oval shield. For men who had to cross the sea, hold walls or serve for hire, it was handier than the heavy phalanx."
+   },
+   "year": 208,
+   "related": [
+    "phalanx",
+    "aetolian_horse",
+    "tarentine",
+    "cretan",
+    "gallic_warriors"
+   ],
+   "src": [
+    "plutarch:フィロポイメン伝|Life of Philopoemen",
+    "polybius:第11巻9-18章|book 11, 9-18"
+   ],
+   "keepSrc": true,
+   "people": []
+  },
+  "aetolian_horse": {
+   "kind": "unit",
+   "title": {
+    "ja": "アイトリアの騎兵",
+    "en": "The Aetolian horse"
+   },
+   "body": {
+    "ja": "アイトリアはギリシアの中部の西、山がちな土地である。大きな町はなく、人々は村に分かれて住み、同盟を結んで事を決めた。ほかのギリシア人は彼らを荒っぽい山の民、盗賊の集まりと見ていた。アイトリア人自身、他国の争いに乗じて海と陸で略奪することを当然の権利と考えていた。\n\nこのアイトリアが、前3世紀にはギリシアで指折りの力となった。前279年にデルフォイをガリア人から守ったことで名を上げ、中部ギリシアの多くを同盟に引き入れたのである。\n\nその軍について、ポリュビオスははっきり書いている。「アイトリア人の歩兵は、武具も隊列も、まとまって戦う会戦には向かず、ほかのギリシア人に劣る。だが騎兵は、一騎ずつ、あるいは小さな隊で戦う場面では、ほかのギリシア人よりはるかに優れている。」山の多い土地で、小競り合いと追撃と略奪に明け暮れた騎兵であった。\n\n前211年、ローマはマケドニア王フィリッポスを背後から抑えるため、アイトリアと同盟を結んだ。取り決めはこうである。ともに取った町の土地と建物はアイトリアのもの、持ち運べる物と人はローマのもの。ローマは兵をほとんど出さず、アイトリアに戦わせた。\n\nアイトリアはフィリッポスに押され、ローマの助けが乏しいのを恨んで、前206年に単独で和を結んだ。ローマはこれを忘れなかった。\n\n前197年のキュノスケファライで、アイトリアの騎兵はローマの側で戦った。霧の朝、丘の上で始まった小競り合いで、ローマ軍が押されて丘を下り始めたとき、踏みとどまって戦線を保ったのはアイトリアの騎兵であった。だが勝ったあと、アイトリア人が「勝ったのは自分たちだ」と触れ回り、ローマ人より先に敵の陣営を荒らしたことで、両者の仲は割れた。",
+    "en": "Aetolia lies in the west of central Greece, a land of mountains. It had no great city; its people lived in villages and decided their affairs as a league. Other Greeks thought them rough hillmen and a pack of robbers, and the Aetolians themselves held it their right to plunder by land and sea under cover of other people's wars.\n\nIn the third century BC this Aetolia became one of the chief powers of Greece. It made its name defending Delphi against the Gauls in 279, and drew much of central Greece into its league.\n\nOf its army Polybius is plain: \"The Aetolian foot, in arms and in order, are ill suited to a pitched battle fought in mass, and inferior to other Greeks. Their cavalry, in fighting man to man or in small bodies, is far superior.\" They were horsemen bred in hill country to skirmish, pursuit and plunder.\n\nIn 211 BC Rome, to tie down King Philip of Macedon from behind, made an alliance with Aetolia. The terms: of towns taken together, the land and buildings to go to the Aetolians, the movable goods and people to Rome. Rome sent hardly any troops and let the Aetolians do the fighting.\n\nHard pressed by Philip and bitter at Rome's meagre help, Aetolia made a separate peace in 206. Rome did not forget it.\n\nAt Cynoscephalae in 197 BC the Aetolian horse fought on Rome's side. In the skirmish that began on the hilltops in the morning mist, when the Romans were pushed back and began to come down the slope, it was the Aetolian cavalry that stood and held the line. But after the victory the Aetolians went about saying it was theirs, and plundered the enemy camp before the Romans could; and the two fell out."
+   },
+   "year": 211,
+   "people": [
+    "フィリッポス5世|Philip V"
+   ],
+   "related": [
+    "thureophoroi",
+    "companion",
+    "phalanx"
+   ],
+   "src": [
+    "polybius:第18巻22章|book 18, 22",
+    "livy:第26巻24章|book 26, 24",
+    "polybius:第18巻27章・34章|book 18, 27 and 34"
+   ],
+   "keepSrc": true
+  },
+  "cretan": {
+   "kind": "unit",
+   "title": {
+    "ja": "クレタの弓兵",
+    "en": "The Cretan archers"
+   },
+   "body": {
+    "ja": "ギリシア人は弓をあまり使わなかった。重装歩兵の戦いでは、弓は身分の低い者の武器と見られていたのである。その中でクレタ島だけは、弓の名手を出す土地として古くから知られていた。\n\nクレタは山がちで貧しく、百ともいわれる小さな町が絶えず互いに争っていた。若者たちは山の中で狩りと待ち伏せを覚えて育つ。そして島の外へ出て、雇い兵となった。アレクサンドロス大王の軍にも、その後継者たちの軍にも、ローマの軍にも、カルタゴの軍にも、クレタの弓兵がいた。同じ戦いの両方の側にクレタ人がいることも珍しくなかった。\n\n弓のほかに小さな盾を持ち、近くで戦うこともできた。矢じりは大きく重い。山を走り、夜に動き、待ち伏せをしかけ、追撃をかわす。ポリュビオスは書いている。「待ち伏せ、不意打ち、夜襲、だまし討ちなど、ばらばらに戦う場面では、陸でも海でもクレタ人にかなう者はない。だが正面から堂々とぶつかる会戦では、彼らは臆病で、心が定まらない。」\n\nクレタ人の評判は良くなかった。金のためならどちらにも付く、と言われた。「クレタ人にクレタ流でやり返す」は、だます者をだまし返すという意味の諺である。\n\n前217年、トレビアの敗戦を聞いたシュラクサイの王ヒエロンは、ローマに助けを送った。クレタの弓兵五百人と、軽い盾の歩兵千人である。翌年にもヒエロンは弓兵と投石兵千人を送り、使いにこう言わせた。「ローマ人は自分たちの市民とラテン人のほかは歩兵にも騎兵にも使わないことは知っている。だが軽い兵には、外国の者も使っているのを見た。」[[p:ハンニバル]]の投石兵と投げ槍の兵に対抗するには、遠くから射る兵が要る、というのである。ローマはこれを受け取った。",
+    "en": "The Greeks made little use of the bow; in hoplite warfare it was thought a low man's weapon. Crete alone had long been known as the home of master archers.\n\nCrete was mountainous and poor, its hundred small cities — so they were counted — forever at war with one another. Its young men grew up learning to hunt and to lie in ambush in the hills, and then went abroad as hired soldiers. There were Cretan archers in Alexander's army and his successors', in Rome's and in Carthage's, and often enough on both sides of the same battle.\n\nBesides the bow they carried a small shield and could fight at close quarters; their arrowheads were large and heavy. They ran the hills, moved by night, laid ambushes and slipped pursuit. \"In ambushes, surprises, night attacks and tricks, in all fighting in small parties,\" writes Polybius, \"the Cretans are without equal by land or sea. In a fair and open pitched battle they are cowardly and irresolute.\"\n\nThey had a poor name. For money, it was said, they would serve either side. \"To play the Cretan with a Cretan\" was a proverb for cheating a cheat.\n\nIn 217 BC King Hiero of Syracuse, hearing of the defeat on the Trebia, sent help to Rome: five hundred Cretan archers and a thousand light foot. The next year he sent a thousand archers and slingers more, with the message: \"I know the Romans use none but citizens and Latins for their foot and horse, but for light troops I have seen that they employ foreigners too.\" Against [[p:ハンニバル|Hannibal]]'s slingers and javelin men, men who could shoot from a distance were needed. Rome accepted them."
+   },
+   "year": 217,
+   "people": [
+    "ヒエロン2世|Hiero II"
+   ],
+   "related": [
+    "velites",
+    "balearic",
+    "thureophoroi",
+    "peltasts"
+   ],
+   "src": [
+    "polybius:第3巻75章|book 3, 75",
+    "livy:第22巻37章|book 22, 37",
+    "polybius:第4巻8章|book 4, 8"
+   ],
+   "keepSrc": true
+  },
+  "tarentine": {
+   "kind": "unit",
+   "title": {
+    "ja": "タレントゥム騎兵",
+    "en": "The Tarentine horse"
+   },
+   "body": {
+    "ja": "タレントゥムはイタリアの踵の内側にある、スパルタ人が建てたギリシア人の町である。良い港を持ち、羊毛と紫の染め物で富んだ。その騎兵は独特の戦い方で知られ、やがて「タレントゥム騎兵」は町の名を離れて、一つの兵種の名となった。\n\nタレントゥム騎兵は軽い騎兵である。盾を持ち、投げ槍を数本携える。敵に近づいては投げ槍を投げ、向きを変えて離れ、また近づく。組み合って戦うことは避ける。リウィウスは、一人が二頭の馬を連れ、一頭が疲れると、甲を着けたまま、走りながらもう一頭に飛び移る兵について書いている。\n\nギリシアの将たちは、この兵を雇って偵察と小競り合いに使った。前207年のマンティネイアで、アカイア同盟のフィロポイメンも、スパルタの僭主マカニダスも、陣の前にタレントゥム騎兵を出した。戦いは、両軍のタレントゥム騎兵のぶつかり合いから始まっている。雇われたのは、必ずしもタレントゥムの生まれの者ではなかった。\n\nタレントゥムの町そのものは、前272年からローマに従っていた。前212年、ローマに人質に出されていた若者たちが逃げようとして捕まり、崖から突き落とされた。怒ったタレントゥムの若い貴族たちは、[[p:ハンニバル]]に町を渡す計画を立てた。\n\n首謀者の一人フィレメノスは、狩りが好きだという評判を作った。毎晩のように町の外へ出て、獲物を持って戻り、門番に分けてやる。門番は口笛を聞くとすぐに門を開けるようになった。ある夜、フィレメノスは大きな猪を担いで戻った。門番が猪に見とれている間に、後ろにいたカルタゴ兵が門番を刺した。町は一夜で落ちた。だが港の入り口の砦はローマの守備隊が守り抜き、三年ののち、ファビウスが内通を使って町を取り戻した。三万人が奴隷に売られたという。",
+    "en": "Tarentum, inside the heel of Italy, was a Greek city founded by Spartans, with a fine harbour and wealth from wool and purple dye. Its cavalry was known for a way of fighting of its own, and in time \"Tarentines\" became the name of a kind of soldier, wherever he came from.\n\nThey were light horse with a shield and several javelins: ride up, throw, wheel away, come on again, and never close. Livy tells of men who each led a second horse and, when one tired, would leap in full armour and at the gallop onto the other.\n\nGreek generals hired them for scouting and skirmishing. At Mantinea in 207 BC both Philopoemen of the Achaean League and Machanidas, tyrant of Sparta, sent their Tarentines out before the line, and the battle began with the two bodies of Tarentines colliding. Men so hired were not necessarily born in Tarentum.\n\nThe city itself had been subject to Rome since 272. In 212 BC Tarentine hostages held at Rome tried to escape, were caught and were thrown from the rock. The young nobles of Tarentum, enraged, plotted to hand the city to [[p:ハンニバル|Hannibal]].\n\nOne of the ringleaders, Philemenus, gave himself out as a passionate hunter. Night after night he went out of the city and came back with game, some of which he gave the gatekeepers, until they would open at his whistle. One night he came back carrying a huge boar. While the guard was admiring it, the Carthaginians behind him ran the guard through. The city fell in a night. But the Roman garrison held the citadel at the harbour mouth, and three years later Fabius won the city back through a traitor within. Thirty thousand people, it is said, were sold as slaves."
+   },
+   "year": 212,
+   "people": [
+    "ハンニバル|Hannibal",
+    "クィントゥス・ファビウス・マクシムス|Quintus Fabius Maximus"
+   ],
+   "related": [
+    "aetolian_horse",
+    "thureophoroi",
+    "numidian"
+   ],
+   "src": [
+    "polybius:第11巻12章|book 11, 12",
+    "livy:第35巻28章|book 35, 28",
+    "polybius:第8巻24-34章|book 8, 24-34",
+    "livy:第27巻15-16章|book 27, 15-16"
+   ],
+   "keepSrc": true
+  },
+  "illyrian": {
+   "kind": "unit",
+   "title": {
+    "ja": "イリュリアの兵とレンボス船",
+    "en": "The Illyrians and their lemboi"
+   },
+   "body": {
+    "ja": "アドリア海の東の岸、今のアルバニアからクロアチアにかけて、イリュリア人と呼ばれる人々が住んでいた。海岸は入り組み、島が多く、後ろはすぐ山である。耕す土地は少ない。彼らは海へ出た。\n\nイリュリア人の船は「レンボス」という。甲板のない、細長く軽い船で、櫂は一段、漕ぎ手は五十人ほど。漕ぎ手がそのまま戦う兵となる。衝角で突き合う海戦には向かないが、速く、浅い所にも入れ、浜に引き上げられる。群れをなして岸の町を襲い、奪えるだけ奪って去る。\n\n前231年、イリュリアの王アグロンは百隻のレンボスに五千の兵を載せ、アイトリア人に囲まれた町を救って大勝した。王は喜びのあまり飲み続けて死んだ。あとを継いだ妃のテウタは、臣下に「海で出会う船はみな獲物にしてよい」と許した。イタリアの商人たちが襲われ、殺された。ローマが使いを送って咎めると、テウタは「王は臣下が海で得るものを妨げないのがイリュリアの習わしだ」と答えた。若い使いが言い返し、帰りの船で殺された。\n\n前229年、ローマは二百隻の艦隊と二万の兵をアドリア海の向こうへ送った。ローマが初めてイタリアの東へ出た戦いである。テウタは降り、ローマは海岸の町々を保護のもとに置いた。\n\nこのときローマに寝返って取り立てられたのが、ファロス島のデメトリオスである。だが彼もやがてローマに背き、九十隻のレンボスでエーゲ海まで荒らし回った。前219年、ローマはファロスを攻め落とし、デメトリオスはマケドニアの若い王フィリッポス五世のもとへ逃げた。カンナエの報せが届いたとき、フィリッポスに「今こそイタリアへ渡るべきだ」と耳打ちしたのは、このデメトリオスであった。\n\nフィリッポス自身、イリュリア人の船大工に百隻のレンボスを造らせてアドリア海へ出ている。だが前216年は、ローマの五段櫂船が来るという噂を聞いただけで引き返した。前214年にはアポロニアの近くでローマ軍の夜襲を受け、船を焼いて山を越え、逃げ帰っている。",
+    "en": "On the eastern shore of the Adriatic, from today's Albania up into Croatia, lived the peoples called Illyrians. The coast is broken and full of islands, with mountains close behind and little land to plough. They took to the sea.\n\nThe Illyrian ship was the lembos: undecked, long, narrow and light, with one bank of oars and about fifty rowers, who were its fighting men too. It was no ship for a battle of rams, but it was fast, could go into shallows and could be hauled up a beach. In swarms they fell on coastal towns, took what they could and were gone.\n\nIn 231 BC King Agron of the Illyrians put five thousand men in a hundred lemboi, relieved a town besieged by the Aetolians and won a great victory — and in his joy drank himself to death. His queen, Teuta, who succeeded him, gave her subjects leave to treat every ship they met at sea as prey. Italian merchants were attacked and killed. When Rome sent envoys to protest, Teuta answered that it was not the custom of Illyrian kings to hinder what their subjects won at sea. The younger envoy answered back, and was killed on the voyage home.\n\nIn 229 BC Rome sent two hundred ships and twenty thousand men across the Adriatic, its first war east of Italy. Teuta submitted, and Rome took the coastal towns under its protection.\n\nThe man who went over to Rome then and was rewarded for it was [[p:ファロスのデメトリオス|Demetrius of Pharos]]. He turned against Rome in his turn and raided as far as the Aegean with ninety lemboi. In 219 BC Rome stormed Pharos and Demetrius fled to the young king of Macedon, [[p:フィリッポス5世|Philip V]]. When the news of Cannae came, it was Demetrius who whispered to Philip that now was the time to cross to Italy.\n\nPhilip himself had Illyrian shipwrights build him a hundred lemboi and put out into the Adriatic. In 216 BC he turned back at the mere rumour that Roman quinqueremes were coming. In 214, surprised by a Roman night attack near Apollonia, he burned his ships and fled home over the mountains."
+   },
+   "year": 229,
+   "people": [
+    "ファロスのデメトリオス|Demetrius of Pharos",
+    "フィリッポス5世|Philip V"
+   ],
+   "related": [
+    "quinquereme",
+    "peltasts"
+   ],
+   "src": [
+    "polybius:第2巻2-12章|book 2, 2-12",
+    "polybius:第3巻16章・18-19章|book 3, 16 and 18-19",
+    "polybius:第5巻101章・109-110章|book 5, 101 and 109-110",
+    "livy:第24巻40章|book 24, 40"
+   ],
+   "keepSrc": true
+  },
+  "gallic_warriors": {
+   "kind": "unit",
+   "title": {
+    "ja": "ガリアの戦士",
+    "en": "The Gallic warriors"
+   },
+   "body": {
+    "ja": "アルプスの南、ポー川の平野には、ガリア人 (ケルト人) の部族が住んでいた。インスブレス族、ボイイ族、ケノマニ族、セノネス族。前390年ごろ、彼らはローマの町を焼いた。それ以来、ローマ人にとってガリア人は最も恐ろしい敵であった。\n\nポリュビオスは前225年のテラモンの戦いでの彼らの姿を書いている。数えきれないラッパと角笛が鳴り、全軍がいっせいに鬨の声をあげる。その音は、ラッパと兵だけでなく、まわりの土地そのものが叫んでいるように聞こえた。最前列には、背が高く、若く、体のみごとな戦士たちが、首と腕に金の輪だけを着けて裸で立っていた。アルプスの向こうから雇われて来た「ガイサタイ」である。彼らは、衣が茨に引っかかって武器の邪魔になるのを嫌って脱ぎ捨てたのだという。\n\n武器は長い剣と大きな盾である。剣は切っ先がなく、斬ることしかできない。しかも鉄が柔らかく、一度打ち下ろすと曲がってしまう。足で踏んでまっすぐに直さなければ二度目が打てない、とポリュビオスは書く。ローマ兵はこれを知っていて、最初の一撃を盾の縁で受け、敵が剣を直す暇を与えずに、下から腹と顔を突いた。盾も体全体は覆えない。裸の戦士たちは、ローマの投げ槍の雨の中で、盾が小さすぎることを知った。\n\nガリア人の最初の突撃は恐ろしい。だがそれを持ちこたえられれば、彼らは長くは続かない。ローマ人はそう考えていた。\n\n[[p:ハンニバル]]は、このガリア人を味方に付けることに遠征の成否を賭けた。前218年にポー川の平野に下りると、ボイイ族とインスブレス族が加わった。ハンニバルは彼らを陣の中央に置いた。最も損害の大きい場所である。カンナエでハンニバル軍が失った五千七百人のうち、四千人がガリア人であった。\n\nガリア人の側からすれば、これは自分たちの戦いであった。ローマは前218年、彼らの土地にプラケンティアとクレモナという二つの植民市を建てたばかりである。ボイイ族はハンニバルが去った後も戦い続け、前191年に敗れて土地の半分を奪われた。",
+    "en": "South of the Alps, on the plain of the Po, lived tribes of Gauls: Insubres, Boii, Cenomani, Senones. About 390 BC they had burned the city of Rome, and ever since the Gauls had been the enemy Romans feared most.\n\nPolybius describes them at Telamon in 225 BC. Countless trumpets and horns sounded, and the whole host raised its war cry at once, so that it seemed that not only trumpets and men but the country round about was crying out. In the front rank stood tall young warriors of splendid build, naked but for gold torcs and armlets: the Gaesatae, hired from beyond the Alps. They had thrown off their clothes, it was said, so as not to catch in the brambles and hamper their weapons.\n\nTheir weapons were the long sword and the large shield. The sword had no point and could only slash; and its iron was so soft that it bent at the first blow, and the man had to straighten it with his foot before he could strike again, Polybius says. The Romans knew it: they took the first cut on the rim of the shield and, giving the enemy no time to straighten his blade, stabbed up at belly and face. Nor did the shield cover the whole man. Under the rain of Roman javelins the naked warriors found their shields too small.\n\nThe first charge of the Gauls was terrible. Withstand it, the Romans held, and they did not last.\n\n[[p:ハンニバル|Hannibal]] staked his expedition on winning these Gauls. When he came down onto the plain of the Po in 218 BC the Boii and Insubres joined him. He put them in the centre of his line, where the losses were heaviest. Of the 5,700 men he lost at Cannae, four thousand were Gauls.\n\nFrom the Gauls' side it was their own war. In 218 BC Rome had just planted two colonies on their land, Placentia and Cremona. The Boii fought on after Hannibal had gone, until in 191 BC they were beaten and lost half their territory."
+   },
+   "year": 225,
+   "people": [
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "gallic_horse",
+    "iberian_foot",
+    "libyan_foot",
+    "hastati",
+    "thureophoroi"
+   ],
+   "src": [
+    "polybius:第2巻28-33章|book 2, 28-33",
+    "polybius:第3巻113-117章|book 3, 113-117",
+    "livy:第21巻25章|book 21, 25"
+   ],
+   "keepSrc": true
+  },
+  "gallic_horse": {
+   "kind": "unit",
+   "title": {
+    "ja": "ガリアの騎兵",
+    "en": "The Gallic horse"
+   },
+   "body": {
+    "ja": "ガリア人の社会で、馬に乗って戦うのは貴族であった。ガリア人は馬を愛し、良い馬には大金を払った。貴族の力は、どれだけ多くの従者と食客を養えるかで測られ、戦いにはその者たちを引き連れて出た。\n\n騎兵は槍と長い剣、盾を持つ。裕福な者は鎖を編んだ甲を着た。鎖の甲はガリア人の発明とされ、ローマ人はこれを彼らから学んだ。鞍には四つの角があり、鐙がなくても体をしっかり支える。馬の扱いは巧みで、ローマはのちにカエサルの時代、騎兵のほとんどをガリア人に頼るようになる。\n\n前222年、執政官マルケルスはポー川の南のクラスティディウムで、インスブレス族を助けに来たガイサタイの軍と出会った。ガイサタイの王ウィリドマルスは、金と銀で飾り色とりどりに染めた甲を着て馬を進め、マルケルスに一騎打ちを挑んだ。マルケルスは槍で相手の胸当てを貫いて突き落とし、とどめを刺して甲を剥ぎ取った。敵の大将を自分の手で討って取った甲 (スポリア・オピマ) をユピテルの神殿にささげたのは、ローマの歴史でこれが三人目であり、最後であった。\n\n[[p:ハンニバル]]がイタリアに入ると、ガリアの騎兵は彼の軍に加わった。トレビアの前夜、ローマの陣にいたガリア人二千の歩兵と二百の騎兵は、夜のうちに近くのローマ兵を襲って首を取り、それを手土産にハンニバルのもとへ走っている。\n\nカンナエで、ガリアの騎兵はイベリアの騎兵とともに左の翼に並んだ。ローマ市民の騎兵を押しつぶし、ローマ軍の後ろを回って、歩兵の背中に突き入った騎兵である。ハンニバルの騎兵一万のうち、アルプスを越えて来たのは六千。残りの四千はイタリアで加わったガリア人であった。",
+    "en": "Among the Gauls it was the nobles who fought on horseback. The Gauls loved horses and paid great sums for good ones. A noble's power was measured by the number of retainers and dependants he could keep, and he rode to war at their head.\n\nA horseman had spear, long sword and shield; the rich wore mail. Mail is held to be a Gallic invention, and the Romans learned it from them. The saddle had four horns that held a rider firm without stirrups. They were fine horsemen: by Caesar's day Rome would depend on Gauls for nearly all its cavalry.\n\nIn 222 BC the consul Marcellus, at Clastidium south of the Po, met the Gaesatae who had come to help the Insubres. Their king Viridomarus rode out in armour bright with gold and silver and many colours, and challenged him to single combat. Marcellus drove his lance through the king's cuirass, bore him to the ground, finished him and stripped his armour. He was the third man in Rome's history, and the last, to dedicate in Jupiter's temple the spoils of an enemy commander killed by his own hand.\n\nWhen [[p:ハンニバル|Hannibal]] entered Italy the Gallic horse joined him. On the eve of the Trebia two thousand Gallic foot and two hundred horse serving in the Roman camp fell by night on the Romans quartered near them, cut off their heads and went over to Hannibal with these as their gift.\n\nAt Cannae the Gallic horse stood with the Iberian on the left: the cavalry that crushed the Roman citizen horse, rode round behind the Roman army and drove into the backs of its foot. Of Hannibal's ten thousand horse, six thousand had crossed the Alps. The other four thousand were Gauls who had joined him in Italy."
+   },
+   "year": 222,
+   "people": [
+    "マルクス・クラウディウス・マルケッルス|Marcus Claudius Marcellus",
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "gallic_warriors",
+    "punic_horse",
+    "equites"
+   ],
+   "src": [
+    "plutarch:マルケルス伝|Life of Marcellus",
+    "polybius:第3巻67章|book 3, 67",
+    "polybius:第3巻113-116章|book 3, 113-116"
+   ],
+   "keepSrc": true
+  },
+  "ligurian": {
+   "kind": "unit",
+   "title": {
+    "ja": "リグリアの兵",
+    "en": "The Ligurians"
+   },
+   "body": {
+    "ja": "リグリア人は、今のジェノヴァを中心に、アルプスの西の端からアペニンの北の山々にかけて住んだ人々である。土地は石だらけで痩せている。後の地理学者は書いている。彼らは岩を砕いて畑を作り、木を切り、狩りをし、一日じゅう苦しい仕事をしてわずかな収穫を得る。暮らしの厳しさが体を細く固くした。女は男のように、男は獣のように強い、と。\n\n兵としては軽い歩兵である。盾と槍と剣を持ち、甲は着けないか軽い。山を知り尽くし、岩陰に伏せ、細い道で襲う。ローマ人は、リグリア人との戦いほど兵を鍛えるものはないと言った。相手は身軽で、土地は険しく、取る物は何もない。小さな砦を一つひとつ落とすしかなかった。\n\nリグリア人は昔からカルタゴに雇われていた。シチリアでも、アフリカでも、カルタゴの軍には彼らの姿がある。[[p:ハンニバル]]の軍にもいた。\n\n前205年、ハンニバルの末の弟マゴは、三十隻の軍船に歩兵一万二千と騎兵二千を載せてバレアレスの島から渡り、守る者のいないゲヌアを襲って取った。マゴはそこでリグリアの部族と結び、ガリア人を集めた。カルタゴは船で兵と象と金を送り足した。イタリアの北にもう一つの戦線を開いて、スキピオのアフリカ行きを止めようとしたのである。\n\n前203年、マゴはインスブレス族の地でローマの四つの軍団とぶつかった。戦いが決まらないうちに、マゴは腿を深く刺されて落馬し、軍は退いた。カルタゴからの呼び戻しの命を受けて船に乗ったマゴは、サルディニアの沖で傷がもとで死んだ。\n\n前202年のザマで、ハンニバルの第一列に並んだ雇い兵の中に、リグリア人の名が最初に挙げられている。ローマとリグリアの戦いはこのあと五十年続いた。ローマはついに、四万のリグリア人を家族ごと南イタリアのサムニウムへ移して、山を空にした。",
+    "en": "The Ligurians lived from the western end of the Alps along the northern Apennines, with today's Genoa at the centre. Their land was stony and poor. A later geographer writes that they break rocks to make fields, fell timber, hunt, and toil the whole day for a scanty crop; the hardness of their life makes their bodies lean and tough — their women as strong as men, their men as strong as wild beasts.\n\nAs soldiers they were light foot: shield, spear and sword, little or no armour. They knew their mountains, lay hidden among the rocks and struck on the narrow paths. Nothing hardened soldiers, the Romans said, like a war with Ligurians: a nimble enemy, rough country, nothing to take, and one small stronghold after another to be reduced.\n\nThey had long been hired by Carthage; they are found in its armies in Sicily and in Africa, and in [[p:ハンニバル|Hannibal]]'s.\n\nIn 205 BC Mago, Hannibal's youngest brother, crossed from the Balearic islands with twelve thousand foot and two thousand horse in thirty warships, surprised undefended Genua and took it. There he allied himself with Ligurian tribes and gathered Gauls, and Carthage sent him more men, elephants and money by sea. The aim was to open another front in the north of Italy and keep Scipio from going to Africa.\n\nIn 203 BC Mago met four Roman legions in the land of the Insubres. Before the fight was decided he was run through the thigh and fell from his horse, and his army drew off. Ordered home by Carthage, he took ship, and died of the wound off Sardinia.\n\nAt Zama in 202 BC the Ligurians are named first among the mercenaries of Hannibal's front line. Rome's wars with the Ligurians went on for fifty years more, until at last it moved forty thousand of them, families and all, to Samnium in the south and emptied the mountains."
+   },
+   "year": 205,
+   "people": [
+    "マゴ・バルカ|Mago Barca",
+    "ハンニバル|Hannibal"
+   ],
+   "related": [
+    "punic_mercs",
+    "gallic_warriors"
+   ],
+   "src": [
+    "legend:ディオドロス 第5巻39章|Diodorus, book 5, 39",
+    "livy:第28巻46章|book 28, 46",
+    "livy:第30巻18-19章|book 30, 18-19",
+    "polybius:第15巻11章|book 15, 11"
+   ],
+   "keepSrc": true
+  },
+  "celtiberian": {
+   "kind": "unit",
+   "title": {
+    "ja": "ケルティベリアの兵",
+    "en": "The Celtiberians"
+   },
+   "body": {
+    "ja": "イベリア半島の真ん中の高原には、ケルティベリア人が住んでいた。ピレネーを越えて来たケルト人と、もとからいたイベリア人が混じり合った民だという。冬は厳しく、土地は荒い。彼らは丘の上の砦の町に住み、羊と山羊を飼い、そして雇われて戦った。\n\nケルティベリアの剣は名高かった。後の歴史家は、その作り方をこう伝える。鉄の板を土に埋めて長く放っておく。弱い部分が錆びて落ち、強い部分だけが残る。それを鍛えて剣にする。この剣は、盾でも兜でも骨でも、打ち当たるものをすべて断ち切る、と。彼らはまた、柄まで鉄で作った投げ槍を使い、黒い粗い毛の外套を着ていた。\n\n陣は楔の形を組んだ。先頭に最も強い者を置き、敵の列に食い込んで割る。この楔がいったん敵の中に入ると、押し返すのは難しかった。\n\n前213年、イベリアで戦っていたスキピオ兄弟は、ケルティベリアの若者二万を、カルタゴが払っていたのと同じ給料で雇い入れた。リウィウスは、ローマが自分の陣営に雇い兵を入れたのはこれが初めてだと書いている。兄弟はこの兵を頼みに、軍を二つに分けて三人のカルタゴの将を一度に討とうとした。\n\n前211年、[[p:ハスドルバル・バルカ]]はケルティベリアの長たちにひそかに使いを送り、金を払って国へ帰らせた。彼らは「国で戦が起こった」と言い、陣を払って去った。引き止めることも、力で止めることもできない。兄グナエウスは三分の一に減った兵で取り残され、弟プブリウスも別の場所で囲まれ、ひと月のうちに二人とも討たれた。リウィウスは書いている。「ローマの将は、これを戒めとして、自分の陣営の中で外国の助けの兵が自分の兵より多くなるようなことを、決してしてはならない。」\n\nケルティベリア人はカルタゴの側でも戦った。前203年の大平原の戦いで、ヌミディア人とカルタゴ人が逃げたあと、中央に残ったのは四千のケルティベリア人であった。土地を知らないので逃げ場がなく、スキピオに背いて敵に付いた身なので降っても許されない。彼らは囲まれ、ほとんど最後の一人まで戦って倒れた。その間に、カルタゴの将たちは逃げることができた。",
+    "en": "On the high plateau in the middle of the Spanish peninsula lived the Celtiberians: a people, it was said, of Celts who had crossed the Pyrenees mingled with the Iberians already there. The winters are hard and the land rough. They lived in fortified hill towns, kept sheep and goats, and fought for hire.\n\nTheir swords were famous. A later historian tells how they were made: plates of iron were buried in the ground and left a long time, until the weak part had rusted away and only the strong remained; this was forged into a sword that would cut through whatever it struck, shield, helmet or bone. They also used a javelin made of iron throughout, and wore rough black woollen cloaks.\n\nThey formed in a wedge, their strongest men at the point, to bite into an enemy line and split it. Once the wedge was in, it was hard to push out.\n\nIn 213 BC the Scipio brothers, campaigning in Spain, hired twenty thousand young Celtiberians at the pay Carthage had been giving them. Livy says it was the first time Rome had hired soldiers in its camp. Trusting to them, the brothers divided their army to strike all three Carthaginian generals at once.\n\nIn 211 BC [[p:ハスドルバル・バルカ|Hasdrubal Barca]] sent quietly to the Celtiberian chiefs and paid them to go home. They said war had broken out in their own country, struck camp and left. They could be neither persuaded nor held by force. The elder brother, Gnaeus, was left with a third of his numbers; the younger, Publius, was surrounded elsewhere; within the month both were dead. \"Roman generals should take this as a warning,\" writes Livy, \"never to let foreign auxiliaries outnumber their own men in their camp.\"\n\nCeltiberians fought for Carthage too. At the Great Plains in 203 BC, when Numidians and Carthaginians had fled, four thousand Celtiberians were left in the centre. Not knowing the country, they had nowhere to run; having gone over to the enemy against Scipio, they could expect no mercy. They were surrounded and fought almost to the last man. In the time that took, the Carthaginian generals got away."
+   },
+   "year": 211,
+   "people": [
+    "グナエウス・スキピオ|Gnaeus Cornelius Scipio",
+    "ハスドルバル・バルカ|Hasdrubal Barca",
+    "プブリウス・コルネリウス・スキピオ|Publius Cornelius Scipio (Africanus)"
+   ],
+   "related": [
+    "iberian_foot",
+    "gladius",
+    "punic_mercs"
+   ],
+   "src": [
+    "legend:ディオドロス 第5巻33章|Diodorus, book 5, 33",
+    "livy:第24巻49章|book 24, 49",
+    "livy:第25巻33章|book 25, 33",
+    "polybius:第14巻8章|book 14, 8"
+   ],
+   "keepSrc": true
   }
  },
  "goods": [
@@ -5975,5 +6691,570 @@
    "Gades",
    "carthago_nova_name"
   ]
+ ],
+ "arms": [
+  {
+   "art": "velites",
+   "adopt": [
+    [
+     218,
+     "rome",
+     "q"
+    ]
+   ],
+   "share": 0.13,
+   "glyph": "javelin",
+   "place": "front"
+  },
+  {
+   "art": "hastati",
+   "adopt": [
+    [
+     218,
+     "rome",
+     "q"
+    ]
+   ],
+   "share": 0.13,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "principes",
+   "adopt": [
+    [
+     218,
+     "rome",
+     "q"
+    ]
+   ],
+   "share": 0.13,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "triarii",
+   "adopt": [
+    [
+     218,
+     "rome",
+     "q"
+    ]
+   ],
+   "share": 0.065,
+   "glyph": "spear",
+   "place": "rear"
+  },
+  {
+   "art": "equites",
+   "adopt": [
+    [
+     218,
+     "rome",
+     "q"
+    ]
+   ],
+   "share": 0.03,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "cretan",
+   "adopt": [
+    [
+     218,
+     "syracuse",
+     "q"
+    ],
+    [
+     218,
+     "achaea",
+     "q"
+    ],
+    [
+     218,
+     "sparta",
+     "q"
+    ],
+    [
+     218,
+     "macedon",
+     "q"
+    ],
+    [
+     217,
+     "rome"
+    ]
+   ],
+   "share": 0.02,
+   "max": 1500,
+   "glyph": "bow",
+   "place": "front"
+  },
+  {
+   "art": "celtiberian",
+   "adopt": [
+    [
+     212,
+     "rome"
+    ]
+   ],
+   "share": 0.15,
+   "max": 20000,
+   "over": [
+    [
+     212,
+     1
+    ],
+    [
+     211,
+     1
+    ],
+    [
+     210,
+     0
+    ]
+   ],
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "numidian",
+   "adopt": [
+    [
+     206,
+     "rome"
+    ]
+   ],
+   "share": 0.06,
+   "max": 6000,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "quinquereme",
+   "adopt": [
+    [
+     218,
+     "rome",
+     "q"
+    ],
+    [
+     218,
+     "carthage",
+     "q"
+    ],
+    [
+     218,
+     "syracuse",
+     "q"
+    ],
+    [
+     218,
+     "massalia",
+     "q"
+    ]
+   ],
+   "share": 0.08,
+   "glyph": "boat",
+   "place": "rear"
+  },
+  {
+   "art": "rm_siege",
+   "adopt": [
+    [
+     218,
+     "rome",
+     "q"
+    ],
+    [
+     218,
+     "carthage",
+     "q"
+    ],
+    [
+     218,
+     "syracuse",
+     "q"
+    ],
+    [
+     218,
+     "macedon",
+     "q"
+    ]
+   ],
+   "per": 8000,
+   "crew": 60,
+   "unit": {
+    "ja": "基",
+    "en": "engines"
+   },
+   "glyph": "siege",
+   "place": "rear"
+  },
+  {
+   "art": "libyan_foot",
+   "adopt": [
+    [
+     218,
+     "carthage",
+     "q"
+    ]
+   ],
+   "share": 0.22,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "iberian_foot",
+   "adopt": [
+    [
+     218,
+     "carthage",
+     "q"
+    ]
+   ],
+   "share": 0.18,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "gallic_warriors",
+   "adopt": [
+    [
+     217,
+     "carthage"
+    ]
+   ],
+   "share": 0.15,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "balearic",
+   "adopt": [
+    [
+     218,
+     "carthage",
+     "q"
+    ]
+   ],
+   "share": 0.03,
+   "max": 2000,
+   "glyph": "sling",
+   "place": "front"
+  },
+  {
+   "art": "numidian",
+   "adopt": [
+    [
+     218,
+     "carthage",
+     "q"
+    ]
+   ],
+   "share": 0.08,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "punic_horse",
+   "adopt": [
+    [
+     218,
+     "carthage",
+     "q"
+    ]
+   ],
+   "share": 0.06,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "war_elephants",
+   "adopt": [
+    [
+     218,
+     "carthage",
+     "q"
+    ]
+   ],
+   "per": 1000,
+   "crew": 3,
+   "unit": {
+    "ja": "頭",
+    "en": "elephants"
+   },
+   "over": [
+    [
+     218,
+     0.8
+    ],
+    [
+     217,
+     0.03
+    ],
+    [
+     215,
+     0.5
+    ],
+    [
+     203,
+     0.5
+    ],
+    [
+     202,
+     2
+    ]
+   ],
+   "glyph": "elephant",
+   "place": "front"
+  },
+  {
+   "art": "phalanx",
+   "adopt": [
+    [
+     218,
+     "macedon",
+     "q"
+    ],
+    [
+     218,
+     "sparta",
+     "q"
+    ],
+    [
+     218,
+     "epirus",
+     "q"
+    ],
+    [
+     208,
+     "achaea"
+    ]
+   ],
+   "share": 0.5,
+   "glyph": "pike",
+   "place": "centre"
+  },
+  {
+   "art": "peltasts",
+   "adopt": [
+    [
+     218,
+     "macedon",
+     "q"
+    ]
+   ],
+   "share": 0.12,
+   "max": 5000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "companion",
+   "adopt": [
+    [
+     218,
+     "macedon",
+     "q"
+    ]
+   ],
+   "share": 0.04,
+   "max": 1000,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "aetolian_horse",
+   "adopt": [
+    [
+     218,
+     "aetolia",
+     "q"
+    ]
+   ],
+   "share": 0.1,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "tarentine",
+   "adopt": [
+    [
+     218,
+     "achaea",
+     "q"
+    ],
+    [
+     218,
+     "sparta",
+     "q"
+    ],
+    [
+     212,
+     "tarentum_r",
+     "q"
+    ]
+   ],
+   "share": 0.06,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "campanian_horse",
+   "adopt": [
+    [
+     216,
+     "capua_r",
+     "q"
+    ]
+   ],
+   "share": 0.12,
+   "max": 4000,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "gallic_horse",
+   "adopt": [
+    [
+     218,
+     "c:celt"
+    ],
+    [
+     217,
+     "carthage",
+     "q"
+    ]
+   ],
+   "share": 0.08,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "socii",
+   "adopt": [
+    [
+     218,
+     "rome"
+    ]
+   ],
+   "rest": true,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "oscan_foot",
+   "adopt": [
+    [
+     218,
+     "capua_r"
+    ],
+    [
+     218,
+     "bruttii"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  },
+  {
+   "art": "punic_mercs",
+   "adopt": [
+    [
+     218,
+     "carthage"
+    ]
+   ],
+   "rest": true,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "thureophoroi",
+   "adopt": [
+    [
+     218,
+     "c:greek"
+    ]
+   ],
+   "rest": true,
+   "glyph": "spear",
+   "place": "centre"
+  },
+  {
+   "art": "illyrian",
+   "adopt": [
+    [
+     218,
+     "c:illyr"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  },
+  {
+   "art": "numidian",
+   "adopt": [
+    [
+     218,
+     "c:numid"
+    ]
+   ],
+   "rest": true,
+   "glyph": "horse",
+   "place": "centre"
+  },
+  {
+   "art": "gallic_warriors",
+   "adopt": [
+    [
+     218,
+     "c:celt"
+    ]
+   ],
+   "rest": true,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "ligurian",
+   "adopt": [
+    [
+     218,
+     "ligures"
+    ]
+   ],
+   "rest": true,
+   "glyph": "javelin",
+   "place": "centre"
+  },
+  {
+   "art": "iberian_foot",
+   "adopt": [
+    [
+     218,
+     "c:iber"
+    ]
+   ],
+   "rest": true,
+   "glyph": "sword",
+   "place": "centre"
+  },
+  {
+   "art": "celtiberian",
+   "adopt": [
+    [
+     218,
+     "celtiberi"
+    ]
+   ],
+   "rest": true,
+   "glyph": "sword",
+   "place": "centre"
+  }
  ]
 }
