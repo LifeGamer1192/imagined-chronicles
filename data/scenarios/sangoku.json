@@ -7727,6 +7727,9 @@
     "劉備|Liu Bei",
     "夏侯惇|Xiahou Dun",
     "曹操|Cao Cao"
+   ],
+   "related": [
+    "bingzhou"
    ]
   },
   "wudang": {
@@ -8697,7 +8700,8 @@
     "baima",
     "hubaoqi",
     "wuhuan_riders",
-    "liang_horses"
+    "liang_horses",
+    "bingzhou"
    ],
    "src": [
     "sanguozhi:魏書 武帝紀|Wei, Annals of Emperor Wu",
@@ -9181,6 +9185,99 @@
     "sanguozhi:蜀書 馬良伝|Shu, Ma Liang",
     "sanguozhi:呉書 潘濬伝|Wu, Pan Jun",
     "houhanshu:馬援列伝|Ma Yuan"
+   ],
+   "keepSrc": true
+  },
+  "bingzhou": {
+   "kind": "unit",
+   "title": {
+    "ja": "并州の騎兵",
+    "en": "The horsemen of Bing province"
+   },
+   "body": {
+    "ja": "并州 (へいしゅう) は今の山西から内モンゴルの南にかけての土地である。北は匈奴や烏桓、鮮卑と境を接し、漢の人は牧畜の民と入り交じって暮らした。良い馬を産し、民は馬と弓に慣れていた。幽州・涼州と並んで、後漢の騎兵のふるさとである。\n\n後漢の末、并州刺史の丁原 (ていげん) は、この地の勇士を集めていた。五原の[[p:呂布]]は主簿としてそばに置かれ、雁門の[[p:張遼]]は従事として都へ兵を連れて上った。189年、[[p:霊帝]]が死ぬと、丁原は大将軍の[[p:何進]]に呼ばれて洛陽に入った。同じ頃、涼州の[[p:董卓]]も洛陽に着く。\n\n董卓は丁原の兵がほしかった。呂布を誘うと、呂布は丁原を斬り、その首を持って董卓に付いた。董卓は呂布を養子にした。呂布は弓と馬に巧みで力が人に過ぎ、「飛将」と呼ばれた。前漢の名将李広のあだ名である。\n\n192年に董卓を殺して長安を追われた呂布は、数百騎を連れて関を出た。[[p:袁紹]]のもとに身を寄せ、黒山の張燕を攻めたとき、呂布は「赤兎」という名馬に乗り、腹心の成廉と魏越ら数十騎とともに、一日に三度も四度も敵の陣に駆け入っては首を取って戻った。十日あまりで張燕の軍は破れた。世の人は「人中に呂布あり、馬中に赤兎あり」と言ったという。\n\n196年、呂布は[[p:劉備]]から徐州を奪った。[[p:袁術]]が将の紀霊に三万を付けて劉備を攻めさせると、呂布は両者を自分の陣に招き、陣の門に戟を立てさせて言った。「わたしが戟の小枝を射る。当たったら兵を引け。外れたら好きに戦え。」矢は小枝に当たった。諸将は「将軍は天の威をお持ちだ」と驚き、翌日、兵を引いた。\n\n198年の冬、呂布は下邳で[[p:曹操]]に囲まれ、水攻めの末に降って斬られた。配下の[[p:高順]]も斬られた。張遼は兵を連れて降り、曹操の将となった。207年に白狼山で烏桓の蹋頓を斬り、215年に合肥で八百人を率いて[[p:孫権]]の十万に斬り込んだのは、この并州の男である。",
+    "en": "Bing province ran from today's Shanxi into the south of Inner Mongolia. It bordered the Xiongnu, the Wuhuan and the Xianbei, and Han people lived there mixed with herders. It bred good horses, and its people were at home with horse and bow. With You and Liang it was the cradle of the Later Han cavalry.\n\nAt the end of the Later Han its Inspector, Ding Yuan, gathered the brave men of the region about him. [[p:呂布|Lü Bu]] of Wuyuan was kept at his side as registrar; [[p:張遼|Zhang Liao]] of Yanmen, an assistant officer, was sent up to the capital with troops. When [[p:霊帝|Emperor Ling]] died in 189, Ding Yuan was summoned by the Grand General [[p:何進|He Jin]] and entered Luoyang. [[p:董卓|Dong Zhuo]] of Liang arrived about the same time.\n\nDong Zhuo wanted Ding Yuan's soldiers. He tempted Lü Bu, who cut off Ding Yuan's head and went over with it; Dong Zhuo made him his adopted son. Lü Bu was a master of bow and horse and stronger than other men, and was called the \"Flying General\" — the old nickname of the great Li Guang of the Former Han.\n\nHaving killed Dong Zhuo in 192 and been driven from Chang'an, Lü Bu rode out through the pass with a few hundred horsemen. Taking refuge with [[p:袁紹|Yuan Shao]], he attacked Zhang Yan of the Black Mountains: mounted on a famous horse called Red Hare, with his trusted Cheng Lian, Wei Yue and a few dozen riders, he charged into the enemy lines three and four times a day and came back with heads. In ten days and more Zhang Yan's army was broken. \"Among men, Lü Bu; among horses, Red Hare,\" people said.\n\nIn 196 Lü Bu took Xu province from [[p:劉備|Liu Bei]]. When [[p:袁術|Yuan Shu]] sent his general Ji Ling with thirty thousand men against Liu Bei, Lü Bu invited both sides to his camp, had a halberd set up at the gate and said: \"I shall shoot at the small side-blade of that halberd. If I hit it, withdraw your troops. If I miss, fight as you please.\" The arrow struck the blade. \"The general has the majesty of heaven,\" the officers said in amazement, and next day they withdrew.\n\nIn the winter of 198 Lü Bu was besieged by [[p:曹操|Cao Cao]] at Xiapi, flooded out, surrendered and was put to death, and his officer [[p:高順|Gao Shun]] with him. Zhang Liao came over with his men and became a general of Cao Cao. The man who cut down Tadun of the Wuhuan at White Wolf Mountain in 207, and who at Hefei in 215 rode with eight hundred into [[p:孫権|Sun Quan]]'s hundred thousand, was this man of Bing."
+   },
+   "year": 189,
+   "people": [
+    "呂布|Lü Bu",
+    "張遼|Zhang Liao",
+    "董卓|Dong Zhuo",
+    "高順|Gao Shun",
+    "曹操|Cao Cao",
+    "袁紹|Yuan Shao",
+    "劉備|Liu Bei"
+   ],
+   "related": [
+    "sg_cavalry",
+    "xiliang",
+    "xianzhen",
+    "wuhuan_riders",
+    "battle_hefei"
+   ],
+   "src": [
+    "sanguozhi:魏書 呂布伝|Wei, Lü Bu",
+    "sanguozhi:魏書 呂布伝 注 曹瞞伝|Wei, Lü Bu (note: Cao Man zhuan)",
+    "sanguozhi:魏書 張遼伝|Wei, Zhang Liao"
+   ],
+   "keepSrc": true
+  },
+  "baier": {
+   "kind": "unit",
+   "title": {
+    "ja": "白毦兵",
+    "en": "The White Plume soldiers"
+   },
+   "body": {
+    "ja": "白毦兵 (はくじへい) は、[[p:劉備]]のそば近くに仕えた蜀の精鋭である。「毦」は、牦牛 (ヤク) の尾の毛で作った飾りのことで、兜や槍、旗の先に付ける。白い毛飾りを付けた兵、という名である。\n\nこの兵について伝わる記録はごくわずかである。[[p:諸葛亮]]が呉にいる兄の[[p:諸葛瑾]]に送った手紙の一節が、後の書物に引かれて残っている。「兄上は白帝の兵が精鋭でないことをご心配ですが、陳到が率いているのは先主 (劉備) の帳下の白毦で、西方の上兵です。もし少ないとお考えなら、江州の兵を割いて増やしましょう。」\n\n陳到 (ちんとう) は汝南の人で、劉備が豫州にいた頃から従った古い家臣である。『三国志』に伝は立てられていないが、蜀の人物をたたえた楊戯の文は、[[p:趙雲]]と並べてこう書く。「征南 (趙雲) は厚重、征西 (陳到) は忠克。選りすぐりの兵を統べ、猛将の烈なり。」陳到は永安の都督となり、呉との境の白帝城を守った。\n\n毛飾りには、劉備にまつわる逸話がある。『魏略』によれば、荊州にいた頃の劉備は毦を編むのが好きであった。あるとき人から牦牛の尾をもらい、自分の手で編んでいた。それを見た若い諸葛亮が進み出て言った。「将軍には遠い志がおありのはず。ただ毦を編んでおられるだけなのですか。」劉備は毦を投げ捨てて答えた。「何を言う。憂さを忘れようとしていただけだ。」そこから二人は天下の計を語り合った、という。\n\nこの話は、劉備が三度訪ねて諸葛亮を迎えたとする『三国志』本文の記述とは食い違っており、注を付けた裴松之自身が「事実ではない」と退けている。だが、わらじを売り、むしろを編んで育ったという劉備が手仕事を好んだこと、そしてその帳下の精鋭が白い毛飾りを印としていたことは、妙に符合している。",
+    "en": "The baier were the picked troops of Shu who served close about [[p:劉備|Liu Bei]]. Er is an ornament made from the tail hair of the yak, worn on helmet, spear or standard: the \"white plume\" soldiers.\n\nAlmost nothing is recorded of them. One passage survives, quoted in a later book, from a letter [[p:諸葛亮|Zhuge Liang]] sent his brother [[p:諸葛瑾|Zhuge Jin]] in Wu: \"You worry, brother, that the troops at Baidi are not of the best. But those Chen Dao commands are the White Plumes of the late lord's own tent, the finest soldiers of the west. If you think them too few, I can detach men from Jiangzhou to add to them.\"\n\nChen Dao was a man of Runan, an old follower of Liu Bei from his days in Yu province. He has no biography in the Records of the Three Kingdoms, but Yang Xi's eulogy of the men of Shu sets him beside [[p:趙雲|Zhao Yun]]: \"The General Who Subdues the South was grave and steady, the General Who Subdues the West loyal and able; commanding picked troops, they were the fiercest of generals.\" Chen Dao became Area Commander of Yong'an and held Baidi, on the border with Wu.\n\nThe plume has a story attached to Liu Bei. According to the Weilüe, Liu Bei in his years in Jing province was fond of plaiting such ornaments. Once, given a yak's tail, he was plaiting it with his own hands when the young Zhuge Liang came forward: \"General, you must have greater ends in view. Is plaiting ornaments all you do?\" Liu Bei threw it down. \"What do you mean? I was only trying to forget my cares.\" And from there the two fell to talking of how the empire might be won.\n\nThe tale does not agree with the Records' own statement that Liu Bei called on Zhuge Liang three times, and Pei Songzhi, who quotes it in his notes, himself rejects it as untrue. But that Liu Bei — who grew up selling sandals and weaving mats — liked work with his hands, and that the picked troops of his tent took a white plume for their mark, fit together oddly well."
+   },
+   "year": 221,
+   "people": [
+    "劉備|Liu Bei",
+    "諸葛亮|Zhuge Liang",
+    "諸葛瑾|Zhuge Jin",
+    "趙雲|Zhao Yun"
+   ],
+   "related": [
+    "wudang",
+    "lianzhu",
+    "sg_foot",
+    "jiefan"
+   ],
+   "src": [
+    "legend:太平御覧 引 諸葛亮「与兄瑾書」|Taiping yulan, quoting Zhuge Liang's letter to his brother",
+    "sanguozhi:蜀書 楊戯伝 季漢輔臣賛|Shu, Yang Xi (Eulogies of the Ministers of Han)",
+    "sanguozhi:蜀書 諸葛亮伝 注 魏略|Shu, Zhuge Liang (note: Weilüe)"
+   ],
+   "keepSrc": true
+  },
+  "jiefan": {
+   "kind": "unit",
+   "title": {
+    "ja": "解煩兵",
+    "en": "The Jiefan troops"
+   },
+   "body": {
+    "ja": "解煩 (かいはん) は「煩いを解く」の意である。呉の[[p:孫権]]が手元に置いた精鋭の名で、厄介ごとを片づける兵、というほどの意味であろう。\n\n成り立ちは『三国志』の胡綜の伝にある。221年、[[p:劉備]]が[[p:関羽]]の仇を討つため大軍で長江を下り、白帝城に入った。孫権は手元の兵が少ないのを見て、胡綜 (こそう) に命じて各県から兵を選ばせた。集まったのは六千人。孫権はこれを「解煩」の左右二つの部に分け、徐詳に左部を、胡綜に右部を率いさせた。\n\n胡綜と徐詳は、どちらも武人ではない。若い頃から孫権のそばで文書を司り、魏や蜀への手紙や檄文を書いた書記である。孫権は、最も信頼する側近に、新しく作った自分の兵を預けたのである。\n\n解煩兵は戦場に出た。223年、古参の将の韓当は、決死の兵と解煩の兵あわせて一万を率いて丹陽の賊を討ち、これを破った。陳武の子の陳修は、十九歳で孫権に召し出されて解煩督となり、五百人を預かった。父の兵には逃げる者が多かったが、陳修が率いると一人も逃げなくなり、孫権は喜んだという。\n\n呉には、このように名の付いた中央の精鋭がいくつもあった。「無難」「繞帳」「帳下」「馬閑」、そして孫権の車のそばを固める「車下虎士」。呉の軍は将がそれぞれ自分の兵を持って子に伝える仕組みであり、将の兵は将のものである。それだけに君主は、だれの私兵でもない自分だけの兵を持つ必要があった。解煩兵は、その一つである。",
+    "en": "Jiefan means \"undoing troubles\". It was the name of a picked force [[p:孫権|Sun Quan]] of Wu kept in his own hands — soldiers, one may say, for clearing up difficulties.\n\nHow it began is told in the biography of Hu Zong in the Records of the Three Kingdoms. In 221 [[p:劉備|Liu Bei]] came down the Yangzi with a great army to avenge [[p:関羽|Guan Yu]] and entered Baidi. Sun Quan, seeing that the troops at hand were few, had Hu Zong pick men from the counties. Six thousand were raised. Sun Quan formed them as the two divisions of the Jiefan, left and right, with Xu Xiang commanding the left and Hu Zong the right.\n\nNeither Hu Zong nor Xu Xiang was a soldier. Both had handled Sun Quan's papers at his side since their youth and drafted his letters and proclamations to Wei and Shu. He gave the new troops of his own to the men about him he trusted most.\n\nThe Jiefan went to war. In 223 the veteran Han Dang led ten thousand men, \"dare-to-die\" troops and Jiefan, against the bandits of Danyang and beat them. Chen Xiu, son of Chen Wu, was called to court at nineteen and made commandant of Jiefan with five hundred men; many of his father's soldiers had been running away, but under him not one did, and Sun Quan was delighted.\n\nWu had several such named corps at the centre: the Wunan (\"no difficulty\"), the Raozhang (\"round the tent\"), the Zhangxia (\"below the tent\"), the Maxian, and the \"tiger warriors by the carriage\" who kept beside Sun Quan's own chariot. In Wu each general had his own soldiers and passed them to his son; a general's men were his. All the more did the ruler need soldiers who were no one's but his. The Jiefan were among them."
+   },
+   "year": 222,
+   "people": [
+    "孫権|Sun Quan",
+    "劉備|Liu Bei"
+   ],
+   "related": [
+    "danyang",
+    "shanyue",
+    "sg_navy",
+    "baier",
+    "sg_foot"
+   ],
+   "src": [
+    "sanguozhi:呉書 胡綜伝|Wu, Hu Zong",
+    "sanguozhi:呉書 韓当伝|Wu, Han Dang",
+    "sanguozhi:呉書 陳武伝|Wu, Chen Wu"
    ],
    "keepSrc": true
   }
@@ -10432,6 +10529,56 @@
    ],
    "rest": true,
    "glyph": "javelin",
+   "place": "centre"
+  },
+  {
+   "art": "bingzhou",
+   "adopt": [
+    [
+     189,
+     "han",
+     "q"
+    ],
+    [
+     196,
+     "taoqian",
+     "q"
+    ],
+    [
+     199,
+     "cao"
+    ]
+   ],
+   "share": 0.05,
+   "max": 3000,
+   "glyph": "horse",
+   "place": "wing"
+  },
+  {
+   "art": "baier",
+   "adopt": [
+    [
+     221,
+     "shu",
+     "q"
+    ]
+   ],
+   "share": 0.02,
+   "max": 2000,
+   "glyph": "guard",
+   "place": "centre"
+  },
+  {
+   "art": "jiefan",
+   "adopt": [
+    [
+     222,
+     "wu"
+    ]
+   ],
+   "share": 0.04,
+   "max": 6000,
+   "glyph": "guard",
    "place": "centre"
   }
  ]

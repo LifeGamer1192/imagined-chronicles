@@ -19642,7 +19642,8 @@
    "related": [
     "chariot",
     "sunzi",
-    "wuzixu_whip"
+    "wuzixu_whip",
+    "chu_xiang"
    ],
    "src": [
     "zuo:定公四年|Duke Ding 4",
@@ -20864,6 +20865,36 @@
    ],
    "src": [
     "zuo:文公十六年|Duke Wen 16"
+   ],
+   "keepSrc": true
+  },
+  "chu_xiang": {
+   "kind": "unit",
+   "title": {
+    "ja": "楚の火象",
+    "en": "The fire elephants of Chu"
+   },
+   "body": {
+    "ja": "前506年の冬、呉王[[p:闔閭]]は[[p:孫武]]と[[p:伍子胥]]を用いて楚に攻め入り、柏挙で楚の大軍を破った。五度戦って五度勝ち、十日あまりで楚の都の郢に迫った。\n\n楚の昭王は妹を連れて都を逃げ出した。『春秋左氏伝』は、このときのことを短く記している。「王は、燧 (ひ) を執らせた象を呉の軍に奔らせた。」象の尾に火の付いたものを結び付け、驚いた象を呉軍の中へ走り込ませたのである。追っ手が乱れる間に、王は川を渡って雲夢の沢へ逃れた。\n\nこれは中国の記録に残る、戦いに象を使ったほとんど唯一の例である。楚が象を兵として育てていたわけではない。都で飼われていた象を、逃げるための時間かせぎに使ったのであろう。\n\n当時の中国に象がいたのか、と今の人は思う。いたのである。三千年前の殷の都の跡からは象の骨が出ており、甲骨文には王が象を捕らえた記録がある。『呂氏春秋』は「殷の人は象を従えて東の夷を苦しめた」と伝える。「象」という字は、長い鼻を持つ獣の姿をそのまま写した文字である。河南省の古い呼び名の「豫」は、人が象を引く姿だという説がある。\n\nその後、気候が寒くなり、森が切り開かれるにつれて、象は南へ退いていった。『[[p:孟子]]』は、周公が「虎・豹・犀・象を駆って遠ざけた」と語る。春秋の時代、象が残っていたのは長江の流域、楚の地であった。楚の雲夢の沢には犀と象が群れ、象牙と犀の革は楚の名産として中原に運ばれた。\n\n戦国の末には、中原の人は生きた象を見ることがなくなっていた。『[[p:韓非]]子』は書いている。「人は生きた象を見ることがまれである。だから死んだ象の骨を手に入れ、その図を頼りに生きた姿を思い描く。それで、人が心の中で思い描くものをみな『象』と言うのである。」頭の中に思い浮かべることを「想像」と言うのは、ここから来ている。",
+    "en": "In the winter of 506 BC King [[p:闔閭|Helü]] of Wu, with [[p:孫武|Sun Wu]] and [[p:伍子胥|Wu Zixu]], invaded Chu and broke its great army at Boju. He fought five times and won five times, and in little more than ten days was close on Ying, the capital of Chu.\n\nKing Zhao of Chu fled the capital with his young sister. The Zuozhuan notes, in a few words, what he did: \"The king had men holding fire drive elephants at the army of Wu.\" Burning stuff was tied to the elephants' tails, and the maddened animals were sent running into the men of Wu. While his pursuers were in confusion the king crossed the river and got away into the Yunmeng marshes.\n\nIt is almost the only case of elephants used in battle in the Chinese record. Chu was not breeding elephants for war. Animals kept in the capital were used, it would seem, to buy time for an escape.\n\nWere there elephants in China then? There were. Elephant bones have been dug from the ruins of the Shang capital of three thousand years ago, and the oracle bones record a king taking elephants. \"The men of Shang tamed elephants and with them oppressed the eastern Yi,\" says the Lüshi chunqiu. The character for elephant is simply a drawing of the beast with its long trunk; and the old name of Henan, Yu, is by one account a picture of a man leading an elephant.\n\nLater, as the climate cooled and the forests were cleared, the elephants withdrew south. [[p:孟子|Mencius]] has the Duke of Zhou \"driving tigers, leopards, rhinoceroses and elephants far away\". By the Spring and Autumn they were left in the basin of the Yangzi — the land of Chu. Rhinoceros and elephant herded in Chu's Yunmeng marshes, and ivory and rhinoceros hide went north as the famous goods of Chu.\n\nBy the end of the Warring States the men of the central plain no longer saw a living elephant. \"Men seldom see a living elephant,\" writes [[p:韓非|Han Fei]]zi. \"So they get the bones of a dead one and, going by the picture of it, imagine the living animal. Hence whatever a man pictures in his mind is called xiang, elephant.\" The word still used for imagining — xiangxiang, \"thinking the elephant\" — comes from this."
+   },
+   "year": 506,
+   "people": [
+    "闔閭|Helü",
+    "孫武|Sun Wu",
+    "伍子胥|Wu Zixu"
+   ],
+   "related": [
+    "battle_boju",
+    "chariot",
+    "wuyue_foot",
+    "zhoushi"
+   ],
+   "src": [
+    "zuo:定公四年|Duke Ding 4",
+    "lushi:古楽|Ancient Music",
+    "mengzi:滕文公下|Duke Wen of Teng II",
+    "hanfeizi:解老|Explaining Laozi"
    ],
    "keepSrc": true
   }
@@ -22726,6 +22757,24 @@
    "rest": true,
    "glyph": "javelin",
    "place": "centre"
+  },
+  {
+   "art": "chu_xiang",
+   "adopt": [
+    [
+     506,
+     "chu"
+    ]
+   ],
+   "to": 506,
+   "per": 10000,
+   "crew": 2,
+   "unit": {
+    "ja": "頭",
+    "en": "elephants"
+   },
+   "glyph": "elephant",
+   "place": "front"
   }
  ]
 }
