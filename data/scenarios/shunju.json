@@ -9050,6 +9050,601 @@
      "scholar"
     ]
    }
+  ],
+  [
+   "高渠弥",
+   "Gao Qumi",
+   "zheng",
+   "general",
+   745,
+   694,
+   {
+    "from": 715,
+    "ab": [
+     4,
+     7,
+     3,
+     4
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "end": "executed"
+   }
+  ],
+  [
+   "王子成父",
+   "Wangzi Chengfu",
+   "qi",
+   "general",
+   710,
+   640,
+   {
+    "from": 685,
+    "ab": [
+     5,
+     8,
+     4,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "欒枝",
+   "Luan Zhi",
+   "jin",
+   "general",
+   680,
+   622,
+   {
+    "from": 633,
+    "ab": [
+     6,
+     7,
+     5,
+     5
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "魏犨",
+   "Wei Chou",
+   "jin",
+   "general",
+   675,
+   620,
+   {
+    "from": 636,
+    "ab": [
+     2,
+     8,
+     2,
+     5
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ]
+   }
+  ],
+  [
+   "闘椒",
+   "Dou Jiao (Ziyue)",
+   "chu",
+   "general",
+   660,
+   605,
+   {
+    "from": 632,
+    "ab": [
+     4,
+     8,
+     3,
+     5
+    ],
+    "tr": [
+     "ambitious",
+     "warrior"
+    ],
+    "end": "battle_wound"
+   }
+  ],
+  [
+   "高固",
+   "Gao Gu",
+   "qi",
+   "general",
+   625,
+   570,
+   {
+    "from": 600,
+    "ab": [
+     4,
+     7,
+     4,
+     6
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "子重",
+   "Zichong (Prince Yingqi)",
+   "chu",
+   "general",
+   620,
+   570,
+   {
+    "from": 597,
+    "ab": [
+     6,
+     6,
+     5,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "養由基",
+   "Yang Youji",
+   "chu",
+   "general",
+   615,
+   559,
+   {
+    "from": 597,
+    "ab": [
+     3,
+     8,
+     3,
+     7
+    ],
+    "tr": [
+     "warrior"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "郤至",
+   "Xi Zhi",
+   "jin",
+   "general",
+   615,
+   574,
+   {
+    "from": 590,
+    "ab": [
+     6,
+     8,
+     6,
+     6
+    ],
+    "tr": [
+     "brave"
+    ],
+    "end": "executed"
+   }
+  ],
+  [
+   "荀罃",
+   "Xun Ying (Zhi Wuzi)",
+   "jin",
+   "general",
+   620,
+   560,
+   {
+    "from": 588,
+    "ab": [
+     8,
+     8,
+     7,
+     6
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "荀偃",
+   "Xun Yan (Zhonghang Yan)",
+   "jin",
+   "general",
+   610,
+   554,
+   {
+    "from": 575,
+    "ab": [
+     6,
+     7,
+     5,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "魏舒",
+   "Wei Shu (Wei Xianzi)",
+   "jin",
+   "general",
+   580,
+   509,
+   {
+    "from": 550,
+    "ab": [
+     7,
+     8,
+     6,
+     6
+    ],
+    "tr": [
+     "reformer"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "夫概",
+   "Fugai",
+   "wu",
+   "general",
+   540,
+   495,
+   {
+    "from": 515,
+    "moves": [
+     [
+      505,
+      "chu"
+     ]
+    ],
+    "ab": [
+     3,
+     8,
+     3,
+     5
+    ],
+    "tr": [
+     "brave",
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "霊姑浮",
+   "Ling Gufu",
+   "yue",
+   "general",
+   530,
+   480,
+   {
+    "from": 500,
+    "ab": [
+     3,
+     7,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ]
+   }
+  ],
+  [
+   "冉求",
+   "Ran Qiu",
+   "lu",
+   "general",
+   522,
+   460,
+   {
+    "from": 491,
+    "ab": [
+     7,
+     7,
+     5,
+     6
+    ],
+    "tr": [
+     "scholar"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "公叔痤",
+   "Gongshu Cuo",
+   "wei",
+   "general",
+   410,
+   361,
+   {
+    "from": 380,
+    "ab": [
+     6,
+     7,
+     5,
+     5
+    ],
+    "tr": [
+     "content"
+    ]
+   }
+  ],
+  [
+   "昭陽",
+   "Zhao Yang",
+   "chu",
+   "general",
+   365,
+   300,
+   {
+    "from": 335,
+    "ab": [
+     6,
+     8,
+     5,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "屈匄",
+   "Qu Gai",
+   "chu",
+   "general",
+   350,
+   312,
+   {
+    "from": 320,
+    "ab": [
+     4,
+     6,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ],
+    "end": "battle_wound"
+   }
+  ],
+  [
+   "唐昧",
+   "Tang Mei",
+   "chu",
+   "general",
+   350,
+   301,
+   {
+    "from": 315,
+    "ab": [
+     4,
+     6,
+     3,
+     5
+    ],
+    "tr": [
+     "brave"
+    ],
+    "end": "battle_wound"
+   }
+  ],
+  [
+   "秦開",
+   "Qin Kai",
+   "yan",
+   "general",
+   335,
+   270,
+   {
+    "from": 300,
+    "ab": [
+     5,
+     8,
+     5,
+     6
+    ],
+    "tr": [
+     "wise"
+    ],
+    "fame": 4
+   }
+  ],
+  [
+   "暴鳶",
+   "Bao Yuan",
+   "han",
+   "general",
+   330,
+   270,
+   {
+    "from": 300,
+    "ab": [
+     4,
+     6,
+     4,
+     4
+    ]
+   }
+  ],
+  [
+   "劇辛",
+   "Ju Xin",
+   "yan",
+   "general",
+   315,
+   242,
+   {
+    "from": 285,
+    "ab": [
+     6,
+     6,
+     5,
+     5
+    ],
+    "tr": [
+     "ambitious"
+    ],
+    "end": "battle_wound"
+   }
+  ],
+  [
+   "荘蹻",
+   "Zhuang Qiao",
+   "chu",
+   "general",
+   310,
+   250,
+   {
+    "from": 285,
+    "ab": [
+     5,
+     7,
+     4,
+     6
+    ],
+    "tr": [
+     "ambitious"
+    ]
+   }
+  ],
+  [
+   "晋鄙",
+   "Jin Bi",
+   "wei",
+   "general",
+   310,
+   257,
+   {
+    "from": 280,
+    "ab": [
+     4,
+     7,
+     3,
+     5
+    ],
+    "tr": [
+     "content"
+    ],
+    "end": "assassination"
+   }
+  ],
+  [
+   "龐煖",
+   "Pang Xuan",
+   "zhao",
+   "general",
+   305,
+   235,
+   {
+    "from": 245,
+    "ab": [
+     6,
+     8,
+     6,
+     5
+    ],
+    "tr": [
+     "wise"
+    ]
+   }
+  ],
+  [
+   "蒙武",
+   "Meng Wu",
+   "qin",
+   "general",
+   285,
+   215,
+   {
+    "from": 250,
+    "ab": [
+     5,
+     7,
+     4,
+     5
+    ],
+    "tr": [
+     "content"
+    ]
+   }
+  ],
+  [
+   "桓齮",
+   "Huan Yi",
+   "qin",
+   "general",
+   285,
+   230,
+   {
+    "from": 247,
+    "ab": [
+     4,
+     7,
+     3,
+     4
+    ],
+    "tr": [
+     "cruel"
+    ]
+   }
+  ],
+  [
+   "楊端和",
+   "Yang Duanhe",
+   "qin",
+   "general",
+   285,
+   225,
+   {
+    "from": 245,
+    "ab": [
+     4,
+     7,
+     4,
+     5
+    ]
+   }
+  ],
+  [
+   "司馬尚",
+   "Sima Shang",
+   "zhao",
+   "general",
+   280,
+   220,
+   {
+    "from": 240,
+    "ab": [
+     4,
+     7,
+     4,
+     5
+    ],
+    "tr": [
+     "just"
+    ]
+   }
   ]
  ],
  "events": [
@@ -9551,8 +10146,8 @@
    ],
    "at": "xinzheng",
    "imp": 1,
-   "ja": "{n_zheng}の高渠弥は、かねて自分を嫌っていた昭公を狩りの場で射殺し、公[[p:子亹]]を立てた。",
-   "en": "Gao Qumi of {n_zheng}, long hated by Duke Zhao, shot him dead on a hunt and set up Prince Wei.",
+   "ja": "{n_zheng}の[[p:高渠弥]]は、かねて自分を嫌っていた昭公を狩りの場で射殺し、公[[p:子亹]]を立てた。",
+   "en": "[[p:高渠弥|Gao Qumi]] of {n_zheng}, long hated by Duke Zhao, shot him dead on a hunt and set up Prince Wei.",
    "src": [
     "zuo:桓公十七年|Duke Huan 17"
    ]
@@ -9589,8 +10184,8 @@
    ],
    "at": "xinzheng",
    "imp": 1,
-   "ja": "{n_qi}の襄公は首止に諸侯を集め、やって来た{n_zheng}の[[p:子亹]]を殺し、高渠弥を車裂きにした。",
-   "en": "Duke Xiang of {n_qi} called the lords to Shouzhi, killed [[p:子亹|Ziwei]] of {n_zheng} when he came, and had Gao Qumi torn apart by chariots.",
+   "ja": "{n_qi}の襄公は首止に諸侯を集め、やって来た{n_zheng}の[[p:子亹]]を殺し、[[p:高渠弥]]を車裂きにした。",
+   "en": "Duke Xiang of {n_qi} called the lords to Shouzhi, killed [[p:子亹|Ziwei]] of {n_zheng} when he came, and had [[p:高渠弥|Gao Qumi]] torn apart by chariots.",
    "src": [
     "zuo:桓公十八年|Duke Huan 18"
    ]
@@ -10418,7 +11013,7 @@
      -0.15
     ]
    ],
-   "ja": "[[p:驪姫]]の讒言により、{n_jin}の太子申生は自ら命を絶った。公子重耳と夷吾は国外へ逃れた。",
+   "ja": "[[p:驪姫]]の讒言により、{n_jin}の太子申生は自ら命を絶った。公[[p:子重]]耳と夷吾は国外へ逃れた。",
    "en": "Slandered by [[p:驪姫|Li Ji]], Shensheng, heir of {n_jin}, took his own life. The princes Chong'er and Yiwu fled abroad.",
    "src": [
     "zuo:僖公四年|Duke Xi 4"
@@ -10850,7 +11445,7 @@
    ],
    "at": "ying",
    "imp": 1,
-   "ja": "流浪の晋の公子重耳は{n_chu}の成王にもてなされ、「もし晋と楚が戦場で会えば、軍を三舎 (九十里) 退こう」と約した。",
+   "ja": "流浪の晋の公[[p:子重]]耳は{n_chu}の成王にもてなされ、「もし晋と楚が戦場で会えば、軍を三舎 (九十里) 退こう」と約した。",
    "en": "The wandering Prince Chong'er of Jin was feasted by King Cheng of {n_chu}, and promised: should Jin and Chu meet in battle, he would fall back three days' march.",
    "src": [
     "zuo:僖公二十三年|Duke Xi 23"
@@ -10893,7 +11488,7 @@
     ]
    ],
    "imp": 3,
-   "ja": "十九年の流浪の末、公子重耳は{r_qin}の兵に送られて{n_jin}に帰り、位に即いた。従者の[[p:介子推]]は恩賞を求めず、母と山に隠れた。",
+   "ja": "十九年の流浪の末、公[[p:子重]]耳は{r_qin}の兵に送られて{n_jin}に帰り、位に即いた。従者の[[p:介子推]]は恩賞を求めず、母と山に隠れた。",
    "en": "After nineteen years of wandering, Prince Chong'er returned to {n_jin} escorted by {r_qin}'s soldiers and took the throne. His follower [[p:介子推|Jie Zitui]] asked no reward and hid in the mountains with his mother.",
    "src": [
     "zuo:僖公二十四年|Duke Xi 24"
@@ -12944,7 +13539,7 @@
    "at": "xintian",
    "imp": 2,
    "ja": "{n_jin}の趙鞅らは鉄を集めて鼎を鋳、范宣子の定めた刑法を刻んだ。[[p:孔子]]は「晋はこれで亡びよう。民は鼎を見て、貴人を尊ばなくなる」と嘆いたという。",
-   "en": "Zhao Yang and others of {n_jin} gathered iron, cast a cauldron and inscribed on it the laws made by Fan Xuanzi. \"Jin will fall,\" [[p:孔子|Confucius]] lamented, it is said; \"the people will look to the cauldron, not to their betters.\"",
+   "en": "[[p:昭陽|Zhao Yang]] and others of {n_jin} gathered iron, cast a cauldron and inscribed on it the laws made by Fan Xuanzi. \"Jin will fall,\" [[p:孔子|Confucius]] lamented, it is said; \"the people will look to the cauldron, not to their betters.\"",
    "src": [
     "zuo:昭公二十九年|Duke Zhao 29"
    ]
@@ -13305,7 +13900,7 @@
    "at": "jinyang",
    "imp": 2,
    "ja": "{n_jin}の趙鞅が邯鄲の趙午を殺すと、范氏と中行氏が趙鞅を攻め、趙鞅は晋陽に立てこもった。韓・魏・智が趙について、晋の六卿の争いは八年に及んだ。",
-   "en": "When Zhao Yang of {n_jin} killed [[p:趙武|Zhao Wu]] of Handan, the Fan and Zhonghang houses attacked him and he held out in Jinyang. The Han, Wei and Zhi took Zhao's side, and the ministers' war lasted eight years.",
+   "en": "When [[p:昭陽|Zhao Yang]] of {n_jin} killed [[p:趙武|Zhao Wu]] of Handan, the Fan and Zhonghang houses attacked him and he held out in Jinyang. The Han, Wei and Zhi took Zhao's side, and the ministers' war lasted eight years.",
    "src": [
     "zuo:定公十三年|Duke Ding 13"
    ]
@@ -13394,7 +13989,7 @@
    "at": "handan",
    "imp": 1,
    "ja": "鉄の戦い。{n_jin}の趙鞅は「敵に勝てば、上大夫は県を、下大夫は郡を受け、士は田十万畝、庶人や工商は官に仕え、奴隷は解き放たれる」と誓って兵を励まし、范氏・中行氏に糧を送る鄭の軍を破った。",
-   "en": "At Tie, Zhao Yang of {n_jin} promised his men: counties for great officers, commanderies for lesser ones, land for knights, office for commoners and merchants, freedom for slaves — and beat the Zheng force carrying grain to his enemies.",
+   "en": "At Tie, [[p:昭陽|Zhao Yang]] of {n_jin} promised his men: counties for great officers, commanderies for lesser ones, land for knights, office for commoners and merchants, freedom for slaves — and beat the Zheng force carrying grain to his enemies.",
    "src": [
     "zuo:哀公二年|Duke Ai 2"
    ]
@@ -13606,8 +14201,8 @@
    ],
    "at": "qufu",
    "imp": 1,
-   "ja": "{n_lu}の季孫氏は田の広さに応じて軍賦を取る「田賦」を始めた。[[p:孔子]]は弟子の冉求が手を貸したことを責めた。",
-   "en": "The Jisun house of {n_lu} began to levy the army tax by the area of fields. [[p:孔子|Confucius]] rebuked his disciple Ran Qiu for helping.",
+   "ja": "{n_lu}の季孫氏は田の広さに応じて軍賦を取る「田賦」を始めた。[[p:孔子]]は弟子の[[p:冉求]]が手を貸したことを責めた。",
+   "en": "The Jisun house of {n_lu} began to levy the army tax by the area of fields. [[p:孔子|Confucius]] rebuked his disciple [[p:冉求|Ran Qiu]] for helping.",
    "src": [
     "chunqiu:哀公十二年|Duke Ai 12",
     "zuo:哀公十二年|Duke Ai 12"
@@ -15437,8 +16032,8 @@
    ],
    "at": "wan",
    "imp": 1,
-   "ja": "垂沙の戦い。{n_qi}・{n_han}・{n_wei}の軍が{n_chu}を破り、楚の将唐眛は討たれた。楚の国内では荘蹻が乱を起こした。",
-   "en": "At Chuisha the armies of {n_qi}, {n_han} and {n_wei} beat {n_chu}, and the Chu general Tang Mie was killed; at home Zhuang Qiao rose in revolt.",
+   "ja": "垂沙の戦い。{n_qi}・{n_han}・{n_wei}の軍が{n_chu}を破り、楚の将唐眛は討たれた。楚の国内では[[p:荘蹻]]が乱を起こした。",
+   "en": "At Chuisha the armies of {n_qi}, {n_han} and {n_wei} beat {n_chu}, and the Chu general Tang Mie was killed; at home [[p:荘蹻|Zhuang Qiao]] rose in revolt.",
    "src": [
     "shiji:田敬仲完世家|House of Tian of Qi"
    ]
@@ -15459,8 +16054,8 @@
    ],
    "imp": 1,
    "at": "shanrong",
-   "ja": "{n_yan}の将秦開は東胡を千里のかなたへ退け、[[a:changcheng|長城]]を築いた。",
-   "en": "Qin Kai, a general of {n_yan}, drove the Donghu back a thousand li and built a [[a:changcheng|long wall]].",
+   "ja": "{n_yan}の将[[p:秦開]]は東胡を千里のかなたへ退け、[[a:changcheng|長城]]を築いた。",
+   "en": "[[p:秦開|Qin Kai]], a general of {n_yan}, drove the Donghu back a thousand li and built a [[a:changcheng|long wall]].",
    "src": [
     "shiji:燕召公世家|House of Shao of Yan"
    ]
@@ -16667,8 +17262,8 @@
    ],
    "at": "handan",
    "imp": 2,
-   "ja": "{n_qin}の[[p:王翦]]・桓齮・楊端和が{n_zhao}の鄴を攻め、九つの城を取った。この年、趙の[[p:悼襄王]]が没し、子の遷 ([[p:幽繆王]]) が立った。母は倡 (歌い女) の出で、王はもとから評判が悪かった。",
-   "en": "[[p:王翦|Wang Jian]], Huan Yi and Yang Duanhe of {n_qin} attacked Ye in {n_zhao} and took nine cities. That year [[p:悼襄王|King Daoxiang]] of Zhao died, and his son Qian took the throne — the son of a singing girl, with a poor name from the start.",
+   "ja": "{n_qin}の[[p:王翦]]・[[p:桓齮]]・[[p:楊端和]]が{n_zhao}の鄴を攻め、九つの城を取った。この年、趙の[[p:悼襄王]]が没し、子の遷 ([[p:幽繆王]]) が立った。母は倡 (歌い女) の出で、王はもとから評判が悪かった。",
+   "en": "[[p:王翦|Wang Jian]], [[p:桓齮|Huan Yi]] and [[p:楊端和|Yang Duanhe]] of {n_qin} attacked Ye in {n_zhao} and took nine cities. That year [[p:悼襄王|King Daoxiang]] of Zhao died, and his son Qian took the throne — the son of a singing girl, with a poor name from the start.",
    "src": [
     "shiji:秦始皇本紀|Basic Annals of the First Emperor"
    ]
@@ -16709,8 +17304,8 @@
    ],
    "at": "handan",
    "imp": 2,
-   "ja": "{n_qin}の桓齮が{n_zhao}の平陽を攻め、趙の将扈輒を討ち取った。斬られた首は十万と伝えられる。",
-   "en": "Huan Yi of {n_qin} attacked Pingyang in {n_zhao} and killed the Zhao general Hu Zhe; a hundred thousand heads were taken, it is told.",
+   "ja": "{n_qin}の[[p:桓齮]]が{n_zhao}の平陽を攻め、趙の将扈輒を討ち取った。斬られた首は十万と伝えられる。",
+   "en": "[[p:桓齮|Huan Yi]] of {n_qin} attacked Pingyang in {n_zhao} and killed the Zhao general Hu Zhe; a hundred thousand heads were taken, it is told.",
    "src": [
     "shiji:秦始皇本紀|Basic Annals of the First Emperor"
    ]
@@ -16759,8 +17354,8 @@
    ],
    "at": "handan",
    "imp": 3,
-   "ja": "{n_qin}の桓齮が赤麗・宜安を攻めると、北辺から呼び戻された[[p:李牧]]が肥のほとりで秦軍を大いに破り、桓齮は逃れた。趙王は李牧を武安君に封じた。",
-   "en": "When Huan Yi of {n_qin} attacked Chili and Yi'an, [[p:李牧|Li Mu]], called back from the north, routed the Qin army by the River Fei; Huan Yi fled. The king made Li Mu Lord of Wu'an.",
+   "ja": "{n_qin}の[[p:桓齮]]が赤麗・宜安を攻めると、北辺から呼び戻された[[p:李牧]]が肥のほとりで秦軍を大いに破り、桓齮は逃れた。趙王は李牧を武安君に封じた。",
+   "en": "When [[p:桓齮|Huan Yi]] of {n_qin} attacked Chili and Yi'an, [[p:李牧|Li Mu]], called back from the north, routed the Qin army by the River Fei; Huan Yi fled. The king made Li Mu Lord of Wu'an.",
    "src": [
     "shiji:趙世家|House of Zhao"
    ]
@@ -17183,14 +17778,16 @@
      "generals": [
       "先軫",
       "狐偃",
-      "趙衰"
+      "趙衰",
+      "欒枝"
      ],
      "troops": 52000
     },
     {
      "realm": "chu",
      "generals": [
-      "成得臣"
+      "成得臣",
+      "闘椒"
      ],
      "troops": 60000
     }
@@ -17202,12 +17799,12 @@
    "winner": 0,
    "months": 1,
    "deploy": {
-    "ja": "晋は三軍に分かれた。中軍を[[p:先軫]]、上軍を狐毛と[[p:狐偃]]、下軍を欒枝と胥臣が率い、宋・斉・秦の兵が加わった。楚は子玉 ([[p:成得臣]]) が中軍に座し、左軍を子西、右軍を子上が率い、右軍の主力は従属する陳・蔡の兵であった。",
-    "en": "Jin stood in three armies: [[p:先軫|Xian Zhen]] led the centre, Hu Mao and [[p:狐偃|Hu Yan]] the upper army, Luan Zhi and Xu Chen the lower, with troops of Song, Qi and Qin beside them. Ziyu ([[p:成得臣|Cheng Dechen]]) held the Chu centre, Zixi the left, Zishang the right — whose strength was the levies of the subject states Chen and Cai."
+    "ja": "晋は三軍に分かれた。中軍を[[p:先軫]]、上軍を狐毛と[[p:狐偃]]、下軍を[[p:欒枝]]と胥臣が率い、宋・斉・秦の兵が加わった。楚は子玉 ([[p:成得臣]]) が中軍に座し、左軍を子西、右軍を子上が率い、右軍の主力は従属する陳・蔡の兵であった。",
+    "en": "Jin stood in three armies: [[p:先軫|Xian Zhen]] led the centre, Hu Mao and [[p:狐偃|Hu Yan]] the upper army, [[p:欒枝|Luan Zhi]] and Xu Chen the lower, with troops of Song, Qi and Qin beside them. Ziyu ([[p:成得臣|Cheng Dechen]]) held the Chu centre, Zixi the left, Zishang the right — whose strength was the levies of the subject states Chen and Cai."
    },
    "plan": {
-    "ja": "晋の文公は、流浪の頃に楚の成王から受けた恩を返すとして「三舎」(九十里) を退いた。退いたことで晋は約束を守る者となり、楚は追う者となった。戦いが始まると、胥臣は馬に虎の皮をかぶせて陳・蔡の兵に突っ込み、楚の右軍はたちまち崩れた。欒枝は車の後ろに柴を引きずって土煙を上げ、敗走するように見せかけて楚の左軍を誘い出し、[[p:先軫]]と郤溱の中軍が横から突いた。中軍の子玉だけが兵を収めて退いた。",
-    "en": "Duke Wen of Jin fell back three days' march, to repay the kindness the King of Chu had shown him in his wandering years: Jin became the one who kept faith, Chu the one who pursued. When the fighting began, Xu Chen covered his horses with tiger skins and drove into the levies of Chen and Cai, and the Chu right collapsed. Luan Zhi dragged brushwood behind his chariots to raise dust, as if in flight, drew the Chu left out after him, and the centre under [[p:先軫|Xian Zhen]] struck it in the flank. Only Ziyu in the centre gathered his men and withdrew."
+    "ja": "晋の文公は、流浪の頃に楚の成王から受けた恩を返すとして「三舎」(九十里) を退いた。退いたことで晋は約束を守る者となり、楚は追う者となった。戦いが始まると、胥臣は馬に虎の皮をかぶせて陳・蔡の兵に突っ込み、楚の右軍はたちまち崩れた。[[p:欒枝]]は車の後ろに柴を引きずって土煙を上げ、敗走するように見せかけて楚の左軍を誘い出し、[[p:先軫]]と郤溱の中軍が横から突いた。中軍の子玉だけが兵を収めて退いた。",
+    "en": "Duke Wen of Jin fell back three days' march, to repay the kindness the King of Chu had shown him in his wandering years: Jin became the one who kept faith, Chu the one who pursued. When the fighting began, Xu Chen covered his horses with tiger skins and drove into the levies of Chen and Cai, and the Chu right collapsed. [[p:欒枝|Luan Zhi]] dragged brushwood behind his chariots to raise dust, as if in flight, drew the Chu left out after him, and the centre under [[p:先軫|Xian Zhen]] struck it in the flank. Only Ziyu in the centre gathered his men and withdrew."
    },
    "tales": [
     {
@@ -17309,7 +17906,8 @@
      "generals": [
       "孫武",
       "伍子胥",
-      "伯嚭"
+      "伯嚭",
+      "夫概"
      ],
      "troops": 30000
     },
@@ -17333,8 +17931,8 @@
     "en": "Wu came with thirty thousand picked men; it left its boats on the Huai and struck overland to the Han river. Chu's chief minister [[p:囊瓦|Nang Wa]] ([[p:子産|Zichan]]g) faced it west of the Han with a host said to number two hundred thousand."
    },
    "plan": {
-    "ja": "楚の[[p:沈尹戌]]は、自分が呉の舟を焼いて退路を断つ間、[[p:囊瓦]]に川を挟んで守るよう説いた。だが功を独り占めしたい囊瓦は川を渡って攻め、呉は三度戦って三度破った。柏挙では呉王の弟夫概が王の許しを待たず五千で突っ込み、楚軍を崩した。呉軍は五度戦って五度勝ち、郢に入った。",
-    "en": "[[p:沈尹戌|Shen Yin Xu]] of Chu proposed that [[p:囊瓦|Nang Wa]] hold the river while he burned the Wu boats behind them. Nang Wa, wanting the glory for himself, crossed and attacked; Wu beat him three times. At Boju the king's brother Fugai charged with five thousand without waiting for leave and broke the Chu army. Fighting five battles and winning all five, Wu entered Ying."
+    "ja": "楚の[[p:沈尹戌]]は、自分が呉の舟を焼いて退路を断つ間、[[p:囊瓦]]に川を挟んで守るよう説いた。だが功を独り占めしたい囊瓦は川を渡って攻め、呉は三度戦って三度破った。柏挙では呉王の弟[[p:夫概]]が王の許しを待たず五千で突っ込み、楚軍を崩した。呉軍は五度戦って五度勝ち、郢に入った。",
+    "en": "[[p:沈尹戌|Shen Yin Xu]] of Chu proposed that [[p:囊瓦|Nang Wa]] hold the river while he burned the Wu boats behind them. Nang Wa, wanting the glory for himself, crossed and attacked; Wu beat him three times. At Boju the king's brother [[p:夫概|Fugai]] charged with five thousand without waiting for leave and broke the Chu army. Fighting five battles and winning all five, Wu entered Ying."
    },
    "tales": [
     {
@@ -17500,7 +18098,8 @@
      "realm": "zheng",
      "generals": [
       "祝聃",
-      "祭仲"
+      "祭仲",
+      "高渠弥"
      ],
      "troops": 20000
     }
@@ -17512,8 +18111,8 @@
    "winner": 1,
    "months": 1,
    "deploy": {
-    "ja": "周の桓王は自ら中軍を率い、右軍に蔡・衛の兵、左軍に陳の兵を置いた。鄭は右に[[p:祭仲]]、左に高渠弥、中軍に荘公が立った。",
-    "en": "King Huan of Zhou led his centre himself, with Cai and Wey on his right and Chen on his left. Zheng set [[p:祭仲|Zhai Zhong]] on its right, Gao Qumi on its left and Duke Zhuang in the centre."
+    "ja": "周の桓王は自ら中軍を率い、右軍に蔡・衛の兵、左軍に陳の兵を置いた。鄭は右に[[p:祭仲]]、左に[[p:高渠弥]]、中軍に荘公が立った。",
+    "en": "King Huan of Zhou led his centre himself, with Cai and Wey on his right and Chen on his left. Zheng set [[p:祭仲|Zhai Zhong]] on its right, [[p:高渠弥|Gao Qumi]] on its left and Duke Zhuang in the centre."
    },
    "plan": {
     "ja": "鄭の公子元は「陳は乱れていて戦う気がない。まず陳を討てば蔡・衛も崩れる」と説いた。鄭は戦車の間に歩兵を詰めて隙をなくした「魚麗の陣」で進み、陳・蔡・衛が崩れると、三方から王の中軍を挟み撃ちにした。",
@@ -17734,7 +18333,9 @@
     },
     {
      "realm": "qi",
-     "generals": [],
+     "generals": [
+      "高固"
+     ],
      "troops": 50000
     }
    ],
@@ -17774,14 +18375,16 @@
     {
      "realm": "jin",
      "generals": [
-      "欒書"
+      "欒書",
+      "郤至"
      ],
      "troops": 50000
     },
     {
      "realm": "chu",
      "generals": [
-      "子反"
+      "子反",
+      "養由基"
      ],
      "troops": 60000
     }
@@ -17829,7 +18432,8 @@
     {
      "realm": "yue",
      "generals": [
-      "句践"
+      "句践",
+      "霊姑浮"
      ],
      "troops": 20000
     }
@@ -17850,8 +18454,8 @@
    },
    "tales": [
     {
-     "ja": "越の霊姑浮の戈が[[p:闔閭]]の足の指を切り落とし、闔閭はその傷がもとで陘で没した。",
-     "en": "Ling Gufu of Yue cut off [[p:闔閭|Helü]]'s big toe with his dagger-axe; the wound killed him at Xing."
+     "ja": "越の[[p:霊姑浮]]の戈が[[p:闔閭]]の足の指を切り落とし、闔閭はその傷がもとで陘で没した。",
+     "en": "[[p:霊姑浮|Ling Gufu]] of Yue cut off [[p:闔閭|Helü]]'s big toe with his dagger-axe; the wound killed him at Xing."
     }
    ],
    "after": {
@@ -18225,7 +18829,8 @@
     {
      "realm": "qin",
      "generals": [
-      "王翦"
+      "王翦",
+      "蒙武"
      ],
      "troops": 600000
     },
@@ -18873,7 +19478,7 @@
     "en": "The chariots of the Spring and Autumn"
    },
    "body": {
-    "ja": "春秋の戦いの主役は、二頭または四頭の馬が引く二輪の戦車であった。車の上には三人が乗る。左に弓を持つ車左、右に戈 (ほこ) を持つ車右、中央で手綱を取る御者。車の後ろには数十人の歩兵が従い、戦車一台とその歩兵が一つの単位となった。\n\n国の力は戦車の数で数えられた。「千乗の国」「万乗の君」という言葉は、戦車を千台、一万台出せる国、という意味である。城濮の戦いで晋が出した戦車は七百乗であった。\n\n戦車の戦いには礼があった。整列を待たずに攻めない、逃げる敵を深追いしない、傷ついた者を重ねて傷つけない。泓水の戦い (前638年) で、宋の襄公は楚軍が河を渡りきり陣を整えるまで攻撃を待ち、大敗して自らも腿に傷を負い、翌年死んだ。後世「宋襄の仁」として笑われる話である。邲の戦いでは、楚兵が溝にはまった晋の戦車に抜け出し方を教えてやったという。\n\n戦車は平地でしか力を出せない。山がちな北の地で狄と戦った晋の軍では、前541年、魏舒の進言で兵を車から降ろして歩兵の隊列を組ませ (「車を毀ちて行と為す」)、大原で狄を破った。戦国時代になると、歩兵の大軍と騎兵、そして弩が戦場を支配し、戦車はしだいに指揮官の乗り物となっていく。\n\n戦車と弓の術は国から国へ伝わった。楚から晋へ亡命した[[p:巫臣]]は、晋の命で南の呉に渡り、戦車の御し方と陣の組み方を教えた。それまで舟と歩兵で戦っていた呉はこうして中原の戦い方を身につけ、八十年ほど後には楚の都に攻め入ることになる。",
+    "ja": "春秋の戦いの主役は、二頭または四頭の馬が引く二輪の戦車であった。車の上には三人が乗る。左に弓を持つ車左、右に戈 (ほこ) を持つ車右、中央で手綱を取る御者。車の後ろには数十人の歩兵が従い、戦車一台とその歩兵が一つの単位となった。\n\n国の力は戦車の数で数えられた。「千乗の国」「万乗の君」という言葉は、戦車を千台、一万台出せる国、という意味である。城濮の戦いで晋が出した戦車は七百乗であった。\n\n戦車の戦いには礼があった。整列を待たずに攻めない、逃げる敵を深追いしない、傷ついた者を重ねて傷つけない。泓水の戦い (前638年) で、宋の襄公は楚軍が河を渡りきり陣を整えるまで攻撃を待ち、大敗して自らも腿に傷を負い、翌年死んだ。後世「宋襄の仁」として笑われる話である。邲の戦いでは、楚兵が溝にはまった晋の戦車に抜け出し方を教えてやったという。\n\n戦車は平地でしか力を出せない。山がちな北の地で狄と戦った晋の軍では、前541年、[[p:魏舒]]の進言で兵を車から降ろして歩兵の隊列を組ませ (「車を毀ちて行と為す」)、大原で狄を破った。戦国時代になると、歩兵の大軍と騎兵、そして弩が戦場を支配し、戦車はしだいに指揮官の乗り物となっていく。\n\n戦車と弓の術は国から国へ伝わった。楚から晋へ亡命した[[p:巫臣]]は、晋の命で南の呉に渡り、戦車の御し方と陣の組み方を教えた。それまで舟と歩兵で戦っていた呉はこうして中原の戦い方を身につけ、八十年ほど後には楚の都に攻め入ることになる。",
     "en": "The decisive arm of Spring and Autumn warfare was the two-wheeled chariot drawn by two or four horses. Three men rode in it: an archer on the left, a man with a dagger-axe on the right, and the driver in the middle. Behind came a few dozen foot soldiers; a chariot and its men made one unit.\n\nA state's power was counted in chariots. \"A state of a thousand chariots\", \"a lord of ten thousand chariots\" meant one that could field that many. At Chengpu, Jin put seven hundred chariots in the field.\n\nChariot warfare had its courtesies: no attack before the enemy had formed up, no long pursuit of the fleeing, no second wound to the wounded. At the Hong river in 638 BC Duke Xiang of Song waited for the Chu army to cross and form its lines before attacking; he was routed, took a wound in the thigh and died the next year — \"the benevolence of Duke Xiang\" became a byword for folly. At Bi, Chu soldiers showed Jin charioteers stuck in a ditch how to get out.\n\nChariots need flat ground. Fighting the Di in the hills of the north in 541 BC, a Jin army on Wei Shu's advice broke up its chariots and formed its men into infantry files, and won at Dayuan. By the Warring States, masses of infantry, cavalry and the crossbow ruled the battlefield, and the chariot became a commander's vehicle.\n\nThe art of chariot and bow passed from state to state. Wuchen, an exile from Chu in Jin, was sent south to Wu to teach it how to drive chariots and draw up battle lines. Wu, which had fought with boats and foot soldiers, learned the ways of the Central Plain — and some eighty years later stormed the capital of Chu."
    },
    "year": 632,
@@ -19043,7 +19648,7 @@
    },
    "body": {
     "ja": "中国の鉄は、西方と違ってまず「鋳鉄」として広まった。高温の炉で鉄を溶かし、型に流して作る。青銅を鋳る技の長い伝統があったからだと考えられている。\n\n前513年、晋の趙鞅らは鉄で鼎を鋳て、そこに刑法を刻んだ (刑鼎)。鉄の確かな記録の中でも早いものである。[[p:孔子]]は「民が鼎を見て法を知れば、貴人を尊ばなくなる」と嘆いたという。\n\n楚の宛は鉄の名産地で、「宛の鉅鉄の矛は蜂やさそりのように鋭い」と[[p:荀子]]は書いている。戦国時代には鉄の鋤や鍬が農民に行き渡り、荒れ地が耕され、人が増えた。鉄の斧で森が開かれ、深く掘れる鍬で水路が引かれた。\n\n鉄は大金持ちも生んだ。趙の邯鄲で鉄を商った郭縦は王侯と並ぶ富を持ち、同じく趙の鉄商人卓氏は、秦に国を滅ぼされて蜀へ移されると、臨邛の鉄山で再び財を成し、千人の召し使いを抱えたと『史記』は伝える。",
-    "en": "Iron in China spread first as cast iron, unlike in the West: melted in hot furnaces and poured into moulds — thanks, it is thought, to the long tradition of casting bronze.\n\nIn 513 BC Zhao Yang of Jin and others cast an iron cauldron and inscribed the laws on it, one of the earliest sure records of iron. [[p:孔子|Confucius]] lamented that once the people could read the law on a cauldron, they would no longer honour the nobles.\n\nWan in Chu was famous for iron: \"the iron spears of Wan are as sharp as wasps and scorpions,\" [[p:荀子|Xunzi]] wrote. By the Warring States iron ploughshares and hoes were in every farmer's hands; wasteland was broken, forests cleared with iron axes, canals dug with deep hoes, and people multiplied.\n\nIron made fortunes too. Guo Zong, an iron dealer of Handan, was as rich as a king; the Zhuo family, iron merchants of Zhao deported to Shu when Qin destroyed their state, made a second fortune from the iron hills of Linqiong and kept a thousand servants, says the Records of the Grand Historian."
+    "en": "Iron in China spread first as cast iron, unlike in the West: melted in hot furnaces and poured into moulds — thanks, it is thought, to the long tradition of casting bronze.\n\nIn 513 BC [[p:昭陽|Zhao Yang]] of Jin and others cast an iron cauldron and inscribed the laws on it, one of the earliest sure records of iron. [[p:孔子|Confucius]] lamented that once the people could read the law on a cauldron, they would no longer honour the nobles.\n\nWan in Chu was famous for iron: \"the iron spears of Wan are as sharp as wasps and scorpions,\" [[p:荀子|Xunzi]] wrote. By the Warring States iron ploughshares and hoes were in every farmer's hands; wasteland was broken, forests cleared with iron axes, canals dug with deep hoes, and people multiplied.\n\nIron made fortunes too. Guo Zong, an iron dealer of Handan, was as rich as a king; the Zhuo family, iron merchants of Zhao deported to Shu when Qin destroyed their state, made a second fortune from the iron hills of Linqiong and kept a thousand servants, says the Records of the Grand Historian."
    },
    "year": 513,
    "related": [
@@ -19121,7 +19726,7 @@
    },
    "body": {
     "ja": "それまで刑罰の決まりは、貴族たちが胸に秘めて、その時々に裁くものであった。前536年、鄭の宰相[[p:子産]]は、刑法を青銅の鼎に鋳込んで人々に示した (刑書)。\n\n晋の賢人[[p:叔向]]は子産に手紙を送って責めた。「民が法を知れば、上を恐れず、条文を盾に争うようになる。国は滅びるだろう」。子産は短く答えた。「私には子孫のことまで考える才はない。ただ世を救うためにするのだ」。\n\n前513年には晋も、趙鞅らが鉄の鼎に刑法を鋳込んだ。[[p:孔子]]は「民が鼎を見て法を知れば、貴人を尊ぶだろうか」と嘆いたという。\n\n鄭ではさらに、[[p:鄧析]]という人が竹簡に法を書き写した「竹刑」を作り、人々の訴えを手伝った。鄧析は前501年に処刑されたが、その竹刑は使われ続けた。法を誰もが読めるものにする流れは、戦国の法家へとつながっていく。",
-    "en": "Until then the rules of punishment were kept in the nobles' heads and applied as they saw fit. In 536 BC [[p:子産|Zichan]], chief minister of Zheng, cast the laws on bronze cauldrons for all to see.\n\n[[p:叔向|Shuxiang]], the wise man of Jin, wrote to rebuke him: \"When the people know the law they will not fear their betters; they will quarrel over its words, and the state will perish.\" Zichan replied briefly: \"I lack the talent to think of my descendants. I do it to save the present age.\"\n\nIn 513 BC Jin too, under Zhao Yang, cast its laws on an iron cauldron. [[p:孔子|Confucius]] lamented: once the people read the law on the cauldron, would they still honour the noble?\n\nIn Zheng a man named [[p:鄧析|Deng Xi]] copied the laws onto bamboo — the \"bamboo code\" — and helped people with their suits. He was put to death in 501 BC, but his code stayed in use. Making the law something anyone could read led on to the Legalists of the Warring States."
+    "en": "Until then the rules of punishment were kept in the nobles' heads and applied as they saw fit. In 536 BC [[p:子産|Zichan]], chief minister of Zheng, cast the laws on bronze cauldrons for all to see.\n\n[[p:叔向|Shuxiang]], the wise man of Jin, wrote to rebuke him: \"When the people know the law they will not fear their betters; they will quarrel over its words, and the state will perish.\" Zichan replied briefly: \"I lack the talent to think of my descendants. I do it to save the present age.\"\n\nIn 513 BC Jin too, under [[p:昭陽|Zhao Yang]], cast its laws on an iron cauldron. [[p:孔子|Confucius]] lamented: once the people read the law on the cauldron, would they still honour the noble?\n\nIn Zheng a man named [[p:鄧析|Deng Xi]] copied the laws onto bamboo — the \"bamboo code\" — and helped people with their suits. He was put to death in 501 BC, but his code stayed in use. Making the law something anyone could read led on to the Legalists of the Warring States."
    },
    "year": 536,
    "people": [
@@ -19516,8 +20121,8 @@
     "en": "The long walls of the Warring States"
    },
    "body": {
-    "ja": "万里の長城は始皇帝が一から築いたのではない。戦国の国々は、それぞれ自分の国境に長い城壁を築いていた。斉は泰山の山並みに沿って南の国境に、楚は北の守りに「方城」を、魏は秦に向けて西に、そして秦・趙・燕は北の遊牧の民に向けて。\n\n趙の[[p:武霊王]]は胡服騎射で北へ領土を広げると、陰山の麓に沿って長城を築き、雲中・雁門・代の郡を守った。燕も将軍秦開が東胡を千里退けたのち、東の遼東まで長城を延ばした。\n\n城壁の多くは石ではなく、板で枠を作って土を突き固める「版築」で造られた。前214年、秦の[[p:蒙恬]]は三十万の兵で匈奴を北へ追い、これら北辺の壁をつないで、「万里の長城」とした。",
-    "en": "The First Emperor did not build the Great Wall from nothing. The Warring States had each walled their own frontiers: Qi along the Tai mountains in the south, Chu its \"square wall\" in the north, Wei facing Qin in the west, and Qin, Zhao and Yan facing the herders of the north.\n\nHaving pushed north with his mounted archers, [[p:武霊王|King Wuling]] of Zhao walled the foot of the Yin mountains to guard Yunzhong, Yanmen and Dai. Yan, after its general Qin Kai drove the Donghu back a thousand li, carried its wall east to Liaodong.\n\nMost of these walls were not stone but rammed earth, pounded hard between board frames. In 214 BC [[p:蒙恬|Meng Tian]] of Qin drove the Xiongnu north with three hundred thousand men and joined the northern walls into the \"wall of ten thousand li\"."
+    "ja": "万里の長城は始皇帝が一から築いたのではない。戦国の国々は、それぞれ自分の国境に長い城壁を築いていた。斉は泰山の山並みに沿って南の国境に、楚は北の守りに「方城」を、魏は秦に向けて西に、そして秦・趙・燕は北の遊牧の民に向けて。\n\n趙の[[p:武霊王]]は胡服騎射で北へ領土を広げると、陰山の麓に沿って長城を築き、雲中・雁門・代の郡を守った。燕も将軍[[p:秦開]]が東胡を千里退けたのち、東の遼東まで長城を延ばした。\n\n城壁の多くは石ではなく、板で枠を作って土を突き固める「版築」で造られた。前214年、秦の[[p:蒙恬]]は三十万の兵で匈奴を北へ追い、これら北辺の壁をつないで、「万里の長城」とした。",
+    "en": "The First Emperor did not build the Great Wall from nothing. The Warring States had each walled their own frontiers: Qi along the Tai mountains in the south, Chu its \"square wall\" in the north, Wei facing Qin in the west, and Qin, Zhao and Yan facing the herders of the north.\n\nHaving pushed north with his mounted archers, [[p:武霊王|King Wuling]] of Zhao walled the foot of the Yin mountains to guard Yunzhong, Yanmen and Dai. Yan, after its general [[p:秦開|Qin Kai]] drove the Donghu back a thousand li, carried its wall east to Liaodong.\n\nMost of these walls were not stone but rammed earth, pounded hard between board frames. In 214 BC [[p:蒙恬|Meng Tian]] of Qin drove the Xiongnu north with three hundred thousand men and joined the northern walls into the \"wall of ten thousand li\"."
    },
    "year": 300,
    "people": [
@@ -19579,14 +20184,16 @@
     "en": "the battle of Chengpu"
    },
    "body": {
-    "ja": "晋は三軍に分かれた。中軍を[[p:先軫]]、上軍を狐毛と[[p:狐偃]]、下軍を欒枝と胥臣が率い、宋・斉・秦の兵が加わった。楚は子玉 ([[p:成得臣]]) が中軍に座し、左軍を子西、右軍を子上が率い、右軍の主力は従属する陳・蔡の兵であった。\n\n晋の文公は、流浪の頃に楚の成王から受けた恩を返すとして「三舎」(九十里) を退いた。退いたことで晋は約束を守る者となり、楚は追う者となった。戦いが始まると、胥臣は馬に虎の皮をかぶせて陳・蔡の兵に突っ込み、楚の右軍はたちまち崩れた。欒枝は車の後ろに柴を引きずって土煙を上げ、敗走するように見せかけて楚の左軍を誘い出し、先軫と郤溱の中軍が横から突いた。中軍の子玉だけが兵を収めて退いた。\n\n戦いの前夜、文公は楚王と組み合って押し倒され、脳を吸われる夢を見て恐れた。狐偃は「天を仰いだ我らは天を得、地に伏した楚は罪に伏したのです」と解いて励ました。\n\n敗れた子玉は、楚王から「申と息の父老にどう顔向けするのか」と問われ、帰る途中で自ら命を絶った。それを聞いた文公は「これで私を害する者はいなくなった」と喜びを隠さなかったという。\n\n戦いの後、晋は践土に王宮を築いて周の襄王を迎え、諸侯の盟を主宰した。王は文公を「侯伯」(諸侯の長) に任じ、晋はこの後百年近く中原の覇権を握る。\n\n兵力 (目安): 52,000 対 60,000。損害: 3,000 対 15,000。",
-    "en": "Jin stood in three armies: [[p:先軫|Xian Zhen]] led the centre, Hu Mao and [[p:狐偃|Hu Yan]] the upper army, Luan Zhi and Xu Chen the lower, with troops of Song, Qi and Qin beside them. Ziyu ([[p:成得臣|Cheng Dechen]]) held the Chu centre, Zixi the left, Zishang the right — whose strength was the levies of the subject states Chen and Cai.\n\nDuke Wen of Jin fell back three days' march, to repay the kindness the King of Chu had shown him in his wandering years: Jin became the one who kept faith, Chu the one who pursued. When the fighting began, Xu Chen covered his horses with tiger skins and drove into the levies of Chen and Cai, and the Chu right collapsed. Luan Zhi dragged brushwood behind his chariots to raise dust, as if in flight, drew the Chu left out after him, and the centre under Xian Zhen struck it in the flank. Only Ziyu in the centre gathered his men and withdrew.\n\nOn the eve of battle Duke Wen dreamed the King of Chu wrestled him down and sucked his brains, and was afraid. Hu Yan read it for him: \"We lay facing heaven and have heaven; Chu bent over the earth, bowed down to its guilt.\"\n\nBeaten, Ziyu was asked by his king how he would face the elders of Shen and Xi, and took his own life on the way home. Hearing it, Duke Wen made no secret of his joy: \"Now there is no one left to harm me.\"\n\nAfter the battle Jin built a palace at Jiantu, welcomed [[p:燕王喜|King Xi]]ang of Zhou there and presided over the covenant of the lords. The king named Duke Wen \"elder of the lords\", and Jin would hold the hegemony of the Central Plain for most of a century.\n\nTroops (rough): 52,000 against 60,000. Losses: 3,000 against 15,000."
+    "ja": "晋は三軍に分かれた。中軍を[[p:先軫]]、上軍を狐毛と[[p:狐偃]]、下軍を[[p:欒枝]]と胥臣が率い、宋・斉・秦の兵が加わった。楚は子玉 ([[p:成得臣]]) が中軍に座し、左軍を子西、右軍を子上が率い、右軍の主力は従属する陳・蔡の兵であった。\n\n晋の文公は、流浪の頃に楚の成王から受けた恩を返すとして「三舎」(九十里) を退いた。退いたことで晋は約束を守る者となり、楚は追う者となった。戦いが始まると、胥臣は馬に虎の皮をかぶせて陳・蔡の兵に突っ込み、楚の右軍はたちまち崩れた。欒枝は車の後ろに柴を引きずって土煙を上げ、敗走するように見せかけて楚の左軍を誘い出し、先軫と郤溱の中軍が横から突いた。中軍の子玉だけが兵を収めて退いた。\n\n戦いの前夜、文公は楚王と組み合って押し倒され、脳を吸われる夢を見て恐れた。狐偃は「天を仰いだ我らは天を得、地に伏した楚は罪に伏したのです」と解いて励ました。\n\n敗れた子玉は、楚王から「申と息の父老にどう顔向けするのか」と問われ、帰る途中で自ら命を絶った。それを聞いた文公は「これで私を害する者はいなくなった」と喜びを隠さなかったという。\n\n戦いの後、晋は践土に王宮を築いて周の襄王を迎え、諸侯の盟を主宰した。王は文公を「侯伯」(諸侯の長) に任じ、晋はこの後百年近く中原の覇権を握る。\n\n兵力 (目安): 52,000 対 60,000。損害: 3,000 対 15,000。",
+    "en": "Jin stood in three armies: [[p:先軫|Xian Zhen]] led the centre, Hu Mao and [[p:狐偃|Hu Yan]] the upper army, [[p:欒枝|Luan Zhi]] and Xu Chen the lower, with troops of Song, Qi and Qin beside them. Ziyu ([[p:成得臣|Cheng Dechen]]) held the Chu centre, Zixi the left, Zishang the right — whose strength was the levies of the subject states Chen and Cai.\n\nDuke Wen of Jin fell back three days' march, to repay the kindness the King of Chu had shown him in his wandering years: Jin became the one who kept faith, Chu the one who pursued. When the fighting began, Xu Chen covered his horses with tiger skins and drove into the levies of Chen and Cai, and the Chu right collapsed. Luan Zhi dragged brushwood behind his chariots to raise dust, as if in flight, drew the Chu left out after him, and the centre under Xian Zhen struck it in the flank. Only Ziyu in the centre gathered his men and withdrew.\n\nOn the eve of battle Duke Wen dreamed the King of Chu wrestled him down and sucked his brains, and was afraid. Hu Yan read it for him: \"We lay facing heaven and have heaven; Chu bent over the earth, bowed down to its guilt.\"\n\nBeaten, Ziyu was asked by his king how he would face the elders of Shen and Xi, and took his own life on the way home. Hearing it, Duke Wen made no secret of his joy: \"Now there is no one left to harm me.\"\n\nAfter the battle Jin built a palace at Jiantu, welcomed [[p:燕王喜|King Xi]]ang of Zhou there and presided over the covenant of the lords. The king named Duke Wen \"elder of the lords\", and Jin would hold the hegemony of the Central Plain for most of a century.\n\nTroops (rough): 52,000 against 60,000. Losses: 3,000 against 15,000."
    },
    "people": [
     "先軫|Xian Zhen",
     "狐偃|Hu Yan",
     "趙衰|Zhao Cui",
-    "成得臣|Cheng Dechen"
+    "欒枝|Luan Zhi",
+    "成得臣|Cheng Dechen",
+    "闘椒|Dou Jiao (Ziyue)"
    ],
    "related": [
     "chariot",
@@ -19629,13 +20236,14 @@
     "en": "the battle of Boju"
    },
    "body": {
-    "ja": "呉は精兵三万で、淮水をさかのぼった舟を捨て、一気に陸路で漢水へ出た。楚は令尹の[[p:囊瓦]] (子常) が二十万と号する大軍で漢水の西に陣した。\n\n楚の[[p:沈尹戌]]は、自分が呉の舟を焼いて退路を断つ間、囊瓦に川を挟んで守るよう説いた。だが功を独り占めしたい囊瓦は川を渡って攻め、呉は三度戦って三度破った。柏挙では呉王の弟夫概が王の許しを待たず五千で突っ込み、楚軍を崩した。呉軍は五度戦って五度勝ち、郢に入った。\n\n[[p:孫武]]は呉王[[p:闔閭]]に兵法を説いたとき、宮中の女官百八十人を二隊に分けて調練し、笑って命に従わない隊長の寵姫二人を王の制止も聞かず斬った。以後、女官たちは一糸乱れず動いたという。\n\n郢に入った[[p:伍子胥]]は、父と兄を殺した平王の墓をあばいて屍に鞭打った。友の[[p:申包胥]]が「天理に背く」と責めると、「日暮れて道遠し、ゆえに倒行逆施す」と答えた。\n\n楚の昭王は逃れ、申包胥の嘆願で秦の援軍が来ると、呉は郢を去った。この勝利で呉は南方の強国となった。\n\n兵力 (目安): 30,000 対 200,000。損害: 3,000 対 60,000。",
-    "en": "Wu came with thirty thousand picked men; it left its boats on the Huai and struck overland to the Han river. Chu's chief minister [[p:囊瓦|Nang Wa]] ([[p:子産|Zichan]]g) faced it west of the Han with a host said to number two hundred thousand.\n\n[[p:沈尹戌|Shen Yin Xu]] of Chu proposed that Nang Wa hold the river while he burned the Wu boats behind them. Nang Wa, wanting the glory for himself, crossed and attacked; Wu beat him three times. At Boju the king's brother Fugai charged with five thousand without waiting for leave and broke the Chu army. Fighting five battles and winning all five, Wu entered Ying.\n\nWhen [[p:孫武|Sun Wu]] laid out the art of war for King [[p:闔閭|Helü]], he drilled a hundred and eighty palace women in two companies and, over the king's protests, beheaded the two favourites who led them for laughing at his orders. After that the women moved as one.\n\nIn Ying [[p:伍子胥|Wu Zixu]] dug up the body of King Ping, who had killed his father and brother, and flogged it. When his old friend [[p:申包胥|Shen Baoxu]] called it an outrage against heaven, he answered: \"The day is late and the road is long; so I walk backwards and act against the grain.\"\n\nKing Zhao of Chu fled; when Shen Baoxu brought a Qin army with his pleading, Wu left Ying. The victory made Wu a great power of the south.\n\nTroops (rough): 30,000 against 200,000. Losses: 3,000 against 60,000."
+    "ja": "呉は精兵三万で、淮水をさかのぼった舟を捨て、一気に陸路で漢水へ出た。楚は令尹の[[p:囊瓦]] (子常) が二十万と号する大軍で漢水の西に陣した。\n\n楚の[[p:沈尹戌]]は、自分が呉の舟を焼いて退路を断つ間、囊瓦に川を挟んで守るよう説いた。だが功を独り占めしたい囊瓦は川を渡って攻め、呉は三度戦って三度破った。柏挙では呉王の弟[[p:夫概]]が王の許しを待たず五千で突っ込み、楚軍を崩した。呉軍は五度戦って五度勝ち、郢に入った。\n\n[[p:孫武]]は呉王[[p:闔閭]]に兵法を説いたとき、宮中の女官百八十人を二隊に分けて調練し、笑って命に従わない隊長の寵姫二人を王の制止も聞かず斬った。以後、女官たちは一糸乱れず動いたという。\n\n郢に入った[[p:伍子胥]]は、父と兄を殺した平王の墓をあばいて屍に鞭打った。友の[[p:申包胥]]が「天理に背く」と責めると、「日暮れて道遠し、ゆえに倒行逆施す」と答えた。\n\n楚の昭王は逃れ、申包胥の嘆願で秦の援軍が来ると、呉は郢を去った。この勝利で呉は南方の強国となった。\n\n兵力 (目安): 30,000 対 200,000。損害: 3,000 対 60,000。",
+    "en": "Wu came with thirty thousand picked men; it left its boats on the Huai and struck overland to the Han river. Chu's chief minister [[p:囊瓦|Nang Wa]] ([[p:子産|Zichan]]g) faced it west of the Han with a host said to number two hundred thousand.\n\n[[p:沈尹戌|Shen Yin Xu]] of Chu proposed that Nang Wa hold the river while he burned the Wu boats behind them. Nang Wa, wanting the glory for himself, crossed and attacked; Wu beat him three times. At Boju the king's brother [[p:夫概|Fugai]] charged with five thousand without waiting for leave and broke the Chu army. Fighting five battles and winning all five, Wu entered Ying.\n\nWhen [[p:孫武|Sun Wu]] laid out the art of war for King [[p:闔閭|Helü]], he drilled a hundred and eighty palace women in two companies and, over the king's protests, beheaded the two favourites who led them for laughing at his orders. After that the women moved as one.\n\nIn Ying [[p:伍子胥|Wu Zixu]] dug up the body of King Ping, who had killed his father and brother, and flogged it. When his old friend [[p:申包胥|Shen Baoxu]] called it an outrage against heaven, he answered: \"The day is late and the road is long; so I walk backwards and act against the grain.\"\n\nKing Zhao of Chu fled; when Shen Baoxu brought a Qin army with his pleading, Wu left Ying. The victory made Wu a great power of the south.\n\nTroops (rough): 30,000 against 200,000. Losses: 3,000 against 60,000."
    },
    "people": [
     "孫武|Sun Wu",
     "伍子胥|Wu Zixu",
     "伯嚭|Bo Pi",
+    "夫概|Fugai",
     "囊瓦|Nang Wa",
     "沈尹戌|Shen Yin Xu"
    ],
@@ -19707,7 +20315,7 @@
     "en": "Falling back three days' march"
    },
    "body": {
-    "ja": "晋の公子重耳 (のちの文公) は、国を追われて十九年も諸国をさまよった。楚に立ち寄ったとき、楚の成王は彼を手厚くもてなし、「国に帰れたら、何で報いてくれるか」と問うた。重耳は答えた。「もし晋と楚が戦場で出会うことがあれば、私は三舎 (一舎は軍の一日の行程、三十里) 退きましょう。それでもお許しがなければ、弓を取ってお相手します」。\n\n前632年、城濮で晋と楚は本当に向き合った。文公は約束どおり軍を九十里退かせた。楚の将子玉はそれを晋の弱さと見て追い、晋は約束を守った側、楚は追った側として戦うことになった。結果は晋の大勝であった。\n\n「退避三舎」は、相手に一歩も二歩も譲る、相手を恐れてはばかる、という意味の言葉となった。",
+    "ja": "晋の公[[p:子重]]耳 (のちの文公) は、国を追われて十九年も諸国をさまよった。楚に立ち寄ったとき、楚の成王は彼を手厚くもてなし、「国に帰れたら、何で報いてくれるか」と問うた。重耳は答えた。「もし晋と楚が戦場で出会うことがあれば、私は三舎 (一舎は軍の一日の行程、三十里) 退きましょう。それでもお許しがなければ、弓を取ってお相手します」。\n\n前632年、城濮で晋と楚は本当に向き合った。文公は約束どおり軍を九十里退かせた。楚の将子玉はそれを晋の弱さと見て追い、晋は約束を守った側、楚は追った側として戦うことになった。結果は晋の大勝であった。\n\n「退避三舎」は、相手に一歩も二歩も譲る、相手を恐れてはばかる、という意味の言葉となった。",
     "en": "Chong'er, a prince of Jin (later Duke Wen), wandered the states for nineteen years in exile. In Chu King Cheng entertained him lavishly and asked how he would repay it if he ever went home. \"If Jin and Chu should ever meet in battle,\" Chong'er said, \"I will fall back three marches — three days' march of thirty li each. If you still will not let me be, then I will take up my bow.\"\n\nIn 632 BC Jin and Chu did meet, at Chengpu. Duke Wen fell back ninety li as he had promised. The Chu general Ziyu took it for weakness and followed — so Jin fought as the side that kept faith and Chu as the pursuer. Jin won a great victory.\n\n\"Falling back three marches\" came to mean giving ground generously to another — or keeping well clear of someone one fears."
    },
    "year": 632,
@@ -19847,8 +20455,8 @@
     "en": "Begin with me, Wei"
    },
    "body": {
-    "ja": "斉に国を荒らされた燕の昭王は、賢者を集めて国を立て直そうと、[[p:郭隗]]に相談した。郭隗は話をした。「昔ある王が千金で一日千里を走る馬を求めたが、三年たっても手に入らない。家来が出かけて行き、死んだ名馬の骨を五百金で買って帰った。王が怒ると、家来は言った。死んだ馬さえ五百金で買うのです。生きた馬ならなおさらと、人は思うでしょう。一年もたたずに、千里の馬が三頭も集まりました」。\n\n「王が本当に賢者を招きたいなら、まずこの隗から始めてください。隗のような者でさえ重く用いられるなら、隗より賢い者は千里を遠しとせずにやって来るでしょう」。\n\n昭王は郭隗のために宮殿を建てて師として仕え、黄金台を築いて天下の士を招いた。[[p:楽毅]]・[[p:鄒衍]]・劇辛らが燕に集まり、燕はやがて楽毅のもとで斉を破った。「隗より始めよ」は、大きなことはまず手近なことから、また言い出した者から始めよ、という意味で使われる。",
-    "en": "Ravaged by Qi, King Zhao of Yan wanted able men to rebuild his state, and asked [[p:郭隗|Guo Wei]] how to find them. Guo Wei told a story: \"A king once offered a thousand gold for a horse that could run a thousand li a day, and after three years had none. A servant went out and came back with the bones of a dead one, bought for five hundred. The king was furious. If he will pay five hundred for a dead horse, said the servant, what will he pay for a live one? Within a year three such horses were brought to him.\"\n\n\"If you truly want able men, begin with me, Wei. If even I am honoured, better men than I will think nothing of a thousand li.\"\n\nThe king built Guo Wei a palace and served him as a teacher, and raised the Golden Terrace to welcome the talents of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and Ju Xin came to Yan, and under Yue Yi Yan later crushed Qi. \"Begin with Wei\" now means: start great things with what is at hand — or with the one who proposes them."
+    "ja": "斉に国を荒らされた燕の昭王は、賢者を集めて国を立て直そうと、[[p:郭隗]]に相談した。郭隗は話をした。「昔ある王が千金で一日千里を走る馬を求めたが、三年たっても手に入らない。家来が出かけて行き、死んだ名馬の骨を五百金で買って帰った。王が怒ると、家来は言った。死んだ馬さえ五百金で買うのです。生きた馬ならなおさらと、人は思うでしょう。一年もたたずに、千里の馬が三頭も集まりました」。\n\n「王が本当に賢者を招きたいなら、まずこの隗から始めてください。隗のような者でさえ重く用いられるなら、隗より賢い者は千里を遠しとせずにやって来るでしょう」。\n\n昭王は郭隗のために宮殿を建てて師として仕え、黄金台を築いて天下の士を招いた。[[p:楽毅]]・[[p:鄒衍]]・[[p:劇辛]]らが燕に集まり、燕はやがて楽毅のもとで斉を破った。「隗より始めよ」は、大きなことはまず手近なことから、また言い出した者から始めよ、という意味で使われる。",
+    "en": "Ravaged by Qi, King Zhao of Yan wanted able men to rebuild his state, and asked [[p:郭隗|Guo Wei]] how to find them. Guo Wei told a story: \"A king once offered a thousand gold for a horse that could run a thousand li a day, and after three years had none. A servant went out and came back with the bones of a dead one, bought for five hundred. The king was furious. If he will pay five hundred for a dead horse, said the servant, what will he pay for a live one? Within a year three such horses were brought to him.\"\n\n\"If you truly want able men, begin with me, Wei. If even I am honoured, better men than I will think nothing of a thousand li.\"\n\nThe king built Guo Wei a palace and served him as a teacher, and raised the Golden Terrace to welcome the talents of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and [[p:劇辛|Ju Xin]] came to Yan, and under Yue Yi Yan later crushed Qi. \"Begin with Wei\" now means: start great things with what is at hand — or with the one who proposes them."
    },
    "year": 311,
    "people": [
@@ -19999,14 +20607,15 @@
     "en": "the battle of Xuge"
    },
    "body": {
-    "ja": "周の桓王は自ら中軍を率い、右軍に蔡・衛の兵、左軍に陳の兵を置いた。鄭は右に[[p:祭仲]]、左に高渠弥、中軍に荘公が立った。\n\n鄭の公子元は「陳は乱れていて戦う気がない。まず陳を討てば蔡・衛も崩れる」と説いた。鄭は戦車の間に歩兵を詰めて隙をなくした「魚麗の陣」で進み、陳・蔡・衛が崩れると、三方から王の中軍を挟み撃ちにした。\n\n[[p:祝聃]]の矢が王の肩に当たった。祝聃が追おうとすると荘公は「君子は人を凌ぐことを望まない。まして天子を」と止め、その夜、祭仲を遣わして王と側近を見舞わせた。\n\n王が諸侯の軍を率いて敗れたことで、周の権威は地に落ち、諸侯が自らの力で争う時代が始まった。\n\n兵力 (目安): 20,000 対 20,000。損害: 5,000 対 1,000。",
-    "en": "King Huan of Zhou led his centre himself, with Cai and Wey on his right and Chen on his left. Zheng set [[p:祭仲|Zhai Zhong]] on its right, Gao Qumi on its left and Duke Zhuang in the centre.\n\nPrince Yuan of Zheng argued that Chen, in turmoil at home, had no stomach for a fight: break it first, and Cai and Wey would follow. Zheng came on in the \"fish-scale\" order, foot soldiers packed between the chariots, and when Chen, Cai and Wey gave way it closed on the king's centre from three sides.\n\n[[p:祝聃|Zhu Dan]]'s arrow struck the king in the shoulder. When he would have given chase, Duke Zhuang stopped him: \"A gentleman does not wish to overbear others — still less the Son of Heaven.\" That night he sent Zhai Zhong to ask after the king and his men.\n\nA king beaten at the head of the lords' armies: the authority of Zhou was broken, and an age of lords contending by their own strength began.\n\nTroops (rough): 20,000 against 20,000. Losses: 5,000 against 1,000."
+    "ja": "周の桓王は自ら中軍を率い、右軍に蔡・衛の兵、左軍に陳の兵を置いた。鄭は右に[[p:祭仲]]、左に[[p:高渠弥]]、中軍に荘公が立った。\n\n鄭の公子元は「陳は乱れていて戦う気がない。まず陳を討てば蔡・衛も崩れる」と説いた。鄭は戦車の間に歩兵を詰めて隙をなくした「魚麗の陣」で進み、陳・蔡・衛が崩れると、三方から王の中軍を挟み撃ちにした。\n\n[[p:祝聃]]の矢が王の肩に当たった。祝聃が追おうとすると荘公は「君子は人を凌ぐことを望まない。まして天子を」と止め、その夜、祭仲を遣わして王と側近を見舞わせた。\n\n王が諸侯の軍を率いて敗れたことで、周の権威は地に落ち、諸侯が自らの力で争う時代が始まった。\n\n兵力 (目安): 20,000 対 20,000。損害: 5,000 対 1,000。",
+    "en": "King Huan of Zhou led his centre himself, with Cai and Wey on his right and Chen on his left. Zheng set [[p:祭仲|Zhai Zhong]] on its right, [[p:高渠弥|Gao Qumi]] on its left and Duke Zhuang in the centre.\n\nPrince Yuan of Zheng argued that Chen, in turmoil at home, had no stomach for a fight: break it first, and Cai and Wey would follow. Zheng came on in the \"fish-scale\" order, foot soldiers packed between the chariots, and when Chen, Cai and Wey gave way it closed on the king's centre from three sides.\n\n[[p:祝聃|Zhu Dan]]'s arrow struck the king in the shoulder. When he would have given chase, Duke Zhuang stopped him: \"A gentleman does not wish to overbear others — still less the Son of Heaven.\" That night he sent Zhai Zhong to ask after the king and his men.\n\nA king beaten at the head of the lords' armies: the authority of Zhou was broken, and an age of lords contending by their own strength began.\n\nTroops (rough): 20,000 against 20,000. Losses: 5,000 against 1,000."
    },
    "people": [
     "桓王|King Huan",
     "虢公林父|Linfu, Duke of Guo",
     "祝聃|Zhu Dan",
-    "祭仲|Zhai Zhong"
+    "祭仲|Zhai Zhong",
+    "高渠弥|Gao Qumi"
    ],
    "related": [],
    "src": [
@@ -20099,7 +20708,8 @@
    },
    "people": [
     "郤克|Xi Ke",
-    "韓厥|Han Jue"
+    "韓厥|Han Jue",
+    "高固|Gao Gu"
    ],
    "related": [],
    "src": [
@@ -20118,7 +20728,9 @@
    },
    "people": [
     "欒書|Luan Shu",
-    "子反|Zifan"
+    "郤至|Xi Zhi",
+    "子反|Zifan",
+    "養由基|Yang Youji"
    ],
    "related": [],
    "src": [
@@ -20132,12 +20744,13 @@
     "en": "the battle of Zuili"
    },
    "body": {
-    "ja": "越王[[p:允常]]の死を聞いて、呉の[[p:闔閭]]は越に攻め入った。立ったばかりの越王[[p:句践]]は檇李で迎え撃った。\n\n句践は決死の兵に二度突っ込ませても呉の陣は乱れなかった。そこで罪人を三列に並ばせ、「軍令を犯した。刑を逃れず死ぬ」と叫ばせて次々に自ら首を刎ねさせた。呉兵が呆然と見入るところを越軍が突き、呉は大敗した。\n\n越の霊姑浮の戈が闔閭の足の指を切り落とし、闔閭はその傷がもとで陘で没した。\n\n子の[[p:夫差]]は庭に人を立たせ、出入りのたびに「夫差、越王が汝の父を殺したのを忘れたか」と言わせて、復讐を誓った。\n\n兵力 (目安): 30,000 対 20,000。損害: 10,000 対 1,000。",
-    "en": "Hearing that King [[p:允常|Yunchang]] of Yue had died, [[p:闔閭|Helü]] of Wu invaded. The new king, [[p:句践|Goujian]], met him at Zuili.\n\nTwice Goujian sent picked men to charge and twice the Wu line held. Then he set condemned men in three ranks before it; crying that they had broken the army's law and would not escape the penalty, they cut their own throats one after another. While Wu stared, Yue struck, and Wu was routed.\n\nLing Gufu of Yue cut off Helü's big toe with his dagger-axe; the wound killed him at Xing.\n\nHis son [[p:夫差|Fuchai]] set a man in the courtyard to call out each time he passed: \"Fuchai, have you forgotten that the King of Yue killed your father?\"\n\nTroops (rough): 30,000 against 20,000. Losses: 10,000 against 1,000."
+    "ja": "越王[[p:允常]]の死を聞いて、呉の[[p:闔閭]]は越に攻め入った。立ったばかりの越王[[p:句践]]は檇李で迎え撃った。\n\n句践は決死の兵に二度突っ込ませても呉の陣は乱れなかった。そこで罪人を三列に並ばせ、「軍令を犯した。刑を逃れず死ぬ」と叫ばせて次々に自ら首を刎ねさせた。呉兵が呆然と見入るところを越軍が突き、呉は大敗した。\n\n越の[[p:霊姑浮]]の戈が闔閭の足の指を切り落とし、闔閭はその傷がもとで陘で没した。\n\n子の[[p:夫差]]は庭に人を立たせ、出入りのたびに「夫差、越王が汝の父を殺したのを忘れたか」と言わせて、復讐を誓った。\n\n兵力 (目安): 30,000 対 20,000。損害: 10,000 対 1,000。",
+    "en": "Hearing that King [[p:允常|Yunchang]] of Yue had died, [[p:闔閭|Helü]] of Wu invaded. The new king, [[p:句践|Goujian]], met him at Zuili.\n\nTwice Goujian sent picked men to charge and twice the Wu line held. Then he set condemned men in three ranks before it; crying that they had broken the army's law and would not escape the penalty, they cut their own throats one after another. While Wu stared, Yue struck, and Wu was routed.\n\n[[p:霊姑浮|Ling Gufu]] of Yue cut off Helü's big toe with his dagger-axe; the wound killed him at Xing.\n\nHis son [[p:夫差|Fuchai]] set a man in the courtyard to call out each time he passed: \"Fuchai, have you forgotten that the King of Yue killed your father?\"\n\nTroops (rough): 30,000 against 20,000. Losses: 10,000 against 1,000."
    },
    "people": [
     "闔閭|Helü",
-    "句践|Goujian"
+    "句践|Goujian",
+    "霊姑浮|Ling Gufu"
    ],
    "related": [],
    "src": [
@@ -20313,6 +20926,7 @@
    },
    "people": [
     "王翦|Wang Jian",
+    "蒙武|Meng Wu",
     "項燕|Xiang Yan"
    ],
    "related": [],
@@ -20423,8 +21037,8 @@
     "en": "The bow and archery"
    },
    "body": {
-    "ja": "射 (弓を射ること) は、周の貴族が身につけるべき六つの技「六芸」の一つであった。戦の技であると同時に礼でもあり、宴や祭りには作法に沿って的を射る「射礼」が行われた。[[p:孔子]]も「君子は争わない。争うとすれば射であろう」と言っている。\n\n弓は、木や竹の芯に、腹には角、背には腱を膠で貼り合わせた合わせ弓である。『周礼』考工記は、材を冬に切り、角を春に煮、腱を夏に整え、秋に合わせると記し、一張の弓に足かけ三年かかるとする。六つの材 (幹・角・筋・膠・糸・漆) の良し悪しを見分ける方法まで細かく書かれている。\n\n戦車では、左に乗る「車左」が弓を射た。車の長であり、最も身分の高い者である。前575年の鄢陵の戦いで、楚の養由基は晋の魏錡の首を一矢で射抜いた。養由基は百歩離れて柳の葉を射て百発百中であったといい、「百歩穿楊」「百発百中」の語のもとになった。\n\n戦国になると、弓は歩卒の持ち物ともなった。[[p:荀子]]が語る魏の武卒は、弩とともに矢五十本を背負う。北の趙は遊牧の民にならって馬上から射る「騎射」を取り入れた。ただし大軍の飛び道具の主役は、引き金で放つ弩へと移っていく。弓は熟練に年月がかかり、弩は農民でもすぐに使えたからである。",
-    "en": "Archery was one of the \"six arts\" a Zhou nobleman had to master: a skill of war and at once a rite, with ceremonial shooting at feasts and sacrifices. \"The gentleman does not contend,\" said [[p:孔子|Confucius]], \"or if he must, it is in archery.\"\n\nThe bow was a composite: a core of wood or bamboo with horn glued to the belly and sinew to the back. The Kaogongji has the wood cut in winter, the horn boiled in spring, the sinew dressed in summer and all put together in autumn — three years for one bow — and tells in detail how to judge the six materials, wood, horn, sinew, glue, silk and lacquer.\n\nIn a chariot the archer stood on the left; he commanded it and was the man of highest rank. At Yanling in 575 BC Yang Youji of Chu shot Wei Yi of Jin through the neck with one arrow. He was said to hit a willow leaf at a hundred paces a hundred times in a hundred — the origin of two sayings still in use.\n\nIn the Warring States the foot carried bows too: the picked men of Wei, as [[p:荀子|Xunzi]] describes them, bore fifty arrows on their backs with their crossbows. Zhao in the north learned from the herders to shoot from horseback. But in the great armies the chief missile weapon became the crossbow, loosed by a trigger: a bowman took years to make, and a farmer could use a crossbow at once."
+    "ja": "射 (弓を射ること) は、周の貴族が身につけるべき六つの技「六芸」の一つであった。戦の技であると同時に礼でもあり、宴や祭りには作法に沿って的を射る「射礼」が行われた。[[p:孔子]]も「君子は争わない。争うとすれば射であろう」と言っている。\n\n弓は、木や竹の芯に、腹には角、背には腱を膠で貼り合わせた合わせ弓である。『周礼』考工記は、材を冬に切り、角を春に煮、腱を夏に整え、秋に合わせると記し、一張の弓に足かけ三年かかるとする。六つの材 (幹・角・筋・膠・糸・漆) の良し悪しを見分ける方法まで細かく書かれている。\n\n戦車では、左に乗る「車左」が弓を射た。車の長であり、最も身分の高い者である。前575年の鄢陵の戦いで、楚の[[p:養由基]]は晋の魏錡の首を一矢で射抜いた。養由基は百歩離れて柳の葉を射て百発百中であったといい、「百歩穿楊」「百発百中」の語のもとになった。\n\n戦国になると、弓は歩卒の持ち物ともなった。[[p:荀子]]が語る魏の武卒は、弩とともに矢五十本を背負う。北の趙は遊牧の民にならって馬上から射る「騎射」を取り入れた。ただし大軍の飛び道具の主役は、引き金で放つ弩へと移っていく。弓は熟練に年月がかかり、弩は農民でもすぐに使えたからである。",
+    "en": "Archery was one of the \"six arts\" a Zhou nobleman had to master: a skill of war and at once a rite, with ceremonial shooting at feasts and sacrifices. \"The gentleman does not contend,\" said [[p:孔子|Confucius]], \"or if he must, it is in archery.\"\n\nThe bow was a composite: a core of wood or bamboo with horn glued to the belly and sinew to the back. The Kaogongji has the wood cut in winter, the horn boiled in spring, the sinew dressed in summer and all put together in autumn — three years for one bow — and tells in detail how to judge the six materials, wood, horn, sinew, glue, silk and lacquer.\n\nIn a chariot the archer stood on the left; he commanded it and was the man of highest rank. At Yanling in 575 BC [[p:養由基|Yang Youji]] of Chu shot Wei Yi of Jin through the neck with one arrow. He was said to hit a willow leaf at a hundred paces a hundred times in a hundred — the origin of two sayings still in use.\n\nIn the Warring States the foot carried bows too: the picked men of Wei, as [[p:荀子|Xunzi]] describes them, bore fifty arrows on their backs with their crossbows. Zhao in the north learned from the herders to shoot from horseback. But in the great armies the chief missile weapon became the crossbow, loosed by a trigger: a bowman took years to make, and a farmer could use a crossbow at once."
    },
    "year": 575,
    "people": [
@@ -20473,7 +21087,7 @@
     "en": "The hang, the foot columns of Jin"
    },
    "body": {
-    "ja": "晋の北と東の山地には、戎や狄と呼ばれる人々が住んでいた。彼らは戦車を持たず、歩いて戦う。険しい山道では戦車は役に立たない。晋は早くから、戦車とは別に歩兵だけの隊を持つ必要に迫られた。\n\n前632年、城濮で楚を破った年に、晋の文公は「三行 (さんこう) を作って狄を防いだ」。行とは歩兵の隊列のことで、中行・右行・左行の三つがあった。戦車の三軍とは別に置かれ、[[p:荀林父]]が中行を率いた。その子孫は官の名をとって「中行氏」を名乗り、晋の六卿の一つとなる。\n\n前541年、晋の荀呉 (中行穆子) は大原で狄の無終と群狄を攻めた。地は狭く険しい。魏舒が言った。「彼らは歩兵、こちらは戦車、しかも足場が悪い。車一乗を歩兵十人に替えれば必ず勝てます。まず私の隊から。」晋軍は戦車を捨てて歩兵の隊列を組んだ (「車を毀ちて行と為す」)。車を降りるのを拒んだ者は斬られた。狄は見慣れない陣を笑ったが、陣を整える前に攻められて大敗した。\n\nこれは中原の国が自ら戦車を降りた、記録に残る最初の例である。戦車から歩兵へという流れは、晋が三つに分かれてできた魏・趙・韓にも受け継がれた。魏の武卒も、趙の胡服騎射も、戦車にこだわらないこの晋の気風の上にある。",
+    "ja": "晋の北と東の山地には、戎や狄と呼ばれる人々が住んでいた。彼らは戦車を持たず、歩いて戦う。険しい山道では戦車は役に立たない。晋は早くから、戦車とは別に歩兵だけの隊を持つ必要に迫られた。\n\n前632年、城濮で楚を破った年に、晋の文公は「三行 (さんこう) を作って狄を防いだ」。行とは歩兵の隊列のことで、中行・右行・左行の三つがあった。戦車の三軍とは別に置かれ、[[p:荀林父]]が中行を率いた。その子孫は官の名をとって「中行氏」を名乗り、晋の六卿の一つとなる。\n\n前541年、晋の荀呉 (中行穆子) は大原で狄の無終と群狄を攻めた。地は狭く険しい。[[p:魏舒]]が言った。「彼らは歩兵、こちらは戦車、しかも足場が悪い。車一乗を歩兵十人に替えれば必ず勝てます。まず私の隊から。」晋軍は戦車を捨てて歩兵の隊列を組んだ (「車を毀ちて行と為す」)。車を降りるのを拒んだ者は斬られた。狄は見慣れない陣を笑ったが、陣を整える前に攻められて大敗した。\n\nこれは中原の国が自ら戦車を降りた、記録に残る最初の例である。戦車から歩兵へという流れは、晋が三つに分かれてできた魏・趙・韓にも受け継がれた。魏の武卒も、趙の胡服騎射も、戦車にこだわらないこの晋の気風の上にある。",
     "en": "In the hills north and east of Jin lived the peoples called Rong and Di. They had no chariots and fought on foot, and on steep mountain tracks a chariot is useless. Jin was driven early to keep bodies of foot apart from its chariots.\n\nIn 632 BC, the year he beat Chu at Chengpu, Duke Wen of Jin \"made the three hang to hold off the Di\". A hang is a column of foot; there were three, centre, right and left, set beside the three chariot armies, and [[p:荀林父|Xun Linfu]] commanded the centre. His descendants took the office as their name — Zhonghang, \"Centre Column\" — and became one of the six great houses of Jin.\n\nIn 541 BC Xun Wu of Jin attacked the Wuzhong and the other Di at Dayuan, on narrow, broken ground. Wei Shu said: \"They are on foot and we are in chariots, and the footing is bad. Change each chariot for ten men on foot and we are sure to win. Begin with mine.\" The army left its chariots and formed in columns — \"broke up the chariots to make hang\" — and a man who would not dismount was beheaded. The Di laughed at the strange array, were attacked before they had formed, and were routed.\n\nIt is the first time on record that a state of the central plain got down from its chariots by choice. The turn from chariot to foot passed to Wei, Zhao and Han, the three states Jin split into: the picked foot of Wei and the mounted archers of Zhao both grew from this Jin habit of not clinging to the chariot."
    },
    "year": 632,
@@ -20748,8 +21362,8 @@
     "en": "The mounted archers of the Hu (Linhu and Loufan)"
    },
    "body": {
-    "ja": "趙と燕の北、今の内モンゴルから山西・河北の北の草原には、馬と羊を追って暮らす人々がいた。中原の人は彼らをまとめて「胡」と呼んだ。趙の北西にいたのが林胡と楼煩、燕の北にいたのが東胡である。\n\n『史記』は彼らの暮らしをこう記す。水と草を追って移り住み、城も決まった住まいも田もない。子どもは羊に乗って弓を引き、鳥や鼠を射る。少し大きくなれば狐や兎を射て食べる。男はみな弓を引くことができ、すべてが甲を着けた騎兵となる。遠くからは弓矢、近づけば刀と短い矛で戦う。勝てると見れば進み、不利と見れば退き、逃げることを恥としない。\n\n馬上から後ろへ振り向いて射ることさえできる彼らに、戦車と歩卒の軍は追いつけなかった。山と草原では戦車は進めず、歩卒は置き去りにされる。趙の[[p:武霊王]]はこれを見て、前307年に同じ服を着て同じように戦うことを決めた (胡服騎射)。\n\n武霊王は林胡を討って馬を献じさせ、西へ進んで楼煩の王と会い、その兵を趙の軍に入れた。趙は雲中・雁門・代の郡を置き、陰山のふもとに長城を築いた。楼煩の人は弓の上手として名高く、のちの楚と漢の戦いでも「楼煩」は射手の名として現れる。\n\n燕もまた東胡に苦しんだ。燕の将の秦開は人質として東胡にあり、その信を得て帰ると、東胡を襲って千里あまり退かせた。燕は造陽から襄平まで長城を築き、五つの郡を置いた。戦国の北の国々の長城は、こうして遊牧の騎射を防ぐために築かれ、のちに秦がそれをつないだ。",
-    "en": "North of Zhao and Yan, on the grasslands from today's Inner Mongolia to the north of Shanxi and Hebei, lived peoples who followed their horses and sheep. The men of the central plain called them all Hu. North-west of Zhao were the Linhu and the Loufan; north of Yan, the Donghu.\n\nThe Shiji describes their life: they move after water and grass and have no walled towns, fixed dwellings or fields. Their children ride sheep and draw the bow at birds and rats; a little older, they shoot foxes and hares for food. Every man can draw a bow and all are armoured horsemen. At a distance they use bow and arrow, at close quarters blade and short spear. They come on when they see advantage and fall back when they do not, and think no shame of flight.\n\nThey could even turn and shoot behind them from the saddle, and an army of chariots and foot could not catch them: on hill and steppe the chariot cannot go and the foot are left behind. Seeing it, [[p:武霊王|King Wuling]] of Zhao resolved in 307 BC to dress as they dressed and fight as they fought.\n\nHe attacked the Linhu and made them hand over horses, went west to meet the king of the Loufan and took his men into the Zhao army. Zhao set up the commanderies of Yunzhong, Yanmen and Dai and built a long wall along the foot of the Yin mountains. The Loufan were famous bowmen; in the later war of Chu and Han a \"Loufan\" is the word for a crack archer.\n\nYan suffered from the Donghu in the same way. Its general Qin Kai, once a hostage among them and trusted, came home, attacked them and drove them back more than a thousand li. Yan built a long wall from Zaoyang to Xiangping and set up five commanderies. The walls of the northern states were built so, against the mounted archers of the steppe, and Qin later joined them up."
+    "ja": "趙と燕の北、今の内モンゴルから山西・河北の北の草原には、馬と羊を追って暮らす人々がいた。中原の人は彼らをまとめて「胡」と呼んだ。趙の北西にいたのが林胡と楼煩、燕の北にいたのが東胡である。\n\n『史記』は彼らの暮らしをこう記す。水と草を追って移り住み、城も決まった住まいも田もない。子どもは羊に乗って弓を引き、鳥や鼠を射る。少し大きくなれば狐や兎を射て食べる。男はみな弓を引くことができ、すべてが甲を着けた騎兵となる。遠くからは弓矢、近づけば刀と短い矛で戦う。勝てると見れば進み、不利と見れば退き、逃げることを恥としない。\n\n馬上から後ろへ振り向いて射ることさえできる彼らに、戦車と歩卒の軍は追いつけなかった。山と草原では戦車は進めず、歩卒は置き去りにされる。趙の[[p:武霊王]]はこれを見て、前307年に同じ服を着て同じように戦うことを決めた (胡服騎射)。\n\n武霊王は林胡を討って馬を献じさせ、西へ進んで楼煩の王と会い、その兵を趙の軍に入れた。趙は雲中・雁門・代の郡を置き、陰山のふもとに長城を築いた。楼煩の人は弓の上手として名高く、のちの楚と漢の戦いでも「楼煩」は射手の名として現れる。\n\n燕もまた東胡に苦しんだ。燕の将の[[p:秦開]]は人質として東胡にあり、その信を得て帰ると、東胡を襲って千里あまり退かせた。燕は造陽から襄平まで長城を築き、五つの郡を置いた。戦国の北の国々の長城は、こうして遊牧の騎射を防ぐために築かれ、のちに秦がそれをつないだ。",
+    "en": "North of Zhao and Yan, on the grasslands from today's Inner Mongolia to the north of Shanxi and Hebei, lived peoples who followed their horses and sheep. The men of the central plain called them all Hu. North-west of Zhao were the Linhu and the Loufan; north of Yan, the Donghu.\n\nThe Shiji describes their life: they move after water and grass and have no walled towns, fixed dwellings or fields. Their children ride sheep and draw the bow at birds and rats; a little older, they shoot foxes and hares for food. Every man can draw a bow and all are armoured horsemen. At a distance they use bow and arrow, at close quarters blade and short spear. They come on when they see advantage and fall back when they do not, and think no shame of flight.\n\nThey could even turn and shoot behind them from the saddle, and an army of chariots and foot could not catch them: on hill and steppe the chariot cannot go and the foot are left behind. Seeing it, [[p:武霊王|King Wuling]] of Zhao resolved in 307 BC to dress as they dressed and fight as they fought.\n\nHe attacked the Linhu and made them hand over horses, went west to meet the king of the Loufan and took his men into the Zhao army. Zhao set up the commanderies of Yunzhong, Yanmen and Dai and built a long wall along the foot of the Yin mountains. The Loufan were famous bowmen; in the later war of Chu and Han a \"Loufan\" is the word for a crack archer.\n\nYan suffered from the Donghu in the same way. Its general [[p:秦開|Qin Kai]], once a hostage among them and trusted, came home, attacked them and drove them back more than a thousand li. Yan built a long wall from Zaoyang to Xiangping and set up five commanderies. The walls of the northern states were built so, against the mounted archers of the steppe, and Qin later joined them up."
    },
    "year": 307,
    "people": [
@@ -21482,8 +22096,8 @@
    "朱亥",
    "lord",
    {
-    "ja": "[[p:朱亥]]は肉屋に身を隠していた力士で、兵符を疑った将軍晋鄙を四十斤の鉄槌で打ち殺した。",
-    "en": "[[p:朱亥|Zhu Hai]], a strongman hiding as a butcher, killed General Jin Bi, who doubted the tally, with a forty-catty iron hammer."
+    "ja": "[[p:朱亥]]は肉屋に身を隠していた力士で、兵符を疑った将軍[[p:晋鄙]]を四十斤の鉄槌で打ち殺した。",
+    "en": "[[p:朱亥|Zhu Hai]], a strongman hiding as a butcher, killed General [[p:晋鄙|Jin Bi]], who doubted the tally, with a forty-catty iron hammer."
    }
   ],
   [
