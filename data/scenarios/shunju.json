@@ -2237,7 +2237,7 @@
      "秦王政",
      "King Zheng",
      246,
-     221,
+     210,
      {
       "ab": [
        9,
@@ -2254,7 +2254,52 @@
       "parents": [
        "qin:荘襄王",
        "趙姫"
-      ]
+      ],
+      "dm": 7
+     }
+    ],
+    [
+     "胡亥",
+     "Huhai (the Second Emperor)",
+     210,
+     207,
+     {
+      "rel": "son",
+      "ab": [
+       2,
+       2,
+       2,
+       3
+      ],
+      "tr": [
+       "foolish",
+       "cruel"
+      ],
+      "born": 230,
+      "parents": [
+       "qin:秦王政"
+      ],
+      "dm": 8,
+      "end": "suicide"
+     }
+    ],
+    [
+     "子嬰",
+     "Ziying",
+     207,
+     206,
+     {
+      "rel": "other",
+      "ab": [
+       5,
+       3,
+       4,
+       5
+      ],
+      "tr": [
+       "just"
+      ],
+      "end": "executed"
      }
     ]
    ]
