@@ -1911,7 +1911,15 @@
      "just",
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "安定朝那の人。度遼将軍皇甫規の兄の子で、代々の武門の出。",
+     "en": "A man of Chaona in Anding, nephew of the frontier general Huangfu Gui — of a line of soldiers."
+    },
+    "house": {
+     "ja": "皇甫",
+     "en": "Huangfu"
+    }
    }
   ],
   [
@@ -1931,7 +1939,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "会稽上虞の人。幼くして父を失い、母が絹を売って暮らしを立てた。孝行と義侠で郷里に知られた。",
+     "en": "A man of Shangyu in Kuaiji. His father died when he was small and his mother lived by selling silk; he was known at home for filial piety and generosity."
+    },
+    "house": {
+     "ja": "朱",
+     "en": "Zhu"
+    }
    }
   ],
   [
@@ -1976,7 +1992,15 @@
      "greedy"
     ],
     "fame": 7,
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "隴西臨洮の人。若いころ羌の地を巡って羌の首領たちと交わった。腕力に優れ、馬を走らせながら左右どちらにも弓を射た。",
+     "en": "A man of Lintao in Longxi. In his youth he roamed the Qiang lands and made friends of their chiefs. Very strong, he could shoot to either side from a galloping horse."
+    },
+    "house": {
+     "ja": "董",
+     "en": "Dong"
+    }
    }
   ],
   [
@@ -2014,7 +2038,15 @@
      6,
      4,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "鉅鹿の人。太平道を開いた張角の弟。",
+     "en": "A man of Julu, younger brother of Zhang Jue, founder of the Way of Great Peace."
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -2031,7 +2063,15 @@
      6,
      4,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "鉅鹿の人。太平道を開いた張角の弟。",
+     "en": "A man of Julu, younger brother of Zhang Jue, founder of the Way of Great Peace."
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -2238,7 +2278,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "沛国譙の人。漢の高祖に仕えた夏侯嬰の子孫。十四歳のとき、師を辱めた者を殺して烈しい気性で知られた。",
+     "en": "A man of Qiao in Pei, descendant of Xiahou Ying, who served the founder of Han. At fourteen he killed a man who had insulted his teacher, and was known for his fierce spirit."
+    },
+    "house": {
+     "ja": "夏侯",
+     "en": "Xiahou"
+    }
    }
   ],
   [
@@ -2259,7 +2307,15 @@
     "tr": [
      "brave"
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "沛国譙の人で、[[p:夏侯惇]]の一族の弟。郷里で罪を得た曹操の身代わりとなって罪をかぶったことがある。",
+     "en": "A man of Qiao in Pei, a younger kinsman of [[p:夏侯惇|Xiahou Dun]]. Once, when Cao Cao was charged with a crime at home, he took the blame in his place."
+    },
+    "house": {
+     "ja": "夏侯",
+     "en": "Xiahou"
+    }
    }
   ],
   [
@@ -2280,7 +2336,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "沛国譙の人で、曹操の従弟。若いころは弓馬と狩猟を好み、天下が乱れると千人余りを集めて曹操に従った。",
+     "en": "A man of Qiao in Pei, Cao Cao's cousin. In his youth he loved riding, archery and the hunt; when the realm fell into disorder he gathered a thousand men and followed Cao Cao."
+    },
+    "house": {
+     "ja": "曹",
+     "en": "Cao"
+    }
    }
   ],
   [
@@ -2303,7 +2367,15 @@
      "warrior"
     ],
     "fame": 5,
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "陳留己吾の人。体が大きく力が強く、友のために仇を討って名を知られた。",
+     "en": "A man of Jiwu in Chenliu, huge and strong, who made his name avenging a friend."
+    },
+    "house": {
+     "ja": "典",
+     "en": "Dian"
+    }
    }
   ],
   [
@@ -2324,7 +2396,15 @@
     "tr": [
      "brave",
      "warrior"
-    ]
+    ],
+    "origin": {
+     "ja": "譙国譙の人。黄巾の乱のとき一族数千家を集めて砦を築き、賊を防いだ。賊と牛を取り替えたとき、逃げ戻る牛の尾をつかんで百歩も引きずり戻し、賊を驚かせたという。",
+     "en": "A man of Qiao. In the Yellow Turban rising he gathered thousands of families of his clan behind a stockade and held off the rebels; once, trading oxen with them, he dragged a runaway ox back a hundred paces by its tail, to their terror."
+    },
+    "house": {
+     "ja": "許",
+     "en": "Xu"
+    }
    }
   ],
   [
@@ -2352,7 +2432,15 @@
      "brave",
      "warrior"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "雁門馬邑の人。前漢の聶壱の子孫で、仇を避けて姓を張に改めた家。并州の丁原・董卓・呂布に仕え、のち曹操に降った。",
+     "en": "A man of Mayi in Yanmen, of the line of Nie Yi of Former Han; the family took the name Zhang to escape a vendetta. He served Ding Yuan, Dong Zhuo and Lü Bu before surrendering to Cao Cao."
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -2378,7 +2466,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "河東楊の人。郡の役人から楊奉に従い、献帝の東帰を守った。のち楊奉を離れて曹操に仕えた。",
+     "en": "A man of Yang in Hedong. A commandery clerk, he followed Yang Feng and guarded Emperor Xian on his way east, then left Yang Feng to serve Cao Cao."
+    },
+    "house": {
+     "ja": "徐",
+     "en": "Xu"
+    }
    }
   ],
   [
@@ -2406,7 +2502,15 @@
      "brave"
     ],
     "fame": 6,
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "河間鄚の人。黄巾討伐の募兵に応じて韓馥に、ついで袁紹に仕えた。官渡の戦いのさなかに曹操に降った。",
+     "en": "A man of Mao in Hejian. He answered the call to fight the Yellow Turbans, served Han Fu and then Yuan Shao, and went over to Cao Cao in the midst of Guandu."
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -2423,7 +2527,15 @@
      8,
      4,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "泰山鉅平の人。鮑信の募兵に従い、のち曹操の下で頭角を現した。",
+     "en": "A man of Juping in Taishan. He joined Bao Xin's levy and rose under Cao Cao."
+    },
+    "house": {
+     "ja": "于",
+     "en": "Yu"
+    }
    }
   ],
   [
@@ -2443,7 +2555,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "陽平衛国の人。小柄だが胆力があり、帳下の吏から曹操に従った。",
+     "en": "A man of Weiguo in Yangping, small but bold; he followed Cao Cao from a clerk of his staff."
+    },
+    "house": {
+     "ja": "楽",
+     "en": "Yue"
+    }
    }
   ],
   [
@@ -2505,7 +2625,15 @@
      8,
      5,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "曹操の一族の子。父が曹操のために兵を集めて討たれたため、曹操に引き取られ、[[p:曹丕]]とともに実の子同様に育てられた。",
+     "en": "A child of Cao Cao's clan. His father was killed raising troops for Cao Cao, who took him in and raised him as his own, alongside [[p:曹丕|Cao Pi]]."
+    },
+    "house": {
+     "ja": "曹",
+     "en": "Cao"
+    }
    }
   ],
   [
@@ -2565,7 +2693,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "山陽昌邑の人。十八歳で郡の督郵となり、法を曲げない役人として知られた。",
+     "en": "A man of Changyi in Shanyang. At eighteen he was a commandery inspector, known as an official who would not bend the law."
+    },
+    "house": {
+     "ja": "満",
+     "en": "Man"
+    }
    }
   ],
   [
@@ -2585,7 +2721,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "太原の人。兵卒から身を起こし、河西で十年余り守りについた。",
+     "en": "A man of Taiyuan who rose from the ranks and held the Hexi frontier for over ten years."
+    },
+    "house": {
+     "ja": "郝",
+     "en": "Hao"
+    }
    }
   ],
   [
@@ -2607,7 +2751,15 @@
      "genius"
     ],
     "fame": 7,
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "義陽棘陽の人。幼くして父を失い、牛飼いをしながら育った。吃音があったが、高い山や広い沢を見るたびに陣を敷く場所を測ったという。",
+     "en": "A man of Jiyang in Yiyang. Fatherless from childhood, he grew up herding cattle. He stammered, but whenever he saw high hills and broad marshes, they say, he worked out where to pitch a camp."
+    },
+    "house": {
+     "ja": "鄧",
+     "en": "Deng"
+    }
    }
   ],
   [
@@ -2630,7 +2782,15 @@
      "genius"
     ],
     "fame": 6,
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "潁川長社の人で、太傅鍾繇の末の子。幼いころから聡明で知られた。",
+     "en": "A man of Changshe in Yingchuan, youngest son of the grand tutor Zhong Yao, known as brilliant from childhood."
+    },
+    "house": {
+     "ja": "鍾",
+     "en": "Zhong"
+    }
    }
   ],
   [
@@ -2694,7 +2854,15 @@
      "just",
      "kind"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "泰山南城の人。九代にわたって二千石の高官を出した家で、母は蔡邕の娘、姉は司馬師の妻。",
+     "en": "A man of Nancheng in Taishan, of a family that had given high officials for nine generations; his mother was Cai Yong's daughter, his sister the wife of Sima Shi."
+    },
+    "house": {
+     "ja": "羊",
+     "en": "Yang"
+    }
    }
   ],
   [
@@ -2715,7 +2883,15 @@
     "tr": [
      "scholar"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "京兆杜陵の人。祖父の杜畿は魏の重臣で、妻は司馬懿の娘。『春秋左氏伝』を深く愛し、自ら「左伝癖」と言った。",
+     "en": "A man of Duling near the capital. His grandfather Du Ji was a great minister of Wei, his wife a daughter of Sima Yi. He loved the Zuozhuan so much that he called it his \"Zuozhuan addiction\"."
+    },
+    "house": {
+     "ja": "杜",
+     "en": "Du"
+    }
    }
   ],
   [
@@ -2980,7 +3156,15 @@
      "warrior"
     ],
     "fame": 9,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "河東解の人。郷里を出て涿郡へ逃れ、そこで兵を集めていた[[p:劉備]]に従った。[[p:張飛]]とともに、劉備とは寝床を同じくするほどの間柄だった。",
+     "en": "A man of Xie in Hedong. He fled his home to Zhuo, where he joined [[p:劉備|Liu Bei]], then raising men; he and [[p:張飛|Zhang Fei]] were so close to Liu Bei that they shared his bed."
+    },
+    "house": {
+     "ja": "関",
+     "en": "Guan"
+    }
    }
   ],
   [
@@ -3026,7 +3210,15 @@
      "cruel"
     ],
     "fame": 8,
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "涿郡の人。若いころから[[p:関羽]]とともに[[p:劉備]]に仕え、関羽を兄として敬った。",
+     "en": "A man of Zhuo. From his youth he served [[p:劉備|Liu Bei]] with [[p:関羽|Guan Yu]], whom he honoured as an elder brother."
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -3062,7 +3254,15 @@
      "brave",
      "just"
     ],
-    "fame": 8
+    "fame": 8,
+    "origin": {
+     "ja": "常山真定の人。郷里の義勇兵を率いて公孫瓚に従い、そこで[[p:劉備]]と出会った。",
+     "en": "A man of Zhending in Changshan. He led the volunteers of his home district to Gongsun Zan, where he met [[p:劉備|Liu Bei]]."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    }
    }
   ],
   [
@@ -3172,7 +3372,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "南陽の人。劉表に仕えて長沙を守り、劉備が荊州南部を取ると従った。",
+     "en": "A man of Nanyang. He served Liu Biao, guarding Changsha, and joined Liu Bei when Liu Bei took southern Jing."
+    },
+    "house": {
+     "ja": "黄",
+     "en": "Huang"
+    }
    }
   ],
   [
@@ -3194,7 +3402,15 @@
      "brave",
      "ambitious"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "義陽の人。私兵の頭として劉備に従い、蜀へ入った。",
+     "en": "A man of Yiyang. He followed Liu Bei into Shu at the head of his own retainers."
+    },
+    "house": {
+     "ja": "魏",
+     "en": "Wei"
+    }
    }
   ],
   [
@@ -3241,7 +3457,15 @@
     "tr": [
      "ambitious"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "襄陽宜城の人で、馬良の弟。兄弟五人がみな才名高く、「馬氏の五常、白眉最も良し」と言われた (白眉は眉に白い毛のある兄の馬良)。",
+     "en": "A man of Yicheng in Xiangyang, younger brother of Ma Liang. All five brothers were famed for talent: \"Of the five Ma, White Brows is best\" (White Brows being Ma Liang)."
+    },
+    "house": {
+     "ja": "馬",
+     "en": "Ma"
+    }
    }
   ],
   [
@@ -3312,7 +3536,15 @@
      "ambitious"
     ],
     "fame": 7,
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "天水冀の人。父は郡の役人で、羌の反乱で郡の長官をかばって戦死した。魏の天水郡に仕えていたが、諸葛亮の北伐のさなかに蜀に降った。",
+     "en": "A man of Ji in Tianshui. His father, a commandery officer, died shielding the governor in a Qiang rising. He was serving Wei's Tianshui when he went over to Shu during Zhuge Liang's northern campaign."
+    },
+    "house": {
+     "ja": "姜",
+     "en": "Jiang"
+    }
    }
   ],
   [
@@ -3373,7 +3605,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "右北平土垠の人。州郡の役人から孫堅に従い、孫氏三代に仕えた最古参。",
+     "en": "A man of Tuyin in Youbeiping. From a provincial clerk he followed Sun Jian and served three generations of the Sun — the eldest of their veterans."
+    },
+    "house": {
+     "ja": "程",
+     "en": "Cheng"
+    }
    }
   ],
   [
@@ -3393,7 +3633,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "零陵泉陵の人。南陽太守黄子廉の子孫と伝わる。幼くして父を失い、薪を担いで暮らしながら学問と兵法を学んだ。",
+     "en": "A man of Quanling in Lingling, said to descend from Huang Zilian, governor of Nanyang. Fatherless as a boy, he carried firewood for a living while he studied letters and war."
+    },
+    "house": {
+     "ja": "黄",
+     "en": "Huang"
+    }
    }
   ],
   [
@@ -3415,7 +3663,15 @@
      "genius",
      "charismatic"
     ],
-    "fame": 9
+    "fame": 9,
+    "origin": {
+     "ja": "廬江舒の人。従祖父と従父は漢の太尉を務めた名家の出。孫策と同い年で、屋敷を譲って住まわせるほどの親友だった。",
+     "en": "A man of Shu in Lujiang, of a great family: his grandfather's brother and his uncle had been grand commandants of Han. The same age as Sun Ce, he was such a friend that he gave him a house to live in."
+    },
+    "house": {
+     "ja": "周",
+     "en": "Zhou"
+    }
    }
   ],
   [
@@ -3462,7 +3718,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "東莱黄の人。郡の役人だったとき、州の上奏文を役人から騙し取って破り、郡の上奏を先に届けて名を上げた。",
+     "en": "A man of Huang in Donglai. As a commandery clerk he tricked the province's envoy into handing over its memorial, tore it up and got his own commandery's in first — and made his name."
+    },
+    "house": {
+     "ja": "太史",
+     "en": "Taishi"
+    }
    }
   ],
   [
@@ -3511,7 +3775,15 @@
     "tr": [
      "brave",
      "warrior"
-    ]
+    ],
+    "origin": {
+     "ja": "巴郡臨江の人。若いころは無頼の若者を率い、腰に鈴を下げ、錦の帆を張って「錦帆賊」と呼ばれた。のち劉表・黄祖を経て孫権に仕えた。",
+     "en": "A man of Linjiang in Ba. In his youth he led a band of wild young men with bells at their belts and brocade sails — \"the brocade-sail bandits\". He served Liu Biao and Huang Zu before Sun Quan."
+    },
+    "house": {
+     "ja": "甘",
+     "en": "Gan"
+    }
    }
   ],
   [
@@ -3533,7 +3805,15 @@
      "brave",
      "scholar"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "汝南富陂の人。姉の夫の鄧当に従って孫策の軍に入った。学問がなかったが、孫権に勧められて学び、のちに魯粛から「もはや呉下の阿蒙ではない」と言われた。",
+     "en": "A man of Fupi in Runan. He joined Sun Ce's army following his sister's husband Deng Dang. Unlettered, he studied at Sun Quan's urging, until Lu Su said \"you are no longer the Ameng of Wu\"."
+    },
+    "house": {
+     "ja": "呂",
+     "en": "Lü"
+    }
    }
   ],
   [
@@ -3555,7 +3835,15 @@
      "genius",
      "wise"
     ],
-    "fame": 8
+    "fame": 8,
+    "origin": {
+     "ja": "呉郡呉の人。江東の名家陸氏の出で、孫策に攻められて一族の多くを失った陸康の一族。のち孫策の娘を妻とした。",
+     "en": "A man of Wu, of the great Lu family of Jiangdong — kin of Lu Kang, whose clan Sun Ce had all but destroyed. He later married Sun Ce's daughter."
+    },
+    "house": {
+     "ja": "陸",
+     "en": "Lu"
+    }
    }
   ],
   [
@@ -3618,7 +3906,15 @@
      "wise",
      "just"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "[[p:陸遜]]の子で、母は孫策の娘。",
+     "en": "Son of [[p:陸遜|Lu Xun]]; his mother was Sun Ce's daughter."
+    },
+    "house": {
+     "ja": "陸",
+     "en": "Lu"
+    }
    }
   ],
   [
@@ -3638,7 +3934,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "廬江安豊の人。若くして勇猛で知られ、甘寧・陸遜・潘璋の下で戦った。",
+     "en": "A man of Anfeng in Lujiang, known young for his courage; he fought under Gan Ning, Lu Xun and Pan Zhang."
+    },
+    "house": {
+     "ja": "丁",
+     "en": "Ding"
+    }
    }
   ],
   [
@@ -3684,7 +3988,15 @@
     "tr": [
      "ambitious"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "扶風の人。劉璋に仕え、法正とともに劉備を蜀に迎えた。",
+     "en": "A man of Fufeng. He served Liu Zhang and, with Fa Zheng, brought Liu Bei into Shu."
+    },
+    "house": {
+     "ja": "孟",
+     "en": "Meng"
+    }
    }
   ],
   [
@@ -3711,7 +4023,15 @@
     "tr": [
      "brave"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "南安狟道の人。郡の役人から馬騰・馬超に従った。",
+     "en": "A man of Huandao in Nan'an; from a commandery clerk he followed Ma Teng and Ma Chao."
+    },
+    "house": {
+     "ja": "龐",
+     "en": "Pang"
+    }
    }
   ],
   [
@@ -3734,7 +4054,15 @@
      7,
      4,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "馬超の従弟。",
+     "en": "Cousin of Ma Chao."
+    },
+    "house": {
+     "ja": "馬",
+     "en": "Ma"
+    }
    }
   ],
   [
@@ -3827,7 +4155,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "呉郡余杭の人。父の凌操は孫権に仕え、黄祖を攻めたとき甘寧に射殺された。",
+     "en": "A man of Yuhang in Wu. His father Ling Cao served Sun Quan and was shot dead by Gan Ning in the attack on Huang Zu."
+    },
+    "house": {
+     "ja": "凌",
+     "en": "Ling"
+    }
    }
   ],
   [
