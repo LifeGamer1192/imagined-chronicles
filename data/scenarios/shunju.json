@@ -6213,8 +6213,8 @@
      ]
     ],
     "origin": {
-     "ja": "楚の名門伍氏の出。祖父の[[p:伍挙]]は荘王を諫めた臣。父の[[p:伍奢]]と兄の伍尚が平王に殺されると、ただ一人呉へ逃れ、仇を討つことを誓った。",
-     "en": "Of the great Wu clan of Chu; his grandfather [[p:伍挙|Wu Ju]] was the minister who admonished King Zhuang. When his father [[p:伍奢|Wu She]] and his brother Wu Shang were put to death by King Ping, he alone fled to Wu, vowing revenge."
+     "ja": "楚の名門伍氏の出。祖父の[[p:伍挙]]は荘王を諫めた臣。父の[[p:伍奢]]が平王に殺され、兄の伍尚が父とともに死ぬ道を選ぶなか一人逃れ、宋・鄭を経て呉へ入り、仇を討つことを誓った。",
+     "en": "Of the great Wu clan of Chu; his grandfather [[p:伍挙|Wu Ju]] was the minister who admonished King Zhuang. When King Ping put his father [[p:伍奢|Wu She]] to death and his brother Wu Shang chose to die with him, he fled — by way of Song and Zheng to Wu — vowing revenge."
     }
    }
   ],
@@ -6642,8 +6642,8 @@
     "fame": 5,
     "end": "suicide",
     "origin": {
-     "ja": "魏の人。若いころ[[p:孫臏]]とともに兵法を学んだ (二人の師を[[p:鬼谷子]]とする言い伝えがある)。",
-     "en": "A man of Wei. In his youth he studied the art of war with [[p:孫臏|Sun Bin]] (tradition makes [[p:鬼谷子|Guiguzi]] their teacher)."
+     "ja": "魏に仕えて恵王の将となった。若いころ[[p:孫臏]]とともに兵法を学んだ (二人の師を[[p:鬼谷子]]とする言い伝えがある)。",
+     "en": "He served Wei as King Hui's general. In his youth he studied the art of war with [[p:孫臏|Sun Bin]] (tradition makes [[p:鬼谷子|Guiguzi]] their teacher)."
     }
    }
   ],
@@ -7051,8 +7051,8 @@
      ]
     ],
     "origin": {
-     "ja": "中山の霊寿に生まれ育った。中山を攻め取った魏の将[[p:楽羊]]の子孫 ([[a:yue_clan|楽氏と中山]])。中山の滅亡の後、趙・魏に仕え、燕の昭王の招きで燕へ移った。",
-     "en": "Born and raised at Lingshou in Zhongshan, a descendant of [[p:楽羊|Yue Yang]], the Wei general who conquered it ([[a:yue_clan|the Yue family and Zhongshan]]). After Zhongshan fell he served Zhao and Wei, then went to Yan at King Zhao's call."
+     "ja": "中山の霊寿に住みついた楽氏の出。中山を攻め取った魏の将[[p:楽羊]]の子孫 ([[a:yue_clan|楽氏と中山]])。中山の滅亡の後、趙・魏に仕え、燕の昭王の招きで燕へ移った。",
+     "en": "Of the Yue family settled at Lingshou in Zhongshan, descendants of [[p:楽羊|Yue Yang]], the Wei general who conquered it ([[a:yue_clan|the Yue family and Zhongshan]]). After Zhongshan fell he served Zhao and Wei, then went to Yan at King Zhao's call."
     },
     "house": {
      "ja": "楽",
@@ -7164,8 +7164,8 @@
      ]
     ],
     "origin": {
-     "ja": "趙の田租を取り立てる役人だった。[[p:平原君]]の家が租を納めないので、その家の者九人を法どおり斬った。平原君は怒るどころか彼を賢いとして恵文王に推した。",
-     "en": "A collector of land tax in Zhao. When [[p:平原君|Lord Pingyuan]]'s household would not pay, he executed nine of its men by the law; far from angry, Lord Pingyuan called him able and recommended him to King Huiwen."
+     "ja": "趙の田租を取り立てる役人だった。[[p:平原君]]の家が租を納めないので、その家の者九人を法どおり斬った。平原君は怒って彼を殺そうとしたが、趙奢に説かれて賢いと認め、恵文王に推した。",
+     "en": "A collector of land tax in Zhao. When [[p:平原君|Lord Pingyuan]]'s household would not pay, he executed nine of its men by the law. Lord Pingyuan was furious and meant to kill him, but Zhao She talked him round; he called him able and recommended him to King Huiwen."
     }
    }
   ],
@@ -8152,8 +8152,8 @@
      "百里奚"
     ],
     "origin": {
-     "ja": "秦の賢臣[[p:百里奚]]の子 (百里氏)。",
-     "en": "Son of [[p:百里奚|Baili Xi]], the wise minister of Qin."
+     "ja": "秦の賢臣[[p:百里奚]]の子と伝わる (『史記』)。",
+     "en": "Said to be a son of [[p:百里奚|Baili Xi]], the wise minister of Qin (Shiji)."
     }
    }
   ],
@@ -8224,8 +8224,8 @@
      "brave"
     ],
     "origin": {
-     "ja": "晋の郤氏の人 (郤缺の子)。斉に使いしたとき足の不自由さを笑われ、その恨みが鞍の戦いにつながった。",
-     "en": "Of the Xi clan of Jin, son of Xi Que. Mocked for his lameness on an embassy to Qi, he never forgave it — a grudge that led to the battle of An."
+     "ja": "晋の郤氏の人 (郤缺の子)。斉に使いしたとき体の障り (片目とも背の曲がりとも伝わる) を笑われ、その恨みが鞍の戦いにつながった。",
+     "en": "Of the Xi clan of Jin, son of Xi Que. Mocked for a deformity (one eye, or a hunched back, by different accounts) on an embassy to Qi, he never forgave it — a grudge that led to the battle of An."
     },
     "offices": [
      [
@@ -9665,8 +9665,8 @@
     ],
     "fame": 4,
     "origin": {
-     "ja": "晋の魏氏の人で、[[p:魏絳]]の子。戦車を捨てて歩兵の隊列を組み、狄を破った。",
-     "en": "Of the Wei clan of Jin, son of [[p:魏絳|Wei Jiang]]. He broke the Di by giving up chariots for ranks of foot."
+     "ja": "晋の魏氏の人で、[[p:魏絳]]の子 (『史記』では孫)。戦車を捨てて歩兵の隊列を組み、狄を破った。",
+     "en": "Of the Wei clan of Jin, son (in the Shiji, grandson) of [[p:魏絳|Wei Jiang]]. He broke the Di by giving up chariots for ranks of foot."
     }
    }
   ],
@@ -9856,8 +9856,8 @@
     ],
     "fame": 4,
     "origin": {
-     "ja": "燕の人。若いころ東胡へ人質に送られ、その信を得て内情を知った。燕に帰ると東胡を千里も退け、長城を築いた (『史記』匈奴列伝)。孫に、荊軻とともに秦へ行った秦舞陽がいる。",
-     "en": "A man of Yan. Sent as a hostage to the Donghu in his youth, he won their trust and learned their ways; back in Yan he drove them back a thousand li and built a long wall (Shiji, Account of the Xiongnu). His grandson Qin Wuyang went to Qin with Jing Ke."
+     "ja": "燕の人。東胡へ人質に送られ、その信を得て内情を知った。燕に帰ると東胡を千里も退け、燕はこのあと長城を築いた (『史記』匈奴列伝)。孫に、荊軻とともに秦へ行った秦舞陽がいる。",
+     "en": "A man of Yan. Sent as a hostage to the Donghu, he won their trust and learned their ways; back in Yan he drove them back a thousand li, and Yan then built a long wall (Shiji, Account of the Xiongnu). His grandson Qin Wuyang went to Qin with Jing Ke."
     }
    }
   ],
@@ -9898,8 +9898,8 @@
     ],
     "end": "battle_wound",
     "origin": {
-     "ja": "趙の人。燕の昭王が黄金台を築いて賢者を招いたとき、[[p:楽毅]]・[[p:鄒衍]]とともに燕へ来た。",
-     "en": "A man of Zhao. When King Zhao of Yan built the Golden Terrace to call the able, he came to Yan along with [[p:楽毅|Yue Yi]] and [[p:鄒衍|Zou Yan]]."
+     "ja": "趙の人。燕の昭王が[[p:郭隗]]を師と仰いで賢者を招いたとき (のちに「黄金台」の話として伝わる)、[[p:楽毅]]・[[p:鄒衍]]とともに燕へ来た。",
+     "en": "A man of Zhao. When King Zhao of Yan honoured [[p:郭隗|Guo Wei]] as his teacher to draw in the able (later told as the \"Golden Terrace\"), he came to Yan along with [[p:楽毅|Yue Yi]] and [[p:鄒衍|Zou Yan]]."
     }
    }
   ],
@@ -10116,7 +10116,7 @@
     ],
     "origin": {
      "ja": "魏の人。魏の宰相に打たれて死にかけた[[p:范雎]]をかくまい、秦の使者に引き合わせて逃がした。秦の宰相となった范雎の推挙で秦の将となった。",
-     "en": "A man of Wei. He hid [[p:范雎|Fan Ju]], beaten near to death by the Wei chancellor, and got him away with a Qin envoy; when Fan Ju became chancellor of Qin, he made him a general."
+     "en": "A man of Wei. He hid [[p:范雎|Fan Ju]], beaten near to death by the Wei chancellor, and got him away with a Qin envoy; when Fan Ju became chancellor of Qin, he recommended him and King Zhaoxiang made him a general."
     }
    }
   ],
@@ -10285,8 +10285,8 @@
      "brave"
     ],
     "origin": {
-     "ja": "斉の王族田氏の人。",
-     "en": "Of the royal Tian of Qi."
+     "ja": "斉の将 (田氏の人だが、王族との続き柄は記録に無い)。",
+     "en": "A general of Qi (a Tian, though his tie to the royal line is not on record)."
     }
    }
   ],
@@ -10351,8 +10351,8 @@
      "just"
     ],
     "origin": {
-     "ja": "名は騰で、「内史」(都のまわりを治める官) の職名で呼ばれる。のちに南郡の守となり、役人に法を守らせる布告を出した (睡虎地で見つかった竹簡「語書」)。",
-     "en": "His name was Teng; he is known by his office, neishi (governor of the capital region). Later governor of Nanjun, he issued a notice telling its officials to keep the law (the \"Yushu\" on bamboo slips found at Shuihudi)."
+     "ja": "名は騰で、「内史」(都のまわりを治める官) の職名で呼ばれる。のちに南郡の守となって役人に法を守らせる布告を出した騰 (睡虎地で見つかった竹簡「語書」) と同じ人とされる。",
+     "en": "His name was Teng; he is known by his office, neishi (governor of the capital region). He is usually identified with the Teng who, as governor of Nanjun, issued a notice telling its officials to keep the law (the \"Yushu\" on bamboo slips found at Shuihudi)."
     }
    }
   ],
@@ -16790,8 +16790,8 @@
      0.2
     ]
    ],
-   "ja": "{r_yan}は[[a:xianwei|「まず隗より始めよ」]]との[[p:郭隗]]の言を容れ、黄金台を築いて天下の賢者を招いた。[[p:楽毅]]・[[p:鄒衍]]らが燕に集まった。",
-   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"[[a:xianwei|begin with me, Wei]]\" — and built the Golden Terrace to welcome the able men of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan.",
+   "ja": "{r_yan}は[[a:xianwei|「まず隗より始めよ」]]との[[p:郭隗]]の言を容れ、郭隗のために屋敷を建てて師と仰ぎ、天下の賢者を招いた (のちに「黄金台」の話として伝わる)。[[p:楽毅]]・[[p:鄒衍]]らが燕に集まった。",
+   "en": "{r_yan} took [[p:郭隗|Guo Wei]]'s advice — \"[[a:xianwei|begin with me, Wei]]\" — and built Guo Wei a house and honoured him as his teacher, to welcome the able men of the world (later told as the \"Golden Terrace\"). [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and others came to Yan.",
    "src": [
     "zhanguoce:燕策一|Yan 1",
     "shiji:燕召公世家|House of Shao of Yan"
@@ -21330,8 +21330,8 @@
     "en": "Begin with me, Wei"
    },
    "body": {
-    "ja": "斉に国を荒らされた燕の昭王は、賢者を集めて国を立て直そうと、[[p:郭隗]]に相談した。郭隗は話をした。「昔ある王が千金で一日千里を走る馬を求めたが、三年たっても手に入らない。家来が出かけて行き、死んだ名馬の骨を五百金で買って帰った。王が怒ると、家来は言った。死んだ馬さえ五百金で買うのです。生きた馬ならなおさらと、人は思うでしょう。一年もたたずに、千里の馬が三頭も集まりました」。\n\n「王が本当に賢者を招きたいなら、まずこの隗から始めてください。隗のような者でさえ重く用いられるなら、隗より賢い者は千里を遠しとせずにやって来るでしょう」。\n\n昭王は郭隗のために宮殿を建てて師として仕え、黄金台を築いて天下の士を招いた。[[p:楽毅]]・[[p:鄒衍]]・[[p:劇辛]]らが燕に集まり、燕はやがて楽毅のもとで斉を破った。「隗より始めよ」は、大きなことはまず手近なことから、また言い出した者から始めよ、という意味で使われる。",
-    "en": "Ravaged by Qi, King Zhao of Yan wanted able men to rebuild his state, and asked [[p:郭隗|Guo Wei]] how to find them. Guo Wei told a story: \"A king once offered a thousand gold for a horse that could run a thousand li a day, and after three years had none. A servant went out and came back with the bones of a dead one, bought for five hundred. The king was furious. If he will pay five hundred for a dead horse, said the servant, what will he pay for a live one? Within a year three such horses were brought to him.\"\n\n\"If you truly want able men, begin with me, Wei. If even I am honoured, better men than I will think nothing of a thousand li.\"\n\nThe king built Guo Wei a palace and served him as a teacher, and raised the Golden Terrace to welcome the talents of the world. [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and [[p:劇辛|Ju Xin]] came to Yan, and under Yue Yi Yan later crushed Qi. \"Begin with Wei\" now means: start great things with what is at hand — or with the one who proposes them."
+    "ja": "斉に国を荒らされた燕の昭王は、賢者を集めて国を立て直そうと、[[p:郭隗]]に相談した。郭隗は話をした。「昔ある王が千金で一日千里を走る馬を求めたが、三年たっても手に入らない。家来が出かけて行き、死んだ名馬の骨を五百金で買って帰った。王が怒ると、家来は言った。死んだ馬さえ五百金で買うのです。生きた馬ならなおさらと、人は思うでしょう。一年もたたずに、千里の馬が三頭も集まりました」。\n\n「王が本当に賢者を招きたいなら、まずこの隗から始めてください。隗のような者でさえ重く用いられるなら、隗より賢い者は千里を遠しとせずにやって来るでしょう」。\n\n昭王は郭隗のために宮殿を建てて師として仕え、天下の士を招いた (のちの書は、このとき黄金を積んだ台を築いたと伝え、「黄金台」の名で知られる)。[[p:楽毅]]・[[p:鄒衍]]・[[p:劇辛]]らが燕に集まり、燕はやがて楽毅のもとで斉を破った。「隗より始めよ」は、大きなことはまず手近なことから、また言い出した者から始めよ、という意味で使われる。",
+    "en": "Ravaged by Qi, King Zhao of Yan wanted able men to rebuild his state, and asked [[p:郭隗|Guo Wei]] how to find them. Guo Wei told a story: \"A king once offered a thousand gold for a horse that could run a thousand li a day, and after three years had none. A servant went out and came back with the bones of a dead one, bought for five hundred. The king was furious. If he will pay five hundred for a dead horse, said the servant, what will he pay for a live one? Within a year three such horses were brought to him.\"\n\n\"If you truly want able men, begin with me, Wei. If even I am honoured, better men than I will think nothing of a thousand li.\"\n\nThe king built Guo Wei a palace and served him as a teacher, to welcome the talents of the world (later books say he raised a terrace heaped with gold — the famous \"Golden Terrace\"). [[p:楽毅|Yue Yi]], [[p:鄒衍|Zou Yan]] and [[p:劇辛|Ju Xin]] came to Yan, and under Yue Yi Yan later crushed Qi. \"Begin with Wei\" now means: start great things with what is at hand — or with the one who proposes them."
    },
    "year": 311,
    "people": [
@@ -22400,8 +22400,8 @@
     "en": "The Yue family and Zhongshan: from Yue Yang to Yue Yi"
    },
    "body": {
-    "ja": "燕の名将[[p:楽毅]]は、燕の人ではない。生まれ育ったのは中山の地である。\n\n楽毅の先祖は、魏の文侯の将[[p:楽羊]]であった。楽羊は三年をかけて中山を攻め落とした。中山に人質として残っていた我が子を煮た羹を送られても、それを飲み干して攻めを緩めなかったという、あの楽羊である。功によって中山の霊寿を与えられた楽羊は、霊寿で死んでその地に葬られ、子孫はそのまま霊寿に住みついた。かつて攻め取った国が、一族の故郷になったのである。\n\nやがて中山は魏の手を離れて国を取り戻し、王を名乗るまでになったが、趙の武霊王に攻められ、前296年に滅んだ。楽氏の家からはその後、楽毅が出た。\n\n楽毅は賢く、兵法を好んだ。趙の人に推されて趙に仕えたが、前295年、武霊王が沙丘の宮で飢え死にする乱が起こると、趙を去って魏へ移った。そのころ燕の昭王は、[[p:郭隗]]の言葉を容れて黄金台を築き、天下の賢者を招いていた (「まず隗より始めよ」)。楽毅は魏の使者として燕へ行き、昭王に厚く遇されて、そのまま燕の臣となった。\n\n前284年、楽毅は燕・秦・趙・魏・韓の兵を率いて済西で斉を破り、都の臨淄を落とし、七十余りの城を取った。斉に残ったのは莒と即墨だけであった。燕は楽毅を昌国君に封じた。\n\n昭王が死んで恵王が立つと、斉の[[p:田単]]は「楽毅は斉の王になろうとしている」という噂を流した。恵王は楽毅を将から外して騎劫に代え、楽毅は罰を恐れて趙へ逃れた。趙は彼を観津に封じ、望諸君と呼んで重んじた。そのあいだに田単は火牛の計で燕軍を破り、斉の城はすべて取り返された。\n\n恵王が楽毅をなじる書を送ると、楽毅は返書をしたためた。昭王に受けた恩と、自らの身の処し方を述べたこの「燕の恵王に報ずる書」は名文として名高い。「古の君子は、交わりが絶えても相手を悪く言わない。忠臣は国を去っても、自らの潔白を言い立てない」。楽毅は燕と趙の両方から客卿として遇され、趙で世を去った。\n\n燕に残った子の[[p:楽閒]]は昌国君を継いだが、前251年、燕王が諫めを聞かずに趙を攻めて大敗すると、楽閒もまた趙へ移った。中山に根を下ろした楽氏は、魏・中山・趙・燕と、戦国の国々を渡り歩いた一族であった。\n\n五百年ののち、三国の諸葛亮は、若いころ常に自らを管仲と楽毅になぞらえたという。",
-    "en": "[[p:楽毅|Yue Yi]], Yan's great general, was no man of Yan. He was born and raised in the land of Zhongshan.\n\nHis forebear was [[p:楽羊|Yue Yang]], general of Marquis Wen of Wei — the Yue Yang who took Zhongshan after three years of siege, and who, sent a soup made from his own son, a hostage in the city, drank it and pressed on. For his deed he was given Lingshou in Zhongshan; he died there and was buried there, and his descendants stayed. The realm he had conquered became his family's home.\n\nZhongshan later threw off Wei, won back its freedom and even called its lords kings, until King Wuling of Zhao destroyed it in 296 BC. Out of the house of Yue came Yue Yi.\n\nYue Yi was able and loved the art of war. Recommended by men of Zhao, he served Zhao, but when King Wuling starved to death in the palace at Shaqiu in 295 BC he left for Wei. In those days King Zhao of Yan, taking the advice of [[p:郭隗|Guo Wei]], had built the Golden Terrace and was calling the able men of the world to him (\"begin with Wei\"). Yue Yi went to Yan as Wei's envoy, was received with great honour, and stayed on as Yan's man.\n\nIn 284 BC he led the armies of Yan, Qin, Zhao, Wei and Han, broke Qi at Jixi, took its capital Linzi and more than seventy towns; only Ju and Jimo were left to Qi. Yan made him Lord of Changguo.\n\nWhen King Zhao died and King Hui succeeded, [[p:田単|Tian Dan]] of Qi spread the word that Yue Yi meant to make himself King of Qi. King Hui replaced him with Qi Jie, and Yue Yi, fearing punishment, fled to Zhao, which gave him Guanjin and the style Lord Wangzhu. Meanwhile Tian Dan broke the Yan army with his fire oxen, and Qi won back every town.\n\nWhen King Hui wrote to reproach him, Yue Yi answered with the letter \"In Reply to King Hui of Yan\" — on the trust King Zhao had shown him and on how a man should bear himself — famous ever since: \"The gentlemen of old, when a friendship ended, spoke no ill of the other; a loyal servant who leaves a realm does not go about proclaiming his innocence.\" Honoured as a guest minister by both Yan and Zhao, he died in Zhao.\n\nHis son [[p:楽閒|Yue Jian]], who stayed in Yan and inherited Changguo, also went over to Zhao in 251 BC, when the King of Yan attacked Zhao against his advice and was crushed. Rooted in Zhongshan, the Yue were a family that passed through Wei, Zhongshan, Zhao and Yan — the realms of the Warring States.\n\nFive hundred years later, Zhuge Liang of the Three Kingdoms, it is said, used to compare himself in his youth to Guan Zhong and Yue Yi."
+    "ja": "燕の名将[[p:楽毅]]は、燕の人ではない。その家は中山の霊寿にあった。\n\n楽毅の先祖は、魏の文侯の将[[p:楽羊]]であった。楽羊は三年をかけて中山を攻め落とした。中山に人質として残っていた我が子を煮た羹を送られても、それを飲み干して攻めを緩めなかったという、あの楽羊である。功によって中山の霊寿を与えられた楽羊は、霊寿で死んでその地に葬られ、子孫はそのまま霊寿に住みついた。かつて攻め取った国が、一族の故郷になったのである。\n\nやがて中山は魏の手を離れて国を取り戻し、王を名乗るまでになったが、趙の武霊王に攻められ、前296年に滅んだ。楽氏の家からはその後、楽毅が出た。\n\n楽毅は賢く、兵法を好んだ。趙の人に推されて趙に仕えたが、前295年、武霊王が沙丘の宮で飢え死にする乱が起こると、趙を去って魏へ移った。そのころ燕の昭王は、[[p:郭隗]]の言葉を容れて郭隗のために屋敷を建てて師と仰ぎ、天下の賢者を招いていた (「まず隗より始めよ」。のちに「黄金台」の話として伝わる)。楽毅は魏の使者として燕へ行き、昭王に厚く遇されて、そのまま燕の臣となった。\n\n前284年、楽毅は燕・秦・趙・魏・韓の兵を率いて済西で斉を破り、都の臨淄を落とし、七十余りの城を取った。斉に残ったのは莒と即墨だけであった。燕は楽毅を昌国君に封じた。\n\n昭王が死んで恵王が立つと、斉の[[p:田単]]は「楽毅は斉の王になろうとしている」という噂を流した。恵王は楽毅を将から外して騎劫に代え、楽毅は罰を恐れて趙へ逃れた。趙は彼を観津に封じ、望諸君と呼んで重んじた。そのあいだに田単は火牛の計で燕軍を破り、斉の城はすべて取り返された。\n\n恵王が楽毅をなじる書を送ると、楽毅は返書をしたためた。昭王に受けた恩と、自らの身の処し方を述べたこの「燕の恵王に報ずる書」は名文として名高い。「古の君子は、交わりが絶えても相手を悪く言わない。忠臣は国を去っても、自らの潔白を言い立てない」。楽毅は燕と趙の両方から客卿として遇され、趙で世を去った。\n\n燕に残った子の[[p:楽閒]]は昌国君を継いだが、前251年、燕王が諫めを聞かずに趙を攻めて大敗すると、楽閒もまた趙へ移った。中山に根を下ろした楽氏は、魏・中山・趙・燕と、戦国の国々を渡り歩いた一族であった。\n\n五百年ののち、三国の諸葛亮は、若いころ常に自らを管仲と楽毅になぞらえたという。",
+    "en": "[[p:楽毅|Yue Yi]], Yan's great general, was no man of Yan. His family lived at Lingshou in Zhongshan.\n\nHis forebear was [[p:楽羊|Yue Yang]], general of Marquis Wen of Wei — the Yue Yang who took Zhongshan after three years of siege, and who, sent a soup made from his own son, a hostage in the city, drank it and pressed on. For his deed he was given Lingshou in Zhongshan; he died there and was buried there, and his descendants stayed. The realm he had conquered became his family's home.\n\nZhongshan later threw off Wei, won back its freedom and even called its lords kings, until King Wuling of Zhao destroyed it in 296 BC. Out of the house of Yue came Yue Yi.\n\nYue Yi was able and loved the art of war. Recommended by men of Zhao, he served Zhao, but when King Wuling starved to death in the palace at Shaqiu in 295 BC he left for Wei. In those days King Zhao of Yan, taking the advice of [[p:郭隗|Guo Wei]], had built Guo Wei a house, honoured him as his teacher and was calling the able men of the world to him (\"begin with Wei\"; later told as the \"Golden Terrace\"). Yue Yi went to Yan as Wei's envoy, was received with great honour, and stayed on as Yan's man.\n\nIn 284 BC he led the armies of Yan, Qin, Zhao, Wei and Han, broke Qi at Jixi, took its capital Linzi and more than seventy towns; only Ju and Jimo were left to Qi. Yan made him Lord of Changguo.\n\nWhen King Zhao died and King Hui succeeded, [[p:田単|Tian Dan]] of Qi spread the word that Yue Yi meant to make himself King of Qi. King Hui replaced him with Qi Jie, and Yue Yi, fearing punishment, fled to Zhao, which gave him Guanjin and the style Lord Wangzhu. Meanwhile Tian Dan broke the Yan army with his fire oxen, and Qi won back every town.\n\nWhen King Hui wrote to reproach him, Yue Yi answered with the letter \"In Reply to King Hui of Yan\" — on the trust King Zhao had shown him and on how a man should bear himself — famous ever since: \"The gentlemen of old, when a friendship ended, spoke no ill of the other; a loyal servant who leaves a realm does not go about proclaiming his innocence.\" Honoured as a guest minister by both Yan and Zhao, he died in Zhao.\n\nHis son [[p:楽閒|Yue Jian]], who stayed in Yan and inherited Changguo, also went over to Zhao in 251 BC, when the King of Yan attacked Zhao against his advice and was crushed. Rooted in Zhongshan, the Yue were a family that passed through Wei, Zhongshan, Zhao and Yan — the realms of the Warring States.\n\nFive hundred years later, Zhuge Liang of the Three Kingdoms, it is said, used to compare himself in his youth to Guan Zhong and Yue Yi."
    },
    "year": 284,
    "people": [

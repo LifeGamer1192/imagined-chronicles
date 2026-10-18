@@ -4025,8 +4025,8 @@
      "content"
     ],
     "origin": {
-     "ja": "尾張の佐久間氏の人。信長の父信秀の代から仕え、幼い信長に付けられた家老の一人。",
-     "en": "Of the Sakuma of Owari. He had served Nobunaga's father Nobuhide, and was one of the elders set beside the boy Nobunaga."
+     "ja": "尾張の佐久間氏の人。信長の父信秀の代から織田家に仕え、若いころの信長を支えた古参の重臣。",
+     "en": "Of the Sakuma of Owari. He served the Oda from Nobunaga's father Nobuhide's day, and was a senior retainer at the young Nobunaga's side."
     },
     "house": {
      "ja": "佐久間",
@@ -4424,8 +4424,8 @@
      "brave"
     ],
     "origin": {
-     "ja": "志摩の水軍の家の出。一族の争いで所領を追われたが、信長に仕えて志摩を取り戻した。",
-     "en": "Of a family of sea lords in Shima. Driven out in a family feud, he served Nobunaga and won Shima back."
+     "ja": "志摩の水軍の家の出。北畠氏の後ろ盾を得た志摩の地頭衆に所領を追われたが、信長に仕えて志摩を取り戻した。",
+     "en": "Of a family of sea lords in Shima. Driven out by the other Shima lords, who had Kitabatake backing, he served Nobunaga and won Shima back."
     },
     "house": {
      "ja": "九鬼",
@@ -5021,8 +5021,8 @@
     "end": "battle_wound",
     "dm": 10,
     "origin": {
-     "ja": "三河牛窪の出と伝わる。諸国を巡ったのち武田晴信に仕えた。詳しくは『甲陽軍鑑』に描かれ、実在を示す書状も見つかっている。",
-     "en": "Said to come from Ushikubo in Mikawa. After wandering the provinces he served Takeda Harunobu. The Kōyō gunkan tells of him at length, and a letter has been found that shows he was real."
+     "ja": "三河牛窪の出で、諸国を巡ったのち武田晴信に仕えたと『甲陽軍鑑』は伝える。「山本菅助」の名を記した書状も見つかっている (軍鑑の勘助と同じ人かは議論がある)。",
+     "en": "The Kōyō gunkan says he came from Ushikubo in Mikawa and served Takeda Harunobu after wandering the provinces. A letter naming a \"Yamamoto Kansuke\" has been found (whether he is the gunkan's Kansuke is still debated)."
     },
     "house": {
      "ja": "山本",
@@ -5051,8 +5051,8 @@
     "end": "battle_wound",
     "dm": 10,
     "origin": {
-     "ja": "武田信虎の子で、信玄の弟。父に愛されて跡継ぎにと望まれたが、兄を立てて支え続けた。",
-     "en": "Son of Takeda Nobutora and younger brother of Shingen. His father wanted him as heir, but he stood by his brother to the end."
+     "ja": "武田信虎の子で、信玄の弟。父に愛されて跡継ぎにと望まれたと伝わるが、兄を立てて支え続けた。",
+     "en": "Son of Takeda Nobutora and younger brother of Shingen. His father is said to have wanted him as heir, but he stood by his brother to the end."
     },
     "house": {
      "ja": "武田",
@@ -5169,8 +5169,8 @@
      "genius"
     ],
     "origin": {
-     "ja": "信濃小県の海野氏の流れをくむ真田氏の人。武田に故郷を追われて上野に逃れたが、のちに信玄に仕えて旧領を取り戻した。",
-     "en": "Of the Sanada, an offshoot of the Unno of Chiisagata in Shinano. Driven from home by the Takeda, he fled to Kōzuke, then served Shingen and won his lands back."
+     "ja": "信濃小県の海野氏の流れをくむ真田氏の人。武田・村上・諏訪の連合に故郷を追われて上野に逃れたが、のちに信玄に仕えて旧領を取り戻した。",
+     "en": "Of the Sanada, an offshoot of the Unno of Chiisagata in Shinano. Driven from home by the Takeda, Murakami and Suwa, he fled to Kōzuke, then served Shingen and won his lands back."
     },
     "house": {
      "ja": "真田",
@@ -5898,8 +5898,8 @@
      4
     ],
     "origin": {
-     "ja": "豊後の大友氏の一族田原氏の人。",
-     "en": "Of the Tawara, a branch of the Ōtomo of Bungo."
+     "ja": "奈多八幡の社家奈多氏の出で、大友氏の一族田原氏を継いだ。大友宗麟の妻と同じ家の出。",
+     "en": "Born a Nata, of the priestly house of Nata Hachiman (the family of Ōtomo Sōrin's wife); he was adopted into the Tawara, a branch of the Ōtomo."
     },
     "house": {
      "ja": "田原",

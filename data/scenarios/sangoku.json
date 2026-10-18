@@ -2398,8 +2398,8 @@
      "warrior"
     ],
     "origin": {
-     "ja": "譙国譙の人。黄巾の乱のとき一族数千家を集めて砦を築き、賊を防いだ。賊と牛を取り替えたとき、逃げ戻る牛の尾をつかんで百歩も引きずり戻し、賊を驚かせたという。",
-     "en": "A man of Qiao. In the Yellow Turban rising he gathered thousands of families of his clan behind a stockade and held off the rebels; once, trading oxen with them, he dragged a runaway ox back a hundred paces by its tail, to their terror."
+     "ja": "譙国譙の人。漢の末に一族数千家を集めて砦を築き、汝南の葛陂の賊を防いだ。食糧と引き換えに賊へ渡した牛が逃げ戻ったとき、その尾をつかんで百歩余り引きずり、賊を驚かせたという。",
+     "en": "A man of Qiao. At the end of Han he gathered thousands of families of his clan behind a stockade and held off the Gepi bandits of Runan; once, when an ox traded to them for food ran back, he dragged it a hundred paces by its tail, to their terror."
     },
     "house": {
      "ja": "許",
@@ -2723,8 +2723,8 @@
      "brave"
     ],
     "origin": {
-     "ja": "太原の人。兵卒から身を起こし、河西で十年余り守りについた。",
-     "en": "A man of Taiyuan who rose from the ranks and held the Hexi frontier for over ten years."
+     "ja": "太原の人。若くして軍に入り、河西を十年余り守ったと伝わる。",
+     "en": "A man of Taiyuan who, it is said, joined the army young and held the Hexi frontier for over ten years."
     },
     "house": {
      "ja": "郝",
@@ -3256,8 +3256,8 @@
     ],
     "fame": 8,
     "origin": {
-     "ja": "常山真定の人。郷里の義勇兵を率いて公孫瓚に従い、そこで[[p:劉備]]と出会った。",
-     "en": "A man of Zhending in Changshan. He led the volunteers of his home district to Gongsun Zan, where he met [[p:劉備|Liu Bei]]."
+     "ja": "常山真定の人。公孫瓚に属し、そこで[[p:劉備]]と出会った。郷里の義勇兵を率いて公孫瓚のもとへ行ったと伝わる。",
+     "en": "A man of Zhending in Changshan. He served under Gongsun Zan, where he met [[p:劉備|Liu Bei]]; he is said to have brought his home district's volunteers there."
     },
     "house": {
      "ja": "趙",
@@ -3635,8 +3635,8 @@
      "brave"
     ],
     "origin": {
-     "ja": "零陵泉陵の人。南陽太守黄子廉の子孫と伝わる。幼くして父を失い、薪を担いで暮らしながら学問と兵法を学んだ。",
-     "en": "A man of Quanling in Lingling, said to descend from Huang Zilian, governor of Nanyang. Fatherless as a boy, he carried firewood for a living while he studied letters and war."
+     "ja": "零陵泉陵の人。南陽太守黄子廉の子孫で、幼くして父を失い、薪を担いで暮らしながら学問と兵法を学んだと伝わる。",
+     "en": "A man of Quanling in Lingling, said to descend from Huang Zilian, governor of Nanyang; orphaned as a boy, he is said to have carried firewood for a living while he studied letters and war."
     },
     "house": {
      "ja": "黄",
@@ -3665,8 +3665,8 @@
     ],
     "fame": 9,
     "origin": {
-     "ja": "廬江舒の人。従祖父と従父は漢の太尉を務めた名家の出。孫策と同い年で、屋敷を譲って住まわせるほどの親友だった。",
-     "en": "A man of Shu in Lujiang, of a great family: his grandfather's brother and his uncle had been grand commandants of Han. The same age as Sun Ce, he was such a friend that he gave him a house to live in."
+     "ja": "廬江舒の人。従祖父の周景とその子の周忠が漢の太尉を務めた名家の出。孫策と同い年で、屋敷を譲って住まわせるほどの親友だった。",
+     "en": "A man of Shu in Lujiang, of a great family: his grand-uncle Zhou Jing and Zhou Jing's son Zhou Zhong had been grand commandants of Han. The same age as Sun Ce, he was such a friend that he gave him a house to live in."
     },
     "house": {
      "ja": "周",
@@ -3777,8 +3777,8 @@
      "warrior"
     ],
     "origin": {
-     "ja": "巴郡臨江の人。若いころは無頼の若者を率い、腰に鈴を下げ、錦の帆を張って「錦帆賊」と呼ばれた。のち劉表・黄祖を経て孫権に仕えた。",
-     "en": "A man of Linjiang in Ba. In his youth he led a band of wild young men with bells at their belts and brocade sails — \"the brocade-sail bandits\". He served Liu Biao and Huang Zu before Sun Quan."
+     "ja": "巴郡臨江の人。若いころは無頼の若者を率い、腰に鈴を下げて人々に知られた。舟を錦でつなぐほど派手だったと伝わる。のち劉表・黄祖を経て孫権に仕えた。",
+     "en": "A man of Linjiang in Ba. In his youth he led a band of wild young men with bells at their belts; he is said to have moored his boats with brocade. He served Liu Biao and Huang Zu before Sun Quan."
     },
     "house": {
      "ja": "甘",
@@ -3807,8 +3807,8 @@
     ],
     "fame": 7,
     "origin": {
-     "ja": "汝南富陂の人。姉の夫の鄧当に従って孫策の軍に入った。学問がなかったが、孫権に勧められて学び、のちに魯粛から「もはや呉下の阿蒙ではない」と言われた。",
-     "en": "A man of Fupi in Runan. He joined Sun Ce's army following his sister's husband Deng Dang. Unlettered, he studied at Sun Quan's urging, until Lu Su said \"you are no longer the Ameng of Wu\"."
+     "ja": "汝南富陂の人。姉の夫の鄧当に従って孫策の軍に入った。学問がなかったが、孫権に勧められて学び、のちに魯粛から「もはや呉下の阿蒙ではない」と言われたと伝わる。",
+     "en": "A man of Fupi in Runan. He joined Sun Ce's army following his sister's husband Deng Dang. Unlettered, he studied at Sun Quan's urging, and Lu Su is said to have told him \"you are no longer the Ameng of Wu\"."
     },
     "house": {
      "ja": "呂",
@@ -3837,8 +3837,8 @@
     ],
     "fame": 8,
     "origin": {
-     "ja": "呉郡呉の人。江東の名家陸氏の出で、孫策に攻められて一族の多くを失った陸康の一族。のち孫策の娘を妻とした。",
-     "en": "A man of Wu, of the great Lu family of Jiangdong — kin of Lu Kang, whose clan Sun Ce had all but destroyed. He later married Sun Ce's daughter."
+     "ja": "呉郡呉の人。江東の名家陸氏の出で、孫策に攻められ、一族百人余りの半ば近くを失った陸康の一族。のち孫策の娘を妻とした。",
+     "en": "A man of Wu, of the great Lu family of Jiangdong — kin of Lu Kang, nearly half of whose clan of a hundred died when Sun Ce attacked him. He later married Sun Ce's daughter."
     },
     "house": {
      "ja": "陸",
