@@ -3950,7 +3950,15 @@
     ],
     "fame": 6,
     "end": "suicide",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "尾張の人。はじめ[[p:織田信長]]の弟の信勝 (信行) に仕え、稲生の戦いで信長に敗れたのち、信長に仕えて重く用いられた。",
+     "en": "A man of Owari. He first served [[p:織田信長|Oda Nobunaga]]'s brother Nobukatsu (Nobuyuki); beaten by Nobunaga at Ino, he went over to him and rose high."
+    },
+    "house": {
+     "ja": "柴田",
+     "en": "Shibata"
+    }
    }
   ],
   [
@@ -3987,7 +3995,15 @@
      8,
      6,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "近江甲賀の出と伝わる。鉄砲の扱いに長け、信長に仕えて伊勢攻めで功を立てた。",
+     "en": "Said to come from Kōka in Ōmi. Skilled with the gun, he served Nobunaga and made his name in the conquest of Ise."
+    },
+    "house": {
+     "ja": "滝川",
+     "en": "Takigawa"
+    }
    }
   ],
   [
@@ -4007,7 +4023,15 @@
     ],
     "tr": [
      "content"
-    ]
+    ],
+    "origin": {
+     "ja": "尾張の佐久間氏の人。信長の父信秀の代から仕え、幼い信長に付けられた家老の一人。",
+     "en": "Of the Sakuma of Owari. He had served Nobunaga's father Nobuhide, and was one of the elders set beside the boy Nobunaga."
+    },
+    "house": {
+     "ja": "佐久間",
+     "en": "Sakuma"
+    }
    }
   ],
   [
@@ -4029,7 +4053,15 @@
      "brave"
     ],
     "end": "battle_wound",
-    "dm": 10
+    "dm": 10,
+    "origin": {
+     "ja": "美濃の人。斎藤道三に仕えたのち信長に仕えた。子に森長可・森蘭丸がいる。",
+     "en": "A man of Mino. He served Saitō Dōsan, then Nobunaga. His sons included Mori Nagayoshi and Mori Ranmaru."
+    },
+    "house": {
+     "ja": "森",
+     "en": "Mori"
+    }
    }
   ],
   [
@@ -4050,7 +4082,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "尾張荒子の前田利春の四男。少年のころから信長の小姓として仕え、槍の名手で「槍の又左」と呼ばれた。",
+     "en": "Fourth son of Maeda Toshiharu of Arako in Owari. A page of Nobunaga from boyhood and a master of the spear — \"Matazaemon of the spear\"."
+    },
+    "house": {
+     "ja": "前田",
+     "en": "Maeda"
+    }
    }
   ],
   [
@@ -4067,7 +4107,15 @@
      7,
      5,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "母が信長の乳母で、信長とは乳兄弟。",
+     "en": "His mother was Nobunaga's wet nurse: he and Nobunaga were milk brothers."
+    },
+    "house": {
+     "ja": "池田",
+     "en": "Ikeda"
+    }
    }
   ],
   [
@@ -4123,7 +4171,15 @@
      "scholar",
      "ambitious"
     ],
-    "fame": 8
+    "fame": 8,
+    "origin": {
+     "ja": "美濃の土岐氏の流れをくむ明智氏の出とされるが、前半生ははっきりしない。越前の朝倉氏のもとにいたのち、[[p:足利義昭]]と信長を結ぶ役を務めて信長に仕えた。",
+     "en": "Said to be of the Akechi, a branch of the Toki of Mino, though his early life is obscure. After a time with the Asakura of Echizen he served as go-between for [[p:足利義昭|Ashikaga Yoshiaki]] and Nobunaga, and entered Nobunaga's service."
+    },
+    "house": {
+     "ja": "明智",
+     "en": "Akechi"
+    }
    }
   ],
   [
@@ -4162,7 +4218,15 @@
      7,
      7,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "尾張蜂須賀郷の土豪で、小六の名で知られる。[[p:羽柴秀吉]]の初めからの家臣。",
+     "en": "A country squire of Hachisuka in Owari, known as Koroku; one of [[p:羽柴秀吉|Hashiba Hideyoshi]]'s first retainers."
+    },
+    "house": {
+     "ja": "蜂須賀",
+     "en": "Hachisuka"
+    }
    }
   ],
   [
@@ -4358,7 +4422,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "志摩の水軍の家の出。一族の争いで所領を追われたが、信長に仕えて志摩を取り戻した。",
+     "en": "Of a family of sea lords in Shima. Driven out in a family feud, he served Nobunaga and won Shima back."
+    },
+    "house": {
+     "ja": "九鬼",
+     "en": "Kuki"
+    }
    }
   ],
   [
@@ -4378,7 +4450,15 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "origin": {
+     "ja": "摂津の池田氏の家臣から身を起こし、主家をしのいで摂津を治めた。",
+     "en": "He rose from a retainer of the Ikeda of Settsu to outstrip his lords and rule Settsu."
+    },
+    "house": {
+     "ja": "荒木",
+     "en": "Araki"
+    }
    }
   ],
   [
@@ -4400,7 +4480,15 @@
      "brave"
     ],
     "end": "suicide",
-    "dm": 7
+    "dm": 7,
+    "origin": {
+     "ja": "[[p:織田信長]]の嫡男。",
+     "en": "Eldest son and heir of [[p:織田信長|Oda Nobunaga]]."
+    },
+    "house": {
+     "ja": "織田",
+     "en": "Oda"
+    }
    }
   ],
   [
@@ -4507,7 +4595,15 @@
     ],
     "fame": 5,
     "end": "suicide",
-    "dm": 10
+    "dm": 10,
+    "origin": {
+     "ja": "近江の出とされる (豊後とする説もある)。[[p:羽柴秀吉]]の小姓から仕えた。",
+     "en": "Said to come from Ōmi (some say Bungo). He served [[p:羽柴秀吉|Hideyoshi]] from a page."
+    },
+    "house": {
+     "ja": "大谷",
+     "en": "Ōtani"
+    }
    }
   ],
   [
@@ -4529,7 +4625,15 @@
      "pious"
     ],
     "end": "executed",
-    "dm": 11
+    "dm": 11,
+    "origin": {
+     "ja": "堺の薬種商小西隆佐の子。宇喜多直家に仕えたのち[[p:羽柴秀吉]]に仕えた。キリシタン。",
+     "en": "Son of Konishi Ryūsa, a Sakai apothecary-merchant. He served Ukita Naoie and then [[p:羽柴秀吉|Hideyoshi]]. A Christian."
+    },
+    "house": {
+     "ja": "小西",
+     "en": "Konishi"
+    }
    }
   ],
   [
@@ -4551,7 +4655,15 @@
      "brave",
      "builder"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "尾張中村の生まれ。母が[[p:羽柴秀吉]]の母の縁者で、幼くして秀吉に仕えた。賤ヶ岳の七本槍の一人。",
+     "en": "Born at Nakamura in Owari; his mother was related to [[p:羽柴秀吉|Hideyoshi]]'s mother, and he served Hideyoshi from childhood. One of the Seven Spears of Shizugatake."
+    },
+    "house": {
+     "ja": "加藤",
+     "en": "Katō"
+    }
    }
   ],
   [
@@ -4572,7 +4684,15 @@
     "tr": [
      "brave",
      "drunkard"
-    ]
+    ],
+    "origin": {
+     "ja": "尾張の桶屋の子と伝わる。母が[[p:羽柴秀吉]]の叔母とされ、幼くして秀吉に仕えた。賤ヶ岳の七本槍の一人。",
+     "en": "Said to be the son of a cooper in Owari; his mother is said to have been [[p:羽柴秀吉|Hideyoshi]]'s aunt, and he served Hideyoshi from childhood. One of the Seven Spears of Shizugatake."
+    },
+    "house": {
+     "ja": "福島",
+     "en": "Fukushima"
+    }
    }
   ],
   [
@@ -4592,7 +4712,15 @@
     ],
     "tr": [
      "craven"
-    ]
+    ],
+    "origin": {
+     "ja": "秀吉の正室おね (北政所) の兄木下家定の子。秀吉の養子となり、のちに小早川隆景の養子となった。",
+     "en": "Son of Kinoshita Iesada, brother of Hideyoshi's wife Nene. Adopted by Hideyoshi, then by Kobayakawa Takakage."
+    },
+    "house": {
+     "ja": "小早川",
+     "en": "Kobayakawa"
+    }
    }
   ],
   [
@@ -4616,7 +4744,15 @@
     ],
     "fame": 8,
     "end": "battle_wound",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "[[p:真田昌幸]]の次男。若いころは上杉・豊臣のもとで人質として過ごした。",
+     "en": "Second son of [[p:真田昌幸|Sanada Masayuki]]; in his youth he lived as a hostage with the Uesugi and the Toyotomi."
+    },
+    "house": {
+     "ja": "真田",
+     "en": "Sanada"
+    }
    }
   ],
   [
@@ -4651,7 +4787,15 @@
      8,
      6,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "三河の酒井氏の人。家康の父広忠の代から仕え、家康の叔母を妻とした、徳川の最古参。",
+     "en": "Of the Sakai of Mikawa. He served Ieyasu's father Hirotada and married Ieyasu's aunt — the senior of the Tokugawa veterans."
+    },
+    "house": {
+     "ja": "酒井",
+     "en": "Sakai"
+    }
    }
   ],
   [
@@ -4673,7 +4817,15 @@
      "brave",
      "warrior"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "三河の本多氏の人。代々松平家に仕えた家に生まれ、十三歳で初陣を飾った。",
+     "en": "Of the Honda of Mikawa, a family long in the service of the Matsudaira; he first went to war at thirteen."
+    },
+    "house": {
+     "ja": "本多",
+     "en": "Honda"
+    }
    }
   ],
   [
@@ -4690,7 +4842,15 @@
      8,
      5,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "三河上野の榊原氏の人。少年のころ家康の小姓となった。",
+     "en": "Of the Sakakibara of Ueno in Mikawa; he became Ieyasu's page as a boy."
+    },
+    "house": {
+     "ja": "榊原",
+     "en": "Sakakibara"
+    }
    }
   ],
   [
@@ -4750,7 +4910,15 @@
      7,
      5,
      4
-    ]
+    ],
+    "origin": {
+     "ja": "伊賀の服部氏の出。父の保長が伊賀を出て松平家に仕え、半蔵は三河で生まれた。",
+     "en": "Of the Hattori of Iga. His father Yasunaga left Iga to serve the Matsudaira, and Hanzō was born in Mikawa."
+    },
+    "house": {
+     "ja": "服部",
+     "en": "Hattori"
+    }
    }
   ],
   [
@@ -4771,7 +4939,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "遠江井伊谷の井伊氏の人。父が今川氏に殺され、寺にかくまわれて育ったのち、十五歳で家康に仕えた。",
+     "en": "Of the Ii of Iinoya in Tōtōmi. His father was killed by the Imagawa; hidden in temples as a boy, he entered Ieyasu's service at fifteen."
+    },
+    "house": {
+     "ja": "井伊",
+     "en": "Ii"
+    }
    }
   ],
   [
@@ -4792,7 +4968,15 @@
     "tr": [
      "content"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "[[p:徳川家康]]の三男。",
+     "en": "Third son of [[p:徳川家康|Tokugawa Ieyasu]]."
+    },
+    "house": {
+     "ja": "徳川",
+     "en": "Tokugawa"
+    }
    }
   ],
   [
@@ -4835,7 +5019,15 @@
     ],
     "fame": 6,
     "end": "battle_wound",
-    "dm": 10
+    "dm": 10,
+    "origin": {
+     "ja": "三河牛窪の出と伝わる。諸国を巡ったのち武田晴信に仕えた。詳しくは『甲陽軍鑑』に描かれ、実在を示す書状も見つかっている。",
+     "en": "Said to come from Ushikubo in Mikawa. After wandering the provinces he served Takeda Harunobu. The Kōyō gunkan tells of him at length, and a letter has been found that shows he was real."
+    },
+    "house": {
+     "ja": "山本",
+     "en": "Yamamoto"
+    }
    }
   ],
   [
@@ -4857,7 +5049,15 @@
      "just"
     ],
     "end": "battle_wound",
-    "dm": 10
+    "dm": 10,
+    "origin": {
+     "ja": "武田信虎の子で、信玄の弟。父に愛されて跡継ぎにと望まれたが、兄を立てて支え続けた。",
+     "en": "Son of Takeda Nobutora and younger brother of Shingen. His father wanted him as heir, but he stood by his brother to the end."
+    },
+    "house": {
+     "ja": "武田",
+     "en": "Takeda"
+    }
    }
   ],
   [
@@ -4879,7 +5079,15 @@
      "brave"
     ],
     "end": "battle_wound",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "甲斐の教来石氏の出。信玄に取り立てられて馬場の名跡を継いだ。",
+     "en": "Born a Kyōraishi of Kai; raised up by Shingen, he took on the name of the Baba."
+    },
+    "house": {
+     "ja": "馬場",
+     "en": "Baba"
+    }
    }
   ],
   [
@@ -4903,7 +5111,15 @@
     ],
     "fame": 5,
     "end": "battle_wound",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "飯富虎昌の弟 (甥とも)。兄が謀反の罪で死ぬと、山県の名跡を継いだ。兄の赤備えを受け継いだ。",
+     "en": "Younger brother (or nephew) of Obu Toramasa. When his brother died for treason he took the name of the Yamagata, and inherited his red-armoured troop."
+    },
+    "house": {
+     "ja": "山県",
+     "en": "Yamagata"
+    }
    }
   ],
   [
@@ -4923,7 +5139,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "甲斐石和の百姓の出と伝わる。少年のころ信玄の近習となって取り立てられた。『甲陽軍鑑』の元は彼の語りとされる。",
+     "en": "Said to be a farmer's son from Isawa in Kai, taken up as Shingen's attendant as a boy. The Kōyō gunkan is said to rest on his telling."
+    },
+    "house": {
+     "ja": "高坂",
+     "en": "Kōsaka"
+    }
    }
   ],
   [
@@ -4943,7 +5167,15 @@
     ],
     "tr": [
      "genius"
-    ]
+    ],
+    "origin": {
+     "ja": "信濃小県の海野氏の流れをくむ真田氏の人。武田に故郷を追われて上野に逃れたが、のちに信玄に仕えて旧領を取り戻した。",
+     "en": "Of the Sanada, an offshoot of the Unno of Chiisagata in Shinano. Driven from home by the Takeda, he fled to Kōzuke, then served Shingen and won his lands back."
+    },
+    "house": {
+     "ja": "真田",
+     "en": "Sanada"
+    }
    }
   ],
   [
@@ -4975,7 +5207,15 @@
      "genius",
      "ambitious"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "[[p:真田幸隆]]の三男。幼くして信玄の近習となり武藤家を継いだが、兄二人が長篠で戦死したため真田家を継いだ。",
+     "en": "Third son of [[p:真田幸隆|Sanada Yukitaka]]. A boy attendant of Shingen, he was adopted into the Mutō, but took over the Sanada when both his elder brothers fell at Nagashino."
+    },
+    "house": {
+     "ja": "真田",
+     "en": "Sanada"
+    }
    }
   ],
   [
@@ -4995,7 +5235,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "越後柿崎の国人。上杉謙信のもとで先陣を務めた。",
+     "en": "A local lord of Kakizaki in Echigo who led the vanguard for Uesugi Kenshin."
+    },
+    "house": {
+     "ja": "柿崎",
+     "en": "Kakizaki"
+    }
    }
   ],
   [
@@ -5037,7 +5285,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "今川家臣の福島氏の出とされる。父の戦死後に北条氏綱に引き取られ、娘婿となって北条の名を与えられた。",
+     "en": "Said to be born a Kushima, of an Imagawa retainer family. After his father fell, Hōjō Ujitsuna took him in, married him to his daughter and gave him the Hōjō name."
+    },
+    "house": {
+     "ja": "北条",
+     "en": "Hōjō"
+    }
    }
   ],
   [
@@ -5080,7 +5336,15 @@
      "brave",
      "warrior"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "毛利元就の次男。母の実家の吉川家を継いだ。",
+     "en": "Second son of Mōri Motonari; he took over the Kikkawa, his mother's family."
+    },
+    "house": {
+     "ja": "吉川",
+     "en": "Kikkawa"
+    }
    }
   ],
   [
@@ -5120,7 +5384,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "瀬戸内の能島村上氏の当主。海の関を押さえて通る船から帆別銭を取った。",
+     "en": "Head of the Murakami of Noshima in the Inland Sea, who held the sea lanes and took toll from passing ships."
+    },
+    "house": {
+     "ja": "村上",
+     "en": "Murakami"
+    }
    }
   ],
   [
@@ -5150,7 +5422,15 @@
     ],
     "fame": 6,
     "end": "assassination",
-    "dm": 8
+    "dm": 8,
+    "origin": {
+     "ja": "出雲の尼子家臣山中氏の人。主家の再興を誓い、三日月に「願わくは我に七難八苦を与えたまえ」と祈ったと伝わる。",
+     "en": "Of the Yamanaka, retainers of the Amago of Izumo. Vowing to restore his lords, he prayed to the crescent moon, they say: \"Grant me seven hardships and eight sufferings.\""
+    },
+    "house": {
+     "ja": "山中",
+     "en": "Yamanaka"
+    }
    }
   ],
   [
@@ -5167,7 +5447,15 @@
      6,
      5,
      7
-    ]
+    ],
+    "origin": {
+     "ja": "宇喜多直家の子。父の死後に[[p:羽柴秀吉]]の猶子となり、秀吉の養女豪姫 (前田利家の娘) を妻とした。",
+     "en": "Son of Ukita Naoie. After his father's death he became [[p:羽柴秀吉|Hideyoshi]]'s ward and married Hideyoshi's adopted daughter Gō, a daughter of Maeda Toshiie."
+    },
+    "house": {
+     "ja": "宇喜多",
+     "en": "Ukita"
+    }
    }
   ],
   [
@@ -5189,7 +5477,15 @@
      "brave"
     ],
     "end": "battle_wound",
-    "dm": 12
+    "dm": 12,
+    "origin": {
+     "ja": "長宗我部元親の嫡男。名の「信」の字は織田信長から与えられた。",
+     "en": "Eldest son and heir of Chōsokabe Motochika; the \"Nobu\" of his name was granted by Oda Nobunaga."
+    },
+    "house": {
+     "ja": "長宗我部",
+     "en": "Chōsokabe"
+    }
    }
   ],
   [
@@ -5210,7 +5506,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "豊後の大友一族の戸次氏の出 (戸次鑑連)。若いころ雷に打たれて足が不自由になったと伝わり、輿に乗って戦場に出た。",
+     "en": "Born a Bekki, a branch of the Ōtomo of Bungo (Bekki Akitsura). Struck by lightning as a young man, they say, he was lamed, and went to war carried in a litter."
+    },
+    "house": {
+     "ja": "立花",
+     "en": "Tachibana"
+    }
    }
   ],
   [
@@ -5233,7 +5537,15 @@
      "just"
     ],
     "end": "suicide",
-    "dm": 9
+    "dm": 9,
+    "origin": {
+     "ja": "大友家臣吉弘鑑理の子で、高橋家を継いだ。[[p:立花宗茂]]の実の父。",
+     "en": "Son of the Ōtomo retainer Yoshihiro Akimasa; he took over the Takahashi. Father of [[p:立花宗茂|Tachibana Muneshige]]."
+    },
+    "house": {
+     "ja": "高橋",
+     "en": "Takahashi"
+    }
    }
   ],
   [
@@ -5260,7 +5572,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "[[p:高橋紹運]]の子。[[p:立花道雪]]に望まれてその一人娘誾千代の婿となり、立花家を継いだ。",
+     "en": "Son of [[p:高橋紹運|Takahashi Jōun]]. [[p:立花道雪|Tachibana Dōsetsu]] asked for him as husband for his only daughter Ginchiyo, and he became heir to the Tachibana."
+    },
+    "house": {
+     "ja": "立花",
+     "en": "Tachibana"
+    }
    }
   ],
   [
@@ -5282,7 +5602,15 @@
      "brave",
      "warrior"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "島津貴久の次男。兄義久を助け、九州の戦いの多くで先頭に立った。",
+     "en": "Second son of Shimazu Takahisa; he backed his brother Yoshihisa and led in most of the Kyushu wars."
+    },
+    "house": {
+     "ja": "島津",
+     "en": "Shimazu"
+    }
    }
   ],
   [
@@ -5301,7 +5629,15 @@
      5
     ],
     "end": "suicide",
-    "dm": 8
+    "dm": 8,
+    "origin": {
+     "ja": "島津貴久の三男。祖父忠良に「始終の利害を察する智計並びなし」と評された。",
+     "en": "Third son of Shimazu Takahisa, praised by his grandfather Tadayoshi as unequalled at weighing gain and loss from first to last."
+    },
+    "house": {
+     "ja": "島津",
+     "en": "Shimazu"
+    }
    }
   ],
   [
@@ -5321,7 +5657,15 @@
     ],
     "tr": [
      "genius"
-    ]
+    ],
+    "origin": {
+     "ja": "島津貴久の四男。祖父忠良に「軍法戦術に妙を得たり」と評された。",
+     "en": "Fourth son of Shimazu Takahisa, praised by his grandfather Tadayoshi as a master of tactics."
+    },
+    "house": {
+     "ja": "島津",
+     "en": "Shimazu"
+    }
    }
   ],
   [
@@ -5381,7 +5725,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "伊達一門の伊達実元の子。[[p:伊達政宗]]とは一つ違いで、幼いころから政宗に従った。",
+     "en": "Son of Date Sanemoto, of the Date family; a year apart from [[p:伊達政宗|Date Masamune]], he followed him from boyhood."
+    },
+    "house": {
+     "ja": "伊達",
+     "en": "Date"
+    }
    }
   ],
   [
@@ -5416,7 +5768,15 @@
     ],
     "tr": [
      "pious"
-    ]
+    ],
+    "origin": {
+     "ja": "本願寺の坊官を代々務めた下間氏の人。",
+     "en": "Of the Shimozuma, who served the Honganji as its stewards generation after generation."
+    },
+    "house": {
+     "ja": "下間",
+     "en": "Shimozuma"
+    }
    }
   ],
   [
@@ -5437,7 +5797,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "紀伊雑賀の鈴木氏の人で、鉄砲を操る雑賀衆の頭目の一人。「雑賀孫市」の名で知られる。",
+     "en": "Of the Suzuki of Saika in Kii, one of the leaders of the gun-wielding Saika band — known as Saika Magoichi."
+    },
+    "house": {
+     "ja": "鈴木",
+     "en": "Suzuki"
+    }
    }
   ],
   [
@@ -5528,7 +5896,15 @@
      4,
      5,
      4
-    ]
+    ],
+    "origin": {
+     "ja": "豊後の大友氏の一族田原氏の人。",
+     "en": "Of the Tawara, a branch of the Ōtomo of Bungo."
+    },
+    "house": {
+     "ja": "田原",
+     "en": "Tawara"
+    }
    }
   ],
   [
@@ -5550,7 +5926,15 @@
      "brave"
     ],
     "end": "battle_wound",
-    "dm": 12
+    "dm": 12,
+    "origin": {
+     "ja": "豊後の大友氏の一族田北氏の人。",
+     "en": "Of the Tagita, a branch of the Ōtomo of Bungo."
+    },
+    "house": {
+     "ja": "田北",
+     "en": "Tagita"
+    }
    }
   ],
   [
@@ -5570,7 +5954,15 @@
     ],
     "tr": [
      "pious"
-    ]
+    ],
+    "origin": {
+     "ja": "摂津高山の出。父の友照とともに少年のころキリシタンとなった。",
+     "en": "From Takayama in Settsu; with his father Tomoteru he became a Christian as a boy."
+    },
+    "house": {
+     "ja": "高山",
+     "en": "Takayama"
+    }
    }
   ],
   [
@@ -5592,7 +5984,15 @@
      "brave"
     ],
     "end": "battle_wound",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "播磨の出。黒田孝高 (官兵衛) に育てられ、黒田長政に仕えたが、のちに黒田家を出た。",
+     "en": "From Harima. Raised by Kuroda Yoshitaka (Kanbei), he served Kuroda Nagamasa, and later left the Kuroda."
+    },
+    "house": {
+     "ja": "後藤",
+     "en": "Gotō"
+    }
    }
   ],
   [
@@ -5612,7 +6012,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "近江日野の蒲生賢秀の子。人質として信長のもとに送られたが、才を見込まれて信長の娘を妻に迎えた。",
+     "en": "Son of Gamō Katahide of Hino in Ōmi. Sent to Nobunaga as a hostage, he so impressed him that Nobunaga gave him his daughter in marriage."
+    },
+    "house": {
+     "ja": "蒲生",
+     "en": "Gamō"
+    }
    }
   ],
   [
