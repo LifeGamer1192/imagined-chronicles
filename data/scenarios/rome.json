@@ -1995,7 +1995,15 @@
      "ambitious"
     ],
     "end": "battle_wound",
-    "dm": 7
+    "dm": 7,
+    "origin": {
+     "ja": "ローマの名家ミヌキウス氏の人。前221年の執政官。",
+     "en": "Of the Minucii, a noted Roman family; consul in 221 BC."
+    },
+    "house": {
+     "ja": "ミヌキウス",
+     "en": "Minucius"
+    }
    }
   ],
   [
@@ -2017,7 +2025,15 @@
      "brave"
     ],
     "end": "battle_wound",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "名門貴族コルネリウス氏のスキピオ家の人。前222年の執政官で、弟は[[p:プブリウス・スキピオ]]。",
+     "en": "Of the Scipios, a branch of the patrician Cornelii; consul in 222 BC, elder brother of [[p:プブリウス・スキピオ|Publius Scipio]]."
+    },
+    "house": {
+     "ja": "スキピオ",
+     "en": "Scipio"
+    }
    }
   ],
   [
@@ -2043,7 +2059,15 @@
     "fame": 9,
     "parents": [
      "rome:プブリウス・スキピオ"
-    ]
+    ],
+    "origin": {
+     "ja": "名門貴族コルネリウス氏のスキピオ家の人。同名の父[[p:プブリウス・スキピオ]]の子で、十七歳でティキヌス川の戦いに出て父を救った。",
+     "en": "Of the Scipios, a branch of the patrician Cornelii; son of his namesake [[p:プブリウス・スキピオ|Publius Scipio]], whom he saved at the Ticinus at seventeen."
+    },
+    "house": {
+     "ja": "スキピオ",
+     "en": "Scipio"
+    }
    }
   ],
   [
@@ -2064,7 +2088,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "名門ではない家の出 (新人)。若いころから[[p:プブリウス・コルネリウス・スキピオ]]の親友で、その遠征のほとんどに従った。",
+     "en": "Of no great family (a \"new man\"). The close friend of [[p:プブリウス・コルネリウス・スキピオ|Scipio]] from youth, he went with him on almost every campaign."
+    },
+    "house": {
+     "ja": "ラエリウス",
+     "en": "Laelius"
+    }
    }
   ],
   [
@@ -2167,7 +2199,15 @@
     ],
     "fame": 6,
     "end": "battle_wound",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "カルタゴの将ハミルカル・バルカの子で、[[p:ハンニバル]]の弟。父とともに幼くしてイベリアに渡った。",
+     "en": "Son of the Carthaginian general Hamilcar Barca and younger brother of [[p:ハンニバル|Hannibal]]; he went to Iberia as a boy with his father."
+    },
+    "house": {
+     "ja": "バルカ",
+     "en": "Barca"
+    }
    }
   ],
   [
@@ -2190,7 +2230,15 @@
     ],
     "fame": 5,
     "end": "battle_wound",
-    "dm": 9
+    "dm": 9,
+    "origin": {
+     "ja": "ハミルカル・バルカの末の子で、[[p:ハンニバル]]の弟。",
+     "en": "Youngest son of Hamilcar Barca, brother of [[p:ハンニバル|Hannibal]]."
+    },
+    "house": {
+     "ja": "バルカ",
+     "en": "Barca"
+    }
    }
   ],
   [
@@ -2212,7 +2260,11 @@
      "brave",
      "warrior"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "ヒミルコの子 (リウィウス)。ハンニバルの騎兵を率いた。",
+     "en": "Son of Himilco (Livy); he led Hannibal's cavalry."
+    }
    }
   ],
   [
@@ -2251,7 +2303,11 @@
      7,
      6,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "ギスコの子。娘ソフォニスバをヌミディアの王[[p:シュファクス]]に嫁がせ、カルタゴの味方に引き入れた。",
+     "en": "Son of Gisco. He married his daughter Sophonisba to the Numidian king [[p:シュファクス|Syphax]] to bind him to Carthage."
+    }
    }
   ],
   [
@@ -2268,7 +2324,11 @@
      7,
      5,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "スフェス (カルタゴの最高の官) ボミルカルの子 (ポリュビオス)。ハンニバルの甥ともいわれる。",
+     "en": "Son of Bomilcar the suffete (Polybius); said by some to be Hannibal's nephew."
+    }
    }
   ],
   [
@@ -2341,7 +2401,11 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "origin": {
+     "ja": "祖父がシュラクサイの人で、カルタゴで生まれ育った兄弟の兄 (母はカルタゴ人)。ハンニバルに仕え、使者としてシュラクサイに送られた。",
+     "en": "Elder of two brothers born and raised in Carthage, of a Syracusan grandfather and a Carthaginian mother. He served Hannibal, who sent him as envoy to Syracuse."
+    }
    }
   ],
   [
@@ -2358,7 +2422,11 @@
      6,
      6,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "祖父がシュラクサイの人で、カルタゴで生まれ育った兄弟の弟 (母はカルタゴ人)。兄の[[p:ヒッポクラテス]]とともにハンニバルに仕えた。",
+     "en": "Younger of two brothers born and raised in Carthage, of a Syracusan grandfather and a Carthaginian mother; he served Hannibal with his brother [[p:ヒッポクラテス|Hippocrates]]."
+    }
    }
   ],
   [
@@ -2379,7 +2447,11 @@
     "tr": [
      "ambitious"
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "アドリア海のファロス島のギリシア人。イリュリアの女王テウタに仕えたのちローマに寝返り、また背いてマケドニアへ逃れた。",
+     "en": "A Greek of the island of Pharos in the Adriatic. He served the Illyrian queen Teuta, went over to Rome, then broke with Rome and fled to Macedon."
+    }
    }
   ],
   [
@@ -2400,7 +2472,11 @@
     "tr": [
      "brave"
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "イベリアのイレルゲテス族の王。カルタゴとローマの間を何度も行き来した。",
+     "en": "King of the Ilergetes of Iberia, who changed sides between Carthage and Rome more than once."
+    }
    }
   ],
   [

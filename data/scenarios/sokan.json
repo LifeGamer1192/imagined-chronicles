@@ -1554,7 +1554,15 @@
      7,
      3,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "秦の名将王翦の孫で、王賁の子。三代にわたって秦の将を務めた家。",
+     "en": "Grandson of Qin's great general Wang Jian and son of Wang Ben — the third generation of a family of Qin generals."
+    },
+    "house": {
+     "ja": "王",
+     "en": "Wang"
+    }
    }
   ],
   [
@@ -1577,7 +1585,15 @@
     ],
     "fame": 4,
     "end": "assassination",
-    "dm": 1
+    "dm": 1,
+    "origin": {
+     "ja": "陽夏の人。辺境の守りに送られる途中、大沢郷で雨に足止めされ、[[p:陳勝]]とともに反乱を起こした。",
+     "en": "A man of Yangxia. Held up by rain at Dazexiang on the way to frontier service, he rose in revolt with [[p:陳勝|Chen Sheng]]."
+    },
+    "house": {
+     "ja": "呉",
+     "en": "Wu"
+    }
    }
   ],
   [
@@ -1599,7 +1615,15 @@
      "ambitious"
     ],
     "end": "executed",
-    "dm": 11
+    "dm": 11,
+    "origin": {
+     "ja": "大梁の人。若いころ[[p:張耳]]と首をはねられても悔いない交わり (刎頸の交わり) を結んだが、のちに仇どうしとなった。",
+     "en": "A man of Daliang. In youth he and [[p:張耳|Zhang Er]] swore a friendship \"for which they would lose their heads\", but they ended as enemies."
+    },
+    "house": {
+     "ja": "陳",
+     "en": "Chen"
+    }
    }
   ],
   [
@@ -1623,7 +1647,15 @@
     ],
     "fame": 5,
     "end": "suicide",
-    "dm": 10
+    "dm": 10,
+    "origin": {
+     "ja": "斉の王族田氏の一門。兄の[[p:田栄]]とともに斉を立て直した。のちに島へ逃れた田横に従った五百人の食客は、田横の死を聞いてみな自ら命を絶った。",
+     "en": "Of the royal Tian of Qi; with his brother [[p:田栄|Tian Rong]] he rebuilt Qi. When he died, the five hundred retainers who had fled with him to an island all took their own lives."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
+    }
    }
   ],
   [
@@ -1713,7 +1745,15 @@
      "craven"
     ],
     "end": "executed",
-    "dm": 1
+    "dm": 1,
+    "origin": {
+     "ja": "楚の令尹 (宰相) だった人。[[p:項梁]]の敗れることを言い当てて名を上げ、懐王に上将軍とされた。",
+     "en": "Once chief minister of Chu. He foretold [[p:項梁|Xiang Liang]]'s defeat, made his name by it, and was made supreme general by King Huai."
+    },
+    "house": {
+     "ja": "宋",
+     "en": "Song"
+    }
    }
   ],
   [
@@ -1734,7 +1774,15 @@
     "tr": [
      "brave"
     ],
-    "end": "suicide"
+    "end": "suicide",
+    "origin": {
+     "ja": "伊廬の人。[[p:韓信]]とは古くからの友だった。",
+     "en": "A man of Yilu, an old friend of [[p:韓信|Han Xin]]."
+    },
+    "house": {
+     "ja": "鍾離",
+     "en": "Zhongli"
+    }
    }
   ],
   [
@@ -1782,7 +1830,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "楚の人。任侠で知られ、「黄金百斤を得るは、季布の一諾を得るに如かず」と言われた。",
+     "en": "A man of Chu, famous for keeping his word: \"Better one promise from Ji Bu than a hundred catties of gold.\""
+    },
+    "house": {
+     "ja": "季",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -1849,7 +1905,15 @@
     "tr": [
      "content"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "沛の人。秦の沛県で獄の役人を務め、[[p:蕭何]]とともに[[p:劉邦]]を支えた。",
+     "en": "A man of Pei. A prison officer of Qin's Pei county, he backed [[p:劉邦|Liu Bang]] with [[p:蕭何|Xiao He]]."
+    },
+    "house": {
+     "ja": "曹",
+     "en": "Cao"
+    }
    }
   ],
   [
@@ -1870,7 +1934,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "沛の人。犬を屠ってその肉を売って暮らしていた。[[p:劉邦]]の妻呂雉の妹を妻とした。",
+     "en": "A man of Pei who lived by butchering dogs. He married the sister of [[p:劉邦|Liu Bang]]'s wife Lü Zhi."
+    },
+    "house": {
+     "ja": "樊",
+     "en": "Fan"
+    }
    }
   ],
   [
@@ -1887,7 +1959,15 @@
      7,
      5,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "沛の人。沛の厩で車馬を扱う役人で、通るたびに[[p:劉邦]]と語り合う仲だった。",
+     "en": "A man of Pei, a stableman of the county, who would stop and talk with [[p:劉邦|Liu Bang]] whenever he passed."
+    },
+    "house": {
+     "ja": "夏侯",
+     "en": "Xiahou"
+    }
    }
   ],
   [
@@ -1907,7 +1987,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "沛の人。蚕を飼う道具を編んで暮らし、葬式で簫を吹く仕事もしていた。",
+     "en": "A man of Pei who made a living weaving trays for silkworms and playing the pipes at funerals."
+    },
+    "house": {
+     "ja": "周",
+     "en": "Zhou"
+    }
    }
   ],
   [
@@ -1924,7 +2012,15 @@
      5,
      4,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "豊の人。[[p:劉邦]]と同じ日に生まれ、父どうしも親しかった幼なじみ。",
+     "en": "A man of Feng, born on the same day as [[p:劉邦|Liu Bang]], whose father was his father's friend: a friend from the cradle."
+    },
+    "house": {
+     "ja": "盧",
+     "en": "Lu"
+    }
    }
   ],
   [
@@ -2005,7 +2101,15 @@
      "ambitious"
     ],
     "fame": 10,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "淮陰の人。貧しく、川で綿を晒す老婆に食を恵まれ、町の若者の股をくぐらされる辱めも受けた。[[p:項梁]]・[[p:項羽]]に仕えたが用いられず、[[p:劉邦]]のもとへ走った。",
+     "en": "A man of Huaiyin. So poor that an old woman washing silk by the river fed him, he was made to crawl between a bully's legs. He served [[p:項梁|Xiang Liang]] and [[p:項羽|Xiang Yu]] unheeded, then went over to [[p:劉邦|Liu Bang]]."
+    },
+    "house": {
+     "ja": "韓",
+     "en": "Han"
+    }
    }
   ],
   [
@@ -2106,7 +2210,15 @@
      "brave"
     ],
     "fame": 6,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "昌邑の人。鉅野の沢で漁をしながら群盗の頭となった。",
+     "en": "A man of Changyi who fished the Juye marshes and led a band of outlaws."
+    },
+    "house": {
+     "ja": "彭",
+     "en": "Peng"
+    }
    }
   ],
   [
@@ -2172,7 +2284,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "沛の人。[[p:劉邦]]がまだ若いころ、兄のように仕えた沛の豪族。",
+     "en": "A man of Pei, a local magnate whom the young [[p:劉邦|Liu Bang]] treated as an elder brother."
+    },
+    "house": {
+     "ja": "王",
+     "en": "Wang"
+    }
    }
   ],
   [
@@ -2192,7 +2312,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "睢陽の人。絹を売る商人だった。",
+     "en": "A man of Suiyang who had been a silk seller."
+    },
+    "house": {
+     "ja": "灌",
+     "en": "Guan"
+    }
    }
   ],
   [
