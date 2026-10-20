@@ -1889,7 +1889,15 @@
      "ambitious",
      "foolish"
     ],
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "南陽宛の人。家はもと屠畜を業とした。異母妹が後宮に入って[[p:霊帝]]の皇后となり、その縁で取り立てられた。",
+     "en": "A man of Wan in Nanyang, of a family of butchers. His half-sister entered the palace and became empress to [[p:霊帝|Emperor Ling]], and he rose through her."
+    },
+    "house": {
+     "ja": "何",
+     "en": "He"
+    }
    }
   ],
   [
@@ -1968,7 +1976,15 @@
     "tr": [
      "scholar",
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "涿郡涿の人。若いころ鄭玄とともに馬融に学んだ。郷里で教えた弟子に[[p:劉備]]と[[p:公孫瓚]]がいる。",
+     "en": "A man of Zhuo. In his youth he studied under Ma Rong alongside Zheng Xuan. Among the pupils he taught at home were [[p:劉備|Liu Bei]] and [[p:公孫瓚|Gongsun Zan]]."
+    },
+    "house": {
+     "ja": "盧",
+     "en": "Lu"
+    }
    }
   ],
   [
@@ -2021,7 +2037,15 @@
     "tr": [
      "just"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "太原祁の人。代々州郡の高官を出した家。同郡の名士郭泰に「王佐の才」と評された。",
+     "en": "A man of Qi in Taiyuan, of a family that had held provincial and commandery office for generations. The local worthy Guo Tai called him \"a talent fit to aid a king\"."
+    },
+    "house": {
+     "ja": "王",
+     "en": "Wang"
+    }
    }
   ],
   [
@@ -2093,7 +2117,15 @@
      "scholar",
      "just"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "魯国の人で、孔子の二十世の孫。十歳のとき名士李膺の門を訪ね、孔子と老子の古い縁を持ち出して通され、才を驚かせた。",
+     "en": "A man of Lu, twentieth-generation descendant of Confucius. At ten he called on the great Li Ying, got past the gate by citing the old bond between Confucius and Laozi, and astonished all with his wit."
+    },
+    "house": {
+     "ja": "孔",
+     "en": "Kong"
+    }
    }
   ],
   [
@@ -2110,7 +2142,15 @@
      "kind"
     ],
     "fame": 6,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "沛国譙の人。徐州に遊学して数種の経書に通じた。孝廉に挙げられ、太尉にも招かれたが、どちらも応じなかった。",
+     "en": "A man of Qiao in Pei. He studied in Xu province and mastered several classics. Recommended as filial and incorrupt, and summoned by the grand commandant, he declined both."
+    },
+    "house": {
+     "ja": "華",
+     "en": "Hua"
+    }
    }
   ],
   [
@@ -2126,7 +2166,15 @@
     "tr": [
      "scholar"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "陳留圉の人で、学者蔡邕の娘。最初の夫に死別して実家に戻ったのち、乱の中で匈奴に連れ去られ、十二年後に[[p:曹操]]が身代金を払って連れ戻した。",
+     "en": "A woman of Yu in Chenliu, daughter of the scholar Cai Yong. Widowed and back home, she was carried off by the Xiongnu in the chaos; twelve years later [[p:曹操|Cao Cao]] ransomed her back."
+    },
+    "house": {
+     "ja": "蔡",
+     "en": "Cai"
+    }
    }
   ],
   [
@@ -2154,7 +2202,15 @@
      "wise",
      "just"
     ],
-    "fame": 8
+    "fame": 8,
+    "origin": {
+     "ja": "潁川潁陰の人。祖父荀淑は名士で、その八人の子は「八龍」と呼ばれた。若いころ何顒に「王佐の才」と評された。初め[[p:袁紹]]に身を寄せたが、去って[[p:曹操]]に仕えた。",
+     "en": "A man of Yingyin in Yingchuan. His grandfather Xun Shu was a noted worthy whose eight sons were called \"the Eight Dragons\". He Yong called him \"a talent fit to aid a king\". He went first to [[p:袁紹|Yuan Shao]], then left him for [[p:曹操|Cao Cao]]."
+    },
+    "house": {
+     "ja": "荀",
+     "en": "Xun"
+    }
    }
   ],
   [
@@ -2181,7 +2237,15 @@
     "tr": [
      "wise"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "潁川潁陰の人で、[[p:荀彧]]の一族の甥 (年は荀彧より上)。何進に召されて朝廷に仕え、董卓の暗殺を謀って獄に下された。",
+     "en": "A man of Yingyin in Yingchuan, a clan nephew of [[p:荀彧|Xun Yu]] (though older than he). Summoned to court by He Jin, he plotted to kill Dong Zhuo and was thrown into prison."
+    },
+    "house": {
+     "ja": "荀",
+     "en": "Xun"
+    }
    }
   ],
   [
@@ -2209,7 +2273,15 @@
      "genius",
      "drunkard"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "潁川陽翟の人。初め北へ行って[[p:袁紹]]に会ったが、大事を成せる人ではないと見て去った。[[p:荀彧]]の推薦で[[p:曹操]]に仕えた。",
+     "en": "A man of Yangzhai in Yingchuan. He went north to see [[p:袁紹|Yuan Shao]], judged him unable to achieve great things, and left. On [[p:荀彧|Xun Yu]]'s recommendation he served [[p:曹操|Cao Cao]]."
+    },
+    "house": {
+     "ja": "郭",
+     "en": "Guo"
+    }
    }
   ],
   [
@@ -2229,7 +2301,15 @@
     ],
     "tr": [
      "cruel"
-    ]
+    ],
+    "origin": {
+     "ja": "東郡東阿の人。黄巾が起きると県の人々をまとめて城を守った。もとの名は程立で、泰山で日を捧げる夢を見たため、[[p:曹操]]が「日」を加えて「昱」と改めさせたと伝わる。",
+     "en": "A man of Dong'e in Dong commandery. When the Yellow Turbans rose he rallied his county to hold its walls. He is said to have first been named Cheng Li, and to have dreamt of holding up the sun on Mount Tai, so [[p:曹操|Cao Cao]] added \"sun\" to his name, making it Yu."
+    },
+    "house": {
+     "ja": "程",
+     "en": "Cheng"
+    }
    }
   ],
   [
@@ -2257,7 +2337,15 @@
      "genius",
      "paranoid"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "武威姑臧の人。若いころ漢陽の閻忠に「張良・陳平の才」と評された。病で郷里へ帰る途中で氐に捕らわれたが、太尉段熲の外孫と偽って一人だけ助かった。",
+     "en": "A man of Guzang in Wuwei. Yan Zhong of Hanyang said he had the gifts of Zhang Liang and Chen Ping. Captured by the Di on his way home sick, he alone was spared by claiming to be a grandson of the grand commandant Duan Jiong."
+    },
+    "house": {
+     "ja": "賈",
+     "en": "Jia"
+    }
    }
   ],
   [
@@ -2586,7 +2674,15 @@
      "ambitious",
      "paranoid"
     ],
-    "fame": 9
+    "fame": 9,
+    "origin": {
+     "ja": "河内温の人。代々高官を出した家で、父の司馬防は京兆尹。[[p:曹操]]の最初の召しを病と称して断ったと伝わる。",
+     "en": "A man of Wen in Henei, of a family of high officials; his father Sima Fang was governor of the capital district. He is said to have refused [[p:曹操|Cao Cao]]'s first summons by feigning illness."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
+    }
    }
   ],
   [
@@ -2608,7 +2704,15 @@
      "scholar",
      "drunkard"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "[[p:曹操]]と[[p:卞夫人]]の子で、[[p:曹丕]]の同母弟。十歳余りで詩や論・辞賦を数十万言そらんじ、文章に巧みだった。",
+     "en": "Son of [[p:曹操|Cao Cao]] and [[p:卞夫人|Lady Bian]], full brother of [[p:曹丕|Cao Pi]]. Past ten he could recite hundreds of thousands of words of poems, essays and rhapsodies, and wrote with great skill."
+    },
+    "house": {
+     "ja": "曹",
+     "en": "Cao"
+    }
    }
   ],
   [
@@ -2653,7 +2757,15 @@
     ],
     "tr": [
      "reformer"
-    ]
+    ],
+    "origin": {
+     "ja": "潁川許の人。祖父の陳寔、父の陳紀はともに名高い名士。幼いころ祖父に「この子は必ず我が一族を興す」と言われた。豫州の[[p:劉備]]に仕えたのち[[p:曹操]]に仕えた。",
+     "en": "A man of Xu in Yingchuan; his grandfather Chen Shi and father Chen Ji were famous worthies. As a boy his grandfather said \"this child will raise our house\". He served [[p:劉備|Liu Bei]] in Yu province, then [[p:曹操|Cao Cao]]."
+    },
+    "house": {
+     "ja": "陳",
+     "en": "Chen"
+    }
    }
   ],
   [
@@ -2673,7 +2785,15 @@
     ],
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "潁川長社の人。孝廉に挙げられ、長安で[[p:献帝]]に仕えて帝の東への脱出を助けた。のちの世に書の名手とたたえられた。子に[[p:鍾会]]がいる。",
+     "en": "A man of Changshe in Yingchuan. Recommended as filial and incorrupt, he served [[p:献帝|Emperor Xian]] at Chang'an and helped him escape east. Later ages hailed him as a master calligrapher. His son was [[p:鍾会|Zhong Hui]]."
+    },
+    "house": {
+     "ja": "鍾",
+     "en": "Zhong"
+    }
    }
   ],
   [
@@ -2811,7 +2931,15 @@
     "tr": [
      "ambitious",
      "cruel"
-    ]
+    ],
+    "origin": {
+     "ja": "[[p:司馬懿]]の長男。若いころから評判が高く、夏侯玄・何晏と並び称されたと伝わる。",
+     "en": "Eldest son of [[p:司馬懿|Sima Yi]]. He is said to have been praised from youth and ranked with Xiahou Xuan and He Yan."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
+    }
    }
   ],
   [
@@ -2832,7 +2960,15 @@
     "tr": [
      "ambitious"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "[[p:司馬懿]]の次男で、[[p:司馬師]]の同母弟。",
+     "en": "Second son of [[p:司馬懿|Sima Yi]], full brother of [[p:司馬師|Sima Shi]]."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
+    }
    }
   ],
   [
@@ -2908,7 +3044,15 @@
      "content"
     ],
     "fame": 5,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "譙国銍の人。先祖は会稽から移り住み、そのとき姓を嵆に改めたという。魏の宗室の娘を妻とし、河内の山陽に住んで[[p:阮籍]]らと交わったと伝わる。",
+     "en": "A man of Zhi in Qiao. His forebears are said to have moved there from Kuaiji and taken the name Ji; he is also said to have married a lady of the Wei imperial clan, lived at Shanyang in Henei, and kept company with [[p:阮籍|Ruan Ji]] and others."
+    },
+    "house": {
+     "ja": "嵆",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -2923,7 +3067,15 @@
     "tr": [
      "drunkard",
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "陳留尉氏の人。父は建安の文人阮瑀。礼法にこだわる人を嫌い、気に入らない相手には白い目を向けたと伝わる。",
+     "en": "A man of Weishi in Chenliu; his father was Ruan Yu, a writer of the Jian'an age. He disliked sticklers for ritual and, it is said, met those he disdained with the whites of his eyes."
+    },
+    "house": {
+     "ja": "阮",
+     "en": "Ruan"
+    }
    }
   ],
   [
@@ -2937,7 +3089,15 @@
     "from": 235,
     "tr": [
      "genius"
-    ]
+    ],
+    "origin": {
+     "ja": "平原の人。容貌は粗野で酒を好んだ。幼いころから星空を見上げるのを好み、夜も眠らなかったと伝わる。",
+     "en": "A man of Pingyuan, rough-looking and fond of wine. As a child, it is said, he loved to gaze at the stars and would not sleep at night."
+    },
+    "house": {
+     "ja": "管",
+     "en": "Guan"
+    }
    }
   ],
   [
@@ -2959,7 +3119,15 @@
      "wise",
      "just"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "鉅鹿の人。正直さゆえ韓馥に用いられなかった。博学で茂才に挙げられ侍御史となったが、宦官の専横に官を捨てて帰郷し、[[p:袁紹]]が礼を尽くして招いたと伝わる (渤海の人とも)。",
+     "en": "A man of Julu; his uprightness kept him out of favour with Han Fu. Learned, he is said to have been recommended as \"flourishing talent\" and made attendant censor, to have quit in disgust at the eunuchs, and to have been invited by [[p:袁紹|Yuan Shao]] with every courtesy (some say he was from Bohai)."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
+    }
    }
   ],
   [
@@ -2980,7 +3148,15 @@
     "tr": [
      "just"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "広平の人で、若くして大志があり、冀州牧韓馥の別駕を務めたと伝わる。韓馥の騎都尉だったが、韓馥が冀州を[[p:袁紹]]に譲ると袁紹に仕えた。",
+     "en": "Said to have been a man of Guangping, ambitious from youth, and lieutenant to Han Fu, governor of Ji province. He was Han Fu's cavalry commandant, and served [[p:袁紹|Yuan Shao]] once Han Fu yielded the province to him."
+    },
+    "house": {
+     "ja": "沮",
+     "en": "Ju"
+    }
    }
   ],
   [
@@ -3001,7 +3177,15 @@
     "tr": [
      "brave"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "魏郡の人。若くして忠烈で、犯しがたい節操があったと伝わる。韓馥には用いられず、[[p:袁紹]]に仕えた。",
+     "en": "A man of Wei commandery, said to have been loyal and fiery from youth, of unbending principle. Unused by Han Fu, he served [[p:袁紹|Yuan Shao]]."
+    },
+    "house": {
+     "ja": "審",
+     "en": "Shen"
+    }
    }
   ],
   [
@@ -3022,7 +3206,15 @@
     "tr": [
      "brave"
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "出自は記録に無い。袁紹の将で、[[p:文醜]]とともに名将と呼ばれた。白馬で[[p:関羽]]に討たれた。",
+     "en": "Their origins are not on record. A general of Yuan Shao, named with [[p:文醜|Wen Chou]] as his finest; [[p:関羽|Guan Yu]] cut him down at Baima."
+    },
+    "house": {
+     "ja": "顔",
+     "en": "Yan"
+    }
    }
   ],
   [
@@ -3043,7 +3235,15 @@
     "tr": [
      "brave"
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "出自は記録に無い。袁紹の将で、[[p:顔良]]とともに名将と呼ばれた。延津の南で曹操の軍に討たれた。",
+     "en": "Their origins are not on record. A general of Yuan Shao, named with [[p:顔良|Yan Liang]] as his finest; he was killed by Cao Cao's army south of Yanjin."
+    },
+    "house": {
+     "ja": "文",
+     "en": "Wen"
+    }
    }
   ],
   [
@@ -3069,7 +3269,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "東郡の人で、剛直な気性で、若くして各地の名士と交わったと伝わる。初め[[p:曹操]]に従ったが、194年に張邈とともに背き、[[p:呂布]]を兗州に迎えた。",
+     "en": "Said to have been a man of Dong commandery, upright, and to have known the worthies of the realm when young. He first followed [[p:曹操|Cao Cao]], but in 194 turned on him with Zhang Miao and brought [[p:呂布|Lü Bu]] into Yan province."
+    },
+    "house": {
+     "ja": "陳",
+     "en": "Chen"
+    }
    }
   ],
   [
@@ -3090,7 +3298,15 @@
     "tr": [
      "just",
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。呂布の将で、下邳で呂布とともに斬られた。裴松之注の『英雄記』には、清廉で威厳があり酒も贈り物も受けず、率いる七百余の兵は「陥陳営」と呼ばれたと伝わる。",
+     "en": "Their origins are not on record. A general of Lü Bu, beheaded with him at Xiapi. The Yingxiong ji (in Pei Songzhi's notes) says he was upright and stern, drank no wine and took no gifts, and that his seven hundred men were called \"the camp that breaks the line\"."
+    },
+    "house": {
+     "ja": "高",
+     "en": "Gao"
+    }
    }
   ],
   [
@@ -3110,7 +3326,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "右北平無終の人。書を好み撃剣に優れた。幽州牧劉虞の使者として長安へ赴き、戻ると劉虞は[[p:公孫瓚]]に殺されていたため、一族を率いて徐無山にこもった。",
+     "en": "A man of Wuzhong in Youbeiping, a lover of books and a fine swordsman. He went to Chang'an as envoy of Liu Yu, governor of You; finding on his return that [[p:公孫瓚|Gongsun Zan]] had killed Liu Yu, he led his clan into the Xuwu hills."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
+    }
    }
   ],
   [
@@ -3290,7 +3514,15 @@
      "genius",
      "just"
     ],
-    "fame": 10
+    "fame": 10,
+    "origin": {
+     "ja": "琅邪陽都の人。前漢の司隷校尉諸葛豊の子孫。早く父を失い、叔父に従って荊州へ移った。南陽で自ら耕しながら、自分を管仲・楽毅に比した。兄に[[p:諸葛瑾]]。",
+     "en": "A man of Yangdu in Langya, descendant of Zhuge Feng, a Former Han inspector of the capital. Orphaned early, he went with his uncle to Jing. Farming in Nanyang, he likened himself to Guan Zhong and Yue Yi. His elder brother was [[p:諸葛瑾|Zhuge Jin]]."
+    },
+    "house": {
+     "ja": "諸葛",
+     "en": "Zhuge"
+    }
    }
   ],
   [
@@ -3318,7 +3550,15 @@
      "genius"
     ],
     "fame": 6,
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "襄陽の人。若いころは地味で目立たなかったが、[[p:司馬徽]]を訪ね、桑の木の上と下で昼から夜まで語り合って認められた。",
+     "en": "A man of Xiangyang, plain and unremarkable in youth. He called on [[p:司馬徽|Sima Hui]], and the two talked from noon into the night, Sima Hui up a mulberry tree and he beneath it, until he won his esteem."
+    },
+    "house": {
+     "ja": "龐",
+     "en": "Pang"
+    }
    }
   ],
   [
@@ -3345,7 +3585,15 @@
     "tr": [
      "genius",
      "cruel"
-    ]
+    ],
+    "origin": {
+     "ja": "扶風郿の人。祖父の法真は清廉で名高い。飢饉のとき同郡の[[p:孟達]]とともに蜀へ入って[[p:劉璋]]に仕えたが、重く用いられなかった。",
+     "en": "A man of Mei in Fufeng; his grandfather Fa Zhen was famed for integrity. In a famine he went to Shu with [[p:孟達|Meng Da]] of the same commandery and served [[p:劉璋|Liu Zhang]], who made little use of him."
+    },
+    "house": {
+     "ja": "法",
+     "en": "Fa"
+    }
    }
   ],
   [
@@ -3436,7 +3684,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "襄陽宜城の人。兄弟五人がみな才名高く、眉に白い毛があった馬良が最も優れ、「馬氏の五常、白眉最も良し」と言われた。弟に[[p:馬謖]]。",
+     "en": "A man of Yicheng in Xiangyang. All five brothers were famed for talent, and he, who had white hairs in his brows, was the best: \"Of the five Ma, White Brows is best.\" His younger brother was [[p:馬謖|Ma Su]]."
+    },
+    "house": {
+     "ja": "馬",
+     "en": "Ma"
+    }
    }
   ],
   [
@@ -3486,7 +3742,15 @@
     "tr": [
      "wise",
      "content"
-    ]
+    ],
+    "origin": {
+     "ja": "零陵湘郷の人。若くして母方のいとこ劉敏とともに名を知られた。書佐として[[p:劉備]]に従い蜀に入った。",
+     "en": "A man of Xiangxiang in Lingling, known young together with his maternal cousin Liu Min. He followed [[p:劉備|Liu Bei]] into Shu as a clerk."
+    },
+    "house": {
+     "ja": "蒋",
+     "en": "Jiang"
+    }
    }
   ],
   [
@@ -3507,7 +3771,15 @@
     "tr": [
      "wise"
     ],
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "江夏鄳の人。幼くして父を失い、一族の費伯仁を頼った。伯仁の叔母が[[p:劉璋]]の母だった縁で、伯仁に連れられて蜀に入った。",
+     "en": "A man of Meng in Jiangxia. Orphaned young, he lived with his kinsman Fei Boren, whose aunt was the mother of [[p:劉璋|Liu Zhang]]; so Boren took him into Shu."
+    },
+    "house": {
+     "ja": "費",
+     "en": "Fei"
+    }
    }
   ],
   [
@@ -3571,7 +3843,15 @@
      7,
      7,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "巴西閬中の人。郡の吏から[[p:劉璋]]の主簿となり、[[p:劉備]]を蜀に迎えることに反対した。",
+     "en": "A man of Langzhong in Baxi. From a commandery clerk he became [[p:劉璋|Liu Zhang]]'s registrar, and argued against inviting [[p:劉備|Liu Bei]] into Shu."
+    },
+    "house": {
+     "ja": "黄",
+     "en": "Huang"
+    }
    }
   ],
   [
@@ -3585,7 +3865,15 @@
     "from": 230,
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "巴西西充国の人。幼くして父を失い、母と兄と暮らした。古典を好み、家の貧しさを気にかけず学んだ。",
+     "en": "A man of Xichongguo in Baxi. Orphaned young, he lived with his mother and elder brother, loved the classics, and studied heedless of his family's poverty."
+    },
+    "house": {
+     "ja": "譙",
+     "en": "Qiao"
+    }
    }
   ],
   [
@@ -3692,7 +3980,15 @@
     "tr": [
      "wise",
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "彭城の人。若くして学問を好み、隷書に巧みだった。徐州の乱を避けて長江を渡り、[[p:孫策]]に仕えて長史となった。",
+     "en": "A man of Pengcheng, studious from youth and skilled in clerical script. Fleeing the troubles of Xu province across the Yangzi, he served [[p:孫策|Sun Ce]] as chief clerk."
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -3748,7 +4044,15 @@
      "wise",
      "generous"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "臨淮東城の人。生まれてすぐ父を失い、祖母に育てられた。家は豊かで、財を散じて人と交わった。[[p:周瑜]]が食糧を求めると、二つあった米倉の一つをそのまま与えた。",
+     "en": "A man of Dongcheng in Linhuai. Fatherless at birth, he was raised by his grandmother. Rich, he spent freely to make friends; when [[p:周瑜|Zhou Yu]] asked for food he gave him one of his two granaries outright."
+    },
+    "house": {
+     "ja": "魯",
+     "en": "Lu"
+    }
    }
   ],
   [
@@ -3863,7 +4167,15 @@
     ],
     "tr": [
      "kind"
-    ]
+    ],
+    "origin": {
+     "ja": "琅邪陽都の人で、[[p:諸葛亮]]の兄。若いころ都に遊学したと伝わる。乱を避けて江東へ移り、[[p:孫策]]の死後、[[p:孫権]]に仕えた。",
+     "en": "A man of Yangdu in Langya, elder brother of [[p:諸葛亮|Zhuge Liang]]. He is said to have studied at the capital in youth. He fled the troubles to Jiangdong, and after [[p:孫策|Sun Ce]] died served [[p:孫権|Sun Quan]]."
+    },
+    "house": {
+     "ja": "諸葛",
+     "en": "Zhuge"
+    }
    }
   ],
   [
@@ -3884,7 +4196,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "[[p:孫堅]]の娘で[[p:孫権]]の妹。史書では「孫夫人」とだけ記される。兄たちに似て才気鋭く剛猛で、侍女百人余りがみな刀を持って仕えていた。",
+     "en": "Daughter of [[p:孫堅|Sun Jian]] and sister of [[p:孫権|Sun Quan]]; the histories call her only \"Lady Sun\". Quick and fierce like her brothers, she kept over a hundred maids who all stood by her with swords."
+    },
+    "house": {
+     "ja": "孫",
+     "en": "Sun"
+    }
    }
   ],
   [
@@ -3957,7 +4277,15 @@
     "tr": [
      "scholar",
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "会稽余姚の人。代々『易』を伝える家だったと伝わる。会稽太守王朗の功曹を務め、のち[[p:孫策]]に仕えた。",
+     "en": "A man of Yuyao in Kuaiji, said to come of a family that handed down the Book of Changes. He was an officer of Wang Lang, governor of Kuaiji, and later served [[p:孫策|Sun Ce]]."
+    },
+    "house": {
+     "ja": "虞",
+     "en": "Yu"
+    }
    }
   ],
   [
@@ -4089,7 +4417,15 @@
     "tr": [
      "wise",
      "content"
-    ]
+    ],
+    "origin": {
+     "ja": "蒼梧広信の人。先祖は魯国の人で、王莽の乱を避けて交州へ移った。父は日南太守。若いころ洛陽で『春秋左氏伝』を学んだ。",
+     "en": "A man of Guangxin in Cangwu. His forebears came from Lu and moved to Jiao province to escape the troubles of Wang Mang; his father was governor of Rinan. In youth he studied the Zuozhuan at Luoyang."
+    },
+    "house": {
+     "ja": "士",
+     "en": "Shi"
+    }
    }
   ],
   [
@@ -4115,7 +4451,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "潁川の人。若いころは任侠を好み、人の仇を討って捕らえられたが仲間に救われ、以後学問に励んだと伝わる。[[p:諸葛亮]]の友で、母が[[p:曹操]]に捕らわれたため[[p:劉備]]のもとを去った。",
+     "en": "A man of Yingchuan. He is said to have been a swordsman in youth, caught after avenging a wrong done to another and freed by comrades, then turned to study. A friend of [[p:諸葛亮|Zhuge Liang]], he left [[p:劉備|Liu Bei]] when [[p:曹操|Cao Cao]] seized his mother."
+    },
+    "house": {
+     "ja": "徐",
+     "en": "Xu"
+    }
    }
   ],
   [
@@ -4135,7 +4479,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "潁川の人。清廉で人を見る目に優れた。荊州に住み、名士龐徳公から「水鏡」と呼ばれたと伝わる。",
+     "en": "A man of Yingchuan, pure-minded and a fine judge of men. He is said to have lived in Jing, where the worthy Pang Degong called him \"Water Mirror\"."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
+    }
    }
   ],
   [
@@ -4181,7 +4533,15 @@
      1,
      4,
      9
-    ]
+    ],
+    "origin": {
+     "ja": "橋公の娘 (史書では「橋」と書く)。[[p:孫策]]が皖を落としたとき妹とともに迎えられ、孫策の妻となった。姉妹ともに国一番の美しさと記される。",
+     "en": "A daughter of Lord Qiao. When [[p:孫策|Sun Ce]] took Wan, she and her sister were found there; she became Sun Ce's wife. Both are recorded as the beauties of the land."
+    },
+    "house": {
+     "ja": "橋",
+     "en": "Qiao"
+    }
    }
   ],
   [
@@ -4199,7 +4559,15 @@
      1,
      4,
      9
-    ]
+    ],
+    "origin": {
+     "ja": "橋公の娘 (史書では「橋」と書く) で、[[p:大喬]]の妹。[[p:孫策]]が皖を落としたとき姉とともに迎えられ、[[p:周瑜]]の妻となった。",
+     "en": "A daughter of Lord Qiao, younger sister of [[p:大喬|the Elder Qiao]]. Found at Wan when [[p:孫策|Sun Ce]] took it, she became the wife of [[p:周瑜|Zhou Yu]]."
+    },
+    "house": {
+     "ja": "橋",
+     "en": "Qiao"
+    }
    }
   ],
   [
@@ -4220,7 +4588,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "琅邪開陽の人。歌い手の家の出で、二十歳のとき譙で[[p:曹操]]の妾となった。[[p:曹丕]]・[[p:曹植]]の母。",
+     "en": "A woman of Kaiyang in Langya, of a family of singers. At twenty she became a concubine of [[p:曹操|Cao Cao]] at Qiao. Mother of [[p:曹丕|Cao Pi]] and [[p:曹植|Cao Zhi]]."
+    },
+    "house": {
+     "ja": "卞",
+     "en": "Bian"
+    }
    }
   ],
   [
@@ -4244,7 +4620,15 @@
      1,
      5,
      9
-    ]
+    ],
+    "origin": {
+     "ja": "中山無極の人。漢の太保甄邯の子孫で、上蔡令甄逸の娘。[[p:袁紹]]の子袁熙の妻だったが、鄴が落ちたとき[[p:曹丕]]に迎えられた。",
+     "en": "A woman of Wuji in Zhongshan, descendant of the Han grand protector Zhen Han and daughter of Zhen Yi, magistrate of Shangcai. Wife of [[p:袁紹|Yuan Shao]]'s son Yuan Xi, she was taken by [[p:曹丕|Cao Pi]] when Ye fell."
+    },
+    "house": {
+     "ja": "甄",
+     "en": "Zhen"
+    }
    }
   ],
   [
@@ -4271,7 +4655,15 @@
     ],
     "tr": [
      "genius"
-    ]
+    ],
+    "origin": {
+     "ja": "沔南の名士黄承彦の娘で、[[p:諸葛亮]]の妻。黄承彦は「娘は醜いが、才は君に釣り合う」と言って縁談を持ちかけたと伝わる。",
+     "en": "Daughter of Huang Chengyan, a worthy of Miannan, and wife of [[p:諸葛亮|Zhuge Liang]]. Her father is said to have offered her with the words \"she is plain, but her talent matches yours\"."
+    },
+    "house": {
+     "ja": "黄",
+     "en": "Huang"
+    }
    }
   ]
  ],

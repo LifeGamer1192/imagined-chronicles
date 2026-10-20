@@ -5658,7 +5658,15 @@
       "相",
       "Chancellor"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "潁上の人で、名は夷吾 (『史記』)。若いころ[[p:鮑叔牙]]と商売をして分け前を多く取ったが、鮑叔は彼の貧しさを知って咎めなかった。公子糾に仕えたが、鮑叔の推挙で桓公の相となった。",
+     "en": "A man of Yingshang, named Yiwu (Shiji). Trading with [[p:鮑叔牙|Bao Shuya]] as a young man he took the larger share, but Bao, knowing he was poor, never blamed him. He served Prince Jiu, then became Duke Huan's chancellor on Bao's recommendation."
+    },
+    "house": {
+     "ja": "管",
+     "en": "Guan"
+    }
    }
   ],
   [
@@ -5680,7 +5688,15 @@
      "just",
      "kind"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "斉の人。若いころから[[p:管仲]]と親しく、公子小白 (のちの桓公) に仕えた。桓公が位に就くと、敵方にいた管仲を相に推した。",
+     "en": "A man of Qi and a friend of [[p:管仲|Guan Zhong]] from youth. He served Prince Xiaobai (later Duke Huan), and when the duke took the throne he recommended Guan Zhong, who had been on the other side, as chancellor."
+    },
+    "house": {
+     "ja": "鮑",
+     "en": "Bao"
+    }
    }
   ],
   [
@@ -5704,6 +5720,10 @@
     "origin": {
      "ja": "魯の人で、位のない身分だった。「肉食の者 (位の高い者) は目先しか見えない」と言って自ら荘公に会い、長勺の戦いの采配を説いた (『左伝』荘公十年)。",
      "en": "A man of Lu without rank. Saying \"the meat-eaters cannot see far\", he went to Duke Zhuang himself and told him how to fight at Changshao (Zuozhuan, Duke Zhuang 10)."
+    },
+    "house": {
+     "ja": "曹",
+     "en": "Cao"
     }
    }
   ],
@@ -5731,7 +5751,15 @@
     "tr": [
      "wise"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "虞の大夫。晋が虞を滅ぼすと捕らえられ、晋の公女の嫁入りの供として秦へ送られたが、楚の宛へ逃げた。穆公が羊の皮五枚で買い戻したので「五羖大夫」と呼ばれた (『史記』)。",
+     "en": "A grandee of Yu. Taken when Jin destroyed Yu and sent to Qin in a Jin princess's bridal train, he fled to Wan in Chu; Duke Mu bought him back for five ram skins, so he was called \"the five-ram grandee\" (Shiji)."
+    },
+    "house": {
+     "ja": "百里",
+     "en": "Baili"
+    }
    }
   ],
   [
@@ -5751,7 +5779,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "[[p:百里奚]]の友。百里奚が斉で困窮して物乞いをしていたとき養ってくれた人で、百里奚の推挙で穆公に迎えられ上大夫となった (『史記』)。",
+     "en": "A friend of [[p:百里奚|Baili Xi]], who had taken him in when he was begging, destitute, in Qi. On Baili Xi's recommendation Duke Mu brought him in as a senior grandee (Shiji)."
+    },
+    "house": {
+     "ja": "蹇",
+     "en": "Jian"
+    }
    }
   ],
   [
@@ -5768,7 +5804,15 @@
      6,
      8,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "先祖は晋の人で、戎の地に逃れて住んでいた。晋の言葉を話し、戎王の使いとして秦へ来たが、穆公が計って戎王と引き離し、秦に降らせた (『史記』)。",
+     "en": "His forebears were men of Jin who had fled to the Rong. Speaking the Jin tongue, he came to Qin as the Rong king's envoy; Duke Mu contrived to split him from his king and won him over (Shiji)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -5786,7 +5830,15 @@
      "cruel"
     ],
     "fame": 4,
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "驪戎 (姫姓とされる戎) の君の娘。晋の献公が驪戎を討ったときに得て、寵愛した (『左伝』『国語』)。",
+     "en": "Daughter of the chief of the Li Rong, a Rong people said to be of the Ji surname. Duke Xian of Jin took her when he attacked the Li Rong, and doted on her (Zuozhuan, Guoyu)."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -5807,7 +5859,15 @@
     "tr": [
      "wise"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "晋の狐氏で、狐突の子、字は子犯。重耳 (文公) の母は大戎の狐姫で、その兄弟にあたるので「舅犯」とも呼ばれる。重耳の亡命に従った (『左伝』『国語』)。",
+     "en": "Of the Hu clan of Jin, son of Hu Tu, style Zifan. Chong'er's (Duke Wen's) mother was Hu Ji of the Great Rong; as her brother he was also called \"Uncle Fan\". He followed Chong'er into exile (Zuozhuan, Guoyu)."
+    },
+    "house": {
+     "ja": "狐",
+     "en": "Hu"
+    }
    }
   ],
   [
@@ -5827,7 +5887,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "晋の趙氏で、字は子余。趙氏は周の穆王の御者造父の子孫とされる (『史記』)。重耳の亡命に従い、狄で叔隗を妻として[[p:趙盾]]を得た。",
+     "en": "Of the Zhao clan of Jin, style Ziyu; the Zhao are said to descend from Zaofu, charioteer of King Mu of Zhou (Shiji). He followed Chong'er into exile and, among the Di, married Shu Kui, who bore him [[p:趙盾|Zhao Dun]]."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    }
    }
   ],
   [
@@ -5843,7 +5911,15 @@
      "content",
      "just"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "晋の人で、『左伝』では介之推。重耳の亡命に従ったが、帰国後の賞から漏れ、母とともに隠れた (『史記』は綿上の山中とする)。股の肉を割いて重耳に食べさせたという話は後の伝え。",
+     "en": "A man of Jin, Jie Zhitui in the Zuozhuan. He followed Chong'er into exile, was left out of the rewards on the return and went into hiding with his mother (in the hills of Mianshang, says the Shiji). That he fed Chong'er flesh cut from his own thigh is a later tale."
+    },
+    "house": {
+     "ja": "介",
+     "en": "Jie"
+    }
    }
   ],
   [
@@ -5876,6 +5952,10 @@
     "origin": {
      "ja": "晋の人。原の地を与えられたので「原軫」とも呼ばれる。[[p:文公]]の亡命に従った一人で、城濮で中軍を率いた。",
      "en": "A man of Jin, also called Yuan Zhen after the fief of Yuan he was given. One of those who followed [[p:文公|Duke Wen]] in exile, he led the central army at Chengpu."
+    },
+    "house": {
+     "ja": "先",
+     "en": "Xian"
     }
    }
   ],
@@ -5903,7 +5983,15 @@
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "[[p:趙衰]]の子で、母は狄の叔隗。趙衰の正妻 (文公の娘) が自分の子を退けて、彼を嫡子に立てるよう求めた (『左伝』)。",
+     "en": "Son of [[p:趙衰|Zhao Cui]] by Shu Kui of the Di. Zhao Cui's principal wife, a daughter of Duke Wen, set aside her own sons and asked that he be made heir (Zuozhuan)."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    }
    }
   ],
   [
@@ -5935,6 +6023,10 @@
     "origin": {
      "ja": "楚の王族の流れをくむ若敖氏の出で、字は子玉。一族の[[p:闘穀於菟]] (令尹子文) に推されて令尹となった。",
      "en": "Of the Ruo'ao clan, an offshoot of the Chu royal house; his style was Ziyu. His kinsman [[p:闘穀於菟|Dou Gouwutu]] (Ziwen) recommended him as chief minister."
+    },
+    "house": {
+     "ja": "成",
+     "en": "Cheng"
     }
    }
   ],
@@ -5964,7 +6056,15 @@
       "令尹",
       "Chief Minister (Lingyin)"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "楚の蔿氏で、蔿賈の子、名は敖、字は孫叔とされる (『左伝』とその注)。『史記』は野にいた士で、虞丘に推されて令尹となったとする。両頭の蛇を埋めた話は後の伝え。",
+     "en": "Said to be of the Wei (蔿) clan of Chu, son of Wei Jia, named Ao, style Sunshu (the Zuozhuan and its commentary). The Shiji calls him a scholar out of office, recommended as chief minister by Yuqiu. The tale of the two-headed snake he buried is a later one."
+    },
+    "house": {
+     "ja": "蔿",
+     "en": "Wei"
+    }
    }
   ],
   [
@@ -5982,7 +6082,15 @@
      7,
      6
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "鄭の商人。牛を売りに周へ向かう途中で鄭を襲いに来た秦軍に出会い、鄭の君の使いと偽って牛十二頭を贈り、急ぎ国に知らせた (『左伝』)。",
+     "en": "A merchant of Zheng. Taking cattle to sell in Zhou, he met the Qin army on its way to surprise Zheng, posed as the Zheng ruler's envoy with a gift of twelve oxen, and sent word home in haste (Zuozhuan)."
+    },
+    "house": {
+     "ja": "弦",
+     "en": "Xian"
+    }
    }
   ],
   [
@@ -6011,7 +6119,15 @@
       "執政",
       "Head of the Government"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "鄭の公族。穆公の孫で、子国 (公子発) の子、名は僑。公孫僑・国僑とも呼ばれる。",
+     "en": "Of the ducal house of Zheng: a grandson of Duke Mu and son of Ziguo (Prince Fa), named Qiao. He is also called Gongsun Qiao or Guo Qiao."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -6040,7 +6156,15 @@
       "相",
       "Chancellor"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "斉の萊の夷維の人で、字は平仲 (『史記』)。父の晏弱 (晏桓子) も斉の大夫で、その死後に跡を継いだ。",
+     "en": "A man of Yiwei in Lai, Qi, style Pingzhong (Shiji). His father Yan Ruo was also a grandee of Qi, and he succeeded him on his death."
+    },
+    "house": {
+     "ja": "晏",
+     "en": "Yan"
+    }
    }
   ],
   [
@@ -6061,6 +6185,10 @@
     "origin": {
      "ja": "斉の田氏の庶流の出 (陳から斉へ逃れた田完の子孫)。[[p:晏嬰]]に推されて将となり、のち大司馬に任じられたので司馬穰苴と呼ばれる。",
      "en": "Of a lesser branch of the Tian of Qi (the descendants of Tian Wan, who fled from Chen to Qi). [[p:晏嬰|Yan Ying]] recommended him as general; made grand marshal (sima), he was called Sima Rangju."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
     }
    }
   ],
@@ -6081,7 +6209,15 @@
     ],
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "晋の羊舌氏で、羊舌職の子、名は肸、字は叔向。博学で知られ、晋の太子の傅を務めた。",
+     "en": "Of the Yangshe clan of Jin, son of Yangshe Zhi; named Xi, style Shuxiang. Known for his learning, he was tutor to the Jin heir."
+    },
+    "house": {
+     "ja": "羊舌",
+     "en": "Yangshe"
+    }
    }
   ],
   [
@@ -6106,7 +6242,15 @@
     "fame": 5,
     "parents": [
      "wu:寿夢"
-    ]
+    ],
+    "origin": {
+     "ja": "呉王寿夢の末子。賢いので父と兄たちが位を継がせようとしたが、辞して受けず、延陵に封じられて延陵季子と呼ばれた (『史記』)。",
+     "en": "Youngest son of King Shoumeng of Wu. So able that his father and brothers wanted him to reign, he refused, and was enfeoffed at Yanling — hence \"Ji Zi of Yanling\" (Shiji)."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -6150,7 +6294,15 @@
       "大司寇",
       "Minister of Justice"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "魯の昌平郷陬邑の人で、名は丘。先祖は宋の公族。父は叔梁紇、母は顔氏。幼くして父を失い貧しく、若いころ季氏の倉や家畜の番をした (『史記』)。",
+     "en": "A man of Zouyi in Changping, Lu, named Qiu; his forebears were of the ducal house of Song. His father was Shuliang He, his mother of the Yan. Fatherless and poor, he kept the Ji family's granaries and herds when young (Shiji)."
+    },
+    "house": {
+     "ja": "孔",
+     "en": "Kong"
+    }
    }
   ],
   [
@@ -6172,7 +6324,15 @@
      "wise",
      "content"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "『史記』は楚の苦県の人で、姓は李、名は耳、字は聃、周の書庫の役人だったとするが、別の人物とする説も並べて載せており、確かなことはわからない。",
+     "en": "The Shiji makes him a man of Ku in Chu, surnamed Li, named Er, style Dan, keeper of the Zhou archives — but it also gives other identifications, and nothing is certain."
+    },
+    "house": {
+     "ja": "李",
+     "en": "Li"
+    }
    }
   ],
   [
@@ -6215,6 +6375,10 @@
     "origin": {
      "ja": "楚の名門伍氏の出。祖父の[[p:伍挙]]は荘王を諫めた臣。父の[[p:伍奢]]が平王に殺され、兄の伍尚が父とともに死ぬ道を選ぶなか一人逃れ、宋・鄭を経て呉へ入り、仇を討つことを誓った。",
      "en": "Of the great Wu clan of Chu; his grandfather [[p:伍挙|Wu Ju]] was the minister who admonished King Zhuang. When King Ping put his father [[p:伍奢|Wu She]] to death and his brother Wu Shang chose to die with him, he fled — by way of Song and Zheng to Wu — vowing revenge."
+    },
+    "house": {
+     "ja": "伍",
+     "en": "Wu"
     }
    }
   ],
@@ -6240,6 +6404,10 @@
     "origin": {
      "ja": "斉の人 (『史記』)。兵法十三篇を携えて呉王[[p:闔閭]]に会い、宮中の女たちを兵として調練して見せて将に取り立てられた。[[p:伍子胥]]の推挙によるとも伝わる。",
      "en": "A man of Qi (Shiji). He came to King [[p:闔閭|Helü]] of Wu with his art of war in thirteen chapters, drilled the palace women as soldiers to show it, and was made general — on the recommendation of [[p:伍子胥|Wu Zixu]], some say."
+    },
+    "house": {
+     "ja": "孫",
+     "en": "Sun"
     }
    }
   ],
@@ -6268,7 +6436,15 @@
       "太宰",
       "Grand Steward"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "もとは晋の伯氏で、祖父の伯州犁が晋から楚へ逃れて仕えた。一族が楚で殺されたので呉へ逃れ、闔閭に仕えた (『左伝』『史記』)。",
+     "en": "Of the Bo clan, originally of Jin; his grandfather Bo Zhouli fled from Jin to serve Chu. When his family was killed in Chu he fled to Wu and served Helü (Zuozhuan, Shiji)."
+    },
+    "house": {
+     "ja": "伯",
+     "en": "Bo"
+    }
    }
   ],
   [
@@ -6288,7 +6464,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "楚の大夫で、[[p:伍子胥]]の友。伍子胥が逃げるとき「必ず楚を覆す」と言うと、「ならば私は必ず楚を存えさせる」と答えた (『史記』)。",
+     "en": "A grandee of Chu and a friend of [[p:伍子胥|Wu Zixu]]. When Wu Zixu fled saying \"I will overturn Chu\", he answered \"Then I will keep it standing\" (Shiji)."
+    },
+    "house": {
+     "ja": "申",
+     "en": "Shen"
+    }
    }
   ],
   [
@@ -6309,7 +6493,15 @@
     "tr": [
      "wise"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "『史記』は出自を記さない。楚の宛の人と伝わる (『越絶書』など後の書)。[[p:文種]]とともに越へ行き、句践に仕えた。",
+     "en": "The Shiji does not say where he came from; he is said to be a man of Wan in Chu (the Yuejue Shu and other later books). With [[p:文種|Wen Zhong]] he went to Yue and served Goujian."
+    },
+    "house": {
+     "ja": "范",
+     "en": "Fan"
+    }
    }
   ],
   [
@@ -6327,7 +6519,15 @@
      7,
      6
     ],
-    "end": "suicide"
+    "end": "suicide",
+    "origin": {
+     "ja": "『史記』では「大夫種」とだけ呼ばれる。姓は文で、楚の宛の令だったときに[[p:范蠡]]を見出し、ともに越へ行ったと伝わる (後の書による)。",
+     "en": "The Shiji calls him only \"Grandee Zhong\". Later books say his surname was Wen and that, as magistrate of Wan in Chu, he found [[p:范蠡|Fan Li]] and went to Yue with him."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -6349,7 +6549,15 @@
     "tr": [
      "charismatic"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "美女として『荘子』『墨子』に名が見え、『孟子』の「西子」も同じ人とされる。越の苧蘿山の薪売りの娘で、句践が呉王夫差に献じたという話は後の書 (『呉越春秋』など) の伝え。",
+     "en": "Her name appears as a byword for beauty in the Zhuangzi and Mozi, and the \"Xizi\" of the Mencius is taken to be her. That she was a woodseller's daughter of Mount Zhuluo in Yue whom Goujian gave to King Fuchai of Wu is told only in later books (Wu-Yue Chunqiu and others)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -6371,7 +6579,15 @@
      "builder",
      "genius"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "魯の人で、公輸は氏 (公輸般・魯班とも)。楚のために城攻めの雲梯を作ったが、宋を攻めるのを[[p:墨子]]に止められた (『墨子』公輸篇)。",
+     "en": "A man of Lu; Gongshu is his clan name (also Gongshu Ban or Lu Ban). He built scaling ladders for Chu, but [[p:墨子|Mozi]] talked Chu out of attacking Song (Mozi, \"Gongshu\")."
+    },
+    "house": {
+     "ja": "公輸",
+     "en": "Gongshu"
+    }
    }
   ],
   [
@@ -6387,7 +6603,15 @@
      "brave"
     ],
     "fame": 4,
-    "end": "suicide"
+    "end": "suicide",
+    "origin": {
+     "ja": "晋の人。はじめ范氏・中行氏に仕えたが重んじられず、[[p:智伯]]に仕えて厚く遇された (『史記』刺客列伝)。",
+     "en": "A man of Jin. He first served the Fan and Zhonghang houses without being valued, then served [[p:智伯|Zhibo]], who treated him generously (Shiji, Assassins)."
+    },
+    "house": {
+     "ja": "豫",
+     "en": "Yu"
+    }
    }
   ],
   [
@@ -6409,7 +6633,15 @@
      "kind",
      "scholar"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "名は翟。『史記』は宋の大夫とし、孔子と同じころとも後の人ともいう。魯の人とする説もある。",
+     "en": "Named Di. The Shiji calls him a grandee of Song, of Confucius's time or later; others make him a man of Lu."
+    },
+    "house": {
+     "ja": "墨",
+     "en": "Mo"
+    }
    }
   ],
   [
@@ -6430,7 +6662,15 @@
     "tr": [
      "reformer"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "李",
+     "en": "Li"
+    }
    }
   ],
   [
@@ -6457,7 +6697,15 @@
       "鄴の令",
       "Governor of Ye"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "西門",
+     "en": "Ximen"
+    }
    }
   ],
   [
@@ -6536,6 +6784,10 @@
     "origin": {
      "ja": "衛の左氏の人。家は千金の富があったが、仕官を求めて財を使い果たし、笑った郷里の者を斬って衛を出た。曽子に学び、魯・魏・楚に仕えた。",
      "en": "A man of Zuoshi in Wey. His family was rich, but he spent it all seeking office, killed the neighbours who mocked him and left Wey. He studied under Master Zeng and served Lu, Wei and Chu."
+    },
+    "house": {
+     "ja": "呉",
+     "en": "Wu"
     }
    }
   ],
@@ -6550,7 +6802,15 @@
     "from": 400,
     "tr": [
      "cynical"
-    ]
+    ],
+    "origin": {
+     "ja": "出自ははっきりしない (魏の人とする後の伝えがある)。『孟子』は「我が為にする」者として[[p:墨子]]と並べて退けた。",
+     "en": "His origins are unclear (later tradition makes him a man of Wei). The Mencius rejects him, alongside [[p:墨子|Mozi]], as one who lived \"for himself\"."
+    },
+    "house": {
+     "ja": "楊",
+     "en": "Yang"
+    }
    }
   ],
   [
@@ -6591,7 +6851,15 @@
       "大良造",
       "Grand Builder"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "衛の公族の庶子で、もとは姫姓、氏は公孫、名は鞅 (衛鞅とも)。刑名の学を好み、魏の宰相[[p:公叔痤]]に仕えた。公叔は死に際に彼を王に推したが用いられず、秦へ去った。",
+     "en": "A son of a lesser wife in the ducal house of Wey, of the Ji surname by descent, clan name Gongsun, named Yang (also Wei Yang). Drawn to the study of law, he served the Wei chancellor [[p:公叔痤|Gongshu Cuo]], who on his deathbed recommended him in vain; he left for Qin."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -6618,7 +6886,15 @@
       "相",
       "Chancellor"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "京の人で、もとは鄭の身分の低い臣 (『史記』)。刑名の術を学び、韓の昭侯に説いて相となった。",
+     "en": "A man of Jing, once a lowly servant of Zheng (Shiji). He studied the arts of law and statecraft, and won over Marquis Zhao of Han, who made him chancellor."
+    },
+    "house": {
+     "ja": "申",
+     "en": "Shen"
+    }
    }
   ],
   [
@@ -6644,6 +6920,10 @@
     "origin": {
      "ja": "魏に仕えて恵王の将となった。若いころ[[p:孫臏]]とともに兵法を学んだ (二人の師を[[p:鬼谷子]]とする言い伝えがある)。",
      "en": "He served Wei as King Hui's general. In his youth he studied the art of war with [[p:孫臏|Sun Bin]] (tradition makes [[p:鬼谷子|Guiguzi]] their teacher)."
+    },
+    "house": {
+     "ja": "龐",
+     "en": "Pang"
     }
    }
   ],
@@ -6676,6 +6956,10 @@
     "origin": {
      "ja": "[[p:孫武]]の子孫で、斉の阿と鄄の間に生まれた (『史記』)。ともに学んだ[[p:龐涓]]に妬まれ、魏で罪に落とされて両足を切られたが、斉の使者にひそかに連れ出された。",
      "en": "A descendant of [[p:孫武|Sun Wu]], born between E and Juan in Qi (Shiji). Envied by his fellow student [[p:龐涓|Pang Juan]], he was framed in Wei and had his feet cut off, but a Qi envoy smuggled him out."
+    },
+    "house": {
+     "ja": "孫",
+     "en": "Sun"
     }
    }
   ],
@@ -6697,6 +6981,10 @@
     "origin": {
      "ja": "斉の王族田氏の一門。競馬の賭けで[[p:孫臏]]の策を用いて勝ち、孫臏を威王に推した。",
      "en": "Of the royal Tian of Qi. He won a wager on horse races with [[p:孫臏|Sun Bin]]'s advice and recommended him to King Wei."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
     }
    }
   ],
@@ -6719,7 +7007,15 @@
      "genius",
      "kind"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "勃海郡鄭 (注は鄚とする) の人で、姓は秦、名は越人 (『史記』)。若いころ宿屋の主をしていて、客の長桑君から秘伝の医書と薬を授かった。",
+     "en": "A man of Zheng (Mao, say the notes) in Bohai, surnamed Qin, named Yueren (Shiji). As a young innkeeper he was given secret medical books and drugs by a guest, Master Changsang."
+    },
+    "house": {
+     "ja": "秦",
+     "en": "Qin"
+    }
    }
   ],
   [
@@ -6747,7 +7043,15 @@
      "wise",
      "just"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "鄒の人で、名は軻。子思の門人に学んだ (『史記』)。母が三度住まいを移した話は後の書 (『列女伝』) の伝え。",
+     "en": "A man of Zou, named Ke. He studied under the disciples of Zisi (Shiji). The tale of his mother moving house three times comes from a later book (Lienü Zhuan)."
+    },
+    "house": {
+     "ja": "孟",
+     "en": "Meng"
+    }
    }
   ],
   [
@@ -6763,7 +7067,15 @@
      "wise",
      "content"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "宋の蒙の人で、名は周。蒙の漆園の役人だった。楚の威王に宰相として招かれたが断った (『史記』)。",
+     "en": "A man of Meng in Song, named Zhou, once an official of the lacquer garden there. King Wei of Chu invited him to be chancellor, and he refused (Shiji)."
+    },
+    "house": {
+     "ja": "荘",
+     "en": "Zhuang"
+    }
    }
   ],
   [
@@ -6783,7 +7095,15 @@
     ],
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "宋の人とされる。魏の恵王に仕えて相となった。[[p:荘子]]の論敵で、親しい友でもあった。",
+     "en": "Said to be a man of Song. He served King Hui of Wei as chancellor. He was [[p:荘子|Zhuangzi]]'s sparring partner in argument, and his close friend."
+    },
+    "house": {
+     "ja": "恵",
+     "en": "Hui"
+    }
    }
   ],
   [
@@ -6808,7 +7128,15 @@
       "Grand Builder",
       "qin"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "魏の陰晋の人で、姓は公孫、名は衍 (『史記』)。官名から「犀首」と呼ばれた。はじめ秦で大良造となった。",
+     "en": "A man of Yinjin in Wei, surnamed Gongsun, named Yan (Shiji); called Xishou after his office. He first served Qin as Grand Builder."
+    },
+    "house": {
+     "ja": "公孫",
+     "en": "Gongsun"
+    }
    }
   ],
   [
@@ -6842,7 +7170,15 @@
       "相",
       "Chancellor"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "魏の人。[[p:蘇秦]]とともに[[p:鬼谷子]]に学んだとされる (『史記』。年代に疑いもある)。楚の宰相の宴で璧を盗んだと疑われて打たれ、妻に「舌はまだあるか」と問うた (『史記』)。",
+     "en": "A man of Wei, said to have studied with [[p:蘇秦|Su Qin]] under [[p:鬼谷子|Guiguzi]] (Shiji; the dates are doubted). Beaten on suspicion of stealing a jade at the Chu chancellor's feast, he asked his wife, \"Is my tongue still there?\" (Shiji)"
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -6870,7 +7206,15 @@
      "ambitious"
     ],
     "fame": 7,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "東周の洛陽の人で、[[p:鬼谷子]]に学んだとされる (『史記』。年代に疑いもある)。遊説に失敗して帰ると家族に笑われ、発奮して書を読み直した。",
+     "en": "A man of Luoyang in Eastern Zhou, said to have studied under [[p:鬼谷子|Guiguzi]] (Shiji; the dates are doubted). Coming home a failure from his travels, he was laughed at by his family, and went back to his books in earnest."
+    },
+    "house": {
+     "ja": "蘇",
+     "en": "Su"
+    }
    }
   ],
   [
@@ -6891,6 +7235,10 @@
     "origin": {
      "ja": "秦の人。司馬氏は周の史官の家で、その子孫に『史記』を書いた司馬遷が出た (『史記』太史公自序)。",
      "en": "A man of Qin. The Sima were a family of Zhou court historians, and among his descendants was Sima Qian, author of the Shiji (Shiji, the Grand Historian's own preface)."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
     }
    }
   ],
@@ -6911,7 +7259,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "郭",
+     "en": "Guo"
+    }
    }
   ],
   [
@@ -6933,7 +7289,15 @@
      "generous",
      "charismatic"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "斉の靖郭君田嬰の子で、名は文。母は妾で、五月五日に生まれたので父は育てるなと命じたが、母がひそかに育てた (『史記』)。",
+     "en": "Son of Tian Ying, Lord Jingguo of Qi, named Wen. Born to a concubine on the fifth day of the fifth month, he was to be left to die by his father's order, but his mother raised him in secret (Shiji)."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
+    }
    }
   ],
   [
@@ -6956,7 +7320,15 @@
      "scholar"
     ],
     "fame": 8,
-    "end": "suicide"
+    "end": "suicide",
+    "origin": {
+     "ja": "名は平で、楚の王家と同じ姓 (『史記』)。王家から分かれた屈氏の人で、懐王の左徒となった。",
+     "en": "Named Ping, of the same surname as the Chu royal house (Shiji): one of the Qu, a branch of the royal line. He became King Huai's Zuotu."
+    },
+    "house": {
+     "ja": "屈",
+     "en": "Qu"
+    }
    }
   ],
   [
@@ -6990,6 +7362,10 @@
     "origin": {
      "ja": "秦の郿の人 (『史記』)。兵を用いることに長け、昭王と[[p:魏冄]]に用いられた。",
      "en": "A man of Mei in Qin (Shiji). Skilled in war, he was employed by King Zhaoxiang and [[p:魏冄|Wei Ran]]."
+    },
+    "house": {
+     "ja": "白",
+     "en": "Bai"
     }
    }
   ],
@@ -7018,7 +7394,15 @@
       "相",
       "Chancellor"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "先祖は楚の人。秦の昭王の母[[p:宣太后]]の異父弟で、昭王を位に就け、宰相となった (『史記』)。",
+     "en": "Of Chu descent; half-brother, by a different father, of [[p:宣太后|Queen Dowager Xuan]], mother of King Zhaoxiang. He set the king on the throne and became his chancellor (Shiji)."
+    },
+    "house": {
+     "ja": "魏",
+     "en": "Wei"
+    }
    }
   ],
   [
@@ -7082,6 +7466,10 @@
     "origin": {
      "ja": "斉の王族田氏の遠い一門で、臨淄の市場の役人 (市掾) だった。燕軍に追われて安平に逃れたとき、車の軸の端を鉄で包ませて一族を無事に逃がし、名を知られた。",
      "en": "A distant kinsman of the royal Tian of Qi, a market clerk at Linzi. Fleeing the Yan army to Anping, he had his clan's axle ends sheathed in iron so their carts did not break, and got them away — and made his name."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
     }
    }
   ],
@@ -7111,7 +7499,15 @@
       "上卿",
       "High Minister"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "趙の人で、宦者令繆賢の家来 (舎人) だった。繆賢に推され、和氏の璧を持って秦へ使いした (『史記』)。",
+     "en": "A man of Zhao, a retainer of Miao Xian, chief of the eunuchs. On Miao Xian's recommendation he carried the jade of He to Qin (Shiji)."
+    },
+    "house": {
+     "ja": "藺",
+     "en": "Lin"
+    }
    }
   ],
   [
@@ -7138,7 +7534,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "出自は記録に無い (『史記』は「趙の良将」とだけ記す)。恵文王の代に斉を討って上卿となった。晩年は魏・楚へ移り、楚の寿春で没した。",
+     "en": "Their origins are not on record (the Shiji says only \"a fine general of Zhao\"). Under King Huiwen he made war on Qi and was raised to high minister. In old age he went to Wei and then Chu, and died at Shouchun in Chu."
+    },
+    "house": {
+     "ja": "廉",
+     "en": "Lian"
+    }
    }
   ],
   [
@@ -7166,6 +7570,10 @@
     "origin": {
      "ja": "趙の田租を取り立てる役人だった。[[p:平原君]]の家が租を納めないので、その家の者九人を法どおり斬った。平原君は怒って彼を殺そうとしたが、趙奢に説かれて賢いと認め、恵文王に推した。",
      "en": "A collector of land tax in Zhao. When [[p:平原君|Lord Pingyuan]]'s household would not pay, he executed nine of its men by the law. Lord Pingyuan was furious and meant to kill him, but Zhao She talked him round; he called him able and recommended him to King Huiwen."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
     }
    }
   ],
@@ -7194,7 +7602,15 @@
       "相 (応侯)",
       "Chancellor (Marquis of Ying)"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "魏の人で、字は叔。魏の大夫須賈に仕えたが、斉と通じたと疑われ宰相魏斉に打たれて死にかけた。[[p:鄭安平]]にかくまわれ、張禄と名を変えて秦へ逃れた (『史記』)。",
+     "en": "A man of Wei, style Shu. Serving the grandee Xu Jia, he was suspected of dealing with Qi and beaten near to death by the chancellor Wei Qi; hidden by [[p:鄭安平|Zheng Anping]], he fled to Qin as \"Zhang Lu\" (Shiji)."
+    },
+    "house": {
+     "ja": "范",
+     "en": "Fan"
+    }
    }
   ],
   [
@@ -7217,7 +7633,15 @@
     ],
     "parents": [
      "zhao:武霊王"
-    ]
+    ],
+    "origin": {
+     "ja": "趙の武霊王の子で、恵文王の弟、名は勝。食客数千人を抱えた戦国四君の一人 (『史記』)。",
+     "en": "Son of King Wuling of Zhao and younger brother of King Huiwen, named Sheng. One of the Four Lords of the Warring States, with several thousand retainers (Shiji)."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    }
    }
   ],
   [
@@ -7238,7 +7662,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "[[p:平原君]]の食客で、三年いても目立たなかった。楚への使いの供に自ら名乗り出て、「錐は袋に入れれば先が突き出る」と言った (『史記』)。",
+     "en": "A retainer of [[p:平原君|Lord Pingyuan]] who had gone unnoticed for three years. He put himself forward for the mission to Chu: \"an awl in a bag soon pokes through\" (Shiji)."
+    },
+    "house": {
+     "ja": "毛",
+     "en": "Mao"
+    }
    }
   ],
   [
@@ -7267,6 +7699,10 @@
     "origin": {
      "ja": "魏の昭王の子で、安釐王の異母弟。名は無忌。食客三千人を抱えた戦国四君の一人。",
      "en": "Son of King Zhao of Wei and half-brother of King Anxi, named Wuji. One of the Four Lords of the Warring States, with three thousand retainers."
+    },
+    "house": {
+     "ja": "魏",
+     "en": "Wei"
     }
    }
   ],
@@ -7294,7 +7730,15 @@
       "令尹",
       "Chief Minister (Lingyin)"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "楚の人で、姓は黄、名は歇。諸国に学んで見聞が広く、頃襄王に仕えた。秦に人質となった太子完 (のちの考烈王) を逃がし帰した (『史記』)。",
+     "en": "A man of Chu, surnamed Huang, named Xie. Widely travelled and learned, he served King Qingxiang, and got Crown Prince Wan (later King Kaolie) away from captivity in Qin (Shiji)."
+    },
+    "house": {
+     "ja": "黄",
+     "en": "Huang"
+    }
    }
   ],
   [
@@ -7323,6 +7767,10 @@
     "origin": {
      "ja": "名将[[p:趙奢]]の子。幼いころから兵法を学び、父と論じて負けなかったが、父は「兵は死地なのに、括は軽々しく言う」と危ぶんだ。",
      "en": "Son of the great general [[p:趙奢|Zhao She]]. He studied the art of war from boyhood and could out-argue his father, who worried: \"War is a place of death, and Kuo speaks of it lightly.\""
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
     }
    }
   ],
@@ -7337,7 +7785,15 @@
     "from": 290,
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "趙の人 (『史記』)。[[p:平原君]]の客となった。「白馬は馬にあらず」の論で知られる。",
+     "en": "A man of Zhao (Shiji) and a guest of [[p:平原君|Lord Pingyuan]], known for the argument that \"a white horse is not a horse\"."
+    },
+    "house": {
+     "ja": "公孫",
+     "en": "Gongsun"
+    }
    }
   ],
   [
@@ -7351,7 +7807,15 @@
     "from": 280,
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "斉の人 (『史記』)。五つの徳 (五行) の巡りで王朝の移り変わりを説き、燕の昭王に師として迎えられた。",
+     "en": "A man of Qi (Shiji). He explained the rise and fall of dynasties by the cycle of the five powers, and King Zhao of Yan received him as his teacher."
+    },
+    "house": {
+     "ja": "鄒",
+     "en": "Zou"
+    }
    }
   ],
   [
@@ -7379,7 +7843,15 @@
      "wise",
      "scholar"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "趙の人で、名は況。五十歳で初めて斉に遊学し、稷下で三度祭酒を務めた (『史記』)。荀卿・孫卿とも呼ばれる。",
+     "en": "A man of Zhao, named Kuang. He first came to study in Qi at fifty and three times led the rites at Jixia (Shiji). Also called Xun Qing or Sun Qing."
+    },
+    "house": {
+     "ja": "荀",
+     "en": "Xun"
+    }
    }
   ],
   [
@@ -7400,6 +7872,10 @@
     "origin": {
      "ja": "斉の人。昭王の代に斉から秦へ来て仕えた。子が[[p:蒙武]]、孫が[[p:蒙恬]]・蒙毅で、三代にわたって秦の将となった。",
      "en": "A man of Qi who came to serve Qin under King Zhaoxiang. His son was [[p:蒙武|Meng Wu]], his grandsons [[p:蒙恬|Meng Tian]] and Meng Yi: three generations of Qin generals."
+    },
+    "house": {
+     "ja": "蒙",
+     "en": "Meng"
     }
    }
   ],
@@ -7430,7 +7906,15 @@
       "相国",
       "Chancellor of State"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "陽翟の大商人 (『史記』。『戦国策』は濮陽の人とする)。邯鄲で人質になっていた秦の子楚を見て、「奇貨居くべし」と言って援けた。",
+     "en": "A great merchant of Yangdi (Shiji; the Zhanguoce says Puyang). Seeing Zichu, a Qin hostage in Handan, he backed him: \"a rare good worth hoarding\"."
+    },
+    "house": {
+     "ja": "呂",
+     "en": "Lü"
+    }
    }
   ],
   [
@@ -7463,6 +7947,10 @@
     "origin": {
      "ja": "趙の北の辺境を守る将 (『史記』に「趙の北辺の良将」)。代・雁門に駐屯して匈奴に備え、兵をいたわり、のろしを固く守らせた。",
      "en": "Zhao's general on the northern frontier (\"a fine general of Zhao's northern march\", Shiji). Stationed at Dai and Yanmen against the Xiongnu, he cared for his men and kept the beacons strictly."
+    },
+    "house": {
+     "ja": "李",
+     "en": "Li"
     }
    }
   ],
@@ -7486,7 +7974,15 @@
      "scholar"
     ],
     "fame": 7,
-    "end": "poison"
+    "end": "poison",
+    "origin": {
+     "ja": "韓の公子の一人。刑名法術の学を好んだ。生まれつき吃音で話は不得手だったが書くことに長け、[[p:李斯]]とともに[[p:荀子]]に学んだ (『史記』)。",
+     "en": "One of the princes of Han, drawn to law and statecraft. He stammered and could not speak well, but wrote superbly; he studied with [[p:李斯|Li Si]] under [[p:荀子|Xunzi]] (Shiji)."
+    },
+    "house": {
+     "ja": "韓",
+     "en": "Han"
+    }
    }
   ],
   [
@@ -7514,7 +8010,15 @@
       "廷尉",
       "Commandant of Justice"
      ]
-    ]
+    ],
+    "origin": {
+     "ja": "楚の上蔡の人。若いころ郡の小役人で、便所の鼠と倉の鼠を見比べて、人も居場所次第だと嘆いた。[[p:荀子]]に学んで秦へ行き、[[p:呂不韋]]の舎人となった (『史記』)。",
+     "en": "A man of Shangcai in Chu. A petty clerk when young, he compared the rats of the privy with the rats of the granary: a man too is made by where he stands. He studied under [[p:荀子|Xunzi]], went to Qin and became a retainer of [[p:呂不韋|Lü Buwei]] (Shiji)."
+    },
+    "house": {
+     "ja": "李",
+     "en": "Li"
+    }
    }
   ],
   [
@@ -7539,6 +8043,10 @@
     "origin": {
      "ja": "秦の頻陽の東郷の人。若いころから兵法を好み、秦王政に仕えた。",
      "en": "A man of Dongxiang in Pinyang, Qin. He loved the art of war from his youth and served King Zheng."
+    },
+    "house": {
+     "ja": "王",
+     "en": "Wang"
     }
    }
   ],
@@ -7563,6 +8071,10 @@
     "origin": {
      "ja": "[[p:王翦]]の子。父とともに秦の統一の戦いを率いた。",
      "en": "Son of [[p:王翦|Wang Jian]]; with his father he led Qin's wars of unification."
+    },
+    "house": {
+     "ja": "王",
+     "en": "Wang"
     }
    }
   ],
@@ -7587,6 +8099,10 @@
     "origin": {
      "ja": "魏の大梁の人。秦へ来て秦王政に説き、国尉 (軍の長) に任じられた。兵書『尉繚子』は彼の名を冠する。",
      "en": "A man of Daliang in Wei. He came to Qin, counselled King Zheng and was made commander-in-chief (guowei). The military book Weiliaozi bears his name."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -7609,7 +8125,15 @@
      "brave"
     ],
     "fame": 6,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "衛の人で、先祖は斉の人。衛では慶卿、燕では荊卿と呼ばれた。読書と剣を好み、燕の市で犬の屠殺人や[[p:高漸離]]と酒を飲んだ (『史記』刺客列伝)。",
+     "en": "A man of Wey of Qi descent, called Qing Qing in Wey and Jing Qing in Yan. Fond of books and the sword, he drank in the Yan market with a dog butcher and [[p:高漸離|Gao Jianli]] (Shiji, Assassins)."
+    },
+    "house": {
+     "ja": "荊",
+     "en": "Jing"
+    }
    }
   ],
   [
@@ -7640,7 +8164,11 @@
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "荀",
+     "en": "Xun"
+    }
    }
   ],
   [
@@ -7664,6 +8192,10 @@
     "origin": {
      "ja": "晋の[[p:先軫]]の一族 (先氏)。",
      "en": "Of the Xian clan of Jin, kin of [[p:先軫|Xian Zhen]]."
+    },
+    "house": {
+     "ja": "先",
+     "en": "Xian"
     }
    }
   ],
@@ -7696,7 +8228,11 @@
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "士",
+     "en": "Shi"
+    }
    }
   ],
   [
@@ -7713,7 +8249,15 @@
      4,
      7,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "楚の伍氏で、伍参の子とされる (『左伝』の注)。椒挙とも呼ばれる。孫に[[p:伍子胥]]がいる。『史記』は荘王を諫めた人とするが、『左伝』では康王・霊王のころの人。",
+     "en": "Of the Wu clan of Chu, said to be a son of Wu Can (commentary on the Zuozhuan); also called Jiao Ju. His grandson was [[p:伍子胥|Wu Zixu]]. The Shiji has him admonishing King Zhuang, but in the Zuozhuan he belongs to the time of Kings Kang and Ling."
+    },
+    "house": {
+     "ja": "伍",
+     "en": "Wu"
+    }
    }
   ],
   [
@@ -7734,6 +8278,14 @@
     "tr": [
      "greedy"
     ],
+    "origin": {
+     "ja": "楚の王族で、字は子常。荘王の子の公子貞 (子囊) の孫とされ (『左伝』の注)、その字から囊氏を称した。",
+     "en": "Of the Chu royal house, style Zichang. Said to be a grandson of Prince Zhen (Zinang), son of King Zhuang (commentary on the Zuozhuan), from whose style the Nang clan took its name."
+    },
+    "house": {
+     "ja": "囊",
+     "en": "Nang"
+    },
     "offices": [
      [
       519,
@@ -7760,7 +8312,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は『左伝』に無いが、後の姓氏の書は楚の王族で荘王の孫 (曾孫とも) と伝える。楚の左司馬で、柏挙の戦いののち呉軍と戦って死んだ (『左伝』定公四年)。子は葉公沈諸梁 (子高) と伝わる。",
+     "en": "The Zuozhuan gives no origin; later books of clans say he was of the Chu royal house, a grandson (or great-grandson) of King Zhuang. Chu's marshal of the left, he died fighting the Wu army after Boju (Zuozhuan, Duke Ding 4). His son is said to have been Shen Zhuliang (Zigao), the Duke of She."
+    },
+    "house": {
+     "ja": "沈",
+     "en": "Shen"
+    }
    }
   ],
   [
@@ -7780,7 +8340,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。秦の昭王の代の将。長平ではじめ秦軍を率い、[[p:白起]]がひそかに上将軍となると副将 (尉裨将) に回った。のち[[p:王陵]]に代わって邯鄲を攻めた (『史記』白起列伝)。",
+     "en": "Their origins are not on record. A Qin general under King Zhaoxiang. He first led the Qin army at Changping, then served as deputy when [[p:白起|Bai Qi]] was secretly made supreme commander; later he took over the siege of Handan from [[p:王陵|Wang Ling]] (Shiji, Biography of Bai Qi)."
+    },
+    "house": {
+     "ja": "王",
+     "en": "Wang"
+    }
    }
   ],
   [
@@ -7800,7 +8368,15 @@
     ],
     "tr": [
      "genius"
-    ]
+    ],
+    "origin": {
+     "ja": "『史記』に[[p:蘇秦]]・[[p:張儀]]の師「鬼谷先生」として名が出るだけで、名も出自も記録に無い (王詡という名は後の伝え)。",
+     "en": "He appears in the Shiji only as \"Master of Ghost Valley\", teacher of [[p:蘇秦|Su Qin]] and [[p:張儀|Zhang Yi]]; neither his name nor his origins are on record (the name Wang Xu is a later tradition)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -7820,7 +8396,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "魏の隠士。七十歳で家は貧しく、大梁の夷門の門番をしていた。[[p:信陵君]]が自ら車を御して迎えた (『史記』)。",
+     "en": "A recluse of Wei: seventy, poor, and keeper of the Yi Gate of Daliang. [[p:信陵君|Lord Xinling]] drove the carriage himself to fetch him (Shiji)."
+    },
+    "house": {
+     "ja": "侯",
+     "en": "Hou"
+    }
    }
   ],
   [
@@ -7840,7 +8424,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "大梁の市場の屠殺人。力が強く、[[p:侯嬴]]が賢者として[[p:信陵君]]に推した。のち鉄の椎で[[p:晋鄙]]を打ち殺した (『史記』)。",
+     "en": "A butcher in the Daliang market, of great strength, whom [[p:侯嬴|Hou Ying]] recommended to [[p:信陵君|Lord Xinling]] as a worthy. He later killed [[p:晋鄙|Jin Bi]] with an iron hammer (Shiji)."
+    },
+    "house": {
+     "ja": "朱",
+     "en": "Zhu"
+    }
    }
   ],
   [
@@ -7860,7 +8452,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "筑 (弦を打って鳴らす楽器) の名手。燕の市で[[p:荊軻]]と酒を飲み、筑を打って荊軻が歌った (『史記』)。",
+     "en": "A master of the zhu, a struck string instrument. He drank with [[p:荊軻|Jing Ke]] in the Yan market, playing while Jing Ke sang (Shiji)."
+    },
+    "house": {
+     "ja": "高",
+     "en": "Gao"
+    }
    }
   ],
   [
@@ -7880,7 +8480,15 @@
     ],
     "parents": [
      "yan:燕王喜"
-    ]
+    ],
+    "origin": {
+     "ja": "燕王喜の太子。趙で人質だったとき、趙で生まれた秦王政と仲がよかったが、のち秦の人質となって冷たく扱われ、逃げ帰った (『史記』)。",
+     "en": "Heir of King Xi of Yan. As a hostage in Zhao he had been friends with the Zhao-born King Zheng of Qin; later, a hostage in Qin and coldly treated, he escaped home (Shiji)."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -7904,6 +8512,10 @@
     "origin": {
      "ja": "秦の将だったが、罪を得て燕へ逃れ、太子丹にかくまわれた。",
      "en": "A Qin general who fell into disgrace and fled to Yan, where Crown Prince Dan sheltered him."
+    },
+    "house": {
+     "ja": "樊",
+     "en": "Fan"
     }
    }
   ],
@@ -7921,7 +8533,15 @@
      2,
      5,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -7938,7 +8558,15 @@
      2,
      4,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "鍾",
+     "en": "Zhong"
+    }
    }
   ],
   [
@@ -7958,7 +8586,15 @@
     ],
     "parents": [
      "zhao:成侯"
-    ]
+    ],
+    "origin": {
+     "ja": "趙の公族で、武霊王の叔父 (『史記』)。胡服に反対して病と称したが、王が自ら家を訪ねて説くと、胡服を着て朝廷に出た。",
+     "en": "Of the Zhao ruling house, uncle of King Wuling (Shiji). He opposed nomad dress and pleaded illness, but when the king came to his house to persuade him, he came to court in it."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    }
    }
   ],
   [
@@ -7975,7 +8611,15 @@
      2,
      7,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "鄭の人。竹簡に記した刑書「竹刑」を作り、のちに執政の駟歂に殺されたが、その竹刑は用いられた (『左伝』)。",
+     "en": "A man of Zheng. He wrote a code of punishments on bamboo; the minister Si Chuan put him to death but kept his code in use (Zuozhuan)."
+    },
+    "house": {
+     "ja": "鄧",
+     "en": "Deng"
+    }
    }
   ],
   [
@@ -7995,7 +8639,15 @@
     ],
     "tr": [
      "greedy"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "郭",
+     "en": "Guo"
+    }
    }
   ],
   [
@@ -8019,6 +8671,10 @@
     "origin": {
      "ja": "斉から秦へ来た[[p:蒙驁]]の孫、[[p:蒙武]]の子。若いころは獄の文書を学び、のち将となった。",
      "en": "Grandson of [[p:蒙驁|Meng Ao]], who had come to Qin from Qi, and son of [[p:蒙武|Meng Wu]]. As a young man he studied the law and its records, and later became a general."
+    },
+    "house": {
+     "ja": "蒙",
+     "en": "Meng"
     }
    }
   ],
@@ -8040,7 +8696,15 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "origin": {
+     "ja": "趙の豪家の娘で、舞いの上手な[[p:呂不韋]]の姫だった。子楚に見初められて嫁ぎ、政 (始皇帝) を産んだ (『史記』)。",
+     "en": "Daughter of a powerful family of Zhao and [[p:呂不韋|Lü Buwei]]'s dancing concubine. Zichu fell for her, married her, and she bore him Zheng, the future First Emperor (Shiji)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -8060,7 +8724,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。鄭の荘公の将で、繻葛の戦いで周の桓王の肩を射た (『左伝』桓公五年)。",
+     "en": "Their origins are not on record. A general of Duke Zhuang of Zheng, who shot King Huan of Zhou in the shoulder at Xuge (Zuozhuan, Duke Huan 5)."
+    },
+    "house": {
+     "ja": "祝",
+     "en": "Zhu"
+    }
    }
   ],
   [
@@ -8081,7 +8753,15 @@
     "tr": [
      "ambitious"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "鄭の人で、名は足、字は仲。祭の地の国境役人だったが、荘公に寵されて卿となった (『左伝』)。",
+     "en": "A man of Zheng, named Zu, style Zhong. A border warden at Zhai, he won Duke Zhuang's favour and became a minister (Zuozhuan)."
+    },
+    "house": {
+     "ja": "祭",
+     "en": "Zhai"
+    }
    }
   ],
   [
@@ -8102,6 +8782,10 @@
     "origin": {
      "ja": "周の都の近くを領する虢の君で、周王の卿士 (朝廷の重臣) を務めた。",
      "en": "Lord of Guo, a fief near the Zhou capital, and a high minister at the Zhou court."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
     }
    }
   ],
@@ -8126,7 +8810,15 @@
     "fame": 4,
     "parents": [
      "song:桓公"
-    ]
+    ],
+    "origin": {
+     "ja": "宋の桓公の子で、襄公の庶兄、字は子魚。桓公の病のとき太子茲父 (襄公) が位を譲ろうとしたが、辞して受けなかった (『左伝』)。",
+     "en": "Son of Duke Huan of Song and elder half-brother of Duke Xiang, style Ziyu. When the heir Zifu (Duke Xiang) offered him the succession during their father's illness, he declined (Zuozhuan)."
+    },
+    "house": {
+     "ja": "子",
+     "en": "Zi"
+    }
    }
   ],
   [
@@ -8154,6 +8846,10 @@
     "origin": {
      "ja": "秦の賢臣[[p:百里奚]]の子と伝わる (『史記』)。",
      "en": "Said to be a son of [[p:百里奚|Baili Xi]], the wise minister of Qin (Shiji)."
+    },
+    "house": {
+     "ja": "百里",
+     "en": "Baili"
     }
    }
   ],
@@ -8178,6 +8874,10 @@
     "origin": {
      "ja": "秦の老臣[[p:蹇叔]]の子と伝わる (『史記』)。",
      "en": "Said to be a son of [[p:蹇叔|Jian Shu]], the old minister of Qin (Shiji)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -8202,6 +8902,10 @@
     "origin": {
      "ja": "秦の老臣[[p:蹇叔]]の子と伝わる (『史記』)。殽の戦いに出る子らを、蹇叔は泣いて見送った。",
      "en": "Said to be a son of [[p:蹇叔|Jian Shu]] (Shiji), who wept as he saw his sons off to Xiao."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -8233,7 +8937,11 @@
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "郤",
+     "en": "Xi"
+    }
    }
   ],
   [
@@ -8265,7 +8973,11 @@
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "韓",
+     "en": "Han"
+    }
    }
   ],
   [
@@ -8296,7 +9008,11 @@
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "欒",
+     "en": "Luan"
+    }
    }
   ],
   [
@@ -8327,7 +9043,11 @@
       "司馬",
       "Marshal"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "羋",
+     "en": "Mi"
+    }
    }
   ],
   [
@@ -8348,6 +9068,10 @@
     "origin": {
      "ja": "斉の名門国氏の人。国氏は高氏とともに周王が斉に置いた上卿の家。",
      "en": "Of the great Guo clan of Qi, one of the two houses (with the Gao) that the Zhou king set over Qi as its high ministers."
+    },
+    "house": {
+     "ja": "国",
+     "en": "Guo"
     }
    }
   ],
@@ -8365,7 +9089,15 @@
      5,
      4,
      4
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。魏の将で、伊闕で[[p:白起]]に敗れて捕らえられた (『史記』白起列伝)。『戦国策』の犀武と同じ人とされる。",
+     "en": "Their origins are not on record. A Wei general, defeated and taken by [[p:白起|Bai Qi]] at Yique (Shiji, Biography of Bai Qi). He is taken to be the Xiwu of the Zhanguoce."
+    },
+    "house": {
+     "ja": "公孫",
+     "en": "Gongsun"
+    }
    }
   ],
   [
@@ -8385,7 +9117,15 @@
     ],
     "tr": [
      "foolish"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。燕の恵王が[[p:楽毅]]に代えて将とした人で、即墨で[[p:田単]]に敗れて討たれた。",
+     "en": "Their origins are not on record. The man King Hui of Yan put in [[p:楽毅|Yue Yi]]'s place; [[p:田単|Tian Dan]] beat and killed him at Jimo."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -8402,7 +9142,15 @@
      6,
      4,
      4
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。秦の昭王の代の将で、閼与を攻めて取れず (『史記』秦本紀)、救いに来た[[p:趙奢]]に大敗した (廉頗藺相如列伝)。",
+     "en": "Their origins are not on record. A Qin general under King Zhaoxiang who attacked Yuyu without taking it (Shiji, Annals of Qin) and was routed by [[p:趙奢|Zhao She]], who came to its relief (Biographies of Lian Po and Lin Xiangru)."
+    },
+    "house": {
+     "ja": "胡",
+     "en": "Hu"
+    }
    }
   ],
   [
@@ -8428,6 +9176,10 @@
     "origin": {
      "ja": "秦の将。その子孫に、漢の「飛将軍」李広が出た (『史記』李将軍列伝)。",
      "en": "A Qin general. Among his descendants was Li Guang, the \"flying general\" of Han (Shiji, Biography of General Li)."
+    },
+    "house": {
+     "ja": "李",
+     "en": "Li"
     }
    }
   ],
@@ -8454,6 +9206,10 @@
     "origin": {
      "ja": "代々楚の将を出した項氏の人で、項に封じられた家。子が項梁、孫が項羽。",
      "en": "Of the Xiang, a family that gave Chu its generals generation after generation, enfeoffed at Xiang. His son was Xiang Liang, his grandson Xiang Yu."
+    },
+    "house": {
+     "ja": "項",
+     "en": "Xiang"
     }
    }
   ],
@@ -8474,7 +9230,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "衛の大夫。子の石厚が州吁の弑逆に加わったので、陳に頼んで州吁とともに捕らえさせ、我が子を殺させた (「大義、親を滅す」『左伝』)。",
+     "en": "A grandee of Wey. When his son Shi Hou joined Zhouxu's murder of the duke, he had Chen seize them both and put his own son to death (\"for a great cause, he destroyed his kin\", Zuozhuan)."
+    },
+    "house": {
+     "ja": "石",
+     "en": "Shi"
+    }
    }
   ],
   [
@@ -8494,7 +9258,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "虞の大夫。幼いころから虞公のそばで育ったので、強く諫めても聞き入れられないと見られていた (『左伝』)。",
+     "en": "A grandee of Yu. Raised from childhood at the Duke of Yu's side, he was thought too familiar to be heeded however hard he pressed (Zuozhuan)."
+    },
+    "house": {
+     "ja": "宮",
+     "en": "Gong"
+    }
    }
   ],
   [
@@ -8515,7 +9287,15 @@
     "tr": [
      "ambitious"
     ],
-    "end": "suicide"
+    "end": "suicide",
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "里",
+     "en": "Li"
+    }
    }
   ],
   [
@@ -8537,6 +9317,14 @@
      "generous"
     ],
     "fame": 4,
+    "origin": {
+     "ja": "楚の若敖氏で、闘伯比の子。父と䢵の君の娘の密通で生まれたので沢に捨てられたが、虎が乳を与えたので、乳 (穀) と虎 (於菟) から名づけられた (『左伝』)。字は子文。",
+     "en": "Of the Ruo'ao clan of Chu, son of Dou Bobi. Born of his father's secret affair with a daughter of the lord of Yun, he was left in a marsh, where a tigress suckled him — so he was named \"suckled\" (gou) and \"tiger\" (wutu) (Zuozhuan). His style was Ziwen."
+    },
+    "house": {
+     "ja": "闘",
+     "en": "Dou"
+    },
     "offices": [
      [
       664,
@@ -8563,7 +9351,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "魯の公族臧氏で、名は辰。臧氏は魯の孝公の子孫の家。",
+     "en": "Of the Zang, a branch of the ducal house of Lu descended from Duke Xiao; his name was Chen."
+    },
+    "house": {
+     "ja": "臧",
+     "en": "Zang"
+    }
    }
   ],
   [
@@ -8583,7 +9379,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "鄭の人。老いるまで用いられなかったが、秦・晋に囲まれたとき佚之狐に推され、夜、縄で城壁を降りて秦伯を説いた (『左伝』)。",
+     "en": "A man of Zheng, unused until old age. When Qin and Jin besieged Zheng, Yi Zhihu recommended him; he was let down the wall by rope at night and talked the Earl of Qin round (Zuozhuan)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -8604,6 +9408,14 @@
     "tr": [
      "content"
     ],
+    "origin": {
+     "ja": "魯の三桓の一つ季孫氏で、名は行父。季友の孫。倹約で知られ、妾に絹を着せず、馬に穀物を食わせなかった (『左伝』)。",
+     "en": "Of the Jisun, one of the Three Huan houses of Lu, named Xingfu; grandson of Ji You. Known for thrift, his concubines wore no silk and his horses ate no grain (Zuozhuan)."
+    },
+    "house": {
+     "ja": "季孫",
+     "en": "Jisun"
+    },
     "offices": [
      [
       609,
@@ -8627,7 +9439,15 @@
      5,
      7,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "宋の華氏で、戴公の子孫の家。華御事の子とされる (『左伝』の注)。",
+     "en": "Of the Hua of Song, a house descended from Duke Dai; said to be a son of Hua Yushi (commentary on the Zuozhuan)."
+    },
+    "house": {
+     "ja": "華",
+     "en": "Hua"
+    }
    }
   ],
   [
@@ -8653,7 +9473,15 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "origin": {
+     "ja": "楚の王族屈氏の人で、字は子霊、申公。[[p:夏姫]]を連れて晋へ逃れ、自ら願って晋の使いとして呉へ行き、戦車の戦い方を教えた (『左伝』)。",
+     "en": "Of the Qu, a royal clan of Chu, style Ziling, Duke of Shen. He fled to Jin with [[p:夏姫|Xia Ji]], and at his own request went to Wu as Jin's envoy and taught it to fight with chariots (Zuozhuan)."
+    },
+    "house": {
+     "ja": "屈",
+     "en": "Qu"
+    }
    }
   ],
   [
@@ -8687,7 +9515,15 @@
     ],
     "parents": [
      "zheng:穆公"
-    ]
+    ],
+    "origin": {
+     "ja": "鄭の穆公の娘で、陳の大夫夏御叔に嫁ぎ、夏徴舒を産んだ (『左伝』)。",
+     "en": "Daughter of Duke Mu of Zheng. She married Xia Yushu, a grandee of Chen, and bore Xia Zhengshu (Zuozhuan)."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -8709,6 +9545,14 @@
      "just"
     ],
     "fame": 4,
+    "origin": {
+     "ja": "晋の魏氏で、[[p:魏犨]]の子とも (『左伝』の注)、孫とも (『史記』) される。悼公に戎と和を結ぶよう説いた (『左伝』)。",
+     "en": "Of the Wei clan of Jin, said to be a son (commentary on the Zuozhuan) or a grandson (Shiji) of [[p:魏犨|Wei Chou]]. He persuaded Duke Dao to make peace with the Rong (Zuozhuan)."
+    },
+    "house": {
+     "ja": "魏",
+     "en": "Wei"
+    },
     "offices": [
      [
       570,
@@ -8735,7 +9579,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "晋の祁氏で、公族の流れとされる (注による)。退くとき後任に仇の解狐を推し、解狐が死ぬと我が子の祁午を推した (『左伝』)。",
+     "en": "Of the Qi of Jin, said to be a branch of the ducal house (commentary). Retiring, he named his enemy Xie Hu as successor, and when Xie Hu died, his own son Qi Wu (Zuozhuan)."
+    },
+    "house": {
+     "ja": "祁",
+     "en": "Qi"
+    }
    }
   ],
   [
@@ -8757,6 +9609,14 @@
      "kind"
     ],
     "fame": 4,
+    "origin": {
+     "ja": "趙朔の子で、[[p:趙盾]]の孫。趙氏が討たれたとき、母 (成公の娘、『史記』では姉) に従って公宮にいて助かり、[[p:韓厥]]の進言で趙氏を継いだ (『左伝』)。『史記』の程嬰らが孤児を救う話は別伝。",
+     "en": "Son of Zhao Shuo and grandson of [[p:趙盾|Zhao Dun]]. When the Zhao were struck down he survived with his mother (Duke Cheng's daughter; his sister in the Shiji) in the ducal palace, and on [[p:韓厥|Han Jue]]'s advice was restored as heir (Zuozhuan). The Shiji's story of Cheng Ying saving the orphan is a different account."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    },
     "offices": [
      [
       548,
@@ -8780,7 +9640,15 @@
      4,
      8,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "魯の三桓の一つ叔孫氏で、叔孫得臣の子、穆叔とも。一時斉へ逃れていたが、兄の僑如が追われた後に呼び戻されて家を継いだ (『左伝』)。",
+     "en": "Of the Shusun, one of the Three Huan houses of Lu, son of Shusun Dechen, also called Mushu. He had gone to Qi, but was called back to head the house after his brother Qiaoru was driven out (Zuozhuan)."
+    },
+    "house": {
+     "ja": "叔孫",
+     "en": "Shusun"
+    }
    }
   ],
   [
@@ -8802,7 +9670,15 @@
      "ambitious",
      "cruel"
     ],
-    "end": "suicide"
+    "end": "suicide",
+    "origin": {
+     "ja": "斉の崔氏で、丁公の子孫の家とされる。若いころ恵公に寵されたが、恵公の死後に国氏・高氏に追われて衛へ逃れた (『左伝』)。",
+     "en": "Of the Cui of Qi, a house said to descend from Duke Ding. Favoured by Duke Hui when young, he was driven out to Wey by the Guo and Gao after the duke died (Zuozhuan)."
+    },
+    "house": {
+     "ja": "崔",
+     "en": "Cui"
+    }
    }
   ],
   [
@@ -8823,7 +9699,15 @@
     "tr": [
      "just"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "[[p:伍挙]]の子とされ、[[p:伍子胥]]の父。平王の太子建の師 (太傅) となった (『左伝』『史記』)。",
+     "en": "Said to be a son of [[p:伍挙|Wu Ju]]; father of [[p:伍子胥|Wu Zixu]] and tutor to Jian, King Ping's heir (Zuozhuan, Shiji)."
+    },
+    "house": {
+     "ja": "伍",
+     "en": "Wu"
+    }
    }
   ],
   [
@@ -8844,7 +9728,15 @@
     "tr": [
      "greedy"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "費",
+     "en": "Fei"
+    }
    }
   ],
   [
@@ -8865,7 +9757,15 @@
     "tr": [
      "brave"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "呉の堂邑の人。[[p:伍子胥]]がその腕を見込み、公子光 (闔閭) に推した (『史記』刺客列伝)。",
+     "en": "A man of Tangyi in Wu. [[p:伍子胥|Wu Zixu]] saw his worth and recommended him to Prince Guang (Helü) (Shiji, Assassins)."
+    },
+    "house": {
+     "ja": "専",
+     "en": "Zhuan"
+    }
    }
   ],
   [
@@ -8894,6 +9794,14 @@
     ],
     "fame": 4,
     "end": "battle_wound",
+    "origin": {
+     "ja": "魯の卞の人で、姓は仲、名は由。粗野で勇を好み、雄鶏の冠をつけて孔子を侮ったが、孔子に導かれて弟子となった (『史記』)。",
+     "en": "A man of Bian in Lu, surnamed Zhong, named You. Rough and fond of daring, he wore a cockerel cap and slighted Confucius, but was won over and became his disciple (Shiji)."
+    },
+    "house": {
+     "ja": "仲",
+     "en": "Zhong"
+    },
     "offices": [
      [
       498,
@@ -8922,7 +9830,15 @@
      "wise",
      "scholar"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "魯の人で、字は子淵。父の顔無繇 (顔路) も孔子の弟子だった (『史記』)。",
+     "en": "A man of Lu, style Ziyuan. His father Yan Wuyao (Yan Lu) was also a disciple of Confucius (Shiji)."
+    },
+    "house": {
+     "ja": "顔",
+     "en": "Yan"
+    }
    }
   ],
   [
@@ -8943,7 +9859,15 @@
     "tr": [
      "wise"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "衛の人で、姓は端木、名は賜 (『史記』)。弁舌に優れ、商いで富を築いた。",
+     "en": "A man of Wey, surnamed Duanmu, named Ci (Shiji). A fine speaker, he grew rich in trade."
+    },
+    "house": {
+     "ja": "端木",
+     "en": "Duanmu"
+    }
    }
   ],
   [
@@ -8964,7 +9888,15 @@
     "tr": [
      "scholar"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "魯の南武城の人で、名は参、字は子輿 (『史記』)。父の曾点 (曾皙) も孔子の弟子だった。",
+     "en": "A man of Southern Wucheng in Lu, named Shen, style Ziyu (Shiji). His father Zeng Dian was also a disciple of Confucius."
+    },
+    "house": {
+     "ja": "曾",
+     "en": "Zeng"
+    }
    }
   ],
   [
@@ -8985,7 +9917,15 @@
     "tr": [
      "ambitious"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "斉の田氏 (陳氏) で、田乞の子。先祖は陳から斉へ逃れた公子完。父と同じく、大きな升で貸し小さな升で取り立てて民の心をつかんだ (『史記』)。",
+     "en": "Of the Tian (Chen) of Qi, son of Tian Qi; his forebear was Prince Wan, who fled from Chen to Qi. Like his father, he lent grain by a large measure and took it back by a small one, and won the people (Shiji)."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
+    }
    }
   ],
   [
@@ -9006,7 +9946,15 @@
     "tr": [
      "ambitious"
     ],
-    "end": "suicide"
+    "end": "suicide",
+    "origin": {
+     "ja": "楚の平王の太子建の子で、建が鄭で殺された後は呉にいた。令尹子西に呼び戻され、白の地に置かれて白公と呼ばれた (『左伝』)。",
+     "en": "Son of Jian, King Ping of Chu's heir; after Jian was killed in Zheng he lived in Wu. The chief minister Zixi called him back and settled him at Bai, hence \"Duke of Bai\" (Zuozhuan)."
+    },
+    "house": {
+     "ja": "羋",
+     "en": "Mi"
+    }
    }
   ],
   [
@@ -9026,7 +9974,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "楚の[[p:沈尹戌]]の子とされ (『左伝』の注)、名は諸梁、字は子高。葉に封じられて葉公と呼ばれた。",
+     "en": "Said to be a son of [[p:沈尹戌|Shen Yinxu]] of Chu (commentary on the Zuozhuan); named Zhuliang, style Zigao. Enfeoffed at She, he was called Duke of She."
+    },
+    "house": {
+     "ja": "沈",
+     "en": "Shen"
+    }
    }
   ],
   [
@@ -9049,7 +10005,15 @@
      "greedy"
     ],
     "fame": 4,
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "晋の智氏 (荀氏の分家) で、智宣子の子、名は瑶。父が跡継ぎにしようとしたとき、一族の智果は「瑶は五つに優れるが仁が無い」と反対した (『国語』)。",
+     "en": "Of the Zhi house of Jin (a branch of the Xun), son of Zhi Xuanzi, named Yao. When his father chose him as heir, the kinsman Zhi Guo objected: \"Yao excels in five things but lacks humanity\" (Guoyu)."
+    },
+    "house": {
+     "ja": "智",
+     "en": "Zhi"
+    }
    }
   ],
   [
@@ -9070,7 +10034,15 @@
     "tr": [
      "scholar"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "姓は卜、名は商。衛の人とも温の人ともされる。孔子の死後、魏の西河で教え、文侯の師となった (『史記』)。",
+     "en": "Surnamed Bu, named Shang; said to be from Wey, or from Wen. After Confucius died he taught at Xihe in Wei and became Marquis Wen's teacher (Shiji)."
+    },
+    "house": {
+     "ja": "卜",
+     "en": "Bu"
+    }
    }
   ],
   [
@@ -9091,6 +10063,14 @@
     "tr": [
      "wise"
     ],
+    "origin": {
+     "ja": "斉の人。琴を弾いて威王に会い、三月で相となった (『史記』)。",
+     "en": "A man of Qi. He met King Wei through playing the qin and was chancellor within three months (Shiji)."
+    },
+    "house": {
+     "ja": "鄒",
+     "en": "Zou"
+    },
     "offices": [
      [
       356,
@@ -9117,7 +10097,15 @@
     ],
     "tr": [
      "charismatic"
-    ]
+    ],
+    "origin": {
+     "ja": "斉の入り婿で、背は七尺に満たなかった。滑稽で弁が立ち、たびたび諸侯への使いを務めた (『史記』滑稽列伝)。",
+     "en": "A son-in-law who had married into a family in Qi, under seven feet tall. Witty and quick of tongue, he was often sent as envoy to the other lords (Shiji, Jesters)."
+    },
+    "house": {
+     "ja": "淳于",
+     "en": "Chunyu"
+    }
    }
   ],
   [
@@ -9138,7 +10126,15 @@
     "tr": [
      "ambitious"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -9162,6 +10158,10 @@
     "origin": {
      "ja": "斉の人。父を諫めて家を追われ、世間には不孝と言われたが、孟子は彼と交わり、その人柄を認めた (『孟子』離婁下)。",
      "en": "A man of Qi. Driven from home for rebuking his father, he was called unfilial, yet Mencius kept company with him and vouched for him (Mencius, Lilou II)."
+    },
+    "house": {
+     "ja": "匡",
+     "en": "Kuang"
     }
    }
   ],
@@ -9194,7 +10194,11 @@
       "右丞相",
       "Chancellor of the Right"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "嬴",
+     "en": "Ying"
+    }
    }
   ],
   [
@@ -9228,7 +10232,11 @@
       "左丞相",
       "Chancellor of the Left"
      ]
-    ]
+    ],
+    "house": {
+     "ja": "甘",
+     "en": "Gan"
+    }
    }
   ],
   [
@@ -9250,7 +10258,15 @@
     "tr": [
      "ambitious"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "楚の人で羋姓、秦の恵文王の妃 (羋八子) となり、昭王を産んだ。[[p:魏冄]]は異父弟 (『史記』)。",
+     "en": "A woman of Chu of the Mi surname. She became a consort of King Huiwen of Qin and bore King Zhaoxiang; [[p:魏冄|Wei Ran]] was her half-brother by a different father (Shiji)."
+    },
+    "house": {
+     "ja": "羋",
+     "en": "Mi"
+    }
    }
   ],
   [
@@ -9270,7 +10286,15 @@
     ],
     "tr": [
      "charismatic"
-    ]
+    ],
+    "origin": {
+     "ja": "斉の人。並はずれた策を好み、仕官せずに人の難儀を解いた。趙で[[p:新垣衍]]を説いて、秦を帝と仰ぐ話を止めさせた (『史記』)。",
+     "en": "A man of Qi who loved bold schemes and solved others' troubles without taking office. In Zhao he talked [[p:新垣衍|Xinyuan Yan]] out of having Qin hailed as emperor (Shiji)."
+    },
+    "house": {
+     "ja": "魯",
+     "en": "Lu"
+    }
    }
   ],
   [
@@ -9287,7 +10311,15 @@
      2,
      8,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "遊説の士。草鞋をはき傘を担いで趙の孝成王に説き、一度会って黄金と白璧を、二度目で上卿の位を得た (『史記』)。名は伝わらない。",
+     "en": "A wandering persuader. In straw sandals with an umbrella on his shoulder he counselled King Xiaocheng of Zhao; one audience won him gold and jade, a second made him high minister (Shiji). His name is not recorded."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -9308,6 +10340,14 @@
     "tr": [
      "wise"
     ],
+    "origin": {
+     "ja": "燕の人。諸侯に説いて回ったが用いられず、人相見の唐挙に笑われた。秦へ行き、[[p:范雎]]を説いて退かせ、代わって相となった (『史記』)。",
+     "en": "A man of Yan. He went from court to court without success, and the physiognomist Tang Ju laughed at him. In Qin he persuaded [[p:范雎|Fan Ju]] to step down and took his place as chancellor (Shiji)."
+    },
+    "house": {
+     "ja": "蔡",
+     "en": "Cai"
+    },
     "offices": [
      [
       255,
@@ -9335,7 +10375,15 @@
     "tr": [
      "ambitious"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "[[p:呂不韋]]の家来。呂不韋が宦官と偽らせて太后 ([[p:趙姫]]) のもとへ送り込んだ (『史記』)。",
+     "en": "A retainer of [[p:呂不韋|Lü Buwei]], who passed him off as a eunuch and sent him in to the queen dowager ([[p:趙姫|Lady Zhao]]) (Shiji)."
+    },
+    "house": {
+     "ja": "嫪",
+     "en": "Lao"
+    }
    }
   ],
   [
@@ -9359,7 +10407,15 @@
      6,
      5
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "楚の公子で秦に仕えたとされる (『史記』の注)。考烈王の子とする説もある。",
+     "en": "Said to be a prince of Chu who served Qin (notes to the Shiji); some make him a son of King Kaolie."
+    },
+    "house": {
+     "ja": "羋",
+     "en": "Mi"
+    }
    }
   ],
   [
@@ -9379,7 +10435,15 @@
     ],
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "楚の人。[[p:屈原]]の後に辞賦を作った一人 (『史記』)。屈原の弟子とするのは後の伝え。",
+     "en": "A man of Chu, one of those who wrote rhapsodies after [[p:屈原|Qu Yuan]] (Shiji). That he was Qu Yuan's pupil is a later tradition."
+    },
+    "house": {
+     "ja": "宋",
+     "en": "Song"
+    }
    }
   ],
   [
@@ -9400,7 +10464,15 @@
     "tr": [
      "ambitious"
     ],
-    "end": "executed"
+    "end": "executed",
+    "origin": {
+     "ja": "出自は記録に無い。鄭の荘公の臣で、荘公は彼を卿にしようとしたが、太子の忽 (のちの昭公) が嫌って強く諫めた (『左伝』桓公十七年)。",
+     "en": "Their origins are not on record. A minister of Duke Zhuang of Zheng, who meant to make him a high minister; Crown Prince Hu (later Duke Zhao) disliked him and argued hard against it (Zuozhuan, Duke Huan 17)."
+    },
+    "house": {
+     "ja": "高",
+     "en": "Gao"
+    }
    }
   ],
   [
@@ -9420,7 +10492,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自ははっきりしない (王子城父とも書く)。名の「王子」から、周の王族で斉へ来た人とする説がある。[[p:管仲]]が「大司馬にふさわしい」と桓公に推したと伝わる (『管子』・『呂氏春秋』)。",
+     "en": "Their origins are uncertain (also written Wangzi Chengfu with a different character); the \"Wangzi\" (king's son) in the name has led some to make him a Zhou prince who came to Qi. [[p:管仲|Guan Zhong]] is said to have recommended him to Duke Huan as grand marshal (Guanzi, Lüshi Chunqiu)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -9444,6 +10524,10 @@
     "origin": {
      "ja": "晋の欒氏の人。[[p:文公]]を迎え入れた臣の一人で、孫に[[p:欒書]]がいる。",
      "en": "Of the Luan clan of Jin, one of those who brought [[p:文公|Duke Wen]] home; his grandson was [[p:欒書|Luan Shu]]."
+    },
+    "house": {
+     "ja": "欒",
+     "en": "Luan"
     }
    }
   ],
@@ -9469,6 +10553,10 @@
     "origin": {
      "ja": "晋の魏氏の人。[[p:文公]]の亡命に十九年従った勇士。子孫が晋を分けて戦国の魏を建てた。",
      "en": "Of the Wei clan of Jin, a strongman who followed [[p:文公|Duke Wen]] through nineteen years of exile. His descendants split Jin and founded the Warring State of Wei."
+    },
+    "house": {
+     "ja": "魏",
+     "en": "Wei"
     }
    }
   ],
@@ -9495,6 +10583,10 @@
     "origin": {
      "ja": "楚の若敖氏 (闘氏) の人で、令尹子文 ([[p:闘穀於菟]]) の甥。生まれたとき子文は「この子は若敖氏を滅ぼす」と恐れたという。",
      "en": "Of the Ruo'ao (Dou) clan of Chu, nephew of the chief minister Ziwen ([[p:闘穀於菟|Dou Gouwutu]]), who at his birth feared \"this child will destroy the Ruo'ao\"."
+    },
+    "house": {
+     "ja": "闘",
+     "en": "Dou"
     }
    }
   ],
@@ -9519,6 +10611,10 @@
     "origin": {
      "ja": "斉の名門高氏の人。高氏は国氏とともに斉の上卿の家。",
      "en": "Of the great Gao clan of Qi, which with the Guo held Qi's high ministries."
+    },
+    "house": {
+     "ja": "高",
+     "en": "Gao"
     }
    }
   ],
@@ -9543,6 +10639,10 @@
     "origin": {
      "ja": "楚の王族で、荘王の弟 (公子嬰斉)。",
      "en": "A prince of Chu, younger brother of King Zhuang (Prince Yingqi)."
+    },
+    "house": {
+     "ja": "羋",
+     "en": "Mi"
     }
    }
   ],
@@ -9568,6 +10668,10 @@
     "origin": {
      "ja": "楚の人で弓の名手。百歩離れて柳の葉を射て百発百中だったという (「百発百中」の語のもと)。",
      "en": "A man of Chu and a master archer: from a hundred paces he hit a willow leaf every time — the origin of \"a hundred shots, a hundred hits\"."
+    },
+    "house": {
+     "ja": "養",
+     "en": "Yang"
     }
    }
   ],
@@ -9593,6 +10697,10 @@
     "origin": {
      "ja": "晋の郤氏の人。鄢陵で楚王の前を通るたび兜を脱いで礼をしたという。",
      "en": "Of the Xi clan of Jin. At Yanling, they say, he took off his helmet in salute each time he passed the King of Chu."
+    },
+    "house": {
+     "ja": "郤",
+     "en": "Xi"
     }
    }
   ],
@@ -9618,6 +10726,10 @@
     "origin": {
      "ja": "晋の荀氏 (のちの智氏) の人で、荀首の子。邲の戦いで楚に捕らわれ、九年後に返された。",
      "en": "Of the Xun clan of Jin (later the Zhi), son of Xun Shou. Captured by Chu at Bi, he was sent home nine years later."
+    },
+    "house": {
+     "ja": "荀",
+     "en": "Xun"
     }
    }
   ],
@@ -9642,6 +10754,10 @@
     "origin": {
      "ja": "晋の荀氏 (中行氏) の人で、[[p:荀林父]]の孫。",
      "en": "Of the Xun (Zhonghang) clan of Jin, grandson of [[p:荀林父|Xun Linfu]]."
+    },
+    "house": {
+     "ja": "荀",
+     "en": "Xun"
     }
    }
   ],
@@ -9667,6 +10783,10 @@
     "origin": {
      "ja": "晋の魏氏の人で、[[p:魏絳]]の子 (『史記』では孫)。戦車を捨てて歩兵の隊列を組み、狄を破った。",
      "en": "Of the Wei clan of Jin, son (in the Shiji, grandson) of [[p:魏絳|Wei Jiang]]. He broke the Di by giving up chariots for ranks of foot."
+    },
+    "house": {
+     "ja": "魏",
+     "en": "Wei"
     }
    }
   ],
@@ -9698,6 +10818,10 @@
     "origin": {
      "ja": "呉王[[p:闔閭]]の弟。柏挙で独断で突撃して楚軍を崩したが、のちに王を称して背き、敗れて楚へ逃れた。",
      "en": "Younger brother of King [[p:闔閭|Helü]] of Wu. He broke the Chu army at Boju by charging on his own, later called himself king in revolt, and fled to Chu when beaten."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
     }
    }
   ],
@@ -9718,7 +10842,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。越王勾践の臣で、檇李の戦いで呉王闔閭を戈で打ち、足の指を傷つけて履を奪った (『左伝』定公十四年)。",
+     "en": "Their origins are not on record. A man of King Goujian of Yue; at Zuili he struck King Helü of Wu with his dagger-axe, wounding his toe and taking his shoe (Zuozhuan, Duke Ding 14)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -9743,6 +10875,10 @@
     "origin": {
      "ja": "魯の人で、孔子の弟子 (字は子有)。孔子は彼を政事に長けた弟子に数えた。魯の季孫氏に仕えた。",
      "en": "A man of Lu and a disciple of Confucius (style Ziyou), who counted him among his pupils gifted in government. He served the Jisun of Lu."
+    },
+    "house": {
+     "ja": "冉",
+     "en": "Ran"
     }
    }
   ],
@@ -9763,7 +10899,15 @@
     ],
     "tr": [
      "content"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。魏の恵王の相で、[[p:商鞅]]を家臣 (中庶子) に抱え、死の床で王に推した (『史記』商君列伝)。",
+     "en": "Their origins are not on record. Chief minister of King Hui of Wei; [[p:商鞅|Shang Yang]] was his retainer, and on his deathbed he recommended him to the king (Shiji, Biography of Lord Shang)."
+    },
+    "house": {
+     "ja": "公叔",
+     "en": "Gongshu"
+    }
    }
   ],
   [
@@ -9787,6 +10931,10 @@
     "origin": {
      "ja": "楚の三閭 (昭・屈・景の三つの王族の家) の一つ、昭氏の人。",
      "en": "Of the Zhao, one of the three royal clans of Chu (Zhao, Qu and Jing)."
+    },
+    "house": {
+     "ja": "昭",
+     "en": "Zhao"
     }
    }
   ],
@@ -9812,6 +10960,10 @@
     "origin": {
      "ja": "楚の三閭の一つ、屈氏の人 ([[p:屈原]]と同じ家)。",
      "en": "Of the Qu, one of the three royal clans of Chu (the family of [[p:屈原|Qu Yuan]])."
+    },
+    "house": {
+     "ja": "屈",
+     "en": "Qu"
     }
    }
   ],
@@ -9833,7 +10985,15 @@
     "tr": [
      "brave"
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "出自は記録に無い。楚の懐王の将で、垂沙で斉・韓・魏の軍に敗れて戦死した (『史記』秦本紀・楚世家)。",
+     "en": "Their origins are not on record. A general of King Huai of Chu, killed when he was beaten by Qi, Han and Wei at Chuisha (Shiji, Annals of Qin and House of Chu)."
+    },
+    "house": {
+     "ja": "唐",
+     "en": "Tang"
+    }
    }
   ],
   [
@@ -9858,6 +11018,10 @@
     "origin": {
      "ja": "燕の人。東胡へ人質に送られ、その信を得て内情を知った。燕に帰ると東胡を千里も退け、燕はこのあと長城を築いた (『史記』匈奴列伝)。孫に、荊軻とともに秦へ行った秦舞陽がいる。",
      "en": "A man of Yan. Sent as a hostage to the Donghu, he won their trust and learned their ways; back in Yan he drove them back a thousand li, and Yan then built a long wall (Shiji, Account of the Xiongnu). His grandson Qin Wuyang went to Qin with Jing Ke."
+    },
+    "house": {
+     "ja": "秦",
+     "en": "Qin"
     }
    }
   ],
@@ -9875,7 +11039,15 @@
      6,
      4,
      4
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。韓の将で、斉・魏と組んで楚を攻め[[p:唐昧]]を討った。のち魏を救いに出て秦の穰侯に大梁で敗れ、開封へ逃れた (『史記』秦本紀・韓世家)。",
+     "en": "Their origins are not on record. A Han general who joined Qi and Wei against Chu, when [[p:唐昧|Tang Mei]] fell. Later, sent to save Wei, he was beaten by the Marquis of Rang of Qin at Daliang and fled to Kaifeng (Shiji, Annals of Qin, House of Han)."
+    },
+    "house": {
+     "ja": "暴",
+     "en": "Bao"
+    }
    }
   ],
   [
@@ -9900,6 +11072,10 @@
     "origin": {
      "ja": "趙の人。燕の昭王が[[p:郭隗]]を師と仰いで賢者を招いたとき (のちに「黄金台」の話として伝わる)、[[p:楽毅]]・[[p:鄒衍]]とともに燕へ来た。",
      "en": "A man of Zhao. When King Zhao of Yan honoured [[p:郭隗|Guo Wei]] as his teacher to draw in the able (later told as the \"Golden Terrace\"), he came to Yan along with [[p:楽毅|Yue Yi]] and [[p:鄒衍|Zou Yan]]."
+    },
+    "house": {
+     "ja": "劇",
+     "en": "Ju"
     }
    }
   ],
@@ -9924,6 +11100,10 @@
     "origin": {
      "ja": "楚の荘王の子孫と伝わる (『史記』西南夷列伝)。西南の地に兵を進めたが帰り道を秦に断たれ、滇 (今の雲南) にとどまって王となった。",
      "en": "Said to descend from King Zhuang of Chu (Shiji, the Southwest Peoples). He took an army into the southwest, but Qin cut his road home, and he stayed in Dian (today's Yunnan) as its king."
+    },
+    "house": {
+     "ja": "荘",
+     "en": "Zhuang"
     }
    }
   ],
@@ -9945,7 +11125,15 @@
     "tr": [
      "content"
     ],
-    "end": "assassination"
+    "end": "assassination",
+    "origin": {
+     "ja": "出自は記録に無い。魏の安釐王の将で、趙を救う兵を率いて鄴に留まっていたところ、[[p:信陵君]]の命を受けた[[p:朱亥]]に鉄槌で打ち殺された。",
+     "en": "Their origins are not on record. A general of King Anxi of Wei; holding the relief army for Zhao at Ye, he was beaten to death with an iron mallet by [[p:朱亥|Zhu Hai]] on [[p:信陵君|Lord Xinling]]'s orders."
+    },
+    "house": {
+     "ja": "晋",
+     "en": "Jin"
+    }
    }
   ],
   [
@@ -9969,6 +11157,10 @@
     "origin": {
      "ja": "趙の人。兵法と弁論をよくし、その名を冠した書が漢の書目に載っている。",
      "en": "A man of Zhao, skilled in war and in argument; a book under his name is listed in the Han catalogues."
+    },
+    "house": {
+     "ja": "龐",
+     "en": "Pang"
     }
    }
   ],
@@ -9993,6 +11185,10 @@
     "origin": {
      "ja": "斉から秦へ来た[[p:蒙驁]]の子で、[[p:蒙恬]]・蒙毅の父。",
      "en": "Son of [[p:蒙驁|Meng Ao]], who had come to Qin from Qi, and father of [[p:蒙恬|Meng Tian]] and Meng Yi."
+    },
+    "house": {
+     "ja": "蒙",
+     "en": "Meng"
     }
    }
   ],
@@ -10013,7 +11209,15 @@
     ],
     "tr": [
      "cruel"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。秦王政の将で、平陽を攻めて趙の扈輒を討ったが、翌年宜安で[[p:李牧]]に敗れた (『史記』秦始皇本紀・李牧伝)。",
+     "en": "Their origins are not on record. A general of King Zheng of Qin; he attacked Pingyang and killed Hu Zhe of Zhao, but the next year was beaten by [[p:李牧|Li Mu]] at Yi'an (Shiji, Annals of the First Emperor; Life of Li Mu)."
+    },
+    "house": {
+     "ja": "桓",
+     "en": "Huan"
+    }
    }
   ],
   [
@@ -10030,7 +11234,15 @@
      7,
      4,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。秦王政の将で、[[p:王翦]]とともに趙を攻め、邯鄲を囲んだ。",
+     "en": "Their origins are not on record. A general of King Zheng of Qin who fought Zhao alongside [[p:王翦|Wang Jian]] and laid siege to Handan."
+    },
+    "house": {
+     "ja": "楊",
+     "en": "Yang"
+    }
    }
   ],
   [
@@ -10050,7 +11262,15 @@
     ],
     "tr": [
      "just"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。趙王遷の将で、[[p:李牧]]とともに[[p:王翦]]を防いだが、讒言によって退けられた。",
+     "en": "Their origins are not on record. A general of King Qian of Zhao who held off [[p:王翦|Wang Jian]] with [[p:李牧|Li Mu]], until slander had him removed."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
+    }
    }
   ],
   [
@@ -10067,7 +11287,15 @@
      6,
      3,
      4
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。秦の昭王の代の将で、邯鄲を攻めて落とせず、[[p:王齕]]に代えられた。",
+     "en": "Their origins are not on record. A Qin general under King Zhaoxiang who besieged Handan without taking it and was replaced by [[p:王齕|Wang He]]."
+    },
+    "house": {
+     "ja": "王",
+     "en": "Wang"
+    }
    }
   ],
   [
@@ -10087,7 +11315,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。秦の昭王の代の将で、長平の戦いののち北へ向かい太原を平定した (『史記』白起列伝)。",
+     "en": "Their origins are not on record. A Qin general under King Zhaoxiang who, after Changping, went north and subdued Taiyuan (Shiji, Biography of Bai Qi)."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
+    }
    }
   ],
   [
@@ -10117,6 +11353,10 @@
     "origin": {
      "ja": "魏の人。魏の宰相に打たれて死にかけた[[p:范雎]]をかくまい、秦の使者に引き合わせて逃がした。秦の宰相となった范雎の推挙で秦の将となった。",
      "en": "A man of Wei. He hid [[p:范雎|Fan Ju]], beaten near to death by the Wei chancellor, and got him away with a Qin envoy; when Fan Ju became chancellor of Qin, he recommended him and King Zhaoxiang made him a general."
+    },
+    "house": {
+     "ja": "鄭",
+     "en": "Zheng"
     }
    }
   ],
@@ -10141,6 +11381,10 @@
     "origin": {
      "ja": "楚の三閭の一つ、景氏の人。",
      "en": "Of the Jing, one of the three royal clans of Chu."
+    },
+    "house": {
+     "ja": "景",
+     "en": "Jing"
     }
    }
   ],
@@ -10195,7 +11439,15 @@
      3,
      6,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "Their origins are not on record."
+    },
+    "house": {
+     "ja": "新垣",
+     "en": "Xinyuan"
+    }
    }
   ],
   [
@@ -10219,6 +11471,10 @@
     "origin": {
      "ja": "晋の郤氏の人。詩・書を読み礼楽を好むとして、[[p:趙衰]]に推されて中軍の将となった。",
      "en": "Of the Xi clan of Jin. Recommended by [[p:趙衰|Zhao Cui]] as a man who read the Odes and Documents and loved rites and music, he was made general of the central army."
+    },
+    "house": {
+     "ja": "郤",
+     "en": "Xi"
     }
    }
   ],
@@ -10243,6 +11499,10 @@
     "origin": {
      "ja": "鄭の公族 (字は子家)。",
      "en": "A prince of the ducal house of Zheng (style Zijia)."
+    },
+    "house": {
+     "ja": "姫",
+     "en": "Ji"
     }
    }
   ],
@@ -10263,7 +11523,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。秦の哀公の将で、[[p:申包胥]]の願いに応えて子虎とともに兵車五百乗を率い、楚を救った (『左伝』定公五年)。",
+     "en": "Their origins are not on record. A general of Duke Ai of Qin who, answering [[p:申包胥|Shen Baoxu]]'s plea, led five hundred chariots with Zihu to save Chu (Zuozhuan, Duke Ding 5)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -10287,6 +11555,10 @@
     "origin": {
      "ja": "斉の将 (田氏の人だが、王族との続き柄は記録に無い)。",
      "en": "A general of Qi (a Tian, though his tie to the royal line is not on record)."
+    },
+    "house": {
+     "ja": "田",
+     "en": "Tian"
     }
    }
   ],
@@ -10307,7 +11579,15 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。魏の臣で、策略で重んじられた (『史記』魏世家「芒卯は詐を以て重んぜらる」。孟卯とも書く)。華陽で[[p:白起]]に敗れて逃れた。",
+     "en": "Their origins are not on record. A Wei minister who rose by guile (Shiji, House of Wei: \"Mang Mao was valued for his deceits\"; also written Meng Mao). [[p:白起|Bai Qi]] beat him at Huayang and he fled."
+    },
+    "house": {
+     "ja": "芒",
+     "en": "Mang"
+    }
    }
   ],
   [
@@ -10329,7 +11609,15 @@
      "ambitious",
      "foolish"
     ],
-    "end": "battle_wound"
+    "end": "battle_wound",
+    "origin": {
+     "ja": "出自は記録に無い。燕王喜の相で、長平の後の趙を討つよう説いて自ら攻め入ったが、鄗で[[p:廉頗]]に敗れて討たれた。",
+     "en": "Their origins are not on record. Chancellor of King Xi of Yan; he urged an attack on Zhao after Changping and led it himself, but [[p:廉頗|Lian Po]] beat and killed him at Hao."
+    },
+    "house": {
+     "ja": "栗",
+     "en": "Li"
+    }
    }
   ],
   [
@@ -10353,6 +11641,10 @@
     "origin": {
      "ja": "名は騰で、「内史」(都のまわりを治める官) の職名で呼ばれる。のちに南郡の守となって役人に法を守らせる布告を出した騰 (睡虎地で見つかった竹簡「語書」) と同じ人とされる。",
      "en": "His name was Teng; he is known by his office, neishi (governor of the capital region). He is usually identified with the Teng who, as governor of Nanjun, issued a notice telling its officials to keep the law (the \"Yushu\" on bamboo slips found at Shuihudi)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -10373,7 +11665,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。中山王の相邦 (宰相) で、中山王の墓から出た青銅器の銘文に、王を助けて自ら軍を率い燕を討った功が刻まれている。『戦国策』の司馬憙と同じ人とする説もある。",
+     "en": "Their origins are not on record. Chancellor (xiangbang) of the king of Zhongshan; bronzes from the king's tomb record how he served the king and led the army against Yan. Some take him to be the Sima Xi of the Zhanguoce."
+    },
+    "house": {
+     "ja": "司馬",
+     "en": "Sima"
+    }
    }
   ]
  ],
@@ -22400,8 +23700,8 @@
     "en": "The Yue family and Zhongshan: from Yue Yang to Yue Yi"
    },
    "body": {
-    "ja": "燕の名将[[p:楽毅]]は、燕の人ではない。その家は中山の霊寿にあり、楽毅も中山の地に生まれ育ったとされる。\n\n楽毅の先祖は、魏の文侯の将[[p:楽羊]]であった。楽羊は三年をかけて中山を攻め落とした。中山に人質として残っていた我が子を煮た羹を送られても、それを飲み干して攻めを緩めなかったという、あの楽羊である。功によって中山の霊寿を与えられた楽羊は、霊寿で死んでその地に葬られ、子孫はそのまま霊寿に住みついた。かつて攻め取った国が、一族の故郷になったのである。\n\nやがて中山は魏の手を離れて国を取り戻し、王を名乗るまでになったが、趙の武霊王に攻められ、前296年に滅んだ。楽氏の家からはその後、楽毅が出た。\n\n楽毅は賢く、兵法を好んだ。趙の人に推されて趙に仕えたが、前295年、武霊王が沙丘の宮で飢え死にする乱が起こると、趙を去って魏へ移った。そのころ燕の昭王は、[[p:郭隗]]の言葉を容れて郭隗のために屋敷を建てて師と仰ぎ、天下の賢者を招いていた (「まず隗より始めよ」。のちに「黄金台」の話として伝わる)。楽毅は魏の使者として燕へ行き、昭王に厚く遇されて、そのまま燕の臣となった。\n\n前284年、楽毅は燕・秦・趙・魏・韓の兵を率いて済西で斉を破り、都の臨淄を落とし、七十余りの城を取った。斉に残ったのは莒と即墨だけであった。燕は楽毅を昌国君に封じた。\n\n昭王が死んで恵王が立つと、斉の[[p:田単]]は「楽毅は斉の王になろうとしている」という噂を流した。恵王は楽毅を将から外して騎劫に代え、楽毅は罰を恐れて趙へ逃れた。趙は彼を観津に封じ、望諸君と呼んで重んじた。そのあいだに田単は火牛の計で燕軍を破り、斉の城はすべて取り返された。\n\n恵王が楽毅をなじる書を送ると、楽毅は返書をしたためた。昭王に受けた恩と、自らの身の処し方を述べたこの「燕の恵王に報ずる書」は名文として名高い。「古の君子は、交わりが絶えても相手を悪く言わない。忠臣は国を去っても、自らの潔白を言い立てない」。楽毅は燕と趙の両方から客卿として遇され、趙で世を去った。\n\n燕に残った子の[[p:楽閒]]は昌国君を継いだが、前251年、燕王が諫めを聞かずに趙を攻めて大敗すると、楽閒もまた趙へ移った。中山に根を下ろした楽氏は、魏・中山・趙・燕と、戦国の国々を渡り歩いた一族であった。\n\n五百年ののち、三国の諸葛亮は、若いころ常に自らを管仲と楽毅になぞらえたという。",
-    "en": "[[p:楽毅|Yue Yi]], Yan's great general, was no man of Yan. His family lived at Lingshou in Zhongshan, and he is said to have been born and raised there.\n\nHis forebear was [[p:楽羊|Yue Yang]], general of Marquis Wen of Wei — the Yue Yang who took Zhongshan after three years of siege, and who, sent a soup made from his own son, a hostage in the city, drank it and pressed on. For his deed he was given Lingshou in Zhongshan; he died there and was buried there, and his descendants stayed. The realm he had conquered became his family's home.\n\nZhongshan later threw off Wei, won back its freedom and even called its lords kings, until King Wuling of Zhao destroyed it in 296 BC. Out of the house of Yue came Yue Yi.\n\nYue Yi was able and loved the art of war. Recommended by men of Zhao, he served Zhao, but when King Wuling starved to death in the palace at Shaqiu in 295 BC he left for Wei. In those days King Zhao of Yan, taking the advice of [[p:郭隗|Guo Wei]], had built Guo Wei a house, honoured him as his teacher and was calling the able men of the world to him (\"begin with Wei\"; later told as the \"Golden Terrace\"). Yue Yi went to Yan as Wei's envoy, was received with great honour, and stayed on as Yan's man.\n\nIn 284 BC he led the armies of Yan, Qin, Zhao, Wei and Han, broke Qi at Jixi, took its capital Linzi and more than seventy towns; only Ju and Jimo were left to Qi. Yan made him Lord of Changguo.\n\nWhen King Zhao died and King Hui succeeded, [[p:田単|Tian Dan]] of Qi spread the word that Yue Yi meant to make himself King of Qi. King Hui replaced him with Qi Jie, and Yue Yi, fearing punishment, fled to Zhao, which gave him Guanjin and the style Lord Wangzhu. Meanwhile Tian Dan broke the Yan army with his fire oxen, and Qi won back every town.\n\nWhen King Hui wrote to reproach him, Yue Yi answered with the letter \"In Reply to King Hui of Yan\" — on the trust King Zhao had shown him and on how a man should bear himself — famous ever since: \"The gentlemen of old, when a friendship ended, spoke no ill of the other; a loyal servant who leaves a realm does not go about proclaiming his innocence.\" Honoured as a guest minister by both Yan and Zhao, he died in Zhao.\n\nHis son [[p:楽閒|Yue Jian]], who stayed in Yan and inherited Changguo, also went over to Zhao in 251 BC, when the King of Yan attacked Zhao against his advice and was crushed. Rooted in Zhongshan, the Yue were a family that passed through Wei, Zhongshan, Zhao and Yan — the realms of the Warring States.\n\nFive hundred years later, Zhuge Liang of the Three Kingdoms, it is said, used to compare himself in his youth to Guan Zhong and Yue Yi."
+    "ja": "燕の名将[[p:楽毅]]は、燕の人ではない。その家は中山の霊寿にあり、楽毅も中山の地に生まれ育ったとされる。\n\n楽毅の先祖は、魏の文侯の将[[p:楽羊]]であった。楽羊は三年をかけて中山を攻め落とした。中山に人質として残っていた我が子を煮た羹を送られても、それを飲み干して攻めを緩めなかったという、あの楽羊である。功によって中山の霊寿を与えられた楽羊は、霊寿で死んでその地に葬られ、子孫はそのまま霊寿に住みついた。かつて攻め取った国が、一族の故郷になったのである。\n\nやがて中山は魏の手を離れて国を取り戻し、王を名乗るまでになったが、趙の[[p:武霊王]]に攻められ、前296年に滅んだ。楽氏の家からはその後、楽毅が出た。\n\n楽毅は賢く、兵法を好んだ。趙の人に推されて趙に仕えたが、前295年、武霊王が沙丘の宮で飢え死にする乱が起こると、趙を去って魏へ移った。そのころ燕の昭王は、[[p:郭隗]]の言葉を容れて郭隗のために屋敷を建てて師と仰ぎ、天下の賢者を招いていた (「まず隗より始めよ」。のちに「黄金台」の話として伝わる)。楽毅は魏の使者として燕へ行き、昭王に厚く遇されて、そのまま燕の臣となった。\n\n前284年、楽毅は燕・秦・趙・魏・韓の兵を率いて済西で斉を破り、都の臨淄を落とし、七十余りの城を取った。斉に残ったのは莒と即墨だけであった。燕は楽毅を昌国君に封じた。\n\n昭王が死んで恵王が立つと、斉の[[p:田単]]は「楽毅は斉の王になろうとしている」という噂を流した。恵王は楽毅を将から外して[[p:騎劫]]に代え、楽毅は罰を恐れて趙へ逃れた。趙は彼を観津に封じ、望諸君と呼んで重んじた。そのあいだに田単は火牛の計で燕軍を破り、斉の城はすべて取り返された。\n\n恵王が楽毅をなじる書を送ると、楽毅は返書をしたためた。昭王に受けた恩と、自らの身の処し方を述べたこの「燕の恵王に報ずる書」は名文として名高い。「古の君子は、交わりが絶えても相手を悪く言わない。忠臣は国を去っても、自らの潔白を言い立てない」。楽毅は燕と趙の両方から客卿として遇され、趙で世を去った。\n\n燕に残った子の[[p:楽閒]]は昌国君を継いだが、前251年、燕王が諫めを聞かずに趙を攻めて大敗すると、楽閒もまた趙へ移った。中山に根を下ろした楽氏は、魏・中山・趙・燕と、戦国の国々を渡り歩いた一族であった。\n\n五百年ののち、三国の諸葛亮は、若いころ常に自らを[[p:管仲]]と楽毅になぞらえたという。",
+    "en": "[[p:楽毅|Yue Yi]], Yan's great general, was no man of Yan. His family lived at Lingshou in Zhongshan, and he is said to have been born and raised there.\n\nHis forebear was [[p:楽羊|Yue Yang]], general of Marquis Wen of Wei — the Yue Yang who took Zhongshan after three years of siege, and who, sent a soup made from his own son, a hostage in the city, drank it and pressed on. For his deed he was given Lingshou in Zhongshan; he died there and was buried there, and his descendants stayed. The realm he had conquered became his family's home.\n\nZhongshan later threw off Wei, won back its freedom and even called its lords kings, until [[p:武霊王|King Wuling]] of Zhao destroyed it in 296 BC. Out of the house of Yue came Yue Yi.\n\nYue Yi was able and loved the art of war. Recommended by men of Zhao, he served Zhao, but when King Wuling starved to death in the palace at Shaqiu in 295 BC he left for Wei. In those days King Zhao of Yan, taking the advice of [[p:郭隗|Guo Wei]], had built Guo Wei a house, honoured him as his teacher and was calling the able men of the world to him (\"begin with Wei\"; later told as the \"Golden Terrace\"). Yue Yi went to Yan as Wei's envoy, was received with great honour, and stayed on as Yan's man.\n\nIn 284 BC he led the armies of Yan, Qin, Zhao, Wei and Han, broke Qi at Jixi, took its capital Linzi and more than seventy towns; only Ju and Jimo were left to Qi. Yan made him Lord of Changguo.\n\nWhen King Zhao died and King Hui succeeded, [[p:田単|Tian Dan]] of Qi spread the word that Yue Yi meant to make himself King of Qi. King Hui replaced him with [[p:騎劫|Qi Jie]], and Yue Yi, fearing punishment, fled to Zhao, which gave him Guanjin and the style Lord Wangzhu. Meanwhile Tian Dan broke the Yan army with his fire oxen, and Qi won back every town.\n\nWhen King Hui wrote to reproach him, Yue Yi answered with the letter \"In Reply to King Hui of Yan\" — on the trust King Zhao had shown him and on how a man should bear himself — famous ever since: \"The gentlemen of old, when a friendship ended, spoke no ill of the other; a loyal servant who leaves a realm does not go about proclaiming his innocence.\" Honoured as a guest minister by both Yan and Zhao, he died in Zhao.\n\nHis son [[p:楽閒|Yue Jian]], who stayed in Yan and inherited Changguo, also went over to Zhao in 251 BC, when the King of Yan attacked Zhao against his advice and was crushed. Rooted in Zhongshan, the Yue were a family that passed through Wei, Zhongshan, Zhao and Yan — the realms of the Warring States.\n\nFive hundred years later, Zhuge Liang of the Three Kingdoms, it is said, used to compare himself in his youth to [[p:管仲|Guan Zhong]] and Yue Yi."
    },
    "year": 284,
    "people": [

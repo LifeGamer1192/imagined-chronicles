@@ -3978,7 +3978,15 @@
     ],
     "tr": [
      "builder"
-    ]
+    ],
+    "origin": {
+     "ja": "尾張の丹羽長政の子。若いころから[[p:織田信長]]に仕え、信長の兄信広の娘 (信長の養女) を妻とした。「米五郎左」と呼ばれたと伝わる。",
+     "en": "Son of Niwa Nagamasa of Owari. He served [[p:織田信長|Oda Nobunaga]] from his youth and married a daughter of Nobunaga's brother Nobuhiro (adopted by Nobunaga). He is said to have been called \"Gorōza the rice\"."
+    },
+    "house": {
+     "ja": "丹羽",
+     "en": "Niwa"
+    }
    }
   ],
   [
@@ -4143,7 +4151,15 @@
      "genius",
      "content"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "美濃の土豪竹中重元の子 (名は重治)。[[p:斎藤龍興]]に仕えていた1564年、わずかな手勢で主君の稲葉山城を奪い、のちに返した。のちに織田家に移り、[[p:羽柴秀吉]]の与力となった。",
+     "en": "Son of Takenaka Shigemoto, a country squire of Mino (his name was Shigeharu). Serving [[p:斎藤龍興|Saitō Tatsuoki]] in 1564, he seized his lord's castle of Inabayama with a handful of men, and later gave it back. He went over to the Oda and was attached to [[p:羽柴秀吉|Hashiba Hideyoshi]]."
+    },
+    "house": {
+     "ja": "竹中",
+     "en": "Takenaka"
+    }
    }
   ],
   [
@@ -4201,7 +4217,15 @@
      "wise",
      "kind"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "[[p:羽柴秀吉]]の弟 (父を同じくするとも異にするともいわれる)。尾張中村の百姓の家に生まれ、兄に従って織田家に仕えた。",
+     "en": "Younger brother of [[p:羽柴秀吉|Hashiba Hideyoshi]] (whether by the same father or not is disputed). Born to a farming family at Nakamura in Owari, he followed his brother into the Oda service."
+    },
+    "house": {
+     "ja": "豊臣",
+     "en": "Toyotomi"
+    }
    }
   ],
   [
@@ -4255,7 +4279,15 @@
      "ambitious",
      "pious"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "播磨姫路の黒田職隆の子。父とともに御着の小寺氏に仕え、主家を織田方につけて[[p:羽柴秀吉]]の播磨攻めを助けた。キリシタンでもあった。",
+     "en": "Son of Kuroda Mototaka of Himeji in Harima. With his father he served the Kodera of Gochaku, brought them over to the Oda, and helped [[p:羽柴秀吉|Hideyoshi]] take Harima. He was also a Christian."
+    },
+    "house": {
+     "ja": "黒田",
+     "en": "Kuroda"
+    }
    }
   ],
   [
@@ -4285,7 +4317,15 @@
     ],
     "fame": 6,
     "end": "suicide",
-    "dm": 11
+    "dm": 11,
+    "origin": {
+     "ja": "出自ははっきりしないが、摂津五百住の土豪の出とする説が有力。[[p:三好長慶]]の側近 (右筆とも) から身を起こし、大和を任されるまでになった。",
+     "en": "His origins are unclear, but most now think he came of a country family of Yosumi in Settsu. He rose from being a close aide (some say scribe) of [[p:三好長慶|Miyoshi Nagayoshi]] to be given charge of Yamato."
+    },
+    "house": {
+     "ja": "松永",
+     "en": "Matsunaga"
+    }
    }
   ],
   [
@@ -4313,7 +4353,15 @@
      "scholar",
      "wise"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "幕臣三淵晴員の次男で、細川家の養子となった。将軍[[p:足利義輝]]に仕え、義輝の死後は[[p:足利義昭]]を奉じて信長と結んだ。和歌と古典の学に通じた。",
+     "en": "Second son of the shogun's retainer Mitsubuchi Harukazu, adopted into the Hosokawa. He served the shogun [[p:足利義輝|Ashikaga Yoshiteru]], and after his death backed [[p:足利義昭|Ashikaga Yoshiaki]] and joined with Nobunaga. He was learned in poetry and the classics."
+    },
+    "house": {
+     "ja": "細川",
+     "en": "Hosokawa"
+    }
    }
   ],
   [
@@ -4347,7 +4395,15 @@
     ],
     "fame": 6,
     "end": "suicide",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "織田信秀の娘で、[[p:織田信長]]の妹。[[p:浅井長政]]に嫁いで三人の娘 ([[p:淀殿]]・初・[[p:江]]) を産み、のちに[[p:柴田勝家]]の妻となった。",
+     "en": "Daughter of Oda Nobuhide and sister of [[p:織田信長|Oda Nobunaga]]. Married to [[p:浅井長政|Azai Nagamasa]], she bore three daughters ([[p:淀殿|Chacha]], Hatsu and [[p:江|Gō]]); later she became the wife of [[p:柴田勝家|Shibata Katsuie]]."
+    },
+    "house": {
+     "ja": "織田",
+     "en": "Oda"
+    }
    }
   ],
   [
@@ -4376,7 +4432,15 @@
     ],
     "fame": 7,
     "end": "suicide",
-    "dm": 4
+    "dm": 4,
+    "origin": {
+     "ja": "堺の商人田中与兵衛の子で、名は与四郎。祖父の千阿弥にちなんで千を名のったと伝わる。茶の湯を北向道陳・武野紹鷗に学んだという。",
+     "en": "Son of Tanaka Yohyōe, a merchant of Sakai; his name was Yoshirō. He is said to have taken the name Sen from his grandfather Sen'ami, and to have learned tea from Kitamuki Dōchin and Takeno Jōō."
+    },
+    "house": {
+     "ja": "千",
+     "en": "Sen"
+    }
    }
   ],
   [
@@ -4402,7 +4466,15 @@
     ],
     "tr": [
      "greedy"
-    ]
+    ],
+    "origin": {
+     "ja": "近江の出と伝わり、堺に出て商いで財をなした。茶人武野紹鷗の娘婿となり、1568年の信長上洛の際に名物の壺「松島」と茶入「紹鷗茄子」を献じた。",
+     "en": "Said to come from Ōmi, he made his fortune trading in Sakai. Son-in-law of the tea master Takeno Jōō, he presented Nobunaga with the famous jar \"Matsushima\" and the tea caddy \"Jōō Nasu\" when Nobunaga entered Kyoto in 1568."
+    },
+    "house": {
+     "ja": "今井",
+     "en": "Imai"
+    }
    }
   ],
   [
@@ -4503,7 +4575,15 @@
     "tr": [
      "scholar"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "尾張の生まれ。若いころは寺にいたと伝わる。柴田勝家に仕えたのち弓の腕で[[p:織田信長]]の弓衆となり、のちに信長の一代を記した『信長公記』を著した。",
+     "en": "Born in Owari; said to have spent his youth in a temple. He served Shibata Katsuie, then joined [[p:織田信長|Oda Nobunaga]]'s archers for his skill with the bow, and later wrote the Shinchō kōki, the record of Nobunaga's life."
+    },
+    "house": {
+     "ja": "太田",
+     "en": "Ōta"
+    }
    }
   ],
   [
@@ -4518,7 +4598,15 @@
     "tr": [
      "genius"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "京の絵師の家狩野家の人で、狩野松栄の長男、狩野元信の孫。祖父に絵を学び、信長の安土城の障壁画を描いた。",
+     "en": "Of the Kanō, a family of painters in Kyoto: eldest son of Kanō Shōei and grandson of Kanō Motonobu. Taught by his grandfather, he painted the walls of Nobunaga's Azuchi castle."
+    },
+    "house": {
+     "ja": "狩野",
+     "en": "Kanō"
+    }
    }
   ],
   [
@@ -4530,7 +4618,15 @@
    1610,
    {
     "from": 1571,
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "能登七尾の武士奥村氏の生まれで、染物屋長谷川家の養子となった。能登で仏画を描いたのち、三十代で京に上った。",
+     "en": "Born to the Okumura, a warrior family of Nanao in Noto, and adopted by the Hasegawa, a family of dyers. He painted Buddhist pictures in Noto, then went up to Kyoto in his thirties."
+    },
+    "house": {
+     "ja": "長谷川",
+     "en": "Hasegawa"
+    }
    }
   ],
   [
@@ -4547,7 +4643,15 @@
      "pious",
      "brave"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "[[p:明智光秀]]の娘で、名は玉 (珠)。信長のすすめで[[p:細川藤孝]]の子忠興に嫁いだ。のちにキリシタンとなり、ガラシャの名を受けた。",
+     "en": "Daughter of [[p:明智光秀|Akechi Mitsuhide]]; her name was Tama. At Nobunaga's urging she married Tadaoki, son of [[p:細川藤孝|Hosokawa Fujitaka]]. She later became a Christian and took the name Gracia."
+    },
+    "house": {
+     "ja": "細川",
+     "en": "Hosokawa"
+    }
    }
   ],
   [
@@ -4571,7 +4675,15 @@
     ],
     "fame": 7,
     "end": "executed",
-    "dm": 11
+    "dm": 11,
+    "origin": {
+     "ja": "近江坂田郡石田村の土豪石田正継の次男。長浜城主となった[[p:羽柴秀吉]]に若くして仕えた。寺で茶を三度出して秀吉に見込まれたという話は、のちの書物に見える。",
+     "en": "Second son of Ishida Masatsugu, a country squire of Ishida in Sakata, Ōmi. He entered the service of [[p:羽柴秀吉|Hideyoshi]] young, when Hideyoshi became lord of Nagahama. The tale that he won Hideyoshi over by serving him tea three times at a temple appears only in later books."
+    },
+    "house": {
+     "ja": "石田",
+     "en": "Ishida"
+    }
    }
   ],
   [
@@ -4770,7 +4882,15 @@
     ],
     "fame": 5,
     "end": "suicide",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "[[p:浅井長政]]と[[p:お市]]の長女で、名は茶々。小谷城と北ノ庄城の落城で父母を失い、のちに[[p:羽柴秀吉]]の側室となって[[p:豊臣秀頼]]を産んだ。",
+     "en": "Eldest daughter of [[p:浅井長政|Azai Nagamasa]] and [[p:お市|Oichi]]; her name was Chacha. She lost her father at the fall of Odani and her mother at the fall of Kitanoshō, then became [[p:羽柴秀吉|Hideyoshi]]'s consort and bore [[p:豊臣秀頼|Toyotomi Hideyori]]."
+    },
+    "house": {
+     "ja": "浅井",
+     "en": "Azai"
+    }
    }
   ],
   [
@@ -4873,7 +4993,15 @@
      6,
      8,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "三河の石川氏の人で、石川康正の子。[[p:徳川家康]]が今川氏の人質だったころから近くに仕えたと伝わる。1585年、徳川家を出奔して[[p:羽柴秀吉]]のもとに走った。",
+     "en": "Of the Ishikawa of Mikawa, son of Ishikawa Yasumasa. He is said to have served [[p:徳川家康|Tokugawa Ieyasu]] from the days when Ieyasu was a hostage of the Imagawa. In 1585 he fled the Tokugawa and went over to [[p:羽柴秀吉|Hideyoshi]]."
+    },
+    "house": {
+     "ja": "石川",
+     "en": "Ishikawa"
+    }
    }
   ],
   [
@@ -4893,7 +5021,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "三河の本多氏の人で、本多俊正の子。鷹匠として[[p:徳川家康]]に仕えたと伝わる。1563年の三河の一揆で寺方について家康に背き、諸国を流れたのちに帰参した。",
+     "en": "Of the Honda of Mikawa, son of Honda Toshimasa. He is said to have served [[p:徳川家康|Tokugawa Ieyasu]] as a falconer. In the Mikawa rising of 1563 he sided with the temples against Ieyasu, wandered the provinces, and later came back."
+    },
+    "house": {
+     "ja": "本多",
+     "en": "Honda"
+    }
    }
   ],
   [
@@ -4996,7 +5132,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "陸奥会津の生まれで、蘆名氏の一族と伝わるが、前半生ははっきりしない。諸国の寺で学んだ僧で、晩年の[[p:徳川家康]]に重く用いられた。",
+     "en": "Said to be born in Aizu in Mutsu, of a branch of the Ashina, though his early life is obscure. A monk who studied at temples in many provinces, he was much trusted by [[p:徳川家康|Tokugawa Ieyasu]] in Ieyasu's last years."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -5265,7 +5409,15 @@
      "wise",
      "just"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "越後上田の樋口兼豊の子。幼くして[[p:上杉景勝]]に仕え、1581年に直江信綱が殺されると、その妻お船の婿となって直江家を継いだ。",
+     "en": "Son of Higuchi Kanetoyo of Ueda in Echigo. He served [[p:上杉景勝|Uesugi Kagekatsu]] from boyhood, and when Naoe Nobutsuna was killed in 1581 he married his widow Osen and took over the Naoe."
+    },
+    "house": {
+     "ja": "直江",
+     "en": "Naoe"
+    }
    }
   ],
   [
@@ -5314,7 +5466,15 @@
     "tr": [
      "wise"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "[[p:毛利元就]]の三男。安芸の竹原小早川家の養子となり、のちに本家の沼田小早川家も継いだ。兄の[[p:吉川元春]]とともに毛利家を支えた。",
+     "en": "Third son of [[p:毛利元就|Mōri Motonari]]. Adopted into the Takehara Kobayakawa of Aki, he later took over the main Nuta Kobayakawa line as well, and with his brother [[p:吉川元春|Kikkawa Motoharu]] held up the Mōri."
+    },
+    "house": {
+     "ja": "小早川",
+     "en": "Kobayakawa"
+    }
    }
   ],
   [
@@ -5363,7 +5523,15 @@
      6
     ],
     "end": "executed",
-    "dm": 11
+    "dm": 11,
+    "origin": {
+     "ja": "安芸の守護家武田氏の生まれとされる。家が滅びたのち寺に入って僧となり、毛利家の使僧として外交を担った。1573年の書状で信長の行く末と秀吉の出世を言い当てたことで知られる。",
+     "en": "Said to be born of the Takeda, the governors of Aki. When his house fell he entered a temple as a monk, and became the Mōri's envoy-monk. He is known for a letter of 1573 that foretold Nobunaga's fall and Hideyoshi's rise."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -5685,7 +5853,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "肥前佐嘉の鍋島清房の次男。母は龍造寺氏の娘で、のちに父が[[p:龍造寺隆信]]の母を後妻に迎えたため、隆信の義弟となった。",
+     "en": "Second son of Nabeshima Kiyofusa of Saga in Hizen. His mother was a Ryūzōji, and when his father later married [[p:龍造寺隆信|Ryūzōji Takanobu]]'s mother he became Takanobu's stepbrother."
+    },
+    "house": {
+     "ja": "鍋島",
+     "en": "Nabeshima"
+    }
    }
   ],
   [
@@ -5705,7 +5881,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "出羽米沢の八幡社の神職片倉景重の子。異父姉の喜多が[[p:伊達政宗]]の乳母を務めた縁で、少年の政宗の守り役となった。",
+     "en": "Son of Katakura Kageshige, a priest of the Hachiman shrine at Yonezawa in Dewa. His half-sister Kita was [[p:伊達政宗|Date Masamune]]'s nurse, and through her he became the boy Masamune's guardian."
+    },
+    "house": {
+     "ja": "片倉",
+     "en": "Katakura"
+    }
    }
   ],
   [
@@ -5748,7 +5932,15 @@
     "tr": [
      "brave"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "伊達家臣山口常成の子で、伯父支倉時正の養子となった。1613年、[[p:伊達政宗]]の使節としてメキシコ・スペインを経てローマへ渡った。",
+     "en": "Son of the Date retainer Yamaguchi Tsunenari, adopted by his uncle Hasekura Tokimasa. In 1613 he sailed as [[p:伊達政宗|Date Masamune]]'s envoy by way of Mexico and Spain to Rome."
+    },
+    "house": {
+     "ja": "支倉",
+     "en": "Hasekura"
+    }
    }
   ],
   [
@@ -5827,7 +6019,15 @@
      "pious",
      "scholar"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "ポルトガルのリスボンの生まれ。十代で修道会に入ってインドのゴアに渡り、1563年に宣教師として日本に来た。[[p:織田信長]]にたびたび会い、日本での布教の歴史を書き残した。",
+     "en": "Born in Lisbon, Portugal. He joined a religious order in his teens, went to Goa in India, and came to Japan as a missionary in 1563. He met [[p:織田信長|Oda Nobunaga]] many times and wrote a history of the mission in Japan."
+    },
+    "house": {
+     "ja": "フロイス",
+     "en": "Fróis"
+    }
    }
   ],
   [
@@ -5842,7 +6042,15 @@
     "tr": [
      "pious"
     ],
-    "fame": 4
+    "fame": 4,
+    "origin": {
+     "ja": "ナポリ王国キエーティの貴族の家の生まれ。パドヴァで法学を学んだのち修道会に入り、東洋の巡察師として1579年に来日した。日本の少年たちを使節としてローマへ送り出した。",
+     "en": "Born to a noble family of Chieti in the Kingdom of Naples. He studied law at Padua, joined a religious order, and came to Japan in 1579 as its visitor to the East. He sent a party of Japanese boys to Rome as envoys."
+    },
+    "house": {
+     "ja": "ヴァリニャーノ",
+     "en": "Valignano"
+    }
    }
   ],
   [
@@ -5858,7 +6066,15 @@
     "tr": [
      "charismatic"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "出雲大社の巫女と名のって諸国を巡ったと伝わるが、生い立ちは確かではない。京でかぶき踊りを演じて評判をとった。",
+     "en": "She is said to have toured the provinces calling herself a shrine maiden of Izumo, but her early life is uncertain. Her kabuki dancing in Kyoto made her famous."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -5879,7 +6095,15 @@
     "tr": [
      "warrior"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "自著で播磨の生まれと記す (美作とする説もある)。十三歳で初めて勝負して勝ち、以後六十余度の勝負に一度も負けなかったと自ら書き残した。",
+     "en": "In his own book he says he was born in Harima (some say Mimasaka). He wrote that he fought his first duel at thirteen and won, and never lost in more than sixty bouts after."
+    },
+    "house": {
+     "ja": "宮本",
+     "en": "Miyamoto"
+    }
    }
   ],
   [
@@ -6040,7 +6264,15 @@
     ],
     "tr": [
      "brave"
-    ]
+    ],
+    "origin": {
+     "ja": "確かな記録は乏しく、「佐々木小次郎」の名も後世の書物に見える。越前の出で富田流の剣を学んだとも伝わる。「岩流」と呼ばれ、舟島で[[p:宮本武蔵]]と戦ったとされる。",
+     "en": "Little reliable is known; even the name Sasaki Kojirō first appears in later books, which say he came from Echizen and learned the Toda style of swordsmanship. Known as \"Ganryū\", he is said to have fought [[p:宮本武蔵|Miyamoto Musashi]] on Funashima."
+    },
+    "house": {
+     "ja": "佐々木",
+     "en": "Sasaki"
+    }
    }
   ],
   [
@@ -6058,7 +6290,15 @@
      2,
      6,
      7
-    ]
+    ],
+    "origin": {
+     "ja": "美濃の斎藤道三の娘で、母は明智氏の出と伝わる。1549年、尾張との和睦のしるしに[[p:織田信長]]に嫁いだ。のちの消息ははっきりしない。",
+     "en": "Daughter of Saitō Dōsan of Mino; her mother is said to have been an Akechi. In 1549 she was married to [[p:織田信長|Oda Nobunaga]] to seal peace with Owari. What became of her later is unclear."
+    },
+    "house": {
+     "ja": "斎藤",
+     "en": "Saitō"
+    }
    }
   ],
   [
@@ -6080,7 +6320,15 @@
     "tr": [
      "wise"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "尾張の杉原定利の娘で、叔母の嫁ぎ先の浅野長勝の養女となった。1561年、まだ身分の低かった[[p:羽柴秀吉]]に嫁いだ。",
+     "en": "Daughter of Sugihara Sadatoshi of Owari, adopted by Asano Nagakatsu, her aunt's husband. In 1561 she married [[p:羽柴秀吉|Hashiba Hideyoshi]], then still a man of low rank."
+    },
+    "house": {
+     "ja": "杉原",
+     "en": "Sugihara"
+    }
    }
   ],
   [
@@ -6100,7 +6348,15 @@
      5
     ],
     "end": "executed",
-    "dm": 9
+    "dm": 9,
+    "origin": {
+     "ja": "今川家臣関口氏純 (親永) の娘で、母は[[p:今川義元]]の妹とも伝わる。今川氏の人質だった[[p:徳川家康]]に嫁ぎ、嫡男信康を産んだ。",
+     "en": "Daughter of the Imagawa retainer Sekiguchi Ujizumi (Chikanaga); her mother is said to have been a sister of [[p:今川義元|Imagawa Yoshimoto]]. She married [[p:徳川家康|Tokugawa Ieyasu]] while he was a hostage of the Imagawa, and bore his heir Nobuyasu."
+    },
+    "house": {
+     "ja": "関口",
+     "en": "Sekiguchi"
+    }
    }
   ],
   [
@@ -6121,7 +6377,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "尾張の篠原一計の娘。母方の縁で[[p:前田利家]]の家に引き取られて育ち、十二歳で利家に嫁いだ。",
+     "en": "Daughter of Shinohara Kazutoshi of Owari. Through her mother's family she was taken in and raised in the house of [[p:前田利家|Maeda Toshiie]], and married him at twelve."
+    },
+    "house": {
+     "ja": "篠原",
+     "en": "Shinohara"
+    }
    }
   ],
   [
@@ -6139,7 +6403,15 @@
      2,
      6,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "[[p:浅井長政]]と[[p:お市]]の三女で、[[p:淀殿]]の妹。三度嫁ぎ、三度目に[[p:徳川秀忠]]の妻となって[[p:千姫]]や家光を産んだ。",
+     "en": "Third daughter of [[p:浅井長政|Azai Nagamasa]] and [[p:お市|Oichi]], sister of [[p:淀殿|Lady Yodo]]. Married three times, the third time to [[p:徳川秀忠|Tokugawa Hidetada]], she bore [[p:千姫|Lady Sen]] and Iemitsu."
+    },
+    "house": {
+     "ja": "浅井",
+     "en": "Azai"
+    }
    }
   ],
   [
@@ -6157,7 +6429,15 @@
      2,
      5,
      7
-    ]
+    ],
+    "origin": {
+     "ja": "[[p:徳川秀忠]]と[[p:江]]の長女。七歳で[[p:豊臣秀頼]]に嫁ぎ、1615年の大坂城落城の際に城から救い出された。",
+     "en": "Eldest daughter of [[p:徳川秀忠|Tokugawa Hidetada]] and [[p:江|Gō]]. Married to [[p:豊臣秀頼|Toyotomi Hideyori]] at seven, she was brought out of Osaka castle when it fell in 1615."
+    },
+    "house": {
+     "ja": "徳川",
+     "en": "Tokugawa"
+    }
    }
   ],
   [
@@ -6175,7 +6455,15 @@
      2,
      6,
      6
-    ]
+    ],
+    "origin": {
+     "ja": "陸奥三春の田村清顕の一人娘で、母は相馬氏の出。十二歳で[[p:伊達政宗]]に嫁いだ。",
+     "en": "Only daughter of Tamura Kiyoaki of Miharu in Mutsu; her mother was a Sōma. She married [[p:伊達政宗|Date Masamune]] at twelve."
+    },
+    "house": {
+     "ja": "田村",
+     "en": "Tamura"
+    }
    }
   ]
  ],

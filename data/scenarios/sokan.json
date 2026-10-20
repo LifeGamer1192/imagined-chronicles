@@ -1514,7 +1514,15 @@
     ],
     "fame": 6,
     "end": "assassination",
-    "dm": 10
+    "dm": 10,
+    "origin": {
+     "ja": "趙の王族の遠い一族。兄弟はみな「隠宮」で生まれ、母は刑を受けたと記される。獄の法に通じ、秦王 (のちの始皇帝) に取り立てられて中車府令となった。",
+     "en": "A distant kinsman of the royal house of Zhao. He and his brothers are recorded as born in the \"hidden palace\", their mother having suffered punishment. Versed in criminal law, he was raised by the King of Qin (later the First Emperor) to master of carriages."
+    },
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    }
    }
   ],
   [
@@ -1537,7 +1545,15 @@
     ],
     "fame": 6,
     "end": "executed",
-    "dm": 8
+    "dm": 8,
+    "origin": {
+     "ja": "楚の上蔡の人。郡の小役人だったころ、便所の鼠と倉の鼠を見比べて「人も居場所しだい」と嘆いた。荀子に学んだのち秦へ向かった。",
+     "en": "A man of Shangcai in Chu. As a petty clerk he compared the rats of the privy with those of the granary and sighed that a man too is made by where he stands. He studied under Xunzi, then went to Qin."
+    },
+    "house": {
+     "ja": "李",
+     "en": "Li"
+    }
    }
   ],
   [
@@ -1681,7 +1697,15 @@
     ],
     "tr": [
      "genius"
-    ]
+    ],
+    "origin": {
+     "ja": "范陽の人。本名は蒯徹で、のちに漢の武帝の名を避けて「通」と書かれた。弁舌の士で、范陽の県令に説いて戦わずに降らせた。",
+     "en": "A man of Fanyang, really named Kuai Che; later writers wrote \"Tong\" to avoid Emperor Wu's name. A persuader, he talked the magistrate of Fanyang into yielding without a fight."
+    },
+    "house": {
+     "ja": "蒯",
+     "en": "Kuai"
+    }
    }
   ],
   [
@@ -1703,7 +1727,15 @@
      "wise",
      "paranoid"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "居巣の人。七十歳まで家にいて、奇計を好んだ。[[p:項梁]]に楚王の子孫を王に立てるよう説き、その下に入った。",
+     "en": "A man of Juchao who stayed at home until seventy, fond of strange stratagems. He urged [[p:項梁|Xiang Liang]] to set up a descendant of the Chu kings, and joined him."
+    },
+    "house": {
+     "ja": "范",
+     "en": "Fan"
+    }
    }
   ],
   [
@@ -1723,7 +1755,15 @@
     ],
     "tr": [
      "kind"
-    ]
+    ],
+    "origin": {
+     "ja": "[[p:項羽]]の叔父。かつて人を殺したとき[[p:張良]]にかくまわれた恩があり、鴻門の会の前夜、張良に危険を知らせに駆けつけた。",
+     "en": "Uncle of [[p:項羽|Xiang Yu]]. [[p:張良|Zhang Liang]] had once sheltered him after he killed a man; on the eve of the feast at Hongmen he rode to warn him."
+    },
+    "house": {
+     "ja": "項",
+     "en": "Xiang"
+    }
    }
   ],
   [
@@ -1804,7 +1844,15 @@
      "brave"
     ],
     "end": "battle_wound",
-    "dm": 12
+    "dm": 12,
+    "origin": {
+     "ja": "出自は記録に無い。項羽の将で、英布を破ったが、濰水で[[p:韓信]]に敗れて討たれた。",
+     "en": "Their origins are not on record. A general of Xiang Yu who beat Ying Bu, but was defeated and killed by [[p:韓信|Han Xin]] at the Wei River."
+    },
+    "house": {
+     "ja": "龍",
+     "en": "Long"
+    }
    }
   ],
   [
@@ -1862,7 +1910,15 @@
     ],
     "fame": 6,
     "end": "suicide",
-    "dm": 1
+    "dm": 1,
+    "origin": {
+     "ja": "出自は記録に無い。『史記』は名を虞、『漢書』は姓を虞とする。[[p:項羽]]に寵愛されて常に付き従った。",
+     "en": "Her origins are not on record. The Shiji gives Yu as her name, the Hanshu as her surname. She was loved by [[p:項羽|Xiang Yu]] and always at his side."
+    },
+    "house": {
+     "ja": "虞",
+     "en": "Yu"
+    }
    }
   ],
   [
@@ -1884,7 +1940,15 @@
      "wise",
      "builder"
     ],
-    "fame": 8
+    "fame": 8,
+    "origin": {
+     "ja": "沛の豊の人。法令に通じて沛県の主吏を務め、[[p:劉邦]]が無位のころからたびたびかばった。",
+     "en": "A man of Feng in Pei. Versed in the law, he was chief clerk of Pei county, and shielded [[p:劉邦|Liu Bang]] again and again while he was still nobody."
+    },
+    "house": {
+     "ja": "蕭",
+     "en": "Xiao"
+    }
    }
   ],
   [
@@ -2043,7 +2107,15 @@
      "ambitious",
      "cruel"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "単父の人呂公の娘。呂公は仇を避けて沛へ移り、宴に来た[[p:劉邦]]の人相を見込んで娘を嫁がせた。妹は[[p:樊噲]]の妻。",
+     "en": "Daughter of Lord Lü of Shanfu, who moved to Pei to escape enemies and, struck by [[p:劉邦|Liu Bang]]'s face at a feast, gave her to him. Her sister married [[p:樊噲|Fan Kuai]]."
+    },
+    "house": {
+     "ja": "呂",
+     "en": "Lü"
+    }
    }
   ],
   [
@@ -2072,7 +2144,15 @@
      "wise",
      "sickly"
     ],
-    "fame": 9
+    "fame": 9,
+    "origin": {
+     "ja": "韓の人。祖父と父は五代の韓王に宰相として仕えた。韓が秦に滅ぼされると家財を尽くして刺客を求め、博浪沙で始皇帝を狙ったが外れた。",
+     "en": "A man of Han, whose grandfather and father had been chief ministers to five kings of Han. When Qin destroyed Han he spent all he had on an assassin and struck at the First Emperor at Bolangsha, but missed."
+    },
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    }
    }
   ],
   [
@@ -2132,7 +2212,15 @@
     ],
     "fame": 4,
     "end": "executed",
-    "dm": 11
+    "dm": 11,
+    "origin": {
+     "ja": "陳留高陽の人。読書を好んだが貧しく、村の門番をしていた。自ら「高陽の酒徒」と名乗って[[p:劉邦]]に会ったと伝わる。",
+     "en": "A man of Gaoyang in Chenliu, bookish but poor, who kept the village gate. He is said to have got in to see [[p:劉邦|Liu Bang]] by calling himself \"a drinker of Gaoyang\"."
+    },
+    "house": {
+     "ja": "酈",
+     "en": "Li"
+    }
    }
   ],
   [
@@ -2164,7 +2252,15 @@
      "genius",
      "greedy"
     ],
-    "fame": 7
+    "fame": 7,
+    "origin": {
+     "ja": "陽武戸牖郷の人。家は貧しく、兄が耕して学ばせた。村の祭りで肉を公平に分け、「天下を任されても同じようにする」と言った。",
+     "en": "A man of Huyou in Yangwu. His family was poor, and his elder brother farmed so he could study. Sharing out the meat fairly at a village sacrifice, he said he would do the same if given the realm."
+    },
+    "house": {
+     "ja": "陳",
+     "en": "Chen"
+    }
    }
   ],
   [
@@ -2182,7 +2278,15 @@
     ],
     "fame": 4,
     "end": "executed",
-    "dm": 6
+    "dm": 6,
+    "origin": {
+     "ja": "出自は記録に無い。",
+     "en": "His origins are not on record."
+    },
+    "house": {
+     "ja": "紀",
+     "en": "Ji"
+    }
    }
   ],
   [
@@ -2238,7 +2342,15 @@
     ],
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "楚の人。弁舌の客として[[p:劉邦]]に従い、天下平定のあいだしばしば諸侯への使者となった。",
+     "en": "A man of Chu. He followed [[p:劉邦|Liu Bang]] as a guest skilled in speech, and often went as his envoy to the lords while the realm was won."
+    },
+    "house": {
+     "ja": "陸",
+     "en": "Lu"
+    }
    }
   ],
   [
@@ -2264,7 +2376,15 @@
     ],
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "薛の人。学者として秦に召され、博士の候補となった。[[p:陳勝]]の挙兵を「ただの盗賊」と言って二世皇帝を喜ばせ、そのまま秦を逃れた。",
+     "en": "A man of Xue. Summoned to Qin as a scholar, he awaited appointment as an academician. He pleased the Second Emperor by calling [[p:陳勝|Chen Sheng]]'s rising \"mere banditry\", then fled Qin."
+    },
+    "house": {
+     "ja": "叔孫",
+     "en": "Shusun"
+    }
    }
   ],
   [
@@ -2340,7 +2460,15 @@
     ],
     "tr": [
      "wise"
-    ]
+    ],
+    "origin": {
+     "ja": "出自は記録に無い。下邳の橋で[[p:張良]]に兵書を授けた老人で、十三年後に済北の穀城山の麓にある黄色い石が自分だと告げた。",
+     "en": "His origins are not on record. The old man on the bridge at Xiapi who gave [[p:張良|Zhang Liang]] a book of war, saying that thirteen years on he would find him as the yellow stone at the foot of Mount Gucheng in Jibei."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -2358,7 +2486,15 @@
      1,
      4,
      9
-    ]
+    ],
+    "origin": {
+     "ja": "定陶の人。[[p:劉邦]]に寵愛され、趙王如意を生んだ。",
+     "en": "A woman of Dingtao, beloved of [[p:劉邦|Liu Bang]], to whom she bore Ruyi, King of Zhao."
+    },
+    "house": {
+     "ja": "戚",
+     "en": "Qi"
+    }
    }
   ]
  ],

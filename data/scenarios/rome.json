@@ -2118,7 +2118,15 @@
      "just",
      "content"
     ],
-    "fame": 6
+    "fame": 6,
+    "origin": {
+     "ja": "トゥスクルムの平民の家の生まれで、サビニの地の農園で育った。十七歳でハンニバルとの戦いに出て、貴族ウァレリウス・フラックスに見込まれて政界に入った (プルタルコス)。",
+     "en": "Born to a plebeian family of Tusculum and raised on a farm in the Sabine country. He went to war against Hannibal at seventeen, and the noble Valerius Flaccus took him up and brought him into public life (Plutarch)."
+    },
+    "house": {
+     "ja": "カト",
+     "en": "Cato"
+    }
    }
   ],
   [
@@ -2132,7 +2140,15 @@
     "from": 216,
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "名門貴族ファビウス氏の人。祖先が神殿に絵を描いたことから「ピクトル (画家)」の家名が生まれた。カンナエの敗戦ののち、神託を伺いにデルポイへ遣わされた (リウィウス)。",
+     "en": "Of the patrician Fabii. The family name Pictor (\"painter\") came from an ancestor who painted a temple. After the defeat at Cannae he was sent to Delphi to consult the oracle (Livy)."
+    },
+    "house": {
+     "ja": "ファビウス",
+     "en": "Fabius"
+    }
    }
   ],
   [
@@ -2146,7 +2162,15 @@
     "from": 218,
     "tr": [
      "scholar"
-    ]
+    ],
+    "origin": {
+     "ja": "ギリシア人の町タレントゥムの出と伝わる。捕虜としてローマに連れて来られ、リウィウス家の奴隷から解放されてその名を名のった。前240年に初めてラテン語の劇を上演した。",
+     "en": "Said to come from the Greek city of Tarentum. Brought to Rome as a captive, he was a slave of the Livii, was freed, and took their name. In 240 BC he staged the first play in Latin."
+    },
+    "house": {
+     "ja": "リウィウス",
+     "en": "Livius"
+    }
    }
   ],
   [
@@ -2161,7 +2185,15 @@
     "tr": [
      "charismatic"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "ウンブリアのサルシナの生まれ。劇場で働いて得た金を商いで失い、粉ひき臼を回して働きながら喜劇を書いたと伝わる。",
+     "en": "Born at Sarsina in Umbria. He is said to have lost the money he made working in the theatre in trade, and to have written comedies while turning a mill for his bread."
+    },
+    "house": {
+     "ja": "プラウトゥス",
+     "en": "Plautus"
+    }
    }
   ],
   [
@@ -2176,7 +2208,15 @@
     "tr": [
      "scholar"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "南イタリアのルディアエの生まれで、ギリシア語・オスク語・ラテン語を話した。サルディニアで兵として勤めていたところを[[p:マルクス・ポルキウス・カト]]に見出され、前204年にローマへ連れて来られたと伝わる。",
+     "en": "Born at Rudiae in southern Italy, he spoke Greek, Oscan and Latin. Serving as a soldier in Sardinia, he was found, it is said, by [[p:マルクス・ポルキウス・カト|Cato]], who brought him to Rome in 204 BC."
+    },
+    "house": {
+     "ja": "エンニウス",
+     "en": "Ennius"
+    }
    }
   ],
   [
@@ -2264,6 +2304,10 @@
     "origin": {
      "ja": "ヒミルコの子 (リウィウス)。ハンニバルの騎兵を率いた。",
      "en": "Son of Himilco (Livy); he led Hannibal's cavalry."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -2286,7 +2330,15 @@
      "content",
      "greedy"
     ],
-    "fame": 5
+    "fame": 5,
+    "origin": {
+     "ja": "カルタゴの有力者で、傭兵戦争ではアフリカで軍を率いた。バルカ家と対立する派の頭で、元老院で[[p:ハンニバル]]の戦争に反対した (リウィウス)。",
+     "en": "A leading man of Carthage who commanded in Africa in the Mercenary War. Head of the party opposed to the Barcids, he spoke against [[p:ハンニバル|Hannibal]]'s war in the senate (Livy)."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -2307,6 +2359,10 @@
     "origin": {
      "ja": "ギスコの子。娘ソフォニスバをヌミディアの王[[p:シュファクス]]に嫁がせ、カルタゴの味方に引き入れた。",
      "en": "Son of Gisco. He married his daughter Sophonisba to the Numidian king [[p:シュファクス|Syphax]] to bind him to Carthage."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -2328,6 +2384,10 @@
     "origin": {
      "ja": "スフェス (カルタゴの最高の官) ボミルカルの子 (ポリュビオス)。ハンニバルの甥ともいわれる。",
      "en": "Son of Bomilcar the suffete (Polybius); said by some to be Hannibal's nephew."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -2359,7 +2419,15 @@
     ],
     "fame": 6,
     "end": "suicide",
-    "dm": 4
+    "dm": 4,
+    "origin": {
+     "ja": "カルタゴの将[[p:ハスドルバル・ギスコ]]の娘。父はヌミディア王[[p:シュファクス]]をカルタゴ方に引き入れるため、彼女を嫁がせた。はじめ[[p:マシニッサ]]と婚約していたとアッピアノスは伝える。",
+     "en": "Daughter of the Carthaginian general [[p:ハスドルバル・ギスコ|Hasdrubal son of Gisco]], who married her to the Numidian king [[p:シュファクス|Syphax]] to win him for Carthage. Appian says she had first been promised to [[p:マシニッサ|Masinissa]]."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -2381,7 +2449,15 @@
      "genius",
      "builder"
     ],
-    "fame": 9
+    "fame": 9,
+    "origin": {
+     "ja": "シュラクサイの人で、天文学者ペイディアスの子 (本人の著作による)。[[p:ヒエロン2世]]の親族で友人だった (プルタルコス)。エジプトのアレクサンドリアで学んだと伝わる。",
+     "en": "A Syracusan, son of the astronomer Phidias (by his own writings). He was a kinsman and friend of [[p:ヒエロン2世|Hiero II]] (Plutarch), and is said to have studied at Alexandria in Egypt."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -2405,6 +2481,10 @@
     "origin": {
      "ja": "祖父がシュラクサイの人で、カルタゴで生まれ育った兄弟の兄 (母はカルタゴ人)。ハンニバルに仕え、使者としてシュラクサイに送られた。",
      "en": "Elder of two brothers born and raised in Carthage, of a Syracusan grandfather and a Carthaginian mother. He served Hannibal, who sent him as envoy to Syracuse."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -2426,6 +2506,10 @@
     "origin": {
      "ja": "祖父がシュラクサイの人で、カルタゴで生まれ育った兄弟の弟 (母はカルタゴ人)。兄の[[p:ヒッポクラテス]]とともにハンニバルに仕えた。",
      "en": "Younger of two brothers born and raised in Carthage, of a Syracusan grandfather and a Carthaginian mother; he served Hannibal with his brother [[p:ヒッポクラテス|Hippocrates]]."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -2451,6 +2535,10 @@
     "origin": {
      "ja": "アドリア海のファロス島のギリシア人。イリュリアの女王テウタに仕えたのちローマに寝返り、また背いてマケドニアへ逃れた。",
      "en": "A Greek of the island of Pharos in the Adriatic. He served the Illyrian queen Teuta, went over to Rome, then broke with Rome and fled to Macedon."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -2476,6 +2564,10 @@
     "origin": {
      "ja": "イベリアのイレルゲテス族の王。カルタゴとローマの間を何度も行き来した。",
      "en": "King of the Ilergetes of Iberia, who changed sides between Carthage and Rome more than once."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
     }
    }
   ],
@@ -2496,7 +2588,15 @@
     ],
     "tr": [
      "ambitious"
-    ]
+    ],
+    "origin": {
+     "ja": "カプアの名家の人で、民衆の支持を得て町を牛耳った。妻はローマの名門アッピウス・クラウディウスの娘で、娘をローマのリウィウス家に嫁がせていた (リウィウス)。",
+     "en": "A nobleman of Capua who ruled the city with the people behind him. His wife was a daughter of the Roman noble Appius Claudius, and he had married his own daughter to a Livius of Rome (Livy)."
+    },
+    "house": {
+     "ja": "カラウィウス",
+     "en": "Calavius"
+    }
    }
   ],
   [
@@ -2513,7 +2613,15 @@
      2,
      5,
      5
-    ]
+    ],
+    "origin": {
+     "ja": "ラケダイモン (スパルタ) のギリシア人。[[p:ハンニバル]]にギリシア語を教え、遠征に従ってその戦いを書き記したと伝わる。",
+     "en": "A Greek of Lacedaemon (Sparta). He is said to have taught [[p:ハンニバル|Hannibal]] Greek, and to have gone with him on campaign and written the history of his war."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -2531,7 +2639,15 @@
      1,
      6,
      7
-    ]
+    ],
+    "origin": {
+     "ja": "イベリアの有力な町カストゥロの出で、[[p:ハンニバル]]の妻 (リウィウス)。イミルケの名はのちの詩に見えるもので、名もそれ以上のことも確かではない。",
+     "en": "From Castulo, a strong city of Iberia; the wife of [[p:ハンニバル|Hannibal]] (Livy). The name Imilce comes from a later poem; neither it nor anything more about her is certain."
+    },
+    "house": {
+     "ja": "",
+     "en": ""
+    }
    }
   ],
   [
@@ -2549,7 +2665,15 @@
      1,
      6,
      7
-    ]
+    ],
+    "origin": {
+     "ja": "カンナエで戦死した執政官[[p:ルキウス・アエミリウス・パウッルス]]の娘で、[[p:プブリウス・コルネリウス・スキピオ]]の妻 (ポリュビオス)。グラックス兄弟の母コルネリアは娘。",
+     "en": "Daughter of the consul [[p:ルキウス・アエミリウス・パウッルス|Lucius Aemilius Paullus]], who fell at Cannae, and wife of [[p:プブリウス・コルネリウス・スキピオ|Scipio]] (Polybius). Cornelia, mother of the Gracchi, was her daughter."
+    },
+    "house": {
+     "ja": "アエミリウス",
+     "en": "Aemilius"
+    }
    }
   ]
  ],
