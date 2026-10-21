@@ -1678,6 +1678,16 @@
      }
     ],
     [
+     "劉備",
+     "Liu Bei",
+     194,
+     196,
+     {
+      "rel": "other",
+      "leaves": true
+     }
+    ],
+    [
      "呂布",
      "Lü Bu",
      196,
@@ -4663,6 +4673,63 @@
     "house": {
      "ja": "黄",
      "en": "Huang"
+    }
+   }
+  ],
+  [
+   "劉備",
+   "Liu Bei",
+   "han",
+   "general",
+   161,
+   223,
+   {
+    "from": 184,
+    "moves": [
+     [
+      191,
+      "gongsun"
+     ],
+     [
+      194,
+      "taoqian"
+     ],
+     [
+      198,
+      "cao"
+     ],
+     [
+      200,
+      "yuanshao"
+     ],
+     [
+      201,
+      "liubiao"
+     ],
+     [
+      209,
+      "shu"
+     ]
+    ],
+    "ab": [
+     7,
+     7,
+     7,
+     10
+    ],
+    "tr": [
+     "charismatic",
+     "kind",
+     "ambitious"
+    ],
+    "fame": 10,
+    "house": {
+     "ja": "劉",
+     "en": "Liu"
+    },
+    "origin": {
+     "ja": "涿郡涿県の人。前漢の景帝の子、中山靖王劉勝の末裔と称した。早く父を失い、母とともに草鞋を売り、むしろを織って暮らした。黄巾の乱で義勇兵を率いて身を起こした (『三国志』)。",
+     "en": "A man of Zhuo county in Zhuo commandery, who claimed descent from Liu Sheng, Prince Jing of Zhongshan, a son of Emperor Jing of Former Han. Fatherless early, he lived with his mother by selling straw sandals and weaving mats, and rose leading volunteers against the Yellow Turbans (Sanguozhi)."
     }
    }
   ]
