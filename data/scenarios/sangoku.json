@@ -1077,7 +1077,8 @@
        "brave",
        "warrior"
       ],
-      "born": 176
+      "born": 176,
+      "leaves": true
      }
     ]
    ],
@@ -1709,7 +1710,9 @@
        "warrior",
        "greedy"
       ],
-      "born": 161
+      "born": 161,
+      "end": "executed",
+      "dm": 12
      }
     ]
    ],
@@ -1802,7 +1805,8 @@
        "pious",
        "kind"
       ],
-      "born": 160
+      "born": 160,
+      "leaves": true
      }
     ]
    ],
@@ -4730,6 +4734,77 @@
     "origin": {
      "ja": "涿郡涿県の人。前漢の景帝の子、中山靖王劉勝の末裔と称した。早く父を失い、母とともに草鞋を売り、むしろを織って暮らした。黄巾の乱で義勇兵を率いて身を起こした (『三国志』)。",
      "en": "A man of Zhuo county in Zhuo commandery, who claimed descent from Liu Sheng, Prince Jing of Zhongshan, a son of Emperor Jing of Former Han. Fatherless early, he lived with his mother by selling straw sandals and weaving mats, and rose leading volunteers against the Yellow Turbans (Sanguozhi)."
+    }
+   }
+  ],
+  [
+   "馬超",
+   "Ma Chao",
+   "liang",
+   "general",
+   176,
+   222,
+   {
+    "from": 192,
+    "moves": [
+     [
+      214,
+      "shu"
+     ]
+    ],
+    "ab": [
+     4,
+     9,
+     4,
+     7
+    ],
+    "tr": [
+     "brave",
+     "warrior"
+    ],
+    "fame": 7,
+    "house": {
+     "ja": "馬",
+     "en": "Ma"
+    },
+    "origin": {
+     "ja": "扶風茂陵の人。後漢の伏波将軍馬援の子孫とされる馬騰の子。父が曹操に召されて都へ移ると、涼州に残ってその兵を率いた (『三国志』)。",
+     "en": "A man of Maoling in Fufeng, son of Ma Teng, held to descend from Ma Yuan, the Wave-Calming General of Later Han. When his father was summoned to the capital by Cao Cao, he stayed in Liang and led his troops (Sanguozhi)."
+    }
+   }
+  ],
+  [
+   "張魯",
+   "Zhang Lu",
+   "zhanglu",
+   "minister",
+   165,
+   216,
+   {
+    "from": 191,
+    "moves": [
+     [
+      215,
+      "cao"
+     ]
+    ],
+    "ab": [
+     6,
+     3,
+     5,
+     7
+    ],
+    "tr": [
+     "kind"
+    ],
+    "fame": 5,
+    "house": {
+     "ja": "張",
+     "en": "Zhang"
+    },
+    "origin": {
+     "ja": "沛国豊の人。祖父の張陵が蜀で開いた教えを、父の張衡を経て受け継ぎ、漢中で信者たちを治めた (『三国志』)。",
+     "en": "A man of Feng in Pei. He inherited, by way of his father Zhang Heng, the teaching his grandfather Zhang Ling had founded in Shu, and ruled its believers in Hanzhong (Sanguozhi)."
     }
    }
   ]
