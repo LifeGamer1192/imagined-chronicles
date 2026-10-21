@@ -5,7 +5,7 @@
   "en": "Spring and Autumn and Warring States"
  },
  "startYear": -721,
- "endYear": -220,
+ "endYear": -209,
  "box": {
   "lat": 34,
   "lng": 113.6,
@@ -8158,17 +8158,17 @@
      "ja": "晋の荀氏の人。のちに中行氏と呼ばれる家の祖。",
      "en": "Of the Xun clan of Jin, founder of the house later called Zhonghang."
     },
+    "house": {
+     "ja": "荀",
+     "en": "Xun"
+    },
     "offices": [
      [
       597,
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ],
-    "house": {
-     "ja": "荀",
-     "en": "Xun"
-    }
+    ]
    }
   ],
   [
@@ -8222,17 +8222,17 @@
      "ja": "晋の士氏の人。随・范に封じられて随会・范武子とも呼ばれ、のちの范氏の祖となった。一時は秦に身を寄せていた。",
      "en": "Of the Shi clan of Jin. Enfeoffed at Sui and Fan, he was also called Sui Hui or Fan Wuzi, and founded the later house of Fan. For a time he lived in exile in Qin."
     },
+    "house": {
+     "ja": "士",
+     "en": "Shi"
+    },
     "offices": [
      [
       593,
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ],
-    "house": {
-     "ja": "士",
-     "en": "Shi"
-    }
+    ]
    }
   ],
   [
@@ -8931,17 +8931,17 @@
      "ja": "晋の郤氏の人 (郤缺の子)。斉に使いしたとき体の障り (片目とも背の曲がりとも伝わる) を笑われ、その恨みが鞍の戦いにつながった。",
      "en": "Of the Xi clan of Jin, son of Xi Que. Mocked for a deformity (one eye, or a hunched back, by different accounts) on an embassy to Qi, he never forgave it — a grudge that led to the battle of An."
     },
+    "house": {
+     "ja": "郤",
+     "en": "Xi"
+    },
     "offices": [
      [
       592,
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ],
-    "house": {
-     "ja": "郤",
-     "en": "Xi"
-    }
+    ]
    }
   ],
   [
@@ -8967,17 +8967,17 @@
      "ja": "晋の韓氏の人。のちに晋を三つに分けて戦国の韓を建てる家の祖。",
      "en": "Of the Han clan of Jin — forebear of the house that would split Jin and found the Warring State of Han."
     },
+    "house": {
+     "ja": "韓",
+     "en": "Han"
+    },
     "offices": [
      [
       573,
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ],
-    "house": {
-     "ja": "韓",
-     "en": "Han"
-    }
+    ]
    }
   ],
   [
@@ -9002,17 +9002,17 @@
      "ja": "晋の欒氏の人で、[[p:欒枝]]の孫。",
      "en": "Of the Luan clan of Jin, grandson of [[p:欒枝|Luan Zhi]]."
     },
+    "house": {
+     "ja": "欒",
+     "en": "Luan"
+    },
     "offices": [
      [
       587,
       "中軍の将",
       "Commander of the Central Army"
      ]
-    ],
-    "house": {
-     "ja": "欒",
-     "en": "Luan"
-    }
+    ]
    }
   ],
   [
@@ -9037,17 +9037,17 @@
      "ja": "楚の王族で、穆王の子 (公子側)。",
      "en": "A prince of Chu, son of King Mu (Prince Ce)."
     },
+    "house": {
+     "ja": "羋",
+     "en": "Mi"
+    },
     "offices": [
      [
       597,
       "司馬",
       "Marshal"
      ]
-    ],
-    "house": {
-     "ja": "羋",
-     "en": "Mi"
-    }
+    ]
    }
   ],
   [
@@ -10188,17 +10188,17 @@
      "ja": "秦の恵文王の異母弟。樗里に住んだので樗里子と呼ばれた。知恵が多く、秦の人は「智嚢 (知恵袋)」と呼んだ。",
      "en": "Half-brother of King Huiwen of Qin, called Chuli Zi after Chuli, where he lived. So clever that the people of Qin called him \"the bag of wisdom\"."
     },
+    "house": {
+     "ja": "嬴",
+     "en": "Ying"
+    },
     "offices": [
      [
       309,
       "右丞相",
       "Chancellor of the Right"
      ]
-    ],
-    "house": {
-     "ja": "嬴",
-     "en": "Ying"
-    }
+    ]
    }
   ],
   [
@@ -10226,17 +10226,17 @@
      "ja": "下蔡の人。史挙に学び、[[p:張儀]]・[[p:樗里疾]]の推挙で恵王に会って秦に仕えた。",
      "en": "A man of Xiacai. He studied under Shi Ju and, recommended by [[p:張儀|Zhang Yi]] and [[p:樗里疾|Chuli Ji]], met King Hui and served Qin."
     },
+    "house": {
+     "ja": "甘",
+     "en": "Gan"
+    },
     "offices": [
      [
       309,
       "左丞相",
       "Chancellor of the Left"
      ]
-    ],
-    "house": {
-     "ja": "甘",
-     "en": "Gan"
-    }
+    ]
    }
   ],
   [
@@ -11673,6 +11673,128 @@
     "house": {
      "ja": "司馬",
      "en": "Sima"
+    }
+   }
+  ],
+  [
+   "扶蘇",
+   "Fusu",
+   "qin",
+   "minister",
+   242,
+   210,
+   {
+    "from": 220,
+    "ab": [
+     7,
+     5,
+     6,
+     8
+    ],
+    "tr": [
+     "kind",
+     "just"
+    ],
+    "parents": [
+     "qin:秦王政"
+    ],
+    "end": "suicide",
+    "dm": 8,
+    "house": {
+     "ja": "嬴",
+     "en": "Ying"
+    },
+    "origin": {
+     "ja": "[[p:秦王政]]の長子。焚書坑儒を諫めて父の怒りを買い、北の上郡の[[p:蒙恬]]の軍の監督に送られた (『史記』)。",
+     "en": "Eldest son of [[p:秦王政|King Zheng]]. He remonstrated against the burning of books and the burying of scholars, angered his father, and was sent north to oversee [[p:蒙恬|Meng Tian]]'s army at Shangjun (Shiji)."
+    }
+   }
+  ],
+  [
+   "蒙毅",
+   "Meng Yi",
+   "qin",
+   "minister",
+   255,
+   210,
+   {
+    "from": 220,
+    "ab": [
+     7,
+     4,
+     6,
+     6
+    ],
+    "tr": [
+     "just"
+    ],
+    "end": "executed",
+    "dm": 10,
+    "house": {
+     "ja": "蒙",
+     "en": "Meng"
+    },
+    "origin": {
+     "ja": "斉から秦へ来た[[p:蒙驁]]の孫で、[[p:蒙武]]の子、[[p:蒙恬]]の弟。上卿として始皇帝のそば近くに仕え、兄は外を、弟は内を任された (『史記』蒙恬列伝)。",
+     "en": "Grandson of [[p:蒙驁|Meng Ao]], who had come to Qin from Qi; son of [[p:蒙武|Meng Wu]] and brother of [[p:蒙恬|Meng Tian]]. A high minister close to the First Emperor: the elder brother held the frontier, the younger the court (Shiji, Biography of Meng Tian)."
+    }
+   }
+  ],
+  [
+   "趙高",
+   "Zhao Gao",
+   "qin",
+   "minister",
+   258,
+   207,
+   {
+    "from": 220,
+    "ab": [
+     6,
+     2,
+     7,
+     4
+    ],
+    "tr": [
+     "ambitious",
+     "cruel"
+    ],
+    "end": "executed",
+    "house": {
+     "ja": "趙",
+     "en": "Zhao"
+    },
+    "origin": {
+     "ja": "趙の王族の遠い一族とされる。兄弟はみな「隠宮」に生まれ、母は刑を受けた (『史記』蒙恬列伝)。獄の法に通じて秦王に取り立てられ、中車府令として末子の胡亥に法を教えた。",
+     "en": "Said to be a distant kinsman of the Zhao royal house. He and his brothers were all born in the \"hidden palace\", their mother having been punished (Shiji, Biography of Meng Tian). Learned in the law, he was taken up by the King of Qin and, as keeper of the palace carriages, taught the law to the youngest son, Huhai."
+    }
+   }
+  ],
+  [
+   "徐福",
+   "Xu Fu",
+   "qin",
+   "scholar",
+   255,
+   200,
+   {
+    "from": 219,
+    "ab": [
+     4,
+     1,
+     6,
+     7
+    ],
+    "tr": [
+     "charismatic"
+    ],
+    "house": {
+     "ja": "徐",
+     "en": "Xu"
+    },
+    "origin": {
+     "ja": "斉の方士 (『史記』は徐市と書く)。東の海に蓬莱など三つの神山があると上書し、不老不死の薬を求めて童男童女数千人とともに船出した。",
+     "en": "A master of the arts of Qi (the Shiji writes Xu Shi). He wrote that three holy mountains such as Penglai lay in the eastern sea, and sailed with thousands of boys and girls to seek the elixir of life."
     }
    }
   ]
@@ -18349,28 +18471,6 @@
    ]
   },
   {
-   "id": "shaqiu",
-   "y": 295,
-   "need": [
-    "zhao"
-   ],
-   "do": [
-    [
-     "add",
-     "zhao",
-     "stability",
-     -0.15
-    ]
-   ],
-   "at": "handan",
-   "imp": 2,
-   "ja": "{n_zhao}で、位を譲った主父 ([[p:武霊王]]) の長子章が乱を起こして敗れ、主父の宮に逃げ込んだ。[[p:公子成]]と李兌は宮を三か月囲み、主父は雀の雛を食べて飢えをしのいだが、沙丘の宮で餓死した。",
-   "en": "In {n_zhao} the eldest son of the retired Father of the Lord ([[p:武霊王|King Wuling]]) rose, failed and fled into his father's palace at Shaqiu. [[p:公子成|Prince Cheng]] and Li Dui kept the palace shut for three months; the old king ate fledgling sparrows, and starved to death.",
-   "src": [
-    "shiji:趙世家|House of Zhao"
-   ]
-  },
-  {
    "id": "yique",
    "y": 293,
    "need": [
@@ -19353,12 +19453,17 @@
      [
       "zhaoge"
      ]
+    ],
+    [
+     "vassal",
+     "qin",
+     "wey"
     ]
    ],
    "at": "zhaoge",
    "imp": 1,
-   "ja": "{n_qin}は朝歌を抜き、衛の[[p:君角]]を野王へ移した。",
-   "en": "{n_qin} took Zhaoge and moved Jue, Lord of Wey, to Yewang.",
+   "ja": "{n_qin}は朝歌を抜き、衛の[[p:君角]]を野王へ移した。衛は秦に従う小さな君の家として残され、天下統一ののちも、二世皇帝の代まで祭祀を保った。",
+   "en": "{n_qin} took Zhaoge and moved Jue, Lord of Wey, to Yewang. Wey was left standing as a small house under Qin, and kept its ancestral rites past the unification, into the Second Emperor's reign.",
    "src": [
     "shiji:秦本紀|Basic Annals of Qin"
    ]
@@ -19937,6 +20042,286 @@
    "en": "All under heaven was one. Finding \"king\" too small a word, {r_qin} took the title huangdi — emperor — and called himself the First Emperor. [[a:qin_unify|Weights, measures, script and axle widths were made one]], and the realm was divided into thirty-six commanderies.",
    "src": [
     "shiji:秦始皇本紀|Basic Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "qin_unify_measures",
+   "y": 221,
+   "m": 9,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     0.1
+    ],
+    [
+     "add",
+     "qin",
+     "tech",
+     0.2
+    ]
+   ],
+   "imp": 3,
+   "ja": "{r_qin}は諸侯の封建をやめ、天下を三十六の郡に分けて、守・尉・監を置いた (郡県制)。度量衡・車の軌の幅・文字を一つにそろえ、天下の武器を集めて咸陽で溶かし、十二の金人を鋳た。",
+   "en": "{r_qin} did away with fiefs for lords and divided the realm into thirty-six commanderies, each with a governor, a commandant and an inspector. Weights and measures, the gauge of cart axles and the script were made one; the weapons of the realm were gathered at Xianyang, melted down and cast into twelve bronze giants.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "qin_highways",
+   "y": 220,
+   "m": 6,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     0.05
+    ]
+   ],
+   "imp": 2,
+   "ja": "{r_qin}は西の隴西・北地を巡り、天下に馳道 (皇帝の車の通る大道) を通した。",
+   "en": "{r_qin} toured Longxi and Beidi in the west, and had imperial highways laid across the realm.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "qin_taishan",
+   "y": 219,
+   "m": 4,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "prestige",
+     10
+    ]
+   ],
+   "imp": 3,
+   "ja": "{r_qin}は東方を巡り、泰山に登って天を祭る封禅の儀を行い、山上に石を立てて秦の徳を刻ませた。下山の途中で嵐に遭い、松の木の下で雨を避けたので、その松に五大夫の爵を与えたという。",
+   "en": "{r_qin} toured the east, climbed Mount Tai to perform the feng and shan sacrifices to Heaven and Earth, and set up a stone on the summit carved with the virtues of Qin. Caught by a storm on the way down, he sheltered under a pine, and, it is said, made the tree a grandee of the fifth rank.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "xu_fu",
+   "y": 219,
+   "m": 8,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [],
+   "imp": 2,
+   "ja": "琅邪に滞在した{r_qin}に、斉の[[p:徐福]]が「東の海に蓬莱・方丈・瀛洲の三つの神山があり、仙人が住む」と上書した。始皇帝は童男童女数千人を与えて、不老不死の薬を求めに船出させた。",
+   "en": "At Langya, [[p:徐福|Xu Fu]] of Qi wrote to {r_qin} that in the eastern sea lay three holy mountains — Penglai, Fangzhang and Yingzhou — where immortals lived. The emperor gave him thousands of boys and girls and sent him to sea to seek the elixir of life.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "bolangsha",
+   "y": 218,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.05
+    ]
+   ],
+   "imp": 3,
+   "ja": "博浪沙の狙撃。東方を巡る{r_qin}の車列を、韓の宰相の家に生まれた張良が雇った力士が、百二十斤の鉄槌で襲った。槌は従う車に当たり、始皇帝は無事だった。天下に十日の大捜索が行われたが、張良は名を変えて下邳に逃れた。",
+   "en": "The ambush at Bolangsha. As {r_qin} toured the east, a strongman hired by Zhang Liang — born to a family of Han chancellors — hurled a 120-catty iron mallet at the procession. It struck an escort carriage and the emperor was unhurt. The realm was searched for ten days, but Zhang Liang changed his name and escaped to Xiapi.",
+   "src": [
+    "shiji:留侯世家|House of the Marquis of Liu",
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "hu_prophecy",
+   "y": 215,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "prestige",
+     5
+    ]
+   ],
+   "imp": 2,
+   "ja": "碣石を巡った{r_qin}のもとに、海から戻った燕の方士盧生が「秦を亡ぼす者は胡なり」と記した図録を献じた。始皇帝は将軍[[p:蒙恬]]に三十万の兵を与えて北の匈奴を討たせた。",
+   "en": "At Jieshi, the master of arts Lu Sheng of Yan, back from the sea, presented {r_qin} with a prophecy book saying \"the one who destroys Qin is Hu\". The emperor gave General [[p:蒙恬|Meng Tian]] three hundred thousand men to strike the Xiongnu in the north.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "great_wall",
+   "y": 214,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "prestige",
+     10
+    ],
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.05
+    ]
+   ],
+   "imp": 3,
+   "ja": "[[p:蒙恬]]は匈奴を黄河の南 (河南の地) から追い払って四十四の県を置き、戦国の諸国の長城をつないで、臨洮から遼東まで一万余里に及ぶ長城を築いた。南では、陸梁の地を攻めて桂林・象郡・南海の三郡を置いた。",
+   "en": "[[p:蒙恬|Meng Tian]] drove the Xiongnu out of the land south of the Yellow River, set up forty-four counties there, and joined the walls of the old states into a long wall running more than ten thousand li from Lintao to Liaodong. In the south, the lands of Luliang were conquered and made the three commanderies of Guilin, Xiang and Nanhai.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor",
+    "shiji:蒙恬列伝|Biography of Meng Tian"
+   ]
+  },
+  {
+   "id": "burning_books",
+   "y": 213,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.05
+    ]
+   ],
+   "imp": 3,
+   "ja": "焚書。丞相の[[p:李斯]]は「学者が古を引いて今を謗る」と説き、秦の記録と医薬・卜筮・農事の書のほかは、民の持つ『詩』『書』や諸子百家の書をことごとく焼かせた。",
+   "en": "The burning of the books. Chancellor [[p:李斯|Li Si]] argued that scholars used the past to slander the present; except the records of Qin and books of medicine, divination and farming, the Odes, the Documents and the writings of the hundred schools held by the people were all burned.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor",
+    "shiji:李斯列伝|Biography of Li Si"
+   ]
+  },
+  {
+   "id": "burying_scholars",
+   "y": 212,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.1
+    ]
+   ],
+   "imp": 3,
+   "ja": "坑儒。不老不死の薬を探していた方士の侯生・盧生が始皇帝を謗って逃げると、始皇帝は咸陽の学者たちを取り調べ、禁を犯した四百六十余人を穴に埋めた。長子の[[p:扶蘇]]が諫めると、怒った始皇帝は扶蘇を北の上郡の[[p:蒙恬]]の軍へ送った。この年、阿房宮と、九原へまっすぐ通じる直道の工事が始まった。",
+   "en": "The burying of the scholars. When the masters of arts Hou Sheng and Lu Sheng, sent to find the elixir, spoke ill of the emperor and fled, the emperor had the scholars of Xianyang examined and buried alive over four hundred and sixty who had broken the bans. When his eldest son [[p:扶蘇|Fusu]] protested, the angry emperor sent him north to [[p:蒙恬|Meng Tian]]'s army at Shangjun. That year work began on the Epang palace and on the Straight Road to Jiuyuan.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "meteor",
+   "y": 211,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.05
+    ]
+   ],
+   "imp": 2,
+   "ja": "東郡に隕石が落ち、何者かがその石に「始皇帝死して地分かる」と刻んだ。始皇帝は誰が刻んだか突き止められず、石のそばに住む者をことごとく殺し、石を焼き砕かせた。",
+   "en": "A meteorite fell in Dongjun, and someone carved on it: \"The First Emperor will die and the land be divided.\" Unable to find who had done it, the emperor had everyone living near the stone put to death and the stone burned and broken.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor"
+   ]
+  },
+  {
+   "id": "shaqiu",
+   "y": 210,
+   "m": 7,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.2
+    ]
+   ],
+   "imp": 3,
+   "ja": "沙丘の変。五度目の巡行の途中、始皇帝は沙丘の平台で病死した。[[p:趙高]]は丞相の[[p:李斯]]と末子の胡亥を説き伏せ、死を伏せたまま遺詔を偽って胡亥を跡継ぎとし、[[p:扶蘇]]と[[p:蒙恬]]に死を賜う詔を送った。夏の暑さで遺体が臭ったので、鮑魚 (塩漬けの魚) を車に積んでごまかしたという。",
+   "en": "The plot at Shaqiu. On his fifth tour the First Emperor fell ill and died at Pingtai in Shaqiu. [[p:趙高|Zhao Gao]] talked Chancellor [[p:李斯|Li Si]] and the youngest son Huhai round; keeping the death secret, they forged the emperor's will to make Huhai heir and sent an edict ordering [[p:扶蘇|Fusu]] and [[p:蒙恬|Meng Tian]] to die. In the summer heat the body began to smell, and, it is said, a cart of salted fish was brought along to hide it.",
+   "src": [
+    "shiji:秦始皇本紀|Annals of the First Emperor",
+    "shiji:李斯列伝|Biography of Li Si"
+   ]
+  },
+  {
+   "id": "fusu_death",
+   "y": 210,
+   "m": 8,
+   "need": [
+    "qin"
+   ],
+   "at": "xianyang",
+   "do": [
+    [
+     "add",
+     "qin",
+     "stability",
+     -0.1
+    ]
+   ],
+   "imp": 3,
+   "ja": "偽の詔を受けた[[p:扶蘇]]は、[[p:蒙恬]]が「一度確かめてから」と止めるのも聞かず、「父が子に死を賜うのに、なぜ確かめることがあろう」と言って自ら命を絶った。蒙恬は従わずに捕らえられ、のちに毒を仰いだ。弟の[[p:蒙毅]]も殺された。胡亥が二世皇帝として立った。",
+   "en": "Receiving the forged edict, [[p:扶蘇|Fusu]] would not listen when [[p:蒙恬|Meng Tian]] begged him to ask again first: \"When a father orders his son to die, what is there to ask?\" — and he took his own life. Meng Tian refused, was arrested, and later took poison; his brother [[p:蒙毅|Meng Yi]] was also put to death. Huhai took the throne as the Second Emperor.",
+   "src": [
+    "shiji:李斯列伝|Biography of Li Si",
+    "shiji:蒙恬列伝|Biography of Meng Tian"
    ]
   }
  ],
@@ -24776,6 +25161,34 @@
    "id": "rite_dispute",
    "ja": "{nation}の朝廷で、礼のしきたりに背いた振る舞いが咎められた。",
    "en": "At the court of {nation} conduct against the rites was rebuked."
+  },
+  {
+   "id": "qin_e_half_liang",
+   "ja": "{capital}の市では、どこでも同じ半両銭が使われるようになった。",
+   "en": "In the market of {capital} the same half-liang coins were now used everywhere.",
+   "from": 220,
+   "to": 210
+  },
+  {
+   "id": "qin_e_corvee",
+   "ja": "{nation}の各地から、長城や宮殿を築く人夫と刑徒が送られていった。",
+   "en": "From every corner of {nation} labourers and convicts were sent off to build the wall and the palaces.",
+   "from": 220,
+   "to": 210
+  },
+  {
+   "id": "qin_e_script",
+   "ja": "{nation}の役所の文書は、どこでも同じ小篆と隷書で書かれるようになった。",
+   "en": "In the offices of {nation} documents were now written everywhere in the same small seal and clerical scripts.",
+   "from": 220,
+   "to": 210
+  },
+  {
+   "id": "qin_e_measures",
+   "ja": "{nation}の市に、皇帝の詔を刻んだ升と分銅が配られた。",
+   "en": "Measures and weights inscribed with the emperor's edict were handed out to the markets of {nation}.",
+   "from": 220,
+   "to": 210
   }
  ],
  "ages": [
@@ -24791,6 +25204,13 @@
    {
     "ja": "戦国時代",
     "en": "the Warring States period"
+   }
+  ],
+  [
+   221,
+   {
+    "ja": "秦の時代",
+    "en": "the age of the Qin empire"
    }
   ]
  ],
@@ -25603,5 +26023,13 @@
    "glyph": "elephant",
    "place": "front"
   }
- ]
+ ],
+ "next": {
+  "id": "sokan",
+  "name": {
+   "ja": "項羽と劉邦",
+   "en": "Xiang Yu and Liu Bang"
+  },
+  "from": 209
+ }
 }
